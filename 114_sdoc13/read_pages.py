@@ -160,7 +160,7 @@ def process_data_lines(page_num, data_lines):
                 last_line_data_index = None
 
             elif (found_data_missing_date):
-                print "**found missing date line"
+                print("**found missing date line")
                 results = list(found_data_missing_date.groups())
                 result_formatted = ['missing date line', False, page_num, results[0], results[1], results[2], '', '', results[3], results[4]]
                 return_data.append(result_formatted)
@@ -203,7 +203,7 @@ def process_data_lines(page_num, data_lines):
 
 
                 else:
-                    print "missing <" + data_line + ">"
+                    print("missing <" + data_line + ">")
                     missing_data.append({'data':data_line, 'offset':return_data_index,'page_num':page_num })
 
     #if one_part_continuation_register:
@@ -231,7 +231,7 @@ def read_pages(start_page, end_page, out_file='senate_data.csv', missing_file='m
     page_file_unfilled = "pages/layout_%s.txt"
     header_index_hash = {}
 
-    csvfile = open(out_file, 'wb')
+    csvfile = open(out_file, 'w', newline='')
     datawriter = csv.writer(csvfile)
     current_description = None
     description = None
@@ -243,7 +243,7 @@ def read_pages(start_page, end_page, out_file='senate_data.csv', missing_file='m
         # random blank page
         #if page == 1884 or page == 2068:
         #    continue
-        print "Processing page %s" % page
+        print(f"Processing page {page}")
         filename = page_file_unfilled % (page)
         fh = open(filename, 'r')
         page_array = []
@@ -293,4 +293,4 @@ def read_pages(start_page, end_page, out_file='senate_data.csv', missing_file='m
     missing_data_file.write(']\n')
 
     for k, v in sorted(header_index_hash.items()):
-        print k,v
+        print(k, v)
