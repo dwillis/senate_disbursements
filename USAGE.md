@@ -182,27 +182,69 @@ If `pdftotext` isn't working:
 2. Test manually: `pdftotext -f 1 -l 1 -layout yourfile.pdf test.txt`
 3. Check PDF isn't corrupted: `pdfinfo yourfile.pdf`
 
-## Example Workflow
+## Downloading Senate Reports
+
+### Option 1: Automated Download (Recommended)
+
+Use the `download_reports.py` script to automatically download reports from govinfo.gov:
 
 ```bash
-# 1. Download new Senate disbursement PDF
-wget https://www.senate.gov/.../GPO-CDOC-115sdoc1.pdf
+# Download a specific report
+python3 download_reports.py --doc 118sdoc13
 
-# 2. Create directory for it
-mkdir 115_sdoc1
-mv GPO-CDOC-115sdoc1.pdf 115_sdoc1/
+# Download multiple reports
+python3 download_reports.py --doc 118sdoc13 117sdoc10 114sdoc4
 
-# 3. Open PDF and identify page range (say pages 20-2500)
+# List of known report IDs (as of 2025):
+# 118sdoc13, 118sdoc11, 118sdoc2  (118th Congress)
+# 117sdoc10, 117sdoc2             (117th Congress)
+# 116sdoc19, 116sdoc10, 116sdoc2  (116th Congress)
+# 115sdoc20, 115sdoc7             (115th Congress)
+# 114sdoc13, 114sdoc7, 114sdoc4   (114th Congress)
+# 113sdoc25, 113sdoc22, 113sdoc17, 113sdoc2
+# 112sdoc10, 112sdoc7, 112sdoc4
+```
 
-# 4. Process the PDF
-python3 process_senate_disbursements.py 115_sdoc1/GPO-CDOC-115sdoc1.pdf --start 20 --end 2500
+### Option 2: Manual Download
 
-# 5. Check outputs
-head 115_sdoc1/senate_data_cleaned.csv
-wc -l 115_sdoc1/senate_data_cleaned.csv
+If automated download fails (e.g., due to network restrictions), generate wget commands:
 
-# 6. Review any missing data
-less 115_sdoc1/missing_data.json
+```bash
+# Generate download commands
+python3 download_reports.py --doc 118sdoc13 --generate-commands
+
+# This outputs wget commands you can copy and run manually:
+# mkdir -p 118sdoc13
+# wget -nc -P 118sdoc13 https://www.govinfo.gov/content/pkg/GPO-CDOC-118sdoc13/pdf/GPO-CDOC-118sdoc13-1.pdf
+# etc.
+```
+
+### Option 3: Direct Manual Download
+
+1. Visit https://www.govinfo.gov/app/collection/cdoc
+2. Find the report you want (search for "Senate" and the period)
+3. Download the PDF(s)
+4. Create a directory named after the doc ID (e.g., `118sdoc13`)
+5. Move the PDF(s) into that directory
+
+## Example Complete Workflow
+
+```bash
+# 1. Download a Senate disbursement report
+python3 download_reports.py --doc 118sdoc13
+
+# 2. Open the PDF and identify the page range where itemizations appear
+# (Look for pages with detailed line items, document numbers, dates, payees)
+
+# 3. Process the PDF (example: pages 20-2500)
+python3 process_senate_disbursements.py 118sdoc13/GPO-CDOC-118SDOC13-1.pdf --start 20 --end 2500
+
+# 4. Check outputs
+head -20 118sdoc13/senate_data_cleaned.csv
+wc -l 118sdoc13/senate_data_cleaned.csv
+
+# 5. Review any missing data
+less 118sdoc13/missing_data.json
 ```
 
 ## Changes from Original Version
