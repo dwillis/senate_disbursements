@@ -3,7 +3,7 @@
 Download Senate Disbursement Reports
 
 Downloads full Senate disbursement reports from govinfo.gov
-and organizes them using the existing directory convention (e.g., 114_sdoc13/).
+and organizes them in the data/ directory (e.g., data/114_sdoc13/).
 
 The reports are available at: https://www.govinfo.gov/app/collection/cdoc
 
@@ -221,7 +221,7 @@ def download_report(doc_id, dry_run=False):
         int: Number of files successfully downloaded
     """
     doc_id = doc_id.lower().strip()
-    directory = doc_id
+    directory = os.path.join('data', doc_id)
 
     # Create directory if it doesn't exist
     if not dry_run:
@@ -360,7 +360,7 @@ For more reports, visit: https://www.govinfo.gov/app/collection/cdoc
         print("\n# Copy and paste these commands to download reports:\n")
         for doc_id in doc_ids:
             doc_id_lower = doc_id.lower()
-            directory = doc_id_lower
+            directory = os.path.join('data', doc_id_lower)
             print(f"# {doc_id.upper()}")
             print(f"mkdir -p {directory}")
             for i in ['', '-1', '-2', '-3']:
@@ -369,7 +369,7 @@ For more reports, visit: https://www.govinfo.gov/app/collection/cdoc
                 print(f"wget -nc -P {directory} {url}  # Use -nc to skip if already downloaded")
             print()
         print("\n# After downloading, process with:")
-        print(f"# python3 process_senate_disbursements.py <doc_id>/GPO-CDOC-<DOC_ID>.pdf --start XX --end YY")
+        print(f"# python3 process_senate_disbursements.py data/<doc_id>/GPO-CDOC-<DOC_ID>.pdf --start XX --end YY")
         return 0
 
     if args.dry_run:
@@ -391,7 +391,7 @@ For more reports, visit: https://www.govinfo.gov/app/collection/cdoc
     print("\nNext steps:")
     print("  1. Process the PDFs using: python3 process_senate_disbursements.py")
     print("  2. Check the PDF to find the correct page range")
-    print("  3. Example: python3 process_senate_disbursements.py 118sdoc13/GPO-CDOC-118SDOC13.pdf --start 20 --end 2500")
+    print("  3. Example: python3 process_senate_disbursements.py data/118sdoc13/GPO-CDOC-118SDOC13.pdf --start 20 --end 2500")
 
     return 0
 
