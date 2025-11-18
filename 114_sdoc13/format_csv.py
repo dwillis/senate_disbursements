@@ -8,7 +8,7 @@ CONGRESS_NUMBER = re.compile(r'\((\d+)TH\)')
 
 def format_csv(source_doc, csv_file='senate_data.csv', cleaned_file='senate_data_cleaned.csv'):
     unclean_data_reader = csv.reader(open(csv_file, 'r'))
-    cleaned_data_writer = csv.writer(open(cleaned_file, 'wb'))
+    cleaned_data_writer = csv.writer(open(cleaned_file, 'w', newline=''))
     cleaned_data_writer.writerow(["This data was parsed on an experimental basis by the Sunlight Foundation from Senate disbursement reports. Please cite 'The Sunlight Foundation' in any usage.  For more information see the readme at http://assets-reporting.s3.amazonaws.com/1.0/senate_disbursements/readme.txt."])
     cleaned_data_writer.writerow(['source_doc','senator_flag','senator_name', 'raw office',	'funding_year', 'fiscal_year', 'congress_number', 'reference_page', 'document_number',	'date_posted', 'start_date', 'end_date', 'description',	'salary_flag', 'amount', 'payee'])
     for line in unclean_data_reader:
