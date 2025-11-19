@@ -27,6 +27,13 @@ import csv
 import json
 from pathlib import Path
 
+# Import bioguide matcher for adding bioguide IDs to senator records
+try:
+    from bioguide_matcher import BioguideIdMatcher
+except ImportError:
+    print("Warning: bioguide_matcher.py not found. Bioguide IDs will not be added.")
+    BioguideIdMatcher = None
+
 
 # Regular expressions for parsing
 header_end = re.compile(r"\s+START\s+END\s+")
@@ -283,9 +290,20 @@ def parse_pages(start_page, end_page, pages_dir="pages", out_file='senate_data.c
         print(f"  {k}: {v}")
 
 
-def clean_csv(source_doc, csv_file='senate_data.csv', cleaned_file='senate_data_cleaned.csv'):
+def clean_csv(source_doc, csv_file='senate_data.csv', cleaned_file='senate_data_cleaned.csv', add_bioguide_ids=True):
     """Clean and reformat the CSV file."""
     print(f"\n=== Cleaning CSV data ===")
+
+    # Initialize bioguide matcher if available and requested
+    bioguide_matcher = None
+    if add_bioguide_ids and BioguideIdMatcher:
+        try:
+            bioguide_matcher = BioguideIdMatcher()
+        except Exception as e:
+            print(f"Warning: Could not initialize bioguide matcher: {e}")
+            print("Continuing without bioguide IDs...")
+    elif add_bioguide_ids:
+        print("Warning: BioguideIdMatcher not available. Skipping bioguide ID matching.")
 
     with open(csv_file, 'r') as in_file:
         unclean_data_reader = csv.reader(in_file)
@@ -300,7 +318,7 @@ def clean_csv(source_doc, csv_file='senate_data.csv', cleaned_file='senate_data_
                 "For more information see the readme at http://assets-reporting.s3.amazonaws.com/1.0/senate_disbursements/readme.txt."
             ])
             cleaned_data_writer.writerow([
-                'source_doc', 'senator_flag', 'senator_name', 'raw office', 'funding_year', 'fiscal_year',
+                'source_doc', 'senator_flag', 'senator_name', 'bioguide_id', 'raw_office', 'funding_year', 'fiscal_year',
                 'congress_number', 'reference_page', 'document_number', 'date_posted', 'start_date',
                 'end_date', 'description', 'salary_flag', 'amount', 'payee'
             ])
@@ -337,8 +355,15 @@ def clean_csv(source_doc, csv_file='senate_data.csv', cleaned_file='senate_data_
 
                 salary_flag = 0 if start_date == '' and end_date == '' else 1
 
+                # Get bioguide ID for senators
+                bioguide_id = ''
+                if bioguide_matcher and senator_flag and senator_name:
+                    # Use funding_year if available, otherwise fiscal_year
+                    year = funding_year if funding_year else fiscal_year
+                    bioguide_id = bioguide_matcher.get_bioguide_id(senator_name, year)
+
                 cleaned_data_writer.writerow([
-                    source_doc, senator_flag, senator_name, raw_office, funding_year,
+                    source_doc, senator_flag, senator_name, bioguide_id, raw_office, funding_year,
                     fiscal_year, congress_number, reference_page, document_number, date_posted,
                     start_date, end_date, description, salary_flag, amount, payee
                 ])
