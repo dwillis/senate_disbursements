@@ -10,9 +10,17 @@ to CSV files, identifying:
 - Timeframe
 - Other metadata
 
+Supports both older (113-114 Congress) and newer (118+ Congress) document formats:
+- Older format: Strict column spacing with required fields
+- Newer format: Flexible spacing with optional dates/amounts
+
+The parser automatically detects and handles both formats using a fallback pattern
+matching approach.
+
 Usage:
     python3 process_senate_disbursements.py <pdf_file> --start <start_page> --end <end_page>
     python3 process_senate_disbursements.py GPO-CDOC-114sdoc13.pdf --start 18 --end 2264
+    python3 process_senate_disbursements.py GPO-CDOC-118sdoc13.pdf --start 24 --end 591
 
 Or use the interactive mode:
     python3 process_senate_disbursements.py <pdf_file>
@@ -37,15 +45,47 @@ except ImportError:
 
 # Regular expressions for parsing
 header_end = re.compile(r"\s+START\s+END\s+")
+
+# Original patterns for older format documents (113-114 Congress)
 five_data_re = re.compile(r"\s*([\w\d]+)\s+(\d\d/\d\d/\d\d\d\d)\s+(.*?)\s+(\d\d/\d\d/\d\d\d\d)\s+(\d\d/\d\d/\d\d\d\d)\s*(.+?)\s+([\d\.\-\,]+)\s*\Z")
 five_data_missing_date = re.compile(r"\s*([\w\d]+)\s+(\d\d/\d\d/\d\d\d\d)\s+(.*?)\s{10,}(.*?)\s+([\d\.\-\,]+)\s*\Z")
 three_data_re = re.compile(r"\s+(\w[\w\,\s\.\-\']+?)\s{10,}(\w.*?)\s{4,}([\d\.\-\,]+)\s*")
 
+# Flexible patterns for newer format documents (118 Congress)
+# Expense record with optional dates and amount (more lenient spacing)
+expense_record_flexible = re.compile(
+    r'^\s*([A-Z0-9]{8,12})\s+'  # Document number
+    r'(\d\d/\d\d/\d\d\d\d)\s+'  # Date posted
+    r'(.+?)\s{2,}'              # Payee name
+    r'(?:(\d\d/\d\d/\d\d\d\d)\s+)?'  # Start date (optional)
+    r'(?:(\d\d/\d\d/\d\d\d\d)\s+)?'  # End date (optional)
+    r'(.+?)'                    # Description
+    r'(?:\s+\$?([\d\,\.]+))?\s*'  # Amount (optional)
+    r'(?:B-\d+)?\s*$'           # Page reference (optional)
+)
+
+# Salary record with amount
+salary_with_amount_flexible = re.compile(
+    r'^\s+([A-Z][A-Z\s\,\.\-\']+?)\s{2,}'  # Name
+    r'(.+?)\s{2,}'                          # Position/title
+    r'\$?([\d\,\.]+)\s*'                    # Amount
+    r'(?:B-\d+)?\s*$'                       # Page reference (optional)
+)
+
+# Salary record without amount
+salary_no_amount_flexible = re.compile(
+    r'^\s+([A-Z][A-Z\s\,\.\-\']+?)\s{2,}'  # Name
+    r'([A-Z][A-Z\s\,\.\-\/]+?)\s*'          # Position/title
+    r'(?:B-\d+)?\s*$'                       # Page reference (optional)
+)
+
 top_matter_end_re = re.compile(r"\s+DOCUMENT\s+NO\.\s+DATE\s+PAYEE")
 funding_year_re = re.compile(r"\s*Funding\s+Year\s+(\d+)")
 blank_line_re = re.compile(r"\s+\Z")
+# Support both old format (\w-\d+, \w-\d-\d+) and new format (B-\d+)
 page_number_re = re.compile(r"\s+B\s*\-\s*\d+\s*")
 page_number_alt_re = re.compile(r"\s+\w\-\d\-\d+")
+page_number_old_re = re.compile(r"\s+\w\-\d+")
 continuation_with_amount_re = re.compile(r"\s*(.+?)\s{10,}([\d\.\-\,]+)\s+\Z")
 
 # Subtotal patterns
@@ -142,13 +182,14 @@ def process_data_lines(page_num, data_lines):
         if blank_line_re.match(data_line):
             continue
 
-        if page_number_re.match(data_line):
+        if page_number_re.match(data_line) or page_number_old_re.match(data_line):
             continue
 
         if is_subtotal(data_line):
             last_line_data_index = None
             continue
 
+        # Try original strict patterns first (for backward compatibility)
         found_data = five_data_re.match(data_line)
         if found_data:
             return_data.append(['five data line', False, page_num] + list(found_data.groups()))
@@ -174,11 +215,52 @@ def process_data_lines(page_num, data_lines):
                 last_line_data_index = None
 
             else:
-                is_page_num = page_number_re.match(data_line)
-                is_page_num_alt = page_number_alt_re.match(data_line)
-                if is_page_num or is_page_num_alt:
+                # Try flexible patterns for newer format documents
+                expense_flex = expense_record_flexible.match(data_line)
+                if expense_flex:
+                    doc_num, date_posted, payee, start_date, end_date, description, amount = expense_flex.groups()
+                    result_formatted = ['five data line', False, page_num,
+                                      doc_num, date_posted, payee,
+                                      start_date or '', end_date or '',
+                                      description, amount or '']
+                    return_data.append(result_formatted)
+                    return_data_index += 1
+                    last_line_data_index = None
                     continue
 
+                # Try flexible salary patterns
+                salary_flex_amount = salary_with_amount_flexible.match(data_line)
+                if salary_flex_amount:
+                    name, position, amount = salary_flex_amount.groups()
+                    # Filter out non-salary lines
+                    if not any(word in position.upper() for word in
+                              ['NET PAYROLL', 'ORGANIZATION', 'UNEXPENDED', 'TOTAL', 'AUTHORIZATION']):
+                        result_formatted = ['three data line', False, page_num, '', '', name, '', '', position, amount]
+                        return_data.append(result_formatted)
+                        return_data_index += 1
+                        last_line_data_index = None
+                        continue
+
+                salary_flex_no_amount = salary_no_amount_flexible.match(data_line)
+                if salary_flex_no_amount:
+                    name, position = salary_flex_no_amount.groups()
+                    # Filter out non-salary lines
+                    if not any(word in position.upper() for word in
+                              ['NET PAYROLL', 'ORGANIZATION', 'UNEXPENDED', 'TOTAL', 'AUTHORIZATION']):
+                        result_formatted = ['three data line', False, page_num, '', '', name, '', '', position, '']
+                        return_data.append(result_formatted)
+                        return_data_index += 1
+                        last_line_data_index = None
+                        continue
+
+                # Check if it's a page number
+                is_page_num = page_number_re.match(data_line)
+                is_page_num_alt = page_number_alt_re.match(data_line)
+                is_page_num_old = page_number_old_re.match(data_line)
+                if is_page_num or is_page_num_alt or is_page_num_old:
+                    continue
+
+                # Check for continuation lines
                 if last_line_data_index:
                     carryover_found = test_carryover_line(int(last_line_data_index), data_line)
 
@@ -197,6 +279,7 @@ def process_data_lines(page_num, data_lines):
                             register_data = {'array_index': return_data_index, 'data': description}
                             one_part_continuation_register.append(register_data)
                 else:
+                    # Still couldn't parse - add to missing data
                     print("missing <" + data_line + ">")
                     missing_data.append({'data': data_line, 'offset': return_data_index, 'page_num': page_num})
 
