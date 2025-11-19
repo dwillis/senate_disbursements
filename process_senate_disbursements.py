@@ -296,6 +296,10 @@ def find_header_index(line_array):
             matches += 1
             header_index = index
 
+    # Return None if no header found (e.g., blank pages or summary pages)
+    if matches == 0:
+        return None
+
     # Break if we don't find exactly one occurrence of this per page
     assert matches == 1, f"Expected 1 header, found {matches}"
     return header_index
@@ -321,10 +325,21 @@ def parse_pages(start_page, end_page, pages_dir="pages", out_file='senate_data.c
                     print(f"Processing page {page}")
 
                 filename = page_file_unfilled % (page)
-                with open(filename, 'r') as fh:
-                    page_array = fh.readlines()
+                try:
+                    with open(filename, 'r', encoding='utf-8') as fh:
+                        page_array = fh.readlines()
+                except UnicodeDecodeError:
+                    # Fall back to latin-1 encoding for pages with special characters
+                    with open(filename, 'r', encoding='latin-1') as fh:
+                        page_array = fh.readlines()
 
                 header_index = find_header_index(page_array)
+
+                # Skip pages without headers (blank pages, summary pages, etc.)
+                if header_index is None:
+                    if page % 100 == 0 or page == start_page:
+                        print(f"  Skipping page {page} (no header found)")
+                    continue
 
                 # Keep stats on where we find the index
                 header_index_hash[header_index] = header_index_hash.get(header_index, 0) + 1
