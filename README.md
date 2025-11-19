@@ -135,6 +135,7 @@ The processing script generates three files:
    - `source_doc` - Document identifier (e.g., "114sdoc13")
    - `senator_flag` - 1 if senator's office, 0 otherwise
    - `senator_name` - Senator name (if applicable)
+   - `bioguide_id` - Bioguide ID for senators (matched from congress-legislators data)
    - `raw_office` - Full office description
    - `funding_year`, `fiscal_year`, `congress_number` - Temporal identifiers
    - `reference_page` - PDF page number
@@ -159,6 +160,67 @@ The parser identifies different expense record formats:
 ### Continuation Lines
 
 Some expense descriptions span multiple lines. The parser automatically detects and appends continuation lines (marked with " + " in the output).
+
+## Bioguide ID Matching
+
+The parser automatically adds **bioguide IDs** to senator records by matching senator names and years against the [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) database.
+
+### Automatic Matching (New Reports)
+
+When processing new reports, bioguide IDs are automatically added during the cleaning step:
+
+```bash
+python3 process_senate_disbursements.py file.pdf --start 18 --end 2264
+# Bioguide IDs are automatically added to senate_data_cleaned.csv
+```
+
+### Adding Bioguide IDs to Existing Files
+
+For existing cleaned CSV files, use the `add_bioguide_ids.py` utility:
+
+```bash
+# Install required dependencies
+pip3 install -r requirements.txt
+
+# Add bioguide IDs to a single file
+python3 add_bioguide_ids.py data/114_sdoc13/senate_data_cleaned.csv
+
+# Add bioguide IDs to all files in data/all_years/
+python3 add_bioguide_ids.py --all
+
+# Add bioguide IDs to files matching a pattern
+python3 add_bioguide_ids.py --pattern "data/*/senate_data_cleaned.csv"
+```
+
+The script will:
+- Download legislator data from congress-legislators (cached for 7 days)
+- Match senator names to bioguide IDs based on name and year
+- Update the CSV files in-place with a new `bioguide_id` column
+- Display match statistics and warnings for unmatched senators
+
+### How Bioguide Matching Works
+
+1. **Name Matching**: Senator names are normalized and matched against official names, nicknames, and name variations
+2. **Time Period Matching**: The funding year or fiscal year is used to ensure the senator was serving during that time
+3. **Caching**: Legislator data is cached locally for 7 days to speed up repeated operations
+
+### Example Output
+
+```bash
+python3 add_bioguide_ids.py data/114_sdoc13/senate_data_cleaned.csv
+
+Initializing bioguide matcher...
+Downloading legislators-current.yaml...
+Downloading legislators-historical.yaml...
+Loaded 2017 senators
+
+Processing: data/114_sdoc13/senate_data_cleaned.csv
+  Total rows: 50000
+  Senator rows: 12500
+  Matched: 12450
+  Unmatched: 50
+  Match rate: 99.6%
+```
 
 ## Troubleshooting
 
