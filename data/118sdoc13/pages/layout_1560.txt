@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DKNN20241314                  CHRISTIAN P AMY                                           STAFF TRANSPORTATION                                                             $13.40
+DKNN20241315      08/01/2024  CONNOR JOHN DOMINGUE              START       END         WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $13.40
+DKNN20241316      08/02/2024  CONNOR JOHN DOMINGUE                                      STAFF TRANSPORTATION
+DKNN20241317      08/06/2024  CAROLINE M THERIOT                07/25/2024  07/25/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $7.37
+                  08/05/2024                                                            STAFF TRANSPORTATION                                                             $23.86
+DKNN20241318                  CAROLINE M THERIOT                07/23/2024  07/23/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $150.08
+DKNN20241319      08/01/2024  CITIBANK - TRAVEL CBA CARD                                STAFF PER DIEM                                                                   $44.22
+DKNN20241320      08/06/2024  JAKE T BENOIT                     07/24/2024  07/24/2024  STAFF TRANSPORTATION                                                           $724.98
+DKNN20241322      08/06/2024  JAKE T BENOIT                                             ABITA SPRINGS TO THIBODAUX TO MANDEVILLE                                       $118.69
+DKNN20241323      08/02/2024  JAKE T BENOIT                     07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                             $38.19
+                  08/06/2024                                                            MANDEVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $112.61
+DKNN20241324                  JAKE T BENOIT                     07/26/2024  07/26/2024  SENATOR TRANSPORTATION
+DKNN20241325      08/02/2024  JAKE T BENOIT                     07/17/2024  07/17/2024  AIRFARE FOR SEN KENNEDY NEW ORLEANS TO WASHINGTON DC                             $40.20
+DKNN20241326      08/02/2024  JAKE T BENOIT                     07/15/2024  07/15/2024  STAFF TRANSPORTATION                                                             $11.39
+DKNN20241327      08/02/2024  JAKE T BENOIT                     07/16/2024  07/16/2024  NEW ORLEANS TO MADISONVILLE, KENNER AND RETURN                                   $35.51
+DKNN20241328      08/02/2024  JAKE T BENOIT                     07/17/2024  07/17/2024  STAFF TRANSPORTATION                                                             $42.21
+DKNN20241329      08/06/2024  JAKE T BENOIT                                             NEW ORLEANS TO ARABI, SAINT ROSE AND RETURN                                      $79.06
+                  08/06/2024                                    07/18/2024  07/18/2024  STAFF TRANSPORTATION                                                             $89.16  B-1523
+DKNN20241330                  JAKE T BENOIT                     07/20/2024  07/20/2024  NEW ORLEANS TO MADISONVILLE, KENNER, HAHNVILLE, VACHERIE AND
+DKNN20241331      08/06/2024  JAKE T BENOIT                     07/22/2024  07/22/2024  RETURN                                                                           $66.33
+DKNN20241332      08/06/2024  CAROLINE M THERIOT                07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                           $100.60
+DKNN20241333      08/02/2024  DAVID LEE STOKES JR               07/24/2024  07/24/2024  NEW ORLEANS TO LA PLACE AND RETURN
+                  08/02/2024                                    07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                             $14.74
+                                                                                        NEW ORLEANS TO ARABI AND RETURN                                                  $50.16
+                                                                07/27/2024  07/27/2024  STAFF TRANSPORTATION                                                           $731.66
+                                                                07/28/2024  07/28/2024  NEW ORLEANS TO HAHNVILLE AND RETURN                                         $1,339.14
+                                                                07/29/2024  07/29/2024  STAFF TRANSPORTATION
+                                                                07/08/2024  07/10/2024  NEW ORLEANS TO LA PLACE AND RETURN                                               $44.22
+                                                                                        STAFF TRANSPORTATION                                                           $251.19
+DKNN20241334      08/02/2024  CHRISTIAN P AMY                   07/29/2024  07/29/2024  NEW ORLEANS TO SAINT JAMES, LULING AND RETURN
+DKNN20241336      08/20/2024  CITIBANK - TRAVEL CBA CARD        07/15/2024  07/19/2024  STAFF TRANSPORTATION                                                           $534.19
+DKNN20241337      08/13/2024  CITIBANK - TRAVEL CBA CARD        07/14/2024  07/17/2024  NEW ORLEANS TO LA PLACE, SAINT ROSE, KENNER, MADISONVILLE AND
+                                                                                        RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NEW ORLEANS TO VACHERIE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NEW ORLEANS TO MADISONVILLE, METAIRIE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MANDEVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PRAIRIEVILLE TO KENNER, WASHINGTON DC, ARLINGTON VA,
+                                                                                        WASHINGTON DC, ARLINGTON VA, WASHINGTON DC, KENNER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR W DAVIS WASHINGTON DC TO LAFAYETTE, CHARLOTTE NC
+                                                                                        AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

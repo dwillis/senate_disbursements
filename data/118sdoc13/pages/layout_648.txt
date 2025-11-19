@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION             AMOUNT ($)
+              POSTED                                             DATES
+                                                                              KENSINGTON MD TO JACKSON WY, MORAN WY, YELLOWSTONE NATIONAL                             $36.85
+                                                      START       END         PARK WY, CHEYENNE WY, JACKSON WY AND RETURN                                             $34.51
+                                                                              STAFF TRANSPORTATION                                                                    $30.42
+DBOO20240447  06/27/2024  HANNAH MARIE HENDERSON      06/12/2024  06/12/2024  ROGERS TO GENTRY TO LOWELL                                                              $23.40  B-630
+DBOO20240448  06/27/2024  HANNAH MARIE HENDERSON      06/10/2024  06/10/2024  STAFF TRANSPORTATION                                                                  $348.66
+DBOO20240449  06/27/2024  HANNAH MARIE HENDERSON      06/11/2024  06/11/2024  LOWELL TO DECATUR AND RETURN                                                          $208.26
+DBOO20240450  06/27/2024  BOOZMAN,JOHN                06/13/2024  06/17/2024  STAFF TRANSPORTATION
+DBOO20240451  07/01/2024  CHASE A EMERSON             06/13/2024  06/14/2024  LOWELL TO PRAIRIE GROVE AND RETURN                                                      $67.27
+DBOO20240452  07/01/2024  MATTHEW T MYERS             06/12/2024  06/14/2024  SENATOR TRANSPORTATION                                                                $192.42
+                                                                              WASHINGTON DC TO FAYETTEVILLE, ROGERS, FAYETTEVILLE AND RETURN
+DBOO20240453  07/01/2024  MATTHEW T MYERS             06/18/2024  06/18/2024  STAFF TRANSPORTATION                                                                    $78.39
+DBOO20240454  07/01/2024  JOHN W PECARO               04/01/2024  06/20/2024  6/13, 14 EL DORADO TO VICKSBURG MS AND RETURN                                         $442.84
+DBOO20240456  07/02/2024  HANNAH MARIE HENDERSON      06/21/2024  06/21/2024  STAFF TRANSPORTATION
+DBOO20240457  07/03/2024  JOSHUA WILLIAM MULLINAX     06/05/2024  06/17/2024  MOUNTAIN HOME TO THE FOLLOWING AND RETURN: 6/12 HARRISON; 6/14                        $144.39
+                                                                              HEBER SPRINGS, GREERS FERRY, CLINTON                                                  $121.43
+DBOO20240458  07/03/2024  ANDREW G KELLEY             05/24/2024  06/02/2024  STAFF TRANSPORTATION                                                                  $170.23
+                                                                              MOUNTAIN HOME TO HARRISON AND RETURN                                                  $156.78
+DBOO20240459  07/03/2024  CHASE A EMERSON             06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                                  $169.65
+DBOO20240467  07/08/2024  CHASE A EMERSON             06/25/2024  06/25/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DBOO20240468  07/08/2024  MATTHEW T MYERS             06/20/2024  06/25/2024  STAFF TRANSPORTATION                                                                  $264.10
+                                                                              LOWELL TO VAN BUREN AND RETURN                                                        $264.10
+DBOO20240469  07/09/2024  CITIBANK - TRAVEL CBA CARD  05/26/2024  05/26/2024  STAFF TRANSPORTATION                                                                  $264.10
+DBOO20240470  07/09/2024  CITIBANK - TRAVEL CBA CARD  06/03/2024  06/03/2024  JONESBORO TO THE FOLLOWING AND RETURN: 6/5 GOSNELL,                                   $592.70
+DBOO20240471  07/09/2024  CITIBANK - TRAVEL CBA CARD  06/03/2024  06/03/2024  BLYTHEVILLE; 6/10 MARION; 6/11 FORREST CITY, WEINER; 6/12 OSCEOLA; 6                  $264.10
+DBOO20240472  07/11/2024  CITIBANK - TRAVEL CBA CARD  06/06/2024  06/11/2024  /14 BLYTHEVILLE; 6/17 WEST MEMPHIS                                                    $264.10
+DBOO20240473  07/09/2024  CITIBANK - TRAVEL CBA CARD  06/17/2024  06/17/2024  STAFF PER DIEM                                                                        $264.10
+DBOO20240474  07/09/2024  CITIBANK - TRAVEL CBA CARD  06/13/2024  06/13/2024  STAFF TRANSPORTATION                                                                  $264.10
+DBOO20240475  07/09/2024  CITIBANK - TRAVEL CBA CARD  06/20/2024  06/20/2024  WASHINGTON DC TO FAYETTEVILLE, ROGERS, FAYETTEVILLE AND RETURN
+DBOO20240477  07/16/2024  CITIBANK - TRAVEL CBA CARD  07/08/2024  07/08/2024  STAFF TRANSPORTATION
+                                                                              EL DORADO TO LONOKE AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              EL DORADO TO FORDYCE, TEXARKANA AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              MOUNTAIN HOME TO THE FOLLOWING AND RETURN: 6/20 SALEM; 6/24
+                                                                              MIDWAY; 6/25 BATESVILLE
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR L HOLLY WASHINGTON DC TO BENTONVILLE
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN BOOZMAN BENTONVILLE TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR L HOLLY BENTONVILLE TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR T HIGGINS WASHINGTON DC TO JACKSON WY AND RETURN
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN BOOZMAN BENTONVILLE TO WASHINGTON DC
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN BOOZMAN WASHINGTON DC TO BENTONVILLE
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN BOOZMAN WASHINGTON DC TO BENTONVILLE
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN BOOZMAN BENTONVILLE TO WASHINGTON DC
+

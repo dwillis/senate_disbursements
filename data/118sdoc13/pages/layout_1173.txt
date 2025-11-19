@@ -1,0 +1,52 @@
+DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+              POSTED                                        DATES
+                                                                         DES MOINES TO OTTUMWA, BLOOMFIELD, MOULTON, ALBIA, WEST DES                    $36.18
+                                                 START       END         MOINES AND RETURN                                                              $23.78
+                                                                         STAFF TRANSPORTATION                                                           $71.02
+DERN20240774  09/13/2024  JOHN L HOLLINRAKE      08/23/2024  08/23/2024  ANKENY TO AMES AND RETURN                                                      $61.64
+DERN20240775  09/13/2024  JOHN L HOLLINRAKE      08/28/2024  08/28/2024  STAFF PER DIEM                                                               $109.88
+                                                                         STAFF TRANSPORTATION                                                           $79.73
+DERN20240776  09/13/2024  JOHN L HOLLINRAKE      08/29/2024  08/29/2024  DES MOINES TO PELLA, KNOXVILLE AND RETURN                                      $30.78
+DERN20240777  09/18/2024  JOHN L HOLLINRAKE      08/01/2024  08/30/2024  STAFF TRANSPORTATION                                                         $324.28
+DERN20240778  09/13/2024  DUSTIN C VANDE HOEF    08/01/2024  08/01/2024  ANKENY TO MARSHALLTOWN AND RETURN
+DERN20240779  09/18/2024  DUSTIN C VANDE HOEF    08/02/2024  08/03/2024  STAFF TRANSPORTATION                                                           $59.63
+                                                                         DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $247.23
+DERN20240780  09/13/2024  DUSTIN C VANDE HOEF    08/05/2024  08/05/2024  STAFF TRANSPORTATION                                                                   B-1155
+DERN20240781  09/18/2024  DUSTIN C VANDE HOEF    08/14/2024  08/14/2024  DES MOINES TO OSKALOOSA AND RETURN                                             $13.99
+DERN20240782  09/18/2024  DUSTIN C VANDE HOEF    08/19/2024  08/19/2024  STAFF PER DIEM                                                               $164.15
+                                                                         STAFF TRANSPORTATION
+DERN20240783  09/13/2024  DUSTIN C VANDE HOEF    08/06/2024  08/06/2024  CLIVE TO ANAMOSA, DELMAR, MAQUOKETA, DUBUQUE, CHELSEA AND                      $73.77
+DERN20240784  09/18/2024  DUSTIN C VANDE HOEF    08/21/2024  08/21/2024  RETURN                                                                         $16.01
+                                                                         STAFF TRANSPORTATION                                                         $224.45
+DERN20240785  09/18/2024  DUSTIN C VANDE HOEF    08/23/2024  08/23/2024  DES MOINES TO BOONE, AMES AND RETURN
+                                                                         STAFF TRANSPORTATION                                                            $9.86
+DERN20240786  09/14/2024  DUSTIN C VANDE HOEF    08/28/2024  08/28/2024  DES MOINES TO SERGEANT BLUFF TO CLIVE                                        $137.35
+DERN20240787  09/14/2024  DUSTIN C VANDE HOEF    08/29/2024  08/29/2024  STAFF PER DIEM
+DERN20240788  09/14/2024  DUSTIN C VANDE HOEF    08/01/2024  08/30/2024  STAFF TRANSPORTATION                                                           $79.73
+DERN20240789  09/14/2024  BRENDA RHEA SAFRANSKI  08/28/2024  08/28/2024  DES MOINES TO CLARINDA TO CLIVE                                                $61.64
+DERN20240790  09/14/2024  BRENDA RHEA SAFRANSKI  08/29/2024  08/29/2024  STAFF TRANSPORTATION                                                           $64.99
+DERN20240791  09/18/2024  BRENDA RHEA SAFRANSKI  08/31/2024  08/31/2024  CLIVE TO AMES TO DES MOINES                                                    $52.26
+                                                                         STAFF PER DIEM                                                                 $68.34
+DERN20240792  09/14/2024  BRENDA RHEA SAFRANSKI  08/01/2024  08/31/2024  STAFF TRANSPORTATION                                                           $12.40
+DERN20240793  09/18/2024  ALISON D WHITAKER      08/11/2024  08/21/2024  CLIVE TO COGGON, ELY TO DES MOINES                                           $182.24
+                                                                         STAFF PER DIEM                                                                 $24.79
+                                                                         STAFF TRANSPORTATION                                                         $222.36
+                                                                         DES MOINES TO HAMPTON AND RETURN                                             $551.56
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES TO BOONE, NEVADA TO CLIVE
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES TO BOONE AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES TO AMES AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES TO MARSHALLTOWN AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         URBANDALE TO OFFUTT A F B NE AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+              POSTED                                          DATES
+                                                                           STAFF TRANSPORTATION                                                       $273.85
+                                                   START       END         FREDERICK TO OCEAN CITY AND RETURN                                           $65.66
+                                                                           STAFF TRANSPORTATION
+DVAN20240744  07/03/2024  ALYSSA M HASTINGS        06/26/2024  06/26/2024  CAMBRIDGE TO POCOMOKE CITY TO SALISBURY                                    $205.69   B-2519
+DVAN20240747  07/09/2024  DAKOTA WALKER BUSBY      06/12/2024  06/25/2024  STAFF TRANSPORTATION                                                       $328.00
+DVAN20240748  07/10/2024  DEBORAH J HAYNIE         06/21/2024  06/21/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $104.65
+DVAN20240750  07/16/2024  CATHERINE A PROVOST      05/06/2024  05/06/2024  STAFF TRANSPORTATION                                                       $117.25
+DVAN20240751  07/10/2024  CATHERINE A PROVOST      05/08/2024  06/28/2024  WASHINGTON DC TO NEW YORK NY AND RETURN
+DVAN20240752  07/09/2024  ALYSSA M HASTINGS        07/01/2024  07/01/2024  STAFF TRANSPORTATION                                                         $43.55
+DVAN20240754  07/09/2024  SAVANNA R PETERSON       07/01/2024  07/01/2024  ROCKVILLE TO WASHINGTON DC, SYKESVILLE, TOWSON AND RETURN                    $46.88
+DVAN20240755  07/09/2024  ALYSSA M HASTINGS        06/28/2024  06/28/2024  STAFF TRANSPORTATION                                                         $49.58
+DVAN20240756  07/10/2024  ELONNA B.Q JONES         07/01/2024  07/01/2024  ROCKVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $14.40
+DVAN20240757  07/10/2024  TERI L WEATHERS          07/01/2024  07/01/2024  STAFF TRANSPORTATION                                                         $40.87
+DVAN20240759  07/10/2024  ALYSSA M HASTINGS        07/02/2024  07/02/2024  SALISBURY TO OCEAN CITY AND RETURN                                           $40.20
+DVAN20240768  07/15/2024  JESSICA LAUREN KLAITMAN  06/26/2024  06/26/2024  STAFF TRANSPORTATION                                                         $13.40
+DVAN20240769  07/15/2024  JESSICA LAUREN KLAITMAN  06/04/2024  06/04/2024  WASHINGTON DC TO LARGO AND RETURN                                            $24.79
+DVAN20240770  07/15/2024  JESSICA LAUREN KLAITMAN  06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                         $25.46
+DVAN20240771  07/15/2024  JESSICA LAUREN KLAITMAN  06/14/2024  06/14/2024  SALISBURY TO EASTON TO CAMBRIDGE                                             $45.88
+DVAN20240772  07/15/2024  JESSICA LAUREN KLAITMAN  06/07/2024  06/07/2024  STAFF TRANSPORTATION                                                         $48.88
+DVAN20240773  07/16/2024  JESSICA LAUREN KLAITMAN  06/17/2024  06/17/2024  BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $32.16
+DVAN20240774  07/16/2024  NAN SHERIDAN-MANN        06/30/2024  06/30/2024  STAFF TRANSPORTATION                                                       $134.00
+DVAN20240775  07/16/2024  JESSICA LAUREN KLAITMAN  06/01/2024  06/01/2024  BOWIE TO BALTIMORE AND RETURN                                                $26.80
+DVAN20240776  07/15/2024  JESSICA LAUREN KLAITMAN  06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                         $14.74
+DVAN20240777  07/16/2024  JESSICA LAUREN KLAITMAN  06/27/2024  06/27/2024  CAMBRIDGE TO QUEEN ANNE AND RETURN                                           $45.88
+DVAN20240778  07/15/2024  JESSICA LAUREN KLAITMAN  06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                         $45.76
+DVAN20240779  07/15/2024  JESSICA LAUREN KLAITMAN  06/28/2024  06/28/2024  BALTIMORE TO PIKESVILLE AND RETURN
+DVAN20240780  07/15/2024  ALYSSA M HASTINGS        07/08/2024  07/08/2024  STAFF TRANSPORTATION                                                          $8.44
+                                                                           BALTIMORE TO ELLICOTT CITY, PIKESVILLE AND RETURN                            $25.46
+                                                                           STAFF TRANSPORTATION
+                                                                           BALTIMORE TO COLUMBIA, LINTHICUM HEIGHTS AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           BALTIMORE TO ANNAPOLIS AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           BALTIMORE TO ANNAPOLIS AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           BALTIMORE TO ODENTON AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HAGERSTOWN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           BALTIMORE TO REISTERSTOWN AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           BALTIMORE TO DUNDALK AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           BALTIMORE TO ANNAPOLIS AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           BALTIMORE TO GUNPOWDER, DUNDALK AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           CAMBRIDGE TO EASTON AND RETURN
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                   POSTED                                                  DATES
+DBRI20240336                  MELISSA JUAREZ BATTLES                                    STAFF TRANSPORTATION                                                           $49.50
+DBRI20240337      04/03/2024  MELISSA JUAREZ BATTLES            START       END         ATTALLA TO FORT PAYNE AND RETURN
+DBRI20240338      04/03/2024  MELISSA JUAREZ BATTLES                                    STAFF TRANSPORTATION                                                           $44.00
+DBRI20240339      04/03/2024  MELISSA JUAREZ BATTLES            02/01/2024  02/01/2024  ATTALLA TO OXFORD AND RETURN
+DBRI20240340      04/03/2024  MELISSA JUAREZ BATTLES                                    STAFF TRANSPORTATION                                                           $75.00
+DBRI20240341      04/03/2024  MELISSA JUAREZ BATTLES            02/06/2024  02/06/2024  ATTALLA TO SYLACAUGA, LINCOLN AND RETURN
+DBRI20240342      04/03/2024  MELISSA JUAREZ BATTLES                                    STAFF TRANSPORTATION                                                           $38.00
+DBRI20240343      04/03/2024  MELISSA JUAREZ BATTLES            02/08/2024  02/08/2024  ATTALLA TO ANNISTON AND RETURN
+DBRI20240344      04/03/2024  MELISSA JUAREZ BATTLES                                    STAFF TRANSPORTATION                                                           $15.50
+DBRI20240345      04/04/2024  MELISSA JUAREZ BATTLES            02/15/2024  02/15/2024  ATTALLA TO BOAZ AND RETURN
+DBRI20240346      04/04/2024  MELISSA JUAREZ BATTLES                                    STAFF TRANSPORTATION                                                           $45.00
+DBRI20240347      04/04/2024  MELISSA JUAREZ BATTLES            02/16/2024  02/16/2024  ATTALLA TO OXFORD AND RETURN
+DBRI20240350      04/04/2024  MELISSA JUAREZ BATTLES                                    STAFF TRANSPORTATION                                                           $68.50
+                  04/16/2024                                    02/20/2024  02/20/2024  ATTALLA TO CHILDERSBURG AND RETURN
+DBRI20240351                                                                            STAFF TRANSPORTATION                                                           $34.50
+DBRI20240352                                                    02/27/2024  02/27/2024  ATTALLA TO JACKSONVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                           $58.00
+DBRI20240353                                                    03/01/2024  03/01/2024  ATTALLA TO HEFLIN AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                           $67.50
+DBRI20240354                                                    03/07/2024  03/07/2024  ATTALLA TO ANNISTON, GADSDEN, JACKSONVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                           $34.00
+DBRI20240355                                                    03/14/2024  03/14/2024  ATTALLA TO JACKSONVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                           $41.00
+DBRI20240356                                                    03/15/2024  03/15/2024  ATTALLA TO ANNISTON AND RETURN                                                         B-667
+                                                                                        STAFF INCIDENTALS                                                            $123.45
+                                                                03/21/2024  03/21/2024  STAFF PER DIEM                                                               $915.29
+                                                                                        STAFF TRANSPORTATION                                                         $944.97
+                                                                03/10/2024  03/13/2024  ATTALLA TO BIRMINGHAM, WASHINGTON DC, BIRMINGHAM AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                           $19.50
+                  04/10/2024  MELANIE KAY HILL                  03/26/2024  03/26/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  04/18/2024  DANA HALL MCCAIN                  03/27/2024  03/29/2024  STAFF INCIDENTALS                                                              $18.30
+                                                                                        STAFF PER DIEM                                                               $131.83
+                  04/15/2024  DANA HALL MCCAIN                  03/25/2024  03/26/2024  STAFF TRANSPORTATION                                                         $168.50
+                                                                                        DOTHAN TO MONTGOMERY AND RETURN
+                  04/16/2024  DANA HALL MCCAIN                  03/18/2024  03/19/2024  STAFF INCIDENTALS                                                              $18.59
+                                                                                        STAFF PER DIEM                                                               $107.00
+                  04/17/2024  DANA HALL MCCAIN                  02/21/2024  02/22/2024  STAFF TRANSPORTATION
+                                                                                        DOTHAN TO MONTGOMERY, PRATTVILLE AND RETURN                                    $98.00
+                  04/17/2024  DANA HALL MCCAIN                  02/28/2024  02/29/2024  STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM                                                                 $27.20
+                                                                                        STAFF TRANSPORTATION                                                         $234.76
+                                                                                        DOTHAN TO HUNTSVILLE AND RETURN                                              $338.50
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM                                                                 $18.30
+                                                                                        STAFF TRANSPORTATION                                                         $205.18
+                                                                                        DOTHAN TO MONTGOMERY AND RETURN                                              $308.60
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM                                                                 $21.05
+                                                                                        STAFF TRANSPORTATION                                                         $147.16
+                                                                                        DOTHAN TO HUNTSVILLE AND RETURN                                              $365.00
+

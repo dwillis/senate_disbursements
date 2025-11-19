@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                             DATES
+DCRM20240410                                                                      GRAND FORKS TO GRAFTON AND RETURN                                             $698.60
+DCRM20240411                                              START       END         SENATOR TRANSPORTATION                                                        $328.60
+DCRM20240412                                                                      AIRFARE FOR SEN CRAMER WASHINGTON DC TO BISMARCK                              $783.60
+DCRM20240413      04/30/2024  CITIBANK - TRAVEL CBA CARD  04/11/2024  04/11/2024  SENATOR TRANSPORTATION                                                        $411.60   B-1003
+DCRM20240414      04/29/2024  CITIBANK - TRAVEL CBA CARD  04/08/2024  04/08/2024  AIRFARE FOR SEN CRAMER BISMARCK TO WASHINGTON DC                              $196.39
+DCRM20240415      04/30/2024  CITIBANK - TRAVEL CBA CARD  04/06/2024  04/06/2024  STAFF TRANSPORTATION                                                          $223.02
+DCRM20240416      04/30/2024  CITIBANK - TRAVEL CBA CARD  04/05/2024  04/05/2024  AIRFARE FOR K GLADITSCH FARGO TO WASHINGTON DC                                $170.18
+DCRM20240417      05/03/2024  CITIBANK - TRAVEL CBA CARD  04/03/2024  04/05/2024  STAFF TRANSPORTATION
+DCRM20240427      04/30/2024  CITIBANK - TRAVEL CBA CARD  04/03/2024  04/06/2024  AIRFARE FOR R KENYON GRAND FORKS TO WASHINGTON DC                               $50.38
+DCRM20240428      04/29/2024  KAITLYN MARIE WEIDERT       04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                            $68.04
+DCRM20240429      04/26/2024  CHRISTOPHER A MAROHL        04/15/2024  04/15/2024  RENTAL AUTO FOR R KENYON GRAND FORKS TO FARGO AND RETURN                        $32.63
+DCRM20240430      04/26/2024  CITIBANK - TRAVEL CBA CARD  04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                          $518.60
+DCRM20240431      05/07/2024  BROOKE A DOSS               04/17/2024  04/17/2024  RENTAL AUTO FOR K GLADITSCH IN AND AROUND FARGO                               $265.99
+DCRM20240432      05/01/2024  CITIBANK - TRAVEL CBA CARD  04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                          $107.20
+DCRM20240439      05/09/2024  MICHAEL J KELSCH            04/18/2024  04/19/2024  DES LACS TO BISMARCK AND RETURN                                               $128.64
+DCRM20240440      05/09/2024  LISA BECKSTROM GIBBENS      04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                          $140.40
+DCRM20240441      05/13/2024  MICHAEL J KELSCH            04/25/2024  04/25/2024  BISMARCK TO FARGO AND RETURN                                                  $911.60
+DCRM20240442      05/14/2024  CITIBANK - TRAVEL CBA CARD  04/15/2024  04/17/2024  STAFF TRANSPORTATION                                                       $1,277.60
+DCRM20240443      05/14/2024  CITIBANK - TRAVEL CBA CARD  04/25/2024  04/25/2024  RENTAL AUTO FOR C MAROHL BISMARCK TO FARGO AND RETURN                      $1,188.60
+DCRM20240444      05/14/2024  CITIBANK - TRAVEL CBA CARD  04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                       $1,188.60
+DCRM20240445      05/14/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/24/2024  GRAND FORKS TO LISBON AND RETURN                                              $163.48
+DCRM20240459      05/14/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/24/2024  SENATOR TRANSPORTATION                                                        $265.99
+DCRM20240460      05/09/2024  KAITLYN MARIE WEIDERT       04/26/2024  04/26/2024  AIRFARE FOR SEN CRAMER JACKSONVILLE FL TO WASHINGTON DC                         $50.27
+DCRM20240471      05/13/2024  MICHAEL J KELSCH            04/26/2024  04/28/2024  STAFF TRANSPORTATION                                                          $109.88
+                  05/14/2024  RANDY J RICHARDS            05/04/2024  05/04/2024  FARGO TO BISMARCK AND RETURN                                                  $131.76
+                  05/16/2024  MICHAEL J KELSCH            05/03/2024  05/03/2024  STAFF TRANSPORTATION
+                  05/21/2024  CITIBANK - TRAVEL CBA CARD  04/30/2024  05/01/2024  FARGO TO GRAND FORKS AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  FARGO TO JAMESTOWN AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  RENTAL AUTO FOR B DOSS GRAND FORKS TO LISBON AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN CRAMER DALLAS TX TO BISMARCK
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR M CHAMBERS DALLAS TX TO WASHINGTON DC
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN CRAMER WASHINGTON DC TO DALLAS TX
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR M CHAMBERS WASHINGTON DC TO DALLAS TX
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DES LACS TO MANDAN AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  FARGO TO BISMARCK AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  GRAND FORKS TO MINOT AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  FARGO TO GRAND FORKS AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  RENTAL AUTO FOR S MURRAY BISMARCK TO DICKINSON, GARRISON AND
+                                                                                  RETURN
+

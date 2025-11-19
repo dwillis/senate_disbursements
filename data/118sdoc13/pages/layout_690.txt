@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                              DATES
+DBRI20240477                                                                       COTTONDALE TO JASPER TO TUSCALOOSA                                             $290.10
+                                                           START       END         SENATOR TRANSPORTATION                                                           $40.00
+DBRI20240478                                                                       TICKET FEES
+DBRI20240479      05/24/2024  CITIBANK - SENATOR IBA CARD  05/14/2024  05/14/2024  AIRFARE FOR SEN BRITT BIRMINGHAM TO WASHINGTON DC                              $373.47
+DBRI20240480                                                                       SENATOR TRANSPORTATION
+DBRI20240481      05/24/2024  CITIBANK - SENATOR IBA CARD  05/10/2024  05/10/2024  AIRFARE FOR SEN BRITT WASHINGTON DC TO ATLANTA GA                                $40.00
+DBRI20240482      05/24/2024  CITIBANK - SENATOR IBA CARD                          TICKET FEES                                                                      $40.00
+DBRI20240483      05/24/2024  CITIBANK - SENATOR IBA CARD  05/08/2024  05/08/2024  TICKET FEES                                                                      $40.00
+DBRI20240484      05/24/2024  CITIBANK - SENATOR IBA CARD  04/26/2024  04/26/2024  TICKET FEES                                                                      $40.00
+DBRI20240489      05/24/2024  CITIBANK - SENATOR IBA CARD  05/09/2024  05/09/2024  TICKET FEES                                                                      $36.00
+                  05/28/2024  MELANIE KAY HILL             05/08/2024  05/08/2024  STAFF TRANSPORTATION
+DBRI20240494      05/28/2024  MELANIE KAY HILL             05/15/2024  05/15/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $37.00
+                  07/08/2024  CITIBANK - SENATOR IBA CARD                          STAFF TRANSPORTATION
+DBRI20240495                                               05/13/2024  05/13/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $1,108.97
+                  05/28/2024  KELLI R WOLFE                                        SENATOR TRANSPORTATION                                                           $40.00
+DBRI20240497                                               05/19/2024  05/19/2024  TICKET FEES
+                  05/31/2024  JOHN A DEGARIS                                       AIRFARE FOR SEN BRITT MONTGOMERY TO NEW YORK NY                                   $7.42
+                                                           05/20/2024  05/20/2024  STAFF PER DIEM                                                                   $86.00
+                  06/25/2024  SEAN P ROSS                                          STAFF TRANSPORTATION
+                                                           04/18/2024  04/21/2024  TUSCALOOSA TO PARRISH TO COTTONDALE                                              $40.00  B-672
+                                                                                   STAFF TICKET FEES                                                              $580.19
+                                                           05/16/2024  05/20/2024  STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC TO BIRMINGHAM AND RETURN                                         $101.86
+DBRI20240498      06/24/2024  MARK G MCKINNON              05/28/2024  05/30/2024  STAFF INCIDENTALS                                                              $768.00
+                                                                                   STAFF PER DIEM                                                                 $160.00
+DBRI20240499      06/24/2024  JOHN A DEGARIS               05/02/2024  05/03/2024  STAFF TICKET FEES                                                              $839.80
+                                                                                   STAFF TRANSPORTATION
+DBRI20240500      06/16/2024  SHANDERLA DIONNE MCMILLIAN   06/06/2024  06/06/2024  WASHINGTON DC TO MONTGOMERY, NEW YORK NY, NEWARK NJ AND                          $47.50
+DBRI20240501      06/15/2024  MELANIE KAY HILL             06/10/2024  06/10/2024  RETURN                                                                         $401.22
+DBRI20240502      06/15/2024  MELANIE KAY HILL             06/06/2024  06/06/2024  STAFF INCIDENTALS
+DBRI20240503      06/15/2024  MELANIE KAY HILL             05/22/2024  05/22/2024  STAFF PER DIEM                                                                   $40.00
+DBRI20240505      06/24/2024  MELANIE KAY HILL             05/31/2024  05/31/2024  STAFF TICKET FEES                                                           $1,230.86
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ALEXANDRIA VA TO WASHINGTON DC, HUNTSVILLE, WASHINGTON DC AND                    $68.92
+                                                                                   RETURN                                                                         $299.00
+                                                                                   STAFF INCIDENTALS
+                                                                                   STAFF PER DIEM                                                                   $40.00
+                                                                                   STAFF TICKET FEES                                                              $568.70
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC TO MONTGOMERY, POINT CLEAR, PENSACOLA FL AND                       $40.60
+                                                                                   RETURN
+                                                                                   STAFF TRANSPORTATION                                                             $23.00
+                                                                                   HARVEST TO MOULTON TO HUNTSVILLE
+                                                                                   STAFF TRANSPORTATION                                                             $35.00
+                                                                                   DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION                                                             $76.00
+                                                                                   DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION                                                           $101.00
+                                                                                   DOTHAN TO ANDALUSIA AND RETURN
+                                                                                   STAFF TRANSPORTATION
+

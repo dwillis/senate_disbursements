@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                   POSTED                                                  DATES
+DBRN20240792      06/13/2024  JAMES T HUFFER-COLE                                       STAFF TRANSPORTATION                                                          $95.14
+DBRN20240793      06/14/2024  ANN L ORR                         START       END         LOUISVILLE TO AKRON, ASHLAND AND RETURN
+DBRN20240794                  ANN L ORR                                                 STAFF PER DIEM                                                                $13.69
+DBRN20240795      06/14/2024  ANN L ORR                         06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                          $66.94
+DBRN20240796                  BRENDAN M FLYNN                                           OBERLIN TO CLEVELAND AND RETURN
+                  06/14/2024                                    06/04/2024  06/04/2024  STAFF PER DIEM                                                                $11.07
+DBRN20240797                                                                            STAFF TRANSPORTATION                                                          $49.58
+                  06/17/2024                                    06/06/2024  06/06/2024  OBERLIN TO CLEVELAND AND RETURN
+DBRN20240799                                                                            STAFF PER DIEM                                                                $12.50
+                                                                06/07/2024  06/07/2024  STAFF TRANSPORTATION                                                          $49.58
+DBRN20240802                                                                            OBERLIN TO CLEVELAND, COLUMBUS AND RETURN
+DBRN20240803                                                    03/07/2024  03/10/2024  STAFF INCIDENTALS                                                             $64.05
+DBRN20240804                                                                            STAFF PER DIEM                                                              $366.00
+DBRN20240805      06/24/2024  KATHERINE E MULHALL QUINTELA      10/05/2023  10/07/2023  STAFF TRANSPORTATION
+DBRN20240806                                                                            WASHINGTON DC TO COLUMBUS AND RETURN                                          $30.78
+DBRN20240807      06/24/2024  LOGAN DEAN BASCH                  06/05/2024  06/07/2024  STAFF INCIDENTALS
+DBRN20240808                                                                            STAFF PER DIEM                                                                $23.98
+DBRN20240810      06/18/2024  JORDAN T PENNELL                  06/13/2024  06/13/2024  STAFF TRANSPORTATION                                                        $172.56   B-701
+                  06/25/2024  JORDAN T PENNELL                  06/12/2024  06/12/2024  WASHINGTON DC TO CLEVELAND, COLUMBUS TO ARLINGTON VA                        $265.88
+DBRN20240811      06/25/2024  JAMES T HUFFER-COLE               06/11/2024  06/11/2024  STAFF INCIDENTALS
+DBRN20240812      07/01/2024  JAMES T HUFFER-COLE               06/12/2024  06/12/2024  STAFF PER DIEM                                                                $93.00
+                  06/25/2024  ANTHONY L ELIOPOULOS              06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                        $361.50
+                  06/27/2024  ANTHONY L ELIOPOULOS              06/13/2024  06/13/2024  WASHINGTON DC TO CLEVELAND, COLUMBUS AND RETURN
+                  06/25/2024  ANN L ORR                         06/11/2024  06/11/2024  STAFF TRANSPORTATION                                                          $32.04
+                  06/25/2024  ERICA N KRAUSE                    06/10/2024  06/13/2024  YOUNGSTOWN TO ASHTABULA AND RETURN
+                                                                                        STAFF PER DIEM                                                                $87.10
+                  06/26/2024  ERICA N KRAUSE                    06/06/2024  06/06/2024  STAFF TRANSPORTATION
+                  06/26/2024  ERICA N KRAUSE                    06/04/2024  06/04/2024  YOUNGSTOWN TO CANTON AND RETURN                                               $17.38
+                                                                                        STAFF PER DIEM                                                                $84.42
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LOUISVILLE TO KIRBY AND RETURN                                                 $7.59
+                                                                                        STAFF PER DIEM                                                              $168.84
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LOUISVILLE TO ADA, WADSWORTH AND RETURN                                        $5.89
+                                                                                        STAFF TRANSPORTATION                                                        $209.04
+                                                                                        COLUMBUS TO DAYTON AND RETURN
+                                                                                        STAFF PER DIEM                                                              $102.37
+                                                                                        STAFF TRANSPORTATION
+                                                                                        COLUMBUS TO HILLSBORO, JACKSON AND RETURN                                      $9.00
+                                                                                        STAFF PER DIEM                                                              $157.38
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OBERLIN TO CLEVELAND AND RETURN                                               $10.79
+                                                                                        STAFF INCIDENTALS                                                             $62.25
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                        $106.40
+                                                                                        TOLEDO TO DETROIT MI, WASHINGTON DC, DETROIT MI AND RETURN                  $720.56
+                                                                                        STAFF TRANSPORTATION                                                        $350.19
+                                                                                        IN AND AROUND TOLEDO
+                                                                                        STAFF TRANSPORTATION                                                          $10.58
+                                                                                        TOLEDO TO FINDLAY AND RETURN
+                                                                                                                                                                      $64.38
+

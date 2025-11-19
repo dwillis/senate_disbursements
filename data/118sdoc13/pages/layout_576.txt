@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                   POSTED                                                  DATES
+DBLA20241769                  CHELSEA M IVENS                                           STAFF TRANSPORTATION                                                          $62.98
+DBLA20241770      07/16/2024  CHELSEA M IVENS                   START       END         KNOXVILLE TO WARTBURG AND RETURN                                              $34.17
+DBLA20241771      07/16/2024  CHELSEA M IVENS                                           STAFF TRANSPORTATION                                                          $47.57
+DBLA20241772      07/16/2024  CHELSEA M IVENS                   06/17/2024  06/17/2024  KNOXVILLE TO OAK RIDGE, CLINTON AND RETURN                                    $61.64
+DBLA20241773      07/16/2024  CHELSEA M IVENS                                           STAFF TRANSPORTATION                                                          $46.90
+DBLA20241774      07/16/2024  CHELSEA M IVENS                   06/18/2024  06/18/2024  KNOXVILLE TO WALLAND, TOWNSEND, MARYVILLE AND RETURN                          $60.97
+DBLA20241775      07/16/2024  CHELSEA M IVENS                                           STAFF TRANSPORTATION                                                          $62.98
+DBLA20241776      07/16/2024  CALEB ADDISON HASLETT             06/20/2024  06/20/2024  KNOXVILLE TO OAK RIDGE, MAYNARDVILLE AND RETURN                               $17.42
+DBLA20241777      07/16/2024  CALEB ADDISON HASLETT                                     STAFF TRANSPORTATION                                                          $36.18
+DBLA20241778      07/16/2024  CALEB ADDISON HASLETT             06/21/2024  06/21/2024  KNOXVILLE TO JEFFERSON CITY, DANDRIDGE AND RETURN                             $37.52
+DBLA20241783      07/16/2024  TYLER B PRIVETTE                                          STAFF TRANSPORTATION                                                          $96.27
+DBLA20241784      07/17/2024  JOHN M CLEMENT                    06/24/2024  06/24/2024  KNOXVILLE TO CLINTON, OAK RIDGE, POWELL AND RETURN                            $42.88
+DBLA20241785      07/17/2024  JOHN M CLEMENT                                            STAFF TRANSPORTATION                                                        $120.60
+DBLA20241786      07/19/2024  JOHN M CLEMENT                    07/01/2024  07/01/2024  KNOXVILLE TO MARYVILLE, RUTLEDGE AND RETURN                                   $69.01
+DBLA20241787      07/17/2024  JOHN M CLEMENT                                            STAFF TRANSPORTATION                                                          $91.12
+DBLA20241788      07/18/2024  JOHN M CLEMENT                    07/02/2024  07/02/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $88.44
+DBLA20241789      07/17/2024  JOHN M CLEMENT                                            STAFF TRANSPORTATION                                                          $80.40
+DBLA20241790      07/17/2024  DANA L MAGNESON                   06/27/2024  06/27/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $171.52
+DBLA20241791      07/20/2024  CHRISTOPHER P KELLY                                       STAFF TRANSPORTATION                                                        $837.50
+DBLA20241792      07/19/2024  CALEB ADDISON HASLETT             06/28/2024  06/28/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $112.56
+DBLA20241793      07/16/2024  CALEB ADDISON HASLETT                                     STAFF TRANSPORTATION                                                          $73.03
+DBLA20241794      07/16/2024  CALEB ADDISON HASLETT             07/02/2024  07/02/2024  CHATTANOOGA TO WINCHESTER AND RETURN                                          $36.85
+DBLA20241796      07/16/2024  NEELY, BLAKEMON L                                         STAFF TRANSPORTATION                                                        $127.70
+                  07/19/2024                                    07/09/2024  07/09/2024  NASHVILLE TO SPRINGFIELD AND RETURN                                                   B-558
+DBLA20241797                  NEELY, BLAKEMON L                                         STAFF TRANSPORTATION                                                        $242.54
+DBLA20241798      07/19/2024  MICHAEL L HENSLEY                 06/11/2024  06/11/2024  NASHVILLE TO FORT CAMPBELL KY AND RETURN                                    $125.29
+                  07/19/2024                                                            STAFF TRANSPORTATION
+                                                                06/13/2024  06/13/2024  NASHVILLE TO CLARKSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                06/18/2024  06/18/2024  NASHVILLE TO SPRINGFIELD, FORT CAMPBELL KY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                06/24/2024  06/24/2024  NASHVILLE TO FORT CAMPBELL KY, CLARKSVILLE TO ADAMS
+                                                                                        STAFF TRANSPORTATION
+                                                                06/28/2024  06/28/2024  NASHVILLE TO CLARKSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/10/2024  07/10/2024  JACKSON TO NASHVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/09/2024  07/09/2024  WASHINGTON DC TO GATLINBURG AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                06/29/2024  07/07/2024  NASHVILLE TO COOKEVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/08/2024  07/08/2024  NASHVILLE TO HARTSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/09/2024  07/09/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                07/10/2024  07/10/2024  IUKA MS TO DECATURVILLE, LINDEN, HOHENWALD, WAYNESBORO AND
+                                                                                        RETURN
+                                                                07/10/2024  07/10/2024  STAFF TRANSPORTATION
+                                                                                        IUKA MS TO SOUTH PITTSBURG AND RETURN
+                                                                07/09/2024  07/09/2024  STAFF TRANSPORTATION
+                                                                06/25/2024  06/25/2024
+

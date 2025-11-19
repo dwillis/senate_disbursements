@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                             DATES
+DSEM20240660                                                                      BUCKEYE TO PHOENIX AND RETURN                                                $38.86
+DSEM20240661                                              START       END         STAFF TRANSPORTATION                                                         $68.34
+DSEM20240662                                                                      BUCKEYE TO PHOENIX AND RETURN                                                $53.60
+DSEM20240663      07/01/2024  SARAH E BLACHE              04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                         $38.86  B-2338
+DSEM20240664      07/01/2024  SARAH E BLACHE              04/19/2024  04/19/2024  BUCKEYE TO CHANDLER AND RETURN                                               $36.18
+DSEM20240668      07/01/2024  SARAH E BLACHE              04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                         $59.02
+DSEM20240669      07/01/2024  SARAH E BLACHE              03/06/2024  03/06/2024  BUCKEYE TO MESA AND RETURN                                                 $234.10
+DSEM20240672      07/01/2024  SARAH E BLACHE              03/01/2024  03/01/2024  STAFF TRANSPORTATION                                                         $33.50
+DSEM20240673      07/01/2024  CITIBANK - TRAVEL CBA CARD  06/19/2024  06/20/2024  BUCKEYE TO MESA TO PHOENIX                                                 $127.30
+DSEM20240674      07/03/2024  CITIBANK - TRAVEL CBA CARD  06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                         $31.49
+DSEM20240675      07/02/2024  BIANCA M LOPEZ              06/24/2024  06/24/2024  BUCKEYE TO PHOENIX AND RETURN                                              $740.70
+                  07/02/2024  VICTORIA OKULA              06/22/2024  06/22/2024  STAFF TRANSPORTATION                                                    $4,644.00
+DSEM20240676      07/03/2024  BIANCA M LOPEZ              06/04/2024  06/04/2024  RENTAL AUTO FOR L PRADO SCOTTSDALE TO PRESCOTT AND RETURN                  $147.90
+DSEM20240677      07/03/2024  JOSEPH M HARO               06/03/2024  06/20/2024  STAFF TRANSPORTATION                                                         $24.79
+                                                                                  AIRFARE FOR D WINKLER WASHINGTON DC TO PHOENIX                               $28.66
+DSEM20240679      07/03/2024  BIANCA M LOPEZ              05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                       $318.68
+DSEM20240681      07/09/2024  GEORGIA B GARVIN            05/02/2024  05/06/2024  PHOENIX TO AVONDALE AND RETURN                                               $27.46
+DSEM20240690                                                                      STAFF TRANSPORTATION                                                         $16.08
+DSEM20240691      07/08/2024  VICTORIA OKULA              06/26/2024  06/26/2024  PHOENIX TO TONTO BASIN AND RETURN                                            $54.35
+DSEM20240692      09/06/2024  LINDA L PRADO               06/19/2024  06/20/2024  STAFF TRANSPORTATION                                                       $644.20
+DSEM20240693      07/22/2024  CITIBANK - TRAVEL CBA CARD  07/07/2024  07/11/2024  PHOENIX TO AVONDALE AND RETURN                                             $468.20
+DSEM20240694      07/22/2024  CITIBANK - TRAVEL CBA CARD  07/07/2024  07/11/2024  STAFF INCIDENTALS                                                          $644.20
+DSEM20240699      07/22/2024  CITIBANK - TRAVEL CBA CARD  07/07/2024  07/11/2024  STAFF PER DIEM                                                             $644.20
+                  07/22/2024  CITIBANK - TRAVEL CBA CARD  07/07/2024  07/12/2024  STAFF TRANSPORTATION                                                       $142.77
+DSEM20240700      07/23/2024  JOSEPH M HARO               07/11/2024  07/11/2024  TUCSON TO WASHINGTON DC AND RETURN                                           $84.21
+                  08/02/2024  TRAVIS JAMES SCHULTE        07/07/2024  07/11/2024  STAFF TRANSPORTATION                                                       $647.33
+                                                                                  LITCHFIELD PARK TO PHOENIX AND RETURN                                        $46.22
+                  07/29/2024  CITIBANK - TRAVEL CBA CARD  07/02/2024  07/03/2024  STAFF INCIDENTALS                                                          $234.10
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO PHOENIX, SEDONA AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PHOENIX TO SCOTTSDALE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PHOENIX TO SCOTTSDALE, PRESCOTT, SCOTTSDALE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR A KENNEDY PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR C SAUDER PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR T SCHULTE PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR G GARVIN PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TUCSON TO BISBEE AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+

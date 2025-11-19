@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                             DATES
+DHAW20240910                                                                      COLUMBIA TO VERSAILLES, MACON AND RETURN                                       $76.51
+DHAW20240911                                              START       END         STAFF TRANSPORTATION                                                         $127.30
+DHAW20240912                                                                      COLUMBIA TO TUSCUMBIA AND RETURN                                             $249.44
+DHAW20240913      09/03/2024  TAYLOR ELIZABETH BLACKWELL  07/10/2024  07/10/2024  STAFF TRANSPORTATION
+DHAW20240914      09/04/2024  TAYLOR ELIZABETH BLACKWELL  07/11/2024  07/11/2024  COLUMBIA TO FRANKFORD AND RETURN                                               $47.03
+DHAW20240915      09/04/2024  TAYLOR ELIZABETH BLACKWELL  07/12/2024  07/12/2024  STAFF TRANSPORTATION                                                           $38.86
+DHAW20240916                                                                      COLUMBIA TO THE FOLLOWING AND RETURN: ROLLA, SAINT JAMES;                      $16.75
+DHAW20240917      09/03/2024  TAYLOR ELIZABETH BLACKWELL  07/15/2024  07/15/2024  WASHINGTON
+DHAW20240918      09/05/2024  TAYLOR ELIZABETH BLACKWELL  07/18/2024  07/18/2024  STAFF TRANSPORTATION                                                            $5.60
+DHAW20240919      09/05/2024  MADELEINE CASTLE            08/06/2024  08/06/2024  COLUMBIA TO MOBERLY AND RETURN                                                 $52.93
+DHAW20240920      09/05/2024  TANNER L WALLACE            08/06/2024  08/06/2024  STAFF TRANSPORTATION                                                           $52.39
+                                                                                  COLUMBIA TO BOONVILLE AND RETURN                                               $39.53
+DHAW20240921      09/05/2024  TAYLOR ELIZABETH BLACKWELL  08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                           $40.87  B-1339
+DHAW20240922      09/05/2024  TANNER L WALLACE            08/08/2024  08/08/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $19.25
+DHAW20240923      09/06/2024  MADELEINE CASTLE            08/08/2024  08/08/2024  STAFF PER DIEM                                                               $232.49
+DHAW20240924      09/09/2024  TANNER L WALLACE            08/14/2024  08/14/2024  STAFF TRANSPORTATION
+DHAW20240925                                                                      REPUBLIC TO MONETT TO SPRINGFIELD                                              $72.67
+DHAW20240926      09/09/2024  TANNER L WALLACE            08/15/2024  08/15/2024  STAFF TRANSPORTATION                                                         $166.83
+DHAW20240927      09/06/2024  ERIN M ENGELMEYER           08/09/2024  08/09/2024  COLUMBIA TO MEXICO AND RETURN
+DHAW20240931      09/10/2024  ERIN M ENGELMEYER           08/12/2024  08/12/2024  STAFF TRANSPORTATION                                                            $7.15
+                  09/06/2024  ERIN M ENGELMEYER           08/14/2024  08/14/2024  SPRINGFIELD TO BOLIVAR AND RETURN                                            $105.19
+                  09/09/2024  TANNER L WALLACE            08/19/2024  08/19/2024  STAFF TRANSPORTATION
+                  09/09/2024  ERIN M ENGELMEYER           08/15/2024  08/15/2024  ST LOUIS TO GLENDALE TO SAINT CHARLES                                           $9.94
+                  09/06/2024  TANNER L WALLACE            08/16/2024  08/16/2024  STAFF PER DIEM                                                               $103.18
+                  09/10/2024  ERIN M ENGELMEYER           08/06/2024  08/06/2024  STAFF TRANSPORTATION
+                                                                                  REPUBLIC TO CARTHAGE, LAMAR, EL DORADO SPRINGS, SEDALIA AND                    $10.49
+                                                                                  RETURN                                                                       $119.26
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION                                                           $22.02
+                                                                                  REPUBLIC TO SEDALIA TO SPRINGFIELD                                           $118.59
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION                                                           $89.18
+                                                                                  SPRINGFIELD TO WEBB CITY TO ROGERSVILLE                                      $163.48
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION                                                           $14.98
+                                                                                  ROGERSVILLE TO GAINESVILLE AND RETURN                                          $75.71
+                                                                                  STAFF PER DIEM                                                                 $18.09
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ROGERSVILLE TO SAINT ROBERT TO SPRINGFIELD
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SPRINGFIELD TO OSAGE BEACH AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ROGERSVILLE TO SEDALIA AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  REPUBLIC TO MONETT, CASSVILLE, PURDY TO SPRINGFIELD
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SPRINGFIELD TO OZARK TO ROGERSVILLE
+

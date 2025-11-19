@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                        DATES
+DBLA20241889                                                                 JACKSON TO HUMBOLDT AND RETURN                                             $123.28
+DBLA20241890                                         START       END         STAFF TRANSPORTATION                                                         $58.96
+DBLA20241891                                                                 JACKSON TO MEMPHIS AND RETURN                                                $26.80
+DBLA20241892      08/09/2024  JAMES M WYATT          07/18/2024  07/18/2024  STAFF TRANSPORTATION                                                         $79.06  B-562
+DBLA20241893      08/08/2024  JAMES M WYATT          07/23/2024  07/23/2024  JACKSON TO PARSONS AND RETURN                                                $39.53
+DBLA20241894      08/08/2024  JAMES M WYATT          07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                         $61.64
+DBLA20241895      08/08/2024  JAMES M WYATT          07/31/2024  07/31/2024  JACKSON TO MILAN AND RETURN                                                  $69.68
+DBLA20241896      08/12/2024  CHELSEA M IVENS        07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                         $76.38
+DBLA20241897      08/08/2024  CHELSEA M IVENS        07/10/2024  07/10/2024  JACKSON TO UNION CITY AND RETURN
+DBLA20241898      08/08/2024  CHELSEA M IVENS        07/11/2024  07/11/2024  STAFF TRANSPORTATION                                                       $123.95
+DBLA20241899      08/08/2024  CHELSEA M IVENS        07/12/2024  07/12/2024  KNOXVILLE TO OAK RIDGE, POWELL AND RETURN                                  $106.53
+DBLA20241900      08/09/2024  CHELSEA M IVENS        07/17/2024  07/17/2024  STAFF TRANSPORTATION
+DBLA20241901      08/09/2024  CHELSEA M IVENS        07/18/2024  07/18/2024  KNOXVILLE TO CLINTON, JEFFERSON CITY AND RETURN                              $73.03
+DBLA20241902      08/08/2024  CHELSEA M IVENS        07/19/2024  07/19/2024  STAFF TRANSPORTATION                                                         $26.13
+DBLA20241903      08/12/2024  CHELSEA M IVENS        07/22/2024  07/22/2024  KNOXVILLE TO LENOIR CITY, OAK RIDGE, SEYMOUR AND RETURN                      $87.10
+DBLA20241910      08/12/2024  CHELSEA M IVENS        07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                         $96.48
+DBLA20241911      08/08/2024  CHELSEA M IVENS        07/30/2024  07/30/2024  KNOXVILLE TO LENOIR CITY, WARTBURG AND RETURN                              $110.55
+DBLA20241912      08/09/2024  CHELSEA M IVENS        07/31/2024  07/31/2024  STAFF TRANSPORTATION                                                         $26.80
+DBLA20241913      08/16/2024  WILLIAM A GUFFEE       08/07/2024  08/07/2024  KNOXVILLE TO JAMESTOWN AND RETURN                                            $18.09
+                  08/16/2024  PABLO A MARTINEZ       08/05/2024  08/05/2024  STAFF TRANSPORTATION                                                         $55.61
+DBLA20241914      08/16/2024  PABLO A MARTINEZ       08/06/2024  08/06/2024  KNOXVILLE TO CROSSVILLE AND RETURN                                           $24.73
+DBLA20241915      08/19/2024  NEELY, BLAKEMON L      08/06/2024  08/06/2024  STAFF TRANSPORTATION                                                       $225.52
+DBLA20241916                                                                 KNOXVILLE TO OAK RIDGE, PIGEON FORGE AND RETURN                            $116.58
+DBLA20241917      08/16/2024  JAMES M WYATT          08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                       $105.86
+                  08/16/2024  JAMES M WYATT          08/02/2024  08/02/2024  KNOXVILLE TO ALCOA AND RETURN                                                $28.81
+DBLA20241918      08/16/2024  CALEB ADDISON HASLETT  08/05/2024  08/05/2024  STAFF TRANSPORTATION                                                         $30.00
+                  08/15/2024  CALEB ADDISON HASLETT  08/06/2024  08/06/2024  KNOXVILLE TO MORRISTOWN AND RETURN                                         $107.20
+                                                                             STAFF TRANSPORTATION                                                         $45.00
+                  08/16/2024  CALEB ADDISON HASLETT  08/07/2024  08/07/2024  KNOXVILLE TO CLINTON, ALCOA, JEFFERSON CITY AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             KNOXVILLE TO HUNTSVILLE, PIGEON FORGE AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             CHATTANOOGA TO HIXSON AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                             STAFF TRANSPORTATION
+                                                                             FRANKLIN TO MURFREESBORO TO NASHVILLE
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             IUKA MS TO LINDEN, FAYETTEVILLE AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             JACKSON TO CENTERVILLE AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             JACKSON TO WAVERLY AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             NASHVILLE TO COOKEVILLE AND RETURN
+                                                                             STAFF PER DIEM
+

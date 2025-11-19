@@ -1,0 +1,62 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME   OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                   DATES
+VSAA22406649                  ROBERTS DISTRIBUTORS, L.P.                                 AUDIO, VISUAL EQUIPMENT                                                $17,120.00
+VSAA22406650      07/19/2024  TENACITY INC                       START       END         SOFTWARE LICENSE                                                        $3,900.00
+VSAA22406655      07/15/2024  HYNES & WALLER INC                                         IT EQUIPMENT
+VSAA22406673      07/10/2024  SYMPLICITY CORPORATION             06/17/2024  06/17/2024  SOFTWARE LICENSE                                                       $14,378.20    B-452
+VSAA22406700      07/10/2024  AUGUST SCHELL ENTERPRISES, INC.    06/26/2024  06/26/2024  SOFTWARE LICENSE                                                       $16,480.00
+VSAA22406711      07/16/2024  ZIGNAL LABS INC                    02/20/2024  02/20/2024  SOFTWARE LICENSE                                                     $211,365.00
+VSAA22406714      07/11/2024  ASCENDANT APP, LLC                 06/01/2024  06/30/2024  SOFTWARE LICENSE                                                       $98,500.00
+VSAA22406718      07/09/2024  COMPUTERWORKS INC.                 06/28/2024  06/27/2025  SOFTWARE LICENSE
+VSAA22406751      07/11/2024  LEIDOS DIGITAL SOLUTIONS INC       06/12/2024  06/12/2024  SOFTWARE LICENSE                                                        $2,735.00
+VSAA22406756      07/12/2024  LEIDOS DIGITAL SOLUTIONS INC       06/01/2024  06/30/2024  SOFTWARE LICENSE                                                        $3,881.00
+VSAA22406757      08/09/2024  LEIDOS DIGITAL SOLUTIONS INC       06/01/2024  06/30/2024  SOFTWARE LICENSE
+VSAA22406771      08/09/2024  THE ARDIAN GROUP, INC              05/01/2024  05/31/2024  SOFTWARE LICENSE                                                           $247.00
+                  07/16/2024  GENERAL DYNAMICS INFORMATION TECH  05/01/2024  05/31/2024                                                                          $1,400.00
+VSAA22406837                  INC                                05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT                                             $4,900.00
+                  07/18/2024  SYMPLICITY CORPORATION             05/21/2024  05/21/2024                                                                         $92,830.00
+VSAA22406847                  CREATIVENGINE CORPORATION                                  SOFTWARE LICENSE
+VSAA22406859      07/19/2024  CREATIVENGINE CORPORATION          04/27/2024  05/24/2024  SOFTWARE LICENSE                                                       $81,070.39
+VSAA22406864      07/19/2024  CREATIVENGINE CORPORATION                                  SOFTWARE LICENSE
+VSAA22406867      08/06/2024  CREATIVENGINE CORPORATION          06/01/2024  06/30/2024  SOFTWARE LICENSE                                                           $235.00
+VSAA22406870      07/19/2024  ROBERTS DISTRIBUTORS, L.P.         04/01/2024  06/30/2024  SOFTWARE LICENSE                                                        $1,500.00
+VSAA22406879      07/19/2024  ESSEX INDUSTRIES, INC.             06/01/2024  06/30/2024  AUDIO, VISUAL EQUIPMENT
+VSAA22406883      07/19/2024  CREATIVENGINE CORPORATION          06/01/2024  06/30/2024  IT EQUIPMENT                                                               $500.00
+VSAA22406963      09/11/2024  CREATIVENGINE CORPORATION          06/01/2024  06/30/2024  SOFTWARE LICENSE                                                           $500.00
+VSAA22406964      07/19/2024  CREATIVENGINE CORPORATION          06/17/2024  06/17/2024  SOFTWARE LICENSE                                                           $500.00
+VSAA22406965      07/19/2024  ROBERTS DISTRIBUTORS, L.P.         05/01/2024  05/01/2024  SOFTWARE LICENSE                                                           $366.00
+VSAA22406968      07/19/2024  CREATIVENGINE CORPORATION          06/01/2024  06/30/2024  AUDIO, VISUAL EQUIPMENT                                              $200,220.00
+VSAA22406971      07/23/2024  CREATIVENGINE CORPORATION          06/01/2024  06/30/2024  SOFTWARE LICENSE                                                           $500.00
+VSAA22406974      08/06/2024  B&H PHOTOVIDEO INC                 06/01/2024  06/30/2024  SOFTWARE LICENSE                                                           $500.00
+VSAA22406981      08/06/2024  PERATON INC.                       06/17/2024  06/17/2024  AUDIO, VISUAL EQUIPMENT                                                    $500.00
+VSAA22406982      09/05/2024  PERATON ENTERPRISE SOLUTIONS       06/01/2024  06/30/2024  VOICE & DATA COMM EQUIPMENT                                            $43,664.00
+VSAA22406983      07/18/2024  RTK FLOORING                       06/01/2024  06/30/2024  VOICE & DATA COMM EQUIPMENT                                            $14,000.00
+VSAA22406997      07/18/2024  RTK FLOORING                       07/01/2024  07/01/2024  CARPETING                                                               $4,000.00
+VSAA22407036      07/20/2024  CHESAPEAKE NETCRAFTSMEN, LLC       06/01/2024  06/01/2024  CARPETING
+VSAA22407043      07/22/2024  PERATON ENTERPRISE SOLUTIONS       06/01/2024  06/30/2024  VOICE & DATA COMM EQUIPMENT                                                  $34.49
+VSAA22407053      07/24/2024                                     06/24/2024  06/24/2024  AUDIO, VISUAL EQUIPMENT                                                $93,362.80
+                  07/23/2024  PERATON ENTERPRISE SOLUTIONS       07/05/2024  07/05/2024  IT SUPPORTIVE EQUIPMENT                                              $280,086.28
+VSAA22407055                  CARAHSOFT TECHNOLOGY CORPORATION   06/11/2024  06/11/2024  SOFTWARE LICENSE
+VSAA22407090      07/24/2024  STACK EXCHANGE INC                 06/01/2024  06/30/2024  VOICE & DATA COMM EQUIPMENT                                                $469.00
+VSAA22407114      07/25/2024  ABC BUS INC                                                VOICE & DATA COMM EQUIPMENT                                                $551.80
+VSAA22407121      07/22/2024  SWITCHBOARD LIVE INC               05/31/2024  05/31/2024  SOFTWARE LICENSE                                                       $59,709.00
+VSAA22407122      07/29/2024  LEIDOS DIGITAL SOLUTIONS INC       05/01/2024  06/30/2024  SOFTWARE LICENSE                                                        $2,367.48
+VSAA22407149      07/31/2024  ROBERTS DISTRIBUTORS, L.P.         06/10/2024  06/09/2025  VEHICLE                                                                 $3,629.83
+VSAA22407157      07/24/2024  KNIGHTSBRIDGE INTERIORS,           12/07/2023  12/07/2023  SOFTWARE LICENSE                                                       $10,450.90
+                  08/06/2024  INCORPORATED                       07/01/2024  12/31/2024  SOFTWARE LICENSE                                                     $298,106.24
+VSAA22407198                  VERIZON WIRELESS                   06/01/2024  06/30/2024  AUDIO, VISUAL EQUIPMENT                                                 $1,980.92
+                  07/29/2024  VERIZON WIRELESS                   06/17/2024  06/17/2024                                                                         $41,198.16
+VSAA22407204                  PERATON ENTERPRISE SOLUTIONS                               WINDOW TREATMENTS                                                       $3,726.00
+VSAA22407206      07/30/2024  VERIZON WIRELESS                   10/11/2023  10/11/2023                                                                       $149,043.00
+VSAA22407251      07/30/2024                                                             VOICE & DATA COMM EQUIPMENT                                             $3,600.00
+VSAA22407314      08/09/2024                                     06/14/2024  06/14/2024  VOICE & DATA COMM EQUIPMENT                                            $48,600.00
+                  09/26/2024                                     06/14/2024  06/14/2024  VOICE & DATA COMM EQUIPMENT                                             $1,372.00
+                                                                 06/10/2024  06/10/2024  VOICE & DATA COMM EQUIPMENT
+                                                                 07/15/2024  07/15/2024                                                                          $3,350.00
+
+                                                                                                                                                                    $749.99
+                                                                                                                                                                 $2,269.96
+                                                                                                                                                                 $8,933.46
+
+                                                                                                                                                                      $59.97
+

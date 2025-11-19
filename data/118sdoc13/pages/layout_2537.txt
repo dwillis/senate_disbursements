@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION             AMOUNT ($)
+                   POSTED                                                  DATES
+DVAC20240856                  PETER DAVID MARBACH                                       STAFF TRANSPORTATION                                                                    $76.38
+DVAC20240857      08/22/2024  PETER DAVID MARBACH               START       END         COLUMBUS TO BELLEFONTAINE AND RETURN                                                    $67.00
+DVAC20240858      08/22/2024  PETER DAVID MARBACH                                       STAFF TRANSPORTATION                                                                  $104.52
+DVAC20240859      08/23/2024  STEVEN J COOK                     07/31/2024  07/31/2024  COLUMBUS TO MOUNT GILEAD AND RETURN                                                   $134.00
+DVAC20240860      09/09/2024  JAMES M COYNE                                             STAFF TRANSPORTATION                                                                  $240.53
+                  09/09/2024                                    08/01/2024  08/01/2024  COLUMBUS TO KENTON AND RETURN
+DVAC20240861                  ROY GENE PALMER III                                       STAFF TRANSPORTATION                                                                    $23.45
+DVAC20240862      09/09/2024  ROY GENE PALMER III               08/06/2024  08/06/2024  NEWARK TO FAIRBORN AND RETURN                                                         $110.55
+DVAC20240863      09/09/2024  BETH ANN BIGHAM                                           STAFF TRANSPORTATION
+DVAC20240864      09/09/2024  BETH ANN BIGHAM                   08/13/2024  08/13/2024  COLUMBUS TO THE FOLLOWING AND RETURN: 7/10 CLEVELAND; 7/21                              $75.04
+DVAC20240865      09/09/2024  BETH ANN BIGHAM                                           DUBLIN; 7/26 INTERDEPARTMENTAL TRANSPORTATION; 8/12 HILLIARD                            $46.90
+DVAC20240866      09/09/2024  TIMOTHY RYAN SCHNEIDER            07/10/2024  08/12/2024  STAFF TRANSPORTATION                                                                    $12.06
+DVAC20240868      09/09/2024  ROY GENE PALMER III                                       TOLEDO TO BOWLING GREEN AND RETURN                                                      $14.74
+DVAC20240869      09/09/2024  CALEB D SHRIVER                   08/13/2024  08/13/2024  STAFF TRANSPORTATION                                                                    $77.72  B-2500
+                  09/09/2024                                    08/14/2024  08/14/2024  TOLEDO TO LIMA AND RETURN                                                          $1,257.59
+DVAC20240870                                                    08/08/2024  08/08/2024  STAFF TRANSPORTATION
+DVAC20240871                                                    08/12/2024  08/12/2024  HUDSON TO YOUNGSTOWN AND RETURN                                                       $101.17
+DVAC20240872                                                    08/13/2024  08/13/2024  STAFF TRANSPORTATION                                                                    $81.07
+                                                                08/14/2024  08/14/2024  HUDSON TO CANTON AND RETURN
+DVAC20240873                                                    08/15/2024  08/15/2024  STAFF TRANSPORTATION                                                                  $197.65
+                                                                07/11/2024  08/08/2024  HUDSON TO PENINSULA AND RETURN
+DVAC20240874                                                                            STAFF TRANSPORTATION                                                                  $102.51
+DVAC20240875      09/12/2024  BETH ANN BIGHAM                   08/15/2024  08/16/2024  TOLEDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DVAC20240876      09/09/2024  BETH ANN BIGHAM                   08/19/2024  08/19/2024  STAFF TRANSPORTATION                                                                    $54.94
+DVAC20240877      09/09/2024  NICHOLAS W MORGAN                 08/06/2024  08/10/2024  TOLEDO TO SANDUSKY AND RETURN                                                           $47.57
+DVAC20240878                                                                            STAFF TRANSPORTATION                                                                    $71.02
+DVAC20240879      09/09/2024  NICHOLAS W MORGAN                 08/15/2024  08/16/2024  WARSAW TO THE FOLLOWING AND RETURN: 7/11 MARIETTA; 7/12, 16, 8/8                        $33.50
+                                                                                        ATHENS; 7/15 CALDWELL, WOODSFIELD; 7/18 POMEROY; 7/19 MARIETTA,                         $33.50
+                  09/09/2024  PETER DAVID MARBACH               08/12/2024  08/12/2024  SENECAVILLE; 7/23 BARNESVILLE; 7/24 LOGAN; 7/25 MARIETTA, ZANESFIELD                    $83.08
+                  09/09/2024  PETER DAVID MARBACH               08/14/2024  08/14/2024  STAFF TRANSPORTATION
+                  09/09/2024  PETER DAVID MARBACH               08/15/2024  08/15/2024  HUDSON TO GENEVA-ON-THE-LAKE, BURTON AND RETURN
+                  09/09/2024  ROY GENE PALMER III               08/19/2024  08/19/2024  STAFF TRANSPORTATION
+                  09/09/2024  ROY GENE PALMER III               08/20/2024  08/20/2024  HUDSON TO LORAIN, OBERLIN TO CLEVELAND
+                  09/10/2024  BETH ANN BIGHAM                   08/21/2024  08/21/2024  STAFF TRANSPORTATION
+                                                                                        CINCINNATI TO THE FOLLOWING AND RETURN: 8/6 TROY, SPRINGFIELD; 8/7
+                                                                                        HUBER HEIGHTS; 8/10 TROY
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CINCINNATI TO THE FOLLOWING AND RETURN: 8/15 DAYTON; 8/16
+                                                                                        SPRINGFIELD
+                                                                                        STAFF TRANSPORTATION
+                                                                                        COLUMBUS TO NEWARK AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        COLUMBUS TO MARYSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        COLUMBUS TO MOUNT VERNON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TOLEDO TO BOWLING GREEN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TOLEDO TO BOWLING GREEN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CLEVELAND TO ATWATER AND RETURN
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                              DATES
+DBLA20241178                                                                       AIRFARE FOR W GUFFEE NASHVILLE TO WASHINGTON DC                                   $316.10
+DBLA20241179                                               START       END         STAFF TRANSPORTATION                                                              $117.10
+                                                                                   AIRFARE FOR S NEWHOUSE WASHINGTON DC TO AUSTIN TX
+DBLA20241180      04/29/2024  CITIBANK - TRAVEL CBA CARD   03/25/2024  03/25/2024  STAFF TRANSPORTATION                                                                $40.00
+                  04/30/2024  CITIBANK - TRAVEL CBA CARD   03/26/2024  03/26/2024  TICKET FEES                                                                       $838.19
+DBLA20241181                                                                       AIRFARE FOR S NEWHOUSE AUSTIN TX TO NASHVILLE
+DBLA20241182      05/02/2024  CITIBANK - TRAVEL CBA CARD   03/31/2024  04/03/2024  STAFF TRANSPORTATION                                                                $80.00
+DBLA20241183                                                                       TICKET FEES                                                                       $448.10
+DBLA20241184      04/30/2024  CITIBANK - TRAVEL CBA CARD   04/11/2024  04/11/2024  AIRFARE FOR J SUSSKIND WASHINGTON DC TO KNOXVILLE AND RETURN                      $147.10   B-538
+DBLA20241185      04/29/2024  CITIBANK - SENATOR IBA CARD  03/22/2024  03/22/2024  STAFF TRANSPORTATION                                                              $147.10
+DBLA20241186      04/29/2024  CITIBANK - SENATOR IBA CARD  04/08/2024  04/08/2024  AIRFARE FOR W GUFFEE WASHINGTON DC TO NASHVILLE                                   $698.10
+DBLA20241187      04/29/2024  CITIBANK - SENATOR IBA CARD  03/23/2024  03/23/2024  SENATOR TRANSPORTATION                                                            $284.98
+DBLA20241188      04/30/2024  CITIBANK - SENATOR IBA CARD  03/26/2024  03/26/2024  AIRFARE FOR SEN BLACKBURN NASHVILLE TO WASHINGTON DC                              $308.10
+DBLA20241191      04/30/2024  CITIBANK - SENATOR IBA CARD  04/11/2024  04/11/2024  SENATOR TRANSPORTATION                                                            $117.92
+                  04/29/2024  CALEB ADDISON HASLETT        04/15/2024  04/15/2024  AIRFARE FOR SEN BLACKBURN NASHVILLE TO WASHINGTON DC
+DBLA20241192      04/26/2024  CALEB ADDISON HASLETT        04/16/2024  04/16/2024  SENATOR TRANSPORTATION                                                              $77.05
+                  04/29/2024  NEELY, BLAKEMON L            04/16/2024  04/16/2024  AIRFARE FOR SEN BLACKBURN WASHINGTON DC TO NASHVILLE                                $11.64
+                                                                                   SENATOR TRANSPORTATION                                                            $218.01
+                  05/13/2024  CHRISTOPHER P KELLY          03/22/2024  04/07/2024  AIRFARE FOR SEN BLACKBURN AUSTIN TX TO NASHVILLE                                    $47.43
+                                                                                   SENATOR TRANSPORTATION                                                            $248.71
+DBLA20241199      04/26/2024  PABLO A MARTINEZ             04/15/2024  04/15/2024  AIRFARE FOR SEN BLACKBURN WASHINGTON DC TO NASHVILLE                           $1,094.05
+DBLA20241219      04/26/2024  PABLO A MARTINEZ             04/16/2024  04/16/2024  STAFF TRANSPORTATION
+                                                                                   NASHVILLE TO GAINESBORO AND RETURN                                                  $28.74
+DBLA20241225      04/30/2024  NEELY, BLAKEMON L            04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                                $23.27
+                                                                                   NASHVILLE TO LAFAYETTE AND RETURN                                                   $46.90
+DBLA20241240      05/01/2024  CITIBANK - SENATOR IBA CARD  04/15/2024  04/15/2024  STAFF PER DIEM                                                                      $19.09
+DBLA20241241      05/01/2024  CALEB ADDISON HASLETT        04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                              $263.64
+DBLA20241242      04/30/2024  CHELSEA M IVENS              03/13/2024  03/13/2024  IUKA MS TO LYNCHBURG, SHELBYVILLE AND RETURN                                      $147.10
+DBLA20241243      04/30/2024  CHELSEA M IVENS              03/14/2024  03/14/2024  STAFF INCIDENTALS                                                                 $121.94
+DBLA20241244      04/30/2024  CHELSEA M IVENS              03/15/2024  03/15/2024  STAFF PER DIEM                                                                      $33.50
+                                                                                   STAFF TRANSPORTATION                                                                $52.93
+                                                                                   WASHINGTON DC TO SALT LAKE CITY, NASHVILLE, TULLAHOMA, KNOXVILLE                    $89.11
+                                                                                   AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   NASHVILLE TO SPRING HILL AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   IUKA MS TO WINCHESTER, MONTEAGLE, SOUTH PITTSBURG AND RETURN
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN BLACKBURN NASHVILLE TO WASHINGTON DC
+                                                                                   STAFF TRANSPORTATION
+                                                                                   NASHVILLE TO COOKEVILLE, HARTSVILLE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   KNOXVILLE TO MARYVILLE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   KNOXVILLE TO LA FOLLETTE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+

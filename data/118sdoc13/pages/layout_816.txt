@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+DCAP20240615       POSTED     JENNIFER L PIERCY                            DATES
+DCAP20240616                                                                            STAFF INCIDENTALS                                                                     $26.63
+                  09/24/2024                                    START       END         STAFF PER DIEM                                                                      $387.08
+                                                                                        STAFF TRANSPORTATION                                                                $160.80
+                                                                08/27/2024  08/29/2024  CHARLESTON TO WHITE SULPHUR SPRINGS AND RETURN
+                                                                                        STAFF INCIDENTALS                                                                     $51.58
+                  09/23/2024  LUKE C LILLY                      08/18/2024  08/22/2024  STAFF PER DIEM                                                                      $412.00
+                                                                                        STAFF TRANSPORTATION                                                                $657.94
+DCAP20240617      09/20/2024  CHARLES HENDERSON FLANNERY        08/28/2024  08/29/2024  WASHINGTON DC TO HUNTINGTON, WHEELING, MORGANTOWN AND
+DCAP20240618                                                                            RETURN                                                                                $26.63
+                  09/23/2024  HANNAH R THOMPSON                 08/20/2024  08/28/2024  STAFF INCIDENTALS                                                                   $260.46
+                                                                                        STAFF PER DIEM                                                                      $160.80
+DCAP20240619      09/20/2024  JEFFREY T JEZIERSKI               08/30/2024  08/30/2024  STAFF TRANSPORTATION                                                                          B-798
+DCAP20240620      09/20/2024  JEFFREY T JEZIERSKI               08/27/2024  08/29/2024  CHARLESTON TO WHITE SULPHUR SPRINGS, LEWISBURG AND RETURN                             $29.38
+                                                                                        STAFF INCIDENTALS                                                                   $324.72
+DCAP20240621      09/20/2024  TODD A GUNTER                     08/28/2024  09/03/2024  STAFF PER DIEM                                                                      $721.70
+DCAP20240622      09/20/2024  JEFFREY T JEZIERSKI               09/03/2024  09/03/2024  STAFF TRANSPORTATION
+DCAP20240623      09/20/2024  JESSICAH M CROSS                  07/16/2024  08/22/2024  WASHINGTON DC TO INWOOD, CHARLESTON, BECKLEY, INWOOD AND                            $117.92
+                                                                                        RETURN                                                                                $17.76
+DCAP20240624      09/20/2024  JESSICAH M CROSS                  08/13/2024  08/22/2024  STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO KEARNEYSVILLE AND RETURN                                           $116.10
+DCAP20240625      09/15/2024  JAMES D MANN                      09/05/2024  09/05/2024  STAFF INCIDENTALS                                                                   $343.04
+DCAP20240626      09/20/2024  ALEXANDER M VAUGHN                07/30/2024  07/30/2024  STAFF PER DIEM
+DCAP20240627      09/20/2024  ALEXANDER M VAUGHN                08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                                $407.36
+DCAP20240628      09/15/2024  ALEXANDER M VAUGHN                08/02/2024  08/02/2024  ALEXANDRIA VA TO LEXINGTON VA, WHITE SULPHUR SPRINGS TO
+DCAP20240629      09/20/2024  ALEXANDER M VAUGHN                08/07/2024  08/07/2024  WASHINGTON DC                                                                       $308.20
+DCAP20240630      09/15/2024  ALEXANDER M VAUGHN                08/08/2024  08/08/2024  STAFF TRANSPORTATION                                                                $979.54
+                                                                                        CHARLESTON TO THE FOLLOWING AND RETURN: 8/28, 29 WHITE SULPHUR
+                                                                                        SPRINGS; 9/3 BECKLEY                                                                $426.12
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO ARTHURDALE, MORGANTOWN TO ALEXANDRIA VA                              $98.49
+                                                                                        STAFF TRANSPORTATION                                                                $101.84
+                                                                                        MORGANTOWN TO THE FOLLOWING AND RETURN: 7/16, 30, 8/5                               $159.04
+                                                                                        CLARKSBURG; 7/19 CHARLESTON; 7/24 SAINT CLAIRSVILLE OH; 7/25
+                                                                                        MIDDLEBOURNE; 8/1 NEW CUMBERLAND; 8/6 SAINT MARYS; 8/8 FAIRMONT; 8                    $93.80
+                                                                                        /22 WEIRTON                                                                         $100.50
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MORGANTOWN TO THE FOLLOWING AND RETURN: 8/13 CLARKSBURG; 8/14                         $72.36
+                                                                                        WHEELING; 8/20 WHEELING, WEIRTON; 8/21 ANMOORE; 8/22 NEW
+                                                                                        MARTINSVILLE
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO SUMMIT POINT AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHARLESTON TO PARKERSBURG AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHARLESTON TO WELCH AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHARLESTON TO MAN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHARLESTON TO ELIZABETH AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHARLESTON TO POINT PLEASANT AND RETURN
+

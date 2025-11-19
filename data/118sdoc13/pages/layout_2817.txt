@@ -1,0 +1,34 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE  DESCRIPTION                     AMOUNT ($)
+                   POSTED                                                  DATES
+DBHU20240082                  TRUSTPOINT COURT REPORTING LLC                                                                        $612.00
+DBHU20240083      04/29/2024  TRUSTPOINT COURT REPORTING LLC    START       END                                                     $567.00
+DBHU20240085      04/29/2024  TRUSTPOINT COURT REPORTING LLC                                                                        $486.00
+DBHU20240089      05/03/2024  NEAL R GROSS & CO INC             04/09/2024   04/09/2024 STENOGRAPHIC SERVICES                       $726.25  B-2-26
+DBHU20240090      05/14/2024  CREATIVENGINE CORPORATION         04/10/2024   04/10/2024 STENOGRAPHIC SERVICES                       $500.00
+DBHU20240094      05/21/2024  NEAL R GROSS & CO INC             04/16/2024   04/16/2024 STENOGRAPHIC SERVICES                       $560.00
+DBHU20240097      05/24/2024  NEAL R GROSS & CO INC             04/18/2024   04/18/2024 STENOGRAPHIC SERVICES                       $778.75
+DBHU20240098      06/07/2024  NEAL R GROSS & CO INC             04/01/2024   04/30/2024 IT EQUIP MAINT                              $612.50
+DBHU20240100      06/10/2024  CREATIVENGINE CORPORATION         05/02/2024   05/02/2024 STENOGRAPHIC SERVICES                       $500.00
+DBHU20240101      06/12/2024  READYREFRESH                      05/16/2024   05/16/2024 STENOGRAPHIC SERVICES                       $104.98
+DBHU20240105      06/18/2024  NEAL R GROSS & CO INC             05/22/2024   05/22/2024 STENOGRAPHIC SERVICES                       $603.75
+DBHU20240110      06/12/2024  NEAL R GROSS & CO INC             05/01/2024   05/31/2024 IT EQUIP MAINT                              $621.25
+DBHU20240118      07/01/2024  NEAL R GROSS & CO INC             05/01/2024   05/17/2024 VOICE, DATA COMM EQP MAINT                  $883.75
+DBHU20240119      07/29/2024  NEAL R GROSS & CO INC             05/29/2024   05/29/2024 STENOGRAPHIC SERVICES                       $848.75
+DBHU20240124      07/29/2024  NEAL R GROSS & CO INC             06/12/2024   06/12/2024 STENOGRAPHIC SERVICES                       $586.25
+DBHU20240125      08/08/2024  CREATIVENGINE CORPORATION         07/09/2024   07/09/2024 STENOGRAPHIC SERVICES                       $500.00
+DBHU20240128      08/13/2024  NEAL R GROSS & CO INC             07/11/2024   07/11/2024 STENOGRAPHIC SERVICES                       $516.25
+DBHU20240129      08/19/2024  NEAL R GROSS & CO INC             07/25/2024   07/25/2024 STENOGRAPHIC SERVICES                       $463.75
+DBHU20240138      08/19/2024  CREATIVENGINE CORPORATION         07/01/2024   07/31/2024 IT EQUIP MAINT                              $500.00
+DBHU20240144      09/12/2024  CREATIVENGINE CORPORATION         07/31/2024   07/31/2024 STENOGRAPHIC SERVICES                       $500.00
+DBHU20240149      09/16/2024  NEAL R GROSS & CO INC             07/30/2024   07/30/2024 STENOGRAPHIC SERVICES                       $700.00
+DBHU20240156      09/28/2024  NEAL R GROSS & CO INC             06/01/2024   06/30/2024 VOICE, DATA COMM EQP MAINT                  $638.75
+                  09/28/2024                                    08/01/2024   08/31/2024 VOICE, DATA COMM EQP MAINT              $15,321.08
+0002853732                    SERGEANT AT ARMS                  05/09/2024   05/09/2024 STENOGRAPHIC SERVICES
+0002853969        05/14/2024  SERGEANT AT ARMS                  09/12/2024   09/12/2024 STENOGRAPHIC SERVICES                   $11,199.24
+0002854008        05/15/2024  SERGEANT AT ARMS                              OTHER CONTRACTUAL SERVICES                           $3,394.00
+                  05/14/2024                                    03/01/2024
+                                                                03/01/2024   03/31/2024 SOFTWARE LICENSE                        $15,895.00
+                                                                03/01/2024   03/31/2024 IT EQUIPMENT                            $30,488.24
+                                                                             03/31/2024 SOFTWARE LICENSE
+                                                                            ACQUISITION OF ASSETS
+

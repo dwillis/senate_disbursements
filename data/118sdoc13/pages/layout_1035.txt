@@ -1,0 +1,71 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE      DESCRIPTION                                                              AMOUNT ($)
+                   POSTED                                                  DATES
+DCRM20240919                  CITIBANK - TRAVEL CBA CARD                                                                                                                         $877.64
+DCRM20240920      09/18/2024  CITIBANK - TRAVEL CBA CARD        START       END                                                                                               $2,198.50
+                  09/18/2024
+DCRM20240924                                                    08/26/2024   08/30/2024 STAFF TRANSPORTATION                                                                     $194.30
+DCRM20240925      09/27/2024  KAITLYN MARIE WEIDERT             08/18/2024                        RENTAL AUTO FOR G SEIFERT BISMARCK TO GRAND FORKS TO FARGO                       $34.84
+DCRM20240927      09/20/2024  MICHAEL J KELSCH
+DCRM20240944      09/20/2024  CITIBANK - TRAVEL CBA CARD        09/12/2024   09/02/2024 STAFF TRANSPORTATION                                                                     $631.60
+                  09/28/2024  CRAMER,KEVIN J                    09/11/2024                        RENTAL AUTO FOR J LOTT GRAND FORKS TO FARGO, BISMARCK, MINOT,                    $26.88
+DCRM20240945                                                    09/12/2024                        WILLISTON, BISMARCK, FARGO, BISMARCK, JAMESTOWN, FARGO,
+DCRM20240948      09/23/2024  CITIBANK - TRAVEL CBA CARD        08/01/2024                        ELLENDALE, GRAND FORKS, FARGO AND RETURN                                       $289.70   B-1017
+DCRM20240949      09/22/2024  SANDRA R FEARING
+DCRM20240950      09/30/2024  KAITLYN MARIE WEIDERT             09/16/2024   09/12/2024 STAFF TRANSPORTATION                                                                     $631.60
+DCRM20240951      09/30/2024  KAITLYN MARIE WEIDERT             09/17/2024                        DES LACS TO MENOKEN AND RETURN                                                   $97.82
+DCRM20240959      09/24/2024  CITIBANK - TRAVEL CBA CARD        09/20/2024
+DCRM20240960      09/27/2024  SARA E SMITH                      09/21/2024   09/11/2024 STAFF TRANSPORTATION                                                                     $164.82
+                  09/25/2024  CITIBANK - TRAVEL CBA CARD        09/19/2024                        FARGO TO WHEATLAND AND RETURN                                                  $164.82
+DCRM20240966                                                    09/20/2024                                                                                                       $631.60
+                  09/27/2024  CITIBANK - TRAVEL CBA CARD        08/02/2024   09/12/2024 SENATOR TRANSPORTATION
+0002852519                                                                                        AIRFARE FOR SEN CRAMER WASHINGTON DC TO BISMARCK                                  $5.00
+0002853705                                                      09/23/2024                                                                                                    $1,500.36
+0002854412                                                                   09/09/2024 SENATOR INCIDENTALS
+0002855905                                                      02/01/2024                        SENATOR PER DIEM                                                               $631.60
+0002857254                                                      03/01/2024                        WASHINGTON DC TO BISMARCK, CASSELTON, BISMARCK, MEDORA,                  $142,341.38
+0002858824                                                      04/01/2024                        BISMARCK, FARGO, BISMARCK, GRAND FORKS, JAMESTOWN, BISMARCK,
+0002859850                                                      05/01/2024                        MINOT, BISMARCK AND RETURN                                                     $105.80
+DCRM20240549                                                    06/01/2024                                                                                                         $77.70
+DCRM20240603                                                    07/01/2024   09/16/2024 SENATOR TRANSPORTATION                                                                     $44.85
+                                                                08/01/2024                        AIRFARE FOR SEN CRAMER BISMARCK TO WASHINGTON DC                                 $75.00
+DCRM20240450                                                    05/14/2024                                                                                                         $53.40
+DCRM20240582                                                    06/11/2024   09/17/2024 STAFF TRANSPORTATION
+DCRM20240614                                                                                      WILLISTON TO NEW TOWN AND RETURN                                               $104.50
+                                                                03/24/2024                                                                                                         $89.50
+                                                                06/07/2024   09/20/2024 STAFF TRANSPORTATION                                                                       $50.00
+                                                                06/19/2024                        DES LACS TO BISMARCK AND RETURN                                                  $80.00
+
+                                                                             09/21/2024 STAFF TRANSPORTATION                                                                     $680.75
+                                                                                                  DES LACS TO BISMARCK AND RETURN                                             $3,399.96
+
+                                                                             09/19/2024 SENATOR TRANSPORTATION                                                                     $75.84
+                                                                                                  AIRFARE FOR SEN CRAMER WASHINGTON DC TO BISMARCK                            $1,309.95
+
+                                                                             09/20/2024 STAFF TRANSPORTATION
+                                                                                                  FARGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+
+                                                                             09/08/2024 STAFF TRANSPORTATION
+                                                                                                  RENTAL AUTO FOR R BUENING GRAND FORKS TO FARGO, GRAND FORKS,
+                                                                                                  BISMARCK, GRAND FORKS, BISMARCK, GRAND FORKS, FARGO, GRAND
+                                                                                                  FORKS, FARGO AND RETURN
+
+                                                                             09/23/2024 SENATOR TRANSPORTATION
+                                                                                                  AIRFARE FOR SEN CRAMER BISMARCK TO WASHINGTON DC
+
+                                                                            TRAVEL AND TRANSPORTATION OF PERSONS
+
+                  04/18/2024  SERGEANT AT ARMS                               02/29/2024 FEDERAL AUDIO, VISUAL RECORDNG
+                  05/14/2024  SERGEANT AT ARMS                               03/31/2024 FEDERAL AUDIO, VISUAL RECORDNG
+                  05/23/2024  SERGEANT AT ARMS                               04/30/2024 FEDERAL AUDIO, VISUAL RECORDNG
+                  06/27/2024  SERGEANT AT ARMS                               05/31/2024 FEDERAL AUDIO, VISUAL RECORDNG
+                  08/07/2024  SERGEANT AT ARMS                               06/30/2024 FEDERAL AUDIO, VISUAL RECORDNG
+                  09/13/2024  SERGEANT AT ARMS                               07/31/2024 FEDERAL AUDIO, VISUAL RECORDNG
+                  09/25/2024  SERGEANT AT ARMS                               08/31/2024 FEDERAL AUDIO, VISUAL RECORDNG
+                  06/13/2024  CHRISTOPHER A MAROHL                           05/16/2024 TRAIN/ORIENT/CONFERENCE FEES
+                  07/03/2024  MICHAEL J KELSCH                               06/15/2024 TRAIN/ORIENT/CONFERENCE FEES
+                                                                            OTHER CONTRACTUAL SERVICES
+                  05/21/2024  VERIZON WIRELESS
+                  06/25/2024  CITIBANK - PURCHASE CARD                      04/23/2024  VOICE & DATA COMM EQUIPMENT
+                  07/01/2024  CITIBANK - PURCHASE CARD                      06/07/2024  AUDIO, VISUAL EQUIPMENT
+                                                                            06/19/2024  AUDIO, VISUAL EQUIPMENT
+

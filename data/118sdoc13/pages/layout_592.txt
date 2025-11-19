@@ -1,0 +1,71 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE      DESCRIPTION                                                   AMOUNT ($)
+                   POSTED                                                  DATES
+DBLA20242197                  JAMES M WYATT                                                                                                                             $88.44
+                  09/22/2024  JAMES M WYATT                     START       END
+DBLA20242198      09/22/2024  JAMES M WYATT                                                                                                                             $60.30
+                  09/22/2024  JAMES M WYATT                     09/08/2024   09/08/2024 STAFF TRANSPORTATION                                                                     B-574
+DBLA20242199      09/22/2024  JAMES M WYATT                                                       JACKSON TO UNION CITY AND RETURN                                      $30.82
+                  09/22/2024  JAMES M WYATT                     09/09/2024
+DBLA20242200      09/30/2024  JAMES M WYATT                                  09/09/2024 STAFF TRANSPORTATION                                                            $40.20
+                  09/26/2024  JAMES M WYATT                     09/11/2024                        JACKSON TO MCKENZIE AND RETURN
+DBLA20242201      09/27/2024  NICHOLAS A KISTENMACHER                                                                                                                   $77.72
+                  09/27/2024  TYLER B PRIVETTE                  09/12/2024   09/11/2024 STAFF TRANSPORTATION
+DBLA20242202      09/27/2024  CALEB ADDISON HASLETT                                               JACKSON TO ALAMO AND RETURN                                         $135.34
+                  09/27/2024  NICHOLAS A KISTENMACHER           09/16/2024
+DBLA20242203      09/27/2024  NICHOLAS A KISTENMACHER                        09/12/2024 STAFF TRANSPORTATION                                                            $69.01
+                  09/27/2024  CALEB ADDISON HASLETT             09/17/2024                        JACKSON TO TRENTON AND RETURN
+DBLA20242204      09/27/2024  CALEB ADDISON HASLETT                                                                                                                     $25.46
+                  09/27/2024                                    09/18/2024   09/16/2024 STAFF TRANSPORTATION
+DBLA20242205                                                                                      JACKSON TO MARTIN AND RETURN                                          $15.41
+                                                                09/19/2024
+DBLA20242211                                                                 09/17/2024 STAFF TRANSPORTATION                                                            $98.22
+                                                                09/20/2024                        JACKSON TO UNION CITY, PARIS, PARSONS AND RETURN
+DBLA20242212                                                                                                                                                            $52.26
+                                                                09/20/2024   09/18/2024 STAFF TRANSPORTATION
+DBLA20242213                                                                                      JACKSON TO MCKENZIE, DRESDEN AND RETURN                               $25.25
+                                                                09/19/2024
+DBLA20242214                                                                 09/19/2024 STAFF TRANSPORTATION                                                            $14.74
+                                                                09/24/2024                        JACKSON TO MILAN AND RETURN
+DBLA20242215                                                                                                                                                            $13.40
+                                                                09/25/2024   09/20/2024 STAFF TRANSPORTATION
+DBLA20242216                                                                                      MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $9.38
+                                                                09/24/2024
+0002852530                                                                   09/20/2024 STAFF TRANSPORTATION                                                    $175,046.94
+DBLA20241024                                                    09/18/2024                        CHATTANOOGA TO MCMINNVILLE AND RETURN                                 $40.00
+DBLA20241027                                                                                                                                                             $2.25
+DBLA20241029                                                    02/01/2024   09/19/2024 STAFF TRANSPORTATION                                                             $4.00
+DBLA20241030                                                    03/05/2024                        NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                    $10.50
+DBLA20241031                                                    03/07/2024                                                                                               $6.25
+DBLA20241032                                                    03/08/2024   09/24/2024 STAFF TRANSPORTATION                                                             $3.00
+DBLA20241033                                                    03/11/2024                        MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $2.50
+DBLA20241034                                                    03/11/2024                                                                                               $6.25
+DBLA20241035                                                    03/11/2024   09/25/2024 STAFF TRANSPORTATION                                                             $3.00
+DBLA20241036                                                    03/12/2024                        MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $2.50
+DBLA20241037                                                    03/12/2024                                                                                               $1.25
+DBLA20241038                                                    03/12/2024   09/24/2024 STAFF TRANSPORTATION                                                             $3.75
+DBLA20241039                                                    03/13/2024                        NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $1.75
+DBLA20241040                                                    03/14/2024                                                                                                 $.50
+DBLA20241041                                                    03/14/2024   09/18/2024 STAFF TRANSPORTATION                                                             $4.75
+DBLA20241042                                                    03/20/2024                        NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $3.25
+DBLA20241043                                                    03/19/2024                                                                                               $2.75
+                                                                03/20/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                         $4.00
+                                                                03/20/2024
+                  04/18/2024  SERGEANT AT ARMS                  03/21/2024  02/29/2024  FEDERAL AUDIO, VISUAL RECORDNG
+                  04/02/2024  CITIBANK - PURCHASE CARD                      03/05/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/02/2024  CITIBANK - PURCHASE CARD                      03/07/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/08/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/11/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/11/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/11/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/12/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/12/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/12/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/13/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/14/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/14/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/20/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/19/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/20/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/20/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  04/01/2024  CITIBANK - PURCHASE CARD                      03/21/2024  TRANSCRIPTS, STUDIES, OFF DOC
+

@@ -1,0 +1,58 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                DESCRIPTION  AMOUNT ($)
+                                                                           DATES
+VSAA22408411       POSTED     FIERCE SOFTWARE CORPORATION                                                                                  $99,606.86
+VSAA22408417                  SOLIMAR SYSTEMS, INC              START       END                                                            $10,194.66
+VSAA22408418      09/23/2024  SOLIMAR SYSTEMS, INC
+VSAA22408419      09/26/2024  SOLIMAR SYSTEMS, INC              08/27/2024  08/27/2024  APPLICATION SOFTWARE MAINT                          $9,250.71
+VSAA22408420      09/26/2024  SOLIMAR SYSTEMS, INC              10/01/2024  09/30/2025  APPLICATION SOFTWARE MAINT                          $8,674.90
+VSAA22408456      09/24/2024  DEPARTMENT OF HOMELAND SECURITY   10/01/2024  09/30/2025  APPLICATION SOFTWARE MAINT                          $9,241.27
+                  09/24/2024  JOHNSON CONTROLS SECURITY         10/01/2024  09/30/2025  APPLICATION SOFTWARE MAINT                          $1,150.00
+VSAA22408525      09/24/2024  SOLUTIONS                         10/01/2024  09/30/2025  APPLICATION SOFTWARE MAINT
+                              L-SOFT INTERNATIONAL, INC.        08/01/2024  08/01/2024  PHYSICAL SECURITY                                   $2,083.20
+VSAA22408541      09/26/2024  YIS UPHOLSTERY INTERIORS
+VSAA22408555                  INDUSTRIAL KNIFE CO INC           09/05/2024  09/05/2024 AUDIO, VISUAL EQUIP MAINT                            $4,807.00
+VSAA22408561      09/27/2024  NETIA INC                                                                                                     $1,390.00
+VSAA22408568      09/27/2024  DOCPOINT SOLUTIONS LLC            10/01/2024   09/30/2025 APPLICATION SOFTWARE MAINT                                       B-436
+VSAA22408595      09/27/2024  RICOH USA INC                     10/17/2023   10/17/2023 FURNISHINGS MAINT                                      $109.00
+VSAA22408619      09/27/2024  ACME PAPER & SUPPLY CO INC        10/11/2023   10/11/2023 PRODUCTION EQUIP MAINT                             $26,576.00
+VSAA22408628      09/27/2024  ACME PAPER & SUPPLY CO INC        10/01/2024   09/30/2025 APPLICATION SOFTWARE MAINT                         $60,677.52
+VSAA22408629      09/27/2024  ACME PAPER & SUPPLY CO INC        08/15/2024   08/14/2025 APPLICATION SOFTWARE MAINT                         $24,376.70
+VSAA22408630      09/28/2024  ACME PAPER & SUPPLY CO INC        10/01/2024   12/31/2024 APPLICATION SOFTWARE MAINT
+VSAA22408631      09/28/2024  CANON SOLUTIONS AMERICA INC       10/11/2023   10/11/2023 VOICE, DATA COMM EQP MAINT                             $420.00
+VSAA22408634      09/28/2024  EDAC SYSTEMS INC                  10/11/2023   10/11/2023 VOICE, DATA COMM EQP MAINT                             $420.00
+VSAA22408643      09/28/2024  THIRDERA LLC                      10/11/2023   10/11/2023 VOICE, DATA COMM EQP MAINT                             $420.00
+VSAA22408649      09/27/2024  ALLIANCE MATERIAL HANDLING INC    10/11/2023   10/11/2023 VOICE, DATA COMM EQP MAINT                             $420.00
+VSAA22408752      09/27/2024  ALLIANCE MATERIAL HANDLING INC    09/01/2024   11/30/2024 PRODUCTION EQUIP MAINT                              $3,870.00
+VSAA22408796      09/27/2024  ALLIANCE MATERIAL HANDLING INC    10/01/2024   12/31/2024 APPLICATION SOFTWARE MAINT                             $926.44
+VSAA22408808      09/30/2024  ALLIANCE MATERIAL HANDLING INC    09/01/2024   09/30/2024 APPLICATION SOFTWARE MAINT                         $58,204.58
+VSAA22408810      09/30/2024  ALLIANCE MATERIAL HANDLING INC    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+VSAA22408811      09/30/2024  ALLIANCE MATERIAL HANDLING INC    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+VSAA22408812      09/30/2024  ALLIANCE MATERIAL HANDLING INC    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+VSAA22408813      09/30/2024  ALLIANCE MATERIAL HANDLING INC    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+VSAA22408814      09/30/2024  ALLIANCE MATERIAL HANDLING INC    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+VSAA22408815      09/30/2024  ALLIANCE MATERIAL HANDLING INC    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+VSAA22408816      09/30/2024  ALLIANCE MATERIAL HANDLING INC    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+VSAA22408817      09/30/2024  ALLIANCE MATERIAL HANDLING INC    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+VSAA22408818      09/30/2024  ALLIANCE MATERIAL HANDLING INC    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+VSAA22408819      09/30/2024  ALLIANCE MATERIAL HANDLING INC    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+VSAA22408820      09/30/2024  ALLIANCE MATERIAL HANDLING INC    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+VSAA22408821      09/30/2024  ALLIANCE MATERIAL HANDLING INC    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+VSAA22408822      09/30/2024  ALLIANCE MATERIAL HANDLING INC    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+VSAA22408823      09/30/2024  ALLIANCE MATERIAL HANDLING INC    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+VSAA22408825      09/30/2024                                    10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+                  09/30/2024  SERGEANT AT ARMS                  10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+0002852659        09/30/2024  SERGEANT AT ARMS                  10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+0002852670                    SERGEANT AT ARMS                  10/10/2023   10/10/2023 PRODUCTION EQUIP MAINT                                 $100.00
+0002852679        04/18/2024  SERGEANT AT ARMS                              OTHER CONTRACTUAL SERVICES                               $19,599,289.87
+0002852680        04/18/2024  SERGEANT AT ARMS                  02/01/2024
+0002852681        04/19/2024  SERGEANT AT ARMS                  02/01/2024  02/29/2024  IT EQUIPMENT                                        $1,500.00
+0002852682        04/19/2024  SERGEANT AT ARMS                  02/01/2024  02/29/2024  IT EQUIPMENT                                       -$1,500.00
+0002852683        04/18/2024  SERGEANT AT ARMS                  02/01/2024  02/29/2024  IT EQUIPMENT                                        $2,016.69
+0002852684        04/19/2024  SERGEANT AT ARMS                  02/01/2024  02/29/2024  IT EQUIPMENT                                       $73,460.00
+0002852685        04/19/2024                                    02/01/2024  02/29/2024  IT EQUIPMENT
+                  04/19/2024                                    02/01/2024  02/29/2024  IT EQUIPMENT                                              $8.25
+                  04/19/2024                                    02/01/2024  02/29/2024  IT EQUIPMENT                                           $999.99
+                                                                02/01/2024  02/29/2024  IT EQUIPMENT                                       $16,232.00
+                                                                            02/29/2024  SOFTWARE LICENSE                                -$109,240.68
+                                                                                                                                           $14,364.00
+

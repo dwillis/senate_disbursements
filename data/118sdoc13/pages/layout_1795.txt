@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                   POSTED                                                  DATES
+DMCN20240677                  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                                 $33.40
+DMCN20240678      05/15/2024  MORGAN ALVEY                      START       END         PADUCAH TO MAYFIELD AND RETURN                                                       $37.99
+DMCN20240679      05/15/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                               $113.31
+DMCN20240680      05/20/2024  MORGAN ALVEY                      04/30/2024  04/30/2024  PADUCAH TO MAYFIELD AND RETURN
+DMCN20240681      05/15/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                                  $2.62
+DMCN20240682      05/15/2024  ROBBIN MORRISON TAYLOR            05/01/2024  05/01/2024  PADUCAH TO MADISONVILLE AND RETURN                                                   $40.61
+                  05/20/2024                                                            STAFF TRANSPORTATION                                                               $659.58
+DMCN20240683                  ROBBIN MORRISON TAYLOR            05/02/2024  05/02/2024  PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DMCN20240684      05/16/2024  ROBBIN MORRISON TAYLOR                                    STAFF TRANSPORTATION                                                                 $24.89
+DMCN20240685      05/15/2024  ROBBIN MORRISON TAYLOR            05/03/2024  05/03/2024  PADUCAH TO BENTON AND RETURN                                                         $58.29
+                  05/21/2024                                                            STAFF TRANSPORTATION                                                               $373.35
+DMCN20240686                  ROBBIN MORRISON TAYLOR            05/06/2024  05/06/2024  LOUISVILLE TO THE FOLLOWING AND RETURN: 1/17, 23 BOWLING GREEN; 1
+DMCN20240687      05/16/2024  ROBBIN MORRISON TAYLOR                                    /25 OWENSBORO; 1/31 GHENT, WARSAW; 2/8 LEXINGTON                                     $26.85
+DMCN20240688      05/16/2024  ROBBIN MORRISON TAYLOR            01/17/2024  02/08/2024  STAFF TRANSPORTATION                                                                 $82.53
+                  05/21/2024                                                            LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $740.15
+DMCN20240689                  ROBBIN MORRISON TAYLOR            01/29/2024  01/30/2024  STAFF TRANSPORTATION
+DMCN20240690      05/15/2024  ROBBIN MORRISON TAYLOR            02/09/2024  02/26/2024  LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $81.87
+DMCN20240691      05/20/2024  STEPHANIE H NELSON                02/27/2024  02/29/2024  STAFF TRANSPORTATION                                                               $108.87
+DMCN20240692      05/17/2024  STEPHANIE H NELSON                                        LOUISVILLE TO THE FOLLOWING AND RETURN: 2/27 CORBIN, LONDON; 2/29
+DMCN20240693      05/21/2024  CITIBANK - TRAVEL CBA CARD        03/02/2024  03/08/2024  BOWLING GREEN                                                                        $50.43  B-1758
+DMCN20240694      05/21/2024  CITIBANK - TRAVEL CBA CARD        03/25/2024  04/08/2024  STAFF TRANSPORTATION                                                                 $72.70
+DMCN20240696      05/21/2024  CITIBANK - TRAVEL CBA CARD        04/09/2024  04/23/2024  LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $215.10
+DMCN20240697      05/21/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                               $320.10
+DMCN20240698      05/21/2024  CITIBANK - TRAVEL CBA CARD        04/24/2024  05/04/2024  LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $215.10
+DMCN20240699      05/21/2024  CITIBANK - TRAVEL CBA CARD        05/06/2024  05/06/2024  STAFF TRANSPORTATION                                                               $234.10
+DMCN20240700      05/21/2024  ROBBIN MORRISON TAYLOR            05/08/2024  05/08/2024  LOUISVILLE TO THE FOLLOWING AND RETURN: 4/9 LEXINGTON; 4/10                        $320.10
+                  05/22/2024                                    05/09/2024  05/09/2024  BOWLING GREEN; 4/17 MAMMOTH CAVE, GLASGOW; 4/23 FULTON                             $482.98
+                                                                05/03/2024  05/03/2024  STAFF TRANSPORTATION                                                                 $22.35
+                                                                05/05/2024  05/05/2024  LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $166.56
+                                                                04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                               $286.89
+                                                                04/14/2024  04/14/2024  LOUISVILLE TO LEXINGTON AND RETURN
+                                                                04/26/2024  04/26/2024  STAFF TRANSPORTATION
+                                                                04/28/2024  04/28/2024  LEXINGTON TO NICHOLASVILLE, WACO TO RICHMOND
+                                                                03/13/2024  03/14/2024  STAFF TRANSPORTATION
+                                                                                        RICHMOND TO STANTON, SLADE AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MCCONNELL WASHINGTON DC TO LOUISVILLE
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MCCONNELL LOUISVILLE TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MCCONNELL WASHINGTON DC TO LOUISVILLE
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MCCONNELL HEBRON TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MCCONNELL WASHINGTON DC TO LOUISVILLE
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MCCONNELL LOUISVILLE TO WASHINGTON DC
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+

@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DFIS20240206                  JOSHUA W JELDEN                                           STAFF TRANSPORTATION                                                         $53.44
+DFIS20240207      04/11/2024  RINGLEIN,RAY M                    START       END         KEARNEY TO NORTH PLATTE AND RETURN                                           $33.90
+DFIS20240208      04/11/2024  NEIL P MOSEMAN                                            STAFF TRANSPORTATION
+DFIS20240211      04/11/2024  JOSHUA W JELDEN                   03/28/2024  03/28/2024  LINCOLN TO SEWARD AND RETURN                                                  $8.04
+DFIS20240212      04/22/2024  JOSHUA W JELDEN                                           STAFF TRANSPORTATION                                                       $136.95
+DFIS20240213      04/17/2024  KEVIN D HUEBERT                   04/02/2024  04/02/2024  OMAHA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $100.08
+DFIS20240214      04/23/2024  NEIL P MOSEMAN                                            STAFF TRANSPORTATION
+DFIS20240215      04/24/2024  DENISE M BARRETT                  04/02/2024  04/02/2024  KEARNEY TO PLATTSMOUTH, OMAHA AND RETURN                                     $12.73
+DFIS20240216      04/23/2024  ERICA F ANDEWEG                                           STAFF TRANSPORTATION                                                       $103.18
+DFIS20240221      05/03/2024  JOSHUA W JELDEN                   04/01/2024  04/02/2024  KEARNEY TO LINCOLN AND RETURN
+DFIS20240222      05/01/2024  KEVIN D HUEBERT                                           STAFF TRANSPORTATION                                                          $7.37
+DFIS20240223      04/26/2024  NEIL P MOSEMAN                    04/03/2024  04/04/2024  OMAHA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $801.79
+DFIS20240224      04/29/2024  JOSHUA W JELDEN                                           STAFF TRANSPORTATION                                                       $129.01
+DFIS20240225      04/26/2024  KEVIN D HUEBERT                   04/07/2024  04/07/2024  OMAHA TO WISNER AND RETURN
+DFIS20240226      05/08/2024  DENISE M BARRETT                                          STAFF TRANSPORTATION                                                         $31.49
+DFIS20240227      05/09/2024  NEIL P MOSEMAN                    04/06/2024  04/06/2024  OMAHA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $13.40
+DFIS20240228      05/08/2024  JOSHUA W JELDEN                                           STAFF TRANSPORTATION                                                         $79.44
+DFIS20240229      05/17/2024  BRANDEN J MCCASLIN                04/10/2024  04/10/2024  WASHINGTON DC TO BOSTON MA, OMAHA AND RETURN                                 $18.09
+DFIS20240235      05/14/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                         $20.77
+DFIS20240237      05/21/2024  RINGLEIN,RAY M                    03/29/2024  04/03/2024  KEARNEY TO OMAHA AND RETURN                                                  $12.73
+DFIS20240238      05/21/2024  JOSHUA W JELDEN                                           STAFF TRANSPORTATION                                                       $115.23
+DFIS20240239      05/21/2024  NEIL P MOSEMAN                    04/11/2024  04/11/2024  OMAHA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $149.41
+DFIS20240241      05/16/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                       $103.10
+DFIS20240245      05/20/2024  DEB FISCHER                       04/13/2024  04/13/2024  OMAHA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $132.12   B-1193
+DFIS20240246      05/17/2024  DEB FISCHER                                               STAFF TRANSPORTATION                                                       $198.32
+                  05/21/2024                                    04/10/2024  04/10/2024  KEARNEY TO NORTH PLATTE AND RETURN                                           $64.99
+                                                                                        STAFF TRANSPORTATION                                                       $103.10
+                                                                04/18/2024  04/18/2024  OMAHA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION                                                          $8.71
+                                                                04/26/2024  04/26/2024  OMAHA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $23.51
+                                                                                        STAFF TRANSPORTATION
+                                                                04/27/2024  04/27/2024  OMAHA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                04/26/2024  04/26/2024  KEARNEY TO OMAHA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/26/2024  04/26/2024  SCOTTSBLUFF TO HARRISON, CHADRON, ALLIANCE AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                04/29/2024  04/29/2024  AIRFARE FOR SEN FISCHER WASHINGTON DC TO OMAHA
+                                                                                        STAFF TRANSPORTATION
+                                                                04/24/2024  04/24/2024  LINCOLN TO CLAY CENTER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/06/2024  05/06/2024  KEARNEY TO LINCOLN, CLAY CENTER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/06/2024  05/06/2024  OMAHA TO LINCOLN AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                05/06/2024  05/06/2024  AIRFARE FOR SEN FISCHER OMAHA TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                05/07/2024  05/07/2024  WASHINGTON DC TO OMAHA, LINCOLN, OMAHA AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                03/01/2024  03/04/2024
+
+                                                                03/14/2024  03/18/2024
+

@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DDUC20240545                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $129.10
+DDUC20240546      07/15/2024  CITIBANK - TRAVEL CBA CARD        START       END         AIRFARE FOR J TURNER WASHINGTON DC TO CHICAGO
+DDUC20240547      07/15/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $224.10
+DDUC20240551      07/15/2024  EDITH E LONG                      06/28/2024  06/28/2024  AIRFARE FOR J TURNER CHICAGO TO WASHINGTON DC
+DDUC20240553      07/15/2024  JESSICA ANN SEWELL                                        SENATOR TRANSPORTATION                                                         $129.10
+DDUC20240554                  IRIS GONZALEZ                     06/29/2024  06/29/2024  AIRFARE FOR SEN DUCKWORTH WASHINGTON DC TO CHICAGO
+DDUC20240555      07/15/2024  IRIS GONZALEZ                                             STAFF PER DIEM                                                                 $264.52
+DDUC20240556      07/19/2024  DYLON C HOPP                      06/28/2024  06/28/2024  STAFF TRANSPORTATION                                                             $81.79
+DDUC20240558      07/17/2024  EDITH E LONG                                              CHATHAM TO CHICAGO AND RETURN
+DDUC20240561      07/18/2024  ROBIN M CROCHET                   06/24/2024  06/25/2024  STAFF TRANSPORTATION                                                             $89.25
+DDUC20240570                  CLARENCE D PULCHER III                                    CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DDUC20240571      07/19/2024  CLARENCE D PULCHER III            07/04/2024  07/04/2024  STAFF TRANSPORTATION                                                           $114.57
+DDUC20240572                  CLARENCE D PULCHER III            06/01/2024  06/30/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  07/18/2024                                    06/07/2024  06/07/2024  STAFF TRANSPORTATION                                                             $34.00
+DDUC20240573      07/29/2024                                    06/25/2024  06/25/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM                                                                   $34.57
+DDUC20240577      07/29/2024                                    07/07/2024  07/10/2024  STAFF TRANSPORTATION                                                             $58.29
+                                                                                        CHICAGO TO BATAVIA AND RETURN
+DDUC20240578      07/25/2024                                    07/10/2024  07/10/2024  STAFF PER DIEM                                                                 $739.53   B-1107
+                                                                04/21/2024  04/23/2024  STAFF TRANSPORTATION                                                             $84.79
+DDUC20240579                                                                            CHATHAM TO SPRINGFIELD, CHICAGO, SPRINGFIELD AND RETURN
+DDUC20240580                                                    05/09/2024  05/10/2024  STAFF TRANSPORTATION                                                             $68.60
+DDUC20240582                                                                            GLEN CARBON TO SAINT LOUIS MO AND RETURN
+                                                                06/28/2024  06/30/2024  STAFF PER DIEM                                                                   $35.83
+                                                                                        STAFF TRANSPORTATION                                                           $278.68
+                  07/29/2024  CLARENCE D PULCHER III            05/24/2024  05/25/2024  MORTON TO PEORIA, CHICAGO, PEORIA AND RETURN
+                                                                                        STAFF PER DIEM                                                                   $24.38
+                  07/25/2024  EVERLYNN ALEXANDRA ROBERTS        07/10/2024  07/11/2024  STAFF TRANSPORTATION                                                           $284.03
+                                                                                        MORTON TO PEORIA, CHICAGO, PEORIA AND RETURN
+                  07/26/2024  CLARENCE D PULCHER III            06/14/2024  06/15/2024  STAFF INCIDENTALS                                                                $20.65
+                                                                                        STAFF PER DIEM                                                                 $204.24
+                  07/29/2024  CLARENCE D PULCHER III            07/03/2024  07/04/2024  STAFF TRANSPORTATION                                                           $236.02
+                  07/24/2024  THOMAS N MOSLEY                   06/01/2024  06/30/2024  MORTON TO HOFFMAN ESTATES, WILLOWBROOK AND RETURN
+                  07/25/2024  PHILLIP J FOSTER                  07/16/2024  07/16/2024  STAFF INCIDENTALS                                                                $18.85
+                                                                                        STAFF PER DIEM                                                                 $164.94
+                                                                                        STAFF TRANSPORTATION                                                           $202.25
+                                                                                        MORTON TO PEORIA, HOFFMAN ESTATES, CHICAGO, PEORIA AND RETURN
+                                                                                        STAFF INCIDENTALS                                                                $20.55
+                                                                                        STAFF PER DIEM                                                                 $167.76
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHICAGO TO ST LOUIS MO AND RETURN                                                $74.00
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM                                                                   $14.98
+                                                                                        STAFF TRANSPORTATION                                                           $168.52
+                                                                                        MORTON TO PEORIA, ALTON, EAST SAINT LOUIS, PEORIA AND RETURN                   $261.17
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MORTON TO HIGHLAND PARK AND RETURN                                             $203.99
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $192.02
+                                                                                        STAFF TRANSPORTATION
+                                                                                                                                                                       $165.75
+

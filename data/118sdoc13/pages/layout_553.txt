@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+              POSTED                                          DATES
+                                                                           STAFF PER DIEM                                                                    $248.56
+                                                   START       END         STAFF TRANSPORTATION                                                                $60.64
+                                                                           WASHINGTON DC TO AUSTIN TX, NASHVILLE AND RETURN                                    $26.35
+DBLA20241115  04/23/2024  WILLIAM A GUFFEE         03/27/2024  03/27/2024  STAFF PER DIEM
+DBLA20241116  04/22/2024  WILLIAM A GUFFEE         03/29/2024  03/29/2024  STAFF TRANSPORTATION                                                              $179.56
+DBLA20241117  04/23/2024  WILLIAM A GUFFEE         04/01/2024  04/01/2024  CHATTANOOGA TO NASHVILLE AND RETURN                                                  $8.17
+DBLA20241118  04/23/2024  TYLER B PRIVETTE         03/27/2024  03/27/2024  STAFF PER DIEM
+DBLA20241119  04/23/2024  WILLIAM A GUFFEE         04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                              $107.20
+DBLA20241120  04/23/2024  NICHOLAS A KISTENMACHER  04/04/2024  04/05/2024  CHATTANOOGA TO MADISONVILLE AND RETURN                                               $6.88
+                                                                           STAFF PER DIEM
+DBLA20241121  04/24/2024  BLACKBURN,MARSHA W       03/23/2024  04/08/2024  STAFF TRANSPORTATION                                                              $131.32   B-535
+                                                                           CHATTANOOGA TO OAK RIDGE AND RETURN                                                 $37.81
+DBLA20241122  04/23/2024  BRIGID MARY K MCDONNELL  04/10/2024  04/10/2024  STAFF PER DIEM
+DBLA20241123  04/23/2024  JOHN M CLEMENT           03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                              $333.45
+DBLA20241124  04/23/2024  JOHN M CLEMENT           04/04/2024  04/04/2024  CHATTANOOGA TO SELMER, SAVANNAH, WAYNESBORO AND RETURN                              $16.66
+DBLA20241125  04/23/2024  JOHN M CLEMENT           04/09/2024  04/09/2024  STAFF PER DIEM
+DBLA20241126  04/23/2024  KIMBERLY A CORDELL       03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                              $117.25
+DBLA20241127  04/23/2024  KIMBERLY A CORDELL       04/05/2024  04/05/2024  CHATTANOOGA TO HIXSON, MADISONVILLE AND RETURN                                      $15.78
+DBLA20241128  04/23/2024  PABLO A MARTINEZ         04/08/2024  04/08/2024  STAFF INCIDENTALS
+DBLA20241129  04/23/2024  PABLO A MARTINEZ         04/08/2024  04/08/2024  STAFF PER DIEM                                                                    $168.36
+DBLA20241130  04/24/2024  TYLER B PRIVETTE         04/01/2024  04/01/2024  STAFF TRANSPORTATION                                                              $243.21
+                                                                           MEMPHIS TO SOMERVILLE, BOLIVAR, STANTON, COVINGTON, RIPLEY,
+DBLA20241131  04/24/2024  TYLER B PRIVETTE         04/03/2024  04/05/2024  ALAMO, MILAN, JACKSON, HENDERSON, SELMER AND RETURN                                 $71.51
+                                                                           SENATOR INCIDENTALS                                                               $475.56
+                                                                           SENATOR PER DIEM
+                                                                           SENATOR TRANSPORTATION                                                              $15.10
+                                                                           WASHINGTON DC TO NASHVILLE, BRENTWOOD, AUSTIN TX, BRENTWOOD,
+                                                                           MEMPHIS, SOMERVILLE, BOLIVAR, STANTON, COVINGTON, RIPLEY, ALAMO,                    $23.09
+                                                                           JACKSON, HENDERSON, SELMER, SAVANNAH, WAYNESBORO,                                   $88.30
+                                                                           BRENTWOOD, NASHVILLE, BRENTWOOD, NASHVILLE AND RETURN                               $54.33
+                                                                           STAFF TRANSPORTATION                                                                $75.71
+                                                                           WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $20.77
+                                                                           STAFF TRANSPORTATION                                                                $43.55
+                                                                           NASHVILLE TO FORT CAMPBELL KY AND RETURN                                            $30.15
+                                                                           STAFF TRANSPORTATION                                                                $46.90
+                                                                           NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION                                                                 $7.87
+                                                                           NASHVILLE TO BRENTWOOD, CLARKSVILLE AND RETURN                                    $113.63
+                                                                           STAFF TRANSPORTATION
+                                                                           JOHNSON CITY TO BRISTOL TO JONESBOROUGH                                             $40.07
+                                                                           STAFF TRANSPORTATION
+                                                                           JOHNSON CITY TO GREENEVILLE AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           NASHVILLE TO MURFREESBORO AND RETURN
+                                                                           STAFF PER DIEM
+                                                                           STAFF TRANSPORTATION
+                                                                           CHATTANOOGA TO MANCHESTER, WINCHESTER AND RETURN
+                                                                           STAFF INCIDENTALS
+

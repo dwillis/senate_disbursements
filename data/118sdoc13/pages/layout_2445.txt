@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                      DATES
+DTES20240319                                                               BOZEMAN TO PRAY AND RETURN                                                        $75.04
+DTES20240321                                       START       END         STAFF TRANSPORTATION                                                            $462.30
+DTES20240322                                                               MISSOULA TO RONAN AND RETURN                                                    $274.70
+DTES20240323      05/25/2024  PETER R MATT         05/16/2024  05/16/2024  STAFF TRANSPORTATION                                                            $605.68   B-2408
+DTES20240324      05/30/2024  JOSIAH S PORCEL      05/14/2024  05/16/2024  BILLINGS TO MISSOULA AND RETURN                                              $1,481.45
+DTES20240328      06/04/2024  JESSE R ANDERSON     05/20/2024  05/20/2024  STAFF TRANSPORTATION
+DTES20240329      06/06/2024  PETER R MATT         05/22/2024  05/22/2024  HELENA TO HAVRE AND RETURN                                                        $99.16
+DTES20240331      06/05/2024  TESTER,JON           05/16/2024  05/22/2024  STAFF TRANSPORTATION                                                              $12.06
+DTES20240333      06/03/2024  ARTHUR SCOTT PETTIT  05/22/2024  05/22/2024  MISSOULA TO LAME DEER AND RETURN                                                  $19.10
+DTES20240334      06/04/2024  SHIVA-NANDAN ARENS   05/27/2024  05/27/2024  SENATOR TRANSPORTATION                                                          $302.84
+DTES20240335      06/06/2024  SHIVA-NANDAN ARENS   05/29/2024  05/29/2024  WASHINGTON DC TO GREAT FALLS AND RETURN                                         $287.43
+DTES20240338      06/10/2024  PAMELA R HAXBY-COTE  05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                         $1,049.24
+DTES20240339      06/07/2024  PAMELA R HAXBY-COTE  05/28/2024  05/30/2024  MISSOULA TO DARBY AND RETURN                                                      $34.03
+DTES20240340      06/11/2024  TESTER,JON           05/23/2024  06/03/2024  STAFF TRANSPORTATION                                                              $81.74
+DTES20240341      06/12/2024  CLAIRE KLOSTER       05/30/2024  05/30/2024  MISSOULA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $876.94
+DTES20240343      06/12/2024  SHIVA-NANDAN ARENS   06/04/2024  06/04/2024  STAFF TRANSPORTATION                                                         $1,333.73
+DTES20240345      06/12/2024  ELI COUSIN           05/28/2024  05/31/2024  MISSOULA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $292.79
+DTES20240346      06/13/2024  JUSTIN FOLSOM        05/24/2024  06/01/2024  STAFF TRANSPORTATION                                                         $2,200.53
+DTES20240347      06/12/2024  JOSIAH S PORCEL      06/03/2024  06/03/2024  BUTTE TO BILLINGS AND RETURN                                                    $242.83
+DTES20240349      06/25/2024  DYLAN M LASLOVICH    05/24/2024  05/31/2024  STAFF TRANSPORTATION                                                              $23.45
+DTES20240350      06/24/2024  ARTHUR SCOTT PETTIT  05/28/2024  05/30/2024  BUTTE TO MISSOULA, BOZEMAN AND RETURN                                           $161.20
+                  06/13/2024  SHIVA-NANDAN ARENS   06/06/2024  06/06/2024  SENATOR TRANSPORTATION                                                            $21.12
+DTES20240352      06/18/2024  KATHLEEN MARIE HAHN  05/31/2024  05/31/2024  WASHINGTON DC TO GREAT FALLS AND RETURN                                         $267.70
+DTES20240353      06/24/2024  KATHLEEN MARIE HAHN  06/05/2024  06/07/2024  STAFF TRANSPORTATION                                                            $625.97
+DTES20240354                                                               BOZEMAN TO LIVINGSTON AND RETURN                                                  $20.57
+                  06/18/2024  CLAIRE KLOSTER       06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                            $192.96
+                  06/25/2024  EMILY G HALE         05/30/2024  05/30/2024  MISSOULA TO SUPERIOR AND RETURN                                                   $22.79
+                  06/27/2024  SHIVA-NANDAN ARENS   06/13/2024  06/13/2024  STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO MISSOULA, BOZEMAN AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO HELENA AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           BILLINGS TO GREAT FALLS AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO BOZEMAN, MISSOULA, BUTTE, MISSOULA AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           MISSOULA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           MISSOULA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           MISSOULA TO BUTTE AND RETURN
+                                                                           STAFF INCIDENTALS
+                                                                           STAFF PER DIEM
+                                                                           STAFF TRANSPORTATION
+                                                                           MISSOULA TO BILLINGS AND RETURN
+                                                                           STAFF PER DIEM
+                                                                           BOZEMAN TO WEST YELLOWSTONE, BIG SKY AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           BILLINGS TO MILES CITY AND RETURN
+                                                                           STAFF PER DIEM
+

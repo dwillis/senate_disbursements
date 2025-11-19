@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DBLA20242106                  MICHAEL L HENSLEY                                         STAFF TRANSPORTATION                                                       $142.04
+DBLA20242107      09/19/2024  MICHAEL L HENSLEY                 START       END         KNOXVILLE TO JOHNSON CITY AND RETURN                                       $100.50
+DBLA20242108      09/19/2024  MICHAEL L HENSLEY                                         STAFF TRANSPORTATION                                                       $132.66
+DBLA20242109      09/19/2024  MICHAEL L HENSLEY                 08/13/2024  08/13/2024  KNOXVILLE TO MORRISTOWN, GREENEVILLE AND RETURN                            $154.10
+DBLA20242110      09/19/2024  MICHAEL L HENSLEY                                         STAFF TRANSPORTATION                                                       $142.04
+DBLA20242111      09/19/2024  MICHAEL L HENSLEY                 08/14/2024  08/14/2024  KNOXVILLE TO KINGSPORT AND RETURN
+DBLA20242112      09/15/2024  MICHAEL L HENSLEY                                         STAFF TRANSPORTATION                                                         $64.92
+DBLA20242113      09/19/2024  MICHAEL L HENSLEY                 08/15/2024  08/15/2024  KNOXVILLE TO ELIZABETHTON AND RETURN                                       $154.10
+DBLA20242114      09/15/2024  MICHAEL L HENSLEY                                         STAFF TRANSPORTATION
+DBLA20242115      09/19/2024  MICHAEL L HENSLEY                 08/16/2024  08/16/2024  KNOXVILLE TO JOHNSON CITY AND RETURN                                         $99.16
+DBLA20242116      09/19/2024  MICHAEL L HENSLEY                                         STAFF TRANSPORTATION                                                       $125.29
+DBLA20242117      09/15/2024  NICHOLAS A KISTENMACHER           08/19/2024  08/19/2024  KNOXVILLE TO MORRISTOWN AND RETURN                                         $135.34
+DBLA20242118      09/09/2024  MICHAEL L HENSLEY                                         STAFF TRANSPORTATION
+DBLA20242119      09/19/2024  MICHAEL L HENSLEY                 08/20/2024  08/20/2024  KNOXVILLE TO BRISTOL AND RETURN                                              $63.91
+DBLA20242120      09/15/2024  MICHAEL L HENSLEY                                         STAFF TRANSPORTATION                                                         $20.77
+DBLA20242121      09/19/2024  NICHOLAS A KISTENMACHER           08/21/2024  08/21/2024  KNOXVILLE TO COSBY, MORRISTOWN AND RETURN                                  $142.04
+DBLA20242123      09/15/2024  JAMES M WYATT                                             STAFF TRANSPORTATION                                                         $62.37
+DBLA20242124      09/15/2024  JAMES M WYATT                     08/22/2024  08/22/2024  KNOXVILLE TO JONESBOROUGH AND RETURN                                       $147.40
+DBLA20242125      09/15/2024  JAMES M WYATT                                             STAFF TRANSPORTATION                                                         $56.95
+DBLA20242126      09/15/2024  JAMES M WYATT                     08/26/2024  08/26/2024  KNOXVILLE TO ERWIN AND RETURN                                                $85.76
+DBLA20242127      09/15/2024  JAMES M WYATT                                             STAFF TRANSPORTATION                                                         $37.52
+DBLA20242128      09/15/2024  JAMES M WYATT                     08/27/2024  08/27/2024  KNOXVILLE TO BEAN STATION AND RETURN                                         $29.48
+DBLA20242129      09/15/2024  JAMES M WYATT                                             STAFF TRANSPORTATION                                                         $30.82
+DBLA20242130      09/15/2024  WILLIAM A GUFFEE                  08/28/2024  08/28/2024  MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $29.48  B-571
+DBLA20242131      09/15/2024  CALEB ADDISON HASLETT                                     STAFF TRANSPORTATION                                                         $83.75
+                  09/20/2024                                    09/04/2024  09/04/2024  KNOXVILLE TO JOHNSON CITY AND RETURN                                         $62.98
+                                                                                        STAFF TRANSPORTATION                                                         $77.72
+                                                                08/29/2024  08/29/2024  KNOXVILLE TO NEW TAZEWELL AND RETURN                                       $107.20
+                                                                                        STAFF TRANSPORTATION
+                                                                08/30/2024  08/30/2024  KNOXVILLE TO MILLIGAN COLLEGE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/03/2024  09/03/2024  MEMPHIS TO SOMERVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/05/2024  09/05/2024  JACKSON TO CAMDEN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                08/23/2024  08/23/2024  JACKSON TO ALAMO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                08/24/2024  08/24/2024  JACKSON TO TRENTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                08/26/2024  08/26/2024  JACKSON TO TRENTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                08/27/2024  08/27/2024  JACKSON TO TRENTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                08/29/2024  08/29/2024  JACKSON TO PARIS, DRESDEN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/04/2024  09/04/2024  JACKSON TO DRESDEN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/05/2024  09/05/2024  CHATTANOOGA TO ATHENS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/09/2024  09/09/2024  NASHVILLE TO COOKEVILLE AND RETURN
+
+                                                                09/04/2024  09/04/2024
+

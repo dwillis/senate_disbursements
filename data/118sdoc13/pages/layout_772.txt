@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DBTL20240393                  SANDRA GONZALES                                           STAFF TRANSPORTATION                                                         $13.40
+DBTL20240394      06/10/2024  SANDRA GONZALES                   START       END         LOS ANGELES TO TORRANCE AND RETURN                                           $29.48
+DBTL20240395      06/10/2024  EDWIN A SEVILLA                                           STAFF TRANSPORTATION                                                         $21.17
+DBTL20240396      06/10/2024  SANDRA GONZALES                   05/08/2024  05/08/2024  LOS ANGELES TO PICO RIVERA TO TORRANCE                                       $60.60
+DBTL20240397                  SANDRA GONZALES                                           STAFF PER DIEM                                                               $28.77
+                  06/10/2024                                    05/13/2024  05/13/2024  STAFF TRANSPORTATION                                                       $210.42
+                  06/25/2024                                                            SAN FRANCISCO TO MOUNTAIN VIEW AND RETURN                                  $774.00
+                                                                05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                    $1,235.57
+                                                                                        LOS ANGELES TO TORRANCE AND RETURN
+                                                                05/21/2024  05/21/2024  STAFF INCIDENTALS                                                            $33.50
+                                                                05/15/2024  05/18/2024  STAFF PER DIEM                                                               $18.76
+                                                                                        STAFF TRANSPORTATION                                                         $43.55
+DBTL20240398      06/10/2024  SANDRA GONZALES                   05/14/2024  05/14/2024  TORRANCE TO LOS ANGELES, WASHINGTON DC, LOS ANGELES AND                    $156.78   B-754
+DBTL20240399      06/10/2024  SANDRA GONZALES                   05/09/2024  05/09/2024  RETURN                                                                       $44.22
+DBTL20240400      06/10/2024  SANDRA GONZALES                   05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                       $174.20
+DBTL20240404      06/13/2024  MAGALY SOSA                       05/08/2024  05/08/2024  TORRANCE TO LONG BEACH, TORRANCE TO LOS ANGELES                              $42.88
+DBTL20240405      06/10/2024  DENISE N ALTOUNIAN SAHATDJIAN     05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                         $62.98
+DBTL20240406      06/10/2024  DENISE N ALTOUNIAN SAHATDJIAN     05/29/2024  05/29/2024  LOS ANGELES TO CULVER CITY TO TORRANCE                                       $37.52
+DBTL20240407      06/10/2024  DENISE N ALTOUNIAN SAHATDJIAN     05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                       $422.10
+DBTL20240408      06/10/2024  CHESNA A FOORD                    05/30/2024  05/30/2024  TORRANCE TO LOS ANGELES, LONG BEACH AND RETURN                               $17.08
+DBTL20240409      06/10/2024  CHESNA A FOORD                    05/31/2024  05/31/2024  STAFF TRANSPORTATION                                                    $1,161.10
+DBTL20240415      06/12/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/10/2024  VISTA TO RANCHO MIRAGE, INDIO AND RETURN                                $1,161.10
+DBTL20240416      06/10/2024  ALBERTO SANCHEZ GONZALEZ          05/21/2024  05/21/2024  STAFF TRANSPORTATION                                                       $209.60
+DBTL20240422      06/25/2024  CITIBANK - TRAVEL CBA CARD        04/11/2024  04/11/2024  FRESNO TO HANFORD AND RETURN                                               $268.60
+DBTL20240425      06/25/2024  CITIBANK - TRAVEL CBA CARD        04/14/2024  04/14/2024  STAFF TRANSPORTATION
+DBTL20240426      06/24/2024  CITIBANK - TRAVEL CBA CARD        05/10/2024  05/11/2024  FRESNO TO ANGELS CAMP AND RETURN                                              $9.31
+DBTL20240428      06/24/2024  CITIBANK - TRAVEL CBA CARD        05/04/2024  05/04/2024  STAFF TRANSPORTATION                                                         $58.18
+DBTL20240429      06/25/2024  KATELYN S CURRIE                  04/12/2024  04/12/2024  FRESNO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $19.43
+DBTL20240430      07/09/2024  KATELYN S CURRIE                  04/13/2024  04/13/2024  STAFF TRANSPORTATION
+DBTL20240431      06/25/2024  KATELYN S CURRIE                  06/04/2024  06/04/2024  NEWPORT BEACH TO ONTARIO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NEWPORT BEACH TO SAN CLEMENTE AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BUTLER WASHINGTON DC TO SAN FRANCISCO
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SAN DIEGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BUTLER WASHINGTON DC TO LOS ANGELES
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BUTLER LOS ANGELES TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BUTLER SACRAMENTO TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BUTLER JACKSON MS TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONG BEACH TO CARSON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONG BEACH TO LOS ANGELES AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONG BEACH TO SAN PEDRO AND RETURN
+

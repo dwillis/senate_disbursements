@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                              DATES
+DSTH20240386                                                                       AIRFARE FOR SEN SMITH WASHINGTON DC TO MINNEAPOLIS                         $517.10
+DSTH20240387                                               START       END         SENATOR TRANSPORTATION                                                     $517.10
+DSTH20240391                                                                       AIRFARE FOR SEN SMITH MINNEAPOLIS TO WASHINGTON DC                         $517.10
+DSTH20240392      06/03/2024  CITIBANK - SENATOR IBA CARD  05/14/2024  05/14/2024  SENATOR TRANSPORTATION
+                  06/03/2024  CITIBANK - SENATOR IBA CARD  05/20/2024  05/20/2024  AIRFARE FOR SEN SMITH MINNEAPOLIS TO WASHINGTON DC                           $16.15
+DSTH20240393      06/03/2024  CITIBANK - SENATOR IBA CARD  05/23/2024  05/23/2024  SENATOR TRANSPORTATION                                                     $161.16
+DSTH20240394      06/04/2024  JORDAN K SCHROEER            05/23/2024  05/23/2024  AIRFARE FOR SEN SMITH WASHINGTON DC TO MINNEAPOLIS
+DSTH20240396                                                                       STAFF PER DIEM                                                               $89.25
+DSTH20240397      05/30/2024  ELEXA R BYLER                05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                         $16.62  B-2355
+DSTH20240398      05/30/2024  ELEXA R BYLER                05/17/2024  05/17/2024  MOORHEAD TO SAINT JOSEPH AND RETURN                                        $126.48
+DSTH20240399      06/07/2024  ORION MICHAEL DIFRANCO       05/21/2024  05/21/2024  STAFF TRANSPORTATION                                                       $129.54
+DSTH20240400      06/07/2024  ORION MICHAEL DIFRANCO       05/22/2024  05/22/2024  SAINT PAUL TO MANKATO AND RETURN                                             $39.16
+DSTH20240401      06/06/2024  OLAYEMI J FADAHUNSI          05/28/2024  05/28/2024  STAFF PER DIEM                                                               $17.18
+DSTH20240402      06/06/2024  SAOLIA Y TUCKER              04/09/2024  04/09/2024  SAINT PAUL TO SAUK RAPIDS AND RETURN
+DSTH20240403      06/06/2024  SAOLIA Y TUCKER              04/10/2024  04/10/2024  STAFF TRANSPORTATION                                                          $5.45
+DSTH20240404      06/06/2024  SAOLIA Y TUCKER              04/18/2024  04/18/2024  DULUTH TO BRAINERD AND RETURN                                                $20.75
+DSTH20240405      06/06/2024  SAOLIA Y TUCKER              04/27/2024  04/27/2024  STAFF TRANSPORTATION                                                         $17.74
+                  06/06/2024  SAOLIA Y TUCKER              05/14/2024  05/14/2024  DULUTH TO FOREST LAKE AND RETURN                                             $39.16
+DSTH20240406      06/06/2024  SAOLIA Y TUCKER              05/17/2024  05/17/2024  STAFF TRANSPORTATION                                                         $39.16
+DSTH20240407      06/10/2024  JORDAN K SCHROEER            05/28/2024  05/29/2024  SAINT PAUL OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $11.11
+                                                                                   STAFF TRANSPORTATION                                                       $140.93
+DSTH20240408      06/06/2024  OLAYEMI J FADAHUNSI          05/29/2024  05/29/2024  SAINT PAUL TO CHASKA AND RETURN                                            $256.53
+DSTH20240409      06/07/2024  JORDAN K SCHROEER            05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                         $23.05
+DSTH20240410                                                                       SAINT PAUL TO SHOREVIEW AND RETURN                                           $21.77
+DSTH20240411      06/11/2024  PETER D MAKOWSKI             05/21/2024  05/21/2024  STAFF TRANSPORTATION                                                       $215.22
+DSTH20240412      06/11/2024  PETER D MAKOWSKI             05/23/2024  05/23/2024  SAINT PAUL TO ROCKFORD AND RETURN                                            $91.80
+                  06/11/2024  PETER D MAKOWSKI             05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                         $33.15
+                  06/11/2024  PETER D MAKOWSKI             05/31/2024  05/31/2024  MINNEAPOLIS TO BURNSVILLE AND RETURN                                         $25.50
+                  06/11/2024  PETER D MAKOWSKI             06/03/2024  06/03/2024  STAFF TRANSPORTATION                                                         $30.60
+                                                                                   SAINT PAUL TO SAINT CLOUD AND RETURN                                         $25.50
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SAINT PAUL TO SAINT CLOUD AND RETURN
+                                                                                   STAFF INCIDENTALS
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MOORHEAD TO ANGLE INLET, ROSEAU AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SAINT PAUL OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MOORHEAD TO HUTCHINSON AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   VIRGINIA TO DEER RIVER AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   VIRGINIA TO KEEWATIN AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   VIRGINIA TO HOYT LAKES AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   VIRGINIA TO ANGORA AND RETURN
+                                                                                   STAFF TRANSPORTATION
+

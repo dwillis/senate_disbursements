@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                             DATES
+DMOR20240990                                                                      WASHINGTON DC TO OAK RIDGE AND RETURN                                           $698.96
+DMOR20240991                                              START       END         STAFF TRANSPORTATION                                                              $30.00
+DMOR20240992                                                                      TICKET FEES
+DMOR20240993      09/18/2024  CITIBANK - TRAVEL CBA CARD  09/05/2024  09/06/2024  AIRFARE FOR J RAPERT WASHINGTON DC TO KNOXVILLE TN AND RETURN                   $888.20
+DMOR20240994      09/18/2024  CITIBANK - TRAVEL CBA CARD                          STAFF TRANSPORTATION                                                              $30.00
+DMOR20240996                                              09/04/2024  09/08/2024  TICKET FEES
+                                                                                  AIRFARE FOR L HULET WASHINGTON DC TO KANSAS CITY MO, WICHITA                    $444.57
+                  09/18/2024  CITIBANK - TRAVEL CBA CARD  09/06/2024  09/08/2024  AND RETURN                                                                        $30.00
+                  09/18/2024  CITIBANK - TRAVEL CBA CARD  09/06/2024  09/11/2024  STAFF TRANSPORTATION
+                                                                                  TICKET FEES                                                                     $240.69
+                  09/18/2024  CITIBANK - TRAVEL CBA CARD  09/08/2024  09/10/2024  AIRFARE FOR C BRADSHAW WASHINGTON DC TO WICHITA AND RETURN                        $30.00
+                  09/26/2024  KRISTIN J LITTLE            09/09/2024  09/10/2024  STAFF TRANSPORTATION
+                                                                                  TICKET FEES                                                                     $382.70
+DMOR20240997      09/19/2024  CITIBANK - TRAVEL CBA CARD  09/09/2024  09/12/2024  AIRFARE FOR E BROWNING WASHINGTON DC TO KANSAS CITY MO,                           $30.00  B-1831
+DMOR20240998      09/19/2024  CITIBANK - TRAVEL CBA CARD  09/10/2024  09/12/2024  WICHITA AND RETURN                                                                $57.63
+DMOR20240999      09/19/2024  CITIBANK - TRAVEL CBA CARD  08/10/2024  08/12/2024  STAFF TRANSPORTATION
+                                                                                  TICKET FEES                                                                     $355.93
+DMOR20241000      09/19/2024  CITIBANK - TRAVEL CBA CARD  07/25/2024  07/26/2024  AIRFARE FOR J HAGGERTY WASHINGTON DC TO WICHITA AND RETURN                      $762.48
+                                                                                  STAFF INCIDENTALS
+DMOR20241001      09/19/2024  CITIBANK - TRAVEL CBA CARD  07/25/2024  07/26/2024  STAFF PER DIEM                                                                  $691.20
+DMOR20241002      09/20/2024  CITIBANK - TRAVEL CBA CARD  08/08/2024  08/10/2024  STAFF TRANSPORTATION                                                              $30.00
+                                                                                  MANHATTAN TO KANSAS CITY MO, WASHINGTON DC, KANSAS CITY MO AND
+DMOR20241003      09/19/2024  CITIBANK - TRAVEL CBA CARD  08/08/2024  08/08/2024  RETURN                                                                          $327.69
+DMOR20241004      09/19/2024  CITIBANK - TRAVEL CBA CARD  09/05/2024  09/06/2024  STAFF TRANSPORTATION                                                              $30.00
+DMOR20241005      09/19/2024  CITIBANK - TRAVEL CBA CARD  09/09/2024  09/09/2024  TICKET FEES
+                                                                                  AIRFARE FOR J WESSEL MANHATTAN TO WASHINGTON DC AND RETURN                      $346.20
+                                                                                  STAFF TRANSPORTATION                                                              $30.00
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR J HART WASHINGTON DC TO WICHITA AND RETURN                          $340.21
+                                                                                  STAFF TRANSPORTATION                                                              $40.00
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR T BRANDT AS FOLLOWS: 8/10 DENVER CO TO KANSAS CITY                  $584.20
+                                                                                  MO; 8/12 WICHITA TO WASHINGTON DC                                                 $60.00
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES                                                                     $526.21
+                                                                                  AIRFARE FOR E BROWNING WASHINGTON DC TO KANSAS CITY MO AND                        $30.00
+                                                                                  RETURN
+                                                                                  STAFF TRANSPORTATION                                                            $289.60
+                                                                                  TICKET FEES                                                                     $830.19
+                                                                                  AIRFARE FOR L HULET WASHINGTON DC TO KANSAS CITY MO AND RETURN                  $170.10
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES                                                                       $40.00
+                                                                                  AIRFARE FOR S MACKINNEY WASHINGTON DC TO COLORADO SPRINGS CO
+                                                                                  AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR J KELLY WASHINGTON DC TO COLORADO SPRINGS CO
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR J KELLY WASHINGTON DC TO KNOXVILLE TN AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR K LITTLE KANSAS CITY MO TO WASHINGTON DC
+

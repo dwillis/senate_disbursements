@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME            OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+              POSTED                                       DATES
+                                                                        SOLON TO CEDAR RAPIDS, NEW HARTFORD, DUBUQUE, CEDAR RAPIDS                            $59.63
+                                                START       END         AND RETURN                                                                            $12.84
+                                                                        STAFF TRANSPORTATION                                                                $139.89
+DGRL20240726  09/09/2024  JACOB I BOSSMAN       08/21/2024  08/21/2024  SIOUX CITY TO ORANGE CITY AND RETURN                                                $699.48
+DGRL20240727  09/09/2024  JACOB I BOSSMAN       08/18/2024  08/20/2024  STAFF INCIDENTALS
+                                                                        STAFF PER DIEM                                                                      $227.13
+DGRL20240728  09/09/2024  PENNY VACEK           08/19/2024  08/19/2024  STAFF TRANSPORTATION                                                                $200.33   B-1267
+DGRL20240729  09/09/2024  PENNY VACEK           08/20/2024  08/20/2024  SIOUX CITY TO NEW HARTFORD, LAURENS, SPIRIT LAKE, OCHEYEDAN,
+DGRL20240730  09/09/2024  RONALD J RANDAZZO     08/21/2024  08/21/2024  PRIMGHAR, ROCK VALLEY, ROCK RAPIDS, SIOUX CENTER, LE MARS, SIOUX                      $50.92
+DGRL20240731  09/09/2024  PENNY VACEK           08/21/2024  08/21/2024  CITY, NEW HARTFORD AND RETURN                                                         $44.89
+DGRL20240732  09/09/2024  PENNY VACEK           08/15/2024  08/15/2024  STAFF TRANSPORTATION                                                                  $60.30
+DGRL20240733  09/09/2024  PENNY VACEK           08/14/2024  08/14/2024  OXFORD JUNCTION TO BLOOMFIELD, WEST POINT AND RETURN                                  $69.68
+DGRL20240734                                                            STAFF TRANSPORTATION
+DGRL20240735  09/09/2024  PENNY VACEK           08/13/2024  08/13/2024  OXFORD JUNCTION TO KEOSAUQUA AND RETURN                                               $64.32
+              09/09/2024  JENNIFER HEINS DAVIS  08/19/2024  08/20/2024  STAFF TRANSPORTATION                                                                  $12.84
+DGRL20240736                                                            DES MOINES TO AMES AND RETURN                                                       $143.23
+              09/15/2024  GARRETT J ARBUCKLE    08/11/2024  08/17/2024  STAFF TRANSPORTATION                                                                $104.52
+DGRL20240737                                                            OXFORD JUNCTION TO MAQUOKETA TO DAVENPORT
+DGRL20240738  09/19/2024  JACOB I BOSSMAN       08/23/2024  08/23/2024  STAFF TRANSPORTATION                                                                  $16.56
+              09/26/2024  PENNE BARTON          08/07/2024  08/19/2024  DAVENPORT TO CLINTON TO OXFORD JUNCTION                                             $242.07
+DGRL20240748                                                            STAFF TRANSPORTATION                                                             $1,267.11
+              09/11/2024  SHERRY JOY KUNTZ      08/12/2024  08/25/2024  OXFORD JUNCTION TO CEDAR RAPIDS, MECHANICSVILLE, STANWOOD,
+DGRL20240749                                                            CLARENCE AND RETURN                                                                 $142.04
+DGRL20240750  09/15/2024  JACOB I BOSSMAN       08/22/2024  08/22/2024  STAFF TRANSPORTATION                                                                  $11.00
+              09/15/2024  MATTHEW C RECTOR      08/26/2024  08/27/2024  DAVENPORT TO CLINTON TO OXFORD JUNCTION                                               $41.00
+                                                                        STAFF INCIDENTALS
+                                                                        STAFF PER DIEM                                                                   $1,043.13
+                                                                        STAFF TRANSPORTATION
+                                                                        DES MOINES TO FORT DODGE, SPIRIT LAKE, SANBORN, ROCK VALLEY,                        $539.12
+                                                                        SIOUX CITY, FORT DODGE AND RETURN
+                                                                        STAFF INCIDENTALS                                                                      $7.48
+                                                                        STAFF PER DIEM                                                                        $63.65
+                                                                        STAFF TRANSPORTATION                                                                  $74.21
+                                                                        WASHINGTON DC TO DES MOINES, BURLINGTON, DAVENPORT, DES
+                                                                        MOINES AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        SIOUX CITY TO POCAHONTAS AND RETURN
+                                                                        STAFF INCIDENTALS
+                                                                        STAFF PER DIEM
+                                                                        STAFF TRANSPORTATION
+                                                                        WASHINGTON DC TO DES MOINES, COUNCIL BLUFFS, DES MOINES, CEDAR
+                                                                        RAPIDS, DES MOINES, GLADBROOK, DES MOINES AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        WASHINGTON DC TO CEDAR RAPIDS, DUBUQUE, CEDAR RAPIDS, NORTH
+                                                                        LIBERTY, CORALVILLE, IOWA CITY, CORALVILLE, MARION, FAIRFAX, CEDAR
+                                                                        RAPIDS AND RETURN
+                                                                        STAFF PER DIEM
+                                                                        STAFF TRANSPORTATION
+                                                                        SIOUX CITY TO SIOUX CENTER AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        WATERLOO TO ALTOONA AND RETURN
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                   POSTED                                                  DATES
+DWRN20240653                  TANNIA TALENTO                                            STAFF TRANSPORTATION                                                                $76.38
+DWRN20240654      07/15/2024  TANNIA TALENTO                    START       END         VIENNA TO FREDERICKSBURG AND RETURN                                                 $21.40
+DWRN20240655      07/15/2024  TANNIA TALENTO                                            STAFF TRANSPORTATION                                                                $59.41
+DWRN20240656      07/15/2024  TANNIA TALENTO                    03/13/2024  03/13/2024  VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DWRN20240657      07/15/2024  TANNIA TALENTO                                            STAFF TRANSPORTATION                                                                 $6.16
+DWRN20240658      07/15/2024  TANNIA TALENTO                    03/14/2024  03/14/2024  VIENNA TO MIDDLEBURG AND RETURN                                                     $24.95
+DWRN20240659      07/15/2024  TANNIA TALENTO                                            STAFF TRANSPORTATION                                                                $76.50
+                  07/17/2024                                    03/15/2024  03/15/2024  VIENNA TO FALLS CHURCH TO ARLINGTON                                                 $79.66
+DWRN20240660                  TANNIA TALENTO                                            STAFF TRANSPORTATION
+DWRN20240661      07/16/2024  TANNIA TALENTO                    03/18/2024  03/18/2024  VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                     $69.81
+DWRN20240662      07/16/2024  TANNIA TALENTO                                            STAFF TRANSPORTATION                                                                 $6.56
+DWRN20240663      07/16/2024  TANNIA TALENTO                    03/19/2024  03/19/2024  VIENNA TO MCLEAN, MANASSAS, MIDDLEBURG TO ARLINGTON
+DWRN20240664      07/16/2024  TANNIA TALENTO                                            STAFF TRANSPORTATION                                                                $15.47
+DWRN20240665      07/17/2024  TANNIA TALENTO                    03/25/2024  03/25/2024  ARLINGTON TO VIENNA, LEESBURG TO VIENNA; VIENNA TO ALEXANDRIA TO                    $10.38
+DWRN20240666      07/16/2024  TANNIA TALENTO                                            ARLINGTON                                                                           $15.74
+DWRN20240667      07/16/2024  TANNIA TALENTO                    04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                                $29.56
+                  07/17/2024                                                            VIENNA TO REMINGTON AND RETURN
+DWRN20240668                  TANNIA TALENTO                    04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                                 $5.82  B-2546
+                  07/23/2024                                    04/09/2024  04/09/2024  VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                     $62.96
+DWRN20240669                                                    04/10/2024  04/10/2024  STAFF TRANSPORTATION
+DWRN20240670                                                    04/12/2024  04/12/2024  ARLINGTON TO VIENNA AND RETURN; VIENNA TO FAIRFAX TO ARLINGTON                      $22.63
+DWRN20240671                                                    04/13/2024  04/13/2024  STAFF TRANSPORTATION                                                              $154.95
+DWRN20240672                                                    04/14/2024  04/14/2024  ARLINGTON TO VIENNA AND RETURN                                                    $123.28
+DWRN20240673                                                    04/15/2024  04/15/2024  STAFF TRANSPORTATION
+DWRN20240674                                                    04/17/2024  04/17/2024  ARLINGTON TO ALEXANDRIA AND RETURN                                                  $22.44
+                                                                                        STAFF TRANSPORTATION                                                                $17.68
+DWRN20240675                                                    04/19/2024  04/20/2024  ARLINGTON TO FAIRFAX AND RETURN                                                     $38.52
+                                                                                        STAFF TRANSPORTATION                                                                $53.39
+                  07/16/2024  TANNIA TALENTO                    04/23/2024  04/23/2024  VIENNA TO ARLINGTON AND RETURN                                                      $42.81
+                  07/16/2024  TANNIA TALENTO                    04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                                $75.03
+                  07/17/2024  TANNIA TALENTO                    04/30/2024  04/30/2024  VIENNA TO ASHBURN, ARLINGTON AND RETURN; VIENNA TO FAIRFAX TO
+                  07/17/2024  TANNIA TALENTO                    05/01/2024  05/01/2024  ARLINGTON                                                                           $15.47
+                  07/17/2024  TANNIA TALENTO                    05/02/2024  05/02/2024  STAFF INCIDENTALS
+                  07/31/2024  TANNIA TALENTO                    05/03/2024  05/03/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                  07/17/2024  TANNIA TALENTO                    05/05/2024  05/05/2024  VIENNA TO ASHLAND TO ARLINGTON
+                                                                                        STAFF TRANSPORTATION
+                                                                                        VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        VIENNA TO MANASSAS TO ARLINGTON
+                                                                                        STAFF TRANSPORTATION
+                                                                                        VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        VIENNA TO MANASSAS AND RETURN; VIENNA TO ANNANDALE TO
+                                                                                        ARLINGTON
+                                                                                        STAFF TRANSPORTATION
+

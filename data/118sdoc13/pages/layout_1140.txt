@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DDUR20240152      05/08/2024  JOHN A NORMOYLE                                           STAFF PER DIEM                                                                    $10.18
+                  05/08/2024  TRAN D NGUYEN                     START       END         STAFF TRANSPORTATION                                                            $164.95
+DDUR20240153      05/10/2024  JOHN A NORMOYLE                                           CHICAGO TO NORMAL AND RETURN                                                    $173.39
+DDUR20240154                  LAUREN A. LEONATTI                03/25/2024  03/25/2024  STAFF TRANSPORTATION
+                  05/07/2024  JULIANNE M HAYES                                          CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $9.99
+DDUR20240155                                                    03/01/2024  03/31/2024  STAFF PER DIEM                                                                  $383.24
+                  05/10/2024                                    04/01/2024  04/01/2024  STAFF TRANSPORTATION
+DDUR20240156                                                                            CHICAGO TO CAHOKIA HEIGHTS AND RETURN                                             $42.58
+                                                                04/15/2024  04/16/2024  STAFF PER DIEM                                                                  $205.18
+DDUR20240157                                                                            STAFF TRANSPORTATION
+DDUR20240158                                                    03/12/2024  03/13/2024  CHAMPAIGN TO CHICAGO, LOMBARD AND RETURN                                          $25.40
+DDUR20240159                                                                            STAFF INCIDENTALS                                                               $207.78
+DDUR20240160      06/18/2024  PATRICK N. REYNOLDS               03/06/2024  03/06/2024  STAFF PER DIEM                                                                  $301.49   B-1122
+DDUR20240161      06/18/2024  PATRICK N. REYNOLDS               03/28/2024  03/28/2024  STAFF TRANSPORTATION
+DDUR20240162      06/18/2024  PATRICK N. REYNOLDS               01/17/2024  01/27/2024  SILVIS TO CHICAGO AND RETURN                                                      $61.37
+DDUR20240163      06/18/2024  PATRICK N. REYNOLDS               01/09/2024  01/09/2024  STAFF TRANSPORTATION                                                              $62.71
+DDUR20240164      06/18/2024  PATRICK N. REYNOLDS               02/07/2024  02/07/2024  CHICAGO TO WAUKEGAN AND RETURN                                                    $47.03
+DDUR20240165      06/18/2024  PATRICK N. REYNOLDS               04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                              $59.22
+DDUR20240166      06/18/2024  PATRICK N. REYNOLDS               02/21/2024  02/21/2024  CHICAGO TO JOLIET AND RETURN                                                      $55.47
+DDUR20240168      06/18/2024  PATRICK N. REYNOLDS               02/23/2024  02/23/2024  STAFF TRANSPORTATION                                                              $67.80
+DDUR20240169      05/03/2024  LAUREN M BONNER                   04/24/2024  04/24/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $54.13
+DDUR20240170      05/03/2024  LAUREN A. LEONATTI                04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                              $80.93
+DDUR20240171      06/25/2024  PATRICK N. REYNOLDS               04/01/2024  04/19/2024  CHICAGO TO SAINT CHARLES AND RETURN                                               $90.45
+DDUR20240172                                                                            STAFF TRANSPORTATION                                                              $51.59
+                  06/18/2024  PATRICK N. REYNOLDS               03/01/2024  03/26/2024  CHICAGO TO BATAVIA AND RETURN                                                   $175.60
+DDUR20240173      06/18/2024  PATRICK N. REYNOLDS               02/09/2024  02/09/2024  STAFF TRANSPORTATION
+                  06/18/2024  PATRICK N. REYNOLDS               04/04/2024  04/24/2024  CHICAGO TO MINOOKA AND RETURN                                                     $49.71
+                  06/06/2024  KAYLEE A GHOLSON                  05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                              $11.79
+                                                                                        CHICAGO TO MUNDELEIN AND RETURN                                                   $61.30
+                  06/24/2024  JOHN A NORMOYLE                   04/24/2024  04/25/2024  STAFF TRANSPORTATION                                                              $11.64
+                                                                                        CHICAGO TO KANKAKEE AND RETURN                                                    $84.42
+                                                                                        STAFF TRANSPORTATION                                                              $14.98
+                                                                                        CARBONDALE TO ROSICLARE AND RETURN                                              $116.99
+                                                                                        STAFF TRANSPORTATION                                                            $331.98
+                                                                                        SPRINGFIELD TO JACKSONVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHICAGO TO THE FOLLOWING AND RETURN: 4/1 WAUKEGAN, GURNEE; 4/3
+                                                                                        GLENWOOD; 4/5 NORTHBROOK; 4/16 LOMBARD; 4/19 EVANSTON
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SPRINGFIELD TO BLOOMINGTON AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+

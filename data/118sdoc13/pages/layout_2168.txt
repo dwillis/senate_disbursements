@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DROS20240485                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $490.20
+DROS20240486      08/30/2024  CITIBANK - TRAVEL CBA CARD        START       END         AIRFARE FOR R OLIVARI WASHINGTON DC TO LAS VEGAS AND RETURN                    $315.10
+DROS20240487      08/30/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $630.20
+DROS20240489      09/03/2024  CITIBANK - TRAVEL CBA CARD        08/05/2024  08/08/2024  AIRFARE FOR S FULLER WASHINGTON DC TO LAS VEGAS                                $630.20
+DROS20240490      09/03/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $315.10
+DROS20240491      09/03/2024  CITIBANK - TRAVEL CBA CARD        08/05/2024  08/05/2024  AIRFARE FOR A HOBSON WASHINGTON DC TO LAS VEGAS AND RETURN                     $630.20
+DROS20240492      09/03/2024  CARLOS O LARA                                             STAFF TRANSPORTATION                                                           $302.73
+DROS20240493      09/11/2024  CITIBANK - TRAVEL CBA CARD        08/03/2024  08/11/2024  AIRFARE FOR L CARRILLO WASHINGTON DC TO LAS VEGAS AND RETURN                   $315.10
+DROS20240494      09/03/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $630.20
+DROS20240495      09/03/2024  CITIBANK - TRAVEL CBA CARD        08/05/2024  08/13/2024  AIRFARE FOR C LARA WASHINGTON DC TO LAS VEGAS                                  $315.10
+DROS20240496      09/03/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $945.30
+                  09/03/2024                                    08/05/2024  08/05/2024  AIRFARE FOR E GOLDMAN WASHINGTON DC TO LAS VEGAS AND RETURN
+DROS20240497                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $490.20
+DROS20240498      09/03/2024  CITIBANK - TRAVEL CBA CARD        08/05/2024  08/10/2024  WASHINGTON DC TO LAS VEGAS, RENO AND RETURN                                    $630.20
+DROS20240499      09/03/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $630.20
+                  09/03/2024                                    08/05/2024  08/19/2024  AIRFARE FOR M ALVAREZ WASHINGTON DC TO LAS VEGAS
+DROS20240500                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $175.10
+DROS20240501      09/03/2024  CITIBANK - TRAVEL CBA CARD        08/05/2024  08/05/2024  AIRFARE FOR T GOLDSTEIN WASHINGTON DC TO LAS VEGAS AND RETURN                  $371.60
+DROS20240502      09/03/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $245.98
+DROS20240503      09/12/2024  ABBEY LYNN PIKE                   08/02/2024  08/11/2024  AIRFARE FOR E LEER WASHINGTON DC TO LAS VEGAS
+                  09/04/2024                                                            STAFF TRANSPORTATION                                                             $32.10
+DROS20240504                                                    08/05/2024  08/05/2024  AIRFARE FOR N ECHETO, A RENTERIA, M NORAMBUENA WASHINGTON DC                   $214.00
+DROS20240505                                                                            TO LAS VEGAS
+DROS20240506                                                    08/05/2024  08/05/2024  STAFF TRANSPORTATION                                                              $7.90  B-2131
+DROS20240508                                                                            AIRFARE FOR K LANDERS WASHINGTON DC TO LAS VEGAS AND RETURN                    $323.10
+                                                                08/05/2024  08/08/2024  STAFF TRANSPORTATION                                                           $459.60
+DROS20240510                                                    08/05/2024  08/05/2024  AIRFARE FOR S SELLERS, M LEVITT WASHINGTON DC TO LAS VEGAS                     $244.46
+                                                                08/02/2024  08/10/2024  STAFF TRANSPORTATION                                                           $185.30
+                                                                                        AIRFARE FOR N TEUTLE LOPEZ WASHINGTON DC TO LAS VEGAS AND                   $7,227.59
+                                                                08/08/2024  08/08/2024  RETURN
+                                                                08/15/2024  08/15/2024  STAFF TRANSPORTATION                                                             $60.35
+                                                                08/11/2024  08/11/2024  AIRFARE FOR G BUTLER LAS VEGAS TO WASHINGTON DC
+                                                                08/16/2024  08/18/2024  STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR A RENTERIA RENO TO WASHINGTON DC
+                  09/05/2024  CITIBANK - TRAVEL CBA CARD        08/10/2024  08/10/2024  STAFF TRANSPORTATION
+                  09/04/2024  CITIBANK - TRAVEL CBA CARD        08/19/2024  08/19/2024  AIRFARE FOR S SELLERS LAS VEGAS TO RENO
+                  09/04/2024  CITIBANK - TRAVEL CBA CARD        08/11/2024  08/11/2024  STAFF INCIDENTALS
+                  09/12/2024  CITIBANK - TRAVEL CBA CARD        08/05/2024  08/07/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                  09/09/2024  ISAIAH A SANDOVAL-MORENO          08/05/2024  08/07/2024  RENO TO ELKO TO SPARKS
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR M LEVITT LAS VEGAS TO RENO
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR M LEVITT RENO TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR A RENTERIA SAN DIEGO CA TO RENO
+                                                                                        SENATOR PER DIEM
+                                                                                        STAFF PER DIEM
+                                                                                        PER DIEM EXPENSES FOR STAFF RETREAT HELD IN LAS VEGAS
+                                                                                        STAFF TRANSPORTATION
+

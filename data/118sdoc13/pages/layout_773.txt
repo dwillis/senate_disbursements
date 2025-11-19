@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DBTL20240432                  CHESNA A FOORD                                            STAFF TRANSPORTATION                                                               $64.32
+DBTL20240433      06/25/2024  GENEVA M MONTELEONE               START       END         NEWPORT BEACH TO RIVERSIDE AND RETURN                                              $32.83
+DBTL20240434      06/25/2024  EDWIN A SEVILLA                                           STAFF TRANSPORTATION
+DBTL20240436      06/25/2024  CHESNA A FOORD                    06/10/2024  06/10/2024  CULVER CITY TO THE FOLLOWING AND RETURN: 6/11 LOS ANGELES; 6/12                    $73.70
+DBTL20240437      06/25/2024  CITIBANK - TRAVEL CBA CARD                                TORRANCE
+DBTL20240438                  CITIBANK - TRAVEL CBA CARD        06/11/2024  06/12/2024  STAFF TRANSPORTATION                                                                $8.81
+DBTL20240439      06/25/2024  CITIBANK - TRAVEL CBA CARD                                SAN FRANCISCO TO SANTA CLARA AND RETURN                                            $62.98
+DBTL20240448      06/27/2024  CHESNA A FOORD                    06/14/2024  06/14/2024  STAFF PER DIEM
+DBTL20240449      06/28/2024  GABRIELLE S FEDER                 06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                             $497.70
+DBTL20240450      07/01/2024  EDWIN A SEVILLA                                           NEWPORT BEACH TO RIVERSIDE AND RETURN
+DBTL20240451                  GABRIELLE S FEDER                 05/24/2024  05/24/2024  SENATOR TRANSPORTATION                                                           $828.60
+                  07/16/2024                                    05/02/2024  05/02/2024  AIRFARE FOR SEN BUTLER WASHINGTON DC TO HONOLULU HI
+DBTL20240452                                                    05/25/2024  05/26/2024  SENATOR TRANSPORTATION                                                           $310.70
+                  07/03/2024                                    06/20/2024  06/20/2024  AIRFARE FOR SEN BUTLER WASHINGTON DC TO JACKSON MS
+                                                                                        SENATOR TRANSPORTATION                                                             $19.02
+                  08/19/2024                                    05/28/2024  05/28/2024  AIRFARE FOR SEN BUTLER HONOLULU HI TO SAN FRANCISCO                              $153.92
+                                                                                        STAFF PER DIEM
+                                                                06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                               $26.34  B-755
+                                                                                        NEWPORT BEACH TO SAN DIEGO AND RETURN                                              $61.57
+                                                                06/21/2024  06/22/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                               $27.58
+                  07/15/2024  CALEB A JACKSON                   06/24/2024  06/26/2024  SAN FRANCISCO TO MOUNTAIN VIEW AND RETURN                                        $144.92
+                                                                                        STAFF PER DIEM
+DBTL20240455      07/09/2024  EDWIN A SEVILLA                   06/25/2024  06/25/2024  STAFF TRANSPORTATION                                                               $29.37
+                                                                                        SAN FRANCISCO TO SACRAMENTO AND RETURN                                           $370.60
+DBTL20240460      07/16/2024  JOANNE M HAYES-WHITE              06/28/2024  06/28/2024  STAFF INCIDENTALS                                                                $558.49
+DBTL20240461      07/16/2024  CHESNA A FOORD                    06/27/2024  06/27/2024  STAFF PER DIEM
+DBTL20240462      08/02/2024  LAUREN A BATTLE                   06/24/2024  06/26/2024  STAFF TRANSPORTATION                                                               $27.66
+                                                                                        SAN FRANCISCO TO SAN DIEGO AND RETURN                                            $277.72
+DBTL20240463      07/16/2024  ALBERTO SANCHEZ GONZALEZ          06/12/2024  06/12/2024  STAFF INCIDENTALS
+DBTL20240464      07/16/2024  ALBERTO SANCHEZ GONZALEZ          06/05/2024  06/05/2024  STAFF PER DIEM                                                                     $30.00
+DBTL20240475      07/18/2024  DENISE N ALTOUNIAN SAHATDJIAN     06/25/2024  06/25/2024  STAFF TICKET FEES                                                                $761.73
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO PHOENIX AZ AND RETURN                                             $24.75
+                                                                                        STAFF PER DIEM                                                                   $129.74
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SAN FRANCISCO TO SACRAMENTO AND RETURN                                             $29.48
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SAN FRANCISCO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $17.42
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NEWPORT BEACH TO ORANGE AND RETURN                                                 $13.83
+                                                                                        STAFF INCIDENTALS                                                                $110.00
+                                                                                        STAFF PER DIEM                                                                   $468.20
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO PHOENIX AZ AND RETURN                                             $37.44
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SAN DIEGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $10.25
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SAN DIEGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $157.45
+                                                                                        STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DSAA24M53682                  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                      $20.00
+DSAA24M53683      08/27/2024  CITIBANK - TRAVEL CBA CARD        START       END         STAFF TRANSPORTATION                                                             $94.21
+DSAA24M53684      08/27/2024  CITIBANK - TRAVEL CBA CARD                                AIRFARE FOR C JORDAN WASHINGTON DC TO BOSTON MA AND RETURN
+DSAA24M53685                  CITIBANK - TRAVEL CBA CARD        07/09/2024  07/09/2024  TICKET FEES                                                                      $30.00
+DSAA24M53686      08/26/2024  CITIBANK - TRAVEL CBA CARD        07/12/2024  07/19/2024  STAFF TRANSPORTATION                                                           $684.10
+DSAA24M53688      08/27/2024  CITIBANK - TRAVEL CBA CARD                                AIRFARE FOR S DOOLEY WASHINGTON DC TO MILWAUKEE WI
+DSAA24M53689                  CITIBANK - TRAVEL CBA CARD        07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                           $572.60
+DSAA24M53691      08/27/2024  KATRINA A SIMS                    07/12/2024  07/12/2024  AIRFARE FOR S DOOLEY MILWAUKEE WI TO WASHINGTON DC
+                                                                                        TICKET FEES                                                                      $30.00
+                  08/26/2024                                    07/19/2024  07/19/2024  STAFF TRANSPORTATION                                                        $1,058.20
+                  08/27/2024                                                            AIRFARE FOR M PEARL WASHINGTON DC TO PITTSBURGH PA AND RETURN
+                                                                07/11/2024  07/11/2024  STAFF INCIDENTALS                                                                $60.93
+                  08/28/2024                                    07/14/2024  07/17/2024  STAFF PER DIEM                                                                 $566.69
+                                                                                        STAFF TRANSPORTATION                                                           $153.90
+                                                                08/05/2024  08/09/2024  HUGHESVILLE TO WASHINGTON DC, NEW ORLEANS LA, WASHINGTON DC
+                                                                                        AND RETURN                                                                     $112.28
+DSAA24M53692      09/09/2024  RAYMOND WOELLER                   08/05/2024  08/09/2024  STAFF INCIDENTALS                                                           $1,017.00
+                                                                                        STAFF PER DIEM
+DSAA24M53693      08/27/2024  CITIBANK - TRAVEL CBA CARD        07/11/2024  07/11/2024  STAFF TRANSPORTATION                                                           $290.67   B-401
+DSAA24M53694      08/27/2024  CITIBANK - TRAVEL CBA CARD        07/17/2024  07/17/2024  PERKASIE TO TRENTON NJ, WASHINGTON DC, TRENTON NJ AND RETURN
+DSAA24M53695      08/28/2024  CITIBANK - TRAVEL CBA CARD        07/20/2024  07/20/2024  TICKET FEES                                                                      $20.00
+DSAA24M53696                                                                            TICKET FEES                                                                      $40.00
+DSAA24M53697      08/27/2024  CITIBANK - TRAVEL CBA CARD        07/17/2024  07/17/2024  STAFF TRANSPORTATION                                                           $444.10
+DSAA24M53700      08/28/2024  CITIBANK - TRAVEL CBA CARD        07/20/2024  07/20/2024  AIRFARE FOR N DUNIFON MILWAUKEE WI TO WASHINGTON DC
+DSAA24M53701                                                                            TICKET FEES                                                                      $40.00
+                  09/04/2024  ROBERT A SNYDER                   08/14/2024  08/15/2024  STAFF TRANSPORTATION                                                           $444.10
+DSAA24M53703                                                                            AIRFARE FOR R HARRY MILWAUKEE WI TO WASHINGTON DC
+DSAA24M53704      09/11/2024  EDGAR F BELL II                   08/14/2024  08/15/2024  STAFF PER DIEM                                                                 $167.07
+DSAA24M53705                                                                            WASHINGTON DC TO SLIPPERY ROCK PA AND RETURN
+DSAA24M53706      08/27/2024  CITIBANK - TRAVEL CBA CARD        07/17/2024  07/17/2024  STAFF INCIDENTALS                                                                 $5.35
+DSAA24M53707      08/28/2024  CITIBANK - TRAVEL CBA CARD        07/22/2024  07/22/2024  STAFF PER DIEM                                                                 $163.74
+DSAA24M53709                                                                            WASHINGTON DC TO SLIPPERY ROCK PA AND RETURN
+DSAA24M53710      08/28/2024  CITIBANK - TRAVEL CBA CARD        07/24/2024  07/24/2024  TICKET FEES                                                                      $30.00
+DSAA24M53711                                                                            STAFF TRANSPORTATION                                                           $633.58
+DSAA24M53712      08/27/2024  CITIBANK - TRAVEL CBA CARD        07/19/2024  07/19/2024  AIRFARE FOR F THOMPSON WASHINGTON DC TO MINNEAPOLIS MN
+DSAA24M53713      08/28/2024  CITIBANK - TRAVEL CBA CARD        07/23/2024  07/25/2024  STAFF TRANSPORTATION                                                           $410.60
+DSAA24M53714                                                                            AIRFARE FOR F THOMPSON MINNEAPOLIS MN TO WASHINGTON DC
+DSAA24M53715      08/27/2024  CITIBANK - TRAVEL CBA CARD        06/27/2024  06/27/2024  TICKET FEES                                                                      $30.00
+                  08/28/2024  CITIBANK - TRAVEL CBA CARD        06/30/2024  07/01/2024  STAFF TRANSPORTATION                                                           $248.21
+                                                                                        AIRFARE FOR M SMITH WASHINGTON DC TO SCRANTON PA AND RETURN
+                  08/27/2024  CITIBANK - TRAVEL CBA CARD        07/03/2024  07/03/2024  TICKET FEES                                                                      $30.00
+                  08/29/2024  CITIBANK - TRAVEL CBA CARD        07/07/2024  07/10/2024  STAFF TRANSPORTATION                                                           $680.20
+                                                                                        AIRFARE FOR C KAEMKE WASHINGTON DC TO ALBANY NY AND RETURN
+                  08/28/2024  CITIBANK - TRAVEL CBA CARD        07/12/2024  07/19/2024  TICKET FEES                                                                      $30.00
+                                                                                        STAFF TRANSPORTATION                                                           $810.20
+                  08/27/2024  CITIBANK - TRAVEL CBA CARD        07/11/2024  07/11/2024  AIRFARE FOR C KAEMKE WASHINGTON DC TO PORTLAND OR AND RETURN
+                  08/28/2024  CITIBANK - TRAVEL CBA CARD        07/14/2024  07/14/2024  STAFF TRANSPORTATION                                                           $888.20
+                                                                                        AIRFARE FOR K RASH WASHINGTON DC TO MILWAUKEE WI AND RETURN
+                                                                                        TICKET FEES                                                                      $30.00
+                                                                                        STAFF TRANSPORTATION                                                           $191.10
+

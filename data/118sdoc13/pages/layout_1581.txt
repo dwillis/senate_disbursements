@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION              AMOUNT ($)
+                  POSTED                                              DATES
+DKNG20240283                                                                       AIRFARE FOR SEN KING PORTLAND TO WASHINGTON DC                                         $280.10
+                                                           START       END         SENATOR TRANSPORTATION
+DKNG20240293                                                                       AIRFARE FOR SEN KING PORTLAND TO WASHINGTON DC                                           $30.00
+DKNG20240294      06/27/2024  CITIBANK - SENATOR IBA CARD  06/17/2024  06/17/2024  TICKET FEES                                                                              $30.00  B-1544
+DKNG20240295                                                                       TICKET FEES                                                                              $30.00
+DKNG20240296      06/14/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                              $30.00
+DKNG20240297      04/12/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                              $30.00
+DKNG20240298      05/08/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                              $30.00
+DKNG20240299      05/25/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                              $30.00
+DKNG20240300      04/29/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                              $30.00
+DKNG20240301      05/21/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                              $30.00
+DKNG20240302      05/21/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                              $30.00
+DKNG20240303      06/06/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                              $30.00
+DKNG20240304      04/23/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                              $30.00
+DKNG20240305      06/25/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                              $30.00
+DKNG20240306      06/18/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                              $30.00
+DKNG20240307      05/24/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                              $30.00
+DKNG20240308      04/24/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                              $30.00
+DKNG20240309      06/28/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                              $30.00
+DKNG20240316      05/22/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  TICKET FEES                                                                            $409.98
+                  06/11/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  SENATOR TRANSPORTATION
+DKNG20240318      05/25/2024  CITIBANK - SENATOR IBA CARD  03/04/2024  03/04/2024  AIRFARE FOR SEN KING WASHINGTON DC TO PORTLAND                                           $30.00
+DKNG20240329      05/23/2024  CITIBANK - SENATOR IBA CARD  05/10/2024  05/10/2024  TICKET FEES                                                                            $787.25
+                                                                                   STAFF TRANSPORTATION
+DKNG20240331      05/17/2024  CITIBANK - SENATOR IBA CARD  03/07/2024  03/07/2024  WASHINGTON DC TO PORTLAND, BRUNSWICK, GEORGETOWN,                                      $456.20
+                  04/03/2024  PATRICK H-R DOAK             03/14/2024  03/18/2024  SCARBOROUGH AND RETURN
+DKNG20240334                                                                       STAFF TRANSPORTATION                                                                   $316.91
+                  04/02/2024  SAWYER R NICHOLSON           02/29/2024  03/05/2024  ADDITIONAL EXPENSE FOR TRIP WASHINGTON DC TO PORTLAND,
+DKNG20240338                                                                       BRUNSWICK, PORTLAND AND RETURN                                                         $355.10
+                  04/08/2024  TUCKER III,BENJAMIN          02/01/2024  02/27/2024  STAFF TRANSPORTATION
+DKNG20240339                                                                       NORWAY TO THE FOLLOWING AND RETURN: 2/1 BETHEL; 2/2, 5, 7, 8, 13, 20,                  $189.61
+                  04/08/2024  EDITH A SMITH                03/01/2024  03/20/2024  21, 27 LEWISTON
+DKNG20240340                                                                       STAFF TRANSPORTATION                                                                     $81.74
+                  04/05/2024  EDITH A SMITH                03/12/2024  03/13/2024  BANGOR TO THE FOLLOWING AND RETURN: 3/1, 20 MILLINOCKET; 3/7
+DKNG20240342                                               03/20/2024  03/21/2024  MACHIAS; 3/15 DOVER FOXCROFT                                                           $347.98
+                  04/02/2024  SCOTT F WILKINSON                                    STAFF TRANSPORTATION
+DKNG20240343                                               03/23/2024  03/23/2024  BANGOR TO MILO, TRESCOTT TWP AND RETURN                                                  $30.00
+DKNG20240344      04/08/2024  CITIBANK - SENATOR IBA CARD                          STAFF TRANSPORTATION                                                                     $30.00
+DKNG20240345                                               03/22/2024  03/22/2024  AUGUSTA TO THE FOLLOWING AND RETURN: 3/20 WATERVILLE; 3/21                               $73.70
+                  04/02/2024  CITIBANK - SENATOR IBA CARD  03/21/2024  03/21/2024  BRISTOL, DAMARISCOTTA, NEWCASTLE, ALNA
+DKNG20240348      04/03/2024  CITIBANK - SENATOR IBA CARD  03/25/2024  03/25/2024  SENATOR TRANSPORTATION                                                                 $227.80
+                  04/02/2024  CHRISTINA VALAR BREEN                                AIRFARE FOR SEN KING WASHINGTON DC TO PORTLAND
+DKNG20240351                                               02/22/2024  03/26/2024  TICKET FEES                                                                            $109.88
+                  04/09/2024  SHARON T CAMPBELL                                    TICKET FEES
+                                                           03/28/2024  03/28/2024  STAFF TRANSPORTATION
+                  04/10/2024  CHRISTINA VALAR BREEN                                BANGOR TO CAMDEN TO HOLDEN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   2/22 PRESQUE ISLE TO FORT KENT AND RETURN; 3/26 HOULTON TO
+                                                                                   HALLOWELL AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   HOLDEN TO PORT CLYDE, ROCKPORT, ROCKLAND AND RETURN
+

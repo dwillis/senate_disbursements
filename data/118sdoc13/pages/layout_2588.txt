@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+                   POSTED                                                  DATES
+DWRN20240771                  GENE L GARLAND                                            STAFF TRANSPORTATION                                                                  $48.24
+DWRN20240772      08/22/2024  ZACHARY R LEWIS                   START       END         CHESAPEAKE TO NEWPORT NEWS AND RETURN                                                 $91.85
+DWRN20240773      08/22/2024  CHRISTOPHER MONIOUDIS                                     STAFF TRANSPORTATION                                                                  $36.19
+                  08/29/2024                                    08/07/2024  08/07/2024  WASHINGTON DC TO SPRINGFIELD AND RETURN                                             $350.16
+DWRN20240776                                                                            STAFF PER DIEM
+DWRN20240777                                                    08/05/2024  08/05/2024  STAFF TRANSPORTATION                                                                  $20.05
+DWRN20240778                                                                            CHESTERFIELD TO MIDLOTHIAN, ROANOKE, NORFOLK, VIENNA,                               $120.32
+                                                                07/29/2024  08/01/2024  MIDLOTHIAN AND RETURN
+                                                                                        STAFF INCIDENTALS                                                                     $37.52
+                  09/04/2024  MANUEL LEDESMA                    07/18/2024  07/19/2024  STAFF PER DIEM                                                                      $563.47
+                                                                                        WASHINGTON DC TO VIRGINIA BEACH AND RETURN
+                  08/27/2024  GENE L GARLAND                    08/09/2024  08/09/2024  STAFF TRANSPORTATION                                                                $167.23
+                  08/28/2024  ERIN N CARTER                     08/01/2024  08/13/2024  NORFOLK TO VIRGINIA BEACH AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                                $105.59
+DWRN20240779      09/10/2024  JACLYN B MARMOL                   07/01/2024  07/29/2024  NORFOLK TO THE FOLLOWING AND RETURN: 8/1 VIRGINIA BEACH;                              $85.11
+                                                                                        HAMPTON, SUFFOLK; 8/3 SUFFOLK; 8/5 PORTSMOUTH, NEWPORT NEWS; 8/6
+DWRN20240780      09/09/2024  ISAAC SARVER                      07/09/2024  07/09/2024  VIRGINIA BEACH, NEWPORT NEWS; 8/7 WILLIAMSBURG, CHESAPEAKE; 8/8                     $142.04   B-2551
+DWRN20240781      09/11/2024  ISAAC SARVER                      07/29/2024  07/30/2024  HAMPTON, CHESAPEAKE; 8/9 VIRGINIA BEACH, HAMPTON; 8/12 HAMPTON; 8                     $26.80
+DWRN20240782      09/10/2024  JORDAN, JHADE R                   08/13/2024  08/13/2024  /13 ISLE OF WIGHT                                                                     $18.00
+DWRN20240783      09/09/2024  NICHOLAS R KAWUGULE               07/30/2024  07/30/2024  STAFF TRANSPORTATION
+DWRN20240784      09/09/2024  NICHOLAS R KAWUGULE               08/12/2024  08/12/2024  VIENNA TO THE FOLLOWING AND RETURN TO FALLS CHURCH: 7/1                             $108.54
+                                                                                        ALEXANDRIA; 7/18 FAIRFAX; VIENNA TO THE FOLLOWING AND RETURN: 7/12                    $67.67
+DWRN20240785      09/09/2024  NICHOLAS R KAWUGULE               08/14/2024  08/14/2024  ARLINGTON; 7/19 STERLING; 7/29 FREDERICKSBURG; 7/16 FALLS CHURCH                      $50.25
+DWRN20240786      09/09/2024  NICHOLAS R KAWUGULE               08/15/2024  08/15/2024  TO CHANTILLY TO VIENNA                                                                $70.35
+DWRN20240787      09/10/2024  NICHOLAS R KAWUGULE               08/16/2024  08/16/2024  STAFF TRANSPORTATION                                                                  $25.46
+DWRN20240788      09/09/2024  NICHOLAS R KAWUGULE               08/17/2024  08/17/2024  ROANOKE TO GOSHEN AND RETURN                                                          $49.58
+DWRN20240789      09/09/2024  GENE L GARLAND                    08/21/2024  08/21/2024  STAFF TRANSPORTATION                                                                  $79.20
+DWRN20240790      09/11/2024  WARNER,MARK R                     07/22/2024  07/23/2024  ROANOKE TO HARRISONBURG AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                                $489.30
+DWRN20240791      09/10/2024  LOUISE A KADIRI                   08/15/2024  08/15/2024  ROANOKE TO HARRISONBURG AND RETURN                                                  $199.00
+                                                                                        STAFF TRANSPORTATION                                                                $162.14
+                                                                                        RICHMOND OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RICHMOND TO ORANGE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RICHMOND TO COLUMBIA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RICHMOND TO KING WILLIAM AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RICHMOND TO PETERSBURG, SUSSEX, DINWIDDIE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RICHMOND OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHESAPEAKE TO FORT EUSTIS AND RETURN
+                                                                                        SENATOR INCIDENTALS
+                                                                                        SENATOR PER DIEM
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO NEW YORK NY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RICHMOND TO STERLING AND RETURN
+

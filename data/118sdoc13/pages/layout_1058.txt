@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME    OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                    DATES
+DCRU20240505                  BLAKE T VINEYARD                                            STAFF TRANSPORTATION                                                           $107.20
+DCRU20240506      04/10/2024  BLAKE T VINEYARD                    START       END         LUBBOCK TO PLAINVIEW AND RETURN                                                $169.51
+DCRU20240507      04/10/2024  JAVIER D SALINAS                                            STAFF TRANSPORTATION
+DCRU20240508      04/04/2024  JAVIER D SALINAS                    03/21/2024  03/21/2024  LUBBOCK TO AMARILLO AND RETURN                                                   $67.00
+DCRU20240509      04/09/2024  JAVIER D SALINAS                                            STAFF TRANSPORTATION                                                           $271.35
+DCRU20240510      04/04/2024  JAVIER D SALINAS                    03/22/2024  03/22/2024  SAN ANTONIO TO DEVINE AND RETURN
+DCRU20240511      04/09/2024  JAVIER D SALINAS                                            STAFF TRANSPORTATION                                                             $93.80
+DCRU20240512      04/04/2024  JAVIER D SALINAS                    02/15/2024  02/15/2024  SAN ANTONIO TO SONORA, OZONA AND RETURN                                        $211.05
+DCRU20240513      04/09/2024  JAVIER D SALINAS                                            STAFF TRANSPORTATION
+                  04/09/2024                                      02/16/2024  02/16/2024  SAN ANTONIO TO BANDERA, KERRVILLE AND RETURN                                     $67.00
+DCRU20240514                  JAVIER D SALINAS                                            STAFF TRANSPORTATION                                                           $241.20
+                  04/04/2024                                      02/23/2024  02/23/2024  SAN ANTONIO TO CORPUS CHRISTI AND RETURN
+DCRU20240515                  JAVIER D SALINAS                                            STAFF TRANSPORTATION                                                             $35.00
+DCRU20240516      04/09/2024  MICHAEL A FLUSCHE                   03/01/2024  03/01/2024  SAN ANTONIO TO JOURDANTON AND RETURN                                           $217.75
+DCRU20240517      04/04/2024  MICHAEL A FLUSCHE                                           STAFF TRANSPORTATION
+DCRU20240518      04/09/2024  MICHAEL A FLUSCHE                   02/26/2024  02/26/2024  SAN ANTONIO TO ELDORADO AND RETURN                                               $19.18
+DCRU20240519      04/04/2024  MICHAEL A FLUSCHE                                           STAFF PER DIEM                                                                   $77.05
+DCRU20240520      04/04/2024  MICHAEL A FLUSCHE                   03/08/2024  03/08/2024  STAFF TRANSPORTATION                                                           $184.25
+DCRU20240521      04/09/2024  GIOVANNI CATANZARO                                          SAN ANTONIO TO EAGLE PASS AND RETURN                                             $54.27
+DCRU20240522      04/10/2024  CARL B MICA                         03/11/2024  03/11/2024  STAFF PER DIEM                                                                 $475.70
+DCRU20240523      04/10/2024  MATTHEW GRANT MURRAY                                        STAFF TRANSPORTATION                                                             $53.60
+DCRU20240524      04/10/2024  CASANDRA L GARCIA                   03/19/2024  03/19/2024  SAN ANTONIO TO JOURDANTON, POTEET AND RETURN                                     $57.62  B-1040
+DCRU20240529      04/10/2024  TEXAS DEPARTMENT OF TRANSPORTATION                          STAFF TRANSPORTATION                                                           $448.90
+                  04/17/2024                                      02/01/2024  02/29/2024  SAN ANTONIO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $427.31
+DCRU20240531                  CITIBANK - TRAVEL CBA CARD          01/22/2024  01/22/2024  STAFF TRANSPORTATION                                                           $882.48
+DCRU20240532      04/16/2024  AARON FRANCIS REITZ                 01/03/2024  01/31/2024  DALLAS TO FORT WORTH TO DESOTO                                                 $479.05
+                  04/22/2024                                      02/26/2024  02/26/2024  STAFF TRANSPORTATION                                                           $575.53
+                                                                  02/28/2024  02/28/2024  DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $2,008.19
+                                                                  02/01/2024  02/29/2024  STAFF TRANSPORTATION                                                        $4,016.37
+                                                                  03/01/2024  03/28/2024  DALLAS TO FORT WORTH TO DESOTO
+                                                                  03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                        $2,084.60
+                                                                  03/01/2024  03/28/2024  DALLAS TO FORT WORTH TO DESOTO                                                   $82.92
+                                                                  03/08/2024  03/17/2024  STAFF TRANSPORTATION
+                                                                  03/04/2024  03/04/2024  DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $1,331.83
+                                                                                          STAFF TRANSPORTATION
+                                                                  03/29/2024  03/29/2024  DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                  03/18/2024  03/23/2024  STAFF TRANSPORTATION
+                                                                                          AUSTIN TO MIDLAND AND RETURN
+                                                                                          STAFF TRANSPORTATION
+                                                                                          HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                          STAFF TRANSPORTATION
+                                                                                          DEL RIO TO MCALLEN AND RETURN
+                                                                                          SENATOR TRANSPORTATION
+                                                                                          STAFF TRANSPORTATION
+                                                                                          AIRFARE FOR SEN CRUZ, M MURRAY, M MARTINEZ AUSTIN TO AMARILLO
+                                                                                          AND RETURN
+                                                                                          STAFF TRANSPORTATION
+                                                                                          AIRFARE FOR B STEVENS MIDLAND TO WASHINGTON DC
+                                                                                          STAFF PER DIEM
+                                                                                          STAFF TRANSPORTATION
+

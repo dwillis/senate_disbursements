@@ -1,0 +1,45 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+DBLU20220652       POSTED     RICHARD BLUMENTHAL                           DATES                                                                                           $334.26
+DBLU20220653                                                                            SENATOR TRANSPORTATION                                                             $319.64
+DBLU20220654      09/16/2024                                    START       END         WASHINGTON DC TO QUEENS VILLAGE NY, GREENWICH, HARTFORD,
+                                                                                        MANCHESTER, STRATFORD, GREENWICH, NORWALK, BRIDGEPORT,                          $1,367.37
+                                                                02/03/2022  02/07/2022  GREENWICH, BRIDGEPORT, GREENWICH, NORWALK, EAST HARTFORD,
+                                                                                        WINDSOR, HARTFORD, WINDSOR LOCKS AND RETURN                                        $550.71
+                  09/16/2024  RICHARD BLUMENTHAL                02/10/2022  02/14/2022  SENATOR TRANSPORTATION                                                             $262.89
+                                                                                        WASHINGTON DC TO QUEENS VILLAGE NY, GREENWICH, NEW HAVEN,                          $452.43
+                  09/16/2024  RICHARD BLUMENTHAL                02/17/2022  02/28/2022  GUILFORD, ESSEX, OLD SAYBROOK, GREENWICH, STRATFORD,                               $474.23
+                                                                                        GREENWICH, NEW HAVEN, BRIDGEPORT, GREENWICH, HARTFORD,                          $1,865.71
+DBLU20220655      09/16/2024  RICHARD BLUMENTHAL                03/03/2022  03/07/2022  WINDSOR LOCKS AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+DBLU20220656      09/16/2024  RICHARD BLUMENTHAL                03/18/2022  03/20/2022  WASHINGTON DC TO QUEENS VILLAGE NY, GREENWICH, WEST HAVEN,                                  B-581
+DBLU20220657                                                                            HARTFORD, WILLIMANTIC, GREENWICH, BRIDGEPORT, GLASTONBURY,
+DBLU20220658      09/16/2024  RICHARD BLUMENTHAL                03/24/2022  03/28/2022  MERIDEN, GREENWICH, BRIDGEPORT, HARTFORD, NEW HAVEN,
+DBLU20220659                                                                            GREENWICH, HAMDEN, HARTFORD, NORWALK, FAIRFIELD, STAMFORD,
+                  09/16/2024  RICHARD BLUMENTHAL                03/31/2022  04/03/2022  GREENWICH, HARTFORD, STAFFORD, SOMERS, ENFIELD, GREENWICH,
+                                                                                        HARTFORD, NORWICH, WEST HARTFORD, GREENWICH, ROCKY HILL,
+                  09/16/2024  RICHARD BLUMENTHAL                04/07/2022  04/25/2022  HARTFORD, PUTNAM, MILFORD, GREENWICH, ANSONIA, BRIDGEPORT,
+                                                                                        GREENWICH, BRIDGEPORT, NEW HAVEN, HARTFORD, GREENWICH, NEW
+                                                                                        HAVEN, HARTFORD, WINDSOR LOCKS AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO QUEENS VILLAGE NY, GREENWICH, WEST HAVEN,
+                                                                                        HARTFORD, MERIDEN, MILLDALE, LITCHFIELD, MIDDLETOWN, NEW BRITAIN,
+                                                                                        STAMFORD, GREENWICH, DERBY, BRIDGEPORT, WESTPORT, WATERBURY,
+                                                                                        HARTFORD, BRANFORD, GREENWICH, BRIDGEPORT, NEW HAVEN,
+                                                                                        HARTFORD, GREENWICH, DANBURY, WETHERSFIELD, HARTFORD,
+                                                                                        WINDSOR LOCKS AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO QUEENS VILLAGE NY, GREENWICH, BRIDGEPORT,
+                                                                                        HARTFORD, MILFORD, WEST HAVEN, GREENWICH, BRIDGEPORT, NEW
+                                                                                        BRITAIN, WINDSOR LOCKS, TARIFFVILLE, MANCHESTER, WINDSOR LOCKS
+                                                                                        AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO QUEENS VILLAGE NY, GREENWICH, HARTFORD, NEW
+                                                                                        LONDON, NIANTIC, WILTON, GREENWICH, BRIDGEPORT, MERIDEN, NEW
+                                                                                        HAVEN, WATERBURY, GREENWICH, BRIDGEPORT, MYSTIC, NEW BRITAIN,
+                                                                                        GREENWICH, NEW YORK NY AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO NEW YORK NY, GREENWICH, WILTON, HARTFORD,
+                                                                                        WALLINGFORD, BRIDGEPORT, GREENWICH, BRIDGEPORT, EAST GRANBY,
+                                                                                        GREENWICH, BRIDGEPORT, LITCHFIELD, QUEENS VILLAGE NY AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+

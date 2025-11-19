@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                  POSTED                                              DATES
+DHYD20240569                                                                       AIRFARE FOR SEN HYDE SMITH JACKSON TO WASHINGTON DC                           $40.95
+DHYD20240570                                               START       END         STAFF TRANSPORTATION                                                        $307.60
+DHYD20240571                                                                       SALTILLO TO NEW ALBANY AND RETURN                                           $200.60
+DHYD20240573      08/02/2024  DILLIAN CASE KNIGHT          07/26/2024  07/26/2024  STAFF TRANSPORTATION
+DHYD20240575      08/09/2024  CITIBANK - TRAVEL CBA CARD   06/11/2024  06/11/2024  AIRFARE FOR D DAVIS JACKSON WY TO WASHINGTON DC                                $8.19
+DHYD20240576      08/05/2024  CITIBANK - TRAVEL CBA CARD   07/06/2024  07/06/2024  STAFF TRANSPORTATION                                                          $14.49
+DHYD20240577      08/02/2024  WINDLEY HALL ELLINGTON       07/29/2024  07/29/2024  AIRFARE FOR D DAVIS JACKSON TO WASHINGTON DC                                  $36.54
+                  08/07/2024  DILLIAN CASE KNIGHT          07/29/2024  07/29/2024  STAFF TRANSPORTATION                                                          $19.26
+DHYD20240578      08/07/2024  DILLIAN CASE KNIGHT          07/30/2024  07/30/2024  GULFPORT TO LONG BEACH AND RETURN                                             $85.05
+                  08/07/2024  ANNA K THAMES                07/18/2024  07/18/2024  STAFF TRANSPORTATION                                                        $173.25
+DHYD20240579                                                                       SALTILLO TO TUPELO AND RETURN
+DHYD20240581      08/07/2024  ANNA K THAMES                07/26/2024  07/29/2024  STAFF TRANSPORTATION                                                        $828.60   B-1430
+DHYD20240582                                                                       SALTILLO TO FULTON AND RETURN                                               $311.60
+DHYD20240586      08/08/2024  CITIBANK - SENATOR IBA CARD  07/29/2024  07/29/2024  STAFF PER DIEM                                                              $618.98
+                  08/08/2024  CITIBANK - TRAVEL CBA CARD   07/26/2024  07/26/2024  STAFF TRANSPORTATION
+DHYD20240587      08/08/2024  CITIBANK - TRAVEL CBA CARD   07/29/2024  07/29/2024  BROOKHAVEN TO BRANDON AND RETURN                                              $25.00
+DHYD20240588      08/22/2024  WINDLEY HALL ELLINGTON       07/31/2024  07/31/2024  STAFF TRANSPORTATION                                                          $51.66
+                                                                                   BROOKHAVEN TO THE FOLLOWING AND RETURN: 7/26 JACKSON; 7/29                  $184.08
+DHYD20240589      08/20/2024  DILLIAN CASE KNIGHT          08/01/2024  08/01/2024  UTICA, VICKSBURG
+                  08/23/2024  DILLIAN CASE KNIGHT          08/05/2024  08/05/2024  SENATOR TRANSPORTATION                                                         $7.63
+DHYD20240590                                                                       AIRFARE FOR SEN HYDE SMITH JACKSON TO WASHINGTON DC                           $96.76
+                  08/22/2024  UMESH N SANJANWALA           06/14/2024  06/14/2024  STAFF TRANSPORTATION                                                          $14.60
+DHYD20240594                                                                       AIRFARE FOR D DAVIS WASHINGTON DC TO JACKSON                                  $68.67
+DHYD20240595      08/23/2024  UMESH N SANJANWALA           07/22/2024  07/22/2024  STAFF TRANSPORTATION                                                          $18.50
+DHYD20240596                                                                       AIRFARE FOR D DAVIS JACKSON TO WASHINGTON DC                                $132.93
+DHYD20240597      08/22/2024  WINDLEY HALL ELLINGTON       08/01/2024  08/01/2024  STAFF PER DIEM                                                                $20.79
+DHYD20240598      08/26/2024  WINDLEY HALL ELLINGTON       08/02/2024  08/02/2024  STAFF TRANSPORTATION                                                          $18.27
+DHYD20240599      08/26/2024  WINDLEY HALL ELLINGTON       08/07/2024  08/07/2024  GULFPORT TO PASCAGOULA AND RETURN                                             $15.12
+                  08/26/2024  DILLIAN CASE KNIGHT          08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                          $57.96
+                  08/26/2024  WINDLEY HALL ELLINGTON       08/06/2024  08/06/2024  SALTILLO TO PHILADELPHIA AND RETURN                                           $15.12
+                  08/26/2024  MYRTIS L FRANKE              08/05/2024  08/05/2024  STAFF PER DIEM                                                                $36.54
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SALTILLO TO STARKVILLE AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   JACKSON TO VICKSBURG AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   JACKSON TO ROLLING FORK AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   GULFPORT TO BAY SAINT LOUIS AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   GULFPORT TO BILOXI, LONG BEACH AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   GULFPORT TO BILOXI AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SALTILLO TO RIPLEY, BLUE MOUNTAIN AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   GULFPORT TO BILOXI AND RETURN
+                                                                                   STAFF TRANSPORTATION
+

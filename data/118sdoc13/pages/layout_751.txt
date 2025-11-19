@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+                  POSTED                                        DATES
+DBDD20240597                                                                 ADVANCE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      $96.21
+DBDD20240599                                         START       END         STAFF TRANSPORTATION                                                                  $47.83
+DBDD20240600                                                                 SANFORD TO ELIZABETHTOWN AND RETURN                                                   $10.70
+                  07/21/2024  SAMUEL JOSEPH SHUMATE  07/17/2024  07/17/2024  STAFF TRANSPORTATION                                                                $121.96
+                  07/23/2024  SAMUEL JOSEPH SHUMATE  07/19/2024  07/19/2024  SANFORD TO FAYETTEVILLE AND RETURN                                                  $261.97
+                  07/24/2024  JERRY H LAUGHTER       07/16/2024  07/16/2024  STAFF INCIDENTALS
+                                                                             STAFF PER DIEM                                                                        $91.05
+DBDD20240601      07/23/2024  SAMUEL JOSEPH SHUMATE  07/18/2024  07/18/2024  STAFF TRANSPORTATION                                                                $532.65
+DBDD20240609      07/29/2024  JOHN M TAYLOE          07/15/2024  07/19/2024  ASHEVILLE TO ROBBINSVILLE, MURPHY, HAYESVILLE, ROBBINSVILLE,
+                                                                             WAYNESVILLE, BRYSON CITY, CULLOWHEE AND RETURN                                        $16.56
+DBDD20240610      07/29/2024  SAMUEL JOSEPH SHUMATE  07/22/2024  07/22/2024  STAFF TRANSPORTATION                                                                $116.98   B-733
+DBDD20240614      07/25/2024  RICHARD LEE MOXLEY     07/23/2024  07/23/2024  SANFORD TO CLINTON AND RETURN
+DBDD20240616      07/29/2024  THEODORE BUDD          07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                                  $85.94
+DBDD20240617      07/29/2024  SAMUEL JOSEPH SHUMATE  07/23/2024  07/23/2024  AULANDER TO THE FOLLOWING AND RETURN: 7/15 AHOSKIE, ROANOKE                            $4.02
+DBDD20240620      08/02/2024  SAMUEL JOSEPH SHUMATE  07/24/2024  07/24/2024  RAPIDS; 7/16 PLYMOUTH, COLUMBIA, SWANQUARTER; 7/17 WINTON,
+DBDD20240621      08/05/2024  JOHN M TAYLOE          07/22/2024  07/27/2024  GREENVILLE; 7/18 PLYMOUTH, ROBERSONVILLE; 7/19 GREENVILLE, SNOW                     $276.98
+                                                                             HILL, PANTEGO                                                                         $15.60
+DBDD20240622      08/01/2024  SAMUEL JOSEPH SHUMATE  07/25/2024  07/25/2024  STAFF PER DIEM
+DBDD20240623      08/02/2024  JERRY H LAUGHTER       07/24/2024  07/25/2024  STAFF TRANSPORTATION                                                                $117.51
+DBDD20240627      08/20/2024  THEODORE BUDD          07/21/2024  07/23/2024  SANFORD TO FAIRMONT, PEMBROKE AND RETURN                                              $27.45
+DBDD20240628      08/06/2024  THEODORE BUDD          07/25/2024  07/25/2024  STAFF INCIDENTALS
+DBDD20240629      08/02/2024  SAMUEL JOSEPH SHUMATE  07/29/2024  07/29/2024  STAFF TRANSPORTATION                                                                $217.01
+DBDD20240630      08/13/2024  DAVID M HELSLEY        07/15/2024  07/18/2024  ADVANCE TO CLEMMONS AND RETURN                                                      $763.80
+                                                                             SENATOR TRANSPORTATION
+                                                                             APPLETON WI TO WASHINGTON DC                                                          $20.01
+                                                                             STAFF PER DIEM                                                                        $98.02
+                                                                             STAFF TRANSPORTATION                                                                  $18.15
+                                                                             SANFORD TO LAURINBURG, ROWLAND AND RETURN                                           $355.10
+                                                                             STAFF PER DIEM                                                                      $105.30
+                                                                             STAFF TRANSPORTATION                                                                $498.00
+                                                                             SANFORD TO SMITHFIELD, NEW BERN, CLAYTON AND RETURN                                 $490.10
+                                                                             STAFF TRANSPORTATION                                                                  $25.06
+                                                                             AULANDER TO THE FOLLOWING AND RETURN: 7/22 GREENVILLE; 7/23                         $140.09
+                                                                             ROCKY MOUNT; 7/24 EDENTON, HERTFORD, HALIFAX; 7/25 ELIZABETH CITY;                    $35.00
+                                                                             7/26 TIMBERLAKE, ROXBORO, FRANKLINTON; 7/27 GREENVILLE,
+                                                                             HENDERSON
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO SMITHFIELD, SELMA, CLAYTON, SMITHFIELD AND RETURN
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             ASHEVILLE TO CLAYTON AND RETURN
+                                                                             SENATOR INCIDENTALS
+                                                                             SENATOR PER DIEM
+                                                                             CHARLOTTE TO OSHKOSH WI TO WASHINGTON DC
+                                                                             SENATOR TRANSPORTATION
+                                                                             WASHINGTON DC TO CHARLOTTE
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO WARSAW, ROSE HILL, KENANSVILLE AND RETURN
+                                                                             STAFF INCIDENTALS
+

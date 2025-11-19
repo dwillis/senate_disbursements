@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                              DATES
+DBLA20241245                                                                       KNOXVILLE TO OAK RIDGE, GATLINBURG AND RETURN                                   $34.17
+DBLA20241246                                               START       END         STAFF TRANSPORTATION                                                            $70.35
+DBLA20241247                                                                       KNOXVILLE TO OAK RIDGE AND RETURN                                               $42.88
+DBLA20241248      04/30/2024  CHELSEA M IVENS              03/19/2024  03/19/2024  STAFF TRANSPORTATION                                                          $174.20
+DBLA20241249      04/30/2024  CHELSEA M IVENS              03/20/2024  03/20/2024  KNOXVILLE TO CLINTON, ALCOA, OAK RIDGE AND RETURN                             $122.61
+DBLA20241250      04/30/2024  CHELSEA M IVENS              03/21/2024  03/21/2024  STAFF TRANSPORTATION                                                            $89.11
+                  04/30/2024  CHELSEA M IVENS              03/22/2024  03/22/2024  KNOXVILLE TO SEYMOUR, CLINTON AND RETURN
+DBLA20241251      04/30/2024  CHELSEA M IVENS              03/25/2024  03/25/2024  STAFF TRANSPORTATION                                                            $42.21
+DBLA20241252      04/30/2024  CHELSEA M IVENS              03/28/2024  03/28/2024  KNOXVILLE TO CROSSVILLE, GATLINBURG AND RETURN                                  $16.81
+                                                                                   STAFF TRANSPORTATION                                                          $293.52
+DBLA20241253      04/30/2024  CHELSEA M IVENS              04/01/2024  04/01/2024  KNOXVILLE TO ONEIDA, DANDRIDGE AND RETURN                                       $15.00
+                  05/01/2024  NEELY, BLAKEMON L            04/18/2024  04/18/2024  STAFF TRANSPORTATION                                                          $110.55
+DBLA20241254                                                                       KNOXVILLE TO LENOIR CITY, MARYVILLE, HARRIMAN, OAK RIDGE AND                    $12.06
+DBLA20241255      04/30/2024  NICHOLAS A KISTENMACHER      04/17/2024  04/17/2024  RETURN                                                                          $21.44
+DBLA20241256                                                                       STAFF TRANSPORTATION                                                            $63.44
+DBLA20241257      04/30/2024  NICHOLAS A KISTENMACHER      04/18/2024  04/18/2024  KNOXVILLE TO OAK RIDGE AND RETURN                                               $53.86  B-539
+DBLA20241258      04/30/2024  PABLO A MARTINEZ             04/17/2024  04/17/2024  STAFF PER DIEM                                                                  $24.79
+DBLA20241259      04/30/2024  PABLO A MARTINEZ             04/18/2024  04/18/2024  STAFF TRANSPORTATION                                                            $50.38
+DBLA20241260      04/30/2024  PABLO A MARTINEZ             04/19/2024  04/19/2024  IUKA MS TO MCMINNVILLE AND RETURN                                               $11.80
+                  04/30/2024  PABLO A MARTINEZ             04/20/2024  04/20/2024  STAFF PER DIEM                                                                $132.12
+DBLA20241261      04/30/2024  PAULINA A MADARIS            04/08/2024  04/08/2024  STAFF TRANSPORTATION                                                          $105.05
+DBLA20241262      04/30/2024  TYLER B PRIVETTE             04/17/2024  04/17/2024  MEMPHIS TO DYERSBURG AND RETURN                                                 $54.94
+DBLA20241273                                                                       STAFF TRANSPORTATION                                                            $28.96
+                  04/30/2024  TYLER B PRIVETTE             04/18/2024  04/18/2024  MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $72.36
+DBLA20241274      04/30/2024  WILLIAM A GUFFEE             04/18/2024  04/18/2024  STAFF TRANSPORTATION                                                            $20.77
+DBLA20241275      04/30/2024  NICHOLAS A KISTENMACHER      04/19/2024  04/19/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $349.10
+DBLA20241276                                                                       STAFF TRANSPORTATION                                                            $73.70
+                  04/30/2024  NICHOLAS A KISTENMACHER      04/22/2024  04/22/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  05/09/2024  CITIBANK - SENATOR IBA CARD  04/19/2024  04/19/2024  STAFF TRANSPORTATION
+                  05/01/2024  JAMES M WYATT                04/09/2024  04/09/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   CHATTANOOGA TO DAYTON AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   CHATTANOOGA TO SHELBYVILLE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   CHATTANOOGA TO WINCHESTER AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   CHATTANOOGA TO DUNLAP AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MEMPHIS TO BROWNSVILLE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN BLACKBURN WASHINGTON DC TO NASHVILLE
+                                                                                   STAFF TRANSPORTATION
+                                                                                   JACKSON TO DRESDEN AND RETURN
+

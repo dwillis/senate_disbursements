@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                   POSTED                                                  DATES
+DJOR20240285                  TAWSIF ANAM                                               STAFF TRANSPORTATION                                                          $18.09
+DJOR20240286      04/02/2024  TAWSIF ANAM                       START       END         MADISON TO MOUNT HOREB AND RETURN                                             $52.26
+DJOR20240287      04/02/2024  TAWSIF ANAM                                               STAFF TRANSPORTATION                                                          $16.14
+DJOR20240288      04/02/2024                                    03/16/2024  03/16/2024  MADISON TO PORTAGE AND RETURN                                                 $75.71
+DJOR20240289                  TAWSIF ANAM                                               STAFF PER DIEM                                                                $70.35
+DJOR20240290      04/02/2024  TAWSIF ANAM                       03/19/2024  03/19/2024  STAFF TRANSPORTATION
+DJOR20240293      04/03/2024  TAWSIF ANAM                                               MADISON TO BELOIT AND RETURN                                                   $4.69
+DJOR20240294      04/03/2024  TAWSIF ANAM                       03/20/2024  03/20/2024  STAFF TRANSPORTATION                                                           $4.02
+DJOR20240301      04/04/2024                                                            MADISON TO JANESVILLE, VERONA AND RETURN                                      $14.00
+DJOR20240302                  TAWSIF ANAM                       03/21/2024  03/21/2024  STAFF TRANSPORTATION                                                          $73.03
+DJOR20240303      04/04/2024  AMY RESOP                         03/22/2024  03/22/2024  MADISON TO MIDDLETON AND RETURN                                               $53.60
+DJOR20240304      04/12/2024  AMY RESOP                         03/22/2024  03/22/2024  STAFF TRANSPORTATION                                                          $67.00
+                  04/18/2024                                    03/27/2024  03/27/2024  MADISON TO MIDDLETON AND RETURN                                               $20.00
+DJOR20240305                  AMY RESOP                                                 STAFF PER DIEM                                                                $87.10
+DJOR20240306      04/18/2024                                    03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                          $20.00  B-1446
+DJOR20240307                  AMY RESOP                         03/22/2024  03/22/2024  MADISON TO RICHLAND CENTER AND RETURN                                         $87.10
+DJOR20240308      04/18/2024                                    03/11/2024  03/12/2024  STAFF TRANSPORTATION                                                          $20.00
+DJOR20240309                                                                            MADISON TO COLUMBUS AND RETURN                                              $186.18
+                                                                03/13/2024  03/13/2024  STAFF TRANSPORTATION
+                                                                                        OSHKOSH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $20.00
+                                                                03/16/2024  03/18/2024  STAFF PER DIEM                                                              $139.31
+                                                                                        STAFF TRANSPORTATION
+                  04/23/2024  AMY RESOP                         03/25/2024  03/26/2024  OSHKOSH TO SHEBOYGAN, FOND DU LAC AND RETURN                                  $69.68
+                                                                                        STAFF PER DIEM                                                                $48.24
+                  04/12/2024  DANYELL R TREMMEL                 04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                          $10.54
+                  04/23/2024  JOHN J FOSS                       03/27/2024  03/27/2024  OSHKOSH TO WEST BEND AND RETURN                                               $85.73
+                  04/23/2024  MARK CHRISTOPHER NIELSEN          04/02/2024  04/02/2024  STAFF PER DIEM                                                                $22.41
+                                                                                        STAFF TRANSPORTATION                                                        $191.03
+                  04/26/2024  MARK CHRISTOPHER NIELSEN          04/05/2024  04/07/2024  OSHKOSH TO FOND DU LAC, RIPON, WESTFIELD, FOND DU LAC AND                   $255.08
+                                                                                        RETURN
+DJOR20240310      05/09/2024  MARK CHRISTOPHER NIELSEN          04/03/2024  04/04/2024  STAFF PER DIEM                                                                $13.11
+                                                                                        STAFF TRANSPORTATION                                                        $139.16
+                                                                                        OSHKOSH TO AMHERST AND RETURN                                               $147.85
+                                                                                        STAFF TRANSPORTATION
+                                                                                        JEFFERSON TO MILWAUKEE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        APPLETON TO GREEN BAY AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OSHKOSH TO ASHWAUBENON, GREEN BAY AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OSHKOSH TO STEVENS POINT, WAUSAU, MERRILL, WAUSAU, STEVENS
+                                                                                        POINT AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OSHKOSH TO BARABOO, WISCONSIN DELLS, BARABOO, MADISON AND
+                                                                                        RETURN
+

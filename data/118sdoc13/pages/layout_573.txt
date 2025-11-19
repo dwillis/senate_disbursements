@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                              DATES
+DBLA20241681                                                                       AIRFARE FOR SEN BLACKBURN NASHVILLE TO WASHINGTON DC                            $147.10
+DBLA20241682                                               START       END         SENATOR TRANSPORTATION                                                          $107.10
+DBLA20241683                                                                       AIRFARE FOR SEN BLACKBURN WASHINGTON DC TO NASHVILLE                            $107.10
+DBLA20241684      07/03/2024  CITIBANK - SENATOR IBA CARD  06/09/2024  06/09/2024  SENATOR TRANSPORTATION                                                          $107.10
+DBLA20241685      07/02/2024  CITIBANK - SENATOR IBA CARD  06/18/2024  06/18/2024  AIRFARE FOR SEN BLACKBURN WASHINGTON DC TO NASHVILLE                            $233.16
+DBLA20241686      07/03/2024  CITIBANK - SENATOR IBA CARD  06/19/2024  06/19/2024  SENATOR TRANSPORTATION                                                          $206.36
+                  07/02/2024  CITIBANK - SENATOR IBA CARD  06/20/2024  06/20/2024  AIRFARE FOR SEN BLACKBURN NASHVILLE TO WASHINGTON DC
+DBLA20241687      07/03/2024  MICHAEL L HENSLEY            06/22/2024  06/22/2024  SENATOR TRANSPORTATION                                                          $154.10
+DBLA20241688      07/03/2024  MICHAEL L HENSLEY            06/14/2024  06/14/2024  AIRFARE FOR SEN BLACKBURN WASHINGTON DC TO NASHVILLE                            $154.10
+DBLA20241689                                                                       STAFF TRANSPORTATION                                                            $150.08
+                  07/03/2024  MICHAEL L HENSLEY            06/18/2024  06/18/2024  KNOXVILLE TO ANTIOCH AND RETURN
+DBLA20241690      07/01/2024  NEELY, BLAKEMON L            06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                            $146.73
+DBLA20241691      07/03/2024  MICHAEL L HENSLEY            06/12/2024  06/12/2024  KNOXVILLE TO KINGSPORT, SURGOINSVILLE, NEW TAZEWELL,                            $146.06
+DBLA20241692                                                                       SNEEDVILLE, RUTLEDGE, MORRISTOWN AND RETURN                                     $142.04
+DBLA20241693      07/03/2024  MICHAEL L HENSLEY            06/13/2024  06/13/2024  STAFF TRANSPORTATION                                                            $142.04   B-555
+DBLA20241694      07/03/2024  MICHAEL L HENSLEY            06/11/2024  06/11/2024  KNOXVILLE TO ELIZABETHTON AND RETURN                                            $142.04
+DBLA20241695      07/03/2024  MICHAEL L HENSLEY            06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                            $142.04
+DBLA20241696      07/02/2024  MICHAEL L HENSLEY            06/10/2024  06/10/2024  IUKA MS TO PULASKI AND RETURN                                                   $142.04
+DBLA20241697      07/02/2024  MICHAEL L HENSLEY            06/17/2024  06/17/2024  STAFF TRANSPORTATION                                                            $132.66
+DBLA20241698      07/03/2024  MICHAEL L HENSLEY            06/20/2024  06/20/2024  KNOXVILLE TO SURGOINSVILLE, NEW TAZEWELL, SNEEDVILLE, RUTLEDGE                  $125.29
+DBLA20241699      07/03/2024  MICHAEL L HENSLEY            06/24/2024  06/24/2024  AND RETURN                                                                      $124.62
+DBLA20241700      07/03/2024  MICHAEL L HENSLEY            06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                            $123.95
+DBLA20241701      07/03/2024  MICHAEL L HENSLEY            06/19/2024  06/19/2024  KNOXVILLE TO BLOUNTVILLE, KINGSPORT AND RETURN                                  $118.59
+DBLA20241702      07/03/2024  MICHAEL L HENSLEY            06/04/2024  06/04/2024  STAFF TRANSPORTATION
+DBLA20241703      07/03/2024  NICHOLAS A KISTENMACHER      06/24/2024  06/24/2024  KNOXVILLE TO PINEY FLATS AND RETURN                                               $94.47
+DBLA20241704      07/03/2024  CALEB ADDISON HASLETT        06/25/2024  06/25/2024  STAFF TRANSPORTATION                                                              $84.42
+                  07/03/2024  MICHAEL L HENSLEY            06/07/2024  06/07/2024  KNOXVILLE TO JOHNSON CITY AND RETURN                                              $74.37
+                  07/03/2024  PABLO A MARTINEZ             06/21/2024  06/21/2024  STAFF TRANSPORTATION
+                  07/03/2024  PABLO A MARTINEZ             06/24/2024  06/24/2024  KNOXVILLE TO JOHNSON CITY AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   KNOXVILLE TO JOHNSON CITY AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   KNOXVILLE TO JOHNSON CITY AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   KNOXVILLE TO JOHNSON CITY AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   KNOXVILLE TO KINGSPORT AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   KNOXVILLE TO JONESBOROUGH, GREENEVILLE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   KNOXVILLE TO JONESBOROUGH AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MEMPHIS TO NEWBERN, RIPLEY AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   NASHVILLE TO SPARTA, COOKEVILLE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   KNOXVILLE TO GREENEVILLE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   FRANKLIN TO TULLAHOMA AND RETURN
+                                                                                   STAFF TRANSPORTATION
+

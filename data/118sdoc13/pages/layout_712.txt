@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                             DATES
+DBRN20240598                                                                      WASHINGTON DC TO CINCINNATI, CLEVELAND AND RETURN                                $13.40
+DBRN20240599                                              START       END         SENATOR TRANSPORTATION                                                           $18.09
+DBRN20240600                                                                      COLUMBUS TO DUBLIN                                                             $290.78
+DBRN20240601      05/02/2024  BROWN,SHERROD               02/02/2024  02/02/2024  SENATOR TRANSPORTATION                                                         $179.18
+DBRN20240602      05/02/2024  BROWN,SHERROD               02/05/2024  02/05/2024  IN AND AROUND CLEVELAND                                                        $119.93
+DBRN20240603      05/07/2024  BROWN,SHERROD               02/26/2024  02/26/2024  SENATOR TRANSPORTATION                                                           $10.72
+DBRN20240604      05/07/2024  BROWN,SHERROD               03/11/2024  03/11/2024  CLEVELAND TO DAYTON AND RETURN                                                 $176.54
+DBRN20240605      05/07/2024  BROWN,SHERROD               04/02/2024  04/02/2024  SENATOR TRANSPORTATION
+DBRN20240606      05/02/2024  BROWN,SHERROD               04/08/2024  04/08/2024  CLEVELAND TO EAST PALESTINE, PITTSBURGH PA AND RETURN                             $8.90
+DBRN20240607      05/07/2024  ANTHONY L ELIOPOULOS        04/23/2024  04/23/2024  SENATOR TRANSPORTATION                                                         $183.24
+DBRN20240608      05/07/2024  ANTHONY L ELIOPOULOS        04/24/2024  04/24/2024  CLEVELAND TO OAK HARBOR AND RETURN
+DBRN20240609                                                                      SENATOR TRANSPORTATION                                                            $7.48
+DBRN20240610      05/07/2024  ELAINE N VILEM              04/15/2024  04/15/2024  IN AND AROUND CLEVELAND                                                        $232.52
+DBRN20240611                                                                      STAFF TRANSPORTATION
+DBRN20240612      05/02/2024  EMMA MARIE SPEYER           04/24/2024  04/24/2024  COLUMBUS TO BATAVIA, GEORGETOWN AND RETURN                                       $19.20  B-694
+DBRN20240613                                                                      STAFF PER DIEM                                                                 $107.87
+DBRN20240619      05/07/2024  ELAINE N VILEM              04/24/2024  04/24/2024  STAFF TRANSPORTATION
+                                                                                  COLUMBUS TO MANSFIELD, DAYTON AND RETURN                                         $15.51
+DBRN20240620      05/03/2024  CITIBANK - TRAVEL CBA CARD  04/22/2024  04/23/2024  STAFF PER DIEM                                                                 $240.59
+DBRN20240621                                                                      STAFF TRANSPORTATION                                                           $558.20
+                  05/02/2024  ANN L ORR                   04/16/2024  04/16/2024  CLEVELAND TO TOLEDO AND RETURN
+                  05/02/2024  ANN L ORR                   04/24/2024  04/24/2024  STAFF PER DIEM                                                                   $30.00
+                  05/07/2024  JAMES T HUFFER-COLE         04/26/2024  04/26/2024  STAFF TRANSPORTATION                                                             $58.96
+                                                                                  COLUMBUS TO DAYTON AND RETURN                                                    $48.91
+                  05/03/2024  ANN L ORR                   04/15/2024  04/15/2024  STAFF PER DIEM                                                                   $21.92
+                                                                                  STAFF TRANSPORTATION                                                           $184.92
+                  05/09/2024  SUSAN M KLEIN               03/21/2024  03/22/2024  CLEVELAND TO MANSFIELD, LIMA AND RETURN                                          $12.48
+                                                                                  STAFF TRANSPORTATION                                                             $48.91
+                  05/03/2024  SUSAN M KLEIN               04/22/2024  04/22/2024  TICKET FEES                                                                      $19.03
+                  05/10/2024  SUSAN M KLEIN               04/17/2024  04/18/2024  AIRFARE FOR K LATTIMORE WASHINGTON DC TO CLEVELAND AND RETURN                  $127.00
+                                                                                  STAFF TRANSPORTATION                                                           $196.31
+                                                                                  OBERLIN TO BEACHWOOD AND RETURN                                                  $44.22
+                                                                                  STAFF TRANSPORTATION                                                             $15.25
+                                                                                  OBERLIN TO CLEVELAND AND RETURN                                                $112.00
+                                                                                  STAFF PER DIEM                                                                 $241.20
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LOUISVILLE TO KENTON AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  OBERLIN TO CLEVELAND, TOLEDO AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CLEVELAND TO COLUMBUS AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CLEVELAND TO HUDSON AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CLEVELAND TO LANCASTER AND RETURN
+

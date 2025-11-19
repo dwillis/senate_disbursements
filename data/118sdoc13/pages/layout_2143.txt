@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DROM20240276      04/03/2024  CHANDLER BEUTLER                                          STAFF PER DIEM                                                               $45.86
+DROM20240277      04/03/2024  CHANDLER BEUTLER                  START       END         STAFF TRANSPORTATION                                                         $52.26
+DROM20240278      04/09/2024  CHANDLER BEUTLER                                          OGDEN TO SALT LAKE CITY AND RETURN
+DROM20240282      04/11/2024  KYLE LINDEN WILSON                03/25/2024  03/25/2024  STAFF PER DIEM                                                               $22.54
+DROM20240283      04/11/2024  KYLE LINDEN WILSON                                        STAFF TRANSPORTATION                                                         $73.03
+DROM20240284      04/11/2024  KYLE LINDEN WILSON                03/26/2024  03/26/2024  OGDEN TO LOGAN AND RETURN
+DROM20240285      04/11/2024  KYLE LINDEN WILSON                                        STAFF PER DIEM                                                               $25.39
+DROM20240286      04/24/2024  KYLE LINDEN WILSON                03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                         $88.44
+DROM20240287      04/11/2024  KYLE LINDEN WILSON                                        OGDEN TO LOGAN AND RETURN
+DROM20240288      04/17/2024  KYLE LINDEN WILSON                03/08/2024  03/08/2024  STAFF PER DIEM                                                               $12.92
+DROM20240289      04/11/2024  KYLE LINDEN WILSON                                        STAFF TRANSPORTATION                                                         $56.28
+DROM20240290      04/11/2024  KYLE LINDEN WILSON                03/11/2024  03/11/2024  ENTERPRISE TO SAINT GEORGE AND RETURN
+DROM20240291      04/16/2024  KYLE LINDEN WILSON                03/12/2024  03/12/2024  STAFF TRANSPORTATION                                                         $83.08
+DROM20240292      04/17/2024  KYLE LINDEN WILSON                03/13/2024  03/13/2024  ENTERPRISE TO PAROWAN AND RETURN
+DROM20240293      04/11/2024  KYLE LINDEN WILSON                                        STAFF TRANSPORTATION                                                         $54.94
+DROM20240294      04/11/2024  KYLE LINDEN WILSON                03/14/2024  03/14/2024  ENTERPRISE TO SAINT GEORGE AND RETURN                                                B-2106
+DROM20240295      04/11/2024  KYLE LINDEN WILSON                                        STAFF PER DIEM                                                               $13.95
+DROM20240299      05/08/2024  MANDEE T GRANT                    03/15/2024  03/15/2024  STAFF TRANSPORTATION                                                         $56.28
+                                                                03/18/2024  03/18/2024  ENTERPRISE TO CEDAR CITY AND RETURN
+                                                                                        STAFF PER DIEM                                                               $16.30
+                                                                03/19/2024  03/19/2024  STAFF TRANSPORTATION                                                       $166.24
+                                                                03/20/2024  03/20/2024  ENTERPRISE TO MAYFIELD AND RETURN
+                                                                03/21/2024  03/21/2024  STAFF TRANSPORTATION                                                         $56.28
+                                                                                        ENTERPRISE TO SAINT GEORGE AND RETURN
+                                                                03/25/2024  03/25/2024  STAFF PER DIEM                                                               $27.35
+                                                                                        STAFF TRANSPORTATION                                                       $266.66
+                                                                03/26/2024  03/26/2024  ENTERPRISE TO TORREY AND RETURN
+                                                                03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                         $66.33
+                                                                                        ENTERPRISE TO WASHINGTON, SAINT GEORGE, IVINS AND RETURN
+                                                                04/01/2024  04/01/2024  STAFF TRANSPORTATION                                                         $56.28
+                                                                                        ENTERPRISE TO SAINT GEORGE AND RETURN
+                                                                04/14/2024  04/18/2024  STAFF PER DIEM                                                                $5.70
+                                                                                        STAFF TRANSPORTATION                                                       $244.55
+                                                                                        ENTERPRISE TO HURRICANE, RICHFIELD AND RETURN
+                                                                                        STAFF PER DIEM                                                               $16.33
+                                                                                        STAFF TRANSPORTATION                                                       $392.62
+                                                                                        ENTERPRISE TO SALT LAKE CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $56.28
+                                                                                        ENTERPRISE TO CEDAR CITY AND RETURN
+                                                                                        STAFF PER DIEM                                                                $5.66
+                                                                                        STAFF TRANSPORTATION                                                         $54.94
+                                                                                        ENTERPRISE TO SAINT GEORGE AND RETURN
+                                                                                        STAFF PER DIEM                                                                $7.32
+                                                                                        STAFF TRANSPORTATION                                                         $56.28
+                                                                                        ENTERPRISE TO SAINT GEORGE AND RETURN
+                                                                                        STAFF INCIDENTALS                                                          $249.93
+                                                                                        STAFF PER DIEM                                                          $1,567.00
+                                                                                        STAFF TICKET FEES
+                                                                                        STAFF TRANSPORTATION                                                         $80.00
+                                                                                        SALT LAKE CITY TO WASHINGTON DC AND RETURN                              $1,306.20
+

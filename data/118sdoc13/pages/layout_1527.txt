@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DKEL20240398      07/03/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                          $855.19
+DKEL20240399      07/03/2024  CITIBANK - TRAVEL CBA CARD        START       END         TICKET FEES                                                                     $40.00
+DKEL20240400      07/03/2024  CITIBANK - TRAVEL CBA CARD                                AIRFARE FOR T SMITH TUCSON TO WASHINGTON DC AND RETURN
+DKEL20240401      07/02/2024  CITIBANK - TRAVEL CBA CARD        06/12/2024  06/15/2024  STAFF TRANSPORTATION                                                          $644.20
+DKEL20240402      07/02/2024  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                     $40.00
+DKEL20240403      07/02/2024  CITIBANK - TRAVEL CBA CARD        06/12/2024  06/16/2024  AIRFARE FOR K HEREDIA PHOENIX TO WASHINGTON DC AND RETURN
+DKEL20240404      07/01/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                          $468.20
+DKEL20240405      07/02/2024  CITIBANK - TRAVEL CBA CARD        06/12/2024  06/16/2024  TICKET FEES                                                                     $40.00
+DKEL20240406      07/03/2024  CITIBANK - TRAVEL CBA CARD                                AIRFARE FOR L HEREDIA PHOENIX TO WASHINGTON DC AND RETURN
+DKEL20240407      07/02/2024  CITIBANK - TRAVEL CBA CARD        06/10/2024  06/16/2024  STAFF TRANSPORTATION                                                          $468.20
+DKEL20240408      07/03/2024  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                     $40.00
+DKEL20240409      07/03/2024  CITIBANK - TRAVEL CBA CARD        06/12/2024  06/17/2024  AIRFARE FOR M WINN PHOENIX TO WASHINGTON DC AND RETURN
+DKEL20240410      07/03/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                          $644.20
+DKEL20240411      07/03/2024  CITIBANK - TRAVEL CBA CARD        06/12/2024  06/17/2024  TICKET FEES                                                                     $40.00
+DKEL20240412      07/03/2024  CITIBANK - TRAVEL CBA CARD                                AIRFARE FOR D LOPEZ PHOENIX TO WASHINGTON DC AND RETURN
+DKEL20240413      07/02/2024  CITIBANK - TRAVEL CBA CARD        06/12/2024  06/16/2024  STAFF TRANSPORTATION                                                          $468.20
+DKEL20240414      07/02/2024  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                     $40.00
+                                                                06/12/2024  06/15/2024  AIRFARE FOR T ROGERS PHOENIX TO WASHINGTON DC AND RETURN                                B-1490
+                                                                                        STAFF TRANSPORTATION                                                          $644.20
+                                                                06/12/2024  06/17/2024  TICKET FEES                                                                     $40.00
+                                                                                        AIRFARE FOR L LEE PHOENIX TO WASHINGTON DC AND RETURN
+                                                                06/11/2024  06/16/2024  STAFF TRANSPORTATION                                                          $608.20
+                                                                                        TICKET FEES                                                                     $40.00
+                                                                06/12/2024  06/15/2024  AIRFARE FOR K AVALOS SOTO TUCSON TO WASHINGTON DC AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                          $820.20
+                                                                06/12/2024  06/15/2024  TICKET FEES                                                                     $40.00
+                                                                                        AIRFARE FOR J SULLTROP PHOENIX TO WASHINGTON DC AND RETURN
+                                                                06/12/2024  06/15/2024  STAFF TRANSPORTATION                                                          $468.20
+                                                                                        TICKET FEES                                                                     $40.00
+                                                                06/12/2024  06/15/2024  AIRFARE FOR G RICHMOND PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                          $644.20
+                                                                06/12/2024  06/15/2024  TICKET FEES                                                                     $40.00
+                                                                                        AIRFARE FOR N VILLA PHOENIX TO WASHINGTON DC AND RETURN
+                                                                05/28/2024  05/29/2024  STAFF TRANSPORTATION                                                          $855.19
+                                                                                        TICKET FEES                                                                     $40.00
+                                                                06/12/2024  06/15/2024  AIRFARE FOR R GUERRERO TUCSON TO WASHINGTON DC AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                          $608.20
+                                                                                        TICKET FEES                                                                     $40.00
+                                                                                        AIRFARE FOR J DAILEY TUCSON TO WASHINGTON DC AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                          $820.20
+                                                                                        TICKET FEES                                                                     $40.00
+                                                                                        AIRFARE FOR H RAMOS PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                          $644.20
+                                                                                        TICKET FEES                                                                     $40.00
+                                                                                        AIRFARE FOR N NIERI-LANG PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                          $477.70
+                                                                                        TICKET FEES                                                                     $40.00
+                                                                                        AIRFARE FOR R MILLER WASHINGTON DC TO PHOENIX AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                          $361.21
+                                                                                        TICKET FEES                                                                     $40.00
+

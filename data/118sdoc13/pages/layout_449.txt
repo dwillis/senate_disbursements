@@ -1,0 +1,58 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME     OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                              DATES
+VSAA22406544       POSTED     ALLIANCE MATERIAL HANDLING INC                               PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22406545                  ALLIANCE MATERIAL HANDLING INC       START       END         PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22406583      07/03/2024  PERATON ENTERPRISE SOLUTIONS                                 TECHNICAL SUPPORT                                                      $85,580.61
+VSAA22406587      07/03/2024  PAULA KYLE                           10/10/2023  10/10/2023  TRAIN/ORIENT/CONFERENCE FEES                                               $216.00   B-431
+VSAA22406604      07/15/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS  10/10/2023  10/10/2023  TECHNICAL SUPPORT                                                          $466.47
+VSAA22406607      07/02/2024  SAFETY KLEEN SYSTEMS INC             04/02/2024  04/02/2024  SERVICE CHARGES & OTHER FEES                                            $4,311.00
+                  07/17/2024  SPECIAL AEROSPACE SECURITY           06/28/2024  06/28/2024
+VSAA22406608      07/08/2024  SERVICES, INC                        06/01/2024  06/30/2024  IT SECURITY                                                          $291,639.10
+                              SPECIAL AEROSPACE SECURITY           10/11/2023  10/11/2023
+VSAA22406609      07/15/2024  SERVICES, INC                                                IT SECURITY                                                            $32,343.75
+                              SPECIAL AEROSPACE SECURITY           05/11/2024  06/10/2024
+VSAA22406612      08/02/2024  SERVICES, INC                                                MANAGEMENT CONSULTANTS                                                 $83,189.36
+                              SPECIAL AEROSPACE SECURITY           05/11/2024  06/12/2024
+VSAA22406613      07/15/2024  SERVICES, INC                                                IT SECURITY                                                            $26,975.67
+                              INDUSTRIAL KNIFE CO INC              05/16/2024  06/15/2024
+VSAA22406623      07/15/2024  PERATON ENTERPRISE SOLUTIONS                                 PRODUCTION EQUIP MAINT                                                     $220.00
+VSAA22406626                  SYMPLICITY CORPORATION               05/09/2024  06/08/2024  TECHNICAL SUPPORT                                                      $77,429.15
+VSAA22406673      07/17/2024  ALLIANCE MATERIAL HANDLING INC                               APPLICATION SOFTWARE MAINT                                             $33,728.00
+VSAA22406674      07/15/2024  ALLIANCE MATERIAL HANDLING INC       10/11/2023  10/11/2023  PRODUCTION EQUIP MAINT
+VSAA22406675      07/10/2024  ANIXTER INC                          02/01/2024  02/29/2024  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22406676      07/15/2024  F A OTOOLE OFFICE SYSTEMS INC        06/01/2024  06/30/2024  VOICE, DATA COMM EQP MAINT                                                 $100.00
+VSAA22406680      07/15/2024  IMMIXTECHNOLOGY INC                  10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $316.50
+VSAA22406689      07/17/2024  CARAHSOFT TECHNOLOGY CORPORATION     10/10/2023  10/10/2023  APPLICATION SOFTWARE MAINT                                              $8,724.00
+VSAA22406699      07/17/2024  PERATON ENTERPRISE SOLUTIONS         10/23/2023  10/23/2023  APPLICATION SOFTWARE MAINT                                             $12,276.00
+VSAA22406706      07/16/2024  PERATON ENTERPRISE SOLUTIONS         10/01/2023  09/30/2024  TECHNICAL SUPPORT                                                      $70,801.61
+VSAA22406708      07/11/2024  PERATON ENTERPRISE SOLUTIONS         06/25/2024  06/25/2024  TECHNICAL SUPPORT                                                      $85,194.24
+VSAA22406709      07/15/2024  BLACKWOOD ASSOCIATES, INC.           05/01/2024  05/31/2024  TECHNICAL SUPPORT                                                      $91,073.53
+VSAA22406713      07/15/2024  ASCENDANT APP, LLC                   03/01/2024  03/31/2024  VOICE, DATA COMM EQP MAINT                                           $103,164.90
+VSAA22406714      07/15/2024  COMPUTERWORKS INC.                   04/01/2024  04/30/2024  APPLICATION SOFTWARE MAINT                                           $158,315.58
+VSAA22406718      07/24/2024  LEIDOS DIGITAL SOLUTIONS INC         05/01/2024  05/31/2024  APPLICATION SOFTWARE MAINT                                             $21,215.00
+VSAA22406750      07/09/2024  LEIDOS DIGITAL SOLUTIONS INC         06/11/2024  06/11/2024  APPLICATION SOFTWARE MAINT                                             $39,713.00
+VSAA22406752      07/11/2024  LEIDOS DIGITAL SOLUTIONS INC         06/01/2024  06/30/2024  APPLICATION SOFTWARE MAINT
+VSAA22406753      07/12/2024  LEIDOS DIGITAL SOLUTIONS INC         06/01/2024  06/30/2024  APPLICATION SOFTWARE MAINT                                                   $31.00
+VSAA22406754      07/15/2024  LEIDOS DIGITAL SOLUTIONS INC         05/01/2024  05/31/2024  APPLICATION SOFTWARE MAINT                                                   $62.00
+VSAA22406755      07/19/2024  TOTAL DATA MIGRATION LLC             05/01/2024  05/31/2024  APPLICATION SOFTWARE MAINT                                                 $155.00
+VSAA22406761      07/12/2024  RICOH USA INC                        05/01/2024  05/31/2024  TECHNICAL SUPPORT                                                            $31.00
+VSAA22406770      07/15/2024  BART & ASSOCIATES, LLC               05/01/2024  05/31/2024  PRODUCTION EQUIP MAINT                                                     $558.00
+VSAA22406791      07/30/2024  ANIXTER INC                          05/01/2024  05/31/2024  TECHNICAL SUPPORT                                                      $34,929.24
+VSAA22406808      07/21/2024  ANIXTER INC                          03/14/2024  03/14/2024  VOICE, DATA COMM EQP MAINT                                                   $81.00
+VSAA22406814      07/15/2024  SYMPLICITY CORPORATION               04/01/2024  06/30/2024  VOICE, DATA COMM EQP MAINT                                           $127,014.06
+VSAA22406847      07/31/2024  BART & ASSOCIATES, LLC               06/01/2024  06/30/2024  APPLICATION SOFTWARE MAINT                                                 $594.00
+VSAA22406862      07/31/2024  DEPARTMENT OF HOMELAND SECURITY      10/23/2023  10/23/2023  TECHNICAL SUPPORT                                                          $552.65
+VSAA22406865      07/19/2024  DYNAMIC SYSTEMS INC                  10/23/2023  10/23/2023  FEDERAL - MONITOR, GUARD SVC                                               $201.00
+VSAA22406907      07/19/2024  WINTER EQUIPMENT CORPORATION         06/01/2024  06/30/2024  VOICE, DATA COMM EQP MAINT                                           $206,417.03
+VSAA22406932      07/24/2024  DEPARTMENT OF HOMELAND SECURITY      06/01/2024  06/30/2024  PRODUCTION EQUIP MAINT                                                 $32,557.31
+VSAA22406959      07/17/2024  DEPARTMENT OF HOMELAND SECURITY      07/01/2024  07/31/2024  FEDERAL - MONITOR, GUARD SVC                                           $28,523.90
+VSAA22406962      07/31/2024  PERATON ENTERPRISE SOLUTIONS         04/01/2024  06/30/2024  PHYSICAL SECURITY                                                          $900.00
+VSAA22406983      09/05/2024  KONICA MINOLTA BUSINESS SOLUTIONS    10/24/2023  10/24/2023  TECHNICAL SUPPORT                                                            $23.20
+VSAA22407008      08/06/2024  EAGLE FOLDER SERVICE                 10/17/2023  10/17/2023  PRODUCTION EQUIP MAINT                                                  $1,150.00
+VSAA22407018      07/18/2024  FOXHEDGE LTD.                        06/01/2024  06/01/2024  PRODUCTION EQUIP MAINT                                               $565,175.76
+VSAA22407040      07/24/2024  EMERGENT, LLC                        06/01/2024  06/30/2024  TRAIN/ORIENT/CONFERENCE FEES                                            $5,784.00
+VSAA22407041      07/24/2024                                       06/01/2024  06/30/2024  MANAGEMENT CONSULTANTS                                                     $180.00
+                  07/20/2024                                       07/09/2024  07/09/2024                                                                          $3,000.00
+                  07/24/2024                                       06/01/2024  06/30/2024                                                                         $26,034.34
+                                                                   06/01/2024  06/30/2024
+

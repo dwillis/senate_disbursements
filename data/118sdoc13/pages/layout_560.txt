@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                  POSTED                                              DATES
+DBLA20241322                                                                       NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $54.94
+DBLA20241323                                               START       END         STAFF TRANSPORTATION                                                               $54.85
+                                                                                   NASHVILLE TO DICKSON AND RETURN                                                    $26.90
+                  05/08/2024  PABLO A MARTINEZ             04/30/2024  04/30/2024  STAFF INCIDENTALS                                                                $147.93
+                  05/14/2024  TYLER B PRIVETTE             04/26/2024  04/26/2024  STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION                                                               $51.45
+DBLA20241324      05/08/2024  TYLER B PRIVETTE             04/27/2024  04/27/2024  CHATTANOOGA TO MANCHESTER, WINCHESTER, ALTAMONT, DUNLAP AND                        $33.45
+DBLA20241325      05/14/2024  TYLER B PRIVETTE             04/29/2024  04/29/2024  RETURN                                                                           $298.55
+                                                                                   STAFF TRANSPORTATION
+DBLA20241326      05/08/2024  WILLIAM R IRWIN              04/29/2024  04/29/2024  CHATTANOOGA TO SOUTH PITTSBURG AND RETURN                                          $33.32  B-542
+DBLA20241327      05/14/2024  WILLIAM A GUFFEE             04/26/2024  04/28/2024  STAFF PER DIEM                                                                   $258.62
+DBLA20241329      05/08/2024  WILLIAM A GUFFEE             04/29/2024  04/29/2024  STAFF TRANSPORTATION
+DBLA20241330      05/29/2024  SPENCER HURWITZ              04/23/2024  04/29/2024  CHATTANOOGA TO NASHVILLE, SHELBYVILLE, LYNCHBURG, FAYETTEVILLE,                    $15.57
+                                                                                   LEWISBURG AND RETURN                                                               $77.72
+DBLA20241331      05/15/2024  CITIBANK - SENATOR IBA CARD  04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                             $117.72
+DBLA20241332      05/15/2024  CITIBANK - SENATOR IBA CARD  04/24/2024  04/24/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $762.38
+DBLA20241333      05/15/2024  CITIBANK - SENATOR IBA CARD  04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                          $1,385.01
+DBLA20241338      05/20/2024  ALEXANDER E GONZALEZ         04/24/2024  04/27/2024  CHATTANOOGA TO DUNLAP, SOUTH PITTSBURG, BRENTWOOD AND                            $349.10
+                                                                                   RETURN                                                                           $107.10
+DBLA20241339      05/20/2024  NEELY, BLAKEMON L            05/03/2024  05/03/2024  STAFF PER DIEM                                                                   $107.10
+DBLA20241340      05/20/2024  NEELY, BLAKEMON L            05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                               $67.66
+DBLA20241342      05/20/2024  JOHN M CLEMENT               04/17/2024  04/17/2024  CHATTANOOGA TO ATHENS AND RETURN                                                 $507.22
+DBLA20241343      05/20/2024  NEELY, BLAKEMON L            05/06/2024  05/06/2024  STAFF INCIDENTALS                                                             $1,193.94
+DBLA20241344      05/20/2024  JAY C STROBINO               04/26/2024  04/26/2024  STAFF PER DIEM                                                                   $222.44
+DBLA20241345      05/15/2024  JOHN M CLEMENT               05/29/2024  05/29/2024  STAFF TRANSPORTATION                                                               $11.62
+                                                                                   WASHINGTON DC TO NASHVILLE, CHATTANOOGA AND RETURN                               $113.23
+                                                                                   SENATOR TRANSPORTATION                                                           $109.21
+                                                                                   AIRFARE FOR SEN BLACKBURN NASHVILLE TO WASHINGTON DC                               $11.23
+                                                                                   SENATOR TRANSPORTATION                                                             $96.81
+                                                                                   AIRFARE FOR SEN BLACKBURN WASHINGTON DC TO NASHVILLE                               $17.43
+                                                                                   SENATOR TRANSPORTATION                                                             $88.37
+                                                                                   AIRFARE FOR SEN BLACKBURN NASHVILLE TO WASHINGTON DC                               $91.12
+                                                                                   STAFF INCIDENTALS
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC TO MEMPHIS, JOHNSON CITY AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   IUKA MS TO LEWISBURG AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   IUKA MS TO LAWRENCEBURG AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   NASHVILLE TO CLARKSVILLE, FRANKLIN AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   IUKA MS TO SAVANNAH, PARSONS AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   NASHVILLE TO MANCHESTER AND RETURN
+                                                                                   STAFF TRANSPORTATION
+

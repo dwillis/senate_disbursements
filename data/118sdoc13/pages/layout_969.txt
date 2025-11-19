@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DCRN20240385                  WILLIAM R DEWOODY                                         STAFF TRANSPORTATION                                                       $267.33
+DCRN20240386      05/13/2024  ANDREA DANIELLE DOOLEY            START       END         TYLER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $323.24
+DCRN20240387      05/16/2024  ANDREA DANIELLE DOOLEY                                    STAFF TRANSPORTATION
+                  05/14/2024                                    04/01/2024  04/30/2024  SAN ANTONIO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $25.06
+DCRN20240394                  GENE TULICH                                               STAFF PER DIEM                                                               $89.11
+DCRN20240395      05/21/2024  CYNTHIA LEON                      04/02/2024  04/29/2024  STAFF TRANSPORTATION                                                       $243.88
+DCRN20240396      05/10/2024  BRYAN MCKINNEY                                            SAN ANTONIO TO BANDERA AND RETURN                                          $413.96
+DCRN20240397      05/10/2024  DAVID KLAUDT                      04/30/2024  04/30/2024  NOMINATING BOARD TRANSPORTATION                                            $369.85
+DCRN20240398      05/10/2024  CARY WESTIN                                               SPRING TO AUSTIN AND RETURN                                                $391.22
+                  05/16/2024                                    11/16/2023  11/18/2023  NOMINATING BOARD TRANSPORTATION                                              $44.96
+DCRN20240399                  GLENN MACTAGGART                  11/16/2023  11/17/2023  MISSION TO AUSTIN AND RETURN                                               $411.70
+DCRN20240400      05/10/2024  ROBERT SMITH                      11/16/2023  11/18/2023  NOMINATING BOARD TRANSPORTATION                                            $102.18
+DCRN20240401      05/10/2024  JOHN HUBERT                       11/16/2023  11/17/2023  SAN ANGELO TO AUSTIN AND RETURN                                            $421.82
+DCRN20240402      05/09/2024  BILL DIEHL                        11/16/2023  11/17/2023  NOMINATING BOARD TRANSPORTATION                                            $225.00
+                  05/16/2024                                                            DALLAS TO AUSTIN AND RETURN                                                  $46.01
+DCRN20240403                  ANGELA SALINAS                    11/16/2023  11/17/2023  NOMINATING BOARD PER DIEM                                                  $294.29   B-951
+                  05/16/2024                                    11/16/2023  11/18/2023  NOMINATING BOARD TRANSPORTATION                                              $27.07
+DCRN20240404                  JOEL D RIEDEL                     11/16/2023  11/17/2023  EL PASO TO AUSTIN AND RETURN                                               $248.26
+                  05/16/2024                                    11/16/2023  11/18/2023  NOMINATING BOARD TRANSPORTATION                                            $179.55
+DCRN20240405                  MORGAN KATE JOHNSON                                       SAN ANTONIO TO AUSTIN AND RETURN                                           $520.96
+                  05/16/2024                                    11/16/2023  11/18/2023  NOMINATING BOARD TRANSPORTATION                                            $184.00
+DCRN20240406                  HARRY COHEN                                               HOUSTON TO AUSTIN AND RETURN                                               $279.98
+                  05/16/2024                                    11/15/2023  11/17/2023  NOMINATING BOARD TRANSPORTATION                                              $50.00
+DCRN20240407                  MIKE BOYD                                                 RIVIERA TO AUSTIN AND RETURN                                               $270.53
+                  05/16/2024                                    11/15/2023  11/17/2023  NOMINATING BOARD PER DIEM                                                    $27.73
+DCRN20240408                  PATRICK SEIBER                                            NOMINATING BOARD TRANSPORTATION                                            $401.53
+DCRN20240409      05/16/2024  TODD FOX                          11/16/2023  11/18/2023  HOUSTON TO AUSTIN AND RETURN                                               $146.72
+DCRN20240410      05/09/2024  DAWN FERRELL                                              NOMINATING BOARD PER DIEM                                                    $73.36
+DCRN20240411      05/10/2024  MICHAEL BOB STARR                 11/16/2023  11/18/2023  NOMINATING BOARD TRANSPORTATION                                            $396.93
+                  05/10/2024                                                            SAN ANTONIO TO AUSTIN AND RETURN                                           $283.61
+                                                                11/17/2023  11/17/2023  STAFF PER DIEM
+                                                                11/17/2023  11/17/2023  STAFF TRANSPORTATION
+                                                                11/16/2023  11/18/2023  LUBBOCK TO AUSTIN AND RETURN
+                                                                11/16/2023  11/17/2023  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LUBBOCK TO AUSTIN AND RETURN
+                                                                                        NOMINATING BOARD PER DIEM
+                                                                                        NOMINATING BOARD TRANSPORTATION
+                                                                                        COLLEGE STATION TO AUSTIN AND RETURN
+                                                                                        NOMINATING BOARD PER DIEM
+                                                                                        NOMINATING BOARD TRANSPORTATION
+                                                                                        CHRISTOVAL TO AUSTIN AND RETURN
+                                                                                        NOMINATING BOARD TRANSPORTATION
+                                                                                        COLLEGE STATION TO AUSTIN AND RETURN
+                                                                                        NOMINATING BOARD TRANSPORTATION
+                                                                                        BELTON TO AUSTIN AND RETURN
+                                                                                        NOMINATING BOARD TRANSPORTATION
+                                                                                        WICHITA FALLS TO AUSTIN AND RETURN
+                                                                                        NOMINATING BOARD TRANSPORTATION
+                                                                                        ABILENE TO AUSTIN AND RETURN
+

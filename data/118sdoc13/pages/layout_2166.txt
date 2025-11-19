@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                   POSTED                                                  DATES
+DROS20240429                  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                       $665.10
+DROS20240430      08/07/2024  CITIBANK - TRAVEL CBA CARD        START       END         AIRFARE FOR SEN ROSEN LAS VEGAS TO WASHINGTON DC                             $555.98
+DROS20240433      08/07/2024  NETHMINI S HAPPAWANA                                      SENATOR TRANSPORTATION
+DROS20240434      08/07/2024  ELYSSA S GOLDMAN                  07/29/2024  07/29/2024  AIRFARE FOR SEN ROSEN WASHINGTON DC TO LAS VEGAS                               $77.92
+DROS20240435      08/09/2024  CHRISTIAN X JONES                                         STAFF TRANSPORTATION                                                         $152.35
+DROS20240436      08/09/2024  CANDACE A WELLS                   07/25/2024  07/25/2024  LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $186.32
+DROS20240437      08/16/2024  ASHLEY MELISSA MARTINEZ                                   STAFF TRANSPORTATION                                                         $235.30
+DROS20240438      08/16/2024  ABBEY LYNN PIKE                   07/06/2024  07/29/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DROS20240442      08/15/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $78.65
+DROS20240444      08/20/2024  CITIBANK - TRAVEL CBA CARD        07/08/2024  07/31/2024  LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $191.48
+                  08/20/2024                                                            STAFF TRANSPORTATION                                                         $159.36
+DROS20240449                  ELYSSA S GOLDMAN                  07/09/2024  07/31/2024  LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $3,715.47
+                  09/12/2024                                                            STAFF TRANSPORTATION
+DROS20240450                  JOHN D FOSSUM                     07/09/2024  07/31/2024  RENO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $144.85
+                  09/12/2024                                                            STAFF TRANSPORTATION                                                           $43.79
+DROS20240451                  MOLLY R LEWIS                     07/03/2024  07/31/2024  RENO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DROS20240452      09/11/2024  ALEXANDER N GOFF                                          STAFF TRANSPORTATION                                                         $118.42
+                  09/12/2024                                    07/01/2024  07/17/2024  RENTAL AUTO FOR R WAISANEN LAS VEGAS TO TONOPAH AND RETURN                   $265.55
+DROS20240453                  CLARA J ARCARIS-WEISS                                     STAFF TRANSPORTATION                                                         $140.83
+DROS20240454      09/11/2024  TYLER M GOLDSTEIN                 08/04/2024  08/05/2024  BUS FARE FOR STAFF RETREAT LAS VEGAS TO THE FOLLOWING AND
+DROS20240455      09/11/2024  GRACE F BUTLER                                            RETURN: 8/5 IN AND AROUND; 8/6 BOULDER CITY; 8/7 HENDERSON                     $20.00
+DROS20240456      09/11/2024  MATTHEW P NORAMBUENA              08/05/2024  08/07/2024  STAFF PER DIEM                                                                 $39.12
+DROS20240457      09/11/2024  JORDAN NICOLE FEINBERG                                    STAFF TRANSPORTATION                                                           $32.79
+DROS20240459      09/09/2024  KATHARINE EMMA WALKER LANDERS     08/05/2024  08/10/2024  WASHINGTON DC TO LAS VEGAS AND RETURN                                          $92.63  B-2129
+DROS20240460      09/11/2024  ELIZABETH LEER                                            STAFF PER DIEM                                                               $138.74
+DROS20240461      09/11/2024  DAVID LEE BOIRE                   08/05/2024  08/09/2024  STAFF TRANSPORTATION                                                         $225.67
+DROS20240462      09/11/2024  ABBEY LYNN PIKE                                           WASHINGTON DC TO LAS VEGAS AND RETURN                                          $63.61
+                  09/04/2024                                    08/05/2024  08/08/2024  STAFF TRANSPORTATION                                                         $180.50
+                                                                08/05/2024  08/08/2024  RENO TO LAS VEGAS AND RETURN                                                 $298.28
+                                                                                        STAFF PER DIEM                                                               $123.22
+                                                                08/05/2024  08/08/2024  STAFF TRANSPORTATION                                                           $88.14
+                                                                08/02/2024  08/11/2024  RENO TO LAS VEGAS AND RETURN                                                 $366.03
+                                                                08/02/2024  08/08/2024  STAFF TRANSPORTATION
+                                                                08/05/2024  08/12/2024  RENO TO LAS VEGAS AND RETURN
+                                                                08/05/2024  08/07/2024  STAFF TRANSPORTATION
+                                                                08/05/2024  08/08/2024  WASHINGTON DC TO LAS VEGAS, HENDERSON, LAS VEGAS AND RETURN
+                                                                08/05/2024  08/11/2024  STAFF TRANSPORTATION
+                                                                08/05/2024  08/08/2024  WASHINGTON DC TO RENO, LAS VEGAS AND RETURN
+                                                                08/08/2024  08/10/2024  STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO LAS VEGAS, CHICAGO IL AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO LAS VEGAS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO LAS VEGAS, SAN DIEGO CA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SPARKS TO RENO, LAS VEGAS, RENO AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+

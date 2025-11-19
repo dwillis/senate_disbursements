@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+              POSTED                                             DATES
+                                                                              TICKET FEES                                                                       $80.00
+                                                      START       END         AIRFARE FOR A KELLER WASHINGTON DC TO CHICAGO IL AND RETURN                       $40.00
+                                                                              TICKET FEES                                                                       $40.00
+DFRE20240211  05/21/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/02/2024  TICKET FEES                                                                       $40.00  B-2-80
+DFRE20240212  05/21/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/02/2024  TICKET FEES                                                                       $65.95
+DFRE20240213  05/21/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/02/2024  STAFF INCIDENTALS                                                               $379.00
+DFRE20240216  05/24/2024  D ANDREW OLSON              04/18/2024  04/19/2024  STAFF PER DIEM                                                                    $22.00
+                                                                              WASHINGTON DC TO CHICAGO IL AND RETURN                                            $55.00
+DFRE20240220  05/23/2024  MURPHY,MARGARET H           05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                              $22.00
+DFRE20240221  05/23/2024  MURPHY,MARGARET H           05/14/2024  05/14/2024  INTERDEPARTMENTAL TRANSPORTATION                                                  $42.53
+DFRE20240222  05/24/2024  PAUL A BURDETTE             05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                            $124.34
+DFRE20240223  05/24/2024  HEATHER D FLYNN             05/15/2024  05/15/2024  INTERDEPARTMENTAL TRANSPORTATION                                                  $48.67
+DFRE20240224  05/29/2024  MARGARET ROSE DOUGHERTY     04/10/2024  04/10/2024  STAFF TRANSPORTATION                                                              $23.88
+DFRE20240226  05/26/2024  KHENADI BRYCE GRUBB         05/16/2024  05/16/2024  INTERDEPARTMENTAL TRANSPORTATION                                                  $13.00
+DFRE20240227  05/26/2024  CHRISTOPHER M SOCHA         02/06/2024  02/06/2024  STAFF TRANSPORTATION                                                              $34.41
+DFRE20240228  05/26/2024  LARA D CROUCH               05/03/2024  05/03/2024  INTERDEPARTMENTAL TRANSPORTATION                                                  $25.00
+DFRE20240229  06/07/2024  KHENADI BRYCE GRUBB         05/17/2024  05/17/2024  STAFF TRANSPORTATION                                                              $60.00
+DFRE20240230  06/07/2024  MURPHY,MARGARET H           05/17/2024  05/17/2024  INTERDEPARTMENTAL TRANSPORTATION                                                  $21.69
+DFRE20240231  06/07/2024  MURPHY,MARGARET H           05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                              $78.06
+DFRE20240232  06/11/2024  THOMAS O MELIA              05/08/2024  05/08/2024  INTERDEPARTMENTAL TRANSPORTATION                                                $359.21
+DFRE20240233  06/13/2024  ANDREA K FREEMAN            05/16/2024  05/17/2024  STAFF TRANSPORTATION                                                              $85.92
+                                                                              INTERDEPARTMENTAL TRANSPORTATION
+DFRE20240236  06/12/2024  CITIBANK - TRAVEL CBA CARD  05/16/2024  05/17/2024  STAFF TRANSPORTATION                                                            $502.00
+DFRE20240237                                                                  INTERDEPARTMENTAL TRANSPORTATION                                                  $40.00
+DFRE20240238  06/13/2024  CITIBANK - TRAVEL CBA CARD  05/16/2024  05/17/2024  STAFF TRANSPORTATION
+DFRE20240239                                                                  INTERDEPARTMENTAL TRANSPORTATION                                                $502.00
+              06/13/2024  CITIBANK - TRAVEL CBA CARD  05/16/2024  05/17/2024  STAFF TRANSPORTATION                                                              $40.00
+              06/13/2024  CITIBANK - TRAVEL CBA CARD  05/16/2024  05/17/2024  INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION                                                              $40.00
+                                                                              INTERDEPARTMENTAL TRANSPORTATION                                                $502.00
+                                                                              STAFF TRANSPORTATION                                                            $626.00
+                                                                              INTERDEPARTMENTAL TRANSPORTATION
+                                                                              DETAILEE INCIDENTALS                                                              $40.00
+                                                                              DETAILEE PER DIEM
+                                                                              DETAILEE TRANSPORTATION
+                                                                              ARLINGTON VA TO WASHINGTON DC, NEW YORK NY, WASHINGTON DC AND
+                                                                              RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES
+                                                                              TRAIN FARE FOR D MURPHY WASHINGTON DC TO NEW YORK NY AND
+                                                                              RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES
+                                                                              TRAIN FARE FOR M BARLOW WASHINGTON DC TO NEW YORK NY AND
+                                                                              RETURN
+                                                                              TICKET FEES
+                                                                              WITNESS TRANSPORTATION
+                                                                              TRAIN FARE FOR H FLYNN WASHINGTON DC TO NEW YORK NY AND RETURN
+                                                                              DETAILEE TRANSPORTATION
+                                                                              TICKET FEES
+

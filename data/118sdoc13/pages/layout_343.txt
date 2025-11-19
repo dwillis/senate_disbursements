@@ -1,0 +1,57 @@
+    DOCUMENT NO.    DATE                     PAYEE NAME          OBLIGATION/SERVICE      DESCRIPTION                                                               AMOUNT ($)
+                  POSTED                                                    DATES
+DSEC24M50315                                                                                                                                                                       $491.94
+                                                                 START       END
+DSEC24M50328                                                                                                                                                                         $97.65
+                  08/13/2024  JASON P DEESE                      07/18/2024                        STAFF TRANSPORTATION                                                            $693.91
+DSEC24M50329                                                                                       ARLINGTON VA TO WASHINGTON DC, NASHVILLE TN, WASHINGTON DC AND                  $343.70
+                  08/23/2024  CITIBANK - TRAVEL CBA CARD         08/12/2024                        RETURN
+DSEC24M50330                                                                  07/21/2024 STAFF INCIDENTALS                                                                           $92.21
+                  08/23/2024  CITIBANK - TRAVEL CBA CARD         08/12/2024                        STAFF PER DIEM                                                                    $20.00
+DSEC24M50339                                                                                       STAFF TRANSPORTATION
+                  08/23/2024  CITIBANK - TRAVEL CBA CARD         08/12/2024                        LEONARDTOWN MD TO WASHINGTON DC, ATLANTA GA, WASHINGTON DC                        $92.21
+DSEC24M50355                                                                                       AND RETURN                                                                        $20.00
+                  09/06/2024  JENNIFER A KRAFCHIK                08/12/2024   08/12/2024 STAFF TRANSPORTATION
+DSEC24M50356                                                                                       TICKET FEES                                                                       $92.21
+                  09/24/2024  DINA I MAZINA                      07/16/2024                        AIRFARE FOR A LOURIE WASHINGTON DC TO EAST BOSTON MA AND                          $20.00  B-325
+DSEC24M50391                                                                                       RETURN
+                  09/15/2024  MELINDA K SMITH                    08/12/2024   08/12/2024 STAFF TRANSPORTATION                                                                        $61.42
+0002853726        09/27/2024  ALEXANDER J LOURIE                                                   TICKET FEES                                                                     $150.17
+0002857277                                                       08/12/2024                        AIRFARE FOR M SMITH WASHINGTON DC TO EAST BOSTON MA AND
+0002859864                                                                                         RETURN                                                                          $110.82
+0002859865                                                       03/01/2024   08/12/2024 STAFF TRANSPORTATION                                                                      $721.60
+DSEC24M50165                                                     06/01/2024                        TICKET FEES                                                                     $430.99
+DSEC24M50170                                                     08/01/2024                        AIRFARE FOR J KRAFCHIK WASHINGTON DC TO EAST BOSTON MA AND
+DSEC24M50183                                                     08/01/2024                        RETURN                                                                            $65.75
+DSEC24M50185                                                     03/07/2024   08/12/2024 STAFF PER DIEM                                                                              $19.00
+DSEC24M50193                                                     03/18/2024                        STAFF TRANSPORTATION
+DSEC24M50197                                                     03/07/2024                        WASHINGTON DC TO EAST BOSTON MA, BOSTON MA, EAST BOSTON MA                        $57.33
+DSEC24M50198                                                     12/09/2023                        AND RETURN                                                                        $28.00
+DSEC24M50199                                                     03/01/2024   07/21/2024 STAFF INCIDENTALS
+DSEC24M50200                                                     04/11/2024                        STAFF PER DIEM                                                               $5,545.54
+DSEC24M50204                                                     04/16/2024                        STAFF TRANSPORTATION                                                              $61.00
+DSEC24M50217                                                     06/02/2024                        WASHINGTON DC TO ATLANTA GA AND RETURN
+                                                                 03/01/2024   08/12/2024 STAFF PER DIEM                                                                            $100.00
+                                                                 04/12/2024                        STAFF TRANSPORTATION                                                              $50.00
+                                                                 04/01/2024                        WASHINGTON DC TO BOSTON MA AND RETURN                                              $3.00
+                                                                              08/12/2024 STAFF PER DIEM
+                                                                                                   STAFF TRANSPORTATION                                                            $669.50
+                                                                                                   WASHINGTON DC TO BOSTON MA AND RETURN                                             $20.00
+                                                                             TRAVEL AND TRANSPORTATION OF PERSONS
+                                                                                                                                                                                   $622.49
+                  05/14/2024  SERGEANT AT ARMS                               03/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                              $21.14
+                  08/07/2024  SERGEANT AT ARMS                               06/30/2024  FEDERAL AUDIO, VISUAL RECORDNG
+                  09/25/2024  SERGEANT AT ARMS                               08/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                            $124.96
+                  09/25/2024  SERGEANT AT ARMS                               08/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                            $899.00
+                  04/10/2024  CITIBANK - PURCHASE CARD                       03/07/2024  EDUCATION PROVIDERS                                                                    $4,827.36
+                  04/09/2024  CITIBANK - PURCHASE CARD                       03/18/2024  SERVICE CHARGES & OTHER FEES                                                           $3,640.75
+                  04/22/2024  CITIBANK - PURCHASE CARD                       03/22/2024  SOFTWARE MAINT                                                                            $717.79
+                  04/18/2024  CITIBANK - PURCHASE CARD                       12/09/2023  FRAMING SERVICES                                                                          $331.02
+                  05/02/2024  READYREFRESH                                   03/31/2024  VOICE, DATA COMM EQP MAINT                                                                $276.59
+                  05/01/2024  LAWPROSE                                       04/11/2024  TRAIN/ORIENT/CONFERENCE FEES
+                  05/01/2024  FURST BROTHERS COMPANY                         04/16/2024  FRAMING SERVICES
+                  05/02/2024  OXYGEN FORENSICS INC                           06/01/2025  SOFTWARE MAINT
+                  05/07/2024  NATIONAL ARCHIVES & RECORDS ADMIN              03/31/2024  RECORDS ARCHIVAL
+                  05/13/2024  CITIBANK - PURCHASE CARD                       04/12/2024  EDUCATION PROVIDERS
+                  05/16/2024  NATIONAL ARCHIVES & RECORDS ADMIN              04/30/2024  RECORDS ARCHIVAL
+

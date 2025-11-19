@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DMCN20240965                  STEPHANIE H NELSON                                        STAFF TRANSPORTATION                                                               $76.63
+DMCN20240966      07/29/2024  MORGAN ALVEY                      START       END         LEXINGTON TO MOUNT OLIVET, WINCHESTER AND RETURN                                   $38.64
+DMCN20240967      07/29/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                             $108.73
+DMCN20240968      07/30/2024  MORGAN ALVEY                      07/23/2024  07/23/2024  PADUCAH TO MAYFIELD AND RETURN                                                     $38.64
+DMCN20240969      07/29/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                               $36.68
+DMCN20240970      07/29/2024  MORGAN ALVEY                      06/18/2024  06/18/2024  PADUCAH TO CLAY AND RETURN                                                         $29.47
+DMCN20240971      07/29/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                               $13.10
+DMCN20240972      07/29/2024  MORGAN ALVEY                      06/20/2024  06/20/2024  PADUCAH TO MAYFIELD AND RETURN                                                     $64.84
+DMCN20240973      07/29/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                               $64.84
+DMCN20240974      07/29/2024  MORGAN ALVEY                      06/24/2024  06/24/2024  PADUCAH TO MAYFIELD AND RETURN                                                     $44.54
+DMCN20240975      07/29/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                               $66.15
+DMCN20240976      07/29/2024  MORGAN ALVEY                      06/25/2024  06/25/2024  PADUCAH TO MAYFIELD AND RETURN                                                     $39.95
+DMCN20240977      07/29/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                               $53.71
+DMCN20240978      07/29/2024  MORGAN ALVEY                      06/27/2024  06/27/2024  PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DMCN20240979      07/29/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                                $2.62
+DMCN20240980      07/29/2024  MORGAN ALVEY                      06/28/2024  06/28/2024  PADUCAH TO MAYFIELD, MURRAY AND RETURN                                             $67.46
+DMCN20240981      07/29/2024  STEPHANIE H NELSON                                        STAFF TRANSPORTATION
+DMCN20240982      08/06/2024  STEPHANIE H NELSON                07/01/2024  07/01/2024  PADUCAH TO MAYFIELD, MURRAY AND RETURN                                              $9.17
+DMCN20240983      08/06/2024  CHONGYANG GE                                              STAFF TRANSPORTATION                                                               $12.44
+DMCN20240984      08/12/2024  TERRY A CARMACK                   07/02/2024  07/02/2024  PADUCAH TO MAYFIELD, LOWES AND RETURN                                              $17.03
+                  08/06/2024                                                            STAFF TRANSPORTATION                                                               $13.77
+DMCN20240988                                                    07/15/2024  07/15/2024  PADUCAH TO MARION AND RETURN                                                       $81.37
+DMCN20240989                                                                            STAFF TRANSPORTATION                                                          $1,157.87
+DMCN20240990                                                    07/16/2024  07/16/2024  PADUCAH TO GRAND RIVERS AND RETURN                                                         B-1767
+DMCN20240991                                                                            STAFF TRANSPORTATION                                                             $115.93
+                                                                07/17/2024  07/17/2024  PADUCAH TO GILBERTSVILLE, GRAND RIVERS, CALVERT CITY AND RETURN                  $125.76
+                                                                                        STAFF TRANSPORTATION
+                                                                07/18/2024  07/18/2024  PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $80.56
+                                                                                        STAFF TRANSPORTATION                                                               $90.39
+                                                                07/19/2024  07/19/2024  PADUCAH TO MURRAY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/22/2024  07/22/2024  PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                07/23/2024  07/23/2024  IN AND AROUND RICHMOND
+                                                                                        STAFF TRANSPORTATION
+                                                                07/24/2024  07/24/2024  LEXINGTON TO VERSAILLES AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/26/2024  07/26/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                07/09/2024  07/09/2024  STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO PROSPECT, LOUISVILLE, PADUCAH, BENTON, LA
+                                                                06/22/2024  07/06/2024  GRANGE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                  08/07/2024  MORGAN ALVEY                      07/26/2024  07/26/2024  PADUCAH TO OAK GROVE AND RETURN
+                  08/07/2024  MORGAN ALVEY                      07/29/2024  07/29/2024  STAFF TRANSPORTATION
+                  08/07/2024  DONNA BAKER MCCLURE               06/24/2024  06/24/2024  PADUCAH TO MADISONVILLE AND RETURN
+                  08/07/2024  DONNA BAKER MCCLURE               06/25/2024  06/25/2024  STAFF TRANSPORTATION
+                                                                                        LONDON TO MIDDLESBORO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONDON TO SOMERSET AND RETURN
+

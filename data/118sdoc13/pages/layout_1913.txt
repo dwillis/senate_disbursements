@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DMRK20240896                  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                     $25.00
+DMRK20240897      09/21/2024  CITIBANK - TRAVEL CBA CARD        START       END         TICKET FEES                                                                     $36.00
+DMRK20240898      09/21/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                          $689.12
+DMRK20240899      09/23/2024  CITIBANK - TRAVEL CBA CARD        08/25/2024  08/25/2024  AIRFARE FOR C HOBBS ANCHORAGE TO WASHINGTON DC                                $520.30
+DMRK20240900      09/23/2024  CITIBANK - TRAVEL CBA CARD        08/25/2024  08/25/2024  STAFF TRANSPORTATION                                                          $273.46
+DMRK20240901      09/23/2024  CITIBANK - TRAVEL CBA CARD        09/08/2024  09/08/2024  AIRFARE FOR J COLVER ANCHORAGE TO WASHINGTON DC                               $442.91
+DMRK20240902      09/23/2024  STACY PENSE                                               STAFF TRANSPORTATION                                                            $30.82
+DMRK20240904      09/21/2024  CITIBANK - TRAVEL CBA CARD        09/02/2024  09/02/2024  AIRFARE FOR N NOSEK ANCHORAGE TO WASHINGTON DC                             $1,041.00
+                  09/23/2024                                                            SENATOR TRANSPORTATION
+DMRK20240905                  CITIBANK - TRAVEL CBA CARD        09/06/2024  09/06/2024  AIRFARE FOR SEN MURKOWSKI ANCHORAGE TO FAIRBANKS AND RETURN                $1,080.08
+DMRK20240907      09/23/2024  GERENE L SUMPTER                                          STAFF TRANSPORTATION                                                          $132.28
+                  09/27/2024                                    08/28/2024  08/28/2024  FAIRBANKS TO NENANA AND RETURN                                                $445.50
+DMRK20240909                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                          $284.50
+DMRK20240910      09/24/2024  CITIBANK - TRAVEL CBA CARD        09/16/2024  09/16/2024  AIRFARE FOR A THIELE WASHINGTON DC TO FAIRBANKS, ANCHORAGE,                   $544.20
+DMRK20240911      09/24/2024  CITIBANK - TRAVEL CBA CARD                                JUNEAU AND RETURN                                                             $366.71
+DMRK20240912      09/23/2024  CITIBANK - TRAVEL CBA CARD        08/17/2024  08/30/2024  STAFF TRANSPORTATION                                                          $281.50
+DMRK20240913      09/23/2024  CITIBANK - TRAVEL CBA CARD                                AIRFARE FOR M JONES WASHINGTON DC TO ANCHORAGE AND RETURN                     $558.37
+DMRK20240915      09/23/2024  CITIBANK - TRAVEL CBA CARD        08/02/2024  08/23/2024  STAFF PER DIEM                                                                  $84.26
+DMRK20240917      09/21/2024  CITIBANK - TRAVEL CBA CARD        08/27/2024  08/29/2024  STAFF TRANSPORTATION                                                          $366.71
+DMRK20240918      09/23/2024  MURKOWSKI,LISA A                                          PALMER TO ANCHORAGE, BETHEL, ANCHORAGE AND RETURN                               $93.75
+                  09/27/2024                                    08/26/2024  08/26/2024  STAFF TRANSPORTATION                                                                    B-1876
+                                                                08/06/2024  08/30/2024  AIRFARE FOR C HOBBS ANCHORAGE TO BETHEL                                    $2,991.47
+                                                                09/02/2024  09/02/2024  STAFF TRANSPORTATION                                                       $3,107.82
+                                                                08/28/2024  08/28/2024  AIRFARE FOR K LESSARD WASHINGTON DC TO ANCHORAGE AND RETURN
+                                                                09/04/2024  09/04/2024  STAFF TRANSPORTATION                                                          $100.50
+                                                                08/13/2024  08/13/2024  AIRFARE FOR K NOTHDURFT ANCHORAGE TO WASHINGTON DC                            $566.51
+                                                                09/09/2024  09/09/2024  STAFF TRANSPORTATION                                                          $497.46
+                                                                08/02/2024  09/09/2024  AIRFARE FOR C HOBBS BETHEL TO ANCHORAGE                                       $291.00
+                                                                                        STAFF TRANSPORTATION                                                          $996.42
+DMRK20240931      09/30/2024  TANYA R LAUTARET                  09/10/2024  09/10/2024  AIRFARE FOR K LESSARD ANCHORAGE TO WASHINGTON DC
+DMRK20240936      09/25/2024  CITIBANK - TRAVEL CBA CARD        09/20/2024  09/20/2024  SENATOR TRANSPORTATION
+DMRK20240937      09/26/2024  CITIBANK - TRAVEL CBA CARD        09/22/2024  09/23/2024  AIRFARE FOR SEN MURKOWSKI MANOKOTAK TO DILLINGHAM
+DMRK20240938      09/25/2024  CITIBANK - TRAVEL CBA CARD        09/21/2024  09/21/2024  STAFF TRANSPORTATION
+DMRK20240939      09/25/2024  CITIBANK - TRAVEL CBA CARD        09/15/2024  09/20/2024  AIRFARE FOR G KUBITZ ANCHORAGE TO WASHINGTON DC
+                                                                                        SENATOR INCIDENTALS
+                                                                                        SENATOR PER DIEM
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO JUNEAU, KAKE, JUNEAU, YAKUTAT, ANCHORAGE,
+                                                                                        JUNEAU, KETCHIKAN, JUNEAU, ANCHORAGE, DILLINGHAM, MANOKOTAK,
+                                                                                        DILLINGHAM, ANCHORAGE, KODIAK, ANCHORAGE, JUNEAU, WRANGELL,
+                                                                                        ANCHORAGE, GIRDWOOD, ANCHORAGE, NOME, FAIRBANKS, ANCHORAGE,
+                                                                                        KETCHIKAN, ANCHORAGE, FAIRBANKS, ANCHORAGE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SOLDOTNA TO HOMER AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MURKOWSKI WASHINGTON DC TO JUNEAU
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MURKOWSKI ANCHORAGE TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MURKOWSKI JUNEAU TO ANCHORAGE
+                                                                                        STAFF TRANSPORTATION
+

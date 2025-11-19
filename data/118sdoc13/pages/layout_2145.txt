@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+              POSTED                                           DATES
+                                                                            STAFF TRANSPORTATION                                                          $1,557.98
+                                                    START       END         WASHINGTON DC TO SALT LAKE CITY AND RETURN                                         $40.02
+                                                                            STAFF PER DIEM                                                                     $40.00
+DROM20240320  05/17/2024  ALEXANDER B CHRISTIANSEN  05/02/2024  05/06/2024  STAFF TICKET FEES
+                                                                            STAFF TRANSPORTATION                                                          $1,031.15
+DROM20240321  05/22/2024  MEAGAN SHEPHERD           05/02/2024  05/06/2024  WASHINGTON DC TO SALT LAKE CITY AND RETURN                                         $21.56
+                                                                            STAFF PER DIEM                                                                     $40.00
+DROM20240324  05/23/2024  CHANDLER BEUTLER          04/29/2024  04/29/2024  STAFF TICKET FEES                                                                          B-2108
+DROM20240325  05/23/2024  CHANDLER BEUTLER          04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                          $1,102.12
+                                                                            WASHINGTON DC TO SALT LAKE CITY, LEHI, PHOENIX AZ AND RETURN                       $79.73
+DROM20240326  05/23/2024  CHANDLER BEUTLER          05/01/2024  05/01/2024  STAFF TRANSPORTATION                                                               $55.81
+DROM20240327  05/23/2024  CHANDLER BEUTLER          05/02/2024  05/02/2024  OGDEN TO LOGAN AND RETURN
+DROM20240328  05/21/2024  KYLE LINDEN WILSON        04/03/2024  04/03/2024  STAFF PER DIEM                                                                   $104.52
+                                                                            STAFF TRANSPORTATION                                                               $95.81
+DROM20240329  05/21/2024  KYLE LINDEN WILSON        04/05/2024  04/05/2024  OGDEN TO SALT LAKE CITY AND RETURN                                                 $93.13
+DROM20240330  05/21/2024  KYLE LINDEN WILSON        04/08/2024  04/08/2024  STAFF TRANSPORTATION                                                               $22.10
+DROM20240331  05/21/2024  KYLE LINDEN WILSON        04/10/2024  04/10/2024  OGDEN TO TOOELE AND RETURN                                                         $56.28
+                                                                            STAFF TRANSPORTATION                                                               $56.28
+DROM20240332  05/24/2024  KYLE LINDEN WILSON        04/11/2024  04/12/2024  OGDEN TO PARK CITY AND RETURN
+                                                                            STAFF PER DIEM                                                                   $304.18
+DROM20240333  05/23/2024  KYLE LINDEN WILSON        04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                               $17.52
+DROM20240334  05/23/2024  KYLE LINDEN WILSON        04/18/2024  04/18/2024  ENTERPRISE TO SAINT GEORGE AND RETURN
+DROM20240335  05/23/2024  KYLE LINDEN WILSON        04/19/2024  04/19/2024  STAFF TRANSPORTATION                                                             $158.12
+                                                                            ENTERPRISE TO SAINT GEORGE AND RETURN                                              $31.90
+DROM20240336  05/23/2024  KYLE LINDEN WILSON        04/22/2024  04/22/2024  STAFF TRANSPORTATION
+DROM20240337  05/23/2024  KYLE LINDEN WILSON        04/23/2024  04/23/2024  ENTERPRISE TO CEDAR CITY, BICKNELL AND RETURN                                    $228.23
+DROM20240339  05/23/2024  KYLE LINDEN WILSON        05/06/2024  05/06/2024  STAFF PER DIEM                                                                   $243.88
+DROM20240340  05/23/2024  KYLE LINDEN WILSON        04/24/2024  04/24/2024  STAFF TRANSPORTATION
+DROM20240341  05/23/2024  KYLE LINDEN WILSON        04/25/2024  04/25/2024  ENTERPRISE TO PANGUITCH AND RETURN                                                 $56.28
+                                                                            STAFF PER DIEM                                                                      $9.25
+                                                                            STAFF TRANSPORTATION
+                                                                            ENTERPRISE TO CEDAR CITY, SALT LAKE CITY, CEDAR CITY AND RETURN                    $56.28
+                                                                            STAFF TRANSPORTATION                                                               $77.72
+                                                                            ENTERPRISE TO RICHFIELD, SAINT GEORGE AND RETURN                                 $160.80
+                                                                            STAFF TRANSPORTATION                                                               $54.94
+                                                                            ENTERPRISE TO SAINT GEORGE AND RETURN                                              $56.28
+                                                                            STAFF PER DIEM                                                                     $10.76
+                                                                            STAFF TRANSPORTATION                                                               $56.95
+                                                                            ENTERPRISE TO SAINT GEORGE AND RETURN
+                                                                            STAFF TRANSPORTATION
+                                                                            ENTERPRISE TO HURRICANE AND RETURN
+                                                                            STAFF TRANSPORTATION
+                                                                            ENTERPRISE TO KANAB AND RETURN
+                                                                            STAFF TRANSPORTATION
+                                                                            ENTERPRISE TO SAINT GEORGE AND RETURN
+                                                                            STAFF TRANSPORTATION
+                                                                            ENTERPRISE TO CEDAR CITY AND RETURN
+                                                                            STAFF PER DIEM
+                                                                            STAFF TRANSPORTATION
+                                                                            ENTERPRISE TO SAINT GEORGE AND RETURN
+

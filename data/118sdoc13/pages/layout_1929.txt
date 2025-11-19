@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DMRP20240683                  CLAUDE CAMPBELL                                           STAFF TRANSPORTATION                                                            $67.00
+DMRP20240684      06/05/2024  CLAUDE CAMPBELL                   START       END         HARTFORD TO PAWCATUCK AND RETURN                                                $54.94
+DMRP20240685      06/06/2024  CLAUDE CAMPBELL                                           STAFF TRANSPORTATION                                                            $32.16
+DMRP20240686      06/05/2024  CLAUDE CAMPBELL                   05/23/2024  05/23/2024  HARTFORD TO GROTON AND RETURN                                                   $46.90
+DMRP20240687      06/05/2024  CLAUDE CAMPBELL                                           STAFF TRANSPORTATION                                                            $45.56
+DMRP20240688      06/05/2024  CLAUDE CAMPBELL                   05/24/2024  05/24/2024  HARTFORD TO WINSTED AND RETURN                                                  $64.32
+DMRP20240689      06/06/2024  CLAUDE CAMPBELL                                           STAFF TRANSPORTATION                                                            $45.56
+DMRP20240690      06/06/2024  CLAUDE CAMPBELL                   05/25/2024  05/25/2024  HARTFORD TO WEST HAVEN AND RETURN                                               $20.10
+DMRP20240691      06/06/2024  CLAUDE CAMPBELL                                           STAFF TRANSPORTATION                                                            $17.42
+DMRP20240692      06/06/2024  CLAUDE CAMPBELL                   05/10/2024  05/10/2024  HARTFORD TO NEW HAVEN AND RETURN                                                $45.56
+DMRP20240693      06/05/2024  CLAUDE CAMPBELL                                           STAFF TRANSPORTATION                                                            $17.42
+DMRP20240694      06/05/2024  CLAUDE CAMPBELL                   05/29/2024  05/29/2024  HARTFORD TO BRIDGEPORT AND RETURN                                               $32.16
+DMRP20240695      06/05/2024  CLAUDE CAMPBELL                                           STAFF TRANSPORTATION                                                            $45.56
+DMRP20240696      06/05/2024  CLAUDE CAMPBELL                   05/28/2024  05/28/2024  HARTFORD TO NORWICH AND RETURN                                                  $64.32
+DMRP20240697      06/05/2024  JESSICA C ELLEDGE                                         STAFF TRANSPORTATION                                                            $26.85
+DMRP20240698      06/06/2024  KYLEE ANNE DOSTIE                 05/21/2024  05/21/2024  HARTFORD TO ELLINGTON AND RETURN                                                $27.38
+                  06/07/2024                                                            STAFF TRANSPORTATION                                                            $80.40
+DMRP20240702                  ERIN E MCBRIDE                    05/20/2024  05/20/2024  HARTFORD TO MIDDLETOWN AND RETURN                                               $19.51
+                  06/06/2024                                                            STAFF TRANSPORTATION
+DMRP20240703                  ERIN E MCBRIDE                    05/18/2024  05/18/2024  HARTFORD TO NEW HAVEN AND RETURN                                                 $6.03
+                  06/06/2024                                                            STAFF TRANSPORTATION                                                            $25.59
+DMRP20240707                  ERIN E MCBRIDE                    05/16/2024  05/16/2024  HARTFORD TO MIDDLETOWN AND RETURN                                               $64.32
+DMRP20240708      06/06/2024  ERIN E MCBRIDE                                            STAFF TRANSPORTATION                                                            $41.54
+                  06/06/2024                                    05/15/2024  05/15/2024  HARTFORD TO WINSTED AND RETURN                                                  $15.78  B-1892
+DMRP20240709                  ERIN E MCBRIDE                                            STAFF TRANSPORTATION                                                            $64.32
+                  06/06/2024                                    05/09/2024  05/09/2024  HARTFORD TO NEW HAVEN AND RETURN                                                $25.85
+DMRP20240710                  ALLY R LIVINGSTON                                         STAFF TRANSPORTATION
+                  06/11/2024                                    05/04/2024  05/04/2024  HARTFORD TO BRIDGEPORT AND RETURN                                                $8.04
+                                                                                        STAFF TRANSPORTATION                                                            $75.30
+                                                                05/07/2024  05/07/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $646.37
+                                                                                        STAFF PER DIEM                                                                $200.81
+                                                                05/22/2024  05/22/2024  STAFF TRANSPORTATION
+                                                                                        HARTFORD TO MYSTIC AND RETURN
+                                                                05/30/2024  05/30/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                05/20/2024  05/20/2024  QUAKER HILL TO NEW LONDON AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                05/21/2024  05/21/2024  STAFF TRANSPORTATION
+                                                                                        QUAKER HILL TO NEW LONDON, MIDDLETOWN, NEW LONDON AND RETURN
+                                                                05/24/2024  05/24/2024  STAFF TRANSPORTATION
+                                                                05/23/2024  05/23/2024  QUAKER HILL TO CANTERBURY, WINDHAM AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                05/22/2024  05/22/2024  STAFF TRANSPORTATION
+                                                                                        QUAKER HILL TO NEW LONDON, MIDDLETOWN AND RETURN
+                                                                05/23/2024  06/02/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        QUAKER HILL TO NEW LONDON AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+

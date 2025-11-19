@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                  POSTED                                             DATES
+DSEM20240506                                                                      PHOENIX TO SCOTTSDALE, HOLBROOK, SCOTTSDALE AND RETURN                        $58.00
+                                                          START       END         STAFF INCIDENTALS                                                             $69.17
+DSEM20240507                                                                      STAFF PER DIEM                                                              $105.03
+DSEM20240508      05/13/2024  CHRISTOPHER A PHALEN        03/06/2024  03/09/2024  STAFF TRANSPORTATION                                                          $62.91
+DSEM20240509                                                                      WASHINGTON DC TO PHOENIX AND RETURN                                         $290.02
+DSEM20240510      05/10/2024  CITIBANK - TRAVEL CBA CARD  04/22/2024  04/23/2024  STAFF TRANSPORTATION                                                                  B-2332
+DSEM20240511      05/15/2024  CITIBANK - TRAVEL CBA CARD  04/20/2024  04/26/2024  RENTAL AUTO FOR L PRADO SCOTTSDALE TO HOLBROOK AND RETURN                   $820.20
+DSEM20240512                                                                      STAFF TRANSPORTATION                                                          $15.41
+DSEM20240513      05/22/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/26/2024  RENTAL AUTO FOR A WILLIAMS TUCSON TO YUMA, TUCSON, CASA                       $28.14
+DSEM20240514      05/07/2024  VICTORIA OKULA              05/01/2024  05/01/2024  GRANDE, GLENDALE, PHOENIX AND RETURN                                          $12.06
+DSEM20240515      05/07/2024  VICTORIA OKULA              04/30/2024  04/30/2024  SENATOR TRANSPORTATION                                                         $4.69
+                  05/22/2024  VICTORIA OKULA              05/02/2024  05/02/2024  AIRFARE FOR SEN SINEMA WASHINGTON DC TO PHOENIX AND RETURN                    $28.81
+DSEM20240516      05/22/2024  LAURA M GREENE              05/01/2024  05/01/2024  STAFF TRANSPORTATION
+                  05/22/2024  LAURA M GREENE              05/01/2024  05/01/2024  PHOENIX OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $309.12
+DSEM20240517      05/28/2024  LAURA M GREENE              04/15/2024  04/21/2024  STAFF TRANSPORTATION                                                     $2,517.25
+                                                                                  PHOENIX TO MESA AND RETURN
+DSEM20240518      05/23/2024  ASHIA S WILLIAMS            05/09/2024  05/10/2024  STAFF TRANSPORTATION                                                        $346.61
+DSEM20240520                                                                      PHOENIX OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $19.73
+DSEM20240521      05/23/2024  ASHIA S WILLIAMS            04/16/2024  04/19/2024  STAFF TRANSPORTATION
+DSEM20240522                                                                      PHOENIX OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $207.53
+DSEM20240523      05/22/2024  ASHIA S WILLIAMS            03/05/2024  03/05/2024  STAFF TRANSPORTATION                                                        $186.26
+DSEM20240524                                                                      PHOENIX OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DSEM20240525      05/22/2024  ASHIA S WILLIAMS            02/21/2024  02/21/2024  STAFF INCIDENTALS                                                             $59.19
+                                                                                  STAFF PER DIEM                                                              $632.29
+                  05/22/2024  ASHIA S WILLIAMS            04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                        $185.59
+                  05/22/2024  ASHIA S WILLIAMS            03/14/2024  03/14/2024  PHOENIX TO WASHINGTON DC AND RETURN
+                  05/22/2024  ASHIA S WILLIAMS            02/14/2024  02/14/2024  STAFF INCIDENTALS                                                             $35.69
+                  05/22/2024  ASHIA S WILLIAMS            02/12/2024  02/12/2024  STAFF PER DIEM                                                              $109.88
+                  05/22/2024  ASHIA S WILLIAMS            02/09/2024  02/09/2024  STAFF TRANSPORTATION
+                                                                                  TUCSON TO PHOENIX AND RETURN                                                  $32.59
+                                                                                  STAFF INCIDENTALS                                                           $118.59
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION                                                          $12.06
+                                                                                  TUCSON TO PHOENIX AND RETURN                                                   $1.34
+                                                                                  STAFF PER DIEM                                                                 $7.03
+                                                                                  STAFF TRANSPORTATION                                                           $6.70
+                                                                                  TUCSON TO SIERRA VISTA AND RETURN                                              $8.04
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TUCSON TO SIERRA VISTA AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TUCSON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TUCSON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TUCSON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TUCSON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TUCSON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

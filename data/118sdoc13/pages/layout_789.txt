@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                             DATES
+DCAN20240393                                                                      RICHLAND TO SPOKANE AND RETURN                                             $127.30
+DCAN20240394                                              START       END         STAFF TRANSPORTATION                                                         $80.40
+DCAN20240395                                                                      RICHLAND TO ELLENSBURG AND RETURN                                            $77.05
+DCAN20240396      05/03/2024  RICHARD G EVANS             02/08/2024  02/08/2024  STAFF TRANSPORTATION                                                         $45.69  B-771
+DCAN20240397      05/01/2024  RICHARD G EVANS             02/09/2024  02/09/2024  RICHLAND TO TOPPENISH AND RETURN
+DCAN20240398      05/01/2024  RICHARD G EVANS             02/12/2024  02/12/2024  STAFF TRANSPORTATION                                                       $107.87
+DCAN20240399      05/07/2024  RICHARD G EVANS             02/15/2024  02/15/2024  RICHLAND TO WALLA WALLA AND RETURN                                         $113.90
+DCAN20240400      05/03/2024  RICHARD G EVANS             02/20/2024  02/20/2024  STAFF TRANSPORTATION
+DCAN20240401      05/03/2024  RICHARD G EVANS             02/22/2024  02/22/2024  RICHLAND TO UMATILLA OR AND RETURN                                           $98.49
+DCAN20240405      05/01/2024  RICHARD G EVANS             02/26/2024  02/26/2024  STAFF TRANSPORTATION                                                       $184.25
+DCAN20240406      05/03/2024  RICHARD G EVANS             02/28/2024  02/28/2024  RICHLAND TO MOSES LAKE AND RETURN                                          $102.51
+                  05/03/2024  RICHARD G EVANS             03/04/2024  03/04/2024  STAFF TRANSPORTATION
+DCAN20240414      05/03/2024  CAMERON CALDWELL            04/01/2024  04/01/2024  RICHLAND TO MOSES LAKE AND RETURN                                            $24.38
+                  05/03/2024  CAMERON CALDWELL            04/08/2024  04/08/2024  STAFF TRANSPORTATION                                                         $24.14
+DCAN20240415                                                                      RICHLAND TO YAKIMA AND RETURN                                                $71.69
+DCAN20240423      05/13/2024  SOPHIA M SWAIN              04/25/2024  04/29/2024  STAFF TRANSPORTATION
+DCAN20240424                                                                      RICHLAND TO THE DALLES OR AND RETURN                                          $8.00
+DCAN20240425      05/08/2024  DAVID G SILVERMAN           04/05/2024  04/30/2024  STAFF TRANSPORTATION                                                       $242.15
+DCAN20240426      05/09/2024  FARAZ M ZARGHAMI            04/26/2024  04/26/2024  RICHLAND TO YAKIMA AND RETURN                                              $797.64
+DCAN20240428      05/09/2024  MICHAEL T SNODGRASS         04/26/2024  04/26/2024  STAFF TRANSPORTATION                                                       $174.20
+                  05/15/2024  MICHAEL T SNODGRASS         04/27/2024  04/27/2024  EVERETT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCAN20240437      05/14/2024  MICHAEL T SNODGRASS         04/24/2024  04/24/2024  STAFF PER DIEM                                                               $45.56
+DCAN20240438      05/28/2024  CALLEY N HAIR               05/02/2024  05/04/2024  STAFF TRANSPORTATION                                                         $89.78
+DCAN20240439                                                                      EVERETT TO ANACORTES AND RETURN                                            $109.88
+DCAN20240448      05/24/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/02/2024  STAFF INCIDENTALS                                                          $107.87
+                  05/23/2024  CITIBANK - TRAVEL CBA CARD  04/28/2024  04/28/2024  STAFF PER DIEM                                                               $41.76
+                  05/23/2024  CITIBANK - TRAVEL CBA CARD  04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                       $282.23
+                  06/07/2024  DAVID G SILVERMAN           05/01/2024  05/29/2024  WASHINGTON DC TO SEATTLE AND RETURN                                        $689.48
+                                                                                  STAFF TRANSPORTATION                                                       $336.10
+                                                                                  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $200.10
+                                                                                  STAFF TRANSPORTATION                                                       $103.10
+                                                                                  SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $162.14
+                                                                                  STAFF TRANSPORTATION
+                                                                                  OLYMPIA TO EDMONDS, KENT, SEATTLE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  OLYMPIA TO EDMONDS, BELLEVUE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TACOMA TO PORT TOWNSEND AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO SEATTLE AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN CANTWELL WASHINGTON DC TO SEATTLE
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN CANTWELL SEATTLE TO WASHINGTON DC
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN CANTWELL WASHINGTON DC TO SEATTLE
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

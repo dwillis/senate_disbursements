@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                        DATES
+DCAS20240728                                                                 PITTSBURGH TO CRANBERRY TWP, BUTLER, EAU CLAIRE AND RETURN                     $46.90
+DCAS20240732                                         START       END         STAFF TRANSPORTATION                                                           $80.40
+DCAS20240733                                                                 PITTSBURGH TO BUTLER AND RETURN                                                $47.43
+DCAS20240734      04/10/2024  BALL,JORDAN            04/01/2024  04/01/2024  STAFF TRANSPORTATION                                                           $25.72
+DCAS20240735      04/11/2024  ETHAN MARC SELETSKY    04/02/2024  04/02/2024  PHILADELPHIA TO CHESTER, OXFORD AND RETURN                                     $71.35
+                  04/11/2024  ETHAN MARC SELETSKY    03/27/2024  03/27/2024  STAFF TRANSPORTATION
+DCAS20240736      04/11/2024  ETHAN MARC SELETSKY    03/26/2024  03/26/2024  PHILADELPHIA TO DOYLESTOWN AND RETURN                                        $123.28
+DCAS20240739      04/11/2024  CAMERON G THOMPSON     03/06/2024  03/06/2024  STAFF TRANSPORTATION                                                         $158.12
+DCAS20240740                                                                 PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCAS20240742      04/16/2024  KYLE L HANNON          04/03/2024  04/03/2024  STAFF TRANSPORTATION                                                           $78.39  B-839
+DCAS20240749      04/17/2024  KYLE L HANNON          04/04/2024  04/04/2024  ADDITIONAL EXPENSE FOR TRIP WASHINGTON DC TO PITTSBURGH AND                  $163.48
+DCAS20240750      04/11/2024  ANDREA M GUSCOTT       04/04/2024  04/04/2024  RETURN
+DCAS20240755      06/05/2024  MAIREAD LYNN           03/27/2024  03/28/2024  STAFF TRANSPORTATION                                                           $45.82
+DCAS20240758      04/12/2024  ELIZABETH M COOPER     04/08/2024  04/08/2024  ERIE TO SHARON AND RETURN                                                      $70.00
+DCAS20240759      04/16/2024  ABBY R LAFORM          04/06/2024  04/07/2024  STAFF TRANSPORTATION                                                         $322.82
+DCAS20240760      04/23/2024  KRISTEN HOPE HARFIELD  03/25/2024  03/26/2024  ERIE TO SMETHPORT AND RETURN                                                   $49.58
+DCAS20240761      04/23/2024  KYLE L HANNON          04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                           $29.48
+DCAS20240762      04/23/2024  TRACE J LEDGARD        04/11/2024  04/11/2024  HARRISBURG TO SHIPPENSBURG TO LITITZ                                         $102.51
+DCAS20240763      04/25/2024  ELIZABETH M COOPER     04/10/2024  04/10/2024  STAFF TRANSPORTATION                                                         $111.22
+DCAS20240764      04/25/2024  AMY E COZZE            04/08/2024  04/08/2024  WASHINGTON DC TO PITTSBURGH AND RETURN                                       $254.60
+DCAS20240765      04/25/2024  MISHA SAMUEL LINNEHAN  04/08/2024  04/08/2024  STAFF TRANSPORTATION                                                           $57.62
+DCAS20240766      04/23/2024  AMY E COZZE            04/04/2024  04/04/2024  STATE COLLEGE TO LOCK HAVEN AND RETURN                                       $302.84
+DCAS20240771      04/25/2024  MISHA SAMUEL LINNEHAN  04/01/2024  04/01/2024  STAFF TRANSPORTATION                                                         $198.32
+DCAS20240772      04/25/2024  MISHA SAMUEL LINNEHAN  03/29/2024  03/29/2024  PHILADELPHIA TO HARRISBURG AND RETURN                                        $444.21
+DCAS20240773      04/29/2024  MISHA SAMUEL LINNEHAN  03/25/2024  03/26/2024  STAFF TRANSPORTATION                                                           $57.62
+                  04/23/2024  IAN F MADIGAN          04/12/2024  04/12/2024  HARRISBURG TO PITTSBURGH AND RETURN                                          $112.56
+                  04/26/2024  TRACE J LEDGARD        04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                         $131.32
+                  04/26/2024  CALLIE R ANDERSON      04/10/2024  04/10/2024  ERIE TO MEADVILLE AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             PITTSBURGH TO CRANBERRY TWP AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             STATE COLLEGE TO SAINT MARYS AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             ALLENTOWN TO SCRANTON AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             WASHINGTON DC TO WHITEHALL AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             ALLENTOWN TO READING AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             WASHINGTON DC TO NANTICOKE AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             WASHINGTON DC TO READING AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             WASHINGTON DC TO STATE COLLEGE, BRADFORD AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             SCRANTON TO STROUDSBURG AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             PITTSBURGH TO LORETTO AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             SCRANTON TO READING TO OLD FORGE
+

@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION              AMOUNT ($)
+              POSTED                                        DATES
+                                                                         WASHINGTON DC TO THE FOLLOWING AND RETURN: 5/6 ANNAPOLIS; 5/13                         $283.74
+                                                 START       END         BALTIMORE
+                                                                         STAFF TRANSPORTATION                                                                   $408.83
+DCAR20240129  06/06/2024  RODERICK C LEWIS       04/03/2024  05/25/2024  WALDORF TO THE FOLLOWING AND RETURN: 4/3,14 CALIFORNIA; 4/10                             $60.30
+                                                                         CLINTON; 4/23 LEXINGTON PARK; 5/21 LEXINGTON PARK, PRINCE                                $44.00
+DCAR20240131  06/06/2024  DESTINY NICOLE DAVIS   05/18/2024  05/28/2024  FREDERICK; 5/25 OWINGS MILLS; 4/22 WALDORF TO BLADENSBURG,
+                                                                         CHEVERLY TO BOWIE                                                                      $127.30
+DCAR20240135  06/11/2024  DAVID SEAN MCCLINTOCK  05/31/2024  05/31/2024  STAFF TRANSPORTATION                                                                   $619.90   B-810
+DCAR20240136  06/12/2024  MARLON MEDRANO         05/17/2024  05/30/2024  WASHINGTON DC TO THE FOLLOWING AND RETURN: 5/18 BALTIMORE,                             $166.76
+DCAR20240140  06/14/2024  BENJAMIN L CARDIN      05/26/2024  06/02/2024  FREDERICK; 5/20, 21, 22 BALTIMORE; 5/23 BALTIMORE, GREENBELT; 5/25                     $369.84
+DCAR20240144  06/15/2024  AMY W DAIGER           04/24/2024  06/06/2024  BALTIMORE, UPPER MARLBORO; 5/28 BALTIMORE, POTOMAC, POOLESVILLE                        $450.57
+DCAR20240145  06/13/2024  SARITA WILLIAMS        05/06/2024  05/28/2024  STAFF TRANSPORTATION                                                                   $146.72
+DCAR20240147  06/25/2024  SUMMERFIELD,ROBIN L    05/01/2024  05/16/2024  ANNANDALE VA TO ANNAPOLIS TO WASHINGTON DC
+DCAR20240149  06/25/2024  DESTINY NICOLE DAVIS   06/04/2024  06/13/2024  STAFF TRANSPORTATION                                                                     $29.48
+DCAR20240154  07/01/2024  SARITA WILLIAMS        06/10/2024  06/17/2024  5/17, 30 IN AND AROUND BALTIMORE                                                       $585.64
+DCAR20240156  07/09/2024  DAVID SEAN MCCLINTOCK  06/27/2024  06/27/2024  SENATOR TRANSPORTATION
+DCAR20240157  07/11/2024  DESTINY NICOLE DAVIS   06/17/2024  06/30/2024  BALTIMORE TO THE FOLLOWING AND RETURN: 5/26 COLUMBIA; 6/2 EASTON                       $276.00
+                                                                         STAFF TRANSPORTATION                                                                   $182.77
+DCAR20240158  07/10/2024  BEATRICE F AMOATENG    06/21/2024  06/21/2024  FREDERICK TO THE FOLLOWING AND RETURN: 4/24, 25, 30, 5/9, 23, 30, 6/6
+DCAR20240159  07/17/2024  RODERICK C LEWIS       06/05/2024  06/29/2024  BALTIMORE; 5/28 BOWIE                                                                  $639.18
+                                                                         STAFF TRANSPORTATION                                                                   $463.82
+DCAR20240160  07/17/2024  SUMMERFIELD,ROBIN L    06/08/2024  06/22/2024  WASHINGTON DC TO THE FOLLOWING AND RETURN: 5/6 BOWIE; 5/18
+DCAR20240164  07/29/2024  JESSICA COOK           04/05/2024  05/21/2024  FREDERICK; 5/28 POTOMAC, POOLESVILLE
+                                                                         STAFF TRANSPORTATION
+                                                                         CUMBERLAND TO THE FOLLOWING AND RETURN: 5/1 OAKLAND; 5/7, 10
+                                                                         HAGERSTOWN; 5/16 FREDERICK
+                                                                         STAFF TRANSPORTATION
+                                                                         WASHINGTON DC TO THE FOLLOWING AND RETURN: 6/4, 5, 11, 12, 13
+                                                                         BALTIMORE; 6/10 BALTIMORE, BURKITTSVILLE, FREDERICK, COLUMBIA
+                                                                         STAFF TRANSPORTATION
+                                                                         6/10 WASHINGTON DC TO BURKITTSVILLE, FREDERICK, COLUMBIA AND
+                                                                         RETURN; 6/17 BALTIMORE TO BOWIE AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         ANNANDALE VA TO HERNDON VA AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         WASHINGTON DC TO THE FOLLOWING AND RETURN: 6/17, 18 BALTIMORE; 6
+                                                                         /20 BALTIMORE, GREENBELT; 6/24 BALTIMORE, OCEAN CITY; 6/27
+                                                                         BALTIMORE, ROCKVILLE; 6/28 BALTIMORE, MITCHELLVILLE; 6/30
+                                                                         BALTIMORE, ARLINGTON VA, DULLES VA
+                                                                         STAFF TRANSPORTATION
+                                                                         WASHINGTON DC TO NEW YORK NY AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         WALDORF TO THE FOLLOWING AND RETURN: 6/5 LEXINGTON PARK; 6/7
+                                                                         INDIAN HEAD, HYATTSVILLE; 6/15 LEXINGTON PARK, WHITE PLAINS; 6/18
+                                                                         HUNTINGTOWN, PRINCE FREDERICK; 6/20 INDIAN HEAD; 6/29
+                                                                         HUNTINGTOWN; 6/19 WALDORF TO DISTRICT HEIGHTS TO BOWIE
+                                                                         STAFF TRANSPORTATION
+                                                                         CUMBERLAND TO THE FOLLOWING AND RETURN: 6/8, 15, 22 FREDERICK; 6
+                                                                         /13, 14, 21 HAGERSTOWN
+                                                                         STAFF TRANSPORTATION
+

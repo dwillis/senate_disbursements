@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                          DATES
+DBLA20241705                                                                   FRANKLIN TO BRENTWOOD, SPRINGFIELD, BRENTWOOD AND RETURN                          $44.89
+DBLA20241706                                           START       END         STAFF TRANSPORTATION                                                              $34.17
+DBLA20241707                                                                   FRANKLIN TO BRENTWOOD, NOLENSVILLE, NASHVILLE AND RETURN                          $56.28
+                  07/03/2024  PABLO A MARTINEZ         06/22/2024  06/22/2024  STAFF TRANSPORTATION
+DBLA20241718      07/03/2024  PABLO A MARTINEZ         06/20/2024  06/20/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $22.78
+DBLA20241719      07/05/2024  PABLO A MARTINEZ         06/25/2024  06/25/2024  STAFF TRANSPORTATION                                                              $15.41
+DBLA20241724                                                                   FRANKLIN TO BRENTWOOD, NASHVILLE, BRENTWOOD, FRANKLIN,                          $283.20
+DBLA20241725      07/05/2024  NICHOLAS A KISTENMACHER  06/26/2024  06/26/2024  BRENTWOOD AND RETURN                                                            $257.61
+                  07/05/2024  NICHOLAS A KISTENMACHER  06/25/2024  06/25/2024  STAFF TRANSPORTATION
+DBLA20241726      07/08/2024  TYLER B PRIVETTE         06/13/2024  06/14/2024  MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $221.56
+DBLA20241727      07/08/2024  TYLER B PRIVETTE         06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                            $197.51
+DBLA20241728                                                                   MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $160.93
+                  07/08/2024  TYLER B PRIVETTE         06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                                      B-556
+DBLA20241729      07/08/2024  TYLER B PRIVETTE         06/25/2024  06/25/2024  CHATTANOOGA TO KINGSPORT, MORRISTOWN AND RETURN                                 $153.69
+DBLA20241730      07/05/2024  JAY C STROBINO           06/26/2024  06/26/2024  STAFF TRANSPORTATION                                                            $135.07
+DBLA20241731                                                                   CHATTANOOGA TO HARTSVILLE, LAFAYETTE, CELINA, GAINESBORO,                       $133.26
+                  07/05/2024  JAY C STROBINO           06/12/2024  06/12/2024  CARTHAGE AND RETURN
+DBLA20241732      07/05/2024  JAY C STROBINO           06/13/2024  06/13/2024  STAFF TRANSPORTATION                                                            $128.64
+DBLA20241733      07/08/2024  JAY C STROBINO           06/18/2024  06/18/2024  CHATTANOOGA TO SPRINGFIELD AND RETURN                                             $99.42
+DBLA20241734                                                                   STAFF TRANSPORTATION                                                              $82.07
+DBLA20241735      07/08/2024  WILLIAM A GUFFEE         06/25/2024  06/25/2024  CHATTANOOGA TO FRANKLIN AND RETURN                                                $73.90
+DBLA20241736      07/05/2024  TYLER B PRIVETTE         06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                              $69.74
+DBLA20241737      07/05/2024  JAY C STROBINO           06/20/2024  06/20/2024  NASHVILLE TO BRENTWOOD, HARTSVILLE, LAFAYETTE, CELINA,                            $69.68
+DBLA20241738      07/05/2024  JAY C STROBINO           06/24/2024  06/24/2024  GAINESBORO, CARTHAGE, BRENTWOOD AND RETURN                                        $58.35
+DBLA20241739      07/05/2024  JAY C STROBINO           06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                              $57.28
+DBLA20241740      07/05/2024  WILLIAM A GUFFEE         06/26/2024  06/26/2024  NASHVILLE TO COLUMBIA, FRANKLIN, TULLAHOMA AND RETURN                             $50.25
+DBLA20241741      07/05/2024  JAY C STROBINO           06/07/2024  06/07/2024  STAFF TRANSPORTATION                                                              $47.43
+                  07/05/2024  JAY C STROBINO           06/25/2024  06/25/2024  NASHVILLE TO TULLAHOMA, FRANKLIN, THOMPSONS STATION AND RETURN
+                  07/05/2024  NEELY, BLAKEMON L        06/26/2024  06/26/2024  STAFF TRANSPORTATION
+                  07/05/2024  JAY C STROBINO           06/14/2024  06/14/2024  NASHVILLE TO FORT CAMPBELL KY, DICKSON, COLUMBIA, FRANKLIN AND
+                                                                               RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               CHATTANOOGA TO ATHENS, CROSSVILLE AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               CHATTANOOGA TO WINCHESTER AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               NASHVILLE TO FRANKLIN, MOUNT PLEASANT, FRANKLIN AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               NASHVILLE TO LEWISBURG AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               NASHVILLE TO MOUNT JULIET, FRANKLIN, SPRING HILL AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               CHATTANOOGA TO BENTON AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               NASHVILLE TO SPRING HILL, COLUMBIA AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               NASHVILLE TO SPRING HILL, COLUMBIA, FRANKLIN AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               IUKA MS TO SAVANNAH AND RETURN
+                                                                               STAFF TRANSPORTATION
+

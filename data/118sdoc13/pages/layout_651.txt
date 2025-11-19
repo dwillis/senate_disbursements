@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                             DATES
+DBOO20240523                                                                      AIRFARE FOR A KELLEY WASHINGTON DC TO BENTONVILLE AND RETURN                   $264.10
+DBOO20240524                                              START       END         STAFF TRANSPORTATION                                                           $503.69
+DBOO20240525                                                                      AIRFARE FOR G GIES BENTONVILLE TO WASHINGTON DC                                $134.60
+DBOO20240526      08/05/2024  CITIBANK - TRAVEL CBA CARD  07/08/2024  07/08/2024  STAFF TRANSPORTATION                                                           $207.10
+DBOO20240527      08/05/2024  CITIBANK - TRAVEL CBA CARD  07/09/2024  07/11/2024  AIRFARE FOR J SOLLEY FORT SMITH TO EGLIN AFB FL AND RETURN                     $256.10
+DBOO20240528      08/05/2024  CITIBANK - TRAVEL CBA CARD  07/12/2024  07/12/2024  SENATOR TRANSPORTATION                                                         $262.10
+DBOO20240532      08/05/2024  CITIBANK - TRAVEL CBA CARD  07/11/2024  07/11/2024  AIRFARE FOR SEN BOOZMAN KENNER LA TO BENTONVILLE
+DBOO20240534      08/05/2024  CITIBANK - TRAVEL CBA CARD  07/14/2024  07/14/2024  SENATOR TRANSPORTATION                                                           $15.21
+DBOO20240537      08/05/2024  CITIBANK - TRAVEL CBA CARD  07/17/2024  07/17/2024  AIRFARE FOR SEN BOOZMAN WASHINGTON DC TO KENNER LA                             $248.04
+DBOO20240539      07/30/2024  HANNAH MARIE HENDERSON      07/18/2024  07/18/2024  STAFF TRANSPORTATION
+DBOO20240541      08/02/2024  CHASE A EMERSON             07/25/2024  07/26/2024  AIRFARE FOR D BURGESS WASHINGTON DC TO MEMPHIS TN                              $539.21
+DBOO20240542                                                                      SENATOR TRANSPORTATION                                                         $127.53
+DBOO20240544      09/13/2024  CITIBANK - TRAVEL CBA CARD  07/26/2024  08/02/2024  AIRFARE FOR SEN BOOZMAN LOUISVILLE KY TO WASHINGTON DC                         $280.80   B-633
+DBOO20240545      08/06/2024  CHASE A EMERSON             07/30/2024  07/30/2024  STAFF TRANSPORTATION
+                  08/09/2024  JOSHUA WILLIAM MULLINAX     07/22/2024  07/26/2024  LOWELL TO FAYETTEVILLE TO ROGERS                                               $212.35
+DBOO20240546                                                                      STAFF TRANSPORTATION                                                             $73.12
+DBOO20240547      08/08/2024  CHASE A EMERSON             07/31/2024  07/31/2024  EL DORADO TO THE FOLLOWING AND RETURN: 7/25 ARKADELPHIA; 7/26
+DBOO20240550      08/14/2024  MATTHEW T MYERS             07/30/2024  07/30/2024  LITTLE ROCK                                                                      $19.44
+                                                                                  STAFF TRANSPORTATION                                                           $169.65
+DBOO20240551      08/15/2024  MATTHEW T MYERS             08/01/2024  08/01/2024  AIRFARE FOR K WATSON FORT SMITH TO WASHINGTON DC AND RETURN
+DBOO20240552                                                                      STAFF TRANSPORTATION                                                             $71.37
+                  08/13/2024  JESSICA LAUREN SOLLEY       07/31/2024  07/31/2024  EL DORADO TO LAKE VILLAGE, EUDORA AND RETURN                                   $190.71
+DBOO20240553      08/09/2024  JESSICA LAUREN SOLLEY       08/02/2024  08/02/2024  STAFF TRANSPORTATION
+DBOO20240554      08/27/2024  JOSHUA B LEACH              08/05/2024  08/07/2024  JONESBORO TO THE FOLLOWING AND RETURN: 7/22 EARLE; 7/25                          $54.77
+                                                                                  MCCRORY; 7/26 WEINER, HELENA                                                   $406.82
+                  08/19/2024  CHASE A EMERSON             08/06/2024  08/06/2024  STAFF TRANSPORTATION                                                           $383.00
+                  08/16/2024  CHASE A EMERSON             08/07/2024  08/07/2024  EL DORADO TO LITTLE ROCK, TEXARKANA AND RETURN
+                                                                                  STAFF TRANSPORTATION                                                             $48.55
+                  08/20/2024  HANNAH MARIE HENDERSON      07/31/2024  07/31/2024  MOUNTAIN HOME TO VIOLA, SALEM, MAMMOTH SPRING, HARDY,                            $12.37
+                  08/20/2024  HANNAH MARIE HENDERSON      08/05/2024  08/05/2024  CHEROKEE VILLAGE AND RETURN                                                    $149.76
+                                                                                  STAFF PER DIEM                                                                   $12.87
+                                                                                  STAFF TRANSPORTATION                                                             $76.51
+                                                                                  MOUNTAIN HOME TO NORFORK, CALICO ROCK, MOUNTAIN VIEW, DESHA,
+                                                                                  BRYANT, BATESVILLE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  FORT SMITH TO SPRINGDALE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  FORT SMITH TO ASHDOWN, DE QUEEN AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO LITTLE ROCK, WASHINGTON DC TO ARLINGTON VA
+                                                                                  STAFF TRANSPORTATION
+                                                                                  EL DORADO TO EAST CAMDEN AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  EL DORADO TO LITTLE ROCK AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LOWELL TO FAYETTEVILLE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+

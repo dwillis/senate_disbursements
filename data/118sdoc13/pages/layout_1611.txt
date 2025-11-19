@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME          OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+              POSTED                                     DATES
+                                                                      STAFF TRANSPORTATION                                                       $152.76
+                                              START       END         MOORHEAD TO OKLEE AND RETURN                                                 $62.98
+                                                                      STAFF TRANSPORTATION                                                         $30.95
+DKLO20240652  09/09/2024  CHARLES R ACKMAN    08/22/2024  08/22/2024  ROCHESTER TO AUSTIN TO FARIBAULT                                              $5.09  B-1574
+DKLO20240653  09/16/2024  ALLISON K GLASS     08/08/2024  08/08/2024  STAFF TRANSPORTATION                                                         $21.57
+DKLO20240654  09/16/2024  ALLISON K GLASS     08/09/2024  08/09/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $3.48
+DKLO20240655  09/16/2024  ALLISON K GLASS     08/10/2024  08/10/2024  STAFF TRANSPORTATION                                                         $21.44
+DKLO20240656  09/16/2024  ALLISON K GLASS     08/12/2024  08/12/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $7.77
+DKLO20240657  09/16/2024  ALLISON K GLASS     08/14/2024  08/14/2024  STAFF TRANSPORTATION                                                         $43.14
+DKLO20240658  09/16/2024  ALLISON K GLASS     08/15/2024  08/15/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $9.51
+DKLO20240659  09/16/2024  ALLISON K GLASS     08/16/2024  08/16/2024  STAFF TRANSPORTATION                                                         $14.33
+DKLO20240660  09/16/2024  ALLISON K GLASS     08/20/2024  08/20/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $15.81
+DKLO20240661  09/16/2024  ALLISON K GLASS     08/22/2024  08/22/2024  STAFF TRANSPORTATION                                                          $1.74
+DKLO20240662  09/16/2024  ALLISON K GLASS     08/23/2024  08/23/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DKLO20240663  09/16/2024  ALLISON K GLASS     08/26/2024  08/26/2024  STAFF TRANSPORTATION                                                       $115.77
+DKLO20240664  09/23/2024  ALLISON K GLASS     08/27/2024  08/27/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $11.25
+DKLO20240665  09/16/2024  ALLISON K GLASS     09/27/2024  09/27/2024  STAFF TRANSPORTATION                                                         $30.00
+DKLO20240666  09/23/2024  CHARLES R ACKMAN    08/29/2024  08/29/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $85.09
+                                                                      STAFF TRANSPORTATION                                                         $44.22
+DKLO20240667  09/16/2024  CHARLES R ACKMAN    09/04/2024  09/04/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $24.77
+DKLO20240668  09/16/2024  CHARLES R ACKMAN    08/30/2024  08/30/2024  STAFF TRANSPORTATION                                                         $71.02
+                                                                      MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $52.26
+DKLO20240669  09/16/2024  PATRICK D KELLIHER  07/10/2024  07/10/2024  STAFF TRANSPORTATION                                                         $66.06
+DKLO20240670  09/16/2024  PATRICK D KELLIHER  08/27/2024  08/27/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $63.65
+DKLO20240671  09/16/2024  PATRICK D KELLIHER  08/29/2024  08/29/2024  STAFF TRANSPORTATION                                                         $84.82
+DKLO20240672  09/16/2024  PATRICK D KELLIHER  07/01/2024  08/28/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $58.96
+DKLO20240673  09/16/2024  CHARLES R ACKMAN    08/26/2024  08/26/2024  STAFF TRANSPORTATION                                                         $50.92
+DKLO20240674  09/16/2024  CHARLES R ACKMAN    08/27/2024  08/27/2024  MINNEAPOLIS TO ROCHESTER AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                      STAFF PER DIEM
+                                                                      STAFF TRANSPORTATION
+                                                                      ROCHESTER TO WABASHA, NORTHFIELD TO FARIBAULT
+                                                                      STAFF TRANSPORTATION
+                                                                      ROCHESTER TO MANTORVILLE, OWATONNA TO FARIBAULT
+                                                                      STAFF PER DIEM
+                                                                      STAFF TRANSPORTATION
+                                                                      FARIBAULT TO MINNEAPOLIS AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      MINNEAPOLIS TO ELK RIVER AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      MINNEAPOLIS TO WELCH AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      MINNEAPOLIS TO MONTICELLO AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                      STAFF TRANSPORTATION
+                                                                      FARIBAULT TO ALBERT LEA AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      ROCHESTER TO PRESTON AND RETURN
+

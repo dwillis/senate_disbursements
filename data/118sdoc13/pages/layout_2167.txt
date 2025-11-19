@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+              POSTED                                             DATES
+                                                                              STAFF TRANSPORTATION                                                                 $92.16
+                                                      START       END         SPARKS TO RENO, LAS VEGAS, RENO AND RETURN                                         $242.80
+                                                                              STAFF TRANSPORTATION                                                               $124.81
+DROS20240463  08/23/2024  CITIBANK - TRAVEL CBA CARD  08/08/2024  08/10/2024  RENTAL AUTO FOR N ECHETO IN AND AROUND LAS VEGAS
+DROS20240466  09/11/2024  LOUIS S CARRILLO            08/05/2024  08/14/2024  STAFF TRANSPORTATION                                                                 $15.23
+DROS20240467  09/12/2024  ROBERT T WAISANEN           08/04/2024  08/08/2024  WASHINGTON DC TO LAS VEGAS AND RETURN                                              $262.76
+                                                                              STAFF INCIDENTALS                                                                  $148.64
+DROS20240468  09/12/2024  RENZO N OLIVARI             08/05/2024  08/08/2024  STAFF PER DIEM                                                                               B-2130
+DROS20240469                                                                  STAFF TRANSPORTATION                                                                 $18.62
+DROS20240470  09/03/2024  EMILY E.W. LANDE-ROSE       07/18/2024  07/18/2024  WASHINGTON DC TO LAS VEGAS, TONOPAH, LAS VEGAS AND RETURN                            $69.35
+DROS20240471  09/11/2024  EMILY E.W. LANDE-ROSE       08/05/2024  08/07/2024  STAFF PER DIEM                                                                       $85.09
+DROS20240472  09/09/2024  EMILY E.W. LANDE-ROSE       08/13/2024  08/14/2024  STAFF TRANSPORTATION                                                                 $90.89
+                                                                              WASHINGTON DC TO LAS VEGAS AND RETURN                                                $36.27
+DROS20240473  09/12/2024  DARA RACHEL COHEN           08/05/2024  08/09/2024  STAFF TRANSPORTATION                                                               $283.33
+DROS20240474                                                                  RENO TO SOUTH LAKE TAHOE CA AND RETURN                                               $10.00
+              09/05/2024  JENNIFER M LOPEZ            08/05/2024  08/07/2024  STAFF TRANSPORTATION                                                                 $25.57
+              09/12/2024  ALEJANDRO RENTERIA          08/05/2024  08/16/2024  RENO TO LAS VEGAS AND RETURN                                                       $115.84
+                                                                              STAFF INCIDENTALS                                                                    $62.89
+DROS20240476  08/30/2024  CITIBANK - TRAVEL CBA CARD  08/15/2024  08/15/2024  STAFF PER DIEM                                                                     $240.36
+DROS20240477  08/30/2024  CITIBANK - TRAVEL CBA CARD  08/09/2024  08/09/2024  RENO TO INCLINE VILLAGE AND RETURN                                                 $715.51
+DROS20240478  08/30/2024  CITIBANK - TRAVEL CBA CARD  08/08/2024  08/10/2024  STAFF INCIDENTALS                                                                  $218.30
+DROS20240479  09/03/2024  CITIBANK - TRAVEL CBA CARD  08/05/2024  08/08/2024  STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION                                                               $491.96
+DROS20240480  09/06/2024  CITIBANK - TRAVEL CBA CARD  08/05/2024  08/11/2024  WASHINGTON DC TO LAS VEGAS AND RETURN                                              $684.20
+DROS20240481  09/06/2024  CITIBANK - TRAVEL CBA CARD  08/20/2024  08/24/2024  STAFF TRANSPORTATION                                                               $503.96
+DROS20240482  08/30/2024  CITIBANK - TRAVEL CBA CARD  08/05/2024  08/08/2024  LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $1,807.68
+DROS20240483  08/30/2024  CITIBANK - TRAVEL CBA CARD  08/04/2024  08/08/2024  STAFF INCIDENTALS
+DROS20240484  09/11/2024  MIKAELLA Y ALVAREZ          08/05/2024  08/17/2024  STAFF PER DIEM                                                                     $451.92
+                                                                              STAFF TRANSPORTATION                                                               $684.21
+                                                                              WASHINGTON DC TO LAS VEGAS, RENO, INCLINE VILLAGE, RENO AND                        $490.20
+                                                                              RETURN                                                                             $630.20
+                                                                              STAFF TRANSPORTATION                                                               $218.98
+                                                                              AIRFARE FOR J BUSH LAS VEGAS TO RENO AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR J FOSSUM, D COHEN LAS VEGAS TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR A PIKE RENO TO LAS VEGAS AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR C ARCARIS-WEISS, D BOIRE, A GOFF, M LEWIS RENO TO LAS
+                                                                              VEGAS AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR A MARTINEZ RENO TO LAS VEGAS AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR E GOLDMAN WASHINGTON DC TO LAS VEGAS AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR G DUBLER WASHINGTON DC TO LAS VEGAS AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR R WAISANEN WASHINGTON DC TO LAS VEGAS AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO LAS VEGAS, RENO AND RETURN
+

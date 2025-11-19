@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                 OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                            DATES
+DMCN20241176                                                                     BOWLING GREEN TO OWENSBORO AND RETURN                                           $114.62
+DMCN20241177                                             START       END         STAFF TRANSPORTATION                                                              $87.11
+DMCN20241178                                                                     BOWLING GREEN TO OWENSBORO AND RETURN
+DMCN20241179      09/23/2024  ELIZABETH HUNTER WHITAKER  08/29/2024  08/29/2024  STAFF TRANSPORTATION                                                            $116.59
+DMCN20241180      09/16/2024  ELIZABETH HUNTER WHITAKER  08/30/2024  08/30/2024  BOWLING GREEN TO MUNFORDVILLE AND RETURN                                          $11.79
+DMCN20241182      09/23/2024  ELIZABETH HUNTER WHITAKER  09/04/2024  09/04/2024  STAFF TRANSPORTATION                                                              $57.64
+DMCN20241183      09/16/2024  ELIZABETH HUNTER WHITAKER  09/06/2024  09/06/2024  BOWLING GREEN TO BURKESVILLE AND RETURN                                           $61.57
+DMCN20241185      09/16/2024  ELIZABETH HUNTER WHITAKER  09/09/2024  09/09/2024  STAFF TRANSPORTATION                                                              $14.41
+DMCN20241197      09/18/2024  STEPHANIE H NELSON         09/10/2024  09/10/2024  BOWLING GREEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $57.64
+                  09/18/2024  STEPHANIE H NELSON         09/11/2024  09/11/2024  STAFF TRANSPORTATION                                                              $10.00
+                  09/19/2024  STEPHANIE H NELSON         09/12/2024  09/12/2024  BOWLING GREEN TO GLASGOW AND RETURN
+                  09/27/2024  CHONGYANG GE               08/20/2024  09/01/2024  STAFF TRANSPORTATION                                                            $296.97
+                                                                                 LEXINGTON TO WINCHESTER, CYNTHIANA AND RETURN                                $1,234.38
+DMCN20241202      09/27/2024  ROBBIN MORRISON TAYLOR     06/17/2024  06/17/2024  STAFF TRANSPORTATION                                                                      B-1774
+DMCN20241203      09/21/2024  ROBBIN MORRISON TAYLOR     06/18/2024  06/26/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $110.04
+DMCN20241204      09/21/2024  ROBBIN MORRISON TAYLOR     06/28/2024  07/05/2024  STAFF TRANSPORTATION                                                              $57.78
+DMCN20241205      09/27/2024  ROBBIN MORRISON TAYLOR     07/25/2024  07/28/2024  LEXINGTON TO CARLISLE AND RETURN                                                  $85.80
+DMCN20241206      09/27/2024  ROBBIN MORRISON TAYLOR     07/30/2024  08/01/2024  STAFF INCIDENTALS
+                                                                                 STAFF PER DIEM                                                                  $171.61
+DMCN20241207      09/21/2024  ROBBIN MORRISON TAYLOR     09/03/2024  09/09/2024  STAFF TRANSPORTATION                                                            $309.81
+DMCN20241208      09/27/2024  ROBBIN MORRISON TAYLOR     09/10/2024  09/11/2024  WASHINGTON DC TO LOUISVILLE, LEXINGTON, LOUISVILLE, FRANKFORT,
+                                                                                 ASHLAND, LEXINGTON, BOWLING GREEN, LOUISVILLE AND RETURN                          $59.60
+DMCN20241209      09/27/2024  ROBBIN MORRISON TAYLOR     08/03/2024  08/31/2024  STAFF TRANSPORTATION                                                              $27.63
+DMCN20241210      09/23/2024  HALEY E TIPTON             09/18/2024  09/18/2024  LOUISVILLE TO LEXINGTON AND RETURN                                              $205.86
+DMCN20241211      09/22/2024  STEPHANIE H NELSON         09/18/2024  09/18/2024  STAFF TRANSPORTATION                                                            $229.90
+DMCN20241212      09/22/2024  STEPHANIE H NELSON         09/17/2024  09/17/2024  LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DMCN20241213      09/22/2024  STEPHANIE H NELSON         09/16/2024  09/16/2024  STAFF TRANSPORTATION                                                            $205.84
+                                                                                 LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $21.94
+                                                                                 STAFF TRANSPORTATION                                                              $85.80
+                                                                                 LOUISVILLE TO FORT KNOX, BOWLING GREEN AND RETURN                                 $51.74
+                                                                                 STAFF TRANSPORTATION                                                              $37.99
+                                                                                 LOUISVILLE TO THE FOLLOWING AND RETURN: 7/30 MORGANTOWN; 8/1
+                                                                                 OWENSBORO
+                                                                                 STAFF TRANSPORTATION
+                                                                                 LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                 STAFF INCIDENTALS
+                                                                                 STAFF PER DIEM
+                                                                                 STAFF TRANSPORTATION
+                                                                                 LOUISVILLE TO MORGANTOWN, BOWLING GREEN, OWENSBORO AND
+                                                                                 RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                 STAFF TRANSPORTATION
+                                                                                 LEXINGTON TO RICHMOND TO BEATTYVILLE
+                                                                                 STAFF TRANSPORTATION
+                                                                                 LEXINGTON TO RICHMOND, FRANKFORT TO RICHMOND
+                                                                                 STAFF TRANSPORTATION
+                                                                                 LEXINGTON TO RAVENNA TO RICHMOND
+                                                                                 STAFF TRANSPORTATION
+                                                                                 LEXINGTON TO MIDWAY, FRANKFORT AND RETURN
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DKLO20240306                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                          $517.10
+DKLO20240307      05/03/2024  GREGORY W SWANHOLM                START       END         AIRFARE FOR R BURGER WASHINGTON DC TO MINNEAPOLIS                             $246.19
+DKLO20240308      04/16/2024  GREGORY W SWANHOLM                                        STAFF PER DIEM                                                                $171.52
+DKLO20240310      04/10/2024  GREGORY W SWANHOLM                03/08/2024  03/08/2024  MINNEAPOLIS TO BEMIDJI, THIEF RIVER FALLS AND RETURN                          $132.74
+DKLO20240311      04/12/2024  BENJAMIN J LIEN                                           STAFF TRANSPORTATION                                                          $101.17
+DKLO20240312      04/10/2024  ROMMEL WONG LEE                   01/25/2024  01/27/2024  MINNEAPOLIS TO CROSBY AND RETURN                                              $109.07
+DKLO20240313      04/10/2024  JODI A NIEHOFF                                            STAFF PER DIEM
+                  04/12/2024                                    02/09/2024  02/09/2024  MINNEAPOLIS TO MOORHEAD AND RETURN                                              $26.47
+DKLO20240314                  CHARLES R ACKMAN                                          STAFF TRANSPORTATION                                                          $136.01
+                  04/09/2024                                    03/22/2024  03/23/2024  MOORHEAD TO MAHNOMEN, HALSTAD AND RETURN
+DKLO20240315                  BENJAMIN J LIEN                                           STAFF TRANSPORTATION                                                             $4.31
+                  04/10/2024                                    03/23/2024  03/23/2024  MINNEAPOLIS TO MANKATO AND RETURN                                             $141.37
+DKLO20240318                  CHARLES R ACKMAN                                          STAFF PER DIEM
+                  04/12/2024                                    03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                            $28.61
+DKLO20240319                  CHARLES R ACKMAN                                          MINNEAPOLIS TO NEW ULM, LE CENTER AND RETURN                                  $114.57
+DKLO20240320      04/12/2024  ROMMEL WONG LEE                   03/27/2024  03/27/2024  STAFF PER DIEM
+DKLO20240321      04/12/2024  BENJAMIN J LIEN                                           STAFF TRANSPORTATION                                                            $28.51
+                  04/15/2024                                    03/27/2024  03/27/2024  FARIBAULT TO WINTHROP, NEW ULM, WASECA, LE CENTER AND RETURN                    $61.64
+DKLO20240323                  ROMMEL WONG LEE                                           STAFF PER DIEM                                                                  $34.84
+DKLO20240324      04/18/2024  HANNA B RISSMAN                   03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                            $29.07
+                  04/22/2024                                                            MOORHEAD TO EAST GRAND FORKS AND RETURN                                         $20.00
+DKLO20240325                                                    04/03/2024  04/03/2024  STAFF PER DIEM                                                                  $69.68  B-1563
+DKLO20240326                                                                            STAFF TRANSPORTATION
+DKLO20240327                                                    04/05/2024  04/05/2024  FARIBAULT TO MANKATO AND RETURN                                                  $4.55
+DKLO20240328                                                    04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                            $82.30
+DKLO20240329                                                    04/06/2024  04/06/2024  FARIBAULT TO WASECA AND RETURN                                                $552.92
+DKLO20240330                                                                            STAFF TRANSPORTATION                                                            $59.09
+                                                                04/09/2024  04/09/2024  MINNEAPOLIS TO SAINT PAUL AND RETURN                                            $16.48
+                                                                03/11/2024  03/13/2024  STAFF PER DIEM                                                                $110.31
+                                                                                        STAFF TRANSPORTATION                                                            $17.95
+                  04/19/2024  ROMMEL WONG LEE                   04/10/2024  04/10/2024  MOORHEAD TO DETROIT LAKES AND RETURN                                          $133.65
+                  04/24/2024  FREDERICK NOCH                    03/01/2024  03/31/2024  STAFF TRANSPORTATION                                                          $150.75
+                  04/24/2024  ROMMEL WONG LEE                   04/14/2024  04/14/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $14.32
+                  04/30/2024  CHARLES R ACKMAN                  04/09/2024  04/09/2024  STAFF INCIDENTALS                                                             $147.15
+                  04/30/2024  CHARLES R ACKMAN                  04/10/2024  04/10/2024  STAFF PER DIEM                                                                $198.99
+                  05/01/2024  CHARLES R ACKMAN                  04/11/2024  04/12/2024  STAFF TRANSPORTATION
+                                                                                        MINNEAPOLIS TO WASHINGTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MINNEAPOLIS TO SHOREVIEW AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FARIBAULT TO MANKATO, RED WING TO ROCHESTER
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FARIBAULT TO BRAHAM AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+

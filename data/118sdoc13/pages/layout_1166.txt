@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+              POSTED                                        DATES
+                                                                         AIRFARE FOR M WININGER WASHINGTON DC TO SIOUX FALLS SD AND                       $12.84
+                                                 START       END         RETURN                                                                         $145.40
+                                                                         STAFF INCIDENTALS                                                              $282.74
+DERN20240633  07/24/2024  JOHN L HOLLINRAKE      06/27/2024  06/28/2024  STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION                                                             $57.62
+DERN20240634  07/20/2024  JOHN L HOLLINRAKE      06/01/2024  06/30/2024  DES MOINES TO BRITT, WATERLOO, CRESCO, HANLONTOWN, MASON CITY                     $9.47
+DERN20240635  07/24/2024  KIMBERLY A REEM        06/28/2024  06/28/2024  AND RETURN
+DERN20240636                                                             STAFF TRANSPORTATION                                                           $208.37
+DERN20240637  07/23/2024  KIMBERLY A REEM        06/01/2024  06/30/2024  DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $180.56
+DERN20240638  07/24/2024  JUSTIN L JENSEN        06/26/2024  06/26/2024  STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION                                                             $26.00
+DERN20240639  07/23/2024  JUSTIN L JENSEN        06/27/2024  06/27/2024  CEDAR RAPIDS TO DECORAH, CRESCO, NORA SPRINGS AND RETURN                       $194.30
+                                                                         STAFF TRANSPORTATION
+DERN20240640  07/23/2024  JUSTIN L JENSEN        06/28/2024  06/28/2024  CEDAR RAPIDS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $2.69  B-1148
+                                                                         STAFF PER DIEM                                                                 $247.90
+DERN20240641  07/15/2024  YUICHIRO KAKUTANI      06/24/2024  06/27/2024  STAFF TRANSPORTATION
+DERN20240642                                                             CEDAR FALLS TO ALDEN, SHEFFIELD, GALT, FOREST CITY AND RETURN                     $5.33
+DERN20240643  07/20/2024  JUSTIN L JENSEN        06/01/2024  06/30/2024  STAFF PER DIEM                                                                 $206.36
+DERN20240644  07/23/2024  KOLBY RYAN DEWITT      07/02/2024  07/02/2024  STAFF TRANSPORTATION
+DERN20240645  07/20/2024  KIMBERLY A REEM        07/02/2024  07/02/2024  CEDAR FALLS TO NEW HAMPTON, CHARLES CITY, WAVERLY, BRITT AND                     $43.86
+DERN20240646                                                             RETURN                                                                         $490.35
+DERN20240647  07/20/2024  KOLBY RYAN DEWITT      07/03/2024  07/03/2024  STAFF PER DIEM
+DERN20240648  07/20/2024  KOLBY RYAN DEWITT      07/03/2024  07/03/2024  STAFF TRANSPORTATION                                                             $64.32
+DERN20240649  07/20/2024  BRENDA RHEA SAFRANSKI  06/01/2024  06/30/2024  CEDAR FALLS TO DECORAH, CRESCO, NORA SPRINGS, HANLONTOWN,                      $123.95
+              07/23/2024  BRENDA RHEA SAFRANSKI  07/03/2024  07/03/2024  MASON CITY AND RETURN
+                                                                         STAFF INCIDENTALS                                                                 $4.79
+              07/23/2024  BRENDA RHEA SAFRANSKI  07/02/2024  07/02/2024  STAFF PER DIEM                                                                   $79.06
+                                                                         WASHINGTON DC TO DES MOINES, CEDAR RAPIDS, DES MOINES AND                        $46.90
+              07/24/2024  BRENDA RHEA SAFRANSKI  06/28/2024  06/29/2024  RETURN                                                                           $39.53
+                                                                         STAFF TRANSPORTATION                                                             $20.77
+                                                                         CEDAR RAPIDS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                         STAFF TRANSPORTATION                                                              $9.57
+                                                                         SIOUX CITY TO CORRECTIONVILLE, SIOUX RAPIDS AND RETURN                         $241.87
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION                                                             $17.11
+                                                                         CEDAR RAPIDS TO MAQUOKETA AND RETURN                                           $182.24
+                                                                         STAFF TRANSPORTATION
+                                                                         SIOUX CITY TO CORRECTIONVILLE AND RETURN                                         $11.76
+                                                                         STAFF TRANSPORTATION                                                           $108.46
+                                                                         SIOUX CITY TO AKRON AND RETURN                                                 $305.52
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         URBANDALE TO SIDNEY, GLENWOOD, SHENANDOAH AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES TO CEDAR RAPIDS, VINTON AND RETURN
+                                                                         STAFF INCIDENTALS
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+

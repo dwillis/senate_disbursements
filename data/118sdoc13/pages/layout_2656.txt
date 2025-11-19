@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DWEL20240362                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $586.19
+                  06/05/2024                                    START       END         AIRFARE FOR E VIVAR WASHINGTON DC TO BURLINGTON AND RETURN
+DWEL20240363                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $586.19
+                  06/05/2024                                    05/13/2024  05/14/2024  AIRFARE FOR J FERGUSON WASHINGTON DC TO BURLINGTON AND RETURN
+DWEL20240364                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $293.10
+                  05/24/2024                                    05/13/2024  05/14/2024  AIRFARE FOR J RYEA BURLINGTON TO WASHINGTON DC
+DWEL20240365                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $586.19
+                  06/05/2024                                    05/14/2024  05/14/2024  AIRFARE FOR B GRAMS WASHINGTON DC TO BURLINGTON AND RETURN
+DWEL20240366                  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                      $30.00
+DWEL20240367      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/13/2024  05/14/2024  TICKET FEES                                                                      $30.00
+DWEL20240368      05/24/2024  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                      $30.00
+DWEL20240369      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/07/2024  05/07/2024  TICKET FEES                                                                      $30.00  B-2619
+DWEL20240370      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/07/2024  05/07/2024  TICKET FEES                                                                      $30.00
+DWEL20240371      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/07/2024  05/07/2024  TICKET FEES                                                                      $30.00
+DWEL20240372      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/07/2024  05/07/2024  TICKET FEES                                                                      $30.00
+DWEL20240373      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/07/2024  05/07/2024  TICKET FEES                                                                      $30.00
+DWEL20240374      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/07/2024  05/07/2024  TICKET FEES                                                                      $30.00
+DWEL20240375      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/07/2024  05/07/2024  TICKET FEES                                                                      $30.00
+DWEL20240376      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/07/2024  05/07/2024  TICKET FEES                                                                      $30.00
+DWEL20240377      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/07/2024  05/07/2024  TICKET FEES                                                                      $30.00
+DWEL20240378      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/07/2024  05/07/2024  TICKET FEES                                                                      $30.00
+DWEL20240379      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/09/2024  TICKET FEES                                                                      $30.00
+DWEL20240380      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/09/2024  TICKET FEES                                                                      $30.00
+DWEL20240381      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/09/2024  TICKET FEES                                                                      $30.00
+DWEL20240382      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/09/2024  TICKET FEES                                                                      $30.00
+DWEL20240383      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/09/2024  TICKET FEES                                                                      $30.00
+DWEL20240384      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/09/2024  TICKET FEES                                                                      $30.00
+DWEL20240385      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/09/2024  TICKET FEES                                                                      $30.00
+DWEL20240386      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/09/2024  TICKET FEES                                                                      $30.00
+DWEL20240387      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/09/2024  TICKET FEES                                                                      $30.00
+DWEL20240388      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/09/2024  TICKET FEES                                                                      $30.00
+DWEL20240389      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/09/2024  TICKET FEES                                                                      $30.00
+DWEL20240394      05/25/2024  BROOKE S GRAMS                    05/09/2024  05/09/2024  STAFF TRANSPORTATION                                                             $56.42
+                  05/25/2024                                    05/09/2024  05/09/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DWEL20240395                  CORA L SMITH                      05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                              $2.01
+                  05/25/2024                                    05/13/2024  05/14/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DWEL20240396                  ALEXANDRA CORINNE WHITE                                   STAFF TICKET FEES                                                                $75.00
+                  06/03/2024                                    05/01/2024  05/01/2024  STAFF TRANSPORTATION                                                             $71.10
+DWEL20240397                  CORA L SMITH                                              WASHINGTON DC TO BURLINGTON AND RETURN
+                  05/25/2024                                    05/10/2024  05/14/2024  STAFF TRANSPORTATION                                                              $6.70
+DWEL20240398                  CORA L SMITH                                              WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  05/25/2024                                    05/03/2024  05/03/2024  STAFF TRANSPORTATION                                                              $1.34
+DWEL20240399                  DARRYL G ALEXANDER                05/16/2024  05/16/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  05/30/2024                                    05/13/2024  05/14/2024  STAFF PER DIEM                                                                   $23.98
+DWEL20240400                  AMY M LEE                         05/09/2024  05/09/2024  WASHINGTON DC TO BURLINGTON AND RETURN
+                  05/30/2024                                    05/11/2024  05/14/2024  STAFF TRANSPORTATION                                                             $90.45
+DWEL20240401                  PIARA BIGGS                       05/16/2024  05/16/2024  MONTPELIER TO CHITTENDEN AND RETURN
+                  06/05/2024                                                            STAFF TRANSPORTATION                                                             $21.04
+DWEL20240402                  REBECCA M ELLIS                                           WASHINGTON DC TO BURLINGTON AND RETURN
+                  06/05/2024                                                            STAFF TRANSPORTATION                                                             $88.44
+

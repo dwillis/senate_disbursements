@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DLNK20240776                  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                         $215.10
+DLNK20240778      05/23/2024  CITIBANK - TRAVEL CBA CARD        START       END         AIRFARE FOR SEN LANKFORD TULSA TO WASHINGTON DC                                $179.10
+DLNK20240779      05/24/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                         $188.60
+DLNK20240780      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/07/2024  05/07/2024  AIRFARE FOR SEN LANKFORD OKLAHOMA CITY TO WASHINGTON DC                        $179.10
+DLNK20240781      05/24/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                         $358.20
+DLNK20240782      05/24/2024  EAN SERVICES LLC                  05/14/2024  05/14/2024  AIRFARE FOR SEN LANKFORD WASHINGTON DC TO OKLAHOMA CITY
+DLNK20240783      05/25/2024  EAN SERVICES LLC                                          SENATOR TRANSPORTATION                                                           $90.93
+                  05/25/2024                                    05/09/2024  05/09/2024  AIRFARE FOR SEN LANKFORD WASHINGTON DC TO OKLAHOMA CITY                          $66.92
+DLNK20240784                  JAMES S CARSON                                            STAFF TRANSPORTATION
+DLNK20240785      05/25/2024  JAMES S CARSON                    05/02/2024  05/02/2024  AIRFARE FOR P BURNS OKLAHOMA CITY TO WASHINGTON DC AND RETURN                    $63.65
+                  05/25/2024                                                            STAFF TRANSPORTATION                                                             $14.00
+DLNK20240786                  JAMES S CARSON                    05/13/2024  05/16/2024  RENTAL AUTO FOR J SHARUM TULSA TO NORMAN AND RETURN
+DLNK20240787      05/25/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                              $7.00
+DLNK20240788      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/10/2024  RENTAL AUTO FOR S SHARUM TULSA TO THE FOLLOWING AND RETURN: 5                    $63.12
+                  05/24/2024                                                            /13 OKLAHOMA CITY; 5/14 IN AND AROUND                                          $267.10
+DLNK20240790                  SARAH MARGARET SHARUM             05/13/2024  05/14/2024  STAFF TRANSPORTATION                                                           $367.70
+DLNK20240791      05/29/2024  PEYTON G BURNS                                            OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  05/31/2024                                    05/14/2024  05/14/2024  STAFF PER DIEM                                                                   $10.03
+DLNK20240792                                                    05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                           $123.45
+DLNK20240793                                                                            YUKON TO LAWTON AND RETURN                                                     $822.01
+                                                                05/16/2024  05/16/2024  STAFF TRANSPORTATION                                                           $318.23   B-1593
+DLNK20240797                                                    05/05/2024  05/05/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DLNK20240798                                                    05/15/2024  05/18/2024  SENATOR TRANSPORTATION                                                           $90.45
+DLNK20240799                                                                            AIRFARE FOR SEN LANKFORD OKLAHOMA CITY TO LOS ANGELES CA                         $21.81
+DLNK20240800                                                    05/18/2024  05/18/2024  STAFF TRANSPORTATION                                                             $56.28
+DLNK20240801                                                    05/13/2024  05/16/2024  AIRFARE FOR A HIGGINS WASHINGTON DC TO OKLAHOMA CITY AND                       $179.10
+DLNK20240802                                                                            RETURN                                                                         $179.10
+                  05/28/2024  PEYTON G BURNS                    05/17/2024  05/17/2024  STAFF PER DIEM                                                                   $24.12
+                  05/30/2024  PEYTON G BURNS                    05/18/2024  05/18/2024  TULSA TO PONCA CITY AND RETURN                                                   $14.74
+                                                                                        STAFF INCIDENTALS                                                                $38.19
+                  06/04/2024  CITIBANK - TRAVEL CBA CARD        05/20/2024  05/20/2024  STAFF PER DIEM                                                                   $38.86
+                  06/03/2024  CITIBANK - TRAVEL CBA CARD        05/23/2024  05/23/2024  STAFF TRANSPORTATION
+                  05/30/2024  QUINTON BRIER GRAY                05/07/2024  05/07/2024  STILLWATER TO OKLAHOMA CITY, WASHINGTON DC AND RETURN
+                  05/29/2024  QUINTON BRIER GRAY                05/10/2024  05/10/2024  STAFF TRANSPORTATION
+                  05/29/2024  QUINTON BRIER GRAY                05/14/2024  05/14/2024  STILLWATER TO OKLAHOMA CITY AND RETURN
+                  05/30/2024  QUINTON BRIER GRAY                05/15/2024  05/15/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        STILLWATER TO PONCA CITY AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN LANKFORD OKLAHOMA CITY TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN LANKFORD WASHINGTON DC TO OKLAHOMA CITY
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

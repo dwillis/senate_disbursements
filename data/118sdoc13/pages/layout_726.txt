@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DBRN20240971                  EMMA MARIE SPEYER                                         STAFF TRANSPORTATION                                                         $44.89
+DBRN20240972      07/25/2024  KAMERON W ANDERSON                START       END         COLUMBUS TO LANCASTER AND RETURN                                             $42.21
+DBRN20240973      07/25/2024  PLAYON PATRICK                                            STAFF TRANSPORTATION
+                  07/30/2024                                    07/23/2024  07/23/2024  DAYTON TO CINCINNATI AND RETURN                                              $17.31
+DBRN20240974                                                                            STAFF INCIDENTALS                                                          $120.67
+                                                                07/23/2024  07/23/2024  STAFF PER DIEM                                                             $163.48
+DBRN20240975                                                                            STAFF TRANSPORTATION
+DBRN20240976                                                    07/12/2024  07/13/2024  COLUMBUS TO COVINGTON KY, CINCINNATI AND RETURN                              $40.11
+DBRN20240977                                                                            STAFF INCIDENTALS                                                          $193.73
+DBRN20240978      08/05/2024  SARAH R BENZING                   07/12/2024  07/13/2024  STAFF PER DIEM                                                             $224.97
+DBRN20240982                                                                            STAFF TRANSPORTATION
+DBRN20240983      07/29/2024  JORDAN T PENNELL                  07/23/2024  07/23/2024  WASHINGTON DC TO CINCINNATI AND RETURN                                       $10.72  B-708
+DBRN20240985      07/29/2024  JORDAN T PENNELL                  07/19/2024  07/19/2024  STAFF TRANSPORTATION
+                  07/29/2024  JORDAN T PENNELL                  07/24/2024  07/24/2024  IN AND AROUND YOUNGSTOWN                                                     $10.72
+DBRN20240988      07/30/2024  EMMA MARIE SPEYER                 07/24/2024  07/24/2024  STAFF TRANSPORTATION
+DBRN20240989      07/31/2024  ELAINE N VILEM                    07/19/2024  07/19/2024  IN AND AROUND YOUNGSTOWN                                                     $52.26
+DBRN20240990                                                                            STAFF TRANSPORTATION
+DBRN20240991      08/02/2024  ELAINE N VILEM                    07/16/2024  07/16/2024  YOUNGSTOWN TO RAVENNA AND RETURN                                             $73.03
+DBRN20240992                                                                            STAFF TRANSPORTATION
+DBRN20240994      08/05/2024  ISABELLA G FLETCHER               07/12/2024  07/13/2024  COLUMBUS TO MARION AND RETURN                                                 $4.43
+DBRN20240996                                                                            STAFF PER DIEM                                                             $149.58
+                  08/01/2024  KALEB KNOWLTON                    07/10/2024  07/10/2024  STAFF TRANSPORTATION
+DBRN20240997      08/05/2024  KALEB KNOWLTON                    07/11/2024  07/11/2024  CLEVELAND TO PERRYSBURG AND RETURN                                           $16.43
+DBRN20240998      08/01/2024  KALEB KNOWLTON                    07/19/2024  07/19/2024  STAFF PER DIEM                                                             $103.87
+                  08/06/2024  CITIBANK - TRAVEL CBA CARD        07/29/2024  07/29/2024  STAFF TRANSPORTATION
+                  08/08/2024  JORDAN T PENNELL                  07/30/2024  07/30/2024  CLEVELAND TO VIENNA AND RETURN                                               $30.11
+                                                                                        STAFF INCIDENTALS                                                          $156.00
+                  08/12/2024  JORDAN T PENNELL                  07/31/2024  07/31/2024  STAFF PER DIEM                                                             $364.33
+                  08/15/2024  KEVIN S DONOHOE                   07/07/2024  07/08/2024  STAFF TRANSPORTATION
+                                                                                        CLEVELAND TO CINCINNATI AND RETURN                                           $79.06
+                  08/12/2024  ERICA N KRAUSE                    07/22/2024  07/22/2024  STAFF TRANSPORTATION
+                  08/12/2024  ERICA N KRAUSE                    07/23/2024  07/23/2024  MINGO JUNCTION TO NEW PHILADELPHIA AND RETURN                              $149.41
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MINGO JUNCTION TO MARIETTA AND RETURN                                        $93.80
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MINGO JUNCTION TO SENECAVILLE AND RETURN                                   $279.10
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BROWN CLEVELAND TO WASHINGTON DC                             $29.62
+                                                                                        STAFF PER DIEM                                                             $251.18
+                                                                                        STAFF TRANSPORTATION
+                                                                                        YOUNGSTOWN TO SUNBURY, COLUMBUS AND RETURN                                   $32.16
+                                                                                        STAFF TRANSPORTATION
+                                                                                        YOUNGSTOWN TO WARREN AND RETURN                                              $15.78
+                                                                                        STAFF INCIDENTALS                                                          $132.87
+                                                                                        STAFF PER DIEM                                                             $134.95
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO YOUNGSTOWN AND RETURN                                       $76.84
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TOLEDO TO TIFFIN AND RETURN                                                  $69.01
+                                                                                        STAFF TRANSPORTATION
+

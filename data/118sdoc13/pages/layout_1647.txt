@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                   POSTED                                                  DATES
+DLNK20241226                  JAMES S CARSON                                            STAFF PER DIEM                                                                       $20.00
+DLNK20241227      09/17/2024  JAMES S CARSON                    START       END         STAFF TRANSPORTATION                                                                 $48.16
+DLNK20241228                  NATALIE MORGAN IHRMAN                                     OKLAHOMA CITY TO WEATHERFORD, THOMAS AND RETURN                                      $77.32
+                  09/17/2024                                    09/05/2024  09/05/2024  STAFF TRANSPORTATION                                                                 $46.62
+DLNK20241235      09/25/2024                                                            OKLAHOMA CITY TO ALTUS, LONE WOLF AND RETURN                                       $539.86
+DLNK20241236                                                    09/06/2024  09/06/2024  STAFF INCIDENTALS                                                                    $57.73
+DLNK20241240                                                    09/03/2024  09/06/2024  STAFF PER DIEM                                                                     $179.10
+DLNK20241241                                                                            STAFF TRANSPORTATION                                                               $215.10
+DLNK20241242      09/17/2024  CITIBANK - TRAVEL CBA CARD        09/09/2024  09/09/2024  WASHINGTON DC TO OKLAHOMA CITY AND RETURN                                            $78.00
+                  09/17/2024  CITIBANK - TRAVEL CBA CARD        09/08/2024  09/08/2024  SENATOR TRANSPORTATION                                                               $42.07
+                  09/18/2024  EAN SERVICES LLC                  08/29/2024  08/30/2024  AIRFARE FOR SEN LANKFORD OKLAHOMA CITY TO WASHINGTON DC
+                  09/18/2024  EAN SERVICES LLC                  09/05/2024  09/05/2024  STAFF TRANSPORTATION                                                               $242.69
+                                                                                        AIRFARE FOR D OSBORN TULSA TO WASHINGTON DC
+                  09/26/2024  EAN SERVICES LLC                  08/26/2024  08/30/2024  STAFF TRANSPORTATION                                                                 $39.00
+                                                                                        RENTAL AUTO FOR P BURNS STILLWATER TO GUTHRIE AND RETURN                           $553.22
+DLNK20241243      09/18/2024  EAN SERVICES LLC                  09/04/2024  09/05/2024  STAFF TRANSPORTATION                                                                         B-1610
+DLNK20241244      09/26/2024  EAN SERVICES LLC                  08/25/2024  08/30/2024  RENTAL AUTO FOR P BURNS STILLWATER TO KINGFISHER, WOODWARD                           $73.02
+                                                                                        AND RETURN
+DLNK20241246      09/18/2024  EAN SERVICES LLC                  09/04/2024  09/04/2024  STAFF TRANSPORTATION                                                               $224.60
+                                                                                        RENTAL AUTO FOR J CARSON AS FOLLOWS: 8/26 YUKON TO OKLAHOMA                        $179.10
+DLNK20241255      09/19/2024  CITIBANK - TRAVEL CBA CARD        09/12/2024  09/12/2024  CITY; 8/27 OKLAHOMA CITY TO ELK CITY, ALTUS, LAWTON AND RETURN; 8
+DLNK20241256      09/20/2024  CITIBANK - TRAVEL CBA CARD        09/12/2024  09/12/2024  /28 OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION; 8                        $14.74
+DLNK20241257      09/19/2024  MAXWELL T MALLOY                  09/13/2024  09/13/2024  /29 OKLAHOMA CITY TO HOBART AND RETURN; 8/30 OKLAHOMA CITY TO                        $59.71
+DLNK20241259      09/19/2024  JAMES S CARSON                    09/09/2024  09/09/2024  WEATHERFORD TO YUKON                                                                 $20.00
+DLNK20241260      09/19/2024  JAMES S CARSON                    09/11/2024  09/11/2024  STAFF TRANSPORTATION                                                                 $16.50
+DLNK20241261      09/19/2024  JAMES S CARSON                    09/12/2024  09/12/2024  RENTAL AUTO FOR Q GRAY OKLAHOMA CITY TO EDMOND AND RETURN                            $44.89
+DLNK20241262      09/19/2024  JAMES S CARSON                    09/13/2024  09/13/2024  STAFF TRANSPORTATION                                                                 $87.10
+DLNK20241267      09/19/2024  PEYTON G BURNS                    09/10/2024  09/17/2024  RENTAL AUTO FOR C NEAL TULSA TO OKLAHOMA CITY, ALTUS, EL RENO,                     $115.03
+DLNK20241276      09/27/2024  ESTELA L HERNANDEZ                08/01/2024  08/09/2024  OKLAHOMA CITY, TULSA, STILLWATER, OKLAHOMA CITY, TULSA TO
+                                                                                        OKLAHOMA CITY
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RENTAL AUTO FOR J SHARUM TULSA TO GUTHRIE, KINGFISHER AND
+                                                                                        RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR D OSBORN WASHINGTON DC TO TULSA
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN LANKFORD WASHINGTON DC TO OKLAHOMA CITY
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        OKLAHOMA CITY TO WEATHERFORD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OKLAHOMA CITY TO YUKON, ELK CITY, YUKON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        STILLWATER TO OKLAHOMA CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

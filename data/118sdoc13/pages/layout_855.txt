@@ -1,0 +1,57 @@
+DOCUMENT NO.    DATE                            PAYEE NAME  OBLIGATION/SERVICE      DESCRIPTION                                         AMOUNT ($)
+              POSTED                                                   DATES
+                          HICKERSON, JOHN D                                                                                                          $3,605.31
+                          HOHN, ALLISON P                   START       END                                                                          $3,605.31
+                          GRAHAM, SARAH                                                                                                              $3,605.31
+                          BYWATER, MAYA B                                                     INTERN FROM MAY 13 TO JUN. 21                          $3,605.31    B-837
+                          ROMANOWSKY, EMMA RACHEL                                             INTERN FROM MAY 13 TO JUN. 21                         $25,171.30
+                          DUQUE, ALEXANDRIA                                                   INTERN FROM MAY 13 TO JUN. 21                         $21,277.75
+                          INGLIS, ANNA BLAKE                                                  INTERN FROM MAY 13 TO JUN. 21                          $3,605.30
+                          MUELLER, ADELINE                                                    PRESS ASSISTANT FROM MAY 20                            $3,605.30
+                          SANTO, ABIGAIL BANKS                                                DIGITAL MANAGER FROM JUN. 17                           $3,605.30
+                          CHEKURI, RITSIKA                                                    INTERN FROM JUN. 24 TO AUG. 2                          $3,605.30
+                          MARTIN, PAIGE ELIZABETH                                             INTERN FROM JUN. 24 TO AUG. 2                          $3,605.30
+                          WILLIAMS, ANASTASIA VERONICA                                        INTERN FROM JUN. 24 TO AUG. 2                          $3,605.30
+                          PODNAR, SAMANTHA LILI                                               INTERN FROM JUN. 24 TO AUG. 2                          $3,605.30
+                          MITCHELL, JOHN W.M.                                                 INTERN FROM JUN. 24 TO AUG. 2                          $3,605.30
+                          GUSDORFF, JESSICA L                                                 INTERN FROM JUN. 24 TO AUG. 2                          $3,605.30
+                          THAU, EZRA D                                                        INTERN FROM JUN. 24 TO AUG. 2                          $3,605.30
+                          LAZEWSKI, ANNA P                                                    INTERN FROM JUN. 24 TO AUG. 2                          $3,605.30
+                          SHIELS, EMILY C                                                     INTERN FROM JUN. 24 TO AUG. 2                          $3,605.30
+                          THEISS, CLARISSA L                                                  INTERN FROM JUN. 24 TO AUG. 2                          $3,605.30
+                          VAN AALST, MARISKA H                                                INTERN FROM JUN. 24 TO AUG. 2                         $21,999.98
+                          GARTLEY, SCOTT J                                                    INTERN FROM JUN. 24 TO AUG. 2                          $1,016.88
+                          SAEZ, CHEYANNE D                                                    INTERN FROM JUN. 24 TO AUG. 2                          $1,016.88
+                          SKEEL, MIA H                                                        REGIONAL MANAGER FROM JUL. 1
+                          MENDOZA, ANA SOFIA                                                  INTERN FROM SEP. 9                                        $711.81
+                          LEYZAROVICH, MAYA S                                                 INTERN FROM SEP. 9                                     $1,016.88
+                          MIGLIORISI, JOSEPH                                                  INTERN FROM SEP. 9
+                          BANDY, AVA E                                                        INTERN FROM SEP. 9                                        $889.76
+                          DOLICH, ELIZABETH C                                                 INTERN FROM SEP. 9                                     $1,019.19
+                          CORVINO, ELEANOR R                                                  INTERN FROM SEP. 10                                    $1,164.79
+                          CARR, MARGARET S                                                    INTERN FROM SEP. 10
+                          MEHTA, SAGE P                                                       INTERN FROM SEP. 10                                       $946.39
+                                                                                              INTERN FROM SEP. 9                                     $1,220.26
+                                                                                              INTERN FROM SEP. 10                                    $1,504.52
+                                                                                              INTERN FROM SEP. 10                                    $1,553.06
+
+                                                                        PERSONNEL COMP. FULL-TIME PERMANENT                                     $2,648,154.71
+                                                                                                                                                    $14,753.40
+                                                                        PERSONNEL BENEFITS
+                                                                                                                                                $2,662,908.11
+                                                                        Net Payroll Expenses
+                                                                                                                                                        $156.79
+DCAS20240659  04/01/2024  CAMERON G THOMPSON                03/06/2024  03/06/2024  STAFF TRANSPORTATION
+DCAS20240681  04/03/2024  CAMERON G THOMPSON                03/20/2024  03/20/2024  WASHINGTON DC TO PITTSBURGH AND RETURN                              $163.34
+DCAS20240683  04/04/2024  ELIZABETH M COOPER                03/20/2024  03/20/2024  STAFF TRANSPORTATION
+DCAS20240690  04/02/2024  AMY E COZZE                       03/24/2024  03/24/2024  WASHINGTON DC TO HARRISBURG AND RETURN                              $184.10
+DCAS20240691  04/02/2024  AMY E COZZE                       03/22/2024  03/22/2024  STAFF TRANSPORTATION
+DCAS20240692  04/02/2024  TRACE J LEDGARD                   03/22/2024  03/22/2024  STATE COLLEGE TO DANVILLE, HARRISBURG TO BOALSBURG                    $73.70
+DCAS20240696  04/05/2024  CITIBANK - SENATOR IBA CARD       03/08/2024  03/11/2024  STAFF TRANSPORTATION
+                                                                                    BETHLEHEM TO READING AND RETURN                                       $77.72
+                                                                                    STAFF TRANSPORTATION
+                                                                                    ALLENTOWN TO WYOMISSING AND RETURN                                    $63.65
+                                                                                    STAFF TRANSPORTATION
+                                                                                    PITTSBURGH TO KITTANNING AND RETURN                                 $226.00
+                                                                                    SENATOR TRANSPORTATION
+

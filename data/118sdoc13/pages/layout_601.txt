@@ -1,0 +1,43 @@
+DOCUMENT NO.    DATE      PAYEE NAME          OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+              POSTED                                     DATES
+                                                                      WASHINGTON DC TO NEW YORK NY, GREENWICH, NORWALK, MILFORD,                      $427.20
+                                              START       END         HARTFORD, NORWICH, WINDSOR, GREENWICH, BRIDGEPORT, STAMFORD,                 $1,331.07
+                                                                      NEWTOWN, HARTFORD, GREENWICH, WESTPORT, BRIDGEPORT, MERIDEN,
+DBLU20220666  09/16/2024  RICHARD BLUMENTHAL  06/16/2022  06/21/2022  NEW HAVEN, STAMFORD, GREENWICH, DANBURY, HARTFORD, WINDSOR                      $329.70
+DBLU20220667                                                          LOCKS AND RETURN                                                                $356.85
+              09/16/2024  RICHARD BLUMENTHAL  06/24/2022  07/05/2022  SENATOR TRANSPORTATION                                                          $393.10
+                                                                      WASHINGTON DC TO NEW YORK NY, GREENWICH, MIDDLETOWN, NEW                        $405.60
+DBLU20220668  09/16/2024  RICHARD BLUMENTHAL  07/08/2022  07/10/2022  BRITAIN, HARTFORD, WATERBURY, MERIDEN, GREENWICH, BRIDGEPORT,                $2,913.10
+DBLU20220669                                                          GREENWICH, WALLINGFORD, NEW HAVEN, HARTFORD, SIMSBURY,
+DBLU20220670  09/16/2024  RICHARD BLUMENTHAL  07/14/2022  07/18/2022  HARTFORD, BERLIN, HARTFORD, GREENWICH, NEW HAVEN, HARTFORD,                              B-583
+DBLU20220671                                                          WINDSOR LOCKS AND RETURN
+DBLU20220672  09/16/2024  RICHARD BLUMENTHAL  07/21/2022  07/25/2022  SENATOR TRANSPORTATION
+                                                                      WASHINGTON DC TO WINDSOR LOCKS, HARTFORD, NEW HAVEN,
+              09/16/2024  RICHARD BLUMENTHAL  07/28/2022  08/01/2022  GREENWICH, BRIDGEPORT, ORANGE, GREENWICH, WESTPORT,
+                                                                      BRIDGEPORT, GREENWICH, OLD SAYBROOK, WEST HARTFORD,
+              09/17/2024  RICHARD BLUMENTHAL  08/07/2022  09/06/2022  TORRINGTON, GREENWICH, NEW HAVEN, GREENWICH, TRUMBULL,
+                                                                      HARTFORD, NEW LONDON, GREENWICH, WINDSOR LOCKS, HARTFORD,
+                                                                      RIDGEFIELD, GREENWICH, NEW HAVEN, HARTFORD, GREENWICH,
+                                                                      MIDDLETOWN, STAMFORD, GREENWICH, BERLIN, WATERBURY,
+                                                                      GREENWICH, COLUMBIA, WILLIMANTIC, WOODSTOCK, GREENWICH,
+                                                                      NORWICH, HARTFORD, QUEENS VILLAGE NY AND RETURN
+                                                                      SENATOR TRANSPORTATION
+                                                                      WASHINGTON DC TO NEWARK NJ, GREENWICH, NEW HAVEN, BRIDGEPORT,
+                                                                      MILFORD, TRUMBULL, GREENWICH, NEW HAVEN, BRIDGEPORT, QUEENS
+                                                                      VILLAGE NY AND RETURN
+                                                                      SENATOR TRANSPORTATION
+                                                                      WASHINGTON DC TO QUEENS VILLAGE NY, GREENWICH, BRIDGEPORT,
+                                                                      EAST HAMPTON, LAKEVILLE, WILLIMANTIC, EAST LYME, GREENWICH,
+                                                                      BRIDGEPORT, GREENWICH, HARTFORD, WINDSOR LOCKS AND RETURN
+                                                                      SENATOR TRANSPORTATION
+                                                                      WASHINGTON DC TO QUEENS VILLAGE NY, GREENWICH, HARTFORD,
+                                                                      GREENWICH, BRIDGEPORT, WATERBURY, THOMASTON, GREENWICH,
+                                                                      BRIDGEPORT, STRATFORD, GREENWICH, NEW BRITAIN, HARTFORD,
+                                                                      WINDSOR LOCKS AND RETURN
+                                                                      SENATOR TRANSPORTATION
+                                                                      WASHINGTON DC TO QUEENS VILLAGE NY, GREENWICH, NORWICH, EAST
+                                                                      HARTFORD, GREENWICH, BRIDGEPORT, BRANFORD, KILLINGWORTH,
+                                                                      GREENWICH, BRIDGEPORT, GREENWICH, FAIRFIELD, HARTFORD, WINDSOR
+                                                                      LOCKS AND RETURN
+                                                                      SENATOR TRANSPORTATION
+

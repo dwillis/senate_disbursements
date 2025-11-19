@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DPAD20240320                  ROBERTO J NEGRETE                                         STAFF TRANSPORTATION                                                         $36.85
+DPAD20240321      04/26/2024  ADEN J OROZCO                     START       END         LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $43.55
+DPAD20240322      04/26/2024  ROBERTO A ARTEAGA                                         STAFF TRANSPORTATION                                                         $41.07
+DPAD20240323      04/19/2024  ROBERTO A ARTEAGA                 04/04/2024  04/04/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $61.30
+DPAD20240324      04/26/2024  MARGARET ARECHIGA                                         STAFF TRANSPORTATION                                                         $23.45
+DPAD20240325      04/26/2024  MARGARET ARECHIGA                 04/11/2024  04/11/2024  BERKELEY TO OAKLAND AND RETURN                                               $70.35
+DPAD20240326      04/26/2024  MARGARET ARECHIGA                                         STAFF TRANSPORTATION                                                         $48.24
+DPAD20240328      04/26/2024  EDGAR D RODRIGUEZ                 04/04/2024  04/04/2024  BERKELEY TO SAN JOSE AND RETURN
+DPAD20240329      04/19/2024  EDGAR D RODRIGUEZ                                         STAFF TRANSPORTATION                                                          $7.10
+DPAD20240330      04/19/2024  EDGAR D RODRIGUEZ                 04/05/2024  04/05/2024  FRESNO TO MADERA AND RETURN                                                  $45.69
+DPAD20240331      04/19/2024  EDGAR D RODRIGUEZ                                         STAFF TRANSPORTATION                                                         $62.02
+                  05/03/2024                                    04/05/2024  04/05/2024  FRESNO TO MERCED AND RETURN                                                  $29.41
+DPAD20240332                  TESS MCCASLIN OSWALD                                      STAFF TRANSPORTATION                                                         $63.65
+                  05/03/2024                                    04/06/2024  04/06/2024  FRESNO TO CHOWCHILLA AND RETURN                                            $124.68
+DPAD20240334                                                                            STAFF TRANSPORTATION                                                       $845.15
+DPAD20240335                                                    04/08/2024  04/08/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $443.70
+DPAD20240336                                                                            STAFF TRANSPORTATION                                                       $453.10
+DPAD20240338                                                    04/03/2024  04/03/2024  POMONA TO LOS ANGELES AND RETURN                                           $213.10
+DPAD20240345                                                                            STAFF TRANSPORTATION                                                       $422.10
+DPAD20240346                                                    03/27/2024  03/27/2024  POMONA TO EL SEGUNDO AND RETURN                                            $528.20
+DPAD20240347                                                                            STAFF PER DIEM                                                             $499.10
+DPAD20240348                                                    10/09/2023  10/09/2023  STAFF TRANSPORTATION                                                       $138.71
+DPAD20240349                                                                            POMONA TO LOS ANGELES, OAKLAND, LOS ANGELES AND RETURN                     $499.10
+DPAD20240352                                                    04/04/2024  04/04/2024  STAFF INCIDENTALS                                                            $60.97  B-1971
+DPAD20240353                                                                            STAFF PER DIEM                                                               $60.97
+DPAD20240354                                                    04/03/2024  04/06/2024  STAFF TRANSPORTATION                                                         $37.52
+                                                                                        WASHINGTON DC TO NEW YORK NY AND RETURN                                      $18.76
+                  04/25/2024  CITIBANK - TRAVEL CBA CARD        04/08/2024  04/08/2024  SENATOR TRANSPORTATION                                                       $42.21
+                  04/25/2024  CITIBANK - TRAVEL CBA CARD        04/04/2024  04/04/2024  AIRFARE FOR SEN PADILLA LOS ANGELES TO WASHINGTON DC
+                  04/26/2024  CITIBANK - TRAVEL CBA CARD        04/06/2024  04/07/2024  SENATOR TRANSPORTATION
+                  04/25/2024  CITIBANK - TRAVEL CBA CARD        02/29/2024  03/01/2024  AIRFARE FOR SEN PADILLA BURBANK TO OAKLAND
+                  04/30/2024  CITIBANK - TRAVEL CBA CARD        04/11/2024  04/11/2024  STAFF TRANSPORTATION
+                  05/02/2024  CITIBANK - TRAVEL CBA CARD        03/27/2024  03/28/2024  AIRFARE FOR S SWIG SAN FRANCISCO TO WASHINGTON DC
+                  05/02/2024  CITIBANK - TRAVEL CBA CARD        04/15/2024  04/15/2024  SENATOR TRANSPORTATION
+                  04/26/2024  ROBERTO J NEGRETE                 04/11/2024  04/11/2024  AIRFARE FOR SEN PADILLA WASHINGTON DC TO LOS ANGELES
+                  04/26/2024  ROBERTO J NEGRETE                 04/15/2024  04/15/2024  SENATOR TRANSPORTATION
+                  04/30/2024  HARPER B RUBIN                    03/05/2024  03/08/2024  AIRFARE FOR SEN PADILLA WASHINGTON DC TO LOS ANGELES
+                  04/30/2024  HARPER B RUBIN                    03/11/2024  03/14/2024  STAFF TRANSPORTATION
+                  04/30/2024  HARPER B RUBIN                    03/19/2024  03/23/2024  RENTAL AUTO FOR D MONTES PALM SPRINGS TO LOS ANGELES
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN PADILLA LOS ANGELES TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+

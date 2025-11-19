@@ -1,0 +1,52 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+                   POSTED                                                  DATES
+DMUL20240254                  WILLIAM E BARNES JR                                       STAFF TRANSPORTATION                                                                $161.20
+DMUL20240255      04/29/2024  WILLIAM E BARNES JR               START       END         OKLAHOMA CITY TO ATOKA AND RETURN                                                   $161.20
+DMUL20240256      04/29/2024  WILLIAM E BARNES JR                                       STAFF TRANSPORTATION                                                                $161.20
+DMUL20240257      04/29/2024  WILLIAM E BARNES JR               01/31/2024  01/31/2024  OKLAHOMA CITY TO ATOKA AND RETURN
+                  04/29/2024                                                            STAFF TRANSPORTATION                                                                  $25.25
+DMUL20240258                  WILLIAM E BARNES JR               02/07/2024  02/07/2024  OKLAHOMA CITY TO ATOKA AND RETURN                                                   $133.30
+DMUL20240259      04/29/2024  CALEB M COCHRAN                                           STAFF PER DIEM                                                                      $161.20
+                  04/30/2024                                    02/14/2024  02/14/2024  STAFF TRANSPORTATION                                                             $1,090.58
+DMUL20240262                                                                            OKLAHOMA CITY TO PAWHUSKA AND RETURN
+DMUL20240263                                                    02/20/2024  02/20/2024  STAFF TRANSPORTATION                                                                $161.20
+DMUL20240264                                                                            OKLAHOMA CITY TO ATOKA AND RETURN                                                   $161.20
+DMUL20240265                                                    02/22/2024  02/22/2024  STAFF TRANSPORTATION                                                                $224.20
+DMUL20240266                                                    03/01/2024  03/26/2024  OKLAHOMA CITY TO THE FOLLOWING AND RETURN: 3/1, 14, 22 TULSA; 3/5,                  $224.60
+DMUL20240271                                                                            15 STILLWATER; 3/8 MCALESTER, TULSA; 3/12 WEATHERFORD; 3/21 ADA; 3                  $224.60
+DMUL20240272      04/29/2024  WILLIAM E BARNES JR               02/28/2024  02/28/2024  /26 BIXBY                                                                           $485.60   B-1842
+                  04/29/2024  WILLIAM E BARNES JR               03/06/2024  03/06/2024  STAFF TRANSPORTATION                                                             $2,523.92
+DMUL20240273      04/29/2024  CITIBANK - SENATOR IBA CARD       02/06/2024  02/06/2024  OKLAHOMA CITY TO ATOKA AND RETURN
+DMUL20240275      04/29/2024  CITIBANK - SENATOR IBA CARD       03/11/2024  03/11/2024  STAFF TRANSPORTATION                                                                $212.61
+DMUL20240276      04/26/2024  CITIBANK - SENATOR IBA CARD       02/13/2024  02/13/2024  OKLAHOMA CITY TO ATOKA AND RETURN                                                   $215.10
+DMUL20240277      04/30/2024  CITIBANK - SENATOR IBA CARD       03/05/2024  03/05/2024  SENATOR TRANSPORTATION
+DMUL20240278      05/16/2024  CITIBANK - SENATOR IBA CARD       03/10/2024  03/13/2024  AIRFARE FOR SEN MULLIN TULSA TO WASHINGTON DC                                          $9.50
+DMUL20240279                                                                            SENATOR TRANSPORTATION                                                              $224.60
+                  04/30/2024  CITIBANK - SENATOR IBA CARD       03/09/2024  03/09/2024  AIRFARE FOR SEN MULLIN TULSA TO WASHINGTON DC                                       $335.61
+DMUL20240280      05/02/2024  CITIBANK - SENATOR IBA CARD       04/11/2024  04/11/2024  SENATOR TRANSPORTATION                                                              $337.20
+DMUL20240290      04/26/2024  CITIBANK - SENATOR IBA CARD       04/11/2024  04/11/2024  AIRFARE FOR SEN MULLIN WASHINGTON DC TO TULSA
+                  05/08/2024  CITIBANK - SENATOR IBA CARD       04/15/2024  04/15/2024  SENATOR TRANSPORTATION                                                              $601.10
+DMUL20240291      05/01/2024  CITIBANK - SENATOR IBA CARD       04/08/2024  04/08/2024  AIRFARE FOR SEN MULLIN TULSA TO WASHINGTON DC                                       $461.90
+                  05/02/2024  CITIBANK - SENATOR IBA CARD       03/26/2024  03/27/2024  STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR T COHRS, J OWEN OKLAHOMA CITY TO WASHINGTON DC AND                   $1,054.37
+                  05/16/2024  CITIBANK - SENATOR IBA CARD       03/23/2024  03/23/2024  RETURN
+                  05/02/2024  LACEY PITMAN                      03/22/2024  03/28/2024  SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MULLIN WASHINGTON DC TO TULSA
+                  05/02/2024  LACEY PITMAN                      04/02/2024  04/18/2024  SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MULLIN WASHINGTON DC TO TULSA
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MULLIN WASHINGTON DC TO TULSA
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MULLIN TULSA TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MULLIN TULSA TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR B CANTRELL WASHINGTON DC TO OKLAHOMA CITY AND
+                                                                                        RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MULLIN WASHINGTON DC TO DALLAS TX
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MCALESTER TO THE FOLLOWING AND RETURN: 3/22, 27 ADA; 3/25 WRIGHT
+                                                                                        CITY, RED OAK; 3/26 GLENPOOL; 3/28 STIGLER
+                                                                                        STAFF TRANSPORTATION
+

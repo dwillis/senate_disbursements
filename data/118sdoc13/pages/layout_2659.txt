@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE                   PAYEE NAME      OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+              POSTED                                              DATES
+                                                                               WASHINGTON DC TO BURLINGTON, MILTON, BURLINGTON, NORWICH,                    $191.31
+                                                       START       END         BURLINGTON AND RETURN                                                        $808.88
+                                                                               SENATOR PER DIEM
+DWEL20240451  06/25/2024  PETER WELCH                  05/23/2024  06/03/2024  SENATOR TRANSPORTATION                                                         $69.32
+                                                                               WASHINGTON DC TO BURLINGTON, NORWICH, WHITE RIVER JUNCTION,                  $197.90
+DWEL20240452  06/26/2024  PETER WELCH                  06/06/2024  06/10/2024  NORWICH, WINOOSKI, BURLINGTON, JOHNSON, HARDWICK, NORWICH,
+                                                                               COLCHESTER, ESSEX, RANDOLPH, BARRE, NORWICH, HANOVER NH,                       $18.54
+DWEL20240457  07/05/2024  CITIBANK - PURCHASE CARD     05/14/2024  05/14/2024  NORWICH, HANOVER NH, MANCHESTER NH AND RETURN                                $704.60    B-2622
+                                                                               SENATOR PER DIEM
+DWEL20240458  06/28/2024  CITIBANK - PURCHASE CARD     05/14/2024  05/14/2024  SENATOR TRANSPORTATION                                                          $1.95
+                                                                               WASHINGTON DC TO BURLINGTON, NORWICH, RANDOLPH, NORWICH,                       $73.96
+DWEL20240459  06/28/2024  CITIBANK - PURCHASE CARD     05/14/2024  05/14/2024  BURLINGTON, CHICAGO IL AND RETURN
+                                                                               SENATOR PER DIEM                                                                $3.83
+DWEL20240460  06/28/2024  CITIBANK - PURCHASE CARD     05/14/2024  05/14/2024  STAFF PER DIEM                                                               $145.46
+                                                                               PER DIEM EXPENSES FOR STAFF RETREAT HELD IN BURLINGTON
+DWEL20240461  06/26/2024  CITIBANK - SENATOR IBA CARD  06/03/2024  06/03/2024  SENATOR PER DIEM                                                                  $.78
+DWEL20240462  06/26/2024  CITIBANK - SENATOR IBA CARD  06/06/2024  06/06/2024  STAFF PER DIEM                                                                 $29.60
+DWEL20240463  06/28/2024  CITIBANK - TRAVEL CBA CARD   06/06/2024  06/09/2024  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN BURLINGTON                       $321.10
+DWEL20240464  06/24/2024  CITIBANK - TRAVEL CBA CARD   06/03/2024  06/03/2024  SENATOR PER DIEM                                                             $293.10
+DWEL20240466  06/24/2024  FAUNA S HURLEY               06/12/2024  06/12/2024  STAFF PER DIEM                                                               $586.19
+DWEL20240467  06/25/2024  FAUNA S HURLEY               11/29/2023  11/29/2023  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN BURLINGTON                         $30.00
+                                                                               SENATOR PER DIEM                                                               $13.40
+DWEL20240468  06/24/2024  JAMES BENSON MCNERNEY        06/14/2024  06/14/2024  STAFF PER DIEM
+DWEL20240470  06/26/2024  CORA L SMITH                 06/11/2024  06/13/2024  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN BURLINGTON                          $7.72
+DWEL20240471  06/26/2024  MICHELLE M MONROE            06/14/2024  06/14/2024  SENATOR TRANSPORTATION                                                       $170.95
+DWEL20240472  06/26/2024  MICHELLE M MONROE            06/12/2024  06/12/2024  AIRFARE FOR SEN WELCH MANCHESTER NH TO WASHINGTON DC
+DWEL20240473  06/26/2024  PETER WELCH                  06/05/2024  06/05/2024  SENATOR TRANSPORTATION                                                         $30.48
+DWEL20240474  06/27/2024  REBECCA M ELLIS              06/14/2024  06/14/2024  AIRFARE FOR SEN WELCH WASHINGTON DC TO BURLINGTON                              $14.20
+DWEL20240475  06/26/2024  REBECCA M ELLIS              06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                           $53.39
+DWEL20240476  06/28/2024  RYAN MCLAREN                 01/03/2024  01/22/2024  AIRFARE FOR I WESTON WASHINGTON DC TO BURLINGTON AND RETURN
+                                                                               TICKET FEES                                                                     $6.83
+                                                                               STAFF TRANSPORTATION                                                           $17.88
+                                                                               BURLINGTON TO ESSEX JUNCTION AND RETURN                                      $184.92
+                                                                               STAFF PER DIEM                                                                 $32.16
+                                                                               STAFF TRANSPORTATION                                                         $474.36
+                                                                               BURLINGTON TO BENNINGTON AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               BURLINGTON TO STARKSBORO AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               BURLINGTON TO WATERBURY TO SAINT ALBANS
+                                                                               STAFF TRANSPORTATION
+                                                                               BURLINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               SENATOR TRANSPORTATION
+                                                                               WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               WATERBURY CENTER TO BRATTLEBORO AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               BURLINGTON TO GRAND ISLE AND RETURN
+                                                                               STAFF TRANSPORTATION
+

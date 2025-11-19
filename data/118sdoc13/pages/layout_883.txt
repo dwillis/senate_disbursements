@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME          OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                     DATES
+DCAS20241479                                                              HARRISBURG TO PHILADELPHIA AND RETURN                                          $91.12
+DCAS20241480                                      START       END         STAFF TRANSPORTATION                                                         $156.78
+DCAS20241484                                                              ERIE TO FRANKLIN AND RETURN
+DCAS20241485      09/17/2024  KYLE L HANNON       09/10/2024  09/10/2024  STAFF TRANSPORTATION                                                            $3.35  B-865
+DCAS20241486      09/24/2024  KYLE L HANNON       09/09/2024  09/09/2024  ERIE TO SMETHPORT, BRADFORD AND RETURN                                         $40.20
+DCAS20241487      09/17/2024  TIA L WATSON        06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                           $46.90
+DCAS20241488      09/17/2024  TIA L WATSON        06/25/2024  06/25/2024  PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $28.14
+DCAS20241489      09/18/2024  TIA L WATSON        06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                           $40.20
+DCAS20241490      09/18/2024  TIA L WATSON        06/28/2024  06/28/2024  PHILADELPHIA TO PHOENIXVILLE AND RETURN                                        $29.48
+DCAS20241491      09/18/2024  TIA L WATSON        07/08/2024  07/08/2024  STAFF TRANSPORTATION                                                           $24.12
+DCAS20241492      09/18/2024  TIA L WATSON        07/15/2024  07/15/2024  PHILADELPHIA TO CHESTER, WEST CHESTER AND RETURN
+DCAS20241493      09/18/2024  TIA L WATSON        07/16/2024  07/16/2024  STAFF TRANSPORTATION                                                            $8.04
+DCAS20241494      09/18/2024  TIA L WATSON        07/19/2024  07/19/2024  PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $12.73
+                  09/18/2024  TIA L WATSON        07/26/2024  07/26/2024  STAFF TRANSPORTATION
+DCAS20241495      09/18/2024  TIA L WATSON        08/06/2024  08/06/2024  PHILADELPHIA TO CHESTER AND RETURN                                              $8.04
+DCAS20241496      09/18/2024  TIA L WATSON        08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                           $58.29
+DCAS20241497                                                              PHILADELPHIA TO BENSALEM AND RETURN
+DCAS20241498      09/18/2024  TIA L WATSON        08/22/2024  08/22/2024  STAFF TRANSPORTATION                                                            $8.04
+DCAS20241499      09/18/2024  TIA L WATSON        08/30/2024  08/30/2024  PHILADELPHIA TO CHESTER AND RETURN                                             $49.58
+DCAS20241500      09/18/2024  TIA L WATSON        09/04/2024  09/04/2024  STAFF TRANSPORTATION                                                           $26.80
+DCAS20241502      09/18/2024  TIA L WATSON        09/05/2024  09/05/2024  PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $20.10
+DCAS20241506      09/18/2024  TIA L WATSON        09/09/2024  09/09/2024  STAFF TRANSPORTATION                                                           $70.00
+DCAS20241507      09/18/2024  TIA L WATSON        09/11/2024  09/11/2024  PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $30.82
+DCAS20241508      09/18/2024  KYLE L HANNON       09/11/2024  09/11/2024  STAFF TRANSPORTATION                                                           $93.80
+DCAS20241509      09/26/2024  ELIZABETH M COOPER  09/09/2024  09/09/2024  PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $130.65
+                  09/19/2024  ELIZABETH M COOPER  09/11/2024  09/11/2024  STAFF TRANSPORTATION                                                           $79.06
+                  09/19/2024  ELIZABETH M COOPER  09/12/2024  09/12/2024  PHILADELPHIA TO CONSHOHOCKEN, PHILADELPHIA, BALA CYNWYD AND                    $84.42
+                  09/26/2024  TERESA L DENNIS     08/12/2024  08/12/2024  RETURN                                                                       $197.78
+                                                                          STAFF TRANSPORTATION
+                                                                          PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                          STAFF TRANSPORTATION
+                                                                          PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                          STAFF TRANSPORTATION
+                                                                          PHILADELPHIA TO MARCUS HOOK AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          PHILADELPHIA TO CHESTER AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          PHILADELPHIA TO HARRISBURG AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          PHILADELPHIA TO NORRISTOWN AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          ERIE TO TIONESTA AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          STATE COLLEGE TO MILLHEIM, WILLIAMSPORT TO BOALSBURG
+                                                                          STAFF TRANSPORTATION
+                                                                          STATE COLLEGE TO RICHFIELD AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          STATE COLLEGE TO SELINSGROVE AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          HARRISBURG TO STOYSTOWN AND RETURN
+

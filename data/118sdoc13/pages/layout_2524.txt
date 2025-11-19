@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION              AMOUNT ($)
+                  POSTED                                             DATES
+DVAC20240513                                                                      CHILLICOTHE TO LOGAN AND RETURN                                                          $48.24
+DVAC20240514                                              START       END         STAFF TRANSPORTATION                                                                   $144.72
+DVAC20240515                                                                      CHILLICOTHE TO COLUMBUS AND RETURN
+DVAC20240516      05/02/2024  KELLI L JOHNSON             04/01/2024  04/01/2024  STAFF TRANSPORTATION                                                                     $14.74  B-2487
+DVAC20240517      05/07/2024  KELLI L JOHNSON             04/02/2024  04/02/2024  CHILLICOTHE TO CAMBRIDGE AND RETURN                                                    $112.56
+DVAC20240518      05/02/2024  KELLI L JOHNSON             04/03/2024  04/03/2024  STAFF TRANSPORTATION
+DVAC20240519      05/07/2024  KELLI L JOHNSON             04/04/2024  04/04/2024  COLUMBUS TO CHILLICOTHE AND RETURN                                                       $41.54
+DVAC20240520      05/02/2024  KELLI L JOHNSON             04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                                   $146.73
+DVAC20240521      05/07/2024  KELLI L JOHNSON             04/08/2024  04/08/2024  CHILLICOTHE TO PORTSMOUTH, LOGAN AND RETURN
+DVAC20240522      05/02/2024  KELLI L JOHNSON             04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                                     $13.40
+DVAC20240523      05/02/2024  KELLI L JOHNSON             04/10/2024  04/10/2024  CHILLICOTHE TO GREENFIELD AND RETURN                                                     $48.24
+DVAC20240524      05/02/2024  KELLI L JOHNSON             04/11/2024  04/11/2024  STAFF TRANSPORTATION                                                                     $96.48
+DVAC20240525      05/02/2024  KELLI L JOHNSON             04/12/2024  04/12/2024  CHILLICOTHE TO MARIETTA AND RETURN
+DVAC20240526      05/02/2024  KELLI L JOHNSON             04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                                      $2.68
+DVAC20240527      05/02/2024  KELLI L JOHNSON             04/16/2024  04/16/2024  IN AND AROUND CHILLICOTHE                                                                $15.41
+DVAC20240528      05/02/2024  KELLI L JOHNSON             04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                                     $30.82
+DVAC20240529      05/02/2024  KELLI L JOHNSON             04/18/2024  04/18/2024  CHILLICOTHE TO COLUMBUS AND RETURN                                                       $81.74
+                  05/02/2024  KELLI L JOHNSON             04/19/2024  04/19/2024  STAFF TRANSPORTATION                                                                     $93.80
+                  05/02/2024  KELLI L JOHNSON             04/20/2024  04/20/2024  CHILLICOTHE TO MCCONNELSVILLE AND RETURN                                                 $13.40
+                  05/31/2024  CITIBANK - TRAVEL CBA CARD  04/05/2024  04/23/2024  STAFF TRANSPORTATION                                                                     $73.70
+                                                                                  IN AND AROUND CHILLICOTHE                                                              $218.10
+DVAC20240530      05/14/2024  MARK A OZANICK              04/19/2024  04/19/2024  STAFF TRANSPORTATION                                                                   $279.10
+DVAC20240533      05/02/2024  CITIBANK - TRAVEL CBA CARD  01/26/2024  02/09/2024  IN AND AROUND CHILLICOTHE                                                                $90.00
+                                                                                  STAFF TRANSPORTATION
+DVAC20240534      05/25/2024  CITIBANK - TRAVEL CBA CARD  11/03/2023  04/17/2024  CHILLICOTHE TO MOUNT STERLING AND RETURN                                                 $10.80
+DVAC20240535      05/16/2024  RANDY A CHENAULT            01/18/2024  04/19/2024  STAFF TRANSPORTATION                                                                   $549.10
+                                                                                  CHILLICOTHE TO PORTSMOUTH AND RETURN                                                   $124.11
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHILLICOTHE TO VINTON, MOUNT STERLING AND RETURN                                         $30.00
+                                                                                  STAFF TRANSPORTATION
+                                                                                  IN AND AROUND CHILLICOTHE                                                                $90.00
+                                                                                  STAFF TRANSPORTATION                                                                $1,024.93
+                                                                                  CHILLICOTHE TO PORTSMOUTH AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR THE FOLLOWING: 4/5 G HAMRICK CLEVELAND TO
+                                                                                  WASHINGTON DC; 4/23 SEN VANCE WASHINGTON DC TO CLEVELAND
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CLEVELAND OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR THE FOLLOWING: 1/26 R CHENAULT WASHINGTON DC TO
+                                                                                  CINCINNATI; 2/9 SEN VANCE CINCINNATI TO WASHINGTON DC
+                                                                                  TICKET FEES
+                                                                                  STAFF TRANSPORTATION
+                                                                                  FAIRFIELD TO THE FOLLOWING AND RETURN: 1/18, 19, 4/19 CINCINNATI; 2/1
+                                                                                  VANDALIA; 2/2 WASHINGTON COURT HOUSE; 2/9 ERLANGER KY,
+                                                                                  CINCINNATI; 2/10 COLUMBUS, CINCINNATI; 2/11 CINCINNATI, ERLANGER KY;
+                                                                                  3/14 MONTGOMERY; 4/4 BEAVERCREEK, MILFORD
+

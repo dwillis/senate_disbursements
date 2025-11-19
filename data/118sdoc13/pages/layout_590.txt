@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DBLA20242132                  CALEB ADDISON HASLETT                                     STAFF TRANSPORTATION                                                             $10.72
+DBLA20242133      09/15/2024  CAROLINE DIAZ-BARRIGA             START       END         NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $40.36
+                  09/24/2024                                                            STAFF INCIDENTALS                                                              $512.00
+DBLA20242134                                                    09/06/2024  09/06/2024  STAFF PER DIEM                                                                 $260.03
+DBLA20242135                                                                            STAFF TRANSPORTATION                                                             $41.54
+DBLA20242138                                                    08/05/2024  08/07/2024  NASHVILLE TO CHATTANOOGA AND RETURN                                              $24.12
+                                                                                        STAFF TRANSPORTATION                                                             $24.98
+DBLA20242139      09/15/2024  PABLO A MARTINEZ                  09/04/2024  09/04/2024  FRANKLIN TO COLUMBIA AND RETURN                                                $159.19   B-572
+DBLA20242140      09/15/2024  PABLO A MARTINEZ                  09/05/2024  09/05/2024  STAFF TRANSPORTATION                                                           $216.47
+DBLA20242152      09/25/2024  TYLER B PRIVETTE                  09/03/2024  09/03/2024  FRANKLIN TO SPRING HILL AND RETURN                                               $16.75
+DBLA20242153                                                                            STAFF PER DIEM                                                                   $24.79
+DBLA20242159      09/24/2024  TYLER B PRIVETTE                  09/09/2024  09/09/2024  STAFF TRANSPORTATION                                                             $85.76
+DBLA20242160      09/17/2024  NICHOLAS A KISTENMACHER           09/09/2024  09/09/2024  CHATTANOOGA TO KNOXVILLE AND RETURN                                            $184.92
+                  09/19/2024  PABLO A MARTINEZ                  09/09/2024  09/09/2024  STAFF TRANSPORTATION                                                             $37.66
+                  09/19/2024  PABLO A MARTINEZ                  09/10/2024  09/10/2024  CHATTANOOGA TO SEVIERVILLE, GATLINBURG AND RETURN                              $499.58
+                  09/25/2024  WILLIAM A GUFFEE                  09/11/2024  09/11/2024  STAFF TRANSPORTATION                                                        $1,226.10
+                  09/26/2024  CHRISTOPHER P KELLY               08/15/2024  09/02/2024  MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION                                                             $47.44
+DBLA20242163      09/20/2024  SPENCER HURWITZ                   09/12/2024  09/12/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $24.80
+DBLA20242164      09/27/2024  JOHN M CLEMENT                    08/23/2024  08/23/2024  STAFF TRANSPORTATION                                                           $250.58
+                                                                                        FRANKLIN TO TULLAHOMA AND RETURN                                                 $56.10
+DBLA20242165      09/28/2024  BLACKBURN,MARSHA W                08/01/2024  09/09/2024  STAFF TRANSPORTATION                                                           $167.00
+                                                                                        CHATTANOOGA TO NASHVILLE AND RETURN
+DBLA20242166      09/20/2024  JOHN M CLEMENT                    08/27/2024  08/27/2024  STAFF INCIDENTALS                                                                $85.09
+DBLA20242167      09/20/2024  JOHN M CLEMENT                    08/29/2024  08/29/2024  STAFF PER DIEM                                                                   $83.75
+DBLA20242168      09/20/2024  PABLO A MARTINEZ                  09/13/2024  09/13/2024  STAFF TRANSPORTATION                                                             $71.69
+DBLA20242169      09/20/2024  JOHN M CLEMENT                    09/05/2024  09/05/2024  WASHINGTON DC TO GATLINBURG, NASHVILLE, MEMPHIS, NASHVILLE,                      $60.57
+DBLA20242170      09/20/2024  NICHOLAS A KISTENMACHER           09/11/2024  09/11/2024  JOHNSON CITY AND RETURN                                                          $22.11
+DBLA20242171      09/20/2024  NICHOLAS A KISTENMACHER           09/12/2024  09/12/2024  STAFF TRANSPORTATION                                                             $16.75
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NASHVILLE TO HUNTSVILLEL, FORT CAMPBELL AND RETURN
+                                                                                        SENATOR INCIDENTALS
+                                                                                        SENATOR PER DIEM
+                                                                                        WASHINGTON DC TO NASHVILLE, BRENTWOOD, MAYNARDVILLE,
+                                                                                        KNOXVILLE, JEFFERSON CITY, SEVIERVILLE, NEWPORT, GREENEVILLE,
+                                                                                        BRENTWOOD, NASHVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NASHVILLE TO FORT CAMPBELL KY, CLARKSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NASHVILLE TO FORT CAMPBELL KY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FRANKLIN TO SHELBYVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

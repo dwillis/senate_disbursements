@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DVAN20240609                  JESSICA LAUREN KLAITMAN                                   STAFF TRANSPORTATION                                                         $26.13
+DVAN20240610      05/17/2024  JESSICA LAUREN KLAITMAN           START       END         BALTIMORE TO SEVERN, BROOKLYN AND RETURN                                     $16.08
+DVAN20240611      05/17/2024  JESSICA LAUREN KLAITMAN                                   STAFF TRANSPORTATION                                                         $11.12
+DVAN20240612      05/17/2024  JESSICA LAUREN KLAITMAN           04/11/2024  04/11/2024  BALTIMORE TO TOWSON AND RETURN                                               $16.08
+DVAN20240613      05/17/2024  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION                                                         $45.56
+DVAN20240614      05/21/2024  NAKI D FRIERSON                   04/29/2024  04/29/2024  BALTIMORE TO TOWSON AND RETURN                                               $24.79
+DVAN20240615      05/21/2024  JESSICA LAUREN KLAITMAN                                   STAFF TRANSPORTATION                                                         $28.14
+DVAN20240617      05/17/2024  ALYSSA M HASTINGS                 04/05/2024  04/05/2024  BALTIMORE TO LUTHERVILLE TIMONIUM AND RETURN                                 $99.16
+DVAN20240618      05/23/2024  ELONNA B.Q JONES                                          STAFF TRANSPORTATION
+DVAN20240619      05/23/2024  KENNETH S SIMONS                  04/28/2024  04/28/2024  SALISBURY TO CRISFIELD AND RETURN                                             $9.38
+DVAN20240620      05/23/2024  KENNETH S SIMONS                                          STAFF TRANSPORTATION                                                         $11.39
+DVAN20240621      05/24/2024  KENNETH S SIMONS                  05/10/2024  05/10/2024  ROCKVILLE TO HAGERSTOWN AND RETURN                                           $17.88
+DVAN20240622      05/23/2024  KENNETH S SIMONS                                          STAFF TRANSPORTATION                                                         $26.33
+DVAN20240623      05/23/2024  KENNETH S SIMONS                  05/10/2024  05/10/2024  BALTIMORE TO ODENTON AND RETURN                                              $43.14
+DVAN20240624      05/24/2024  KENNETH S SIMONS                                          STAFF TRANSPORTATION                                                         $26.26
+DVAN20240625      05/23/2024  KENNETH S SIMONS                  04/24/2024  04/24/2024  SALISBURY TO OCEAN CITY, WYE MILLS TO CAMBRIDGE                              $19.83
+DVAN20240626      05/23/2024  KENNETH S SIMONS                                          STAFF TRANSPORTATION                                                         $28.27
+DVAN20240627      05/24/2024  KENNETH S SIMONS                  05/14/2024  05/14/2024  BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $23.31
+DVAN20240628      05/23/2024  KENNETH S SIMONS                                          STAFF TRANSPORTATION                                                         $30.21
+DVAN20240629      05/23/2024  NAN SHERIDAN-MANN                 05/13/2024  05/14/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $17.88
+DVAN20240630      05/24/2024  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION                                                         $60.30
+DVAN20240631      05/23/2024  KENNETH S SIMONS                  04/12/2024  04/12/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $26.13
+DVAN20240632      05/24/2024  NAN SHERIDAN-MANN                                         STAFF TRANSPORTATION
+DVAN20240633      05/24/2024  KENNETH S SIMONS                  04/19/2024  04/19/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $8.50  B-2515
+DVAN20240635      05/24/2024  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION                                                         $60.30
+                  05/24/2024                                    04/22/2024  04/22/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $17.28
+                                                                                        STAFF TRANSPORTATION                                                         $39.53
+                                                                04/26/2024  04/26/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                05/08/2024  05/08/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                05/10/2024  05/10/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                04/08/2024  04/08/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                04/29/2024  04/29/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                05/06/2024  05/06/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                04/28/2024  04/28/2024  FREDERICK TO WESTMINSTER TO HAGERSTOWN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/13/2024  05/13/2024  CAMBRIDGE TO EASTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/15/2024  05/15/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                04/24/2024  04/24/2024  HAGERSTOWN TO WESTMINSTER TO FREDERICK
+                                                                                        STAFF TRANSPORTATION
+                                                                05/09/2024  05/09/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                04/21/2024  04/21/2024  SALISBURY TO BERLIN AND RETURN
+
+                                                                05/16/2024  05/16/2024
+

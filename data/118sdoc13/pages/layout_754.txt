@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                        DATES
+DBDD20240670                                                                 WILMINGTON TO SOUTHPORT, SHALLOTTE AND RETURN                                     $1.60
+DBDD20240671                                         START       END         STAFF PER DIEM                                                                   $57.62
+                                                                             STAFF TRANSPORTATION                                                             $20.55
+DBDD20240672      08/20/2024  RICHARD LEE MOXLEY     08/08/2024  08/08/2024  PFAFFTOWN TO HIGH POINT, GREENSBORO, WINSTON SALEM AND RETURN                  $179.67
+DBDD20240674      08/27/2024  DAVID M HELSLEY                                STAFF INCIDENTALS                                                              $382.95
+DBDD20240675                                         08/01/2024  08/02/2024  STAFF PER DIEM                                                                 $350.00
+DBDD20240676                                                                 STAFF TRANSPORTATION                                                             $14.69
+DBDD20240678      08/20/2024  THEODORE BUDD          06/18/2024  06/18/2024  ADVANCE TO WILMINGTON AND RETURN                                                 $90.11  B-736
+DBDD20240680      08/22/2024  SAMUEL JOSEPH SHUMATE  08/12/2024  08/12/2024  SENATOR TRANSPORTATION                                                           $93.80
+DBDD20240681                                                                 CHARLOTTE TO ADVANCE                                                             $12.29
+                  08/22/2024  RICHARD LEE MOXLEY     08/10/2024  08/10/2024  STAFF PER DIEM                                                                 $101.17
+DBDD20240682      08/22/2024  RICHARD LEE MOXLEY     08/12/2024  08/12/2024  STAFF TRANSPORTATION                                                           $381.11
+DBDD20240683                                                                 SANFORD TO LIBERTY, RANDLEMAN, ASHEBORO AND RETURN                               $50.25
+DBDD20240685      08/22/2024  THEODORE BUDD          08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                             $15.98
+DBDD20240686      09/09/2024  RICHARD LEE MOXLEY     08/13/2024  08/13/2024  PFAFFTOWN TO MEBANE AND RETURN                                                   $95.12
+DBDD20240688      09/11/2024  SAMUEL JOSEPH SHUMATE  08/13/2024  08/13/2024  STAFF PER DIEM
+DBDD20240689                                                                 STAFF TRANSPORTATION                                                             $90.24
+                  09/10/2024  SAMUEL JOSEPH SHUMATE  08/14/2024  08/14/2024  PFAFFTOWN TO LIBERTY, RANDLEMAN, ASHEBORO AND RETURN                             $13.21
+DBDD20240690      09/11/2024  RICHARD LEE MOXLEY     08/14/2024  08/14/2024  SENATOR TRANSPORTATION                                                         $121.27
+DBDD20240691                                                                 WASHINGTON DC TO CHARLOTTE                                                     $138.02
+DBDD20240692      09/11/2024  SAMUEL JOSEPH SHUMATE  08/15/2024  08/15/2024  STAFF TRANSPORTATION                                                             $43.55
+                  09/10/2024  RICHARD LEE MOXLEY     08/15/2024  08/15/2024  PFAFFTOWN TO LEXINGTON AND RETURN                                                $10.88
+                  09/11/2024  RICHARD LEE MOXLEY     08/16/2024  08/16/2024  STAFF PER DIEM                                                                 $130.65
+                                                                             STAFF TRANSPORTATION                                                             $12.12
+                  09/11/2024  SAMUEL JOSEPH SHUMATE  08/16/2024  08/16/2024  SANFORD TO APEX, CARY, RALEIGH, RESEARCH TRIANGLE PARK,                        $114.23
+                                                                             MORRISVILLE, RALEIGH AND RETURN
+                  09/11/2024  RICHARD LEE MOXLEY     08/19/2024  08/19/2024  STAFF TRANSPORTATION                                                             $14.55
+                  09/10/2024  SAMUEL JOSEPH SHUMATE  08/19/2024  08/19/2024  SANFORD TO FAYETTEVILLE, FOUR OAKS AND RETURN                                  $107.87
+                  09/10/2024  SAMUEL JOSEPH SHUMATE  08/20/2024  08/20/2024  STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION                                                             $17.38
+                                                                             PFAFFTOWN TO SILER CITY, PITTSBORO AND RETURN                                    $68.94
+                                                                             STAFF TRANSPORTATION                                                             $12.37
+                                                                             SANFORD TO GOLDSBORO, CLINTON AND RETURN                                         $62.51
+                                                                             STAFF TRANSPORTATION
+                                                                             PFAFFTOWN TO THOMASVILLE AND RETURN
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             PFAFFTOWN TO CHAPEL HILL, HILLSBOROUGH AND RETURN
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO FAYETTEVILLE, SAINT PAULS, ROSEBORO, STEDMAN AND
+                                                                             RETURN
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             PFAFFTOWN TO MEBANE, GRAHAM, BURLINGTON AND RETURN
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO TROY AND RETURN
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                             DATES
+DBRN20240566                                                                      DAYTON TO CINCINNATI AND RETURN                                                 $52.26
+DBRN20240571                                              START       END         STAFF TRANSPORTATION                                                          $158.38
+DBRN20240572                                                                      DAYTON TO LIMA AND RETURN
+                  04/25/2024  KAMERON W ANDERSON          04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                            $11.83
+DBRN20240578      04/29/2024  ANTHONY L ELIOPOULOS        04/10/2024  04/10/2024  COLUMBUS TO CINCINNATI AND RETURN                                             $185.72
+DBRN20240579      04/29/2024  ANTHONY L ELIOPOULOS        04/11/2024  04/11/2024  STAFF PER DIEM
+DBRN20240580                                                                      STAFF TRANSPORTATION                                                            $89.78
+DBRN20240581      04/26/2024  EMMA MARIE SPEYER           04/16/2024  04/16/2024  COLUMBUS TO CLEVELAND AND RETURN                                                $49.58  B-693
+DBRN20240582      04/26/2024  EMMA MARIE SPEYER           04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                          $218.10
+DBRN20240583      04/30/2024  CITIBANK - TRAVEL CBA CARD  03/05/2024  03/05/2024  COLUMBUS TO BELLEFONTAINE AND RETURN                                          $450.02
+DBRN20240584      05/01/2024  CITIBANK - TRAVEL CBA CARD  04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                            $31.49
+DBRN20240585      04/30/2024  JORDAN T PENNELL            04/17/2024  04/17/2024  COLUMBUS TO NEWARK AND RETURN                                                   $93.80
+DBRN20240586      05/01/2024  KALEB KNOWLTON              04/19/2024  04/19/2024  SENATOR TRANSPORTATION                                                          $81.74
+DBRN20240587      05/01/2024  KALEB KNOWLTON              04/17/2024  04/17/2024  AIRFARE FOR SEN BROWN CLEVELAND TO WASHINGTON DC                              $206.36
+DBRN20240588      05/03/2024  KALEB KNOWLTON              04/11/2024  04/11/2024  SENATOR TRANSPORTATION                                                          $85.76
+DBRN20240589      05/01/2024  KALEB KNOWLTON              04/10/2024  04/10/2024  AIRFARE FOR SEN BROWN CLEVELAND TO WASHINGTON DC                              $270.68
+DBRN20240590      05/03/2024  KALEB KNOWLTON              04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                          $218.42
+DBRN20240591      05/03/2024  KALEB KNOWLTON              03/27/2024  03/27/2024  YOUNGSTOWN TO WARREN AND RETURN                                               $112.56
+                  05/03/2024  KALEB KNOWLTON              03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                            $36.85
+DBRN20240592      05/02/2024  JORDAN T PENNELL            04/23/2024  04/23/2024  MINGO JUNCTION TO BYESVILLE AND RETURN
+DBRN20240593      05/03/2024  JAMES T HUFFER-COLE         04/22/2024  04/22/2024  STAFF TRANSPORTATION                                                             $8.18
+DBRN20240594                                                                      MINGO JUNCTION TO NEW PHILADELPHIA AND RETURN                                   $95.14
+DBRN20240595      05/01/2024  JAMES T HUFFER-COLE         04/10/2024  04/10/2024  STAFF TRANSPORTATION                                                            $35.51
+DBRN20240596      05/01/2024  JAMES T HUFFER-COLE         04/11/2024  04/11/2024  MINGO JUNCTION TO JACKSONVILLE, ATHENS AND RETURN                               $37.52
+                  05/01/2024  JAMES T HUFFER-COLE         04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                            $85.76
+DBRN20240597      05/02/2024  KAMERON W ANDERSON          04/23/2024  04/23/2024  MINGO JUNCTION TO WOODSFIELD AND RETURN                                         $38.19
+                  05/21/2024  CITIBANK - TRAVEL CBA CARD  04/09/2024  04/12/2024  STAFF TRANSPORTATION                                                          $612.70
+                                                                                  MINGO JUNCTION TO WAVERLY AND RETURN
+                  06/12/2024  SARAH R BENZING             04/09/2024  04/12/2024  STAFF TRANSPORTATION                                                            $90.79
+                                                                                  MINGO JUNCTION TO ATHENS AND RETURN                                             $49.19
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINGO JUNCTION TO COSHOCTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  YOUNGSTOWN TO AUSTINTOWN, VIENNA AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LOUISVILLE TO MANSFIELD AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LOUISVILLE TO AKRON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LOUISVILLE TO AKRON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LOUISVILLE TO ASHLAND AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DAYTON TO CINCINNATI AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR S BENZING WASHINGTON DC TO CINCINNATI, CLEVELAND
+                                                                                  AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+

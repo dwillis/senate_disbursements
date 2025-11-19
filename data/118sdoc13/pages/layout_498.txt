@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                              DATES
+DBAL20240387                                                                       LADYSMITH TO EAU CLAIRE AND RETURN                                                $165.09
+DBAL20240388                                               START       END         SENATOR TRANSPORTATION                                                              $90.10
+DBAL20240391                                                                       AIRFARE FOR SEN BALDWIN MADISON TO WASHINGTON DC                                    $85.15
+DBAL20240392      07/01/2024  CITIBANK - SENATOR IBA CARD  06/17/2024  06/17/2024  SENATOR TRANSPORTATION                                                              $30.39
+DBAL20240393      07/01/2024  CITIBANK - SENATOR IBA CARD  06/19/2024  06/19/2024  AIRFARE FOR SEN BALDWIN MADISON TO WASHINGTON DC
+DBAL20240396      07/03/2024  REBECCA E BURETTA            06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                              $116.59
+DBAL20240397      07/03/2024  REBECCA E BURETTA            06/14/2024  06/14/2024  MILWAUKEE TO FOND DU LAC AND RETURN                                                 $82.53
+DBAL20240400      07/03/2024  REBECCA E BURETTA            06/19/2024  06/19/2024  STAFF TRANSPORTATION                                                                $93.66
+DBAL20240401      07/05/2024  ANNA BERNICE RINGSTAD        06/25/2024  06/25/2024  MILWAUKEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $87.77
+DBAL20240402      07/05/2024  ANNA BERNICE RINGSTAD        06/26/2024  06/26/2024  STAFF TRANSPORTATION
+                  07/10/2024  JUSTIN D WILLIAMS            06/27/2024  06/27/2024  MILWAUKEE TO MALONE, BRANDON AND RETURN                                           $336.67
+DBAL20240403      07/15/2024  JUSTIN D WILLIAMS            05/01/2024  06/28/2024  STAFF TRANSPORTATION                                                              $564.61
+DBAL20240406      07/10/2024  GREGG A WAVRUNEK             06/18/2024  06/26/2024  LADYSMITH TO EAU CLAIRE AND RETURN
+DBAL20240407                                                                       STAFF TRANSPORTATION                                                                $32.09
+DBAL20240408      07/10/2024  GREGG A WAVRUNEK             06/21/2024  06/21/2024  LADYSMITH TO CABLE AND RETURN                                                       $35.96  B-480
+DBAL20240409      07/15/2024  REBECCA E BURETTA            06/25/2024  06/25/2024  STAFF TRANSPORTATION                                                                $30.39
+DBAL20240414      07/15/2024  REBECCA E BURETTA            06/26/2024  06/26/2024  MADISON TO WISCONSIN DELLS, BARABOO AND RETURN                                      $29.01
+DBAL20240415      07/16/2024  REBECCA E BURETTA            06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                                $83.18
+DBAL20240416      07/15/2024  ANNA BERNICE RINGSTAD        07/01/2024  07/01/2024  MADISON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $165.09
+DBAL20240417      07/15/2024  CITIBANK - SENATOR IBA CARD  07/07/2024  07/07/2024  STAFF TRANSPORTATION                                                                $99.56
+DBAL20240418      07/18/2024  JEAN E BRODY                 06/25/2024  06/25/2024  ONALASKA TO THE FOLLOWING AND RETURN: 6/18 BALDWIN, HUDSON; 6/19                    $77.94
+DBAL20240419      07/18/2024  ANNA BERNICE RINGSTAD        07/09/2024  07/09/2024  HUDSON, RIVER FALLS; 6/25 CASHTON, TOMAH; 6/26 WISCONSIN RAPIDS,                  $173.57
+DBAL20240424      07/19/2024  ANNA BERNICE RINGSTAD        07/10/2024  07/10/2024  VIROQUA                                                                             $19.51
+DBAL20240425      07/22/2024  REBECCA E BURETTA            07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                                $47.16
+DBAL20240426      07/22/2024  REBECCA E BURETTA            07/11/2024  07/11/2024  LA CROSSE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $104.80
+                  07/29/2024  ANNA BERNICE RINGSTAD        07/17/2024  07/17/2024  STAFF TRANSPORTATION                                                                $70.08
+                  07/23/2024  ANNA BERNICE RINGSTAD        07/18/2024  07/18/2024  MILWAUKEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $226.63
+                  07/29/2024  JEAN E BRODY                 07/17/2024  07/17/2024  STAFF TRANSPORTATION
+                                                                                   MILWAUKEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MILWAUKEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   LADYSMITH TO EAU CLAIRE AND RETURN
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN BALDWIN MADISON TO WASHINGTON DC
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MADISON TO MILWAUKEE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   LADYSMITH TO CLAYTON, ALMENA AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   LADYSMITH TO BAYFIELD AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MILWAUKEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MILWAUKEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   LADYSMITH TO MENOMONIE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   LADYSMITH TO THORP, STANLEY AND RETURN
+                                                                                   STAFF TRANSPORTATION
+

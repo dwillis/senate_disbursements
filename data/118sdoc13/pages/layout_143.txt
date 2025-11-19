@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE                        PAYEE NAME  OBLIGATION/SERVICE                                                DESCRIPTION  AMOUNT ($)
+              POSTED                                               DATES
+                      VU, JENNIFER A                                        SENIOR SOFTWARE ENGINEER                                               $85,949.42
+                      BENJAMIN, KATHRYN A               START  END          PRINCIPAL QUALITY ASSURANCE ANALYST                                    $87,369.86
+                      ZHANG, HAIJIA                                         SENIOR SOFTWARE ENGINEER                                               $80,382.26
+                      CHEN, WEIWEN                                          SENIOR SOFTWARE ENGINEER                                               $80,382.26  B-125
+                      CHOWDHERY, MD MIRAN                                   PRINCIPAL SOFTWARE ENGINEER                                            $87,726.08
+                      WINDSOR, EMILY RENEE                                  SENIOR SYSTEMS ENGINEER                                                $73,565.01
+                      TAN, BRIAN W                                          SOFTWARE ENGINEER                                                      $61,923.62
+                      WHARTON, ROBERT S                                     SENIOR SYSTEMS ENGINEER                                                $80,897.29
+                      RYE, STEVEN B                                         PRINCIPAL SYSTEMS ENGINEER                                             $88,245.13
+                      GOLDING, ANTHONY C                                    SENIOR SYSTEMS ENGINEER                                                $80,898.26
+                      CILLO, NORMAN                                         PRINCIPAL SYSTEMS ENGINEER                                             $87,647.49
+                      HICKSON, CHARLES A                                    PRINCIPAL SYSTEMS ENGINEER                                             $76,107.26
+                      ZENG, YU                                              SYSTEMS ENGINEER                                                       $74,188.69
+                      LABRADA, RUBEN                                        TECHNOLOGY SOLUTIONS ARCHITECT                                         $94,657.56
+                      MONZON, RICHARD                                       SENIOR IT MANAGER                                                      $94,357.00
+                      LEWIS, BRYAN B                                        SENIOR SYSTEMS ENGINEER                                                $68,392.76
+                      SHUNEH, ELVIS C                                       SENIOR SYSTEMS ENGINEER                                                $79,669.47
+                      VONTZ, CHRISTOPHER M                                  PRINCIPAL SYSTEMS ENGINEER                                             $90,244.88
+                      KEARNS, KEVIN W                                       SENIOR SYSTEMS ENGINEER                                                $85,948.67
+                      SINGH, NITIN                                          SENIOR SYSTEMS ENGINEER                                                $81,156.26
+                      THOMAS, KENNETH C                                     SENIOR SYSTEMS ENGINEER                                                $79,599.80
+                      SPIEGEL, VERONIKA                                     SENIOR IT MANAGER                                                      $85,994.85
+                      REUMONT, JOHN K JR                                    SENIOR SYSTEMS ENGINEER                                                $67,535.56
+                      HARRIMAN, CHAD H                                      PRINCIPAL SYSTEMS ENGINEER                                             $88,539.50
+                      GARRISON, RICHARD E                                   SENIOR IT MANAGER                                                      $95,640.25
+                      CURTIS, MICHELE D                                     SYSTEMS ENGINEER                                                       $74,377.44
+                      BACH-HUYNH, HAI TRIEU                                 PRINCIPAL SYSTEMS ENGINEER                                             $86,298.35
+                      PHAM, DUNG N                                          SENIOR SYSTEMS ENGINEER                                                $81,639.77
+                      OLSON, SUZANNE H                                      SENIOR SYSTEMS ENGINEER                                                $80,381.77
+                      SWANNER, SAMUEL T                                     SYSTEMS ENGINEER TO MAY 15                                             $14,522.99
+                      LING, FENG                                            SENIOR SYSTEMS ENGINEER                                                $81,155.29
+                      PORTER, MARK                                          SENIOR IDENTITY AND ACCESS MANAGEMENT SPECIALIST                       $79,074.10
+                      BEASLEY, JOHN W                                       PRINCIPAL IAM SOFTWARE ENGINEER                                        $77,724.13
+                      HU, KEVIN X                                           PRINCIPAL SYSTEMS ENGINEER                                             $89,691.63
+                      TOMAS, ANTONIO A                                      PRINCIPAL SYSTEMS ENGINEER                                             $82,656.37
+                      RICHARD, SHAWN D                                      SENIOR IT MANAGER                                                      $94,658.04
+                      MCCRAY, JAMES A JR                                    TELECOM ASSISTANCE CENTER SPECIALIST                                   $63,808.52
+                      WILLIAMS, RODERICK D                                  TELECOM ASSISTANCE CENTER SPECIALIST                                   $46,712.19
+                      SANDMAN, INGRID ANNE                                  TELECOM ASSISTANCE CENTER SENIOR SPECIALIST                            $63,878.11
+                      THOMAS, NADINE A                                      TELECOM ASSISTANCE CENTER SPECIALIST                                   $53,726.68
+                      PUGH, STEPHEN B SR                                    TELECOM ASSISTANCE CENTER SENIOR SPECIALIST                            $63,850.05
+                      TORRES, NICHOLAS J                                    TELECOM ASSISTANCE CENTER SPECIALIST                                   $53,981.42
+                      SHAW, BRIAN L                                         TELECOM ASSISTANCE CENTER SPECIALIST                                   $48,901.51
+                      MYERS, CONNOR JOSEPH                                  TELECOM ASSISTANCE CENTER SPECIALIST                                   $50,415.39
+                      BARCLAY, ERICA S                                      CYBERSECURITY PRINCIPAL SPECIALIST TO MAY 31                           $30,416.24
+                      VIERNES, ETHAN K                                      CYBERSECURITY ARCHITECT                                                $92,980.52
+                      COOPER, HAROLD JR                                     CYBERSECURITY PRINCIPAL SPECIALIST                                     $83,693.44
+                      BELTRAN, JUAN MANUEL JR                               CYBERSECURITY PRINCIPAL SPECIALIST                                     $84,610.76
+                      PIPES, LEONARD LENWOOD                                CYBERSECURITY PRINCIPAL SPECIALIST                                     $85,437.48
+                      ASIF, SHAHZAD                                         CYBERSECURITY PRINCIPAL SPECIALIST                                     $79,185.37
+

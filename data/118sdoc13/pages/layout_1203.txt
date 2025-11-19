@@ -1,0 +1,31 @@
+DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE  DESCRIPTION                                                          AMOUNT ($)
+              POSTED                                               DATES
+                                                                                                                                                             $90,208.86
+                                                        START       END
+                                                                                                                                                                 $137.50
+DFET20240346  05/13/2024  BOBBY J MAGGIO JR             04/17/2024                        AIRFARE FOR SEN FETTERMAN PITTSBURGH TO WASHINGTON DC                  $673.18   B-1185
+DFET20240477  06/07/2024  JAMES A HARNETT               05/28/2024  TRAVEL AND TRANSPORTATION OF PERSONS
+DFET20240731  09/27/2024  REBECCA K COUNTESS            09/11/2024                                                                                                 $90.00
+                                                                     04/18/2024 TRAIN/ORIENT/CONFERENCE FEES                                                     $900.68
+0002852736    04/18/2024  SERGEANT AT ARMS              02/01/2024   05/31/2024 TRAIN/ORIENT/CONFERENCE FEES
+0002854543    05/23/2024  SERGEANT AT ARMS              04/01/2024   09/11/2024 TRAIN/ORIENT/CONFERENCE FEES                                                     $199.99
+0002854562    05/23/2024  SERGEANT AT ARMS              04/01/2024  OTHER CONTRACTUAL SERVICES                                                                     $74.84
+0002855948    06/27/2024  SERGEANT AT ARMS              05/01/2024                                                                                                 $20.00
+0002855990    06/28/2024  SERGEANT AT ARMS              05/01/2024   02/29/2024 VOICE & DATA COMM EQUIPMENT
+0002857404    08/07/2024  SERGEANT AT ARMS              06/01/2024   04/30/2024 SOFTWARE LICENSE                                                                 $309.74
+0002859873    09/25/2024  SERGEANT AT ARMS              08/01/2024   04/30/2024 SOFTWARE LICENSE                                                                 $374.98
+0002859976    09/25/2024  SERGEANT AT ARMS              08/01/2024   05/31/2024 SOFTWARE LICENSE                                                                 $464.89
+DFET20240310  04/09/2024  CITIBANK - PURCHASE CARD      03/20/2024   05/31/2024 VOICE & DATA COMM EQUIPMENT
+DFET20240437  05/28/2024  PERATON INC.                  04/15/2024   06/30/2024 VOICE & DATA COMM EQUIPMENT                                                        $41.58
+DFET20240516  06/25/2024  PERATON INC.                  05/10/2024   08/31/2024 SOFTWARE LICENSE                                                                 $449.90
+DFET20240517  06/26/2024  PERATON INC.                  05/01/2024   08/31/2024 SOFTWARE LICENSE                                                                 $263.94
+                                                                     03/20/2024 AUDIO, VISUAL EQUIPMENT                                                       $1,449.91
+DFET20240586  07/25/2024  PERATON ENTERPRISE SOLUTIONS  05/20/2024   04/15/2024 IT EQUIPMENT                                                                  $1,343.11
+DFET20240627  08/15/2024  PERATON ENTERPRISE SOLUTIONS  07/16/2024   05/10/2024 IT EQUIPMENT                                                                     $149.10
+                                                                     05/01/2024 ADAPTIVE EQUIPMENT                                                            $2,577.87
+                                                                                                                                                              $1,449.91
+                                                                                          AUDIO, VISUAL EQUIPMENT                                                $228.24
+                                                                     05/20/2024 IT EQUIPMENT                                                                  $9,398.00
+                                                                     07/16/2024 ADAPTIVE EQUIPMENT
+                                                                    ACQUISITION OF ASSETS
+

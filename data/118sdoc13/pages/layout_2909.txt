@@ -1,0 +1,46 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE  DESCRIPTION                                                                   AMOUNT ($)
+DIAF20240109       POSTED     JACQUELINE A BISILLE                         DATES
+                                                                                                                                                                                    $28.95
+                  09/25/2024                                    START       END                                                                                                   $751.23
+                                                                                                                                                                                  $896.64
+DIAF20240110      09/27/2024  CHRISTIE M KIMURA                 08/25/2024   09/07/2024 STAFF INCIDENTALS
+DIAF20240116      09/27/2024  CITIBANK - TRAVEL CBA CARD                                          STAFF PER DIEM                                                                    $31.81
+DIAF20240117      09/25/2024  CITIBANK - TRAVEL CBA CARD        08/24/2024                        STAFF TRANSPORTATION                                                         $1,496.80
+                                                                                                  ARLINGTON VA TO WASHINGTON DC, KODIAK AK, PHOENIX AZ,
+DIAF20240055      04/10/2024  COURT REPORTING SERVICES INC      08/25/2024                        WASHINGTON AND RETURN                                                        $1,037.29    B-2-118
+DIAF20240067      05/10/2024  CAROLINE N ACKERMAN                                                                                                                                   $60.00
+DIAF20240068      05/16/2024  COURT REPORTING SERVICES INC      08/29/2024   09/08/2024 STAFF PER DIEM
+DIAF20240069      05/16/2024  COURT REPORTING SERVICES INC                                        STAFF TRANSPORTATION                                                            $869.05
+DIAF20240074      05/21/2024  COURT REPORTING SERVICES INC      03/20/2024                        WASHINGTON DC TO KAHULUI HI AND RETURN                                            $30.00
+DIAF20240077      06/04/2024  COURT REPORTING SERVICES INC      04/08/2024
+DIAF20240082      07/01/2024  COURT REPORTING SERVICES INC      05/01/2024   08/28/2024 STAFF TRANSPORTATION                                                                  $42,368.31
+DIAF20240086      07/24/2024  COURT REPORTING SERVICES INC      05/01/2024                        TICKET FEES
+DIAF20240092      08/06/2024  COURT REPORTING SERVICES INC      05/08/2024                        AIRFARE FOR J BISILLE WASHINGTON DC TO KODIAK AK TO PHOENIX AZ                  $909.00
+DIAF20240093      08/06/2024  COURT REPORTING SERVICES INC      05/22/2024                                                                                                          $75.00
+DIAF20240113      09/28/2024  COURT REPORTING SERVICES INC      06/12/2024   09/04/2024 STAFF TRANSPORTATION
+DIAF20240114      09/28/2024  COURT REPORTING SERVICES INC      07/10/2024                        TICKET FEES                                                                     $200.00
+                                                                07/25/2024                        AIRFARE FOR S OHARE WASHINGTON DC TO ANCHORAGE AK AND RETURN                    $252.00
+0002853791        05/15/2024  SERGEANT AT ARMS                  07/25/2024                                                                                                        $441.00
+0002853954        05/14/2024  SERGEANT AT ARMS                  09/18/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                                  $558.00
+0002853971        05/15/2024  SERGEANT AT ARMS                  09/18/2024                                                                                                        $405.00
+0002853999        05/14/2024  SERGEANT AT ARMS                               03/20/2024 STENOGRAPHIC SERVICES                                                                     $360.00
+0002854009        05/14/2024  SERGEANT AT ARMS                  03/01/2024   04/10/2024 TRAIN/ORIENT/CONFERENCE FEES                                                              $200.00
+                                                                03/01/2024   05/01/2024 STENOGRAPHIC SERVICES                                                                     $378.00
+                                                                03/01/2024   05/01/2024 STENOGRAPHIC SERVICES                                                                     $200.00
+                                                                03/01/2024   05/08/2024 STENOGRAPHIC SERVICES                                                                     $279.00
+                                                                03/01/2024   05/22/2024 STENOGRAPHIC SERVICES                                                                  $4,257.00
+                                                                             06/12/2024 STENOGRAPHIC SERVICES
+                                                                             07/10/2024 STENOGRAPHIC SERVICES                                                                     $400.00
+                                                                             07/25/2024 STENOGRAPHIC SERVICES                                                                  $2,538.30
+                                                                             07/25/2024 STENOGRAPHIC SERVICES                                                                  $4,100.00
+                                                                             09/18/2024 STENOGRAPHIC SERVICES
+                                                                             09/18/2024 STENOGRAPHIC SERVICES                                                                     $400.00
+                                                                            OTHER CONTRACTUAL SERVICES                                                                         $5,491.00
+                                                                                                                                                                              $12,929.30
+                                                                             03/31/2024 IT EQUIPMENT
+                                                                             03/31/2024 SOFTWARE LICENSE
+                                                                             03/31/2024 IT EQUIPMENT
+                                                                             03/31/2024 IT EQUIPMENT
+                                                                             03/31/2024 SOFTWARE LICENSE
+                                                                            ACQUISITION OF ASSETS
+

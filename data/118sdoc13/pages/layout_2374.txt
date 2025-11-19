@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                             DATES
+DSEM20240635                                                                      PHOENIX TO WASHINGTON DC AND RETURN                                        $820.20
+DSEM20240636                                              START       END         STAFF TRANSPORTATION                                                       $644.20
+DSEM20240637                                                                      AIRFARE FOR C SAUDER PHOENIX TO WASHINGTON DC AND RETURN                   $644.20
+DSEM20240638      06/27/2024  CITIBANK - TRAVEL CBA CARD  06/09/2024  06/12/2024  STAFF TRANSPORTATION                                                       $644.20
+DSEM20240640      06/25/2024  CITIBANK - TRAVEL CBA CARD  06/08/2024  06/13/2024  AIRFARE FOR A KENNEDY PHOENIX TO WASHINGTON DC AND RETURN                  $245.89
+DSEM20240641      06/25/2024  CITIBANK - TRAVEL CBA CARD  06/08/2024  06/13/2024  STAFF TRANSPORTATION
+DSEM20240642      06/25/2024  CITIBANK - TRAVEL CBA CARD  06/09/2024  06/13/2024  AIRFARE FOR L LOZANO PHOENIX TO WASHINGTON DC AND RETURN                     $93.80
+                  06/24/2024  MICHAEL L DESPAIN           03/04/2024  06/05/2024  STAFF TRANSPORTATION                                                       $110.31
+DSEM20240643      06/28/2024  VICTORIA OKULA              06/13/2024  06/13/2024  AIRFARE FOR T SCHULTE PHOENIX TO WASHINGTON DC AND RETURN                  $860.80
+DSEM20240644      06/28/2024  TRAVIS JAMES SCHULTE        06/09/2024  06/13/2024  STAFF TRANSPORTATION
+DSEM20240645                                                                      WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $49.81
+DSEM20240646      06/28/2024  TRAVIS JAMES SCHULTE        05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                       $296.81   B-2337
+DSEM20240647      07/01/2024  TRAVIS JAMES SCHULTE        05/03/2024  05/17/2024  PHOENIX TO ELOY AND RETURN
+DSEM20240648      08/01/2024  BIANCA M LOPEZ              04/24/2024  04/24/2024  STAFF INCIDENTALS                                                            $78.52
+DSEM20240651      07/01/2024  CITIBANK - TRAVEL CBA CARD  06/17/2024  06/20/2024  STAFF PER DIEM                                                               $34.09
+DSEM20240652      06/28/2024  CITIBANK - TRAVEL CBA CARD  06/03/2024  06/21/2024  STAFF TRANSPORTATION                                                       $468.20
+DSEM20240653      07/01/2024  CITIBANK - TRAVEL CBA CARD  06/13/2024  06/13/2024  PHOENIX TO WASHINGTON DC AND RETURN                                        $855.19
+                  07/02/2024  CITIBANK - TRAVEL CBA CARD  06/19/2024  06/22/2024  STAFF TRANSPORTATION                                                       $234.10
+DSEM20240654      07/01/2024  VICTORIA OKULA              06/20/2024  06/20/2024  GILBERT TO YUMA AND RETURN                                                 $644.20
+                  07/01/2024  BIANCA M LOPEZ              06/18/2024  06/18/2024  STAFF TRANSPORTATION                                                         $16.08
+DSEM20240655                                                                      PHOENIX OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $53.86
+DSEM20240656      07/05/2024  TRAVIS JAMES SCHULTE        06/17/2024  06/20/2024  STAFF TRANSPORTATION                                                       $176.88
+                                                                                  PHOENIX TO LITCHFIELD PARK AND RETURN                                      $123.45
+DSEM20240657      07/01/2024  BENJAMIN JAMES STEWART      06/12/2024  06/13/2024  STAFF TRANSPORTATION                                                       $934.60
+DSEM20240658      07/03/2024  COURTNEY N SAUDER           06/09/2024  06/11/2024  AIRFARE FOR T SCHULTE PHOENIX TO WASHINGTON DC AND RETURN                    $46.36
+DSEM20240659                                                                      STAFF TRANSPORTATION                                                         $45.56
+                  07/01/2024  SARAH E BLACHE              06/07/2024  06/07/2024  AIRFARE FOR J HARO TUCSON TO WASHINGTON DC AND RETURN                        $82.30
+                  07/01/2024  SARAH E BLACHE              05/24/2024  05/24/2024  STAFF TRANSPORTATION                                                       $516.00
+                  07/01/2024  SARAH E BLACHE              05/22/2024  05/22/2024  AIRFARE FOR D WINKLER WASHINGTON DC TO PHOENIX                               $34.84
+                                                                                  STAFF TRANSPORTATION                                                         $37.52
+                                                                                  AIRFARE FOR D WINKLER WASHINGTON DC TO PHOENIX AND RETURN                    $53.60
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PHOENIX OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LITCHFIELD PARK TO TUCSON AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PHOENIX OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BUCKEYE TO PHOENIX AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BUCKEYE TO GLENDALE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+

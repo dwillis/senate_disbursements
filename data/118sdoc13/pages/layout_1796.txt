@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME              OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+              POSTED                                         DATES
+                                                                          LOUISVILLE TO ELIZABETHTOWN, CAVE CITY, HORSE CAVE, BROWNSVILLE,                    $19.88
+                                                  START       END         BOWLING GREEN, OWENSBORO, HENDERSON AND RETURN                                      $24.38
+                                                                          STAFF TRANSPORTATION                                                                $49.12
+DMCN20240710  05/22/2024  CHONGYANG GE            04/08/2024  04/08/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      B-1759
+DMCN20240711  05/22/2024  JOHN D SCHUMACHER       04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                                 $7.86
+DMCN20240718  05/23/2024  MORGAN ALVEY            05/09/2024  05/09/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $113.31
+DMCN20240719  05/23/2024  MORGAN ALVEY            05/10/2024  05/10/2024  STAFF TRANSPORTATION
+DMCN20240720  05/23/2024  MORGAN ALVEY            05/13/2024  05/13/2024  PADUCAH TO GILBERTSVILLE AND RETURN                                                 $22.27
+DMCN20240724  05/24/2024  STEPHANIE H NELSON      05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                                $55.02
+DMCN20240725  05/24/2024  STEPHANIE H NELSON      05/15/2024  05/15/2024  PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                    $15.72
+DMCN20240726  05/24/2024  STEPHANIE H NELSON      05/16/2024  05/16/2024  STAFF TRANSPORTATION                                                              $153.05
+DMCN20240727  06/11/2024  CHONGYANG GE            04/01/2024  04/07/2024  PADUCAH TO HOPKINSVILLE AND RETURN                                                $492.24
+                                                                          STAFF TRANSPORTATION                                                                $13.25
+DMCN20240731  06/03/2024  ROBBIN MORRISON TAYLOR  05/15/2024  05/16/2024  RICHMOND TO WINCHESTER AND RETURN                                                 $161.40
+                                                                          STAFF TRANSPORTATION                                                              $285.58
+DMCN20240732  05/29/2024  STEPHANIE H NELSON      05/20/2024  05/20/2024  LEXINGTON TO VERSAILLES TO RICHMOND
+DMCN20240733  05/29/2024  STEPHANIE H NELSON      05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                                $10.48
+DMCN20240734  05/29/2024  STEPHANIE H NELSON      05/23/2024  05/23/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $36.68
+DMCN20240735  05/29/2024  MORGAN ALVEY            05/15/2024  05/15/2024  STAFF PER DIEM                                                                      $53.71
+DMCN20240736  05/29/2024  MORGAN ALVEY            05/16/2024  05/16/2024  STAFF TRANSPORTATION                                                                $29.47
+DMCN20240737  05/29/2024  MORGAN ALVEY            05/17/2024  05/17/2024  WASHINGTON DC TO LOUISVILLE AND RETURN                                              $55.02
+DMCN20240738  05/29/2024  MORGAN ALVEY            05/20/2024  05/20/2024  STAFF INCIDENTALS                                                                   $38.64
+DMCN20240739  05/29/2024  MORGAN ALVEY            05/21/2024  05/21/2024  STAFF PER DIEM                                                                      $68.77
+DMCN20240740  05/29/2024  MORGAN ALVEY            05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                                $49.12
+DMCN20240745  06/12/2024  STEPHANIE H NELSON      05/29/2024  05/29/2024  LOUISVILLE TO FRANKFORT, RICHMOND, LONDON, CORBIN, MIDDLESBORO
+DMCN20240746  06/12/2024  STEPHANIE H NELSON      05/30/2024  05/30/2024  AND RETURN                                                                           $7.86
+DMCN20240747  06/12/2024  STEPHANIE H NELSON      06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                                $24.89
+                                                                          IN AND AROUND RICHMOND                                                              $39.95
+                                                                          STAFF TRANSPORTATION                                                                $17.03
+                                                                          LEXINGTON TO WINCHESTER AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          LEXINGTON TO FRANKFORT AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          PADUCAH TO CALVERT CITY AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          PADUCAH TO COLUMBUS AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          PADUCAH TO MAYFIELD AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          PADUCAH TO PRINCETON AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          PADUCAH TO ARLINGTON AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                          STAFF TRANSPORTATION
+                                                                          LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                          STAFF TRANSPORTATION
+                                                                          LEXINGTON TO FRANKFORT AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

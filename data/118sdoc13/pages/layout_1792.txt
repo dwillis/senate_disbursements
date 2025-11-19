@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DMCN20240590                  STEPHANIE H NELSON                                        STAFF TRANSPORTATION                                                             $37.33
+DMCN20240592      04/29/2024  STEPHANIE H NELSON                START       END         LEXINGTON TO RICHMOND AND RETURN                                                 $47.81
+DMCN20240593      05/01/2024  STEPHANIE H NELSON                                        STAFF TRANSPORTATION                                                             $37.99
+DMCN20240594      05/03/2024  STEPHANIE H NELSON                04/22/2024  04/22/2024  RICHMOND TO LANCASTER AND RETURN                                                 $12.44
+DMCN20240595      05/03/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                             $48.47
+DMCN20240596      05/02/2024  MORGAN ALVEY                      04/23/2024  04/23/2024  LEXINGTON TO FRANKFORT AND RETURN
+DMCN20240597      05/02/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                              $7.86
+DMCN20240598      05/07/2024  MORGAN ALVEY                      04/24/2024  04/24/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $143.44
+DMCN20240599      05/02/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION
+DMCN20240600      05/03/2024  MORGAN ALVEY                      04/25/2024  04/25/2024  PADUCAH TO BENTON, GRAND RIVERS AND RETURN                                       $52.40
+DMCN20240601      05/03/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                              $2.62
+DMCN20240602      05/03/2024  MORGAN ALVEY                      04/03/2024  04/03/2024  PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DMCN20240603      05/03/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                             $68.12
+DMCN20240604      05/03/2024  MORGAN ALVEY                      04/05/2024  04/05/2024  PADUCAH TO DRAKESBORO, GREENVILLE AND RETURN                                     $67.46
+DMCN20240605      05/03/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                             $40.61
+                  05/09/2024                                    04/10/2024  04/10/2024  PADUCAH TO EDDYVILLE AND RETURN                                                  $38.64
+DMCN20240606                  TERRY A CARMACK                                           STAFF TRANSPORTATION                                                             $67.46
+                  05/14/2024                                    04/11/2024  04/11/2024  PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $14.51
+DMCN20240608                  DONNA BAKER MCCLURE                                       STAFF TRANSPORTATION                                                           $298.20
+DMCN20240609      05/07/2024  DONNA BAKER MCCLURE               04/12/2024  04/12/2024  PADUCAH TO MURRAY AND RETURN                                                   $179.47
+DMCN20240610      05/07/2024  DONNA BAKER MCCLURE                                       STAFF TRANSPORTATION
+DMCN20240611      05/10/2024  DONNA BAKER MCCLURE               04/16/2024  04/16/2024  PADUCAH TO FULTON AND RETURN                                                     $74.67
+DMCN20240612      05/07/2024  DONNA BAKER MCCLURE                                       STAFF TRANSPORTATION                                                             $80.56
+DMCN20240613      05/07/2024  DONNA BAKER MCCLURE               04/18/2024  04/18/2024  PADUCAH TO WICKLIFFE AND RETURN                                                $125.76   B-1755
+DMCN20240614      05/07/2024  DONNA BAKER MCCLURE                                       STAFF TRANSPORTATION                                                             $64.84
+DMCN20240615      05/07/2024  DONNA BAKER MCCLURE               04/19/2024  04/19/2024  PADUCAH TO MAYFIELD AND RETURN                                                   $49.78
+                  05/10/2024                                                            STAFF TRANSPORTATION                                                             $27.51
+                                                                04/22/2024  04/22/2024  PADUCAH TO FULTON AND RETURN                                                     $33.40
+                                                                                        STAFF PER DIEM                                                                 $104.14
+                                                                04/23/2024  04/23/2024  STAFF TRANSPORTATION
+                                                                                        PADUCAH TO LOUISVILLE AND RETURN
+                                                                04/02/2024  04/02/2024  STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO DANVILLE, LIBERTY, PROSPECT, SHELBYVILLE AND
+                                                                03/27/2024  04/03/2024  RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/01/2024  04/01/2024  LONDON TO HARLAN AND RETURN
+                                                                04/03/2024  04/03/2024  STAFF TRANSPORTATION
+                                                                04/04/2024  04/04/2024  LONDON TO MIDDLESBORO AND RETURN
+                                                                04/05/2024  04/05/2024  STAFF TRANSPORTATION
+                                                                04/06/2024  04/06/2024  LONDON TO HAZARD, WILLIAMSBURG AND RETURN
+                                                                04/09/2024  04/09/2024  STAFF TRANSPORTATION
+                                                                04/10/2024  04/10/2024  LONDON TO WILLIAMSBURG AND RETURN
+                                                                04/11/2024  04/11/2024  STAFF TRANSPORTATION
+                                                                                        LONDON TO BEREA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONDON TO CORBIN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONDON TO MANCHESTER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONDON TO MOUNT VERNON, MANCHESTER, CORBIN AND RETURN
+

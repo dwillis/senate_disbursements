@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                             DATES
+DCSS20240586                                                                      ALEXANDRIA TO LAKE CHARLES TO ANACOCO                                        $40.00
+DCSS20240587                                              START       END         STAFF PER DIEM                                                               $94.90
+                                                                                  STAFF TRANSPORTATION                                                         $62.84
+DCSS20240588      08/09/2024  LEE K. TURNER               08/01/2024  08/01/2024  ANACOCO TO LAKE CHARLES TO ALEXANDRIA                                      $218.21
+DCSS20240589      08/09/2024  ANGELA D ROBERT                                     STAFF INCIDENTALS                                                          $127.40
+DCSS20240590                                              08/01/2024  08/02/2024  STAFF PER DIEM                                                             $109.20
+DCSS20240591                                                                      STAFF TRANSPORTATION                                                         $44.67
+DCSS20240592      08/09/2024  MARK MALONE                 07/08/2024  08/02/2024  MONROE TO SHREVEPORT, BOSSIER CITY AND RETURN                                $29.93
+                  08/12/2024  MARK MALONE                 08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                         $26.09
+DCSS20240595      08/12/2024  JAMES L QUINN               08/02/2024  08/02/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $61.76
+DCSS20240596      08/12/2024  JAMES L QUINN               08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                       $191.03
+DCSS20240597      08/14/2024  TOMMIE S SEATON             08/01/2024  08/02/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $175.50
+DCSS20240598                                                                      STAFF TRANSPORTATION                                                       $178.75
+DCSS20240599      08/13/2024  BRIAN P MCNABB              07/26/2024  07/26/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $202.80   B-890
+DCSS20240600      08/13/2024  BRIAN P MCNABB              07/17/2024  07/17/2024  STAFF TRANSPORTATION                                                         $23.40
+DCSS20240601      08/14/2024  BRIAN P MCNABB              07/24/2024  07/24/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $12.08
+                  08/13/2024  BRIAN P MCNABB              07/03/2024  07/03/2024  STAFF INCIDENTALS                                                          $187.20
+DCSS20240602                                                                      STAFF PER DIEM                                                             $104.00
+DCSS20240603      08/13/2024  BRIAN P MCNABB              07/12/2024  07/12/2024  STAFF TRANSPORTATION                                                         $78.65
+                  08/14/2024  BRIAN P MCNABB              07/10/2024  07/10/2024  ALEXANDRIA TO BOSSIER CITY AND RETURN                                        $25.42
+                  08/13/2024  BRIAN P MCNABB              07/15/2024  07/16/2024  STAFF TRANSPORTATION                                                       $167.03
+                                                                                  BATON ROUGE TO MORGAN CITY, NEW ORLEANS AND RETURN                         $206.70
+                  08/13/2024  CITIBANK - TRAVEL CBA CARD  08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                       $207.10
+                  08/22/2024  SHAWN G HANSCOM             07/17/2024  07/18/2024  BATON ROUGE TO PINEVILLE, ALEXANDRIA AND RETURN                              $15.19
+                                                                                  STAFF TRANSPORTATION                                                       $151.81
+DCSS20240605      08/22/2024  SHAWN G HANSCOM             07/22/2024  07/22/2024  BATON ROUGE TO DENHAM SPRINGS AND RETURN                                   $237.44
+DCSS20240606      08/21/2024  SHAWN G HANSCOM             07/25/2024  07/25/2024  STAFF PER DIEM
+DCSS20240607      08/23/2024  SHAWN G HANSCOM             07/26/2024  07/26/2024  STAFF TRANSPORTATION                                                         $26.78
+                                                                                  BATON ROUGE TO TIOGA AND RETURN                                              $33.60
+                                                                                  STAFF TRANSPORTATION                                                       $102.18
+                                                                                  BATON ROUGE TO SAINT GABRIEL, INDEPENDENCE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BATON ROUGE TO OPELOUSAS AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BATON ROUGE TO LAKE CHARLES AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN CASSIDY WASHINGTON DC TO NEW ORLEANS
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BATON ROUGE TO PINEVILLE, ALEXANDRIA, NEW IBERIA, RAYNE,
+                                                                                  LAFAYETTE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BATON ROUGE TO PRAIRIEVILLE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BATON ROUGE TO GONZALES AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BATON ROUGE TO MORGAN CITY AND RETURN
+

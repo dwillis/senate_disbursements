@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                   POSTED                                                  DATES
+DERN20240695                  CLARKE SCANLON                                            STAFF TRANSPORTATION                                                                $56.28
+DERN20240696      08/29/2024  KOLBY RYAN DEWITT                 START       END         DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $26.80
+DERN20240697      08/29/2024  KOLBY RYAN DEWITT                                         STAFF TRANSPORTATION                                                                $29.48
+DERN20240698      08/29/2024  JOHN L HOLLINRAKE                 07/01/2024  07/31/2024  SIOUX CITY TO MOVILLE AND RETURN                                                    $65.66
+DERN20240699      08/29/2024  JOHN L HOLLINRAKE                                         STAFF TRANSPORTATION                                                                $14.61
+                  08/29/2024                                    07/31/2024  07/31/2024  SIOUX CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $207.66
+                                                                                        STAFF TRANSPORTATION                                                              $439.81
+                                                                07/01/2024  07/31/2024  DES MOINES TO PELLA AND RETURN
+                                                                                        STAFF INCIDENTALS                                                                   $42.88
+                                                                07/02/2024  07/02/2024  STAFF PER DIEM                                                                      $38.86
+                                                                                        STAFF TRANSPORTATION                                                                $48.91
+                                                                07/16/2024  07/17/2024  DES MOINES TO SIOUX CITY, CORRECTIONVILLE, SIOUX CITY, HAWARDEN,                  $136.68
+                                                                                        ROCK VALLEY, ROCK RAPIDS, SIOUX CENTER, SIOUX CITY TO ANKENY
+DERN20240700      08/29/2024  JOHN L HOLLINRAKE                 07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                              $117.25   B-1151
+DERN20240701      08/29/2024  JOHN L HOLLINRAKE                 07/31/2024  07/31/2024  DES MOINES TO AMES TO ANKENY                                                      $124.26
+DERN20240702      08/29/2024  JOHN L HOLLINRAKE                 07/01/2024  07/31/2024  STAFF TRANSPORTATION
+DERN20240703      08/28/2024  KIMBERLY A REEM                   08/02/2024  08/02/2024  ANKENY TO AMES AND RETURN                                                           $70.35
+                                                                                        STAFF TRANSPORTATION                                                                 $8.00
+DERN20240704      08/28/2024  KIMBERLY A REEM                   08/03/2024  08/03/2024  DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DERN20240705      08/29/2024  EMILY ANN GAARD COVEY             08/05/2024  08/06/2024  STAFF TRANSPORTATION                                                              $114.57
+DERN20240706      08/28/2024  KIMBERLY A REEM                   08/06/2024  08/06/2024  CEDAR RAPIDS TO ANAMOSA, WAPELLO, WASHINGTON, IOWA CITY AND                         $77.05
+DERN20240707      08/28/2024  KOLBY RYAN DEWITT                 08/07/2024  08/07/2024  RETURN                                                                              $23.88
+                                                                                        STAFF TRANSPORTATION
+DERN20240708      08/28/2024  KIMBERLY A REEM                   08/07/2024  08/07/2024  CEDAR RAPIDS TO DUBUQUE, MAQUOKETA AND RETURN                                     $199.00
+DERN20240709      08/28/2024  CLARKE SCANLON                    08/02/2024  08/03/2024  STAFF TRANSPORTATION                                                              $351.08
+                                                                                        8/5, 6 DES MOINES TO AMES AND RETURN
+DERN20240710      08/28/2024  CLARKE SCANLON                    08/05/2024  08/06/2024  STAFF TRANSPORTATION                                                              $251.25
+                                                                                        CEDAR RAPIDS TO MARENGO, VINTON AND RETURN
+DERN20240711      08/28/2024  KOLBY RYAN DEWITT                 08/08/2024  08/08/2024  STAFF PER DIEM                                                                    $231.15
+DERN20240712      08/29/2024  KIMBERLY A REEM                   08/08/2024  08/08/2024  STAFF TRANSPORTATION                                                                $51.38
+DERN20240719      08/29/2024  JOHN L HOLLINRAKE                 08/05/2024  08/05/2024  SIOUX CITY TO IDA GROVE, SAC CITY AND RETURN                                        $59.08
+DERN20240720      08/29/2024  JOHN L HOLLINRAKE                 08/06/2024  08/06/2024  STAFF TRANSPORTATION                                                                $63.55
+DERN20240721      08/29/2024  KOLBY RYAN DEWITT                 08/14/2024  08/14/2024  CEDAR RAPIDS TO IOWA CITY, KALONA, WELLMAN AND RETURN                               $56.95
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DES MOINES TO WAPELLO, WASHINGTON, IOWA CITY, DUBUQUE,
+                                                                                        MAQUOKETA, CHELSEA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DES MOINES TO OSKALOOSA, JOHNSTON, DES MOINES, AMES, MARENGO
+                                                                                        AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SIOUX CITY TO EMMETSBURG, ALGONA, LAKOTA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CEDAR RAPIDS TO WEST BRANCH AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DES MOINES TO AMES TO ANKENY
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ANKENY TO AMES TO DES MOINES
+                                                                                        STAFF TRANSPORTATION
+

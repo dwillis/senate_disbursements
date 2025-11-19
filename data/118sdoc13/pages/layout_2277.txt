@@ -1,0 +1,57 @@
+DOCUMENT NO.    DATE      PAYEE NAME                OBLIGATION/SERVICE      DESCRIPTION                                                               AMOUNT ($)
+              POSTED                                           DATES
+                                                                                                                                                                      $735.83
+                                                    START       END
+                                                                                                                                                                        $11.13
+DSCM20241103  09/21/2024  JORDAN T JOBES            09/16/2024                        STAFF TRANSPORTATION                                                                      B-2240
+              09/21/2024  JORDAN T JOBES                                              WASHINGTON DC TO SAINT LOUIS, BERKELEY, ROLLA, BERKELEY, SAINT                    $36.68
+DSCM20241105  09/28/2024  MICHAEL E USSERY          09/17/2024                        LOUIS AND RETURN
+              09/22/2024  MICHAEL E USSERY                       09/16/2024 STAFF TRANSPORTATION                                                                      $151.96
+DSCM20241106  09/28/2024  STEPHEN B GREEN           09/18/2024                        SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+              09/23/2024  JOSEPH NASH DEHMER                     09/17/2024 STAFF TRANSPORTATION                                                                        $64.32
+DSCM20241107  09/23/2024  JOSEPH NASH DEHMER        09/19/2024                        SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+              09/23/2024  JORDAN T JOBES                         09/18/2024 STAFF TRANSPORTATION                                                                      $151.96
+DSCM20241115  09/23/2024  JORDAN T JOBES            09/04/2024                        SPRINGFIELD TO NEOSHO, PINEVILLE, ANDERSON AND RETURN
+              09/23/2024  MICHAEL E USSERY                       09/19/2024 STAFF TRANSPORTATION                                                                        $40.61
+DSCM20241116  09/23/2024  LISA K SAYLOR             09/19/2024                        SPRINGFIELD TO HOLLISTER AND RETURN
+              09/28/2024  STEPHEN B GREEN                        09/04/2024 STAFF TRANSPORTATION                                                                        $13.10
+DSCM20241117  09/28/2024  ADAM J TIMMERMAN          09/16/2024                        ST LOUIS TO CAPE GIRARDEAU AND RETURN
+                                                                 09/19/2024 STAFF TRANSPORTATION                                                                        $78.60
+DSCM20241118  09/27/2024  MICHAEL E USSERY          09/20/2024                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+              09/27/2024  MICHAEL E USSERY                       09/16/2024 STAFF TRANSPORTATION                                                                        $68.77
+DSCM20241119                                        09/19/2024                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                 09/20/2024 STAFF TRANSPORTATION                                                                        $10.67
+DSCM20241120                                        09/20/2024                        SPRINGFIELD TO BRANSON, ROGERSVILLE AND RETURN
+                                                                 09/19/2024 STAFF TRANSPORTATION                                                                        $53.71
+DSCM20241121                                        09/19/2024                        SPRINGFIELD TO CLEVER, MOUNT VERNON AND RETURN
+                                                                 09/20/2024 STAFF TRANSPORTATION                                                                      $161.13
+DSCM20241122                                        09/11/2024                        SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                 09/19/2024 STAFF TRANSPORTATION                                                                      $265.93
+DSCM20241126                                        09/09/2024                        SPRINGFIELD TO BRANSON AND RETURN
+                                                                 09/12/2024 STAFF TRANSPORTATION                                                                         $9.05
+DSCM20241130                                        09/24/2024                        ST LOUIS TO COLUMBIA AND RETURN
+                                                                 09/19/2024 STAFF TRANSPORTATION                                                                        $11.79
+DSCM20241132                                        09/25/2024                        SHAWNEE KS TO THE FOLLOWING AND RETURN: 9/9 MARSHALL,
+                                                                                      LEXINGTON; 9/19 CAMERON, CHILLICOTHE                                        $91,892.93
+0002855902                                          05/01/2024   09/24/2024 STAFF PER DIEM                                                                              $16.00
+DSCM20240516                                        03/27/2024                        SPRINGFIELD TO CARTHAGE, JOPLIN AND RETURN
+DSCM20240552                                        04/11/2024   09/25/2024 STAFF TRANSPORTATION                                                                   $2,681.25
+DSCM20240553                                        04/11/2024                        SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $1,574.21
+DSCM20240749                                        05/14/2024  TRAVEL AND TRANSPORTATION OF PERSONS
+DSCM20240830                                        06/27/2024                                                                                                        $623.28
+DSCM20240880  06/27/2024  SERGEANT AT ARMS          06/10/2024   05/31/2024 FEDERAL AUDIO, VISUAL RECORDNG                                                         $3,917.49
+DSCM20240992  04/10/2024  CISION US INC             08/10/2024   03/27/2025 CLIPPING SERVICES                                                                      $2,681.25
+DSCM20241021  05/02/2024  CITIBANK - PURCHASE CARD  04/01/2024   04/11/2024 FRAMING SERVICES
+DSCM20241057  05/02/2024  CITIBANK - PURCHASE CARD  09/04/2024   04/11/2024 FRAMING SERVICES                                                                          $350.00
+DSCM20241094  06/18/2024  CITIBANK - PURCHASE CARD  08/19/2024   05/14/2024 FRAMING SERVICES                                                                            $15.55
+              07/09/2024  CISION US INC                          06/27/2024 CLIPPING SERVICES
+0002852735    07/25/2024  CITIBANK - PURCHASE CARD  02/01/2024   06/10/2024 FRAMING SERVICES                                                                       $2,570.00
+0002854546    09/06/2024  WILLIAM F O'GRADY         04/01/2024   08/16/2024 TRAIN/ORIENT/CONFERENCE FEES                                                              $334.75
+              09/11/2024  HOLTZMAN VOGEL                         04/29/2024 FINANCIAL DISCLOSURE PREP                                                                 $720.00
+              09/24/2024  MORGAN S CORDER                        09/06/2024 TRAIN/ORIENT/CONFERENCE FEES
+              09/23/2024  CITIBANK - PURCHASE CARD               08/19/2024 FRAMING SERVICES                                                                      $15,483.78
+                                                                OTHER CONTRACTUAL SERVICES                                                                            $549.00
+              04/18/2024  SERGEANT AT ARMS
+              05/24/2024  SERGEANT AT ARMS                      02/29/2024  VOICE & DATA COMM EQUIPMENT                                                            $1,700.00
+                                                                04/30/2024  IT EQUIPMENT
+

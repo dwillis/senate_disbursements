@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DCRM20240761                  SONJA G MURRAY                                            STAFF TRANSPORTATION                                                       $134.00
+DCRM20240764      08/19/2024  MICHAEL J KELSCH                  START       END         BISMARCK TO DICKINSON AND RETURN                                             $32.16
+DCRM20240765      08/19/2024  LISA BECKSTROM GIBBENS                                    STAFF TRANSPORTATION
+DCRM20240770      08/27/2024  CITIBANK - TRAVEL CBA CARD        07/31/2024  07/31/2024  FARGO TO CASSELTON AND RETURN                                              $107.20
+DCRM20240771      08/20/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                       $103.10
+DCRM20240772      08/19/2024  CITIBANK - TRAVEL CBA CARD        08/07/2024  08/07/2024  FARGO TO GRAND FORKS AND RETURN                                            $411.60
+DCRM20240773      08/20/2024  MICHAEL J KELSCH                                          STAFF TRANSPORTATION                                                    $1,305.59
+DCRM20240775      08/27/2024                                    08/08/2024  08/08/2024  AIRFARE FOR D RUD SEATTLE WA TO WASHINGTON DC
+                              DREYTON C RUD                                             STAFF TRANSPORTATION                                                         $31.10
+DCRM20240778      08/28/2024                                    08/07/2024  08/07/2024  AIRFARE FOR A SUMMERHAYS WASHINGTON DC TO GRAND FORKS                      $148.74
+DCRM20240779                                                                            STAFF TRANSPORTATION                                                       $208.80
+                                                                08/06/2024  08/06/2024  AIRFARE FOR M CHAMBERS BISMARCK TO JACKSON HOLE WY                      $1,245.38
+DCRM20240780                                                                            STAFF PER DIEM                                                             $251.15
+                                                                08/07/2024  08/07/2024  STAFF TRANSPORTATION
+                                                                                        FARGO TO GRAND FORKS, GILBY AND RETURN                                        $9.53
+                                                                08/08/2024  08/08/2024  STAFF INCIDENTALS                                                            $99.16
+                                                                                        STAFF PER DIEM                                                             $361.10
+                                                                08/02/2024  08/07/2024  STAFF TRANSPORTATION                                                    $2,249.90
+                                                                                        WASHINGTON DC TO SEATTLE AND RETURN                                        $124.29
+                  08/27/2024  KAITLYN MARIE WEIDERT             08/12/2024  08/12/2024  STAFF PER DIEM                                                               $78.14  B-1012
+                  08/27/2024  MICAH DAVID CHAMBERS              08/01/2024  08/11/2024  STAFF TRANSPORTATION                                                    $1,044.68
+                                                                                        MINOT TO NEW TOWN AND RETURN                                               $100.97
+                  08/28/2024  ANNE ALINE SUMMERHAYS             08/06/2024  08/13/2024  STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM                                                               $42.80
+DCRM20240781      08/29/2024  RYAN J KENYON                     08/04/2024  08/11/2024  STAFF TRANSPORTATION                                                       $569.03
+                                                                                        WASHINGTON DC TO BISMARCK, JACKSON AND RETURN                              $132.83
+DCRM20240783      08/28/2024  CITIBANK - TRAVEL CBA CARD        08/13/2024  08/13/2024  STAFF INCIDENTALS
+DCRM20240784      08/30/2024  MICHAEL J KELSCH                  08/11/2024  08/13/2024  STAFF PER DIEM                                                             $298.60
+                                                                                        STAFF TRANSPORTATION                                                         $77.16
+DCRM20240785      08/27/2024  CITIBANK - TRAVEL CBA CARD        08/13/2024  08/13/2024  WASHINGTON DC TO GRAND FORKS, MINOT, WILLISTON, BISMARCK,
+DCRM20240786      08/27/2024  CITIBANK - TRAVEL CBA CARD        08/11/2024  08/11/2024  FARGO AND RETURN                                                           $551.41
+DCRM20240787      08/27/2024  CITIBANK - TRAVEL CBA CARD        08/11/2024  08/11/2024  STAFF INCIDENTALS
+DCRM20240788      08/27/2024  CITIBANK - TRAVEL CBA CARD        08/11/2024  08/11/2024  STAFF PER DIEM                                                             $298.60
+                                                                                        STAFF TRANSPORTATION                                                       $631.60
+                                                                                        WASHINGTON DC TO BISMARCK, FARGO, LISBON, TURTLE LAKE,                     $758.60
+                                                                                        JAMESTOWN, GRAND FORKS AND RETURN                                          $411.60
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR A SUMMERHAYS FARGO TO WASHINGTON DC
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FARGO TO BISMARCK, NEW TOWN, BISMARCK, FORT TOTTEN, GRAND
+                                                                                        FORKS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR N SLAYTER FARGO TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR B KENYON WASHINGTON DC TO BISMARCK
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR M CHAMBERS JACKSON HOLE WY TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR R KENYON GRAND FORKS TO WASHINGTON DC
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME    OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                   POSTED                                                    DATES
+DCRU20241051      09/03/2024  CARL B MICA                                                 STAFF INCIDENTALS                                                                    $20.74
+                                                                  START       END         STAFF PER DIEM                                                                     $166.39
+DCRU20241052      08/29/2024  CARL B MICA                                                 STAFF TRANSPORTATION                                                               $257.03
+DCRU20241054      08/28/2024  SAMUEL A GUEBARA                    08/15/2024  08/16/2024  AUSTIN TO HOUSTON AND RETURN
+DCRU20241055      08/28/2024  BLAKE T VINEYARD                                            STAFF TRANSPORTATION                                                               $598.98
+DCRU20241056      08/28/2024  KELLY WHITMIRE WATERMAN             07/01/2024  07/31/2024  AUSTIN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                              B-1058
+DCRU20241057      08/28/2024  KELLY WHITMIRE WATERMAN             08/14/2024  08/14/2024  STAFF PER DIEM                                                                       $10.50
+DCRU20241058      08/28/2024  GIOVANNI CATANZARO                                          STAFF TRANSPORTATION                                                               $253.26
+DCRU20241059      08/28/2024  BLAKE T VINEYARD                    08/14/2024  08/14/2024  AUSTIN TO DALLAS AND RETURN
+DCRU20241060      08/28/2024  JAVIER D SALINAS                    05/31/2024  05/31/2024  STAFF TRANSPORTATION                                                                 $75.04
+DCRU20241065      09/03/2024  CASANDRA L GARCIA                   05/30/2024  05/30/2024  LUBBOCK TO PLAINVIEW AND RETURN
+                                                                  08/13/2024  08/13/2024  STAFF TRANSPORTATION                                                                 $24.79
+DCRU20241066      09/11/2024  AARON FRANCIS REITZ                 08/08/2024  08/08/2024  HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                  08/02/2024  08/02/2024  STAFF TRANSPORTATION                                                                 $40.20
+DCRU20241067      09/11/2024  AARON FRANCIS REITZ                                         HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                  06/24/2024  06/27/2024  STAFF TRANSPORTATION                                                               $120.60
+DCRU20241076      09/16/2024  TEXAS DEPARTMENT OF TRANSPORTATION                          FORT WORTH TO HENRIETTA AND RETURN
+                                                                  07/22/2024  07/25/2024  STAFF TRANSPORTATION                                                                 $75.04
+DCRU20241077      09/18/2024  BOBBI L K HANSON                                            LUBBOCK TO PLAINVIEW AND RETURN
+                                                                  07/28/2024  08/03/2024  STAFF PER DIEM                                                                       $20.00
+DCRU20241078      09/17/2024  BRANDON JAMES SIMON                                         STAFF TRANSPORTATION                                                               $234.50
+DCRU20241079      09/17/2024  BRANDON JAMES SIMON                 08/21/2024  08/21/2024  SAN ANTONIO TO KINGSVILLE AND RETURN
+DCRU20241080      09/13/2024  BRANDON JAMES SIMON                                         STAFF INCIDENTALS                                                                  $154.66
+                                                                  08/21/2024  08/22/2024  STAFF PER DIEM                                                                     $369.20
+                                                                                          STAFF TRANSPORTATION                                                               $606.15
+                                                                  07/22/2024  07/22/2024  DEL RIO TO DALLAS AND RETURN
+                                                                  07/24/2024  07/24/2024  STAFF INCIDENTALS                                                                    $28.07
+                                                                  07/26/2024  07/26/2024  STAFF PER DIEM                                                                     $176.00
+                                                                                          STAFF TRANSPORTATION                                                            $1,596.40
+                                                                                          AUSTIN TO WASHINGTON DC AND RETURN
+                                                                                          STAFF INCIDENTALS                                                                  $140.35
+                                                                                          STAFF PER DIEM                                                                     $880.00
+                                                                                          STAFF TRANSPORTATION                                                            $1,305.02
+                                                                                          AUSTIN TO WASHINGTON DC AND RETURN
+                                                                                          SENATOR TRANSPORTATION                                                             $653.20
+                                                                                          STAFF TRANSPORTATION                                                            $2,612.80
+                                                                                          AIRFARE FOR SEN CRUZ, C MICA, E FREED, M MURRAY, B STEVENS AUSTIN
+                                                                                          TO COLLEGE STATION, EDINBURG AND RETURN                                              $25.62
+                                                                                          STAFF INCIDENTALS                                                                  $279.68
+                                                                                          STAFF PER DIEM                                                                     $227.13
+                                                                                          STAFF TRANSPORTATION
+                                                                                          ABILENE TO MIDLAND AND RETURN                                                        $14.49
+                                                                                          STAFF PER DIEM                                                                     $125.96
+                                                                                          STAFF TRANSPORTATION
+                                                                                          GEORGETOWN TO BRYAN AND RETURN                                                       $28.86
+                                                                                          STAFF PER DIEM                                                                     $135.34
+                                                                                          STAFF TRANSPORTATION
+                                                                                          GEORGETOWN TO GOLDTHWAITE, SAN SABA AND RETURN                                       $79.06
+                                                                                          STAFF TRANSPORTATION
+                                                                                          GEORGETOWN TO SMITHVILLE TO AUSTIN
+

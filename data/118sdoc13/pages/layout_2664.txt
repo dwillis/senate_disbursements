@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DWEL20240606                  MILES S MCGURIMAN                                         STAFF TRANSPORTATION                                                               $48.77
+DWEL20240607      09/18/2024  MICHELLE M MONROE                 START       END         WILLISTON TO BERLIN AND RETURN                                                     $36.51
+DWEL20240608      09/19/2024  THIFEEN WAHEED DEEN                                       STAFF TRANSPORTATION                                                             $445.96
+DWEL20240610      09/30/2024  CITIBANK - TRAVEL CBA CARD        08/01/2024  08/01/2024  BURLINGTON TO HINESBURG TO SAINT ALBANS                                          $291.10
+DWEL20240611      09/23/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                               $30.00
+DWEL20240612      09/20/2024  CITIBANK - TRAVEL CBA CARD        09/05/2024  09/05/2024  WASHINGTON DC TO BURLINGTON AND RETURN                                             $30.00
+DWEL20240613      09/20/2024  FAUNA S HURLEY                                            STAFF TRANSPORTATION                                                               $28.81
+DWEL20240615      09/21/2024  FAUNA S HURLEY                    08/15/2024  08/25/2024  AIRFARE FOR A WHITE ALBANY NY TO WASHINGTON DC                                     $34.84
+DWEL20240616      09/21/2024  FAUNA S HURLEY                                            TICKET FEES                                                                        $70.35
+DWEL20240617      09/21/2024  FAUNA S HURLEY                    08/31/2024  08/31/2024  TICKET FEES                                                                        $38.19
+DWEL20240618      09/21/2024  PETER WELCH                                               STAFF TRANSPORTATION                                                               $32.30
+DWEL20240619      09/22/2024  PETER WELCH                       08/19/2024  08/19/2024  BURLINGTON TO BOLTON AND RETURN                                                    $13.90
+DWEL20240620      09/22/2024  MICHELLE M MONROE                 08/12/2024  08/12/2024  STAFF TRANSPORTATION                                                               $24.21
+                  09/28/2024                                    09/09/2024  09/09/2024  BURLINGTON TO BOLTON AND RETURN                                                  $302.25
+DWEL20240621                                                                            STAFF TRANSPORTATION                                                             $137.35
+                                                                09/13/2024  09/13/2024  BURLINGTON TO NORTHFIELD AND RETURN                                                $26.81
+DWEL20240622                                                                            STAFF TRANSPORTATION                                                             $187.00
+                                                                09/16/2024  09/16/2024  BURLINGTON TO WATERBURY AND RETURN                                               $136.19
+                                                                                        SENATOR TRANSPORTATION                                                           $140.51
+                                                                09/17/2024  09/17/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $2,389.28
+                                                                                        SENATOR TRANSPORTATION
+                                                                09/18/2024  09/18/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $293.10
+                                                                                        STAFF INCIDENTALS                                                                  $95.14
+                                                                09/11/2024  09/11/2024  STAFF PER DIEM                                                                             B-2627
+                                                                                        STAFF TRANSPORTATION                                                             $586.19
+                                                                09/10/2024  09/11/2024  SAINT ALBANS TO FAIRLEE AND RETURN                                                 $30.00
+                                                                                        STAFF INCIDENTALS
+                  09/27/2024  AARON RUSSELL DAVID WHITE         09/12/2024  09/13/2024  STAFF PER DIEM                                                                   $586.19
+                                                                                        STAFF TRANSPORTATION
+                  09/28/2024  PETER WELCH                       08/01/2024  09/09/2024  WASHINGTON DC TO BURLINGTON AND RETURN                                             $30.00
+                                                                                        SENATOR PER DIEM                                                                 $586.19
+DWEL20240629      09/23/2024  CITIBANK - SENATOR IBA CARD       09/12/2024  09/12/2024  SENATOR TRANSPORTATION
+DWEL20240632      09/24/2024  MICHELLE M MONROE                 09/17/2024  09/17/2024  WASHINGTON DC TO BURLINGTON, NORWICH, BURLINGTON, NORWICH,                         $30.00
+DWEL20240634      09/25/2024  CITIBANK - TRAVEL CBA CARD        09/12/2024  09/13/2024  SAINT JOHNSBURY, LYNDONVILLE, NORWICH, ESSEX JUNCTION, NORWICH,
+DWEL20240635      09/25/2024  CITIBANK - TRAVEL CBA CARD        09/11/2024  09/11/2024  BENNINGTON, NORWICH, RUTLAND, CHITTENDEN, NORWICH, BURLINGTON
+DWEL20240636      09/25/2024  CITIBANK - TRAVEL CBA CARD        09/15/2024  09/18/2024  AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+DWEL20240637      09/25/2024  CITIBANK - TRAVEL CBA CARD        09/12/2024  09/12/2024  AIRFARE FOR SEN WELCH WASHINGTON DC TO BURLINGTON
+DWEL20240638      09/25/2024  CITIBANK - TRAVEL CBA CARD        09/15/2024  09/18/2024  STAFF TRANSPORTATION
+DWEL20240639      09/25/2024  CITIBANK - TRAVEL CBA CARD        09/12/2024  09/12/2024  SAINT ALBANS TO BARRE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR A WHITE WASHINGTON DC TO BURLINGTON AND RETURN
+                                                                                        TICKET FEES
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR H GOTTSCHALK BURLINGTON TO WASHINGTON DC AND
+                                                                                        RETURN
+                                                                                        TICKET FEES
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR L MARSHALL BURLINGTON TO WASHINGTON DC AND RETURN
+                                                                                        TICKET FEES
+

@@ -1,0 +1,61 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                           DATES
+DSAA24M51705       POSTED     CITIBANK - PURCHASE CARD                                  VOICE & DATA COMM EQUIPMENT                                                $107.99
+DSAA24M51720                  CITIBANK - PURCHASE CARD          START       END         AUDIO, VISUAL EQUIPMENT                                                    $113.00
+DSAA24M51729      04/09/2024  CITIBANK - PURCHASE CARD                                  VOICE & DATA COMM EQUIPMENT                                                $164.05
+DSAA24M51730      04/05/2024  CITIBANK - PURCHASE CARD          03/22/2024  03/22/2024  VOICE & DATA COMM EQUIPMENT                                                $169.05   B-446
+DSAA24M51731      04/05/2024  CITIBANK - PURCHASE CARD          03/06/2024  03/06/2024  VOICE & DATA COMM EQUIPMENT                                                $169.99
+DSAA24M51733      04/05/2024  CITIBANK - PURCHASE CARD          03/08/2024  03/08/2024  AUDIO, VISUAL EQUIPMENT                                                    $326.95
+DSAA24M51739      04/05/2024  CITIBANK - PURCHASE CARD          03/06/2024  03/06/2024  SOFTWARE LICENSE                                                           $699.47
+DSAA24M51758      04/11/2024  CITIBANK - PURCHASE CARD          02/06/2024  02/06/2024  AUDIO, VISUAL EQUIPMENT                                                    $322.15
+DSAA24M51759      04/12/2024  CITIBANK - PURCHASE CARD          03/05/2024  03/05/2024  VOICE & DATA COMM EQUIPMENT                                             $1,600.00
+DSAA24M51763      04/16/2024  CITIBANK - PURCHASE CARD          03/15/2024  03/15/2024  SOFTWARE LICENSE                                                           $119.99
+DSAA24M51768      04/16/2024  CITIBANK - PURCHASE CARD          02/06/2024  03/13/2024  AUDIO, VISUAL EQUIPMENT                                                    $104.00
+DSAA24M51788      04/05/2024  CITIBANK - PURCHASE CARD          03/22/2024  03/22/2024  SOFTWARE LICENSE                                                           $150.00
+DSAA24M51849      04/10/2024  CITIBANK - PURCHASE CARD          03/15/2024  03/18/2024  AUDIO, VISUAL EQUIPMENT
+DSAA24M51856      04/12/2024  CITIBANK - PURCHASE CARD          03/19/2024  03/19/2024  VOICE & DATA COMM EQUIPMENT                                                  $25.99
+DSAA24M51935      04/22/2024  CITIBANK - PURCHASE CARD          03/17/2024  03/17/2024  SOFTWARE LICENSE                                                           $235.96
+DSAA24M51954      04/23/2024  CITIBANK - PURCHASE CARD          04/01/2024  04/01/2024  VOICE & DATA COMM EQUIPMENT                                                $199.99
+DSAA24M51981      04/26/2024  CITIBANK - PURCHASE CARD          04/03/2024  04/03/2024  IT EQUIPMENT                                                               $312.59
+DSAA24M52010      05/03/2024  CITIBANK - PURCHASE CARD          04/10/2024  04/10/2024  AUDIO, VISUAL EQUIPMENT                                                    $116.98
+DSAA24M52013      05/02/2024  CITIBANK - PURCHASE CARD          04/09/2024  04/09/2024  SOFTWARE LICENSE                                                           $224.99
+DSAA24M52024      07/10/2024  CITIBANK - PURCHASE CARD          04/12/2024  04/12/2024  AUDIO, VISUAL EQUIPMENT
+DSAA24M52025      06/06/2024  CITIBANK - PURCHASE CARD          03/13/2024  03/21/2024  VOICE & DATA COMM EQUIPMENT                                                  $94.34
+DSAA24M52026      05/02/2024  CITIBANK - PURCHASE CARD          01/30/2024  03/16/2024  VOICE & DATA COMM EQUIPMENT                                             $1,799.95
+DSAA24M52099      05/02/2024  CITIBANK - PURCHASE CARD          03/03/2024  03/03/2024  SOFTWARE LICENSE
+DSAA24M52107      06/12/2024  CITIBANK - PURCHASE CARD          03/15/2024  03/15/2024  AUDIO, VISUAL EQUIPMENT                                                    $257.40
+DSAA24M52109      05/02/2024  CITIBANK - PURCHASE CARD          03/25/2024  03/25/2024  AUDIO, VISUAL EQUIPMENT                                                    $431.40
+DSAA24M52121      05/03/2024  CITIBANK - PURCHASE CARD          04/15/2024  04/15/2024  VOICE & DATA COMM EQUIPMENT                                                $249.00
+DSAA24M52132      05/02/2024  CITIBANK - PURCHASE CARD          02/28/2024  02/28/2024  SOFTWARE LICENSE                                                           $296.79
+                  05/02/2024                                    04/18/2024  04/18/2024  VOICE & DATA COMM EQUIPMENT                                                $483.46
+DSAA24M52133      05/03/2024  CITIBANK - PURCHASE CARD          03/14/2024  03/14/2024  VOICE & DATA COMM EQUIPMENT                                                $208.99
+DSAA24M52144                  CITIBANK - PURCHASE CARD          02/02/2024  04/09/2024  IT EQUIPMENT
+DSAA24M52145      05/21/2024  CITIBANK - PURCHASE CARD                                  AUDIO, VISUAL EQUIPMENT                                                      $54.95
+DSAA24M52228      05/14/2024  CITIBANK - PURCHASE CARD          03/12/2024  03/12/2024  PRODUCTION EQUIPMENT                                                    $3,389.88
+DSAA24M52229      05/16/2024  CITIBANK - PURCHASE CARD          04/17/2024  04/17/2024  VOICE & DATA COMM EQUIPMENT
+DSAA24M52242      05/29/2024  CITIBANK - PURCHASE CARD          04/11/2024  04/11/2024  AUDIO, VISUAL EQUIPMENT                                                    $269.99
+DSAA24M52272      05/16/2024  CITIBANK - PURCHASE CARD          04/29/2024  04/29/2024  SOFTWARE LICENSE                                                           $199.00
+DSAA24M52304      05/22/2024  CITIBANK - PURCHASE CARD          04/12/2024  04/12/2024  SOFTWARE LICENSE                                                           $233.04
+DSAA24M52305      05/20/2024  CITIBANK - PURCHASE CARD          04/12/2024  04/12/2024  VOICE & DATA COMM EQUIPMENT                                                $411.00
+DSAA24M52322      05/22/2024  CITIBANK - PURCHASE CARD          04/26/2024  04/26/2024  SOFTWARE LICENSE                                                        $3,802.70
+DSAA24M52323      05/24/2024  CITIBANK - PURCHASE CARD          05/03/2024  05/03/2024  SOFTWARE LICENSE
+DSAA24M52358      05/23/2024  CITIBANK - PURCHASE CARD          05/10/2024  05/10/2024  SOFTWARE LICENSE                                                             $68.66
+DSAA24M52359      05/23/2024  CITIBANK - PURCHASE CARD          05/03/2024  05/03/2024  SOFTWARE LICENSE                                                           $699.47
+DSAA24M52365      05/24/2024  CITIBANK - PURCHASE CARD          04/29/2024  04/29/2024  FURNISHINGS
+DSAA24M52383      05/24/2024  CITIBANK - PURCHASE CARD          05/06/2024  05/06/2024  VOICE & DATA COMM EQUIPMENT                                                  $84.79
+DSAA24M52423      06/17/2024  CITIBANK - PURCHASE CARD          05/02/2024  05/02/2024  IT EQUIPMENT                                                               $369.99
+DSAA24M52426      06/06/2024  CITIBANK - PURCHASE CARD          03/15/2024  05/02/2024  VOICE & DATA COMM EQUIPMENT
+DSAA24M52465      05/31/2024  CITIBANK - PURCHASE CARD          05/15/2024  05/15/2024  VOICE & DATA COMM EQUIPMENT                                                  $84.79
+DSAA24M52474      07/18/2024  CITIBANK - PURCHASE CARD          05/03/2024  05/03/2024  VOICE & DATA COMM EQUIPMENT                                                  $52.99
+DSAA24M52481      06/10/2024  CITIBANK - PURCHASE CARD          04/11/2024  04/15/2024  VOICE & DATA COMM EQUIPMENT                                                  $99.00
+DSAA24M52525      06/10/2024  CITIBANK - PURCHASE CARD          04/09/2024  04/09/2024  SOFTWARE LICENSE                                                             $85.00
+DSAA24M52536      06/10/2024  CITIBANK - PURCHASE CARD          05/14/2024  05/14/2024  FURNISHINGS                                                                $332.48
+                  06/11/2024                                    05/15/2024  05/15/2024                                                                          $1,399.96
+                  06/17/2024                                    05/10/2024  05/10/2024                                                                             $215.33
+                                                                05/21/2024  05/21/2024                                                                             $199.99
+                                                                                                                                                                   $379.00
+                                                                                                                                                                   $189.00
+                                                                                                                                                                $1,270.94
+                                                                                                                                                                     $84.79
+                                                                                                                                                                $1,164.91
+

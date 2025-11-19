@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+              POSTED                                              DATES
+                                                                               STAFF TRANSPORTATION                                                              $136.33
+                                                       START       END         OKLAHOMA CITY TO WASHINGTON DC AND RETURN                                         $161.20
+                                                                               STAFF TRANSPORTATION                                                              $135.16
+DMUL20240479  09/23/2024  WILLIAM E BARNES JR          08/21/2024  08/21/2024  OKLAHOMA CITY TO ATOKA AND RETURN                                                 $161.20
+DMUL20240480  09/23/2024  WILLIAM E BARNES JR          08/27/2024  08/27/2024  STAFF TRANSPORTATION
+DMUL20240481  09/23/2024  WILLIAM E BARNES JR          08/28/2024  08/28/2024  OKLAHOMA CITY TO TULSA AND RETURN                                                   $53.01
+DMUL20240482  09/23/2024  KATHERINE ELIZABETH CURRIE   08/27/2024  08/30/2024  STAFF TRANSPORTATION                                                              $467.10
+                                                                               OKLAHOMA CITY TO ATOKA AND RETURN
+DMUL20240483  09/24/2024  WHALEN,EDWARD H              08/12/2024  08/14/2024  STAFF INCIDENTALS                                                                   $87.92
+                                                                               STAFF PER DIEM                                                                      $41.25
+DMUL20240484  09/19/2024  EMMA M ALEXANDER             09/04/2024  09/05/2024  STAFF TRANSPORTATION                                                              $447.23   B-1850
+DMUL20240493  09/24/2024  CITIBANK - SENATOR IBA CARD  08/26/2024  08/26/2024  WASHINGTON DC TO TULSA AND RETURN                                                   $67.00
+DMUL20240495  09/24/2024  CITIBANK - TRAVEL CBA CARD   08/19/2024  08/19/2024  STAFF INCIDENTALS                                                                 $865.35
+DMUL20240496  09/24/2024  CITIBANK - TRAVEL CBA CARD   08/21/2024  08/21/2024  STAFF PER DIEM                                                                    $138.88
+DMUL20240497  09/23/2024  CITIBANK - TRAVEL CBA CARD   08/21/2024  08/24/2024  STAFF TICKET FEES                                                                 $224.60
+                                                                               STAFF TRANSPORTATION                                                              $179.10
+DMUL20240498  09/24/2024  CITIBANK - TRAVEL CBA CARD   08/26/2024  08/26/2024  WASHINGTON DC TO OKLAHOMA CITY AND RETURN                                         $215.10
+DMUL20240499  09/24/2024  CITIBANK - TRAVEL CBA CARD   08/27/2024  08/30/2024  STAFF TRANSPORTATION                                                              $462.19
+DMUL20240500  09/25/2024  CITIBANK - TRAVEL CBA CARD   09/09/2024  09/09/2024  STILLWATER TO THE FOLLOWING AND RETURN: 9/4 GUTHRIE; 9/5 TULSA
+DMUL20240501  09/28/2024  WILLIAM E BARNES JR          07/23/2024  07/26/2024  SENATOR TRANSPORTATION                                                            $224.60
+                                                                               AIRFARE FOR SEN MULLIN TULSA TO WASHINGTON DC                                     $788.71
+DMUL20240502  09/27/2024  CRYSTAL D CAMPBELL           07/02/2024  07/18/2024  STAFF TRANSPORTATION                                                              $179.10
+                                                                               AIRFARE FOR J JOHNSON WASHINGTON DC TO OKLAHOMA CITY                              $149.55
+DMUL20240504  09/23/2024  CITIBANK - TRAVEL CBA CARD   08/27/2024  08/27/2024  STAFF TRANSPORTATION                                                              $937.65
+DMUL20240505  09/25/2024  CITIBANK - TRAVEL CBA CARD   08/29/2024  08/30/2024  AIRFARE FOR J JOHNSON TULSA TO WASHINGTON DC
+DMUL20240506  09/28/2024  CRYSTAL D CAMPBELL           08/12/2024  08/31/2024  STAFF TRANSPORTATION                                                                $80.00
+                                                                               AIRFARE FOR A SLOCUM WASHINGTON DC TO OKLAHOMA CITY AND                           $381.79
+                                                                               RETURN
+                                                                               STAFF TRANSPORTATION                                                              $224.60
+                                                                               AIRFARE FOR D NATONSKI WASHINGTON DC TO TULSA                                     $689.60
+                                                                               STAFF TRANSPORTATION                                                              $797.18
+                                                                               AIRFARE FOR K CURRIE WASHINGTON DC TO TULSA AND RETURN
+                                                                               SENATOR TRANSPORTATION
+                                                                               AIRFARE FOR SEN MULLIN OKLAHOMA CITY TO WASHINGTON DC
+                                                                               STAFF INCIDENTALS
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               OKLAHOMA CITY TO WASHINGTON DC AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               7/2 TULSA TO COWETA, OKMULGEE TO CLAREMORE; 7/15 CLAREMORE TO
+                                                                               MIAMI AND RETURN; TULSA TO THE FOLLOWING AND RETURN: 7/16
+                                                                               PAWHUSKA; 7/17 HENRYETTA; 7/18 MUSKOGEE
+                                                                               SENATOR TRANSPORTATION
+                                                                               AIRFARE FOR SEN MULLIN WASHINGTON DC TO TULSA
+                                                                               STAFF TRANSPORTATION
+                                                                               AIRFARE FOR D NATONSKI TULSA TO ORLANDO FL
+                                                                               STAFF TRANSPORTATION
+                                                                               TULSA TO THE FOLLOWING AND RETURN: 8/12 SHIDLER; 8/27 OKLAHOMA
+                                                                               CITY; 8/30 MUSKOGEE; CLAREMORE TO THE FOLLOWING AND RETURN: 8/14
+                                                                               LANGLEY; 8/15 BARNSDALL; 8/16 MUSKOGEE, FORT GIBSON; 8/19
+                                                                               WAGONER; 8/28 NOWATA, EDMOND; 8/29 KANSAS; 8/31 TAHLEQUAH
+

@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+              POSTED                                        DATES
+                                                                         DES MOINES TO WASHINGTON DC, ARLINGTON VA, WASHINGTON DC AND                      $28.07
+                                                 START       END         RETURN                                                                          $172.19
+                                                                         STAFF TRANSPORTATION
+DERN20240502  06/12/2024  BRENDA RHEA SAFRANSKI  05/02/2024  05/02/2024  DES MOINES TO KNOXVILLE AND RETURN                                                $82.30
+DERN20240503  06/13/2024  BRENDA RHEA SAFRANSKI  05/13/2024  05/13/2024  STAFF TRANSPORTATION                                                            $516.00
+DERN20240504  06/03/2024  CLARKE SCANLON         05/13/2024  05/15/2024  DES MOINES TO IOWA CITY, TOLEDO AND RETURN                                      $247.71
+                                                                         STAFF INCIDENTALS
+DERN20240505  06/13/2024  KOLBY RYAN DEWITT      05/21/2024  05/21/2024  STAFF PER DIEM                                                                    $11.24  B-1142
+                                                                         STAFF TRANSPORTATION                                                            $115.24
+DERN20240506  06/13/2024  KOLBY RYAN DEWITT      05/22/2024  05/22/2024  DES MOINES TO WASHINGTON DC AND RETURN
+                                                                         STAFF PER DIEM                                                                    $13.35
+DERN20240507  06/13/2024  MICHELE A BECK         05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                            $106.53
+                                                                         SIOUX CITY TO LAKE VIEW, DANBURY AND RETURN                                     $242.54
+DERN20240508  06/14/2024  MICHELE A BECK         05/09/2024  05/09/2024  STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION                                                            $166.83
+DERN20240509  06/14/2024  MICHELE A BECK         05/14/2024  05/14/2024  SIOUX CITY TO IDA GROVE, ALTA, LE MARS AND RETURN
+                                                                         STAFF TRANSPORTATION                                                            $192.96
+DERN20240510  06/17/2024  MICHELE A BECK         05/16/2024  05/16/2024  DAVENPORT TO CENTERVILLE, BLOOMFIELD, KEOSAUQUA, FAIRFIELD AND
+DERN20240511  06/14/2024  MICHELE A BECK         05/17/2024  05/17/2024  RETURN                                                                          $219.76
+DERN20240512  06/14/2024  KOLBY RYAN DEWITT      05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                            $111.22
+                                                                         DAVENPORT TO BURLINGTON, MOUNT PLEASANT, DONNELLSON AND
+DERN20240513  06/13/2024  CLARKE SCANLON         05/24/2024  05/24/2024  RETURN                                                                             $8.98
+DERN20240514  06/14/2024  CLARKE SCANLON         05/28/2024  05/28/2024  STAFF TRANSPORTATION                                                            $142.04
+DERN20240515  06/13/2024  KOLBY RYAN DEWITT      05/28/2024  05/28/2024  DAVENPORT TO BURLINGTON, MORNING SUN, WASHINGTON, SIGOURNEY
+DERN20240516  06/14/2024  CLARKE SCANLON         05/29/2024  05/29/2024  AND RETURN                                                                        $87.10
+DERN20240517  06/13/2024  CLARKE SCANLON         05/01/2024  05/30/2024  STAFF TRANSPORTATION                                                            $136.01
+DERN20240518  06/13/2024  BRENDA RHEA SAFRANSKI  05/03/2024  05/03/2024  DAVENPORT TO OSKALOOSA, ALBIA, OTTUMWA AND RETURN
+DERN20240519  06/13/2024  BRENDA RHEA SAFRANSKI  05/24/2024  05/24/2024  STAFF TRANSPORTATION                                                              $24.79
+DERN20240520  06/13/2024  BRENDA RHEA SAFRANSKI  05/27/2024  05/27/2024  DAVENPORT TO CLINTON, DE WITT, MUSCATINE, ELDRIDGE AND RETURN                   $154.10
+DERN20240521  06/13/2024  BRENDA RHEA SAFRANSKI  05/30/2024  05/30/2024  STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION                                                              $59.63
+                                                                         SIOUX CITY TO HOLSTEIN, LAURENS AND RETURN                                        $46.23
+                                                                         STAFF TRANSPORTATION                                                              $75.04
+                                                                         DES MOINES TO GREENFIELD AND RETURN                                               $47.57
+                                                                         STAFF TRANSPORTATION                                                              $76.38
+                                                                         JOHNSTON TO CORNING, OSCEOLA TO DES MOINES
+                                                                         STAFF TRANSPORTATION
+                                                                         SIOUX CITY TO WESTFIELD AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES TO WALL LAKE TO JOHNSTON
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES TO AMES AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         URBANDALE TO JEFFERSON AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         URBANDALE TO PANORA AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES TO HUMESTON AND RETURN
+

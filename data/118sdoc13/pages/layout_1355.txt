@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DHAW20240856                  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                     $40.00
+DHAW20240857      07/29/2024  CITIBANK - TRAVEL CBA CARD        START       END         TICKET FEES                                                                     $40.00
+DHAW20240858      07/29/2024  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                     $40.00
+DHAW20240859      07/29/2024  CITIBANK - TRAVEL CBA CARD        07/18/2024  07/18/2024  TICKET FEES                                                                     $40.00
+DHAW20240860      07/29/2024  CITIBANK - TRAVEL CBA CARD        07/18/2024  07/18/2024  TICKET FEES                                                                     $40.00
+DHAW20240861      07/29/2024  CITIBANK - TRAVEL CBA CARD        07/18/2024  07/18/2024  TICKET FEES                                                                     $40.00
+DHAW20240862      07/29/2024  CITIBANK - TRAVEL CBA CARD        07/18/2024  07/18/2024  TICKET FEES                                                                     $40.00
+DHAW20240863      07/29/2024  CITIBANK - TRAVEL CBA CARD        07/18/2024  07/18/2024  STAFF TRANSPORTATION                                                          $267.10
+                  08/05/2024                                    07/18/2024  07/18/2024  AIRFARE FOR T TEEPELL WASHINGTON DC TO PITTSBURGH PA
+DHAW20240864                  THOMAS FRANCIS TEEPELL            07/18/2024  07/18/2024  STAFF INCIDENTALS                                                               $24.92
+                  08/05/2024                                    07/18/2024  07/18/2024  STAFF PER DIEM                                                                $191.77
+                                                                                        STAFF TRANSPORTATION                                                          $481.95
+                                                                07/18/2024  07/19/2024  WASHINGTON DC TO PITTSBURGH PA, BUTLER PA, PITTSBURGH PA AND
+                                                                                        RETURN                                                                           $4.96
+DHAW20240866      07/25/2024  TANNER L WALLACE                  07/23/2024  07/23/2024  STAFF PER DIEM                                                                  $79.06  B-1337
+                                                                                        STAFF TRANSPORTATION
+DHAW20240867      08/15/2024  NATALIE C FORD                    07/19/2024  07/19/2024  SPRINGFIELD TO STOCKTON TO REPUBLIC                                           $166.06
+DHAW20240868      07/31/2024  ALEXANDER LAWRENCE                07/15/2024  07/15/2024  STAFF TRANSPORTATION
+DHAW20240869      07/31/2024  ALEXANDER LAWRENCE                07/17/2024  07/17/2024  ARLINGTON VA TO BUTLER PA AND RETURN                                            $22.78
+DHAW20240870      07/31/2024  ALEXANDER LAWRENCE                07/24/2024  07/24/2024  STAFF TRANSPORTATION
+DHAW20240871      07/31/2024  ALEXANDER LAWRENCE                07/25/2024  07/25/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $97.15
+DHAW20240872      08/02/2024  ERIN M ENGELMEYER                 07/25/2024  07/25/2024  STAFF TRANSPORTATION
+                                                                                        CHESTERFIELD TO SULLIVAN AND RETURN                                             $14.74
+DHAW20240873      08/01/2024  HUNTER R KELLY                    07/10/2024  07/10/2024  STAFF TRANSPORTATION
+                                                                                        ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $14.74
+DHAW20240874      08/05/2024  HUNTER R KELLY                    07/11/2024  07/11/2024  STAFF TRANSPORTATION
+                                                                                        ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $15.00
+DHAW20240875      08/02/2024  JANNA L DAVIS                     07/09/2024  07/09/2024  STAFF PER DIEM                                                                  $65.66
+DHAW20240876      08/02/2024  JANNA L DAVIS                     06/27/2024  06/27/2024  STAFF TRANSPORTATION
+DHAW20240877      08/02/2024  JANNA L DAVIS                     06/04/2024  06/04/2024  SPRINGFIELD TO KIMBERLING CITY AND RETURN                                        $3.69
+DHAW20240878      08/07/2024  TANNER L WALLACE                  07/26/2024  07/26/2024  STAFF PER DIEM                                                                  $62.64
+                                                                                        STAFF TRANSPORTATION
+DHAW20240879      08/02/2024  TANNER L WALLACE                  07/25/2024  07/25/2024  INDEPENDENCE TO EAST LYNNE TO KANSAS CITY                                       $31.02
+DHAW20240880      08/02/2024  SAMUEL J SAFFA                    07/09/2024  07/09/2024  STAFF PER DIEM                                                                $176.88
+                                                                                        STAFF TRANSPORTATION
+                                                                                        INDEPENDENCE TO ROCK PORT, TARKIO, MARYVILLE TO KANSAS CITY                     $37.53
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $20.67
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $13.07
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $13.11
+                                                                                        STAFF PER DIEM                                                                  $88.44
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SPRINGFIELD TO OSCEOLA, BOLIVAR AND RETURN                                      $24.79
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SPRINGFIELD TO OZARK AND RETURN                                                 $28.69
+                                                                                        STAFF PER DIEM                                                                   $7.16
+                                                                                        STAFF TRANSPORTATION
+                                                                                        IN AND AROUND WENTZVILLE
+

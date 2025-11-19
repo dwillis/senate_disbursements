@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                               DATES
+DBNN20240330                                                                        AIRFARE FOR SEN BENNET DENVER TO WASHINGTON DC                                $186.26
+DBNN20240331                                                START       END         STAFF TRANSPORTATION
+DBNN20240333                                                                        STEAMBOAT SPRINGS TO BRECKENRIDGE, FRISCO, EDWARDS, VAIL,                       $48.30
+DBNN20240334      04/30/2024  MATTHEW L KIREKER             04/09/2024  04/09/2024  EAGLE AND RETURN                                                                $64.27
+                  04/30/2024  MAX A SALIMAN                                         STAFF TRANSPORTATION                                                          $203.68
+DBNN20240335      05/07/2024  JOHN A BROCKMEIER             04/05/2024  04/08/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $25.40
+DBNN20240336      05/14/2024  HILARY E HENRY                04/09/2024  04/09/2024  STAFF PER DIEM                                                                $250.00
+                                                                                    STAFF TRANSPORTATION                                                          $464.18
+DBNN20240344                                                04/19/2024  04/22/2024  DENVER TO BRECKENRIDGE, VAIL, EAGLE AND RETURN                                $164.82
+DBNN20240345                                                                        STAFF INCIDENTALS
+DBNN20240346      05/14/2024  JAMES A THOMPSON              04/24/2024  04/30/2024  STAFF PER DIEM                                                                  $20.12
+DBNN20240347      05/14/2024  ERIN G MINKS                  04/25/2024  04/26/2024  STAFF TRANSPORTATION                                                          $200.37
+DBNN20240352                                                                        GRAND JUNCTION TO NATURITA, VANCORUM AND RETURN                               $230.48
+DBNN20240353      05/28/2024  CITIBANK - TRAVEL CBA CARD    04/16/2024  04/18/2024  STAFF TRANSPORTATION                                                                    B-514
+DBNN20240354      05/14/2024  RENEE J MARTINEZ              05/01/2024  05/01/2024  FORT COLLINS TO THE FOLLOWING AND RETURN: 4/24 BOULDER; 4/29                    $60.00
+DBNN20240355      05/13/2024  RENEE J MARTINEZ              04/16/2024  04/16/2024  FREDERICK; 4/30 GREELEY                                                         $50.92
+DBNN20240356      05/14/2024  RENEE J MARTINEZ              04/01/2024  04/30/2024  STAFF INCIDENTALS                                                               $55.20
+DBNN20240357      05/22/2024  MARIO VILLAGOMEZ-CHRISTENSEN  04/30/2024  04/30/2024  STAFF PER DIEM                                                                $123.41
+DBNN20240358      05/23/2024  JAMES A THOMPSON              05/09/2024  05/09/2024  STAFF TRANSPORTATION                                                          $167.50
+DBNN20240359                                                                        ALAMOSA TO BAILEY, BUENA VISTA AND RETURN                                       $20.29
+DBNN20240360      05/23/2024  NATASHA A HUTSON              05/08/2024  05/08/2024  TICKET FEES                                                                     $67.00
+                  06/13/2024  JAMES A THOMPSON              05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                            $93.26
+                                                                                    PUEBLO TO FORT CARSON AND RETURN                                                $21.82
+                  05/24/2024  JOHN A BROCKMEIER             04/22/2024  04/22/2024  STAFF TRANSPORTATION                                                            $95.81
+                  05/24/2024  MATTHEW L KIREKER             05/03/2024  05/03/2024  PUEBLO TO CANON CITY AND RETURN                                               $129.98
+                  06/13/2024  JOHN A BROCKMEIER             04/26/2024  04/27/2024  STAFF TRANSPORTATION                                                          $166.83
+                                                                                    PUEBLO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $12.91
+                  05/24/2024  JOHN A BROCKMEIER             03/19/2024  05/12/2024  STAFF TRANSPORTATION                                                          $195.55
+                  06/04/2024  AMY M FRIEDMAN                02/05/2024  02/13/2024  COLORADO SPRINGS TO GREELEY AND RETURN                                        $497.68
+                                                                                    STAFF PER DIEM                                                                $282.40
+                                                                                    STAFF TRANSPORTATION                                                       $1,404.88
+                                                                                    FORT COLLINS TO FORT LUPTON AND RETURN                                        $407.95
+                                                                                    STAFF TRANSPORTATION
+                                                                                    COLORADO SPRINGS TO DENVER TO PEYTON
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    FORT COLLINS TO DENVER AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    DENVER TO FORT COLLINS AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    STEAMBOAT SPRINGS TO DILLON, FRISCO, LEADVILLE AND RETURN
+                                                                                    STAFF INCIDENTALS
+                                                                                    STAFF PER DIEM
+                                                                                    DENVER TO BAILEY, BUENA VISTA, SALIDA AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    DENVER OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                    STAFF INCIDENTALS
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    DENVER TO WASHINGTON DC AND RETURN
+

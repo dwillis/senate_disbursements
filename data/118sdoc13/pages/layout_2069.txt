@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                             DATES
+DPET20240450                                                                      WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $125.96
+DPET20240451                                              START       END         STAFF TRANSPORTATION                                                         $97.15
+DPET20240452                                                                      MARQUETTE TO IRON RIVER AND RETURN
+DPET20240453      05/20/2024  AUBREY ANNE MOORE           03/05/2024  03/05/2024  STAFF TRANSPORTATION                                                       $108.54
+DPET20240454      05/15/2024  AUBREY ANNE MOORE           03/08/2024  03/08/2024  MARQUETTE TO ESCANABA AND RETURN                                             $28.14
+                  05/17/2024  AUBREY ANNE MOORE           03/18/2024  03/18/2024  STAFF TRANSPORTATION                                                         $12.92
+DPET20240458      05/15/2024  AUBREY ANNE MOORE           03/01/2024  03/29/2024  MARQUETTE TO BARK RIVER AND RETURN                                           $79.73
+DPET20240459      05/15/2024  THOMAS MAXWELL STEPHENSON   05/02/2024  05/02/2024  STAFF TRANSPORTATION
+DPET20240460                                                                      MARQUETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $386.10
+DPET20240461      05/21/2024  CITIBANK - TRAVEL CBA CARD  05/10/2024  05/10/2024  STAFF PER DIEM                                                             $200.10   B-2032
+DPET20240466      05/21/2024  CITIBANK - TRAVEL CBA CARD  05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                       $586.20
+DPET20240467      05/21/2024  CITIBANK - TRAVEL CBA CARD  05/08/2024  05/09/2024  GRAND RAPIDS TO KALAMAZOO AND RETURN                                       $586.20
+DPET20240468      05/21/2024  CITIBANK - TRAVEL CBA CARD  05/08/2024  05/10/2024  SENATOR TRANSPORTATION                                                     $386.10
+                  05/21/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/02/2024  AIRFARE FOR SEN PETERS WASHINGTON DC TO DETROIT                            $109.88
+DPET20240469      05/23/2024  AUBREY ANNE MOORE           04/01/2024  04/01/2024  SENATOR TRANSPORTATION
+                  05/23/2024  AUBREY ANNE MOORE           04/02/2024  04/02/2024  AIRFARE FOR SEN PETERS DETROIT TO WASHINGTON DC                              $13.99
+DPET20240470                                                                      STAFF TRANSPORTATION                                                       $109.88
+DPET20240471      05/23/2024  AUBREY ANNE MOORE           04/05/2024  04/05/2024  AIRFARE FOR K HRIT DETROIT TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION                                                         $18.21
+DPET20240472      05/23/2024  AUBREY ANNE MOORE           04/12/2024  04/12/2024  AIRFARE FOR K SMITH DETROIT TO WASHINGTON DC AND RETURN                    $111.22
+DPET20240473      05/23/2024  AUBREY ANNE MOORE           04/26/2024  04/26/2024  SENATOR TRANSPORTATION                                                     $174.87
+                                                                                  AIRFARE FOR SEN PETERS WASHINGTON DC TO DETROIT
+DPET20240474      05/22/2024  AUBREY ANNE MOORE           04/01/2024  04/30/2024  STAFF TRANSPORTATION                                                         $17.89
+DPET20240475      05/23/2024  EMMA BRENNAN WOELKERS       04/29/2024  04/29/2024  MARQUETTE TO IRON MOUNTAIN AND RETURN                                      $111.22
+DPET20240476                                                                      STAFF PER DIEM
+DPET20240477      05/23/2024  KELLY HURLIN LIVELY         04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                         $46.90
+DPET20240478      05/22/2024  KELLY HURLIN LIVELY         04/06/2024  04/06/2024  MARQUETTE TO IRON MOUNTAIN AND RETURN                                         $4.95
+                  05/23/2024  KELLY HURLIN LIVELY         04/11/2024  04/11/2024  STAFF PER DIEM
+                  05/22/2024  KELLY HURLIN LIVELY         04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                       $217.75
+                  05/23/2024  KELLY HURLIN LIVELY         04/18/2024  04/18/2024  MARQUETTE TO BARK RIVER AND RETURN                                         $131.32
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MARQUETTE TO MENOMINEE AND RETURN                                            $28.14
+                                                                                  STAFF PER DIEM                                                             $131.32
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MARQUETTE TO BARK RIVER AND RETURN                                           $69.68
+                                                                                  STAFF TRANSPORTATION                                                       $131.32
+                                                                                  MARQUETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MARQUETTE TO SAINT IGNACE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MAPLE CITY TO HART AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TRAVERSE CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MAPLE CITY TO HART AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MAPLE CITY TO CADILLAC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MAPLE CITY TO HART AND RETURN
+

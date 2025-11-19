@@ -1,0 +1,62 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME      OBLIGATION/SERVICE      DESCRIPTION                    AMOUNT ($)
+                                                                               DATES
+VSAA22406871       POSTED     CHESAPEAK MEDICAL WASTE SERVICES                                                                          $5,925.00
+                              LLC                                   START       END
+VSAA22406886      07/23/2024  NATIONAL CAPTIONING INSTITUTE, INC.                                                                      $30,689.60
+                              GENERAL DYNAMICS INFORMATION TECH     07/03/2024  07/03/2024  SERVICE CHARGES & OTHER FEES                            B-361
+VSAA22406905      07/22/2024  INC                                                                                                    $128,888.00
+                              KONICA MINOLTA BUSINESS SOLUTIONS U.  05/01/2024  05/29/2024  TECHNICAL SUPPORT
+VSAA22406921      07/19/2024  S.A.                                                                                                         $202.17
+                              CFO SOLUTIONS LLC                     05/25/2024  06/28/2024  APPLICATION SOFTWARE MAINT
+VSAA22406967      07/24/2024  NATIONAL CAPTIONING INSTITUTE, INC.                                                                      $44,579.50
+VSAA22406972                  NATIONAL CAPTIONING INSTITUTE, INC.   04/01/2024  06/30/2024  PRODUCTION EQUIP MAINT                     $16,554.59
+VSAA22406973      08/15/2024  GLOBAL INFORMATION PARTNERS LLC
+VSAA22407039      07/22/2024  THE EDUCE GROUP, INC.                 06/01/2024  06/30/2024  TECHNICAL SUPPORT                           $3,565.49
+VSAA22407115      07/22/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC    06/26/2024  06/26/2024  TECHNICAL SUPPORT                          $48,250.00
+VSAA22407199      07/22/2024  RICOH USA INC                         06/04/2024  06/26/2024  TECHNICAL SUPPORT                          $10,262.64
+VSAA22407214      08/09/2024  FCN INC                               05/30/2024  05/30/2024  STUDIES, ANALYSES, & EVALS                 $11,488.96
+VSAA22407215      07/31/2024  OMNI BUSINESS SYSTEMS, INC            06/02/2024  06/29/2024  TECHNICAL SUPPORT                          $10,400.00
+VSAA22407217      07/31/2024  OMNI BUSINESS SYSTEMS, INC            05/25/2024  06/28/2024  TECHNICAL SUPPORT
+VSAA22407218      07/29/2024  OMNI BUSINESS SYSTEMS, INC            04/01/2024  06/30/2024  NON-IT OFFICE EQUIP MAINT                      $743.76
+VSAA22407219      07/31/2024  OMNI BUSINESS SYSTEMS, INC            07/10/2024  09/30/2024  VOICE, DATA COMM EQP MAINT                 $19,086.00
+VSAA22407220      07/31/2024  RICOH USA INC                         04/01/2024  06/30/2024  NON-IT OFFICE EQUIP MAINT
+VSAA22407239      08/06/2024  EVERGREEN PLAZA ASSOCIATES LLC        04/01/2024  06/30/2024  NON-IT OFFICE EQUIP MAINT                   $6,258.00
+VSAA22407303      08/06/2024  CANON U.S.A., INC.                    04/01/2024  06/30/2024  PRODUCTION EQUIP MAINT                      $1,350.00
+VSAA22407344      07/31/2024  CANON U.S.A., INC.                    04/01/2024  06/30/2024  PRODUCTION EQUIP MAINT                     $10,733.12
+VSAA22407345      08/23/2024  PERATON INC.                          04/01/2024  06/30/2024  NON-IT OFFICE EQUIP MAINT                  $41,880.00
+VSAA22407368      08/09/2024  PERATON ENTERPRISE SOLUTIONS          04/22/2024  07/17/2024  NON-FEDERAL FAC MAINT, REPAIR              $32,187.63
+VSAA22407370      08/13/2024  KONICA MINOLTA BUSINESS SOLUTIONS U.  04/01/2024  06/30/2024  NON-IT OFFICE EQUIP MAINT                  $12,285.00
+                  09/12/2024  S.A.                                  04/01/2024  06/30/2024  NON-IT OFFICE EQUIP MAINT                  $35,182.00
+VSAA22407381      08/20/2024  FCN INC                               09/28/2023  09/28/2023  TECHNICAL SUPPORT                          $63,790.50
+                              CHRISTOPHER LAW                       12/13/2023  12/13/2023  TECHNICAL SUPPORT                          $28,194.93
+VSAA22407456      08/13/2024  PERATON ENTERPRISE SOLUTIONS
+VSAA22407459                  CFO SOLUTIONS LLC                     07/01/2024  09/30/2024  PRODUCTION EQUIP MAINT                         $426.06
+VSAA22407524      08/09/2024  NATIONAL CAPTIONING INSTITUTE, INC.
+VSAA22407582      08/08/2024  NATIONAL CAPTIONING INSTITUTE, INC.   07/29/2024  09/30/2024  VOICE, DATA COMM EQP MAINT                  $1,690.88
+VSAA22407595      09/11/2024  GLOBAL INFORMATION PARTNERS           07/01/2024  07/31/2024  MONITORING & GUARD SERVICES                 $6,667.00
+VSAA22407596      08/15/2024  CFO SOLUTIONS LLC                     07/05/2023  07/05/2023  VOICE, DATA COMM EQP MAINT                  $5,304.90
+VSAA22407607      08/28/2024  DLT SOLUTIONS LLC                     08/01/2024  08/31/2024  TECHNICAL SUPPORT                           $2,800.00
+VSAA22407626      08/28/2024  GENERAL DYNAMICS INFORMATION TECH     07/09/2024  07/31/2024  TECHNICAL SUPPORT                           $4,471.75
+VSAA22407634      08/27/2024  INC                                   07/09/2024  07/31/2024  TECHNICAL SUPPORT                          $17,211.38
+                  08/22/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC    07/29/2024  07/29/2024  MANAGEMENT CONSULTANTS                     $48,250.00
+VSAA22407640      08/15/2024  THE EDUCE GROUP, INC.                 07/01/2024  07/31/2024  TECHNICAL SUPPORT                          $33,333.00
+                              GLOBAL INFORMATION PARTNERS           07/22/2024  07/22/2024  APPLICATION SOFTWARE MAINT
+VSAA22407687      08/29/2024  PRIME SOURCE TECHNOLOGIES LLC                                                                                $399.00
+VSAA22407826                  ALERTUS TECHNOLOGIES LLC              06/29/2024  07/26/2024  APPLICATION SOFTWARE MAINT
+VSAA22407838      09/12/2024  CFO SOLUTIONS LLC                                                                                        $99,872.51
+VSAA22407840      08/29/2024  CFO SOLUTIONS LLC                     09/08/2023  09/08/2023  TECHNICAL SUPPORT
+VSAA22407857      09/09/2024  DIGITAL GOVERNANCE INSTITUTE LLC      06/30/2024  08/03/2024  TECHNICAL SUPPORT                           $8,866.48
+VSAA22407862      09/04/2024  INSIDEOUT DEVELOPMENT, L.L.C.         08/04/2024  08/09/2024  MANAGEMENT CONSULTANTS                      $8,427.76
+VSAA22407866      09/04/2024  PERATON INC.                          10/01/2024  09/30/2025  APPLICATION SOFTWARE MAINT                  $5,333.04
+VSAA22408038      09/11/2024  CANON U.S.A., INC.                    10/01/2024  09/30/2025  APPLICATION SOFTWARE MAINT                 $30,599.94
+VSAA22408097      09/10/2024  CANON SOLUTIONS AMERICA INC           08/01/2024  08/31/2024  TECHNICAL SUPPORT                          $21,255.00
+VSAA22408138      09/13/2024  ATLANTIC GRAPHIC SYSTEMS INC          07/01/2024  07/31/2024  TECHNICAL SUPPORT                           $5,000.00
+VSAA22408158      08/30/2024                                        08/20/2024  08/20/2024  FINANCE & ACCOUNTING                        $5,000.00
+VSAA22408210      09/12/2024                                        08/20/2024  08/22/2024  TRAIN/ORIENT/CONFERENCE FEES               $19,404.00
+VSAA22408238      09/13/2024                                        06/29/2024  07/26/2024  TECHNICAL SUPPORT                           $3,500.00
+                  09/23/2024                                        04/01/2024  06/30/2024  PRODUCTION EQUIP MAINT                     $56,024.70
+                  09/19/2024                                        06/01/2024  08/31/2024  PRODUCTION EQUIP MAINT
+                                                                    07/01/2024  09/30/2024  PRODUCTION EQUIP MAINT                         $611.85
+                                                                                                                                        $3,870.00
+                                                                                                                                        $5,150.00
+

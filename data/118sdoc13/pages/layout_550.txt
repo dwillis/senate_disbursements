@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DBLA20241047                  JOHN M CLEMENT                                            STAFF TRANSPORTATION                                                            $87.10
+DBLA20241048      04/01/2024  JOHN M CLEMENT                    START       END         NASHVILLE TO FORT CAMPBELL KY AND RETURN                                        $32.83
+DBLA20241049      04/01/2024  JOHN M CLEMENT                                            STAFF TRANSPORTATION                                                            $77.31
+DBLA20241050      04/01/2024  JOHN M CLEMENT                    03/01/2024  03/01/2024  ADAMS TO CLARKSVILLE AND RETURN                                                 $39.66
+DBLA20241051      04/01/2024  NICHOLAS A KISTENMACHER                                   STAFF TRANSPORTATION                                                            $31.00
+DBLA20241053      04/08/2024                                    03/19/2024  03/19/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $75.71
+DBLA20241056                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                          $147.10
+DBLA20241057      04/08/2024  PABLO A MARTINEZ                  03/20/2024  03/20/2024  ADAMS TO PLEASANT VIEW, CLARKSVILLE AND RETURN                                  $13.40
+                  04/02/2024  WILLIAM A GUFFEE                                          STAFF PER DIEM                                                                $201.13
+DBLA20241061      04/09/2024                                    03/22/2024  03/22/2024  STAFF TRANSPORTATION                                                       $1,468.32
+DBLA20241062                                                                            MEMPHIS TO RIPLEY AND RETURN                                                  $436.61
+DBLA20241063                                                    03/25/2024  03/25/2024  STAFF TRANSPORTATION                                                            $75.04
+DBLA20241064                                                                            AIRFARE FOR W GUFFEE WASHINGTON DC TO NASHVILLE                                 $34.84
+DBLA20241065                                                    03/22/2024  03/22/2024  STAFF TRANSPORTATION                                                            $16.08
+                                                                03/23/2024  03/23/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $50.38
+DBLA20241066                                                    03/15/2024  03/22/2024  STAFF INCIDENTALS                                                               $22.74
+DBLA20241067                                                                            STAFF PER DIEM                                                                $115.97
+DBLA20241068      04/12/2024  CALEB ADDISON HASLETT             03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                                    B-532
+DBLA20241069      04/12/2024  CALEB ADDISON HASLETT             03/27/2024  03/27/2024  CHATTANOOGA TO NASHVILLE, WASHINGTON DC AND RETURN                              $10.17
+                  04/12/2024  CALEB ADDISON HASLETT             03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                            $61.23
+DBLA20241070      04/12/2024  JAY C STROBINO                    03/14/2024  03/14/2024  NASHVILLE TO CARTHAGE AND RETURN
+                  04/18/2024  JAY C STROBINO                    03/15/2024  03/15/2024  STAFF TRANSPORTATION                                                             $8.73
+DBLA20241071                                                                            NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $44.75
+DBLA20241072      04/12/2024  JAY C STROBINO                    03/18/2024  03/18/2024  STAFF TRANSPORTATION                                                            $10.63
+                                                                                        NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $162.87
+                  04/12/2024  COLE THOMAS CARNICK               01/31/2024  01/31/2024  STAFF TRANSPORTATION
+                  04/12/2024  JAY C STROBINO                    03/19/2024  03/19/2024  NASHVILLE TO MURFREESBORO AND RETURN                                             $8.88
+                  04/19/2024  JAY C STROBINO                    03/20/2024  03/20/2024  STAFF PER DIEM                                                                $150.54
+                                                                                        STAFF TRANSPORTATION
+                  04/19/2024  JAY C STROBINO                    03/21/2024  03/21/2024  NASHVILLE TO BRENTWOOD, COLUMBIA, HOHENWALD, COLUMBIA AND                       $10.98
+                                                                                        RETURN                                                                          $73.49
+                  04/14/2024  JAY C STROBINO                    03/22/2024  03/22/2024  STAFF PER DIEM                                                                  $11.40
+                  04/25/2024  COLE THOMAS CARNICK               12/14/2023  12/14/2023  STAFF TRANSPORTATION
+                                                                                        NASHVILLE TO COLUMBIA, SPRING HILL AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NASHVILLE TO MURFREESBORO AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NASHVILLE TO THOMPSONS STATION, LEBANON, COLUMBIA,
+                                                                                        MURFREESBORO AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NASHVILLE TO DICKSON, MOUNT PLEASANT, MURFREESBORO, FRANKLIN
+                                                                                        AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NASHVILLE TO FRANKLIN, MOUNT PLEASANT AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

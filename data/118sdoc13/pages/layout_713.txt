@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DBRN20240622                  EMMA MARIE SPEYER                                         STAFF TRANSPORTATION                                                         $48.91
+DBRN20240623      05/07/2024  CITIBANK - TRAVEL CBA CARD        START       END         COLUMBUS TO NEWARK AND RETURN                                              $218.10
+DBRN20240624      05/14/2024  ERICA N KRAUSE                                            SENATOR TRANSPORTATION
+DBRN20240625      05/07/2024  JORDAN T PENNELL                  04/30/2024  04/30/2024  AIRFARE FOR SEN BROWN CLEVELAND TO WASHINGTON DC                             $12.78
+DBRN20240626      05/07/2024  JORDAN T PENNELL                                          STAFF TRANSPORTATION                                                         $10.72
+DBRN20240627      05/07/2024  ERICA N KRAUSE                    04/29/2024  04/29/2024  IN AND AROUND TOLEDO                                                         $29.48
+DBRN20240628      05/07/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION
+DBRN20240629      05/07/2024  ERICA N KRAUSE                    04/30/2024  04/30/2024  IN AND AROUND YOUNGSTOWN                                                      $4.75
+DBRN20240630      05/07/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION                                                          $5.49
+DBRN20240636      05/07/2024  ANTHONY L ELIOPOULOS              04/29/2024  04/29/2024  YOUNGSTOWN TO WARREN AND RETURN                                               $6.90
+DBRN20240637      05/13/2024  EMMA MARIE SPEYER                                         STAFF TRANSPORTATION                                                         $85.09
+DBRN20240640      05/09/2024  ERICA N KRAUSE                    04/30/2024  04/30/2024  IN AND AROUND TOLEDO                                                       $102.24
+                  05/14/2024                                                            STAFF TRANSPORTATION                                                         $17.42
+DBRN20240641                  ERICA N KRAUSE                    04/29/2024  04/29/2024  TOLEDO TO MAUMEE AND RETURN                                                  $18.34
+DBRN20240642      05/08/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION                                                         $93.36
+DBRN20240643      05/08/2024  ERICA N KRAUSE                    04/26/2024  04/26/2024  IN AND AROUND TOLEDO                                                          $9.62
+DBRN20240644      05/08/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION                                                          $9.04
+DBRN20240645      05/08/2024  ERICA N KRAUSE                    04/24/2024  04/24/2024  TOLEDO TO MAUMEE, FINDLAY AND RETURN                                         $78.86
+DBRN20240646      05/08/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION                                                         $24.25
+DBRN20240647      05/14/2024  ERICA N KRAUSE                    04/18/2024  04/18/2024  COLUMBUS TO DAYTON AND RETURN                                                $14.11
+DBRN20240648      05/09/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION                                                         $89.93
+DBRN20240649      05/09/2024  ERICA N KRAUSE                    04/30/2024  04/30/2024  COLUMBUS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $82.15
+DBRN20240650      05/09/2024  ERICA N KRAUSE                                            STAFF PER DIEM                                                               $17.15
+DBRN20240651      05/09/2024  ERICA N KRAUSE                    05/01/2024  05/01/2024  STAFF TRANSPORTATION                                                         $30.35  B-695
+DBRN20240652      05/09/2024  ERICA N KRAUSE                                            TOLEDO TO HURON, SANDUSKY AND RETURN                                         $56.81
+DBRN20240653      05/09/2024  ERICA N KRAUSE                    03/05/2024  03/05/2024  STAFF TRANSPORTATION                                                         $69.68
+                  05/09/2024                                                            CINCINNATI TO TOLEDO AND RETURN                                              $35.57
+                                                                03/06/2024  03/06/2024  STAFF TRANSPORTATION                                                         $45.02
+                                                                03/07/2024  03/07/2024  TOLEDO TO PERRYSBURG AND RETURN
+                                                                03/15/2024  03/15/2024  STAFF TRANSPORTATION
+                                                                03/18/2024  03/18/2024  TOLEDO TO BRYAN AND RETURN
+                                                                03/19/2024  03/19/2024  STAFF TRANSPORTATION
+                                                                04/16/2024  04/16/2024  TOLEDO TO SYLVANIA AND RETURN
+                                                                04/25/2024  04/25/2024  STAFF TRANSPORTATION
+                                                                03/21/2024  03/21/2024  IN AND AROUND TOLEDO
+                                                                03/22/2024  03/22/2024  STAFF TRANSPORTATION
+                                                                03/25/2024  03/25/2024  TOLEDO TO SANDUSKY AND RETURN
+                                                                03/28/2024  03/28/2024  STAFF TRANSPORTATION
+                                                                04/02/2024  04/02/2024  TOLEDO TO TIFFIN AND RETURN
+                                                                04/03/2024  04/03/2024  STAFF TRANSPORTATION
+                                                                                        TOLEDO TO SWANTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TOLEDO TO BOWLING GREEN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TOLEDO TO PORT CLINTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TOLEDO TO DEFIANCE, NAPOLEON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TOLEDO TO OAK HARBOR AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

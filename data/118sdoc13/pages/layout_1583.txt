@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION            AMOUNT ($)
+                   POSTED                                                  DATES
+DKNG20240392                  CITIBANK - SENATOR IBA CARD                               TICKET FEES                                                                            $30.00
+DKNG20240393      05/02/2024  CITIBANK - SENATOR IBA CARD       START       END         SENATOR TRANSPORTATION                                                               $334.10
+DKNG20240394      05/03/2024                                                            AIRFARE FOR SEN KING PORTLAND TO WASHINGTON DC
+DKNG20240395                  CITIBANK - SENATOR IBA CARD       04/22/2024  04/22/2024  TICKET FEES                                                                            $30.00
+DKNG20240396      05/02/2024  CITIBANK - SENATOR IBA CARD       04/20/2024  04/20/2024  TICKET FEES                                                                            $30.00
+DKNG20240397      05/02/2024  CITIBANK - SENATOR IBA CARD                               TICKET FEES                                                                            $30.00
+DKNG20240398      05/02/2024  CITIBANK - SENATOR IBA CARD       04/20/2024  04/20/2024  SENATOR TRANSPORTATION                                                               $350.10
+DKNG20240399      05/13/2024                                    04/20/2024  04/20/2024  AIRFARE FOR SEN KING PORTLAND TO WASHINGTON DC                                         $30.00
+                              CITIBANK - SENATOR IBA CARD       04/20/2024  04/20/2024  TICKET FEES                                                                          $543.37
+DKNG20240400      05/03/2024  EDITH A SMITH                     04/30/2024  04/30/2024  STAFF TRANSPORTATION
+DKNG20240401      05/10/2024                                                            BANGOR TO THE FOLLOWING AND RETURN: 4/2, 8 MILLINOCKET; 4/9 MILO; 4                    $32.02
+DKNG20240402                                                    04/20/2024  04/20/2024  /15 LINCOLN; 4/17 DOVER FOXCROFT; 4/19 DOVER FOXCROFT, CORINNA; 4                      $30.00
+DKNG20240403                                                    04/02/2024  04/22/2024  /22 PATTEN                                                                             $30.00
+                                                                                        STAFF TRANSPORTATION                                                                   $38.52
+DKNG20240404      05/03/2024  EDITH A SMITH                     04/01/2024  04/22/2024  BANGOR OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      $214.00   B-1546
+                  05/03/2024  CITIBANK - SENATOR IBA CARD       04/20/2024  04/20/2024  TICKET FEES                                                                            $93.73
+DKNG20240405      05/03/2024  CITIBANK - SENATOR IBA CARD       04/23/2024  04/23/2024  TICKET FEES                                                                          $790.24
+DKNG20240407      05/07/2024  ANGUS S KING JR                   04/25/2024  04/27/2024  SENATOR INCIDENTALS                                                                  $391.98
+DKNG20240408                                                                            SENATOR PER DIEM                                                                       $18.89
+                  05/09/2024  KATE DUROST                       04/24/2024  04/27/2024  WASHINGTON DC TO BANGOR AND RETURN
+DKNG20240409                                                                            STAFF PER DIEM                                                                          $8.91
+DKNG20240410      05/10/2024  CITIBANK - SENATOR IBA CARD       04/20/2024  04/20/2024  STAFF TRANSPORTATION                                                                 $109.98
+DKNG20240412      05/07/2024  EDITH A SMITH                     04/23/2024  04/27/2024  WASHINGTON DC TO BANGOR, PRESQUE ISLE, PORTLAND AND RETURN                           $183.58
+                  05/10/2024  EDITH A SMITH                     04/25/2024  04/26/2024  SENATOR TRANSPORTATION                                                               $140.70
+DKNG20240413                                                                            AIRFARE FOR SEN KING WASHINGTON DC TO PORTLAND                                       $375.20
+DKNG20240415      05/09/2024  EDITH A SMITH                     04/29/2024  04/29/2024  STAFF TRANSPORTATION
+DKNG20240416      05/13/2024  SHARON T CAMPBELL                 04/26/2024  04/26/2024  BANGOR OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                        $58.96
+DKNG20240419      05/07/2024  SCOTT F WILKINSON                 04/25/2024  04/26/2024  STAFF INCIDENTALS
+DKNG20240420                                                                            STAFF PER DIEM                                                                       $338.35
+DKNG20240421      05/16/2024  CHRISTINA VALAR BREEN             05/04/2024  05/04/2024  STAFF TRANSPORTATION                                                                   $34.17
+                  05/14/2024  SCOTT F WILKINSON                 05/01/2024  05/01/2024  BANGOR TO MACHIAS, CALAIS, MACHIAS AND RETURN
+                  06/05/2024  CITIBANK - SENATOR IBA CARD       05/25/2024  05/25/2024  STAFF TRANSPORTATION                                                                 $512.10
+                  05/21/2024  TAYLOR M CROSBY                   05/07/2024  05/07/2024  BANGOR TO CUTLER, MACHIAS, ELLSWORTH AND RETURN                                        $96.48
+                  05/22/2024  SARAH S STANLEY                   05/05/2024  05/05/2024  STAFF TRANSPORTATION                                                                   $35.24
+                  05/22/2024  CHRISTINA VALAR BREEN             05/09/2024  05/09/2024  HOULTON TO BANGOR, PRESQUE ISLE AND RETURN                                             $33.50
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AUGUSTA TO THE FOLLOWING AND RETURN: 4/25 WATERVILLE; 4/26
+                                                                                        WINSLOW
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HOLDEN TO CASTINE, EASTPORT, BRUNSWICK AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AUGUSTA TO WISCASSET AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN KING WASHINGTON DC TO PORTLAND
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BIDDEFORD TO AUGUSTA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BIDDEFORD TO LEBANON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BANGOR TO ELLSWORTH TO HOLDEN
+

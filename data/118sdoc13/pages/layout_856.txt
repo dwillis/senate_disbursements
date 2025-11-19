@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+              POSTED                                               DATES
+                                                                                TRAIN FARE FOR SEN CASEY WASHINGTON DC TO PHILADELPHIA AND                         $71.69
+                                                        START       END         RETURN                                                                             $25.70
+                                                                                STAFF TRANSPORTATION                                                             $200.38
+DCAS20240697  04/02/2024  ETHAN MARC SELETSKY           03/22/2024  03/22/2024  PHILADELPHIA TO COATESVILLE, WEST GROVE AND RETURN                               $445.32
+DCAS20240698  04/09/2024  MAIREAD LYNN                  02/15/2024  02/16/2024  STAFF INCIDENTALS                                                                  $18.51
+                                                                                STAFF PER DIEM                                                                   $176.00
+DCAS20240699  04/15/2024  MAIREAD LYNN                  01/26/2024  01/28/2024  STAFF TRANSPORTATION                                                               $69.88  B-838
+                                                                                WASHINGTON DC TO PHILADELPHIA, BRISTOL, PHILADELPHIA AND RETURN                    $39.06
+DCAS20240700  04/02/2024  BENJAMIN K SOLTERO DE MARTIN  03/15/2024  03/15/2024  STAFF PER DIEM                                                                   $177.55
+DCAS20240701  04/02/2024  ELIZABETH M COOPER            03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                             $103.85
+DCAS20240702  04/09/2024  KYLE L HANNON                 03/26/2024  03/26/2024  WASHINGTON DC TO PHILADELPHIA AND RETURN                                         $115.24
+DCAS20240704  04/09/2024  ELIZABETH M COOPER            03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                               $17.42
+DCAS20240710  04/09/2024  CALLIE R ANDERSON             03/27/2024  03/27/2024  HARRISBURG TO PHILADELPHIA, SCRANTON AND RETURN                                  $192.00
+DCAS20240711  04/04/2024  TRACE J LEDGARD               03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                             $208.07
+DCAS20240712  04/10/2024  SARA C MASKORNICK             03/27/2024  03/27/2024  STATE COLLEGE TO BURNHAM AND RETURN                                                $20.85
+DCAS20240714  04/10/2024  NIKITA VARMAN                 03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                               $33.16
+DCAS20240715  04/04/2024  CAMERON T COCHRAN             03/26/2024  03/26/2024  ERIE TO SHINGLEHOUSE, BRADFORD, WARREN AND RETURN                                $196.31
+DCAS20240717  04/05/2024  ELIZABETH M COOPER            03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                             $136.68
+DCAS20240718  04/10/2024  ELIZABETH M COOPER            03/29/2024  03/29/2024  STATE COLLEGE TO KERSEY, CURWENSVILLE AND RETURN                                   $56.28
+DCAS20240719  04/11/2024  KYLE L HANNON                 03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                               $35.30
+DCAS20240720  04/08/2024  TRACE J LEDGARD               04/01/2024  04/01/2024  SCRANTON TO KUTZTOWN TO OLD FORGE                                                  $35.04
+DCAS20240721  04/08/2024  BENJAMIN K SOLTERO DE MARTIN  03/14/2024  03/14/2024  STAFF TRANSPORTATION                                                               $71.02
+DCAS20240722  04/08/2024  BENJAMIN K SOLTERO DE MARTIN  03/21/2024  03/21/2024  PITTSBURGH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $81.07
+DCAS20240723  04/08/2024  BENJAMIN K SOLTERO DE MARTIN  03/25/2024  03/25/2024  STAFF TRANSPORTATION                                                             $230.33
+DCAS20240724  04/08/2024  BENJAMIN K SOLTERO DE MARTIN  03/29/2024  03/29/2024  WASHINGTON DC TO PHILADELPHIA AND RETURN                                           $92.59
+DCAS20240725  04/11/2024  KRISTEN E GENTILE             03/25/2024  03/25/2024  STAFF TRANSPORTATION                                                               $93.80
+DCAS20240726  04/09/2024  LINDSAY M MARTIN              03/13/2024  03/13/2024  WASHINGTON DC TO PHILADELPHIA AND RETURN
+DCAS20240727  04/10/2024  TRACE J LEDGARD               04/02/2024  04/02/2024  STAFF TRANSPORTATION
+                                                                                PITTSBURGH OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                STAFF TRANSPORTATION
+                                                                                STATE COLLEGE TO PHILIPSBURG AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                STATE COLLEGE TO READING, BERNVILLE AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                ERIE TO BRADFORD, WARREN AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                PITTSBURGH TO SCHENLEY AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                HARRISBURG TO YORK AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                HARRISBURG TO YORK AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                HARRISBURG TO YORK AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                HARRISBURG TO READING AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                ALEXANDRIA VA TO HARRISBURG AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                LANCASTER TO PHILADELPHIA AND RETURN
+                                                                                STAFF TRANSPORTATION
+

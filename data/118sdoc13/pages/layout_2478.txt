@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+              POSTED                                              DATES
+                                                                               STAFF TRANSPORTATION                                                           $22.20
+                                                       START       END         MACCLESFIELD TO RALEIGH AND RETURN                                              $7.80
+                                                                               STAFF TRANSPORTATION
+DTIL20240587  04/26/2024  NICHOLAS CASE HALMRAST       04/16/2024  04/16/2024  CHARLOTTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $16.20  B-2441
+DTIL20240588  04/26/2024  NICHOLAS CASE HALMRAST       04/18/2024  04/18/2024  STAFF TRANSPORTATION                                                           $37.80
+DTIL20240589  04/26/2024  NICHOLAS CASE HALMRAST       04/17/2024  04/17/2024  CHARLOTTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $48.60
+DTIL20240590  04/26/2024  NICHOLAS CASE HALMRAST       04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                           $35.00
+DTIL20240591  04/30/2024  GRAYSON COLE OVERHOLT        04/17/2024  04/17/2024  CHARLOTTE TO CONCORD AND RETURN                                                $16.83
+DTIL20240592  04/29/2024  JANINE M OSBORNE             04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                           $62.40
+                                                                               CHARLOTTE TO MOORESVILLE AND RETURN                                            $14.40
+DTIL20240593  04/29/2024  GRAYSON COLE OVERHOLT        04/20/2024  04/20/2024  STAFF TRANSPORTATION                                                           $57.60
+DTIL20240594  04/30/2024  GRAYSON COLE OVERHOLT        04/19/2024  04/19/2024  IN AND AROUND WILMINGTON                                                       $88.80
+DTIL20240595  04/30/2024  GRAYSON COLE OVERHOLT        04/18/2024  04/18/2024  STAFF PER DIEM                                                                 $78.00
+DTIL20240596  04/30/2024  ELIZABETH MAE EDWARDS        04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                           $75.09
+DTIL20240597  05/01/2024  ELIZABETH MAE EDWARDS        04/18/2024  04/19/2024  BURLINGTON TO RALEIGH AND RETURN                                             $289.00
+                                                                               STAFF TRANSPORTATION                                                           $64.00
+DTIL20240598  05/08/2024  CITIBANK - TRAVEL CBA CARD   04/18/2024  04/19/2024  IN AND AROUND WILMINGTON                                                     $700.70
+DTIL20240599  05/08/2024  CITIBANK - TRAVEL CBA CARD   04/18/2024  04/19/2024  STAFF TRANSPORTATION                                                         $298.20
+DTIL20240600  05/02/2024  ANNA G OSBORNE               04/17/2024  04/19/2024  WILMINGTON TO JACKSONVILLE AND RETURN                                          $47.80
+                                                                               STAFF TRANSPORTATION                                                         $114.33
+DTIL20240601  05/08/2024  CITIBANK - TRAVEL CBA CARD   04/17/2024  04/19/2024  WILMINGTON TO OCEAN ISLE BEACH AND RETURN                                    $298.20
+DTIL20240602  05/02/2024  CITIBANK - TRAVEL CBA CARD   04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                         $149.10
+DTIL20240603  05/21/2024  KATHERINE E KOUBA            04/18/2024  04/19/2024  CHINA GROVE TO GREENSBORO AND RETURN                                           $55.53
+                                                                               STAFF INCIDENTALS                                                            $105.03
+DTIL20240604  05/09/2024  CITIBANK - SENATOR IBA CARD  04/21/2024  04/21/2024  STAFF PER DIEM                                                               $300.10
+DTIL20240605  05/01/2024  GRAYSON COLE OVERHOLT        04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                         $118.80
+DTIL20240606  05/01/2024  NICHOLAS CASE HALMRAST       04/22/2024  04/22/2024  CHARLOTTE TO WASHINGTON DC AND RETURN                                          $45.60
+DTIL20240607  05/01/2024  NICHOLAS CASE HALMRAST       04/21/2024  04/21/2024  STAFF TRANSPORTATION                                                           $51.65
+DTIL20240608  05/01/2024  GRAYSON COLE OVERHOLT        04/24/2024  04/24/2024  AIRFARE FOR E EDWARDS CHARLOTTE TO WASHINGTON DC AND RETURN                  $108.00
+                                                                               STAFF TRANSPORTATION
+                                                                               AIRFARE FOR K KOUBA RALEIGH TO WASHINGTON DC AND RETURN
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               RALEIGH TO WASHINGTON DC AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               AIRFARE FOR A OSBORNE RALEIGH TO WASHINGTON DC AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               AIRFARE FOR K BARNES RALEIGH TO WASHINGTON DC
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               RALEIGH TO WASHINGTON DC AND RETURN
+                                                                               SENATOR TRANSPORTATION
+                                                                               AIRFARE FOR SEN TILLIS WASHINGTON DC TO CHARLOTTE
+                                                                               STAFF TRANSPORTATION
+                                                                               WILMINGTON TO NEW BERN AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               CHARLOTTE TO CONCORD AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               CHARLOTTE TO HUNTERSVILLE AND RETURN
+                                                                               STAFF TRANSPORTATION
+

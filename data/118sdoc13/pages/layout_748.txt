@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+                   POSTED                                                  DATES
+DBDD20240526                  SAMUEL JOSEPH SHUMATE                                     STAFF PER DIEM                                                                        $14.65
+DBDD20240527      06/18/2024                                    START       END         STAFF TRANSPORTATION                                                                  $77.05
+DBDD20240528                  SAMUEL JOSEPH SHUMATE                                     SANFORD TO DURHAM AND RETURN                                                          $10.68
+DBDD20240531      06/24/2024                                    06/11/2024  06/11/2024  STAFF PER DIEM                                                                      $111.35
+DBDD20240532                  MARCEL MILEWSKI                                           STAFF TRANSPORTATION                                                                  $20.77
+DBDD20240533      06/18/2024  THEODORE BUDD                     06/12/2024  06/12/2024  SANFORD TO LUMBERTON, LAURINBURG, WAGRAM AND RETURN                                 $488.60
+DBDD20240535      06/24/2024  THEODORE BUDD                                             STAFF TRANSPORTATION                                                                $490.10
+DBDD20240536      06/25/2024  THEODORE BUDD                     06/11/2024  06/11/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $353.98
+DBDD20240537      06/24/2024  THEODORE BUDD                     05/20/2024  05/20/2024  SENATOR TRANSPORTATION                                                              $241.20
+                  07/01/2024  THEODORE BUDD                     05/23/2024  05/23/2024  CHARLOTTE TO WASHINGTON DC                                                          $421.43
+DBDD20240538      06/28/2024  SAMUEL JOSEPH SHUMATE             06/03/2024  06/03/2024  SENATOR TRANSPORTATION                                                                $13.64
+DBDD20240539      07/01/2024                                    06/11/2024  06/11/2024  WASHINGTON DC TO CHARLOTTE                                                          $133.34
+DBDD20240541                                                    06/13/2024  06/14/2024  SENATOR TRANSPORTATION                                                              $106.59
+                                                                06/13/2024  06/14/2024  CHARLOTTE TO WASHINGTON DC                                                            $95.14
+                                                                                        SENATOR TRANSPORTATION                                                                $18.02
+                  06/28/2024  JERRY H LAUGHTER                  06/10/2024  06/10/2024  ADVANCE TO WASHINGTON DC                                                            $190.14   B-730
+                  07/01/2024  SAMUEL JOSEPH SHUMATE             06/14/2024  06/14/2024  SENATOR TRANSPORTATION                                                              $651.24
+                                                                                        WASHINGTON DC TO NEW BERN, ORIENTAL, MOREHEAD CITY, ADVANCE
+                  06/28/2024  WILLIAM J SOMERS                  05/06/2024  05/21/2024  STAFF INCIDENTALS                                                                   $862.05
+                                                                                        STAFF PER DIEM
+DBDD20240542      06/28/2024  WILLIAM J SOMERS                  05/22/2024  06/07/2024  STAFF TRANSPORTATION                                                                $506.71
+                                                                                        SANFORD TO NEW BERN, BRIDGETON AND RETURN
+DBDD20240543      07/03/2024  WILLIAM J SOMERS                  06/10/2024  06/14/2024  STAFF TRANSPORTATION                                                                $133.33
+                                                                                        ASHEVILLE TO LENOIR AND RETURN                                                        $10.95
+DBDD20240544      06/28/2024  WILLIAM J SOMERS                  05/20/2024  05/20/2024  STAFF PER DIEM
+DBDD20240545      07/01/2024  SAMUEL JOSEPH SHUMATE             06/17/2024  06/17/2024  STAFF TRANSPORTATION                                                                $211.78
+DBDD20240548                                                                            SANFORD TO NEW BERN, ORIENTAL, MOREHEAD CITY AND RETURN                               $11.29
+                  06/28/2024  SAMUEL JOSEPH SHUMATE             06/18/2024  06/18/2024  STAFF TRANSPORTATION                                                                  $49.51
+                                                                                        YADKINVILLE TO THE FOLLOWING AND RETURN: 5/6 NORTH WILKESBORO; 5
+                                                                                        /7, 16 ADVANCE; 5/8 CLEMMONS; 5/9 ELKIN, JONESVILLE, BOONE, BANNER
+                                                                                        ELK; 5/10 NORTH WILKESBORO, WILKESBORO; 5/13 TAYLORSVILLE; 5/14
+                                                                                        ADVANCE, GREENSBORO, SHELBY, KINGS MOUNTAIN; 5/15 STATESVILLE; 5
+                                                                                        /21 ADVANCE, STATESVILLE
+                                                                                        STAFF TRANSPORTATION
+                                                                                        YADKINVILLE TO THE FOLLOWING AND RETURN: 5/22 MOORESVILLE,
+                                                                                        DOBSON; 5/23 BOONE; 5/24, 6/4 LEXINGTON; 5/29 WINSTON SALEM, NORTH
+                                                                                        WILKESBORO; 5/30 ADVANCE; 6/3 ADVANCE, CHARLOTTE, ADVANCE; 6/5
+                                                                                        SPRUCE PINE, BAKERSVILLE; 6/6 WILKESBORO, NORTH WILKESBORO; 6/7
+                                                                                        HICKORY, LINCOLNTON
+                                                                                        STAFF TRANSPORTATION
+                                                                                        YADKINVILLE TO THE FOLLOWING AND RETURN: 6/10 DURHAM, CARY,
+                                                                                        ADVANCE; 6/11 ADVANCE; 6/12 LEXINGTON; 6/13 WILKESBORO, BOONE,
+                                                                                        BANNER ELK; 6/14 CONCORD
+                                                                                        STAFF TRANSPORTATION
+                                                                                        YADKINVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SANFORD TO HAVELOCK, CHERRY POINT AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SANFORD TO FAYETTEVILLE AND RETURN
+

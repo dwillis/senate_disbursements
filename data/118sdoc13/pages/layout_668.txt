@@ -1,0 +1,56 @@
+DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION              AMOUNT ($)
+              POSTED                                      DATES
+                                                                       BLOOMINGTON TO INDIANAPOLIS, WASHINGTON DC, INDIANAPOLIS AND                             $17.88
+                                               START       END         RETURN                                                                                 $176.82
+                                                                       STAFF INCIDENTALS                                                                      $237.85
+DBRU20240291  05/09/2024  TERRY R SEITZ        04/22/2024  04/23/2024  STAFF PER DIEM                                                                         $586.92
+                                                                       STAFF TRANSPORTATION
+DBRU20240292  05/14/2024  JERROLD D ALEXANDER  03/05/2024  03/27/2024  JASPER TO COLUMBUS, SHELBYVILLE, GREENFIELD, INDIANAPOLIS,                             $162.67
+                                                                       ZIONSVILLE, BLOOMINGTON AND RETURN                                                     $105.86
+DBRU20240293  05/08/2024  JERROLD D ALEXANDER  03/01/2024  03/31/2024  STAFF TRANSPORTATION                                                                   $909.19
+DBRU20240294  05/08/2024  MARY V MARTIN        04/01/2024  04/30/2024  ANDERSON TO THE FOLLOWING AND RETURN: 3/5, 9 KOKOMO; 3/6
+DBRU20240295  05/14/2024  MARY V MARTIN        04/05/2024  04/26/2024  RICHMOND; 3/8 MARION; 3/11, 27 INDIANAPOLIS; 3/13 HUNTINGTON; 3/14                       $79.06
+                                                                       NEW PALESTINE; 3/25 HAGERSTOWN                                                         $931.97
+DBRU20240296  05/07/2024  MARY V MARTIN        04/29/2024  04/29/2024  STAFF TRANSPORTATION                                                                             B-650
+DBRU20240297  05/13/2024  ALEXANDER P HICKNER  04/03/2024  04/25/2024  ANDERSON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      $472.11
+                                                                       STAFF TRANSPORTATION
+DBRU20240298  05/10/2024  JASON W COCKERILL    03/01/2024  03/14/2024  ANGOLA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                        $110.20
+                                                                       STAFF TRANSPORTATION                                                                     $12.84
+DBRU20240299  05/09/2024  JASON W COCKERILL    03/15/2024  03/28/2024  ANGOLA TO THE FOLLOWING AND RETURN: 4/5, 9, 16, 22, 25, 26 FORT
+DBRU20240300  05/24/2024  TERRY R SEITZ        05/01/2024  05/02/2024  WAYNE; 4/10 FORT WAYNE, SOUTH BEND; 4/12 WARSAW; 4/17, 19 SOUTH                        $109.97
+                                                                       BEND                                                                                   $248.57
+DBRU20240301  05/08/2024  TERRY R SEITZ        04/02/2024  04/25/2024  STAFF TRANSPORTATION
+DBRU20240302  05/17/2024  TERRY R SEITZ        04/05/2024  04/15/2024  ANGOLA TO ELKHART AND RETURN                                                             $93.13
+DBRU20240304                                                           STAFF TRANSPORTATION                                                                   $424.78
+DBRU20240305  05/23/2024  ANTHONY G FERRARO    04/01/2024  04/30/2024  INDIANAPOLIS TO THE FOLLOWING AND RETURN: 4/3 BLOOMINGTON, WEST
+              05/24/2024  ANTHONY G FERRARO    04/02/2024  04/25/2024  LAFAYETTE; 4/8 JASPER; 4/11 ZIONSVILLE; 4/12 CARMEL, ZIONSVILLE; 4/13                    $32.16
+DBRU20240306                                                           LEBANON, LOGANSPORT; 4/15 BLOOMINGTON; 4/22 MONTPELIER, FORT                           $394.63
+              05/24/2024  ANTHONY G FERRARO    04/26/2024  04/26/2024  WAYNE, ZIONSVILLE; 4/25 ZIONSVILLE, CARMEL
+                                                                       STAFF TRANSPORTATION                                                                   $111.22
+                                                                       SALEM TO THE FOLLOWING AND RETURN: 3/1 SEYMOUR, SCOTTSBURG; 3/4
+                                                                       JEFFERSONVILLE, CLARKSVILLE, SALEM; 3/5, 14 NEW ALBANY; 3/6
+                                                                       CORYDON, ELIZABETH; 3/7 MITCHELL, BEDFORD; 3/8 NEW ALBANY,
+                                                                       JEFFERSONVILLE; 3/11 CORYDON; 3/12 MARENGO; 3/13 SCOTTSBURG,
+                                                                       AUSTIN, SALEM
+                                                                       STAFF TRANSPORTATION
+                                                                       SALEM TO THE FOLLOWING AND RETURN: 3/15 PAOLI, FRENCH LICK; 3/28
+                                                                       BROWNSTOWN, SEYMOUR, SCOTTSBURG
+                                                                       STAFF INCIDENTALS
+                                                                       STAFF PER DIEM
+                                                                       STAFF TRANSPORTATION
+                                                                       JASPER TO SCOTTSBURG, NORTH VERNON, GREENSBURG, BATESVILLE,
+                                                                       LAWRENCEBURG, CHARLESTOWN AND RETURN
+                                                                       STAFF TRANSPORTATION
+                                                                       JASPER OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                       STAFF TRANSPORTATION
+                                                                       JASPER TO THE FOLLOWING AND RETURN: 4/5 TERRE HAUTE; 4/11
+                                                                       EVANSVILLE, POSEYVILLE; 4/13 EVANSVILLE; 4/15 BLOOMINGTON
+                                                                       STAFF TRANSPORTATION
+                                                                       HAMMOND OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                       STAFF TRANSPORTATION
+                                                                       HAMMOND TO THE FOLLOWING AND RETURN: 4/2, 24 CHESTERTON; 4/6, 25
+                                                                       LA PORTE; 4/7 GARY; 4/11 BEVERLY SHORES; 4/12, 19 MERRILLVILLE; 4/16
+                                                                       LOMBARD IL; 4/25 WESTVILLE
+                                                                       STAFF TRANSPORTATION
+                                                                       HAMMOND TO GRANGER AND RETURN
+

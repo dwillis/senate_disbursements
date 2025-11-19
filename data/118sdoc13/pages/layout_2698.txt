@@ -1,0 +1,42 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME    OBLIGATION/SERVICE                         DESCRIPTION                                         AMOUNT ($)
+                   POSTED                                                    DATES
+DWIC20240523                  MYLES E RUSSELL                                                                                                                                    $211.72
+                  09/28/2024                                      START       END
+DWIC20240525                  FRANCIS J CARROLL                                                                                                                                    $73.70
+                  09/21/2024                                      08/23/2024                        TUPELO TO BATESVILLE, COFFEEVILLE, PONTOTOC AND RETURN
+DWIC20240204                  CITIBANK - PURCHASE CARD                         08/23/2024 STAFF TRANSPORTATION                                                               $59,015.13
+DWIC20240241      04/12/2024  MAGNOLIA CLIPPING & BRD MONITORING  09/09/2024                                                                                                  $1,100.00
+DWIC20240242      04/26/2024  SVCS                                                                  CORINTH TO HORN LAKE, ROBINSONVILLE, TUNICA, CLARKSDALE AND                  $449.00
+DWIC20240283      04/23/2024  MAGNOLIA CLIPPING & BRD MONITORING  02/15/2024                        RETURN                                                                         $85.00
+DWIC20240288      05/24/2024  SVCS                                03/28/2024   09/09/2024 STAFF TRANSPORTATION                                                                     $65.00
+DWIC20240289      05/23/2024  ACE DATA STORAGE                    03/28/2024                        TUPELO TO COLUMBUS AND RETURN                                                $191.00
+DWIC20240334      05/22/2024  MAGNOLIA CLIPPING & BRD MONITORING  04/04/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                                 $85.00
+DWIC20240340      06/25/2024  SVCS                                04/28/2024                                                                                                     $104.98
+DWIC20240341      06/13/2024  MAGNOLIA CLIPPING & BRD MONITORING  04/28/2024  02/15/2024  TRAIN/ORIENT/CONFERENCE FEES                                                           $270.20
+DWIC20240382      06/13/2024  SVCS                                04/01/2024  03/28/2024  CLIPPING SERVICES                                                                        $85.00
+DWIC20240385      07/16/2024  READYREFRESH                        05/28/2024                                                                                                       $65.00
+DWIC20240386      07/26/2024  MAGNOLIA CLIPPING & BROADCAST       05/28/2024  03/28/2024  CLIPPING SERVICES                                                                      $350.00
+DWIC20240387      07/17/2024  MONITORING                          06/01/2024  04/04/2024  SERVICE CHARGES & OTHER FEES                                                             $85.00
+DWIC20240413      07/18/2024  MAGNOLIA CLIPPING & BROADCAST       05/01/2024  04/28/2024  CLIPPING SERVICES                                                                      $355.40
+DWIC20240428      07/31/2024  MONITORING                          06/28/2024                                                                                                       $77.17
+DWIC20240431      08/15/2024  ACE DATA STORAGE                    06/28/2024  04/28/2024  CLIPPING SERVICES                                                                      $350.00
+DWIC20240432      08/16/2024  LEIDOS DIGITAL SOLUTIONS INC        05/29/2024  04/16/2024  VOICE, DATA COMM EQP MAINT                                                               $85.00
+DWIC20240502      08/13/2024  MAGNOLIA CLIPPING & BRD MONITORING  06/01/2024  05/28/2024  CLIPPING SERVICES                                                                      $227.00
+DWIC20240503      09/26/2024  SVCS                                07/28/2024                                                                                                     $350.00
+DWIC20240504      09/26/2024  MAGNOLIA CLIPPING & BRD MONITORING  07/28/2024  05/28/2024  CLIPPING SERVICES                                                                      $380.60   B-2661
+                  09/18/2024  SVCS                                07/01/2024  06/30/2024  SERVICE CHARGES & OTHER FEES                                                             $85.00
+                              READYREFRESH                        08/28/2024  05/31/2024  IT EQUIP MAINT                                                                      $4,845.35
+                              LEIDOS DIGITAL SOLUTIONS INC        08/28/2024  06/28/2024  CLIPPING SERVICES
+                              MAGNOLIA CLIPPING & BRD MONITORING
+                              SVCS                                            06/28/2024  CLIPPING SERVICES
+                              MAGNOLIA CLIPPING & BRD MONITORING              06/18/2024  VOICE, DATA COMM EQP MAINT
+                              SVCS                                            06/30/2024  IT EQUIP MAINT
+                              LEIDOS DIGITAL SOLUTIONS INC                    07/28/2024  CLIPPING SERVICES
+                              MAGNOLIA CLIPPING & BRD MONITORING
+                              SVCS                                            07/28/2024  CLIPPING SERVICES
+                              MAGNOLIA CLIPPING & BRD MONITORING              07/31/2024  IT EQUIP MAINT
+                              SVCS                                            08/28/2024  CLIPPING SERVICES
+
+                                                                               08/28/2024 CLIPPING SERVICES
+                                                                              OTHER CONTRACTUAL SERVICES
+

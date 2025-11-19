@@ -1,0 +1,68 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME    OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                             DATES
+VSAA22407376       POSTED     CARAHSOFT TECHNOLOGY CORPORATION                            APPLICATION SOFTWARE MAINT                                             $21,529.37
+VSAA22407387                  ZEALOUS LLC                         START       END         APPLICATION SOFTWARE MAINT                                              $1,500.00
+VSAA22407406      08/09/2024  WHOLE BODY CONCEPTS INC                                     SERVICE CHARGES & OTHER FEES                                            $4,050.00
+VSAA22407407      08/06/2024  JS GLOBAL, LLC                      08/01/2024  07/31/2025  NON-FEDERAL FAC MAINT, REPAIR                                           $1,250.00
+VSAA22407414      08/08/2024  JOHNSON CONTROLS                    07/16/2024  07/16/2024  AUDIO, VISUAL EQUIP MAINT
+                  08/28/2024                                      07/25/2024  07/26/2024  MONITORING & GUARD SERVICES                                            $57,390.72
+VSAA22407415      09/19/2024  JOHNSON CONTROLS                    07/01/2024  07/01/2024  AUDIO, VISUAL EQUIP MAINT                                              $19,664.75
+                                                                  05/01/2024  05/31/2024  MONITORING & GUARD SERVICES                                            $57,527.04
+VSAA22407422      09/19/2024  GRAYBAR ELECTRIC CO INC                                     VOICE, DATA COMM EQP MAINT                                             $19,711.02
+VSAA22407424                  SYMPLICITY CORPORATION              04/01/2024  04/30/2024  APPLICATION SOFTWARE MAINT
+VSAA22407425      08/09/2024  SYMPLICITY CORPORATION                                      APPLICATION SOFTWARE MAINT                                              $2,664.35
+VSAA22407449      08/14/2024  VISIONFOUNDRY, INC.                 10/18/2023  10/18/2023  APPLICATION SOFTWARE MAINT                                                 $201.00  B-433
+VSAA22407465      08/08/2024  COMPUTERWORKS INC.                  07/01/2024  07/31/2024  APPLICATION SOFTWARE MAINT
+VSAA22407466      08/13/2024  HEIDELBERG USA, INC.                07/01/2024  07/31/2024  PRODUCTION EQUIP MAINT                                                 $33,728.00
+VSAA22407473      08/09/2024  GRAYBAR ELECTRIC CO INC             05/01/2024  06/07/2024  VOICE, DATA COMM EQP MAINT                                              $2,240.00
+VSAA22407491      08/28/2024  PERATON ENTERPRISE SOLUTIONS        07/01/2024  07/31/2024  TECHNICAL SUPPORT
+VSAA22407497      08/19/2024  CREATIVENGINE                       07/29/2024  07/29/2024  APPLICATION SOFTWARE MAINT                                             $39,713.00
+VSAA22407498      08/13/2024  CREATIVENGINE                       10/18/2023  10/18/2023  APPLICATION SOFTWARE MAINT                                                 $801.60
+VSAA22407525      08/15/2024  INOVA HEALTH CARE SERVICES          04/02/2024  04/02/2024  SERVICE CHARGES & OTHER FEES
+VSAA22407535      08/14/2024  DEPARTMENT OF HOMELAND SECURITY     07/01/2024  07/31/2024  PHYSICAL SECURITY                                                       $4,631.93
+VSAA22407541      08/09/2024  CHESAPEAKE NETCRAFTSMEN, LLC        07/01/2024  07/31/2024  MANAGEMENT CONSULTANTS                                               $565,175.76
+VSAA22407544      09/19/2024  ASCENDANT APP, LLC                  07/25/2024  07/26/2024  APPLICATION SOFTWARE MAINT
+VSAA22407559      08/15/2024  TYRRELLTECH, INC.                   07/01/2024  07/01/2024  PRODUCTION EQUIP MAINT                                                 $11,250.00
+VSAA22407566      08/09/2024  OTTO KROEGER ASSOCIATES, LLC        06/03/2024  06/28/2024  TRAIN/ORIENT/CONFERENCE FEES                                           $11,250.00
+VSAA22407567      08/22/2024  OTTO KROEGER ASSOCIATES, LLC        07/01/2024  07/31/2024  TRAIN/ORIENT/CONFERENCE FEES
+VSAA22407581      08/19/2024  PERATON ENTERPRISE SOLUTIONS        04/29/2024  04/29/2025  VOICE, DATA COMM EQP MAINT                                              $3,600.00
+VSAA22407594      08/15/2024  ALTERION INC                        05/21/2024  05/21/2024  MANAGEMENT CONSULTANTS                                                  $1,150.00
+VSAA22407598      08/22/2024  BART & ASSOCIATES, LLC              05/21/2024  05/21/2024  TECHNICAL SUPPORT                                                      $99,475.40
+                  08/27/2024  VIRGINIA HOSPITAL CENTER ARLINGTON  05/02/2024  05/02/2024                                                                         $21,215.00
+VSAA22407599      08/28/2024  HEALT                               07/01/2024  07/31/2024  SERVICE CHARGES & OTHER FEES                                            $8,499.00
+                              PRESIDENT AND FELLOWS OF HARVARD    07/01/2024  07/31/2024                                                                          $3,572.00
+VSAA22407600      08/16/2024  COLLEGE                                                     TRAIN/ORIENT/CONFERENCE FEES                                            $3,000.00
+                              DEPARTMENT OF HOMELAND SECURITY     07/25/2024  07/26/2024
+VSAA22407605      08/06/2024  PERATON ENTERPRISE SOLUTIONS                                FEDERAL - MONITOR, GUARD SVC                                               $383.86
+VSAA22407616                  BTR FLOORING & RECYCLING            07/14/2024  07/19/2024  APPLICATION SOFTWARE MAINT                                              $7,249.14
+VSAA22407622      08/22/2024  BLACKWOOD ASSOCIATES, INC.                                  SERVICE CHARGES & OTHER FEES                                         $244,774.91
+VSAA22407633      08/19/2024  DEPARTMENT OF HOMELAND SECURITY     08/01/2024  08/31/2024  VOICE, DATA COMM EQP MAINT
+VSAA22407636      08/19/2024  CHESAPEAKE NETCRAFTSMEN, LLC        07/01/2024  07/01/2024  PHYSICAL SECURITY                                                          $855.00
+VSAA22407637      08/28/2024  HEIDELBERG USA, INC.                07/22/2024  07/22/2024  MANAGEMENT CONSULTANTS
+VSAA22407642      09/10/2024  LEIDOS DIGITAL SOLUTIONS INC        06/03/2024  06/21/2025  PRODUCTION EQUIP MAINT                                                 $10,500.00
+VSAA22407645      08/15/2024  K2 AUDIO, LLC                       10/19/2023  10/19/2023  APPLICATION SOFTWARE MAINT
+VSAA22407647      08/28/2024  ACCU TECH CORPORATION               07/01/2024  07/31/2024  AUDIO, VISUAL EQUIP MAINT                                              $32,557.31
+VSAA22407658      08/19/2024  PERATON ENTERPRISE SOLUTIONS        07/29/2024  07/29/2024  VOICE, DATA COMM EQP MAINT                                             $10,940.01
+VSAA22407665      09/27/2024  PERATON ENTERPRISE SOLUTIONS        07/01/2024  07/31/2024  TECHNICAL SUPPORT
+VSAA22407667      08/20/2024  PERATON ENTERPRISE SOLUTIONS        09/12/2024  09/12/2024  TECHNICAL SUPPORT                                                       $4,370.50
+VSAA22407668      08/20/2024  MASLOW MEDIA GROUP INC              10/18/2023  10/18/2023  TECHNICAL SUPPORT                                                      $99,948.93
+VSAA22407685      08/20/2024  ANIXTER INC                         04/02/2024  04/02/2024  TECHNICAL SUPPORT
+VSAA22407690      08/20/2024  EMERGENT, LLC                       04/02/2024  04/02/2024  VOICE, DATA COMM EQP MAINT                                              $9,247.53
+VSAA22407695      08/22/2024  BART & ASSOCIATES, LLC              04/02/2024  04/02/2024  MANAGEMENT CONSULTANTS                                                 $82,071.63
+VSAA22407699      09/12/2024  DEPARTMENT OF HOMELAND SECURITY     07/12/2024  07/12/2024  TECHNICAL SUPPORT
+VSAA22407701      08/29/2024                                      10/23/2023  10/23/2023  PHYSICAL SECURITY                                                       $8,082.50
+                  08/27/2024                                      07/01/2024  07/31/2024                                                                       $345,048.00
+                  09/05/2024                                      07/01/2024  07/31/2024
+                                                                  10/19/2023  10/19/2023                                                                          $1,855.31
+                                                                                                                                                                     $267.60
+
+                                                                                                                                                                 $21,296.27
+                                                                                                                                                                 $36,052.25
+                                                                                                                                                                 $33,001.68
+
+                                                                                                                                                                     $550.00
+                                                                                                                                                                     $304.80
+                                                                                                                                                                 $25,636.86
+                                                                                                                                                               $127,014.06
+                                                                                                                                                                  $3,479.88
+

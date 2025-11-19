@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME          OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+              POSTED                                     DATES
+                                                                      STAFF TRANSPORTATION                                                       $107.20
+                                              START       END         MEMPHIS TO JACKSON, BROWNSVILLE AND RETURN                                   $60.54
+                                                                      STAFF INCIDENTALS
+DBLA20241934  08/22/2024  CASSANDRA S TURNER  08/04/2024  08/07/2024  STAFF PER DIEM                                                             $613.33
+                                                                      STAFF TRANSPORTATION                                                       $462.24
+DBLA20241935  08/22/2024  MICHAEL L HENSLEY   07/11/2024  07/11/2024  MEMPHIS TO CHATTANOOGA AND RETURN                                          $153.43   B-564
+DBLA20241936  08/22/2024  MICHAEL L HENSLEY   07/12/2024  07/12/2024  STAFF TRANSPORTATION
+DBLA20241937  08/22/2024  MICHAEL L HENSLEY   07/15/2024  07/15/2024  KNOXVILLE TO ELIZABETHTON AND RETURN                                         $74.37
+DBLA20241938  08/22/2024  MICHAEL L HENSLEY   07/16/2024  07/16/2024  STAFF TRANSPORTATION                                                       $142.04
+DBLA20241939  08/22/2024  MICHAEL L HENSLEY   07/18/2024  07/18/2024  KNOXVILLE TO PARROTTSVILLE AND RETURN                                      $124.62
+DBLA20241940  08/22/2024  MICHAEL L HENSLEY   07/20/2024  07/20/2024  STAFF TRANSPORTATION                                                       $179.56
+DBLA20241941  08/22/2024  MICHAEL L HENSLEY   07/22/2024  07/22/2024  KNOXVILLE TO JOHNSON CITY AND RETURN
+DBLA20241942  08/22/2024  MICHAEL L HENSLEY   07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                         $44.89
+DBLA20241943  08/22/2024  MICHAEL L HENSLEY   07/24/2024  07/24/2024  KNOXVILLE TO JONESBOROUGH AND RETURN                                         $92.46
+DBLA20241944  08/22/2024  MICHAEL L HENSLEY   07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                       $206.36
+DBLA20241945  08/22/2024  MICHAEL L HENSLEY   07/26/2024  07/26/2024  KNOXVILLE TO ROAN MOUNTAIN AND RETURN                                      $151.42
+DBLA20241946  08/22/2024  MICHAEL L HENSLEY   07/29/2024  07/29/2024  STAFF TRANSPORTATION                                                       $143.38
+DBLA20241947  08/22/2024  MICHAEL L HENSLEY   07/30/2024  07/30/2024  KNOXVILLE TO RUTLEDGE AND RETURN                                           $139.36
+DBLA20241948  08/22/2024  MICHAEL L HENSLEY   07/31/2024  07/31/2024  STAFF TRANSPORTATION                                                         $93.13
+DBLA20241949  08/22/2024  MICHAEL L HENSLEY   08/01/2024  08/01/2024  KNOXVILLE TO ROGERSVILLE AND RETURN                                        $206.36
+DBLA20241950  08/22/2024  MICHAEL L HENSLEY   08/02/2024  08/02/2024  STAFF TRANSPORTATION                                                         $94.47
+DBLA20241951  08/22/2024  MICHAEL L HENSLEY   08/05/2024  08/05/2024  KNOXVILLE TO MOUNTAIN CITY AND RETURN                                      $124.62
+DBLA20241952  08/22/2024  MICHAEL L HENSLEY   08/06/2024  08/06/2024  STAFF TRANSPORTATION                                                         $73.70
+DBLA20241953  08/22/2024  MICHAEL L HENSLEY   08/07/2024  08/07/2024  KNOXVILLE TO BLOUNTVILLE, JONESBOROUGH AND RETURN                          $142.04
+DBLA20241954  08/22/2024  MICHAEL L HENSLEY   08/08/2024  08/08/2024  STAFF TRANSPORTATION                                                       $132.66
+DBLA20241955  08/22/2024  MICHAEL L HENSLEY   08/09/2024  08/09/2024  KNOXVILLE TO JOHNSON CITY AND RETURN                                         $96.48
+DBLA20241956  08/23/2024  NEELY, BLAKEMON L   08/08/2024  08/08/2024  STAFF TRANSPORTATION                                                         $96.48
+                                                                      KNOXVILLE TO AFTON, JOHNSON CITY AND RETURN                                  $80.40
+                                                                      STAFF TRANSPORTATION                                                         $13.21
+                                                                      KNOXVILLE TO CUMBERLAND GAP, RUTLEDGE AND RETURN                           $214.46
+                                                                      STAFF TRANSPORTATION
+                                                                      KNOXVILLE TO MOUNTAIN CITY AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      KNOXVILLE TO GREENEVILLE AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      KNOXVILLE TO CHURCH HILL, GREENEVILLE AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      KNOXVILLE TO NEWPORT, SEVIERVILLE AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      KNOXVILLE TO JOHNSON CITY AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      KNOXVILLE TO KINGSPORT AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      KNOXVILLE TO GREENEVILLE, NEWPORT AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      KNOXVILLE TO GREENEVILLE, NEWPORT AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      KNOXVILLE TO HARROGATE AND RETURN
+                                                                      STAFF PER DIEM
+                                                                      STAFF TRANSPORTATION
+

@@ -1,0 +1,31 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE  DESCRIPTION                         AMOUNT ($)
+                   POSTED                                                  DATES
+0002857229                    SERGEANT AT ARMS                                                                                          $105.90
+0002858809        08/07/2024  SERGEANT AT ARMS                  START       END                                                           $50.00
+0002859868        09/13/2024  SERGEANT AT ARMS
+DSUL20240177      09/25/2024  CITIBANK - PURCHASE CARD          06/01/2024   06/30/2024 FEDERAL AUDIO, VISUAL RECORDNG                  $100.00   B-2398
+DSUL20240419      05/10/2024  JONES DAY                         07/01/2024   07/31/2024 FEDERAL AUDIO, VISUAL RECORDNG               $3,996.00
+DSUL20240420      09/18/2024  JONES DAY                         08/01/2024   08/31/2024 FEDERAL AUDIO, VISUAL RECORDNG               $6,500.00
+DSUL20240421      09/18/2024  JONES DAY                         04/13/2024   04/13/2024 LICENSING FEES
+DSUL20240422      09/18/2024  JONES DAY                         06/07/2024   06/28/2024 FINANCIAL DISCLOSURE PREP                       $325.00
+DSUL20240423      09/18/2024  JONES DAY                         05/16/2024   05/16/2024 FINANCIAL DISCLOSURE PREP                    $1,950.00
+DSUL20240455      09/18/2024  CARSON M KEATON                   04/24/2024   04/30/2024 FINANCIAL DISCLOSURE PREP
+DSUL20240456      09/25/2024  LARRY D BURTON                    04/03/2024   04/15/2024 FINANCIAL DISCLOSURE PREP                       $650.00
+DSUL20240458      09/27/2024  ABIGAIL M BROWN                   03/06/2024   03/06/2024 FINANCIAL DISCLOSURE PREP                       $325.00
+                  09/25/2024                                    08/12/2024   09/03/2024 TRAIN/ORIENT/CONFERENCE FEES                    $225.00
+0002857428                    SERGEANT AT ARMS                  07/25/2024   08/28/2024 TRAIN/ORIENT/CONFERENCE FEES                 $1,540.00
+0002859188        08/07/2024  SERGEANT AT ARMS                  08/27/2024   08/28/2024 TRAIN/ORIENT/CONFERENCE FEES
+DSUL20240174      09/13/2024  CITIBANK - PURCHASE CARD                      OTHER CONTRACTUAL SERVICES                                    $75.00
+DSUL20240175      05/10/2024  CITIBANK - PURCHASE CARD          06/01/2024                                                          $15,926.40
+DSUL20240176      05/09/2024  CITIBANK - PURCHASE CARD          06/01/2024   06/30/2024 SOFTWARE LICENSE
+DSUL20240184      05/03/2024  CITIBANK - PURCHASE CARD          04/24/2024   06/30/2024 SOFTWARE LICENSE                                $197.00
+DSUL20240185      05/03/2024  CITIBANK - PURCHASE CARD          04/22/2024   04/24/2024 VOICE & DATA COMM EQUIPMENT                    -$197.00
+DSUL20240402      05/13/2024  CITIBANK - PURCHASE CARD          04/19/2024   04/22/2024 VOICE & DATA COMM EQUIPMENT                     $629.70
+                  09/14/2024                                    12/28/2023   04/19/2024 VOICE & DATA COMM EQUIPMENT                     $143.86
+                                                                11/17/2023   12/28/2023 VOICE & DATA COMM EQUIPMENT
+                                                                07/24/2024   12/16/2023 VOICE & DATA COMM EQUIPMENT                       $55.44
+                                                                             07/24/2024 AUDIO, VISUAL EQUIPMENT                           $34.90
+                                                                            ACQUISITION OF ASSETS                                       $138.42
+                                                                                                                                     $6,697.00
+                                                                                                                                     $7,699.32
+

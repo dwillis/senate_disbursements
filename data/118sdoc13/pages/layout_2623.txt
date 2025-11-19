@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+              POSTED                                             DATES
+                                                                              TICKET FEES                                                                    $40.00
+                                                      START       END         AIRFARE FOR M LILLY ATLANTA TO WASHINGTON DC AND RETURN                      $320.19
+                                                                              STAFF TRANSPORTATION
+DWNK20241020  08/16/2024  CITIBANK - TRAVEL CBA CARD  07/04/2024  07/05/2024  TICKET FEES                                                                    $40.00
+DWNK20241022  08/16/2024  CITIBANK - TRAVEL CBA CARD  08/05/2024  08/05/2024  AIRFARE FOR M LILLY ATLANTA TO WASHINGTON DC AND RETURN                      $149.10
+DWNK20241023  09/16/2024  CITIBANK - TRAVEL CBA CARD  08/19/2024  08/21/2024  STAFF TRANSPORTATION
+DWNK20241024  08/16/2024  CITIBANK - TRAVEL CBA CARD  06/12/2024  06/12/2024  TICKET FEES                                                                    $30.00
+                                                                              AIRFARE FOR G VESEY WASHINGTON DC TO JACKSONVILLE FL                         $320.19
+DWNK20241025  08/16/2024  CITIBANK - TRAVEL CBA CARD  06/16/2024  06/18/2024  STAFF TRANSPORTATION
+                                                                              TICKET FEES                                                                    $30.00
+DWNK20241028  08/19/2024  CITIBANK - TRAVEL CBA CARD  07/12/2024  07/21/2024  AIRFARE FOR A FINKEL WASHINGTON DC TO ATLANTA AND RETURN                     $465.20   B-2586
+DWNK20241030                                                                  STAFF TRANSPORTATION
+DWNK20241031  08/19/2024  CITIBANK - TRAVEL CBA CARD  07/23/2024  07/23/2024  TICKET FEES                                                                    $40.00
+DWNK20241032                                                                  AIRFARE FOR M LILLY AS FOLLOWS: ATLANTA TO WASHINGTON DC;
+              08/16/2024  CITIBANK - TRAVEL CBA CARD  07/17/2024  07/17/2024  WASHINGTON DC TO ATLANTA                                                     $320.19
+DWNK20241033  08/19/2024  CITIBANK - TRAVEL CBA CARD  07/21/2024  07/23/2024  STAFF TRANSPORTATION                                                           $40.00
+DWNK20241035                                                                  TICKET FEES
+DWNK20241037  08/19/2024  CITIBANK - TRAVEL CBA CARD  07/21/2024  07/23/2024  AIRFARE FOR M KRACKENBERGER ATLANTA TO WASHINGTON DC AND                     $465.20
+DWNK20241038                                                                  RETURN                                                                         $30.00
+              08/16/2024  CITIBANK - TRAVEL CBA CARD  07/03/2024  07/03/2024  STAFF TRANSPORTATION
+DWNK20241039                                                                  TICKET FEES                                                                  $300.10
+DWNK20241040  08/16/2024  CITIBANK - TRAVEL CBA CARD  07/01/2024  07/01/2024  AIRFARE FOR A WANG WASHINGTON DC TO ATLANTA AND RETURN                         $40.00
+DWNK20241041  08/19/2024  CITIBANK - TRAVEL CBA CARD  07/21/2024  07/23/2024  STAFF TRANSPORTATION                                                           $20.00
+DWNK20241042                                                                  TICKET FEES
+DWNK20241043  08/19/2024  KATRINA E COCHRAN           07/29/2024  07/29/2024  AIRFARE FOR M BREWER SAVANNAH TO WASHINGTON DC                               $516.20
+              08/19/2024  KATRINA E COCHRAN           07/31/2024  07/31/2024  TICKET FEES                                                                    $40.00
+              08/19/2024  KATRINA E COCHRAN           08/02/2024  08/02/2024  STAFF TRANSPORTATION
+              08/19/2024  KATRINA E COCHRAN           08/06/2024  08/06/2024  TICKET FEES                                                                  $629.20
+              08/19/2024  KATRINA E COCHRAN           08/08/2024  08/08/2024  AIRFARE FOR N EASINGTON AS FOLLOWS: 7/21 WASHINGTON DC TO                      $30.00
+                                                                              SAVANNAH; 7/23 SAVANNAH TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION                                                         $160.10
+                                                                              TICKET FEES                                                                    $30.00
+                                                                              AIRFARE FOR E RADDING WASHINGTON DC TO SAVANNAH AND RETURN                     $20.00
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES                                                                  $432.21
+                                                                              AIRFARE FOR B GILKES WASHINGTON DC TO ATLANTA                                  $30.00
+                                                                              TICKET FEES
+                                                                              STAFF TRANSPORTATION                                                           $84.95
+                                                                              TICKET FEES                                                                    $74.23
+                                                                              AIRFARE FOR T HOFMANN REARDON WASHINGTON DC TO SAVANNAH AND                  $113.49
+                                                                              RETURN                                                                         $29.07
+                                                                              STAFF TRANSPORTATION                                                           $95.14
+                                                                              ATLANTA TO MADISON AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              ATLANTA TO ELLIJAY AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              ATLANTA TO ATHENS AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+

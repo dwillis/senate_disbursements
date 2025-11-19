@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DSAA24M53213                  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                        $35.00
+DSAA24M53214      07/19/2024  CITIBANK - TRAVEL CBA CARD        START       END         TICKET FEES                                                                        $30.00
+DSAA24M53215      07/19/2024  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                        $30.00
+DSAA24M53216      07/19/2024  CITIBANK - TRAVEL CBA CARD        06/04/2024  06/04/2024  STAFF TRANSPORTATION                                                             $330.19
+                  07/23/2024                                    06/05/2024  06/05/2024  AIRFARE FOR M BISSON WASHINGTON DC TO COLUMBUS OH AND RETURN
+DSAA24M53217                  CITIBANK - TRAVEL CBA CARD        06/06/2024  06/06/2024  TICKET FEES                                                                        $30.00
+DSAA24M53218      07/19/2024  CITIBANK - TRAVEL CBA CARD        06/09/2024  06/12/2024  STAFF TRANSPORTATION                                                             $330.19
+                  07/23/2024                                                            AIRFARE FOR T WILSON WASHINGTON DC TO COLUMBUS OH AND RETURN
+DSAA24M53219                  CITIBANK - TRAVEL CBA CARD        06/06/2024  06/06/2024  TICKET FEES                                                                        $30.00
+DSAA24M53220      07/19/2024  CITIBANK - TRAVEL CBA CARD        06/09/2024  06/13/2024  TICKET FEES                                                                        $40.00
+DSAA24M53221      07/19/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                          $1,330.20
+                  07/23/2024                                    06/06/2024  06/06/2024  AIRFARE FOR R MONZON WASHINGTON DC TO LAS VEGAS NV AND RETURN
+DSAA24M53222                  CITIBANK - TRAVEL CBA CARD        06/06/2024  06/06/2024  TICKET FEES                                                                        $30.00
+DSAA24M53223      07/19/2024  CITIBANK - TRAVEL CBA CARD        06/10/2024  06/14/2024  STAFF TRANSPORTATION                                                             $512.21
+                  07/23/2024                                                            AIRFARE FOR F THOMPSON WASHINGTON DC TO MEMPHIS TN AND RETURN
+DSAA24M53224                  CITIBANK - TRAVEL CBA CARD        06/07/2024  06/07/2024  TICKET FEES                                                                        $30.00
+DSAA24M53225      07/20/2024  CITIBANK - TRAVEL CBA CARD        06/12/2024  06/14/2024  STAFF TRANSPORTATION                                                             $639.70
+                  07/23/2024                                                            AIRFARE FOR S RYE WASHINGTON DC TO LAS VEGAS NV AND RETURN
+DSAA24M53226                  CITIBANK - TRAVEL CBA CARD        06/07/2024  06/07/2024  TICKET FEES                                                                        $40.00
+DSAA24M53227      07/20/2024  CITIBANK - TRAVEL CBA CARD        06/10/2024  06/14/2024  STAFF TRANSPORTATION                                                          $1,330.20
+                  07/23/2024                                                            AIRFARE FOR J WILLIAMS WASHINGTON DC TO LAS VEGAS NV AND RETURN
+DSAA24M53228                  CITIBANK - TRAVEL CBA CARD        06/07/2024  06/07/2024  TICKET FEES                                                                        $30.00
+DSAA24M53229      07/20/2024  CITIBANK - TRAVEL CBA CARD        06/11/2024  06/14/2024  STAFF TRANSPORTATION                                                             $684.21
+                  07/23/2024                                                            AIRFARE FOR A AHMAD WASHINGTON DC TO LAS VEGAS NV AND RETURN
+DSAA24M53230                  CITIBANK - TRAVEL CBA CARD        06/12/2024  06/12/2024  TICKET FEES                                                                        $30.00  B-396
+DSAA24M53231      07/20/2024  CITIBANK - TRAVEL CBA CARD        06/15/2024  06/21/2024  STAFF TRANSPORTATION                                                             $191.10
+                  07/23/2024                                                            AIRFARE FOR M WOODWARD OMAHA NE TO WASHINGTON DC
+DSAA24M53232                  CITIBANK - TRAVEL CBA CARD        06/14/2024  06/14/2024  STAFF TRANSPORTATION                                                             $620.19
+                  07/23/2024                                    06/23/2024  06/23/2024  AIRFARE FOR M WOODWARD SEATTLE TO OMAHA NE, WASHINGTON DC
+DSAA24M53233                  CITIBANK - TRAVEL CBA CARD                                AND RETURN                                                                         $30.00
+DSAA24M53234      07/20/2024  CITIBANK - TRAVEL CBA CARD        06/19/2024  06/26/2024  TICKET FEES                                                                      $600.21
+                  07/23/2024                                                            STAFF TRANSPORTATION
+DSAA24M53235                  CITIBANK - TRAVEL CBA CARD        06/18/2024  06/18/2024  AIRFARE FOR C PATEL WASHINGTON DC TO SAVANNAH GA AND RETURN                        $30.00
+DSAA24M53236      07/20/2024  CITIBANK - TRAVEL CBA CARD        06/21/2024  06/26/2024  TICKET FEES                                                                      $406.19
+                  07/25/2024                                                            STAFF TRANSPORTATION
+DSAA24M53237                  CITIBANK - TRAVEL CBA CARD        06/18/2024  06/18/2024  AIRFARE FOR L ARMSTRONG WASHINGTON DC TO CHARLESTON SC AND                         $30.00
+DSAA24M53238      07/20/2024  CITIBANK - TRAVEL CBA CARD        06/21/2024  06/25/2024  RETURN                                                                           $374.20
+                  07/23/2024                                                            TICKET FEES
+DSAA24M53239                  CITIBANK - TRAVEL CBA CARD        06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                               $18.75
+DSAA24M53240      07/20/2024  CITIBANK - TRAVEL CBA CARD        06/24/2024  06/28/2024  AIRFARE FOR A HERNANDEZ WASHINGTON DC TO CHICAGO IL AND RETURN                   $321.20
+                  07/23/2024                                                            TICKET FEES
+DSAA24M53241                  TIMOTHY F WILSON                  06/25/2024  06/25/2024  STAFF TRANSPORTATION                                                               $29.43
+                  08/06/2024                                    06/30/2024  07/03/2024  AIRFARE FOR K RASH WASHINGTON DC TO MILWAUKEE WI AND RETURN                      $302.86
+                                                                                        STAFF INCIDENTALS                                                                $110.05
+                                                                07/09/2024  07/11/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                             $219.60
+DSAA24M53243      07/25/2024  RACHEL L WESLEY                   07/10/2024  07/13/2024  WASHINGTON DC TO SOUTH BEND IN, ELKHART IN, YOUNGSTOWN OH,                       $946.72
+                                                                                        SOUTH BEND IN AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+

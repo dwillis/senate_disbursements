@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                             DATES
+DKNN20240904                                                                      SHREVEPORT TO KEITHVILLE AND RETURN                                            $30.82
+DKNN20240905                                              START       END         STAFF TRANSPORTATION                                                           $35.12
+                                                                                  SHREVEPORT TO BOSSIER CITY AND RETURN                                        $112.56
+DKNN20240906      05/07/2024  JOHN S BARR                 04/11/2024  04/11/2024  STAFF PER DIEM
+DKNN20240907      05/13/2024  JOHN S BARR                 04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                            $6.70
+DKNN20240908                                                                      SHREVEPORT TO MANSFIELD AND RETURN                                             $17.42
+DKNN20240909      05/07/2024  JOHN S BARR                 04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                           $65.66
+                  05/07/2024  JOHN S BARR                 04/17/2024  04/17/2024  SHREVEPORT TO BOSSIER CITY AND RETURN                                          $21.83
+DKNN20240910      05/07/2024  JOHN S BARR                 04/18/2024  04/18/2024  STAFF TRANSPORTATION                                                         $112.56
+DKNN20240911      05/10/2024  JOHN S BARR                 04/22/2024  04/22/2024  SHREVEPORT TO BENTON AND RETURN                                                $13.40
+                                                                                  STAFF TRANSPORTATION                                                           $20.52
+DKNN20240912      05/07/2024  JOHN S BARR                 04/23/2024  04/23/2024  SHREVEPORT TO MINDEN, BOSSIER CITY AND RETURN                                $136.68
+                  05/13/2024  JOHN S BARR                 04/24/2024  04/24/2024  STAFF PER DIEM                                                                 $19.38
+DKNN20240913                                                                      STAFF TRANSPORTATION                                                         $112.56
+DKNN20240917      05/13/2024  JOHN S BARR                 04/25/2024  04/25/2024  SHREVEPORT TO MANSFIELD, NATCHITOCHES AND RETURN                               $96.48  B-1509
+                                                                                  STAFF TRANSPORTATION                                                           $31.91
+DKNN20240918      05/07/2024  JOHN S BARR                 04/26/2024  04/26/2024  SHREVEPORT TO BOSSIER CITY AND RETURN                                        $165.49
+DKNN20240919      05/09/2024  CAROLINE M THERIOT          04/30/2024  04/30/2024  STAFF PER DIEM                                                               $414.19
+DKNN20240920                                                                      STAFF TRANSPORTATION                                                         $327.10
+DKNN20240921      05/15/2024  CITIBANK - TRAVEL CBA CARD  04/21/2024  04/26/2024  SHREVEPORT TO WEST MONROE AND RETURN                                         $654.19
+DKNN20240922      05/14/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/24/2024  STAFF PER DIEM                                                               $542.19
+DKNN20240923      05/14/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/28/2024  STAFF TRANSPORTATION                                                         $454.98
+DKNN20240924      05/15/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  05/01/2024  SHREVEPORT TO MANY AND RETURN                                                $106.10
+DKNN20240925      05/14/2024  CITIBANK - TRAVEL CBA CARD  04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                           $18.76
+                  05/14/2024  CITIBANK - TRAVEL CBA CARD  04/23/2024  04/23/2024  SHREVEPORT TO RUSTON AND RETURN                                                $92.34
+DKNN20240926      05/14/2024  JOHN S BARR                 04/30/2024  04/30/2024  STAFF PER DIEM                                                               $579.00
+                  05/21/2024  ROSS E WHITE                01/24/2024  01/27/2024  STAFF TRANSPORTATION                                                         $271.38
+DKNN20240927                                                                      MANDEVILLE TO HOUMA, THIBODAUX TO ABITA SPRINGS
+                  05/20/2024  ROSS E WHITE                04/21/2024  04/23/2024  STAFF TRANSPORTATION                                                            $4.85
+                  05/16/2024  CAROLINE M THERIOT          05/01/2024  05/01/2024  AIRFARE FOR N AYERS WASHINGTON DC TO NEW ORLEANS AND RETURN                  $320.07
+                                                                                  SENATOR TRANSPORTATION                                                       $103.18
+                                                                                  AIRFARE FOR SEN KENNEDY WASHINGTON DC TO NEW ORLEANS
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR J SHEA WASHINGTON DC TO NEW ORLEANS AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR H WEBRE WASHINGTON DC TO NEW ORLEANS AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN KENNEDY NEW ORLEANS TO WASHINGTON DC
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN KENNEDY BATON ROUGE TO WASHINGTON DC
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SHREVEPORT TO KEITHVILLE AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  NEW ORLEANS TO WASHINGTON DC AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  NEW ORLEANS TO MONROE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+

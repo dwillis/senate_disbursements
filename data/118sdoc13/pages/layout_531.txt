@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+              POSTED                                               DATES
+                                                                                STAFF PER DIEM                                                             $123.00
+                                                        START       END         STAFF TRANSPORTATION                                                       $398.65
+                                                                                STEAMBOAT SPRINGS TO DENVER, GOLDEN, SNOWMASS VILLAGE,
+DBNN20240304  04/12/2024  CITIBANK - SENATOR IBA CARD   03/14/2024  03/14/2024  GLENWOOD SPRINGS, ASPEN AND RETURN                                         $442.10
+DBNN20240305  04/12/2024  CITIBANK - SENATOR IBA CARD   04/08/2024  04/08/2024  SENATOR TRANSPORTATION                                                     $293.10
+DBNN20240306  04/12/2024  CITIBANK - SENATOR IBA CARD   03/31/2024  03/31/2024  AIRFARE FOR SEN BENNET WASHINGTON DC TO DENVER                             $442.10
+DBNN20240307  04/17/2024  CITIBANK - SENATOR IBA CARD   01/28/2024  01/28/2024  SENATOR TRANSPORTATION                                                     $360.10
+DBNN20240308  04/30/2024  JOHN A BROCKMEIER             02/01/2024  04/08/2024  AIRFARE FOR SEN BENNET DENVER TO WASHINGTON DC                             $155.95
+DBNN20240309  04/23/2024  PATRICK M DONOVAN             03/11/2024  03/14/2024  SENATOR TRANSPORTATION
+DBNN20240310  05/02/2024  JOHN A BROCKMEIER             03/28/2024  04/01/2024  AIRFARE FOR SEN BENNET WASHINGTON DC TO DENVER                               $51.59
+                                                                                SENATOR TRANSPORTATION                                                       $62.76
+DBNN20240311  04/23/2024  HILARY E HENRY                04/01/2024  04/01/2024  AIRFARE FOR SEN BENNET DENVER TO SAN FRANCISCO CA                          $731.48   B-513
+DBNN20240312  04/24/2024  RENEE J MARTINEZ              02/02/2024  03/29/2024  STAFF TRANSPORTATION                                                       $374.62
+DBNN20240313  04/24/2024  HILARY E HENRY                04/09/2024  04/09/2024  DENVER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $53.60
+                                                                                STAFF TRANSPORTATION                                                       $106.79
+DBNN20240314  04/24/2024  JOHN A BROCKMEIER             04/03/2024  04/03/2024  DENVER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $18.90
+                                                                                STAFF INCIDENTALS                                                            $92.46
+DBNN20240315  04/25/2024  HILARY E HENRY                03/22/2024  03/22/2024  STAFF PER DIEM                                                               $12.36
+DBNN20240316  04/25/2024  HILARY E HENRY                03/21/2024  03/21/2024  STAFF TRANSPORTATION                                                       $100.50
+DBNN20240317  04/30/2024  MARIO VILLAGOMEZ-CHRISTENSEN  04/01/2024  04/03/2024  DENVER TO GRAND JUNCTION AND RETURN                                        $135.34
+                                                                                STAFF TRANSPORTATION                                                       $140.03
+DBNN20240318  04/26/2024  PATRICK M DONOVAN             03/26/2024  03/27/2024  GRAND JUNCTION TO DELTA AND RETURN                                           $19.58
+                                                                                STAFF TRANSPORTATION                                                       $192.81
+DBNN20240326  04/30/2024  CITIBANK - SENATOR IBA CARD   04/11/2024  04/11/2024  PUEBLO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $231.15
+DBNN20240327  05/01/2024  CITIBANK - SENATOR IBA CARD   04/15/2024  04/15/2024  STAFF PER DIEM
+DBNN20240328  04/30/2024  CITIBANK - SENATOR IBA CARD   03/08/2024  03/09/2024  STAFF TRANSPORTATION                                                         $26.57
+DBNN20240329  04/30/2024  CITIBANK - SENATOR IBA CARD   03/11/2024  03/11/2024  GRAND JUNCTION TO DELTA, PAONIA AND RETURN                                 $282.98
+                                                                                STAFF PER DIEM                                                             $263.98
+                                                                                STAFF TRANSPORTATION                                                       $293.10
+                                                                                DENVER TO COLORADO SPRINGS AND RETURN                                      $293.10
+                                                                                STAFF TRANSPORTATION                                                       $442.10
+                                                                                GRAND JUNCTION TO GLENWOOD SPRINGS AND RETURN                              $442.10
+                                                                                STAFF TRANSPORTATION
+                                                                                GRAND JUNCTION TO NUCLA, NATURITA AND RETURN
+                                                                                STAFF INCIDENTALS
+                                                                                STAFF PER DIEM
+                                                                                STAFF TRANSPORTATION
+                                                                                COLORADO SPRINGS TO GLENWOOD SPRINGS, SNOWMASS VILLAGE,
+                                                                                GRAND JUNCTION AND RETURN
+                                                                                STAFF INCIDENTALS
+                                                                                STAFF PER DIEM
+                                                                                STAFF TRANSPORTATION
+                                                                                DENVER TO STEAMBOAT SPRINGS AND RETURN
+                                                                                SENATOR TRANSPORTATION
+                                                                                AIRFARE FOR SEN BENNET WASHINGTON DC TO DENVER
+                                                                                SENATOR TRANSPORTATION
+                                                                                AIRFARE FOR SEN BENNET DENVER TO WASHINGTON DC
+                                                                                SENATOR TRANSPORTATION
+                                                                                AIRFARE FOR SEN BENNET WASHINGTON DC TO DENVER
+                                                                                SENATOR TRANSPORTATION
+

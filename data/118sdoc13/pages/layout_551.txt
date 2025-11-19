@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                  POSTED                                               DATES
+DBLA20241073                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $23.70
+DBLA20241074                                                START       END         STAFF TRANSPORTATION                                                                 $19.84
+DBLA20241075                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $124.82
+DBLA20241076      04/12/2024  COLE THOMAS CARNICK           02/07/2024  02/07/2024  STAFF PER DIEM                                                                       $17.96
+DBLA20241077      04/19/2024  JAY C STROBINO                03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                               $142.74
+DBLA20241078                                                                        NASHVILLE TO FRANKLIN, TULLAHOMA, COLUMBIA AND RETURN                                $11.96
+DBLA20241079      04/22/2024  JAY C STROBINO                03/28/2024  03/28/2024  STAFF PER DIEM                                                                     $138.02
+DBLA20241080                                                                        STAFF TRANSPORTATION                                                                 $15.00
+DBLA20241081      04/12/2024  COLE THOMAS CARNICK           03/05/2024  03/05/2024  NASHVILLE TO SPRING HILL, NASHVILLE, COLUMBIA, DICKSON AND RETURN                  $177.55
+DBLA20241082      04/18/2024  MICHAEL L HENSLEY             03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                               $178.89
+DBLA20241083      04/18/2024  MICHAEL L HENSLEY             03/26/2024  03/26/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $13.00
+DBLA20241084                                                                        STAFF TRANSPORTATION                                                               $141.37
+DBLA20241085      04/18/2024  MICHAEL L HENSLEY             03/25/2024  03/25/2024  KNOXVILLE TO JOHNSON CITY AND RETURN                                               $142.04
+DBLA20241086      04/18/2024  MICHAEL L HENSLEY             03/22/2024  03/22/2024  STAFF PER DIEM                                                                     $132.66
+                                                                                    STAFF TRANSPORTATION                                                               $170.18
+DBLA20241087      04/18/2024  MICHAEL L HENSLEY             03/21/2024  03/21/2024  KNOXVILLE TO BRISTOL, HARROGATE AND RETURN                                         $109.88   B-533
+DBLA20241088      04/18/2024  MICHAEL L HENSLEY             03/20/2024  03/20/2024  STAFF TRANSPORTATION                                                               $127.97
+DBLA20241089      04/18/2024  MICHAEL L HENSLEY             03/19/2024  03/19/2024  KNOXVILLE TO BUTLER AND RETURN
+DBLA20241090      04/22/2024  MICHAEL L HENSLEY             03/18/2024  03/18/2024  STAFF PER DIEM                                                                       $31.48
+DBLA20241091      04/23/2024  MICHAEL L HENSLEY             03/15/2024  03/15/2024  STAFF TRANSPORTATION                                                               $192.66
+DBLA20241092                                                                        KNOXVILLE TO ROGERSVILLE, JOHNSON CITY AND RETURN                                  $406.60
+                  04/23/2024  LEONARDO A PECHARKI KOWALSKI  03/23/2024  03/26/2024  STAFF TRANSPORTATION
+                                                                                    KNOXVILLE TO JOHNSON CITY AND RETURN                                                 $14.00
+                  04/22/2024  MICHAEL L HENSLEY             03/14/2024  03/14/2024  STAFF TRANSPORTATION                                                                 $94.47
+                                                                                    KNOXVILLE TO KINGSPORT AND RETURN                                                  $154.10
+                  04/23/2024  MICHAEL L HENSLEY             03/13/2024  03/13/2024  STAFF TRANSPORTATION                                                                 $28.81
+                  04/12/2024  CALEB ADDISON HASLETT         04/03/2024  04/03/2024  KNOXVILLE TO GRAY, ELIZABETHTON, NEWPORT AND RETURN                                $132.66
+                  04/23/2024  MICHAEL L HENSLEY             04/02/2024  04/02/2024  STAFF TRANSPORTATION
+                  04/22/2024  MICHAEL L HENSLEY             04/03/2024  04/03/2024  KNOXVILLE TO HARROGATE, SNEEDVILLE AND RETURN                                         $8.67
+                                                                                    STAFF TRANSPORTATION                                                               $106.53
+                  04/23/2024  MICHAEL L HENSLEY             04/04/2024  04/04/2024  KNOXVILLE TO SNEEDVILLE, SURGOINSVILLE, ROGERSVILLE, BULLS GAP,
+                                                                                    MORRISTOWN AND RETURN                                                                $12.26
+                                                                                    STAFF INCIDENTALS                                                                  $153.43
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    WASHINGTON DC TO AUSTIN TX AND RETURN
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    KNOXVILLE TO GREENEVILLE AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    KNOXVILLE TO UNICOI AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                    STAFF TRANSPORTATION
+                                                                                    KNOXVILLE TO KINGSPORT AND RETURN
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    KNOXVILLE TO CHUCKEY AND RETURN
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+

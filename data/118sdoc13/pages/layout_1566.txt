@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME          OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                  POSTED                                     DATES
+DKNN20241499                                                              ABITA SPRINGS TO BATON ROUGE, HAMMOND, BOGALUSA AND RETURN                    $63.70
+DKNN20241500                                      START       END         STAFF TRANSPORTATION                                                          $50.25
+DKNN20241501                                                              NEW ORLEANS TO MADISONVILLE, KENNER AND RETURN                                $67.00
+DKNN20241502      09/10/2024  JAKE T BENOIT       07/29/2024  07/29/2024  STAFF TRANSPORTATION                                                          $18.76  B-1529
+DKNN20241503      09/10/2024  JAKE T BENOIT       07/30/2024  07/30/2024  NEW ORLEANS TO LA PLACE, LULING AND RETURN                                    $38.19
+DKNN20241504      09/10/2024  JAKE T BENOIT       07/31/2024  07/31/2024  STAFF TRANSPORTATION                                                          $98.49
+DKNN20241505      09/10/2024  JAKE T BENOIT       08/01/2024  08/01/2024  NEW ORLEANS TO PAULINA AND RETURN                                             $64.37
+DKNN20241506      09/10/2024  JAKE T BENOIT       08/02/2024  08/02/2024  STAFF TRANSPORTATION                                                          $64.99
+DKNN20241507      09/10/2024  JAKE T BENOIT       08/03/2024  08/03/2024  NEW ORLEANS TO KENNER AND RETURN                                              $34.17
+DKNN20241508      09/10/2024  JAKE T BENOIT       08/04/2024  08/04/2024  STAFF TRANSPORTATION                                                          $11.39
+DKNN20241509      09/10/2024  JAKE T BENOIT       08/05/2024  08/05/2024  NEW ORLEANS TO BOUTTE AND RETURN                                              $10.72
+DKNN20241510      09/10/2024  JAKE T BENOIT       08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                          $60.30
+DKNN20241511      09/10/2024  JAKE T BENOIT       08/08/2024  08/08/2024  NEW ORLEANS TO GRAMERCY, SAINT BERNARD AND RETURN                             $66.33
+DKNN20241512      09/10/2024  JAKE T BENOIT       08/13/2024  08/13/2024  STAFF TRANSPORTATION                                                          $54.27
+DKNN20241514      09/10/2024  JAKE T BENOIT       08/14/2024  08/14/2024  NEW ORLEANS TO KENNER, MADISONVILLE AND RETURN                                $41.54
+DKNN20241515      09/10/2024  JAKE T BENOIT       08/15/2024  08/15/2024  STAFF TRANSPORTATION                                                          $50.92
+DKNN20241516      09/10/2024  JAKE T BENOIT       08/17/2024  08/17/2024  NEW ORLEANS TO GARYVILLE, HAHNVILLE AND RETURN                                $18.83
+                  09/12/2024  CAROLINE M THERIOT  08/28/2024  08/28/2024  STAFF TRANSPORTATION                                                        $105.86
+DKNN20241517      09/12/2024  JOHN S BARR         08/05/2024  08/05/2024  NEW ORLEANS TO NORCO AND RETURN                                               $21.58
+                  09/16/2024  JOHN S BARR         08/06/2024  08/06/2024  STAFF TRANSPORTATION                                                          $91.12
+DKNN20241518                                                              NEW ORLEANS TO BELLE CHASSE AND RETURN                                        $18.83
+                  09/16/2024  JOHN S BARR         08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                        $109.88
+DKNN20241519                                                              NEW ORLEANS TO METAIRIE AND RETURN                                            $24.12
+DKNN20241520      09/16/2024  JOHN S BARR         08/09/2024  08/09/2024  STAFF TRANSPORTATION                                                          $60.30
+DKNN20241521                                                              NEW ORLEANS TO GRAMERCY AND RETURN                                            $22.78
+DKNN20241522      09/12/2024  JOHN S BARR         08/12/2024  08/12/2024  STAFF TRANSPORTATION                                                          $23.51
+                  09/12/2024  JOHN S BARR         08/13/2024  08/13/2024  NEW ORLEANS TO LA PLACE, DESTREHAN, LA PLACE AND RETURN                     $112.56
+                  09/12/2024  JOHN S BARR         08/14/2024  08/14/2024  STAFF TRANSPORTATION
+                  09/16/2024  JOHN S BARR         08/26/2024  08/26/2024  NEW ORLEANS TO LA PLACE, BELLE CHASSE AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          MANDEVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                          STAFF TRANSPORTATION
+                                                                          SHREVEPORT TO MINDEN AND RETURN
+                                                                          STAFF PER DIEM
+                                                                          STAFF TRANSPORTATION
+                                                                          SHREVEPORT TO NATCHITOCHES, CLARENCE AND RETURN
+                                                                          STAFF PER DIEM
+                                                                          STAFF TRANSPORTATION
+                                                                          SHREVEPORT TO COUSHATTA, BENTON AND RETURN
+                                                                          STAFF PER DIEM
+                                                                          STAFF TRANSPORTATION
+                                                                          SHREVEPORT TO NATCHITOCHES AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          SHREVEPORT TO KEITHVILLE AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          SHREVEPORT TO MINDEN, BOSSIER CITY AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          SHREVEPORT TO BOSSIER CITY AND RETURN
+                                                                          STAFF PER DIEM
+                                                                          STAFF TRANSPORTATION
+

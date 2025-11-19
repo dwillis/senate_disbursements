@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DLNK20241103                  MACKENZIE J SAVALA                                        STAFF TRANSPORTATION                                                       $132.66
+DLNK20241104      08/29/2024  MACKENZIE J SAVALA                START       END         TULSA TO VERA, BARTLESVILLE, FAIRLAND AND RETURN                             $87.10
+DLNK20241105      08/29/2024  MACKENZIE J SAVALA                                        STAFF TRANSPORTATION
+DLNK20241106      08/29/2024  MACKENZIE J SAVALA                08/07/2024  08/07/2024  TULSA TO OKEMAH AND RETURN                                                 $119.26
+DLNK20241107      08/29/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                         $54.27
+DLNK20241108      09/03/2024  CEDON D HARAZDA                   08/08/2024  08/08/2024  TULSA TO MIAMI AND RETURN                                                    $40.00
+                  09/06/2024                                                            STAFF TRANSPORTATION                                                         $32.77
+                                                                08/13/2024  08/13/2024  TULSA TO BARNSDALL AND RETURN
+                                                                                        TICKET FEES                                                                $243.77
+                                                                08/15/2024  08/15/2024  STAFF INCIDENTALS                                                            $95.45
+                                                                                        STAFF PER DIEM
+                                                                08/16/2024  08/16/2024  STAFF TRANSPORTATION                                                         $17.23
+                                                                08/17/2024  08/19/2024  OKLAHOMA CITY TO COLORADO SPRINGS CO, GUYMON, LAVERNE,                     $118.35
+                                                                                        BUFFALO, ALVA, KINGFISHER, OKLAHOMA CITY TO SULPHUR
+DLNK20241109      09/04/2024  PEYTON G BURNS                    08/18/2024  08/19/2024  STAFF INCIDENTALS                                                          $481.06
+                                                                                        STAFF PER DIEM                                                               $22.47
+DLNK20241115      09/06/2024  DEREK R OSBORN                    08/19/2024  08/22/2024  STILLWATER TO COLORADO SPRINGS, GUYMON, BUFFALO, ALVA AND                            B-1605
+DLNK20241117      09/05/2024  DEREK R OSBORN                    08/12/2024  08/13/2024  RETURN                                                                     $159.00
+                                                                                        STAFF TRANSPORTATION                                                         $15.00
+DLNK20241118      09/11/2024  JAMES S CARSON                    08/12/2024  08/12/2024  TULSA TO SULPHUR, MCALESTER, BIXBY, TAHLEQUAH AND RETURN                      $6.50
+                                                                                        STAFF INCIDENTALS                                                            $88.74
+DLNK20241119      09/12/2024  JAMES S CARSON                    08/13/2024  08/13/2024  STAFF PER DIEM                                                               $77.03
+DLNK20241120      09/12/2024  JAMES S CARSON                    08/15/2024  08/15/2024  TULSA TO OKLAHOMA CITY AND RETURN                                             $7.00
+DLNK20241121      09/11/2024  JAMES S CARSON                    08/16/2024  08/16/2024  STAFF PER DIEM                                                               $83.07
+DLNK20241122      09/12/2024  JAMES S CARSON                    08/19/2024  08/19/2024  STAFF TRANSPORTATION                                                         $11.15
+DLNK20241123      09/13/2024  JAMES S CARSON                    08/20/2024  08/20/2024  OKLAHOMA CITY TO LAWTON AND RETURN                                           $12.00
+DLNK20241124      09/12/2024  JAMES S CARSON                    08/21/2024  08/21/2024  STAFF TRANSPORTATION                                                         $87.05
+                                                                                        OKLAHOMA CITY TO YUKON, ENID AND RETURN                                      $20.00
+DLNK20241125      09/11/2024  JAMES S CARSON                    08/23/2024  08/23/2024  STAFF TRANSPORTATION                                                          $7.00
+                                                                                        OKLAHOMA CITY TO HOBART AND RETURN                                           $39.28
+DLNK20241126      09/11/2024  ESTELA L HERNANDEZ                07/31/2024  07/31/2024  STAFF TRANSPORTATION
+DLNK20241127      09/12/2024  ESTELA L HERNANDEZ                07/08/2024  07/26/2024  OKLAHOMA CITY TO LAWTON AND RETURN                                         $360.39
+DLNK20241128      09/11/2024  QUINTON BRIER GRAY                07/01/2024  07/01/2024  STAFF TRANSPORTATION                                                         $14.74
+DLNK20241129      09/11/2024  QUINTON BRIER GRAY                07/02/2024  07/02/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $21.44
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OKLAHOMA CITY TO YUKON, LAWTON, YUKON AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OKLAHOMA CITY TO ALTUS AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OKLAHOMA CITY TO LAWTON, YUKON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OKLAHOMA CITY TO TULSA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

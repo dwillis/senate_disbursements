@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DCAS20241510                  TERESA L DENNIS                                           STAFF TRANSPORTATION                                                         $70.00
+DCAS20241511      09/20/2024  TERESA L DENNIS                   START       END         HARRISBURG TO PHILADELPHIA AND RETURN                                      $163.48
+DCAS20241512      09/26/2024  TERESA L DENNIS                                           STAFF TRANSPORTATION                                                       $107.20
+DCAS20241513      09/26/2024  TERESA L DENNIS                   08/19/2024  08/19/2024  HARRISBURG TO SCRANTON AND RETURN
+DCAS20241514      09/19/2024  TERESA L DENNIS                                           STAFF TRANSPORTATION                                                         $57.88
+DCAS20241515      09/26/2024  TERESA L DENNIS                   08/14/2024  08/14/2024  HARRISBURG TO CENTRE HALL AND RETURN                                       $167.70
+DCAS20241516      09/20/2024  TERESA L DENNIS                                           STAFF TRANSPORTATION
+DCAS20241517      09/20/2024  TERESA L DENNIS                   07/25/2024  07/25/2024  HARRISBURG TO LITITZ AND RETURN                                              $70.00
+DCAS20241518      09/26/2024  CALLIE R ANDERSON                                         STAFF TRANSPORTATION                                                         $70.00
+DCAS20241519      09/26/2024  CALLIE R ANDERSON                 08/23/2024  08/23/2024  HARRISBURG TO HORSHAM AND RETURN                                           $165.38
+DCAS20241520      09/19/2024  TERESA L DENNIS                                           STAFF TRANSPORTATION                                                       $141.37
+DCAS20241521      09/26/2024  MARISKA H VAN AALST               08/25/2024  08/25/2024  HARRISBURG TO PHILADELPHIA AND RETURN                                        $65.79
+DCAS20241522      09/20/2024  MARISKA H VAN AALST                                       STAFF TRANSPORTATION                                                       $143.62
+DCAS20241523      09/20/2024  MARISKA H VAN AALST               08/29/2024  08/29/2024  HARRISBURG TO PHILADELPHIA AND RETURN                                        $62.98
+DCAS20241524      09/20/2024  MARISKA H VAN AALST                                       STAFF TRANSPORTATION                                                         $16.01
+DCAS20241525      09/20/2024  MARISKA H VAN AALST               09/04/2024  09/04/2024  HARRISBURG TO PHILADELPHIA AND RETURN                                        $70.28
+DCAS20241527      09/20/2024  PATRICIA A MONAHAN                                        STAFF TRANSPORTATION
+DCAS20241528      09/27/2024  ELIZABETH M COOPER                09/11/2024  09/11/2024  OLD FORGE TO PLYMOUTH MEETING AND RETURN                                      $9.17
+DCAS20241529      09/20/2024  PATRICIA A MONAHAN                                        STAFF TRANSPORTATION                                                         $52.93
+DCAS20241530      09/27/2024  PATRICIA A MONAHAN                09/10/2024  09/10/2024  OLD FORGE TO LEHIGHTON AND RETURN                                          $234.50
+DCAS20241531      09/20/2024  PATRICIA A MONAHAN                                        STAFF TRANSPORTATION
+DCAS20241532      09/20/2024  PATRICIA A MONAHAN                09/04/2024  09/04/2024  HARRISBURG TO BOOTHWYN AND RETURN                                             $5.89
+DCAS20241533      09/27/2024  ELIZABETH M COOPER                                        STAFF TRANSPORTATION                                                       $231.82
+DCAS20241534      09/20/2024  ETHAN MARC SELETSKY               09/05/2024  09/05/2024  FOUNTAIN HILL TO READING TO ALLENTOWN                                                B-866
+DCAS20241535      09/20/2024  BALL,JORDAN                                               STAFF TRANSPORTATION                                                         $98.49
+                  09/21/2024                                    09/10/2024  09/10/2024  ALLENTOWN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $65.66
+                                                                                        STAFF TRANSPORTATION                                                       $168.84
+                                                                09/12/2024  09/12/2024  ALLENTOWN TO POTTSVILLE AND RETURN                                           $82.41
+                                                                                        STAFF TRANSPORTATION                                                         $48.37
+                                                                09/06/2024  09/06/2024  ALLENTOWN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $22.78
+                                                                                        STAFF TRANSPORTATION
+                                                                09/13/2024  09/13/2024  FOUNTAIN HILL TO LEHIGHTON, NAZARETH AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/04/2024  09/04/2024  SCRANTON TO WESTFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                08/31/2024  08/31/2024  STATE COLLEGE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                09/14/2024  09/14/2024  SCRANTON TO WESTFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                08/15/2024  08/15/2024  SCRANTON TO LAPORTE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/18/2024  07/18/2024  SCRANTON TO BERWICK TO THROOP
+                                                                                        STAFF TRANSPORTATION
+                                                                05/31/2024  05/31/2024  SCRANTON TO LOCK HAVEN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/30/2024  05/30/2024  STATE COLLEGE TO WILLIAMSPORT AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/16/2024  09/16/2024  PHILADELPHIA TO UNIONVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/06/2024  09/06/2024  PITTSBURGH TO WEST ELIZABETH AND RETURN
+
+                                                                09/12/2024  09/12/2024
+

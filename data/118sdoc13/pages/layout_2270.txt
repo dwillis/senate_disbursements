@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DSCM20240915                  GEORGE PETER KNAPP                                        STAFF TRANSPORTATION                                                            $27.57
+DSCM20240916      07/30/2024  GEORGE PETER KNAPP                START       END         ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $38.64
+DSCM20240917      07/30/2024  GEORGE PETER KNAPP                                        STAFF TRANSPORTATION                                                            $13.88
+DSCM20240918      07/30/2024  MICHAEL E USSERY                  07/23/2024  07/23/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $89.08
+DSCM20240921      07/30/2024  JOSEPH NASH DEHMER                                        STAFF TRANSPORTATION                                                            $13.75
+DSCM20240922      07/31/2024  JOSEPH NASH DEHMER                07/24/2024  07/24/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DSCM20240923      07/31/2024  JOSEPH NASH DEHMER                                        STAFF TRANSPORTATION                                                             $5.89
+DSCM20240924      07/31/2024  MORGAN S CORDER                   07/25/2024  07/25/2024  SPRINGFIELD TO CASSVILLE AND RETURN                                              $7.86
+                  08/06/2024                                                            STAFF TRANSPORTATION                                                            $22.13
+                                                                07/25/2024  07/25/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $176.00
+                                                                                        STAFF TRANSPORTATION                                                          $262.00
+                                                                07/23/2024  07/23/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION                                                            $22.19
+                                                                07/24/2024  07/24/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $158.06
+                                                                                        STAFF INCIDENTALS                                                             $289.51
+                                                                07/25/2024  07/25/2024  STAFF PER DIEM                                                                $236.10
+                                                                                        STAFF TRANSPORTATION
+                                                                07/25/2024  07/26/2024  COLUMBIA TO MOBERLY, MACON, KIRKSVILLE, LANCASTER, HANNIBAL,                     $9.11
+                                                                                        CANTON, HANNIBAL AND RETURN                                                   $153.13
+DSCM20240925      08/06/2024  LISA K SAYLOR                     07/23/2024  07/24/2024  STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM                                                                  $41.33
+DSCM20240926      08/06/2024  ERIC S SCHMITT                    07/29/2024  07/29/2024  STAFF TRANSPORTATION                                                          $328.53   B-2233
+DSCM20240930      08/06/2024  MICHAEL E USSERY                  07/29/2024  07/29/2024  SPRINGFIELD TO SAINT LOUIS AND RETURN
+                                                                                        SENATOR TRANSPORTATION                                                          $12.51
+DSCM20240931      08/06/2024  MORGAN S CORDER                   07/30/2024  07/30/2024  SAINT LOUIS TO WASHINGTON DC                                                    $76.10
+DSCM20240932      08/06/2024  HEATH L ROBINS                    07/08/2024  07/16/2024  STAFF PER DIEM                                                                $161.13
+                                                                                        STAFF TRANSPORTATION                                                            $31.44
+DSCM20240933      08/06/2024  MICHAEL E USSERY                  07/30/2024  07/30/2024  SPRINGFIELD TO WEST PLAINS, MOUNTAIN VIEW AND RETURN                            $10.48
+DSCM20240934      08/07/2024  CITIBANK - TRAVEL CBA CARD        07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                            $35.37
+DSCM20240936      08/07/2024  CATRINA LAINE GREEVES             07/24/2024  07/24/2024  COLUMBIA TO JEFFERSON CITY AND RETURN                                         $251.10
+DSCM20240939      08/07/2024  JOSEPH NASH DEHMER                07/29/2024  07/29/2024  STAFF TRANSPORTATION                                                          $141.48
+DSCM20240940      08/07/2024  JOSEPH NASH DEHMER                08/01/2024  08/01/2024  CAPE GIRARDEAU TO THE FOLLOWING AND RETURN: 7/8 MALDEN; 7/9
+DSCM20240941      08/07/2024  LISA K SAYLOR                     07/29/2024  07/29/2024  BLOOMFIELD; 7/10 SIKESTON; 7/11 DEXTER; 7/16 PUXICO
+DSCM20240942      08/09/2024  ERIC S SCHMITT                    08/01/2024  08/01/2024  STAFF TRANSPORTATION
+DSCM20240943      08/08/2024  JORDAN T JOBES                    08/01/2024  08/01/2024  SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN SCHMITT WASHINGTON DC TO SAINT LOUIS
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MONROE CITY TO SAINT LOUIS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SPRINGFIELD TO MARSHFIELD AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO SAINT LOUIS
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SPRINGFIELD TO FORT LEONARD WOOD, WAYNESVILLE, PLATO AND
+                                                                                        RETURN
+

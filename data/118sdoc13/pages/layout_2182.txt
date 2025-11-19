@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+              POSTED                                               DATES
+                                                                                STAFF PER DIEM                                                                    $290.58
+                                                        START       END         STAFF TICKET FEES                                                                   $30.00
+                                                                                STAFF TRANSPORTATION
+DROU20240630  05/08/2024  NELSON, MARY L                04/30/2024  04/30/2024  FORT BELVOIR VA TO WASHINGTON DC, PIERRE, WASHINGTON DC AND                    $1,339.04
+DROU20240631  05/15/2024  CAPITAL CITY AIR CARRIER INC  04/29/2024  04/29/2024  RETURN
+DROU20240632  05/15/2024  JAMES STEVEN SELCHERT         04/17/2024  04/20/2024  STAFF PER DIEM                                                                      $14.17
+DROU20240633  05/14/2024  JAMES STEVEN SELCHERT         04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                                $77.05
+DROU20240635  05/14/2024  SHANNON M ARNESON             04/28/2024  04/30/2024  PIERRE TO MURDO AND RETURN                                                     $5,865.70
+DROU20240638  05/16/2024  JORDYN L MCPHERSON            04/28/2024  04/30/2024  SENATOR TRANSPORTATION                                                            $728.96
+                                                                                AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN
+DROU20240639  05/16/2024  JUSTIN L ROLLINS              04/19/2024  04/25/2024  STAFF TRANSPORTATION                                                              $136.01   B-2145
+                                                                                RAPID CITY TO PLANKINTON, ANDOVER, STICKNEY, VERMILLION,                            $24.91
+DROU20240641  05/16/2024  DREW L KAITFORS               03/23/2024  04/09/2024  CHAMBERLAIN AND RETURN
+                                                                                STAFF TRANSPORTATION                                                              $313.44
+DROU20240642  05/13/2024  CHAD P KRIER                  04/01/2024  04/30/2024  RAPID CITY TO KADOKA, PHILIP AND RETURN                                             $24.91
+DROU20240643  05/14/2024  CHAD P KRIER                  05/01/2024  05/01/2024  STAFF INCIDENTALS
+DROU20240645                                                                    STAFF PER DIEM                                                                    $318.52
+DROU20240647  05/20/2024  M MICHAEL ROUNDS              05/02/2024  05/02/2024  RAPID CITY TO DENVER CO, GREENWOOD VILLAGE CO AND RETURN                          $582.56
+DROU20240654  05/20/2024  M MICHAEL ROUNDS              05/07/2024  05/07/2024  STAFF INCIDENTALS
+DROU20240655  05/21/2024  CAPITAL CITY AIR CARRIER INC  05/02/2024  05/02/2024  STAFF PER DIEM                                                                      $58.25
+DROU20240656  05/21/2024  CAPITAL CITY AIR CARRIER INC  05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                              $745.77
+DROU20240657  05/22/2024  M MICHAEL ROUNDS              05/10/2024  05/10/2024  RAPID CITY TO DENVER CO, GREENWOOD VILLAGE CO AND RETURN                       $1,267.97
+DROU20240659  05/23/2024  SARA J MAYER                  05/10/2024  05/10/2024  STAFF INCIDENTALS
+                                                                                STAFF PER DIEM                                                                      $16.59
+              05/23/2024  SHELBY R LINKE                05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                              $107.00
+                                                                                WASHINGTON DC TO AKRON OH, ROCKFORD IL, SIOUX FALLS, RAPID CITY,               $1,788.95
+                                                                                PIERRE AND RETURN
+                                                                                STAFF INCIDENTALS                                                                   $38.19
+                                                                                STAFF PER DIEM                                                                      $20.82
+                                                                                STAFF TRANSPORTATION                                                                $89.78
+                                                                                WASHINGTON DC TO SIOUX FALLS, YOUNGSTOWN OH AND RETURN                            $653.10
+                                                                                STAFF TRANSPORTATION                                                              $484.10
+                                                                                SIOUX FALLS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $5,865.70
+                                                                                STAFF PER DIEM                                                                 $5,865.70
+                                                                                STAFF TRANSPORTATION                                                              $653.10
+                                                                                SIOUX FALLS TO VERMILLION AND RETURN                                                $14.16
+                                                                                SENATOR TRANSPORTATION                                                            $123.95
+                                                                                WASHINGTON DC TO MINNEAPOLIS MN, EDEN PRAIRIE MN, PIERRE
+                                                                                SENATOR TRANSPORTATION                                                               $5.03
+                                                                                PIERRE TO EDEN PRAIRIE MN, MINNEAPOLIS MN, WASHINGTON DC
+                                                                                SENATOR TRANSPORTATION
+                                                                                AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN
+                                                                                SENATOR TRANSPORTATION
+                                                                                AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN
+                                                                                SENATOR TRANSPORTATION
+                                                                                WASHINGTON DC TO MINNEAPOLIS MN, EDEN PRAIRIE MN, PIERRE
+                                                                                STAFF PER DIEM
+                                                                                STAFF TRANSPORTATION
+                                                                                SIOUX FALLS TO YANKTON AND RETURN
+                                                                                STAFF PER DIEM
+

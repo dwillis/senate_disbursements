@@ -1,0 +1,57 @@
+DOCUMENT NO.    DATE      PAYEE NAME         OBLIGATION/SERVICE                        DESCRIPTION                                         AMOUNT ($)
+              POSTED                                    DATES
+                                                                                                                                                           $149.28
+                                             START       END                                                                                            $1,140.76
+                                                                                                                                                        $1,414.82
+DROU20241038  09/27/2024  ADAM L KAEMINGK    09/08/2024                        WASHINGTON DC TO OMAHA NE, PIERRE, SIOUX FALLS, PIERRE AND
+                                                                               RETURN                                                                        $69.18
+DROU20241041  09/27/2024  JENNIFER ANN HIEB  08/02/2024   09/12/2024 STAFF INCIDENTALS                                                                     $585.09
+                                                                               STAFF PER DIEM                                                              $446.07
+DROU20241047  09/22/2024  SHELBY R LINKE     09/18/2024                        STAFF TRANSPORTATION
+DROU20241048  09/22/2024  CHAD P KRIER       08/01/2024                        RAPID CITY TO WASHINGTON DC AND RETURN                                        $18.71
+DROU20241049  09/28/2024  CHAD P KRIER       08/13/2024   08/08/2024 STAFF INCIDENTALS
+DROU20241050                                                                   STAFF PER DIEM                                                                $14.07
+              09/28/2024  CHAD P KRIER       08/20/2024                        STAFF TRANSPORTATION
+DROU20241051                                                                   ABERDEEN TO MINNEAPOLIS MN, COLORADO SPRINGS AND RETURN                       $42.68
+DROU20241055  09/28/2024  CHAD P KRIER       09/01/2024   09/18/2024 STAFF PER DIEM                                                                        $275.37   B-2158
+DROU20241056  09/28/2024  TAYLOR A WOOLEY                                      SIOUX FALLS TO MITCHELL AND RETURN
+              09/28/2024  SARA J MAYER       03/27/2024   08/31/2024 STAFF TRANSPORTATION                                                                    $62.79
+                                                                               SIOUX FALLS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $808.39
+                                             09/18/2024   08/13/2024 STAFF PER DIEM                                                                        $484.74
+                                                                               STAFF TRANSPORTATION
+                                             03/01/2024                        SIOUX FALLS TO ABERDEEN AND RETURN                                            $17.45
+                                             03/21/2024   08/23/2024 STAFF INCIDENTALS                                                                     $178.89
+                                             03/25/2024                        STAFF PER DIEM
+                                             04/09/2024                        STAFF TRANSPORTATION                                                          $11.31
+                                             04/10/2024                        SIOUX FALLS TO RAPID CITY AND RETURN                                        $107.00
+                                             06/11/2024   09/01/2024 STAFF PER DIEM
+                                             06/18/2024                        STAFF TRANSPORTATION                                                          $24.91
+                                             06/17/2024                        SIOUX FALLS TO HURON AND RETURN                                             $103.98
+                                             07/09/2024   03/28/2024 STAFF INCIDENTALS
+                                             06/25/2024                        STAFF PER DIEM                                                        $404,552.50
+                                             07/09/2024                        WASHINGTON DC TO PIERRE, FORT PIERRE, PIERRE AND RETURN
+                                             07/31/2024   09/18/2024 STAFF PER DIEM                                                                          $45.00
+                                             08/14/2024                        STAFF TRANSPORTATION                                                          $30.00
+                                                                               SIOUX FALLS TO MITCHELL, ALEXANDRIA, ETHAN AND RETURN                         $30.00
+                                             03/01/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                              $165.00
+                                             03/01/2024                                                                                                      $25.00
+0002853714    05/14/2024  SERGEANT AT ARMS   03/01/2024   03/31/2024 FEDERAL AUDIO, VISUAL RECORDNG                                                        $100.00
+DROU20240522  04/09/2024  LORRAINE POLAK     03/01/2024   03/21/2024 TRAIN/ORIENT/CONFERENCE FEES                                                          $200.00
+DROU20240554  04/16/2024  REBECCA JO HERMAN               03/25/2024 TRAIN/ORIENT/CONFERENCE FEES                                                          $200.00
+DROU20240590  04/30/2024  NELSON, MARY L                  04/11/2024 TRAIN/ORIENT/CONFERENCE FEES                                                            $45.00
+DROU20240640  05/16/2024  JENNIFER ANN HIEB               04/10/2024 TRAIN/ORIENT/CONFERENCE FEES                                                          $200.00
+DROU20240754  07/01/2024  LORRAINE POLAK                  06/12/2024 TRAIN/ORIENT/CONFERENCE FEES                                                            $45.00
+DROU20240814  07/18/2024  KEITH OWEN MOORE                06/19/2024 TRAIN/ORIENT/CONFERENCE FEES                                                       $3,600.00
+DROU20240818  07/19/2024  JENNIFER ANN HIEB               06/18/2024 TRAIN/ORIENT/CONFERENCE FEES                                                            $53.10
+DROU20240822  07/19/2024  LORRAINE POLAK                  07/09/2024 TRAIN/ORIENT/CONFERENCE FEES                                                       $4,738.10
+DROU20240823  07/22/2024  LORRAINE POLAK                  06/26/2024 TRAIN/ORIENT/CONFERENCE FEES
+DROU20240825  07/20/2024  NELSON, MARY L                  07/09/2024 TRAIN/ORIENT/CONFERENCE FEES                                                       $4,500.00
+DROU20240876  08/12/2024  TVEYES INC                      07/31/2024 CLIPPING SERVICES                                                                  $4,832.00
+DROU20241008  09/18/2024  SHELBY R LINKE                  08/14/2024 TRAIN/ORIENT/CONFERENCE FEES                                                       $4,552.91
+                                                         OTHER CONTRACTUAL SERVICES
+0002853798    05/15/2024  SERGEANT AT ARMS                                                                                                                 $125.00
+0002853974    05/15/2024  SERGEANT AT ARMS               03/31/2024  IT EQUIPMENT
+0002854026    05/14/2024  SERGEANT AT ARMS               03/31/2024  IT EQUIPMENT
+0002854030    05/14/2024  SERGEANT AT ARMS               03/31/2024  SOFTWARE LICENSE
+                                                         03/31/2024  SOFTWARE LICENSE
+

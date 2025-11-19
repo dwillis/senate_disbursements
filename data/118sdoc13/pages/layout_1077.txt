@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                   POSTED                                                  DATES
+DCRU20241081                  BRANDON JAMES SIMON                                       STAFF TRANSPORTATION                                                         $137.35
+DCRU20241082      09/17/2024  BRANDON JAMES SIMON               START       END         GEORGETOWN TO MARLIN, FRANKLIN AND RETURN                                      $68.34
+DCRU20241083      09/13/2024  BRANDON JAMES SIMON                                       STAFF TRANSPORTATION                                                           $61.64
+DCRU20241084      09/13/2024  BRANDON JAMES SIMON               07/30/2024  07/30/2024  AUSTIN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $62.98
+DCRU20241085      09/13/2024  BRANDON JAMES SIMON                                       STAFF TRANSPORTATION                                                           $23.42
+                  09/17/2024                                    07/01/2024  07/31/2024  GEORGETOWN TO KILLEEN AND RETURN                                               $93.13
+DCRU20241086                  BRANDON JAMES SIMON                                       STAFF TRANSPORTATION                                                            $5.90
+                  09/17/2024                                    08/07/2024  08/07/2024  GEORGETOWN TO BURNET TO AUSTIN
+DCRU20241087                  BRANDON JAMES SIMON                                       STAFF PER DIEM                                                               $125.96
+DCRU20241088      09/17/2024  BRANDON JAMES SIMON               08/09/2024  08/09/2024  STAFF TRANSPORTATION                                                         $125.96
+DCRU20241089      09/17/2024  BRANDON JAMES SIMON                                       GEORGETOWN TO LLANO AND RETURN                                               $108.54
+DCRU20241090      09/18/2024  GIOVANNI CATANZARO                08/16/2024  08/16/2024  STAFF PER DIEM                                                               $221.07
+DCRU20241091      09/18/2024  MICHAEL A FLUSCHE                                         STAFF TRANSPORTATION                                                         $908.52
+DCRU20241092      09/17/2024  MICHAEL A FLUSCHE                 08/19/2024  08/19/2024  GEORGETOWN TO BRYAN AND RETURN                                               $720.92
+DCRU20241093      09/13/2024  MICHAEL A FLUSCHE                                         STAFF TRANSPORTATION
+DCRU20241094      09/13/2024  MICHAEL A FLUSCHE                 08/21/2024  08/21/2024  GEORGETOWN TO BRYAN AND RETURN                                                 $52.26  B-1059
+DCRU20241095      09/13/2024  MICHAEL A FLUSCHE                 08/22/2024  08/22/2024  STAFF TRANSPORTATION                                                           $56.95
+DCRU20241096      09/17/2024  MICHAEL A FLUSCHE                 08/01/2024  08/30/2024  GEORGETOWN TO WACO AND RETURN                                                  $58.29
+                  09/18/2024                                    08/01/2024  08/30/2024  STAFF TRANSPORTATION                                                         $159.50
+DCRU20241097                                                    07/01/2024  07/31/2024  AUSTIN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $16.05
+DCRU20241098                                                    07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                         $142.08
+                                                                07/11/2024  07/11/2024  DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $215.74
+DCRU20241099                                                    08/12/2024  08/12/2024  STAFF TRANSPORTATION                                                         $245.89
+DCRU20241100                                                    08/15/2024  08/15/2024  DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $18.19
+DCRU20241101                                                    08/20/2024  08/21/2024  STAFF TRANSPORTATION                                                         $221.95
+                                                                                        DALLAS TO TERRELL AND RETURN                                                 $614.54
+                  09/18/2024  BRANDON JAMES SIMON               07/26/2024  07/26/2024  STAFF TRANSPORTATION                                                         $140.70
+                  09/27/2024  BOBBI L K HANSON                  08/18/2024  08/21/2024  DALLAS TO WAXAHACHIE, ENNIS AND RETURN                                       $693.71
+                                                                                        STAFF TRANSPORTATION                                                           $83.02
+                  09/17/2024  MATTHEW GRANT MURRAY              08/01/2024  08/31/2024  DALLAS TO DENTON AND RETURN                                                  $371.46
+                  09/18/2024  MICHAEL A FLUSCHE                 08/01/2024  08/31/2024  STAFF TRANSPORTATION                                                      $1,442.20
+                  09/19/2024  AARON FRANCIS REITZ               08/18/2024  08/20/2024  DALLAS TO MIDLOTHIAN AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DALLAS TO WICHITA FALLS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AUSTIN TO DALLAS TO GEORGETOWN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ABILENE TO AMARILLO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AUSTIN TO ABILENE, DALLAS, WASHINGTON DC, DALLAS AND RETURN
+

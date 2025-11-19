@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME         OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                    DATES
+DERN20240427                                                             WASHINGTON DC TO SIOUX CITY AND RETURN                                       $14.61
+                                                 START       END         STAFF INCIDENTALS                                                          $160.63
+DERN20240428                                                             STAFF PER DIEM                                                             $147.36
+                  05/14/2024  KATHERINE R WOOD   04/22/2024  04/23/2024  STAFF TRANSPORTATION
+DERN20240429                                                             WASHINGTON DC TO SIOUX CITY AND RETURN                                       $17.57
+                  05/15/2024  JUSTIN L JENSEN    04/22/2024  04/22/2024  STAFF PER DIEM                                                             $101.84   B-1139
+DERN20240430                                                             STAFF TRANSPORTATION
+                  05/15/2024  JUSTIN L JENSEN    04/23/2024  04/23/2024  CEDAR RAPIDS TO WILLIAMSBURG, GRINNELL TO CEDAR FALLS                        $12.06
+DERN20240431                                                             STAFF PER DIEM                                                             $120.60
+DERN20240432      05/10/2024  JUSTIN L JENSEN    04/25/2024  04/25/2024  STAFF TRANSPORTATION
+DERN20240433                                                             CEDAR FALLS TO MASON CITY, OSAGE AND RETURN                                  $17.12
+DERN20240434      05/13/2024  CLARKE SCANLON     04/01/2024  04/30/2024  STAFF PER DIEM                                                               $60.30
+DERN20240435      05/10/2024  KOLBY RYAN DEWITT  04/01/2024  04/30/2024  STAFF TRANSPORTATION                                                         $45.56
+DERN20240436      05/15/2024  KOLBY RYAN DEWITT  04/30/2024  04/30/2024  CEDAR FALLS TO CHARLES CITY AND RETURN                                       $81.74
+DERN20240437      05/13/2024  KIMBERLY A REEM    04/01/2024  04/20/2024  STAFF TRANSPORTATION                                                       $168.17
+DERN20240438      05/13/2024  KIMBERLY A REEM    04/30/2024  04/30/2024  DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $40.20
+DERN20240439      05/13/2024  JOHN L HOLLINRAKE  04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                         $95.81
+DERN20240440      05/13/2024  JOHN L HOLLINRAKE  04/05/2024  04/05/2024  SIOUX CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $42.88
+DERN20240441      05/13/2024  JOHN L HOLLINRAKE  04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                         $42.88
+DERN20240442      05/13/2024  JOHN L HOLLINRAKE  04/18/2024  04/18/2024  SIOUX CITY TO FORT DODGE AND RETURN                                          $23.45
+DERN20240443      05/13/2024  JOHN L HOLLINRAKE  04/01/2024  04/30/2024  STAFF TRANSPORTATION                                                         $51.59
+DERN20240444      05/17/2024  MICHELE A BECK     04/09/2024  04/09/2024  CEDAR RAPIDS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $92.46
+DERN20240445      05/17/2024  MICHELE A BECK     04/11/2024  04/11/2024  STAFF TRANSPORTATION                                                       $147.40
+DERN20240446      05/15/2024  MICHELE A BECK     04/12/2024  04/12/2024  CEDAR RAPIDS TO DUBUQUE, ANAMOSA AND RETURN                                $100.50
+DERN20240447      05/17/2024  MICHELE A BECK     04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                         $54.94
+DERN20240448      05/15/2024  MICHELE A BECK     04/24/2024  04/24/2024  ANKENY TO AMES TO DES MOINES                                               $100.50
+                  05/17/2024  MICHELE A BECK     04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                         $42.88
+                  05/15/2024  MICHELE A BECK     04/29/2024  04/29/2024  ANKENY TO AMES TO DES MOINES                                               $182.91
+                  05/15/2024  MICHELE A BECK     04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                         $44.22
+                                                                         DES MOINES TO INDIANOLA AND RETURN                                           $54.94
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES TO OTLEY AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                         STAFF TRANSPORTATION
+                                                                         DAVENPORT TO FAIRFIELD AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DAVENPORT TO WASHINGTON AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DAVENPORT TO CLINTON AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DAVENPORT TO WASHINGTON AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DAVENPORT TO DE WITT AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DAVENPORT TO FAIRFIELD, MONTROSE AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DAVENPORT TO MUSCATINE AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DAVENPORT TO CLINTON AND RETURN
+

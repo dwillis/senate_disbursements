@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                          DATES
+DMAN20240300                                                                   CHARLESTON TO HUNTINGTON AND RETURN                                                 $13.91
+DMAN20240301                                           START       END         STAFF INCIDENTALS                                                                 $165.63
+DMAN20240302                                                                   STAFF PER DIEM                                                                    $334.37
+DMAN20240306      05/02/2024  JENNIFER CHRISTINE LAUX  03/26/2024  03/27/2024  WASHINGTON DC TO MORGANTOWN AND RETURN
+                  05/02/2024  GREGORY A HEWITT                                 STAFF TRANSPORTATION                                                                $40.00
+                  05/02/2024  ROSEANN W FERRO          04/22/2024  04/25/2024  CHARLESTON TO THE FOLLOWING AND RETURN: 4/22 BECKLEY,                               $99.36
+                  05/16/2024  SHYLA H ALAM             04/25/2024  04/25/2024  BLUEFIELD; 4/23 BECKLEY; 4/24 DANIELS; 4/25 ATHENS, PRINCETON                     $932.51
+                                                       04/18/2024  04/26/2024  STAFF TRANSPORTATION                                                                $49.15
+                                                                               FAIRMONT TO NEW MARTINSVILLE AND RETURN                                           $195.00
+DMAN20240307      05/14/2024  MARA C BOGGS             04/25/2024  04/25/2024  STAFF INCIDENTALS                                                                 $779.81
+DMAN20240308      05/14/2024  MICHAEL W BROWNING       04/08/2024  04/26/2024  STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION                                                              $465.62
+DMAN20240309      05/14/2024  WENDY MADDEN             02/23/2024  03/14/2024  WASHINGTON DC TO KINGWOOD, MARTINSBURG, BECKLEY, CHARLESTON,                                B-1694
+                                                                               MORGANTOWN AND RETURN                                                             $247.50
+DMAN20240310      05/14/2024  WENDY MADDEN             03/18/2024  03/28/2024  STAFF TRANSPORTATION
+DMAN20240311                                                                   CHARLESTON TO MORGANTOWN AND RETURN                                               $308.12
+                  05/14/2024  WENDY MADDEN             04/04/2024  04/23/2024  STAFF TRANSPORTATION
+                                                                               CHARLESTON TO THE FOLLOWING AND RETURN TO DANVILLE: 4/8, 9, 10                      $25.94
+DMAN20240312      05/20/2024  ANDREW NELSON ROBINSON   04/29/2024  04/30/2024  HUNTINGTON; 4/16 CEREDO; 4/17 HUNTINGTON, BARBOURSVILLE;                          $193.75
+DMAN20240313      05/17/2024  GREGORY A HEWITT         04/30/2024  05/02/2024  CHARLESTON TO THE FOLLOWING AND RETURN: 4/18 JULIAN, HAMLIN,                      $478.75
+                                                                               ALUM CREEK; 4/23 CHAPMANVILLE; 4/26 HUNTINGTON; 4/24 DANVILLE TO
+DMAN20240314      05/14/2024  ROSEANN W FERRO          05/02/2024  05/02/2024  HUNTINGTON TO CHARLESTON                                                            $37.50
+DMAN20240315      05/16/2024  ROSEANN W FERRO          05/06/2024  05/06/2024  STAFF TRANSPORTATION                                                                $40.00
+DMAN20240316      05/22/2024  JIMMY E PERRY            02/16/2024  05/07/2024  2/23 BRIDGEPORT TO GRAFTON TO FAIRMONT; FAIRMONT TO THE                           $170.87
+                                                                               FOLLOWING AND RETURN: 2/26 CLARKSBURG; 3/6 MORGANTOWN;
+                                                                               BRIDGEPORT TO THE FOLLOWING AND RETURN: 2/27 PARSONS; 3/4, 13
+                                                                               KINGWOOD; 3/7 ELKINS; 3/11 WEST UNION; FAIRMONT TO THE FOLLOWING
+                                                                               AND RETURN TO BRIDGEPORT: 2/28 SALEM; 3/14 ELKINS
+                                                                               STAFF TRANSPORTATION
+                                                                               BRIDGEPORT TO THE FOLLOWING AND RETURN: 3/18 GRAFTON; 3/22
+                                                                               ELKINS; 3/26 THOMAS, PARSONS; FAIRMONT TO THE FOLLOWING AND
+                                                                               RETURN: 3/19 BRIDGEPORT; 3/21 INTERDEPARTMENTAL TRANSPORTATION;
+                                                                               3/27 MORGANTOWN; 3/28 SALEM
+                                                                               STAFF TRANSPORTATION
+                                                                               BRIDGEPORT TO THE FOLLOWING AND RETURN: 4/4 KINGWOOD; 4/5
+                                                                               CLARKSBURG; 4/17 CLARKSBURG, MORGANTOWN; 4/19 ELKINS; 4/22
+                                                                               MOATSVILLE; 4/23 WESTON; FAIRMONT TO THE FOLLOWING AND RETURN: 4
+                                                                               /10, 15 MORGANTOWN; 4/12 BRIDGEPORT TO PHILIPPI, MORGANTOWN TO
+                                                                               FAIRMONT; 4/16 FAIRMONT TO SALEM TO BRIDGEPORT
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               CHARLESTON TO MORGANTOWN AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               CHARLESTON TO THE FOLLOWING AND RETURN: 4/30 RICHWOOD,
+                                                                               MARLINTON, WEBSTER SPRINGS, COWEN; 5/1 SOPHIA, WHITE SULPHUR
+                                                                               SPRINGS, UNION; 5/2 BECKLEY, MULLENS, PINEVILLE, OCEANA
+                                                                               STAFF TRANSPORTATION
+                                                                               FAIRMONT TO WELLSBURG AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               FAIRMONT TO NEW MARTINSVILLE AND RETURN
+                                                                               STAFF TRANSPORTATION
+

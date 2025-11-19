@@ -1,0 +1,72 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                         DESCRIPTION                                         AMOUNT ($)
+                   POSTED                                                  DATES
+DLNK20241317                  VICKIE L MOORE                                                                                                                                     $79.99
+DLNK20241320      09/23/2024  CITIBANK - TRAVEL CBA CARD        START       END                                                                                                $215.10
+DLNK20241321      09/24/2024  CITIBANK - TRAVEL CBA CARD                                                                                                                       $358.20
+                  09/24/2024                                    09/17/2024   09/17/2024 STAFF TRANSPORTATION                                                                             B-1612
+DLNK20241322                  CITIBANK - TRAVEL CBA CARD        09/22/2024                        OKLAHOMA CITY TO GUYMON AND RETURN                                           $358.20
+                  09/24/2024                                    09/22/2024
+DLNK20241323                  CITIBANK - TRAVEL CBA CARD                     09/22/2024 STAFF TRANSPORTATION                                                                   $179.10
+DLNK20241324      09/24/2024  JAMES S CARSON                    09/22/2024                        AIRFARE FOR D OSBORN TULSA TO WASHINGTON DC                                    $29.48
+DLNK20241328      09/24/2024  EAN SERVICES LLC
+                  09/30/2024                                    09/23/2024   09/26/2024 STAFF TRANSPORTATION                                                                   $123.01
+DLNK20241332                  EAN SERVICES LLC                  09/20/2024                        AIRFARE FOR K FERGUSON OKLAHOMA CITY TO WASHINGTON DC AND
+                  09/24/2024                                    09/11/2024                        RETURN                                                                         $94.68
+DLNK20241333                  EAN SERVICES LLC
+DLNK20241334      09/24/2024  EAN SERVICES LLC                  09/10/2024   09/26/2024 STAFF TRANSPORTATION                                                                     $63.01
+DLNK20241335      09/24/2024  MACKENZIE J SAVALA                                                  AIRFARE FOR R TAYLOR OKLAHOMA CITY TO WASHINGTON DC AND                        $59.94
+DLNK20241336      09/24/2024  MACKENZIE J SAVALA                09/18/2024                        RETURN                                                                         $95.14
+DLNK20241337      09/24/2024  MACKENZIE J SAVALA                09/11/2024                                                                                                       $84.42
+DLNK20241338      09/24/2024  MACKENZIE J SAVALA                09/10/2024   09/23/2024 SENATOR TRANSPORTATION                                                                   $40.20
+DLNK20241339      09/24/2024  ESTELA L HERNANDEZ                09/11/2024                        AIRFARE FOR SEN LANKFORD OKLAHOMA CITY TO WASHINGTON DC                        $60.97
+DLNK20241346      09/30/2024  CITIBANK - TRAVEL CBA CARD        09/12/2024                                                                                                     $113.83
+DLNK20241348      09/27/2024  CITIBANK - TRAVEL CBA CARD        09/13/2024   09/20/2024 STAFF TRANSPORTATION                                                                     $40.00
+                  09/27/2024                                    09/16/2024                        OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $40.00
+DLNK20240637                  CITIBANK - PURCHASE CARD          09/19/2024                                                                                                 $88,077.03
+DLNK20240730      04/19/2024  CITIBANK - PURCHASE CARD          09/19/2024   09/13/2024 STAFF TRANSPORTATION                                                                   $186.00
+DLNK20240839      05/16/2024  CITIBANK - PURCHASE CARD                                            RENTAL AUTO FOR P BURNS STILLWATER TO WOODWARD, CUSHING,                     $165.00
+DLNK20240938      06/13/2024  CITIBANK - PURCHASE CARD          04/03/2024                        FAIRVIEW AND RETURN                                                          $182.00
+DLNK20241042      07/16/2024  CITIBANK - PURCHASE CARD          05/02/2024                                                                                                     $169.00
+DLNK20241234      08/14/2024  CITIBANK - PURCHASE CARD          06/04/2024   09/11/2024 STAFF TRANSPORTATION                                                                   $232.00
+                  09/17/2024                                    07/02/2024                        RENTAL AUTO FOR J SHARUM TULSA TO OKEMAH, OKLAHOMA CITY AND                  $170.00
+DLNK20240867                  CITIBANK - PURCHASE CARD          08/02/2024                        RETURN                                                                    $1,104.00
+DLNK20240990      06/26/2024  CITIBANK - PURCHASE CARD          09/04/2024                                                                                                     $189.99
+DLNK20241045      07/23/2024  CITIBANK - PURCHASE CARD                       09/18/2024 STAFF TRANSPORTATION
+DLNK20241066      08/16/2024  CITIBANK - PURCHASE CARD          06/13/2024                        RENTAL AUTO FOR J SHARUM TULSA TO OKLAHOMA CITY AND RETURN                      $7.78
+DLNK20241112      08/22/2024  CITIBANK - PURCHASE CARD          07/18/2024                                                                                                     $189.99
+                  09/06/2024                                    08/06/2024   09/11/2024 STAFF TRANSPORTATION                                                                   $222.86
+                                                                08/08/2024                        RENTAL AUTO FOR S SHARUM TULSA TO OKLAHOMA CITY AND RETURN                   $399.00
+                                                                08/19/2024
+                                                                             09/10/2024 STAFF TRANSPORTATION
+                                                                                                  TULSA TO OKEMAH, SLICK AND RETURN
+
+                                                                             09/11/2024 STAFF TRANSPORTATION
+                                                                                                  TULSA TO CHOUTEAU, MUSKOGEE AND RETURN
+
+                                                                             09/12/2024 STAFF TRANSPORTATION
+                                                                                                  TULSA TO CLAREMORE, CATOOSA AND RETURN
+
+                                                                             09/13/2024 STAFF TRANSPORTATION
+                                                                                                  TULSA TO BARTLESVILLE AND RETURN
+
+                                                                             09/20/2024 STAFF TRANSPORTATION
+                                                                                                  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+
+                                                                             09/19/2024 TICKET FEES
+                                                                             09/19/2024 TICKET FEES
+                                                                            TRAVEL AND TRANSPORTATION OF PERSONS
+
+                                                                             04/03/2024 CLIPPING SERVICES
+                                                                             05/02/2024 CLIPPING SERVICES
+                                                                             06/04/2024 CLIPPING SERVICES
+                                                                             07/02/2024 CLIPPING SERVICES
+                                                                             08/02/2024 CLIPPING SERVICES
+                                                                             09/04/2024 CLIPPING SERVICES
+                                                                            OTHER CONTRACTUAL SERVICES
+
+                                                                            06/13/2024  VOICE & DATA COMM EQUIPMENT
+                                                                            07/18/2024  AUDIO, VISUAL EQUIPMENT
+                                                                            08/06/2024  VOICE & DATA COMM EQUIPMENT
+                                                                            08/08/2024  AUDIO, VISUAL EQUIPMENT
+                                                                            08/19/2024  AUDIO, VISUAL EQUIPMENT
+

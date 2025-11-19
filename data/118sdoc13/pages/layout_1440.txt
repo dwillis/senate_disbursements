@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                  POSTED                                              DATES
+DHYD20240342                                                                       AIRFARE FOR SEN HYDE SMITH WASHINGTON DC TO JACKSON                         $458.60
+DHYD20240343                                               START       END         SENATOR TRANSPORTATION                                                      $683.60
+DHYD20240344                                                                       AIRFARE FOR SEN HYDE SMITH JACKSON TO WASHINGTON DC                         $828.60
+DHYD20240346      04/26/2024  CITIBANK - SENATOR IBA CARD  04/08/2024  04/08/2024  STAFF TRANSPORTATION
+DHYD20240347      04/26/2024  CITIBANK - TRAVEL CBA CARD   04/05/2024  04/05/2024  AIRFARE FOR D DAVIS JACKSON TO WASHINGTON DC                                  $20.00
+DHYD20240348      04/26/2024  CITIBANK - TRAVEL CBA CARD   04/11/2024  04/11/2024  STAFF TRANSPORTATION                                                        $155.61
+DHYD20240349      05/10/2024  WINDLEY HALL ELLINGTON       04/17/2024  04/17/2024  AIRFARE FOR D DAVIS WASHINGTON DC TO JACKSON
+DHYD20240350                                                                       STAFF PER DIEM                                                                $74.34
+DHYD20240351      05/06/2024  ANNA K THAMES                04/11/2024  04/11/2024  STAFF TRANSPORTATION                                                          $18.40
+DHYD20240352      05/06/2024  DILLIAN CASE KNIGHT          04/15/2024  04/15/2024  GULFPORT TO BUCKATUNNA AND RETURN                                             $76.86
+                                                                                   STAFF TRANSPORTATION                                                          $84.29
+DHYD20240353      05/06/2024  DILLIAN CASE KNIGHT          04/16/2024  04/16/2024  BROOKHAVEN TO JACKSON AND RETURN                                              $17.00
+DHYD20240354      05/10/2024  DILLIAN CASE KNIGHT          04/17/2024  04/17/2024  STAFF PER DIEM                                                                $98.34
+DHYD20240355                                                                       STAFF TRANSPORTATION                                                          $13.86
+DHYD20240356      05/07/2024  DILLIAN CASE KNIGHT          04/18/2024  04/18/2024  SALTILLO TO OXFORD AND RETURN                                                 $14.28  B-1422
+DHYD20240357      05/13/2024  UMESH N SANJANWALA           04/18/2024  04/19/2024  STAFF TRANSPORTATION                                                        $206.75
+DHYD20240358                                                                       SALTILLO TO PITTSBORO AND RETURN                                            $228.06
+                  05/03/2024  DILLIAN CASE KNIGHT          04/23/2024  04/23/2024  STAFF PER DIEM
+DHYD20240359      05/07/2024  DILLIAN CASE KNIGHT          04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                           $8.77
+DHYD20240360      05/14/2024  ANNA K THAMES                04/15/2024  04/15/2024  SALTILLO TO COLUMBUS AND RETURN                                               $52.92
+DHYD20240361      05/10/2024  ANNA K THAMES                04/18/2024  04/19/2024  STAFF TRANSPORTATION                                                          $19.78
+                  05/13/2024  ANNA K THAMES                04/22/2024  04/25/2024  SALTILLO TO TUPELO AND RETURN                                                 $90.72
+                  05/03/2024  ALEXANDRA C MILLER           04/18/2024  04/28/2024  STAFF INCIDENTALS                                                             $15.40
+                                                                                   STAFF PER DIEM                                                              $100.80
+                  05/14/2024  CITIBANK - SENATOR IBA CARD  04/29/2024  04/29/2024  STAFF TRANSPORTATION                                                          $23.25
+                  05/03/2024  CITIBANK - SENATOR IBA CARD  04/24/2024  04/24/2024  JACKSON TO BILOXI AND RETURN                                                $233.10
+                  05/09/2024  CITIBANK - SENATOR IBA CARD  04/20/2024  04/20/2024  STAFF PER DIEM                                                              $236.88
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SALTILLO TO CORINTH AND RETURN                                              $366.03
+                                                                                   STAFF PER DIEM                                                              $557.39
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SALTILLO TO OXFORD, TUPELO AND RETURN                                       $828.60
+                                                                                   STAFF PER DIEM                                                              $683.60
+                                                                                   STAFF TRANSPORTATION                                                        $295.10
+                                                                                   BROOKHAVEN TO MCCOMB, JACKSON AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BROOKHAVEN TO JACKSON, STARKVILLE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BROOKHAVEN TO THE FOLLOWING AND RETURN: 4/22 MADISON; 4/23
+                                                                                   FLOWOOD; 4/25 JACKSON
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC TO COLUMBUS, STARKVILLE, JACKSON, OXFORD,
+                                                                                   MEMPHIS TN AND RETURN
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN HYDE SMITH JACKSON TO WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN HYDE SMITH WASHINGTON DC TO JACKSON
+                                                                                   SENATOR TRANSPORTATION
+

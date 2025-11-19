@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+              POSTED                                             DATES
+                                                                              STAFF TRANSPORTATION                                                                  $67.32
+                                                      START       END         STILLWATER TO WOODWARD, GUYMON AND RETURN                                             $17.05
+                                                                              STAFF PER DIEM                                                                        $39.00
+DLNK20241079  08/28/2024  PEYTON G BURNS              08/09/2024  08/09/2024  STAFF TRANSPORTATION                                                                  $39.55  B-1604
+                                                                              STILLWATER TO TULSA AND RETURN
+DLNK20241080  08/28/2024  PEYTON G BURNS              08/13/2024  08/13/2024  STAFF TRANSPORTATION                                                                   $6.35
+DLNK20241083  08/30/2024  CITIBANK - TRAVEL CBA CARD  07/08/2024  07/11/2024  STILLWATER TO ENID, OKARCHE, EL RENO AND RETURN
+                                                                              STAFF TRANSPORTATION                                                                   $9.95
+DLNK20241084  08/30/2024  CITIBANK - TRAVEL CBA CARD  06/12/2024  06/13/2024  TOLLS FOR P BURNS STILLWATER TO WOODWARD, SEILING, GUTHRIE,                            $7.15
+DLNK20241085  08/30/2024  CITIBANK - TRAVEL CBA CARD  06/08/2024  06/13/2024  OKLAHOMA CITY, GUTHRIE, ENID, PERRY, ENID AND RETURN
+                                                                              STAFF TRANSPORTATION                                                                   $5.95
+DLNK20241086  08/30/2024  CITIBANK - TRAVEL CBA CARD  07/10/2024  07/11/2024  TOLLS FOR S SHARUM TULSA TO OKLAHOMA CITY AND RETURN                                  $14.40
+DLNK20241087  08/30/2024  CITIBANK - TRAVEL CBA CARD  06/23/2024  06/26/2024  STAFF TRANSPORTATION                                                                $275.98
+DLNK20241090  08/28/2024  CITIBANK - TRAVEL CBA CARD  08/18/2024  08/18/2024  TOLLS FOR P BURNS STILLWATER TO GUTHRIE, PERKINS, ENID, ALVA,                       $279.10
+DLNK20241091  09/03/2024  CITIBANK - TRAVEL CBA CARD  08/18/2024  08/18/2024  WAKITA, MEDFORD AND RETURN                                                            $85.60
+DLNK20241092  08/30/2024  CITIBANK - TRAVEL CBA CARD  08/18/2024  08/18/2024  STAFF TRANSPORTATION                                                                $337.20
+DLNK20241093  09/04/2024  EAN SERVICES LLC            08/05/2024  08/14/2024  TOLLS FOR J SHARUM TULSA TO GUTHRIE, ENID AND RETURN
+                                                                              STAFF TRANSPORTATION                                                                $147.22
+DLNK20241094  08/30/2024  EAN SERVICES LLC            08/12/2024  08/14/2024  TOLLS FOR M ALTMAN IN AND AROUND OKLAHOMA CITY                                        $42.07
+DLNK20241095  08/30/2024  EAN SERVICES LLC            08/13/2024  08/14/2024  STAFF TRANSPORTATION                                                                  $77.70
+DLNK20241096  09/04/2024  NATALIE MORGAN IHRMAN       08/11/2024  08/30/2024  AIRFARE FOR P BURNS STILLWATER TO COLORADO SPRINGS CO
+                                                                              STAFF TRANSPORTATION                                                                $854.24
+DLNK20241097  08/29/2024  MACKENZIE J SAVALA          07/09/2024  07/09/2024  AIRFARE FOR N IHRMAN DALLAS TX TO ORLANDO FL                                        $389.71
+DLNK20241098  08/29/2024  MACKENZIE J SAVALA          07/10/2024  07/10/2024  STAFF TRANSPORTATION
+DLNK20241099  08/29/2024  MACKENZIE J SAVALA          07/23/2024  07/23/2024  AIRFARE FOR C HARAZDA OKLAHOMA CITY TO COLORADO SPRINGS CO                          $132.66
+DLNK20241100  08/29/2024  MACKENZIE J SAVALA          07/24/2024  07/24/2024  STAFF TRANSPORTATION                                                                  $77.05
+DLNK20241101  08/29/2024  MACKENZIE J SAVALA          07/25/2024  07/25/2024  RENTAL AUTO FOR P BURNS AS FOLLOWS: 8/5 STILLWATER TO OKLAHOMA                        $52.26
+DLNK20241102  08/29/2024  MACKENZIE J SAVALA          08/02/2024  08/02/2024  CITY, GUTHRIE, LANGSTON AND RETURN; 8/6-7 STILLWATER TO                               $67.00
+                                                                              WOODYARD, GUYMON AND RETURN; 8/9 STILLWATER TO TULSA AND                              $96.48
+                                                                              RETURN; 8/13 STILLWATER TO ENID, OKARCHE, EL RENO AND RETURN; 8/14                    $39.53
+                                                                              STAFF TRANSPORTATION
+                                                                              RENTAL AUTO FOR D OSBORN TULSA TO OKLAHOMA CITY AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              RENTAL AUTO FOR J SHARUM TULSA TO OKLAHOMA CITY AND RETURN
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              ALEXANDRIA VA TO WASHINGTON DC, OKLAHOMA CITY, DALLAS TX AND
+                                                                              RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              TULSA TO TAHLEQUAH, GROVE AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              TULSA TO CHOUTEAU, SALINA AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              TULSA TO OKMULGEE AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              TULSA TO NOWATA AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              TULSA TO TAHLEQUAH AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              TULSA TO CLAREMORE AND RETURN
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME        OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                   DATES
+DLUJ20240187                                                            SANTA FE TO ALBUQUERQUE AND RETURN                                           $12.00
+DLUJ20240188                                    START       END         STAFF PER DIEM                                                             $111.35
+DLUJ20240189                                                            STAFF TRANSPORTATION
+DLUJ20240190      05/15/2024  CARMELA QUINTANA  10/16/2023  10/16/2023  SANTA FE TO ALBUQUERQUE AND RETURN                                           $12.00
+DLUJ20240191      05/15/2024  CARMELA QUINTANA                          STAFF PER DIEM                                                             $111.35
+DLUJ20240192      05/15/2024  CARMELA QUINTANA  10/23/2023  10/23/2023  STAFF TRANSPORTATION
+DLUJ20240193      05/15/2024  CARMELA QUINTANA                          SANTA FE TO ALBUQUERQUE AND RETURN                                           $16.00
+DLUJ20240194      05/16/2024  CARMELA QUINTANA  10/26/2023  10/26/2023  STAFF PER DIEM                                                               $85.15
+DLUJ20240195      05/14/2024  CARMELA QUINTANA                          STAFF TRANSPORTATION                                                         $40.61
+DLUJ20240196      05/15/2024  CARMELA QUINTANA  10/30/2023  10/30/2023  SANTA FE TO ALBUQUERQUE AND RETURN                                           $22.00
+DLUJ20240197      05/15/2024  CARMELA QUINTANA  11/11/2023  11/11/2023  STAFF TRANSPORTATION                                                       $122.48
+DLUJ20240198      05/16/2024  CARMELA QUINTANA                          SANTA FE TO NAMBE AND RETURN                                                 $40.61
+DLUJ20240199      05/15/2024  CARMELA QUINTANA  11/13/2023  11/13/2023  STAFF PER DIEM                                                               $40.61  B-1648
+DLUJ20240200      05/15/2024  CARMELA QUINTANA  11/27/2023  11/27/2023  STAFF TRANSPORTATION                                                         $22.00
+DLUJ20240201      05/15/2024  CARMELA QUINTANA  12/12/2023  12/12/2023  SANTA FE TO ANGEL FIRE AND RETURN                                            $50.43
+DLUJ20240202      05/21/2024  CARMELA QUINTANA                          STAFF TRANSPORTATION                                                       $111.35
+DLUJ20240203      05/21/2024  CARMELA QUINTANA  12/13/2023  12/13/2023  SANTA FE TO NAMBE AND RETURN                                                 $11.00
+DLUJ20240204      05/15/2024  CARMELA QUINTANA  12/21/2023  12/21/2023  STAFF TRANSPORTATION                                                         $72.05
+DLUJ20240205      05/15/2024  CARMELA QUINTANA                          SANTA FE TO NAMBE AND RETURN                                                 $41.54
+                  05/21/2024  CARMELA QUINTANA  01/08/2024  01/08/2024  STAFF PER DIEM                                                               $41.54
+                  05/21/2024  CARMELA QUINTANA  01/18/2024  01/18/2024  STAFF TRANSPORTATION                                                         $28.00
+                  05/21/2024  CARMELA QUINTANA  02/07/2024  02/07/2024  SANTA FE TO ALBUQUERQUE AND RETURN                                         $118.59
+                                                                        STAFF TRANSPORTATION                                                         $18.00
+                                                02/28/2024  02/28/2024  SANTA FE TO ALBUQUERQUE AND RETURN                                         $118.59
+                                                                        STAFF PER DIEM                                                               $41.54
+                                                03/19/2024  03/19/2024  STAFF TRANSPORTATION                                                         $29.00
+                                                04/03/2024  04/03/2024  SANTA FE TO TAOS AND RETURN                                                  $40.00
+                                                04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                       $117.25
+                                                                        SANTA FE TO NAMBE AND RETURN                                                 $20.00
+                                                04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                       $112.56
+                                                                        SANTA FE TO NAMBE AND RETURN                                                 $12.00
+                                                04/08/2024  04/08/2024  STAFF PER DIEM                                                             $117.25
+                                                                        STAFF TRANSPORTATION
+                                                                        SANTA FE TO ALBUQUERQUE AND RETURN
+                                                                        STAFF PER DIEM
+                                                                        STAFF TRANSPORTATION
+                                                                        SANTA FE TO ALBUQUERQUE AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        SANTA FE TO NAMBE AND RETURN
+                                                                        STAFF PER DIEM
+                                                                        SANTA FE TO RIO RANCHO AND RETURN
+                                                                        STAFF PER DIEM
+                                                                        STAFF TRANSPORTATION
+                                                                        SANTA FE TO ALBUQUERQUE AND RETURN
+                                                                        STAFF PER DIEM
+                                                                        STAFF TRANSPORTATION
+                                                                        SANTA FE TO QUESTA, TAOS AND RETURN
+                                                                        STAFF PER DIEM
+                                                                        STAFF TRANSPORTATION
+                                                                        SANTA FE TO ALBUQUERQUE AND RETURN
+

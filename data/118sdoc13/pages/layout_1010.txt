@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                   POSTED                                                  DATES
+DCOT20240618                  CAMERON JOSEPH BANDY                                      STAFF TRANSPORTATION                                                                 $48.38
+DCOT20240619      08/06/2024  CAMERON JOSEPH BANDY              START       END         JONESBORO TO IMBODEN AND RETURN                                                      $25.96
+DCOT20240620      08/06/2024  BRITTANY HELEN PARKER                                     STAFF TRANSPORTATION
+DCOT20240621      08/06/2024  CAMERON JOSEPH BANDY              07/16/2024  07/16/2024  JONESBORO TO PARAGOULD AND RETURN                                                     $4.89
+DCOT20240622      08/06/2024  BRITTANY HELEN PARKER                                     STAFF TRANSPORTATION                                                                 $81.42
+                  08/06/2024                                    07/17/2024  07/17/2024  ROGERS TO BENTONVILLE AND RETURN                                                     $14.75
+DCOT20240623                  BRITTANY HELEN PARKER                                     STAFF TRANSPORTATION                                                               $157.53
+                  08/06/2024                                    07/18/2024  07/18/2024  JONESBORO TO MEMPHIS TN AND RETURN
+DCOT20240624                  CAMERON JOSEPH BANDY                                      STAFF PER DIEM                                                                        $8.54
+DCOT20240625      08/20/2024  BRITTANY HELEN PARKER             07/18/2024  07/18/2024  STAFF TRANSPORTATION                                                               $142.19
+                  08/20/2024                                                            ROGERS TO RUSSELLVILLE AND RETURN
+DCOT20240626                                                    07/19/2024  07/19/2024  STAFF PER DIEM                                                                       $75.52
+DCOT20240627                                                                            STAFF TRANSPORTATION                                                               $159.40
+DCOT20240628                                                    07/22/2024  07/22/2024  ROGERS TO FLIPPIN, YELLVILLE AND RETURN
+DCOT20240629                                                                            STAFF TRANSPORTATION                                                                 $60.18
+DCOT20240630                                                    07/22/2024  07/22/2024  JONESBORO TO EARLE, MARION AND RETURN                                              $129.80
+DCOT20240631                                                    07/23/2024  07/26/2024  STAFF TRANSPORTATION
+                                                                                        ROGERS TO THE FOLLOWING AND RETURN: 7/23 SPRINGDALE, BELLA                           $86.14
+DCOT20240632      08/20/2024  CAMERON JOSEPH BANDY              07/24/2024  07/24/2024  VISTA; 7/24 SPRINGDALE, BENTONVILLE; 7/25 VAN BUREN; 7/26                            $63.72  B-992
+                  08/20/2024  CAMERON JOSEPH BANDY              07/25/2024  07/25/2024  FAYETTEVILLE                                                                       $101.48
+DCOT20240633      08/19/2024  ABIGAIL BROOKE HESS               07/26/2024  07/26/2024  STAFF TRANSPORTATION                                                                 $14.18
+DCOT20240634      08/20/2024  CAMERON JOSEPH BANDY              07/26/2024  07/26/2024  JONESBORO TO MAYNARD AND RETURN                                                    $175.82
+DCOT20240635      08/19/2024  ABIGAIL BROOKE HESS               07/31/2024  07/31/2024  STAFF TRANSPORTATION                                                               $103.19
+                  08/20/2024  ABIGAIL BROOKE HESS               08/01/2024  08/01/2024  JONESBORO TO HEBER SPRINGS AND RETURN
+DCOT20240636                                                                            STAFF TRANSPORTATION                                                               $225.38
+DCOT20240637      08/27/2024  AUSTIN PARKER COLEMAN             08/01/2024  08/02/2024  DARDANELLE TO HOT SPRINGS AND RETURN                                                 $55.46
+DCOT20240638                                                                            STAFF TRANSPORTATION                                                                 $13.76
+DCOT20240639      08/27/2024  ABIGAIL BROOKE HESS               08/06/2024  08/06/2024  JONESBORO TO BLYTHEVILLE AND RETURN
+                  08/27/2024  CAMERON JOSEPH BANDY              08/02/2024  08/02/2024  STAFF TRANSPORTATION                                                               $362.26
+                  08/28/2024  BRITTANY HELEN PARKER             08/06/2024  08/06/2024  DARDANELLE TO LITTLE ROCK AND RETURN                                                 $85.55
+                                                                                        STAFF PER DIEM
+                  08/27/2024  BRITTANY HELEN PARKER             08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                               $212.40
+                  08/27/2024  ABIGAIL BROOKE HESS               08/07/2024  08/07/2024  DARDANELLE TO STUTTGART AND RETURN                                                 $241.90
+                  08/27/2024  BRITTANY HELEN PARKER             08/08/2024  08/08/2024  STAFF TRANSPORTATION
+                  09/09/2024  BRITTANY HELEN PARKER             08/09/2024  08/09/2024  LITTLE ROCK TO THE FOLLOWING AND RETURN: 8/1 DES ARC; 8/2 BENTON,                     $6.07
+                                                                                        BRYANT
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DARDANELLE TO JONESBORO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        JONESBORO TO RAVENDEN AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ROGERS TO LITTLE ROCK, CAMDEN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ROGERS TO MULBERRY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DARDANELLE TO HARRISBURG AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ROGERS TO HOT SPRINGS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

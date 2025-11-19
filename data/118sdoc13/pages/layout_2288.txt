@@ -1,0 +1,52 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                   POSTED                                                  DATES
+DSCH20240246                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                              $297.10
+DSCH20240247      05/21/2024                                    START       END         5/3 AIRFARE FOR J BENAVIDES NEW YORK TO WASHINGTON DC; 5/4 TRAIN
+DSCH20240248                  CITIBANK - TRAVEL CBA CARD                                FARE FOR J BENAVIDES WASHINGTON DC TO NEW YORK                                    $188.00
+DSCH20240249      05/21/2024  CITIBANK - TRAVEL CBA CARD        05/03/2024  05/04/2024  STAFF TRANSPORTATION                                                           $1,225.70
+DSCH20240250      05/20/2024  CITIBANK - TRAVEL CBA CARD                                TRAIN FARE FOR M IANNELLI NEW YORK TO WASHINGTON DC AND RETURN
+DSCH20240251      05/20/2024                                    05/02/2024  05/05/2024  STAFF TRANSPORTATION                                                              $752.00
+DSCH20240253                  CITIBANK - TRAVEL CBA CARD        04/13/2024  04/17/2024  AIRFARE FOR T DAYAL WASHINGTON DC TO LAS VEGAS NV AND RETURN
+DSCH20240254      05/29/2024  LUKE A POWELL                     05/02/2024  05/04/2024  STAFF TRANSPORTATION                                                              $928.20
+DSCH20240256      05/21/2024  JULIA M LEARY                                             TRAIN FARE FOR T SAWHNEY, P DONOVAN, L POWELL, J MEJIA NEW YORK                     $55.34
+DSCH20240257      05/22/2024  CHRISTOPHER S ZELTMANN            05/07/2024  05/07/2024  TO WASHINGTON DC AND RETURN                                                                 B-2251
+                  05/21/2024  LUKE A POWELL                     04/18/2024  04/18/2024  STAFF TRANSPORTATION                                                              $116.58
+DSCH20240258      05/22/2024  CHRISTOPHER S ZELTMANN            04/22/2024  04/22/2024  AIRFARE FOR J BROWN WASHINGTON DC TO DETROIT MI AND RETURN                          $42.21
+DSCH20240259      05/22/2024                                    05/06/2024  05/06/2024  STAFF TRANSPORTATION
+DSCH20240260                                                    05/06/2024  05/06/2024  PEEKSKILL TO POUGHKEEPSIE TO MOUNT KISCO                                          $132.66
+DSCH20240261                                                    05/02/2024  05/04/2024  STAFF TRANSPORTATION                                                              $128.68
+DSCH20240262                                                                            SYRACUSE TO FORT DRUM AND RETURN                                                  $629.21
+DSCH20240263      05/23/2024  RYAN P MARTIN                     04/23/2024  04/28/2024  STAFF TRANSPORTATION
+DSCH20240264                                                                            ROCHESTER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $68.48
+DSCH20240267      05/21/2024  CHRISTOPHER S ZELTMANN            04/26/2024  04/26/2024  STAFF TRANSPORTATION                                                                $34.80
+DSCH20240268      05/21/2024  CHRISTOPHER S ZELTMANN            04/29/2024  04/29/2024  PEEKSKILL TO POUGHKEEPSIE, ACRA TO MOUNT KISCO                                    $335.19
+                  05/24/2024  JAIME AYINDE COBHAM               05/02/2024  05/04/2024  STAFF INCIDENTALS                                                                   $49.58
+DSCH20240269                                                                            STAFF PER DIEM                                                                      $77.72
+                  06/17/2024  JOANNA L VAN SLYKE                05/02/2024  05/04/2024  STAFF TRANSPORTATION                                                                $64.34
+                                                                                        ROCHESTER TO WASHINGTON DC AND RETURN                                             $258.00
+                  06/12/2024  TANDEEP K SAWHNEY                 04/14/2024  04/14/2024  STAFF INCIDENTALS                                                                 $103.54
+                  05/22/2024  MEGAN A VLASTO                    05/02/2024  05/04/2024  STAFF PER DIEM                                                                      $52.70
+                                                                                        WASHINGTON DC TO SYRACUSE, NEW YORK AND RETURN                                      $56.95
+                  05/23/2024  ANGELO ROEFARO                    01/11/2024  04/23/2024  STAFF TRANSPORTATION                                                              $128.68
+                  05/22/2024  FLYING ZEBRA LLC                  04/02/2024  04/02/2024  ROCHESTER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $516.00
+                                                                                        STAFF TRANSPORTATION                                                              $433.12
+                  05/23/2024  CITIBANK - TRAVEL CBA CARD        05/07/2024  05/09/2024  ROCHESTER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $3,514.80
+                                                                                        STAFF INCIDENTALS                                                              $3,514.79
+                                                                                        STAFF PER DIEM
+                                                                                        NEW YORK TO WASHINGTON DC AND RETURN                                              $438.10
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ALBANY TO WASHINGTON DC AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NEW YORK OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        NEW YORK TO WASHINGTON DC AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NEW YORK OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR SEN SCHUMER, A OBSTLER WHITE PLAINS TO
+                                                                                        CANANDAIGUA, BUFFALO, MONTGOMERY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

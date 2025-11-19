@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DKEL20240459      09/06/2024  LUIS A HEREDIA                                            STAFF PER DIEM                                                                    $87.64
+DKEL20240460      09/06/2024  EMMELINE J FARWELL                START       END         STAFF TRANSPORTATION                                                            $293.69
+DKEL20240461      09/06/2024  TRAVONNE J SMITH                                          PHOENIX TO WASHINGTON DC AND RETURN
+DKEL20240462      09/11/2024  KIMBERLY M HEREDIA                06/12/2024  06/19/2024  STAFF PER DIEM                                                                    $46.27
+DKEL20240463      09/25/2024  KARLA M AVALOS SOTO                                       STAFF TRANSPORTATION                                                              $78.66
+DKEL20240464      09/06/2024  JENNIFER E COX                    06/12/2024  06/15/2024  TUCSON TO WASHINGTON DC AND RETURN
+DKEL20240465      09/06/2024  ROSA I RUIZ                                               STAFF PER DIEM                                                                    $82.05
+                                                                06/12/2024  06/15/2024  STAFF TRANSPORTATION                                                            $172.64
+DKEL20240466                                                                            TUCSON TO WASHINGTON DC AND RETURN
+DKEL20240467                                                    06/12/2024  06/16/2024  STAFF PER DIEM                                                                    $29.40
+DKEL20240468                                                                            STAFF TRANSPORTATION                                                            $186.99
+                                                                06/12/2024  06/15/2024  GLENDALE TO PHOENIX, WASHINGTON DC, PHOENIX AND RETURN
+                                                                                        STAFF PER DIEM                                                                    $36.03
+                                                                06/11/2024  06/14/2024  STAFF TRANSPORTATION                                                              $56.68
+                                                                                        TUCSON TO WASHINGTON DC AND RETURN
+                                                                06/08/2024  06/15/2024  STAFF PER DIEM                                                                  $192.26
+                                                                                        STAFF TRANSPORTATION                                                            $811.77
+                  09/06/2024  DENIECE A LOPEZ                   06/12/2024  06/17/2024  PHOENIX TO WASHINGTON DC AND RETURN                                                       B-1493
+                  09/06/2024  TAYLOR J ROGERS                   06/12/2024  06/17/2024  STAFF PER DIEM                                                                    $66.84
+                  08/14/2024  LUTHER H LEE                      07/13/2024  07/15/2024  STAFF TICKET FEES                                                                 $40.00
+                                                                                        STAFF TRANSPORTATION                                                            $700.14
+DKEL20240469      08/13/2024  LUTHER H LEE                      07/02/2024  07/03/2024  TUCSON TO PHOENIX, WASHINGTON DC, PHOENIX AND RETURN
+DKEL20240470      08/09/2024  CORAL J EVANS-RANDALL             07/15/2024  07/15/2024  STAFF PER DIEM                                                                  $101.25
+DKEL20240471      08/02/2024  ANA M ARMENDAREZ                  07/13/2024  07/15/2024  STAFF TRANSPORTATION                                                            $136.68
+                                                                                        PHOENIX TO WASHINGTON DC AND RETURN
+DKEL20240472      07/31/2024  LUTHER H LEE                      07/11/2024  07/12/2024  STAFF PER DIEM                                                                    $41.81
+DKEL20240473      07/30/2024  JUDY SULLTROP                     07/12/2024  07/12/2024  STAFF TRANSPORTATION                                                              $27.11
+DKEL20240474      07/30/2024  JUDY SULLTROP                     06/11/2024  06/11/2024  PHOENIX TO WASHINGTON DC AND RETURN
+DKEL20240475      07/30/2024  KIMBERLY M HEREDIA                07/19/2024  07/19/2024  STAFF INCIDENTALS                                                                 $22.12
+DKEL20240486      07/31/2024  ANA M ARMENDAREZ                  07/19/2024  07/19/2024  STAFF PER DIEM                                                                  $158.00
+                                                                                        STAFF TRANSPORTATION                                                            $217.75
+                                                                                        WINSLOW TO CHINLE, FORT DEFIANCE, SAINT MICHAELS, WINDOW ROCK,
+                                                                                        SAINT MICHAELS, WINDOW ROCK AND RETURN                                          $375.20
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WINSLOW TO PHOENIX AND RETURN                                                   $188.94
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FLAGSTAFF TO PHOENIX AND RETURN                                                   $23.49
+                                                                                        STAFF INCIDENTALS                                                               $272.59
+                                                                                        STAFF PER DIEM                                                                  $440.72
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PHOENIX TO WINDOW ROCK, SAINT MICHAELS AND RETURN                               $194.30
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WINSLOW TO FLAGSTAFF, TUBA CITY AND RETURN                                        $57.62
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PRESCOTT TO CAMP VERDE AND RETURN                                                 $80.40
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PRESCOTT TO SEDONA AND RETURN                                                     $20.92
+                                                                                        STAFF PER DIEM
+                                                                                        PHOENIX TO TUCSON AND RETURN                                                    $164.15
+                                                                                        STAFF TRANSPORTATION
+

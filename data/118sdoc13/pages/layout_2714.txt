@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                       OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+              POSTED                                                  DATES
+                                                                                   AIRFARE FOR S BEASLEY WASHINGTON DC TO SPOKANE WA, SEATTLE WA                      $40.00
+                                                           START       END         AND RETURN                                                                         $40.00
+                                                                                   TICKET FEES                                                                        $40.00
+DWYD20240597  07/16/2024  CITIBANK - TRAVEL CBA CARD       07/03/2024  07/03/2024  TICKET FEES                                                                        $40.00
+DWYD20240599  07/15/2024  CITIBANK - TRAVEL CBA CARD       07/03/2024  07/03/2024  TICKET FEES                                                                        $51.99
+DWYD20240601  07/15/2024  CITIBANK - TRAVEL CBA CARD       07/03/2024  07/03/2024  TICKET FEES                                                                      $441.98
+DWYD20240603  07/15/2024  CITIBANK - TRAVEL CBA CARD       07/03/2024  07/03/2024  STAFF INCIDENTALS
+DWYD20240606  07/23/2024  ERIC B DAVIS                     06/26/2024  06/28/2024  STAFF PER DIEM                                                                     $52.78
+                                                                                   PORTLAND TO BEND AND RETURN
+DWYD20240611  07/17/2024  KAZIMIERA GRACE NOWINA SAPINSKI  06/25/2024  06/25/2024  STAFF TRANSPORTATION                                                               $24.69
+DWYD20240617  07/19/2024  HENRY G STERN                    07/13/2024  07/13/2024  PORTLAND OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DWYD20240618  07/23/2024  REE C ARMITAGE                   06/26/2024  06/26/2024  STAFF PER DIEM                                                                     $17.00
+                                                                                   PORTLAND TO ALBANY AND RETURN                                                    $114.57
+DWYD20240619  07/24/2024  REE C ARMITAGE                   06/03/2024  06/04/2024  STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION                                                               $11.36
+DWYD20240621  07/22/2024  CITIBANK - TRAVEL CBA CARD       07/10/2024  07/10/2024  PORTLAND TO HOOD RIVER, THE DALLES AND RETURN                                    $123.14   B-2677
+DWYD20240626  07/23/2024  HENRY G STERN                    07/15/2024  07/15/2024  STAFF INCIDENTALS                                                                $231.82
+                                                                                   STAFF PER DIEM
+DWYD20240630  07/23/2024  PECH S SAKHAN                    07/14/2024  07/14/2024  STAFF TRANSPORTATION                                                               $40.00
+                                                                                   PORTLAND TO YACHATS, NEWPORT, LINCOLN CITY, GARIBALDI AND                          $10.69
+DWYD20240631  07/24/2024  PECH S SAKHAN                    07/13/2024  07/13/2024  RETURN
+                                                                                   TICKET FEES                                                                        $42.47
+DWYD20240632  07/23/2024  FATIMA T KENWORTHY               07/13/2024  07/13/2024  STAFF PER DIEM
+                                                                                   PORTLAND TO SEATTLE WA AND RETURN                                                $131.99
+DWYD20240637  07/29/2024  CITIBANK - TRAVEL CBA CARD       07/18/2024  07/18/2024  STAFF TRANSPORTATION
+                                                                                   PORTLAND TO SAINT HELENS AND RETURN                                                $24.79
+DWYD20240638  07/24/2024  CITIBANK - TRAVEL CBA CARD       07/17/2024  07/17/2024  STAFF TRANSPORTATION
+DWYD20240641  07/29/2024  CITIBANK - TRAVEL CBA CARD       07/11/2024  07/11/2024  PORTLAND TO ALBANY, MCMINNVILLE, KEIZER AND RETURN                               $378.60
+                                                                                   STAFF TRANSPORTATION
+DWYD20240642  07/24/2024  CITIBANK - TRAVEL CBA CARD       07/08/2024  07/08/2024  EUGENE TO ALBANY AND RETURN                                                        $40.00
+DWYD20240643  07/23/2024  CITIBANK - TRAVEL CBA CARD       07/08/2024  07/08/2024  STAFF TRANSPORTATION                                                             $405.10
+DWYD20240644  07/29/2024  CITIBANK - TRAVEL CBA CARD       07/19/2024  07/19/2024  AIRFARE FOR J EGLER MEDFORD TO WASHINGTON DC
+                                                                                   TICKET FEES                                                                        $40.00
+DWYD20240646  07/24/2024  CITIBANK - TRAVEL CBA CARD       07/10/2024  07/10/2024  SENATOR TRANSPORTATION                                                             $40.00
+DWYD20240648  07/24/2024  CITIBANK - TRAVEL CBA CARD       07/12/2024  07/12/2024  AIRFARE FOR SEN WYDEN WASHINGTON DC TO PORTLAND                                  $193.10
+DWYD20240654  07/29/2024  WYDEN,RON                        07/11/2024  07/19/2024  TICKET FEES
+                                                                                   TICKET FEES                                                                        $40.00
+DWYD20240656  07/24/2024  CITIBANK - TRAVEL CBA CARD       07/12/2024  07/12/2024  SENATOR TRANSPORTATION                                                             $40.00
+DWYD20240658  07/24/2024  CITIBANK - TRAVEL CBA CARD       07/10/2024  07/10/2024  AIRFARE FOR SEN WYDEN PORTLAND TO WASHINGTON DC                                    $35.46
+DWYD20240665  07/25/2024  CITIBANK - TRAVEL CBA CARD       07/12/2024  07/12/2024  TICKET FEES                                                                      $377.34
+                                                                                   TICKET FEES                                                                      $388.50
+                                                                                   SENATOR INCIDENTALS
+                                                                                   SENATOR PER DIEM                                                                   $40.00
+                                                                                   SENATOR TRANSPORTATION                                                             $40.00
+                                                                                   WASHINGTON DC TO PORTLAND, ALBANY, MCMINNVILLE, PORTLAND, SAINT                    $40.00
+                                                                                   HELENS, PORTLAND, SEATTLE WA, PORTLAND, TUALATIN, MEDFORD,
+                                                                                   GRANTS PASS, EUGENE, PORTLAND AND RETURN
+                                                                                   TICKET FEES
+                                                                                   TICKET FEES
+                                                                                   TICKET FEES
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                        DATES
+DERN20240722                                                                 SIOUX CITY TO HAWARDEN AND RETURN                                               $51.59
+DERN20240723                                         START       END         STAFF TRANSPORTATION                                                          $111.22
+DERN20240724                                                                 DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DERN20240725      08/29/2024  DUSTIN C VANDE HOEF    07/01/2024  07/31/2024  STAFF TRANSPORTATION                                                            $12.76
+DERN20240726      08/29/2024  DUSTIN C VANDE HOEF    07/27/2024  07/27/2024  CLIVE TO HUBBARD AND RETURN                                                   $168.84
+                  08/29/2024  DUSTIN C VANDE HOEF    07/25/2024  07/25/2024  STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION                                                            $19.05
+                  08/29/2024  DUSTIN C VANDE HOEF    07/23/2024  07/23/2024  CLIVE TO KALONA TO DES MOINES                                                 $152.76
+                                                                             STAFF PER DIEM
+                  08/30/2024  DUSTIN C VANDE HOEF    07/16/2024  07/17/2024  STAFF TRANSPORTATION                                                            $14.61
+                                                                             CLIVE TO GOODELL, CLARION TO DES MOINES                                       $173.35
+DERN20240727      08/28/2024  DUSTIN C VANDE HOEF    07/10/2024  07/10/2024  STAFF INCIDENTALS                                                             $333.66   B-1152
+DERN20240728      08/29/2024  KOLBY RYAN DEWITT      08/15/2024  08/15/2024  STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION                                                          $146.06
+DERN20240729      09/06/2024  STEPHEN JOHN VOLINE    06/24/2024  06/27/2024  DES MOINES TO SLATER, CORRECTIONVILLE, SIOUX CITY, CHEROKEE,                    $13.72
+                                                                             SIOUX RAPIDS, SPENCER TO CLIVE                                                  $93.13
+DERN20240730      08/29/2024  BRENDA RHEA SAFRANSKI  07/11/2024  07/11/2024  STAFF TRANSPORTATION                                                            $43.86
+DERN20240731      08/28/2024  BRENDA RHEA SAFRANSKI  07/17/2024  07/17/2024  DES MOINES TO SHEFFIELD, ALDEN AND RETURN
+                                                                             STAFF PER DIEM                                                                $545.58
+DERN20240732      08/29/2024  BRENDA RHEA SAFRANSKI  08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                            $76.00
+DERN20240733      08/29/2024  BRENDA RHEA SAFRANSKI  07/01/2024  07/31/2024  SIOUX CITY TO SHELDON, ASHTON AND RETURN
+DERN20240734      08/29/2024  BRENDA RHEA SAFRANSKI  08/05/2024  08/05/2024  STAFF INCIDENTALS                                                               $58.69
+DERN20240735      08/29/2024  BRENDA RHEA SAFRANSKI  08/06/2024  08/06/2024  STAFF PER DIEM                                                                   $8.87
+DERN20240736      08/30/2024  BRENDA RHEA SAFRANSKI  08/14/2024  08/16/2024  STAFF TRANSPORTATION
+                                                                             WASHINGTON DC TO DES MOINES, CEDAR RAPIDS, DES MOINES AND                     $136.68
+DERN20240737      09/26/2024  JENNIFER S HAYNES      06/25/2024  06/27/2024  RETURN                                                                          $58.69
+                                                                             STAFF TRANSPORTATION                                                            $75.04
+DERN20240738      09/04/2024  KIMBERLY A REEM        08/14/2024  08/14/2024  DES MOINES TO KNOXVILLE AND RETURN                                              $53.50
+                                                                             STAFF PER DIEM                                                                  $64.75
+                                                                             STAFF TRANSPORTATION                                                            $25.68
+                                                                             URBANDALE TO DENISON AND RETURN
+                                                                             STAFF TRANSPORTATION                                                          $251.23
+                                                                             DES MOINES TO KNOXVILLE AND RETURN                                            $275.37
+                                                                             STAFF TRANSPORTATION
+                                                                             DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $28.84
+                                                                             STAFF TRANSPORTATION                                                          $271.90
+                                                                             DES MOINES TO AMES AND RETURN                                              $1,188.69
+                                                                             STAFF TRANSPORTATION
+                                                                             DES MOINES TO AMES AND RETURN                                                   $36.58
+                                                                             STAFF INCIDENTALS
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             DES MOINES TO WATERLOO, ELKADER, WATERLOO AND RETURN
+                                                                             STAFF INCIDENTALS
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             WASHINGTON DC TO DES MOINES, WATERLOO, CEDAR RAPIDS AND
+                                                                             RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             CEDAR RAPIDS TO ANAMOSA AND RETURN
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME              OBLIGATION/SERVICE                                                    DESCRIPTION            AMOUNT ($)
+DBOO20240555      POSTED                                         DATES
+DBOO20240556                                                                  LOWELL TO ROGERS, ALMA AND RETURN                                                      $14.84
+                                                      START       END         STAFF INCIDENTALS                                                                    $107.00
+                                                                              STAFF PER DIEM                                                                       $462.73
+                  08/20/2024  JAMES J HARRIS          08/05/2024  08/06/2024  STAFF TRANSPORTATION
+                                                                              LITTLE ROCK TO HUNTSVILLE AL, DECATUR AL AND RETURN                                    $24.18
+                  08/20/2024  STACEY R MCCLURE        08/06/2024  08/07/2024  STAFF INCIDENTALS                                                                    $200.64
+                                                                              STAFF PER DIEM                                                                       $412.84
+DBOO20240557      08/27/2024  KATHY J WATSON          08/05/2024  08/07/2024  STAFF TRANSPORTATION
+                                                                              LOWELL TO CAMDEN, LITTLE ROCK, RUSSELLVILLE, MULBERRY AND                              $46.11
+DBOO20240558      08/22/2024  DANIEL M BURGESS        08/05/2024  08/07/2024  RETURN                                                                               $365.60
+DBOO20240559      08/22/2024  LAUREN S HOLLY          08/07/2024  08/10/2024  STAFF INCIDENTALS                                                                    $418.69
+                                                                              STAFF PER DIEM
+DBOO20240560      08/22/2024  MATTHEW T MYERS         08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                                   $58.60  B-634
+DBOO20240561      08/28/2024  KATHY J WATSON          07/26/2024  08/02/2024  FORT SMITH TO JONESBORO, LITTLE ROCK AND RETURN                                      $400.76
+                                                                              STAFF INCIDENTALS
+DBOO20240562      08/26/2024  CHASE A EMERSON         08/13/2024  08/13/2024  STAFF PER DIEM                                                                         $90.00
+DBOO20240563      08/27/2024  CHASE A EMERSON         08/14/2024  08/14/2024  WASHINGTON DC TO LITTLE ROCK AND RETURN                                           $1,335.00
+DBOO20240564      08/26/2024  HANNAH MARIE HENDERSON  08/09/2024  08/09/2024  STAFF INCIDENTALS
+DBOO20240565      08/26/2024  HANNAH MARIE HENDERSON  08/12/2024  08/12/2024  STAFF PER DIEM                                                                         $98.51
+DBOO20240566      09/06/2024  HANNAH MARIE HENDERSON  08/13/2024  08/13/2024  STAFF TRANSPORTATION
+DBOO20240567      09/06/2024  HANNAH MARIE HENDERSON  08/14/2024  08/14/2024  WASHINGTON DC TO JACKSON WY AND RETURN                                                 $81.90
+DBOO20240568      09/09/2024  WILLIAM T DAVIS         07/01/2024  07/19/2024  STAFF TRANSPORTATION
+DBOO20240569                                                                  MOUNTAIN HOME TO HARRISON AND RETURN                                                 $140.35
+                  09/09/2024  WILLIAM T DAVIS         07/25/2024  07/26/2024  STAFF INCIDENTALS                                                                 $1,187.72
+DBOO20240570                                                                  STAFF PER DIEM
+DBOO20240571      09/09/2024  ANDREW G KELLEY         08/07/2024  08/17/2024  STAFF TRANSPORTATION                                                                 $167.34
+                  09/09/2024  JOHN W PECARO           08/09/2024  08/19/2024  FORT SMITH TO WASHINGTON DC AND RETURN
+                                                                              STAFF TRANSPORTATION                                                                   $75.46
+                                                                              EL DORADO TO HAMBURG AND RETURN
+                                                                              STAFF TRANSPORTATION                                                                 $152.10
+                                                                              EL DORADO TO ARKADELPHIA, PINE BLUFF AND RETURN
+                                                                              STAFF TRANSPORTATION                                                                   $18.72
+                                                                              LOWELL TO FAYETTEVILLE AND RETURN
+                                                                              STAFF TRANSPORTATION                                                                   $17.43
+                                                                              LOWELL TO ROGERS, BENTONVILLE TO ROGERS
+                                                                              STAFF TRANSPORTATION                                                                   $14.80
+                                                                              LOWELL TO SPRINGDALE, JOHNSON AND RETURN
+                                                                              STAFF TRANSPORTATION                                                                   $26.96
+                                                                              LOWELL TO BENTONVILLE, ROGERS AND RETURN
+                                                                              STAFF TRANSPORTATION                                                                 $798.52
+                                                                              STUTTGART TO THE FOLLOWING AND RETURN: 7/1, 10, 12, 17 LITTLE ROCK;
+                                                                              7/3 VAN BUREN; 7/16 SCOTT, PINE BLUFF, JEFFERSON; 7/19 RUSSELLVILLE                    $15.52
+                                                                              STAFF INCIDENTALS                                                                    $107.00
+                                                                              STAFF PER DIEM                                                                       $166.72
+                                                                              STAFF TRANSPORTATION
+                                                                              STUTTGART TO JONESBORO AND RETURN                                                      $86.88
+                                                                              STAFF PER DIEM                                                                       $310.93
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO BENTONVILLE, ROGERS, BENTONVILLE AND RETURN                           $61.12
+                                                                              STAFF INCIDENTALS
+

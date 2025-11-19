@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DMAN20240408                  SARAH JANE SUMMERS                                        STAFF TRANSPORTATION                                                               $86.87
+DMAN20240409      07/03/2024  JAMES WILLIAM STRAWN              START       END         FAIRMONT TO CHARLESTON AND RETURN                                                $226.25
+DMAN20240410      07/03/2024  JAMES WILLIAM STRAWN                                      STAFF TRANSPORTATION
+DMAN20240411      07/03/2024  JAMES WILLIAM STRAWN              02/01/2024  02/02/2024  CHARLESTON TO WHEELING AND RETURN                                                  $32.50
+DMAN20240412      07/15/2024  JAMES WILLIAM STRAWN                                      STAFF TRANSPORTATION                                                                $6.25
+DMAN20240413      07/03/2024  JAMES WILLIAM STRAWN              06/19/2024  06/19/2024  CHARLESTON TO WINFIELD AND RETURN
+DMAN20240414      07/03/2024  JAMES WILLIAM STRAWN                                      STAFF TRANSPORTATION                                                             $136.87
+DMAN20240415      07/03/2024  JAMES WILLIAM STRAWN              06/06/2024  06/06/2024  CHARLESTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $130.62
+DMAN20240416      07/15/2024  JAMES WILLIAM STRAWN                                      STAFF TRANSPORTATION                                                             $150.00
+DMAN20240417      07/15/2024  JAMES WILLIAM STRAWN              06/07/2024  06/07/2024  CHARLESTON TO GLENVILLE AND RETURN
+DMAN20240418      07/15/2024  GREGORY A HEWITT                                          STAFF TRANSPORTATION                                                                $5.00
+                  07/09/2024                                    06/04/2024  06/04/2024  CHARLESTON TO SAINT MARYS AND RETURN                                                $7.50
+DMAN20240419                  AMELIA A PETRUCCI                                         STAFF TRANSPORTATION                                                                $5.00
+                  07/16/2024                                    06/05/2024  06/05/2024  CHARLESTON TO HARRISVILLE AND RETURN                                             $304.37
+DMAN20240420                                                                            STAFF TRANSPORTATION
+DMAN20240421                                                    06/10/2024  06/10/2024  CHARLESTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $123.45
+DMAN20240422                                                                            STAFF TRANSPORTATION                                                             $903.15
+DMAN20240423                                                    06/11/2024  06/11/2024  CHARLESTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $450.50
+DMAN20240424                                                                            STAFF TRANSPORTATION                                                             $175.00
+DMAN20240425                                                    06/13/2024  06/13/2024  CHARLESTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION                                                               $37.50
+DMAN20240436                                                    06/18/2024  06/18/2024  CHARLESTON TO THE FOLLOWING AND RETURN: 6/24 BLUEFIELD; 6/27                       $42.50
+DMAN20240437                                                                            FAYETTEVILLE, RAINELLE, WHITE SULPHUR SPRINGS, UNION, LEWISBURG                    $51.87
+DMAN20240442                                                    06/24/2024  06/27/2024  STAFF INCIDENTALS                                                                $149.37   B-1698
+                                                                                        STAFF PER DIEM                                                                   $233.12
+                                                                06/05/2024  06/08/2024  STAFF TRANSPORTATION
+                                                                                        FAIRMONT TO WASHINGTON DC AND RETURN                                               $96.87
+                  07/09/2024  AMELIA A PETRUCCI                 05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                                $6.25
+                  07/09/2024  ROSEANN W FERRO                   06/27/2024  06/27/2024  FAIRMONT TO CHARLESTON AND RETURN
+                  07/09/2024  ROSEANN W FERRO                   06/28/2024  06/28/2024  STAFF TRANSPORTATION                                                               $96.80
+                  07/19/2024  ROSEANN W FERRO                   07/01/2024  07/01/2024  FAIRMONT TO WELLSBURG AND RETURN                                                 $824.96
+                  07/19/2024  GREGORY A HEWITT                  07/02/2024  07/02/2024  STAFF TRANSPORTATION                                                             $563.04
+                  07/22/2024  GREGORY A HEWITT                  07/09/2024  07/11/2024  FAIRMONT TO NEW MARTINSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                               $11.48
+                  07/18/2024  JAMES WILLIAM STRAWN              07/08/2024  07/08/2024  FAIRMONT TO SISTERSVILLE AND RETURN
+                  07/18/2024  JAMES WILLIAM STRAWN              07/10/2024  07/10/2024  STAFF TRANSPORTATION
+                  07/24/2024  ANDREW NELSON ROBINSON            07/07/2024  07/12/2024  CHARLESTON TO HINTON, ALDERSON, LEWISBURG AND RETURN
+                                                                                        STAFF TRANSPORTATION
+DMAN20240443      08/02/2024  KIMBERLY L BERRY                  07/12/2024  07/12/2024  CHARLESTON TO THE FOLLOWING AND RETURN: 7/9 SUMMERSVILLE,
+                                                                                        ANSTED, FAYETTEVILLE; 7/11 BLUEFIELD VA, BLUEFIELD
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHARLESTON TO SUTTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHARLESTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHARLESTON TO MORGANTOWN, WASHINGTON DC, WHEELING AND
+                                                                                        RETURN
+                                                                                        STAFF PER DIEM
+

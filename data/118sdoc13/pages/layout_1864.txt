@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DMOR20240886                  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                        $413.47
+DMOR20240887      07/31/2024  CITIBANK - SENATOR IBA CARD       START       END         AIRFARE FOR SEN MORAN WICHITA TO WASHINGTON DC                                $234.48
+DMOR20240888      07/31/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION
+DMOR20240889      08/05/2024  CITIBANK - SENATOR IBA CARD       07/08/2024  07/08/2024  AIRFARE FOR SEN MORAN WASHINGTON DC TO KANSAS CITY MO                         $413.47
+DMOR20240890      08/02/2024  REID A PETTY                                              SENATOR TRANSPORTATION
+DMOR20240891      08/19/2024  REID A PETTY                      07/11/2024  07/11/2024  AIRFARE FOR SEN MORAN WICHITA TO WASHINGTON DC                                $316.48
+DMOR20240900      08/19/2024  JERRY MORAN                                               SENATOR TRANSPORTATION
+                  08/19/2024                                    07/17/2024  07/17/2024  AIRFARE FOR SEN MORAN WASHINGTON DC TO KANSAS CITY MO                         $143.38
+                                                                                        STAFF TRANSPORTATION
+                                                                07/25/2024  07/25/2024  HAYS TO ASSARIA AND RETURN                                                    $246.56
+                                                                                        STAFF TRANSPORTATION
+                                                                07/23/2024  07/23/2024  HAYS TO WASHINGTON AND RETURN                                                   $58.67
+                                                                                        SENATOR INCIDENTALS                                                           $296.24
+                                                                07/26/2024  07/26/2024  SENATOR PER DIEM                                                              $401.60
+                                                                                        SENATOR TRANSPORTATION
+                                                                07/25/2024  07/29/2024  WASHINGTON DC TO KANSAS CITY MO, KANSAS CITY, KANSAS CITY MO                    $26.00
+                                                                                        AND RETURN                                                                    $166.90
+DMOR20240901      08/19/2024  REID A PETTY                      07/24/2024  07/26/2024  STAFF PER DIEM                                                                          B-1827
+DMOR20240902      08/22/2024  CHRISTIANA M REASOR               07/25/2024  07/26/2024  STAFF TRANSPORTATION                                                          $281.75
+DMOR20240903      08/19/2024  TYLER J YORK                      07/30/2024  07/30/2024  HAYS TO RUSSELL, MINNEAPOLIS, ABILENE AND RETURN                              $239.85
+DMOR20240904      08/19/2024  HUNTER D CARSON                   07/25/2024  07/25/2024  STAFF PER DIEM
+DMOR20240905      08/19/2024  HUNTER D CARSON                   07/15/2024  07/16/2024  STAFF TRANSPORTATION                                                            $24.76
+                                                                                        WASHINGTON DC TO KANSAS CITY MO AND RETURN                                    $242.54
+DMOR20240906      08/19/2024  HUNTER D CARSON                   07/30/2024  07/30/2024  STAFF PER DIEM
+DMOR20240907      08/22/2024  JACKSON B PROTZMAN                04/03/2024  04/07/2024  STAFF TRANSPORTATION                                                          $137.35
+DMOR20240908                                                                            WICHITA TO CAWKER CITY AND RETURN
+                  08/19/2024  JAKE LEROY WESSEL                 07/25/2024  07/26/2024  STAFF TRANSPORTATION                                                            $14.49
+DMOR20240909                                                                            GARDEN CITY TO LARNED AND RETURN                                                $87.00
+                  08/19/2024  JAKE LEROY WESSEL                 07/30/2024  07/31/2024  STAFF INCIDENTALS                                                             $360.46
+DMOR20240910                                                                            STAFF PER DIEM
+DMOR20240911      08/19/2024  JAKE LEROY WESSEL                 08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                          $109.88
+DMOR20240912      08/19/2024  REID A PETTY                      07/30/2024  07/30/2024  GARDEN CITY TO MANHATTAN AND RETURN
+                  08/19/2024  REID A PETTY                      07/31/2024  08/02/2024  STAFF TRANSPORTATION                                                            $34.78
+                                                                                        GARDEN CITY TO TRIBUNE AND RETURN                                             $214.00
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM                                                                  $27.75
+                                                                                        WASHINGTON DC TO WICHITA, KANSAS CITY AND RETURN                              $126.00
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM                                                                  $93.13
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MANHATTAN TO KANSAS CITY MO AND RETURN                                          $25.55
+                                                                                        STAFF INCIDENTALS                                                             $126.00
+                                                                                        STAFF PER DIEM                                                                $119.93
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MANHATTAN TO KANSAS CITY MO AND RETURN                                        $180.90
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MANHATTAN TO MOUNDRIDGE, COTTONWOOD FALLS AND RETURN                            $37.52
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HAYS TO RUSSELL AND RETURN                                                      $26.68
+                                                                                        STAFF PER DIEM
+

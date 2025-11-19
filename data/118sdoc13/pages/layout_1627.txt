@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME          OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                     DATES
+DLNK20240697                                                              TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $5.36
+DLNK20240698                                      START       END         STAFF TRANSPORTATION                                                            $22.78
+DLNK20240699                                                              TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DLNK20240700      05/07/2024  QUINTON BRIER GRAY  04/03/2024  04/03/2024  STAFF TRANSPORTATION                                                             $9.38  B-1590
+DLNK20240701      05/07/2024  QUINTON BRIER GRAY  04/04/2024  04/04/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $17.42
+DLNK20240702      05/07/2024  QUINTON BRIER GRAY  04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                            $17.42
+DLNK20240703      05/07/2024  QUINTON BRIER GRAY  04/10/2024  04/10/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $16.08
+DLNK20240704      05/07/2024  QUINTON BRIER GRAY  04/11/2024  04/11/2024  STAFF TRANSPORTATION                                                            $30.82
+DLNK20240705      05/07/2024  QUINTON BRIER GRAY  04/17/2024  04/17/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $143.38
+DLNK20240706      05/07/2024  QUINTON BRIER GRAY  04/18/2024  04/18/2024  STAFF TRANSPORTATION                                                            $26.80
+                  05/10/2024  QUINTON BRIER GRAY  04/24/2024  04/24/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $46.62
+                  05/07/2024  QUINTON BRIER GRAY  04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                          $445.29
+                  05/14/2024  SHELBY R DESPAIN    04/22/2024  04/25/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $676.38
+                                                                          STAFF TRANSPORTATION
+DLNK20240707      05/07/2024  PEYTON G BURNS      04/15/2024  04/15/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $90.45
+DLNK20240708      05/13/2024  PEYTON G BURNS      04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                          $122.61
+DLNK20240710      05/14/2024  MACKENZIE J SAVALA  04/02/2024  04/02/2024  TULSA TO OKLAHOMA CITY AND RETURN                                             $109.21
+DLNK20240711      05/09/2024  MACKENZIE J SAVALA  04/03/2024  04/03/2024  STAFF TRANSPORTATION
+DLNK20240712      05/14/2024  MACKENZIE J SAVALA  04/04/2024  04/04/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $55.61
+DLNK20240713      05/09/2024  MACKENZIE J SAVALA  04/05/2024  04/05/2024  STAFF INCIDENTALS                                                             $115.24
+DLNK20240714      05/14/2024  MACKENZIE J SAVALA  04/09/2024  04/09/2024  STAFF PER DIEM
+DLNK20240715      05/09/2024  MACKENZIE J SAVALA  04/13/2024  04/13/2024  STAFF TRANSPORTATION                                                            $66.33
+DLNK20240716      05/09/2024  MACKENZIE J SAVALA  04/15/2024  04/15/2024  ALEXANDRIA VA TO WASHINGTON DC, OKLAHOMA CITY, WASHINGTON DC                  $115.24
+DLNK20240717      05/14/2024  MACKENZIE J SAVALA  04/17/2024  04/17/2024  AND RETURN
+DLNK20240718      05/14/2024  MACKENZIE J SAVALA  04/19/2024  04/19/2024  STAFF TRANSPORTATION                                                            $73.70
+DLNK20240719      05/09/2024  MACKENZIE J SAVALA  04/26/2024  04/26/2024  STILLWATER TO OKLAHOMA CITY AND RETURN                                          $58.29
+DLNK20240720      05/09/2024  MACKENZIE J SAVALA  04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                          $115.24
+                                                                          STILLWATER TO ENID, MEDFORD AND RETURN                                        $131.99
+                                                                          STAFF TRANSPORTATION                                                            $77.72
+                                                                          TULSA TO FAIRLAND AND RETURN                                                    $59.63
+                                                                          STAFF TRANSPORTATION
+                                                                          TULSA TO BARNSDALL AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          TULSA TO JAY AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          TULSA TO NOWATA AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          TULSA TO JAY AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          TULSA TO NOWATA, BARTLESVILLE AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          TULSA TO BARTLESVILLE AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          TULSA TO JAY AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          TULSA TO PRYOR, MIAMI AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          TULSA TO YUKON AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          TULSA TO BARTLESVILLE AND RETURN
+

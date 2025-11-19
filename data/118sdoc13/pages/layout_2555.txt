@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                      DATES
+DVAN20240706                                                               WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $60.97
+DVAN20240707                                       START       END         STAFF TRANSPORTATION                                                           $44.22
+DVAN20240711                                                               WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $46.23
+DVAN20240713      06/15/2024  DAKOTA WALKER BUSBY  06/03/2024  06/05/2024  STAFF TRANSPORTATION                                                           $12.06  B-2518
+DVAN20240714      06/15/2024  ALYSSA M HASTINGS    06/12/2024  06/12/2024  SALISBURY TO OCEAN CITY AND RETURN                                             $88.44
+DVAN20240715      06/18/2024  ALYSSA M HASTINGS    06/13/2024  06/13/2024  STAFF TRANSPORTATION                                                           $57.62
+DVAN20240716      06/24/2024  ELONNA B.Q JONES     06/12/2024  06/12/2024  CAMBRIDGE TO EASTON TO SALISBURY                                             $107.20
+DVAN20240717      06/25/2024  ALYSSA M HASTINGS    06/14/2024  06/14/2024  STAFF TRANSPORTATION                                                           $43.55
+DVAN20240718      06/25/2024  ELONNA B.Q JONES     06/14/2024  06/14/2024  BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $83.75
+DVAN20240719      06/25/2024  NAN SHERIDAN-MANN    06/14/2024  06/14/2024  STAFF TRANSPORTATION                                                           $15.72
+                  06/25/2024  NAN SHERIDAN-MANN    06/10/2024  06/10/2024  CAMBRIDGE TO ANNAPOLIS AND RETURN                                              $15.00
+DVAN20240720      06/25/2024  NAN SHERIDAN-MANN    06/13/2024  06/13/2024  STAFF TRANSPORTATION                                                           $42.88
+DVAN20240725      07/03/2024  NAN SHERIDAN-MANN    06/14/2024  06/14/2024  BALTIMORE TO ANNAPOLIS AND RETURN
+DVAN20240726                                                               STAFF TRANSPORTATION                                                            $5.36
+DVAN20240727      06/25/2024  ALYSSA M HASTINGS    06/17/2024  06/17/2024  FREDERICK TO ANNAPOLIS AND RETURN                                              $20.77
+DVAN20240730      06/28/2024  ELONNA B.Q JONES     06/17/2024  06/17/2024  STAFF TRANSPORTATION                                                         $215.07
+DVAN20240731      06/27/2024  ELONNA B.Q JONES     06/18/2024  06/18/2024  HAGERSTOWN TO FREDERICK AND RETURN                                             $59.63
+DVAN20240732      07/01/2024  NAN SHERIDAN-MANN    05/31/2024  05/31/2024  STAFF TRANSPORTATION                                                           $46.90
+DVAN20240737      06/25/2024  NAN SHERIDAN-MANN    06/18/2024  06/18/2024  FREDERICK TO WESTMINSTER, BOONSBORO AND RETURN                               $241.89
+DVAN20240738      07/01/2024  ALYSSA M HASTINGS    06/20/2024  06/20/2024  STAFF PER DIEM                                                                 $32.16
+DVAN20240739      06/28/2024  PATRICIA RUSSELL     05/17/2024  06/14/2024  STAFF TRANSPORTATION
+DVAN20240740      07/01/2024  ALYSSA M HASTINGS    06/21/2024  06/21/2024  FREDERICK TO ANNAPOLIS AND RETURN                                               $8.04
+DVAN20240741      07/01/2024  ELONNA B.Q JONES     06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                            $7.23
+DVAN20240742      07/05/2024  ELONNA B.Q JONES     06/24/2024  06/24/2024  SALISBURY TO CRISFIELD AND RETURN                                              $42.88
+DVAN20240743      07/02/2024  ALYSSA M HASTINGS    06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                           $42.88
+                  07/03/2024  ALYSSA M HASTINGS    06/25/2024  06/25/2024  BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $40.98
+                  07/03/2024  SAVANNA R PETERSON   06/18/2024  06/18/2024  STAFF TRANSPORTATION                                                           $31.50
+                  07/09/2024  NAN SHERIDAN-MANN    06/23/2024  06/25/2024  BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $319.38
+                                                                           STAFF TRANSPORTATION
+                                                                           HAGERSTOWN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           FREDERICK TO WESTMINSTER AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           SALISBURY TO CRISFIELD AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO BALTIMORE, ANNAPOLIS, BALTIMORE AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           SALISBURY TO WESTOVER AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           SALISBURY TO OCEAN CITY AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           SALISBURY TO OCEAN CITY AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO LARGO AND RETURN
+                                                                           STAFF INCIDENTALS
+                                                                           STAFF PER DIEM
+

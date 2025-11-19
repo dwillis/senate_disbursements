@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                   POSTED                                                  DATES
+DCRT20240500      08/14/2024  ALEX AVERY TERR                                           STAFF PER DIEM                                                                 $13.69
+DCRT20240504      08/22/2024  LYDIA EVELYN WEHRLEY              START       END         STAFF TRANSPORTATION                                                         $108.00
+DCRT20240506                  KATHERINE L GRASSO                                        WASHINGTON DC TO WILMINGTON, DOVER, WILMINGTON AND RETURN
+DCRT20240508      08/23/2024  MICHAEL J SANTORA                 08/05/2024  08/05/2024  STAFF PER DIEM                                                                 $12.45
+DCRT20240509                  MICHAEL J SANTORA                                         STAFF TRANSPORTATION                                                           $95.00
+                  08/23/2024                                    07/16/2024  07/16/2024  WASHINGTON DC TO WILMINGTON AND RETURN
+DCRT20240510      08/27/2024                                                            STAFF PER DIEM                                                                  $8.00
+DCRT20240511                                                    08/13/2024  08/13/2024  STAFF TRANSPORTATION                                                         $135.99
+DCRT20240512                                                                            WILMINGTON TO GEORGETOWN, REHOBOTH BEACH AND RETURN
+DCRT20240513                                                    05/16/2024  05/17/2024  STAFF TRANSPORTATION                                                         $123.00
+DCRT20240515                                                    07/27/2024  07/29/2024  WASHINGTON DC TO NEW YORK NY, WILMINGTON, NEWARK AND RETURN
+DCRT20240516                                                                            STAFF INCIDENTALS                                                              $48.40
+                  08/27/2024  KATHERINE L GRASSO                08/15/2024  08/15/2024  STAFF PER DIEM                                                               $383.95   B-827
+                                                                                        STAFF TRANSPORTATION                                                         $840.15
+                  08/28/2024  EMMA P.C. WETHERED                08/01/2024  08/01/2024  WASHINGTON DC TO LOUISVILLE KY AND RETURN
+                                                                                        STAFF PER DIEM                                                                 $15.00
+                  08/27/2024  EMMA P.C. WETHERED                08/13/2024  08/13/2024  STAFF TRANSPORTATION                                                           $73.68
+                  08/28/2024  AMBER K WITHROW                   07/09/2024  07/29/2024  WILMINGTON TO DOVER AFB AND RETURN
+                  09/09/2024  EMMA P.C. WETHERED                08/23/2024  08/23/2024  STAFF PER DIEM                                                                 $11.99
+                  09/09/2024  JONAS A MUNSON                    08/12/2024  08/16/2024  STAFF TRANSPORTATION                                                         $141.00
+                                                                                        PHILADELPHIA PA TO WASHINGTON DC AND RETURN
+DCRT20240517      09/09/2024  KATHERINE L GRASSO                08/05/2024  08/05/2024  STAFF TRANSPORTATION                                                           $27.91
+DCRT20240521      09/10/2024  MICHAEL J SANTORA                 08/16/2024  08/16/2024  WILMINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCRT20240522      09/12/2024  KATHERINE L GRASSO                08/28/2024  08/28/2024  STAFF TRANSPORTATION                                                         $177.88
+DCRT20240524      09/13/2024  JYMAYCE Y WESCOTT                 08/28/2024  08/28/2024  DOVER OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCRT20240525      09/12/2024  JYMAYCE Y WESCOTT                 06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                           $26.99
+DCRT20240526      09/12/2024  JYMAYCE Y WESCOTT                 05/15/2024  05/15/2024  WILMINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCRT20240527      09/13/2024  JYMAYCE Y WESCOTT                 05/17/2024  05/17/2024  STAFF INCIDENTALS                                                              $52.40
+                                                                                        STAFF PER DIEM                                                               $644.91
+                                                                                        STAFF TRANSPORTATION                                                         $203.44
+                                                                                        WASHINGTON DC TO WILMINGTON, GEORGETOWN, WILMINGTON,
+                                                                                        GEORGETOWN, WILMINGTON, DOVER AFB, WILMINGTON, DOVER AFB,                      $10.00
+                                                                                        WILMINGTON AND RETURN                                                          $77.70
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                           $37.00
+                                                                                        WILMINGTON TO DOVER AFB AND RETURN                                           $177.29
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                            $8.75
+                                                                                        WASHINGTON DC TO WILMINGTON, WASHINGTON DC TO ALEXANDRIA                     $209.02
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                            $8.75
+                                                                                        WILMINGTON TO WALLOPS ISLAND VA AND RETURN                                     $92.05
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                         $117.90
+                                                                                        GEORGETOWN TO WALLOPS ISLAND VA AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                           $84.94
+                                                                                        GEORGETOWN TO WILMINGTON AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $117.90
+                                                                                        GEORGETOWN TO MIDDLETOWN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

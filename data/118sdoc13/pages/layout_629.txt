@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE                   PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+              POSTED                                          DATES
+                                                                           WASHINGTON DC TO PRINCETON JUNCTION, NEWARK, PRINCETON                       $30.13
+                                                   START       END         JUNCTION AND RETURN                                                          $39.30
+                                                                           STAFF TRANSPORTATION                                                         $74.67
+DBKR20240127  06/05/2024  JOHN C DOSS              10/01/2023  10/01/2023  RIVER EDGE TO SOUTH ORANGE AND RETURN                                      $123.79   B-611
+DBKR20240128  06/05/2024  JOHN C DOSS              10/04/2023  10/04/2023  STAFF TRANSPORTATION                                                         $42.57
+DBKR20240129  06/05/2024  JOHN C DOSS              10/05/2023  10/05/2023  NEWARK TO OCEANPORT AND RETURN                                               $65.50
+DBKR20240130  06/06/2024  JOHN C DOSS              10/13/2023  10/13/2023  STAFF TRANSPORTATION                                                         $26.20
+DBKR20240131  06/05/2024  JOHN C DOSS              11/03/2023  11/03/2023  RIVER EDGE TO HAMILTON TOWNSHIP TO NEWARK                                    $34.06
+DBKR20240132  06/05/2024  JOHN C DOSS              11/11/2023  11/11/2023  STAFF TRANSPORTATION                                                       $103.18
+DBKR20240133  06/05/2024  JOHN C DOSS              11/11/2023  11/11/2023  RIVER EDGE TO PHILADELPHIA PA TO NEWARK                                      $91.12
+DBKR20240134  06/05/2024  JOHN C DOSS              12/07/2023  12/07/2023  STAFF TRANSPORTATION                                                         $26.80
+DBKR20240135  06/06/2024  JOHN C DOSS              01/14/2024  01/14/2024  RIVER EDGE TO RANDOLPH TO NEWARK                                             $13.40
+DBKR20240136  06/05/2024  JOHN C DOSS              02/03/2024  02/03/2024  STAFF TRANSPORTATION                                                         $43.55
+DBKR20240137  06/05/2024  JOHN C DOSS              02/27/2024  02/27/2024  RIVER EDGE TO HOLMDEL AND RETURN                                             $18.09
+DBKR20240138  06/05/2024  JOHN C DOSS              02/28/2024  02/28/2024  STAFF TRANSPORTATION                                                         $73.03
+DBKR20240139  06/05/2024  JOHN C DOSS              03/05/2024  03/05/2024  RIVER EDGE TO FAIRFIELD AND RETURN                                           $33.50
+DBKR20240140  06/05/2024  JOHN C DOSS              03/07/2024  03/07/2024  STAFF TRANSPORTATION                                                         $20.10
+DBKR20240141  06/05/2024  JOHN C DOSS              03/27/2024  03/27/2024  NEWARK TO NEW BRUNSWICK AND RETURN                                           $20.10
+DBKR20240142  06/05/2024  JOHN C DOSS              04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                         $38.86
+DBKR20240143  06/05/2024  JOHN C DOSS              04/20/2024  04/20/2024  RIVER EDGE TO TRENTON AND RETURN                                             $67.00
+DBKR20240144  06/05/2024  JOHN C DOSS              05/18/2024  05/18/2024  STAFF TRANSPORTATION                                                         $37.52
+DBKR20240145  06/05/2024  JOHN C DOSS              04/23/2024  04/23/2024  RIVER EDGE TO LAWRENCE TOWNSHIP AND RETURN                                   $75.71
+DBKR20240146  06/05/2024  JOHN C DOSS              04/24/2024  04/24/2024  STAFF TRANSPORTATION                                                         $54.27
+DBKR20240147  06/05/2024  JOHN C DOSS              05/04/2024  05/04/2024  NEWARK TO WHIPPANY AND RETURN                                                $52.93
+DBKR20240148  06/05/2024  JOHN C DOSS              05/14/2024  05/14/2024  STAFF TRANSPORTATION
+DBKR20240149  06/05/2024  JOHN C DOSS              05/23/2024  05/23/2024  NEWARK TO BAYONNE AND RETURN
+DBKR20240150  06/05/2024  JOHN C DOSS              05/24/2024  05/24/2024  STAFF TRANSPORTATION
+                                                                           RIVER EDGE TO RANDOLPH TO NEWARK
+                                                                           STAFF TRANSPORTATION
+                                                                           NEWARK TO MONTCLAIR TO RIVER EDGE
+                                                                           STAFF TRANSPORTATION
+                                                                           NEWARK TO PORT MURRAY, RANDOLPH AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           NEWARK TO MOUNTAIN LAKES AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           RIVER EDGE TO WAYNE AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           RIVER EDGE TO WAYNE AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           RIVER EDGE TO MORRISTOWN TO NEWARK
+                                                                           STAFF TRANSPORTATION
+                                                                           NEWARK TO LAFAYETTE AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           RIVER EDGE TO JERSEY CITY AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           NEWARK TO GLEN GARDNER TO RIVER EDGE
+                                                                           STAFF TRANSPORTATION
+                                                                           RIVER EDGE TO EAST BRUNSWICK TO NEWARK
+                                                                           STAFF TRANSPORTATION
+                                                                           NEWARK TO PISCATAWAY TO RIVER EDGE
+

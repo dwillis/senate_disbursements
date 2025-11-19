@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DMRK20240788                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                             $942.00
+                  09/06/2024                                    START       END         AIRFARE FOR M ROBINSON AS FOLLOWS: 8/10 KETCHIKAN TO ANCHORAGE;
+DMRK20240789                  CITIBANK - TRAVEL CBA CARD                                8/12 ANCHORAGE TO KODIAK; 8/16 KODIAK TO ANCHORAGE                               $538.20
+DMRK20240790      09/06/2024  CITIBANK - TRAVEL CBA CARD        08/10/2024  08/16/2024  STAFF TRANSPORTATION                                                             $368.21
+DMRK20240791      09/06/2024  CITIBANK - TRAVEL CBA CARD                                AIRFARE FOR J PERRY KETCHIKAN TO JUNEAU TO ANCHORAGE                             $270.20
+DMRK20240792      09/06/2024  CITIBANK - TRAVEL CBA CARD        08/15/2024  08/16/2024  STAFF TRANSPORTATION                                                             $661.08   B-1873
+DMRK20240793      09/06/2024  CITIBANK - TRAVEL CBA CARD        08/15/2024  08/15/2024  AIRFARE FOR C HOBBS WASHINGTON DC TO ANCHORAGE                                   $579.10
+DMRK20240794      09/06/2024  CITIBANK - TRAVEL CBA CARD        08/21/2024  08/22/2024  STAFF TRANSPORTATION                                                             $574.60
+DMRK20240795      09/06/2024  CITIBANK - TRAVEL CBA CARD        08/11/2024  08/11/2024  AIRFARE FOR J PERRY ANCHORAGE TO WASHINGTON DC                                   $382.10
+DMRK20240797      09/06/2024  CITIBANK - TRAVEL CBA CARD        08/12/2024  08/12/2024  STAFF TRANSPORTATION
+DMRK20240798      09/09/2024  CITIBANK - TRAVEL CBA CARD        08/15/2024  08/15/2024  AIRFARE FOR D HERNDON WASHINGTON DC TO JUNEAU                                      $40.00
+DMRK20240799      09/09/2024  CITIBANK - TRAVEL CBA CARD        08/19/2024  08/19/2024  STAFF TRANSPORTATION                                                               $40.00
+DMRK20240800      09/09/2024  CITIBANK - TRAVEL CBA CARD        08/20/2024  08/20/2024  AIRFARE FOR D HERNDON JUNEAU TO KODIAK                                           $368.21
+DMRK20240801      09/09/2024  CITIBANK - TRAVEL CBA CARD        08/20/2024  08/20/2024  STAFF TRANSPORTATION                                                             $566.00
+DMRK20240802      09/09/2024  CITIBANK - TRAVEL CBA CARD        08/22/2024  08/22/2024  AIRFARE FOR D HERNDON KODIAK TO JUNEAU                                           $274.96
+DMRK20240803      09/12/2024  CITIBANK - TRAVEL CBA CARD        08/22/2024  08/23/2024  STAFF TRANSPORTATION                                                             $514.50
+DMRK20240804      09/12/2024  CITIBANK - TRAVEL CBA CARD        08/23/2024  08/23/2024  AIRFARE FOR D HERNDON JUNEAU TO FAIRBANKS                                        $366.71
+DMRK20240805      09/09/2024  CITIBANK - TRAVEL CBA CARD        08/19/2024  08/19/2024  TICKET FEES                                                                      $439.86
+DMRK20240806      09/09/2024  CITIBANK - TRAVEL CBA CARD        08/24/2024  08/24/2024  TICKET FEES                                                                   $2,078.00
+DMRK20240807      09/09/2024  CITIBANK - TRAVEL CBA CARD        08/23/2024  08/23/2024  STAFF TRANSPORTATION                                                             $848.91
+DMRK20240808      09/09/2024  MATTHEW D JONES                   08/21/2024  08/23/2024  AIRFARE FOR H NOTHDURFT WASHINGTON DC TO ANCHORAGE                               $382.10
+                  08/29/2024                                    08/01/2024  08/19/2024  STAFF TRANSPORTATION                                                               $20.30
+                                                                08/22/2024  08/22/2024  AIRFARE FOR C KELLIE ANCHORAGE TO BETHEL AND RETURN                           $1,110.68
+                                                                08/02/2024  08/22/2024  STAFF TRANSPORTATION                                                               $89.37
+                                                                                        AIRFARE FOR N NOSEK WASHINGTON DC TO ANCHORAGE
+DMRK20240809      09/12/2024  HUGHES,BRIAN P                    08/15/2024  08/15/2024  STAFF TRANSPORTATION                                                             $710.60
+DMRK20240812      09/19/2024  GARRETT BOYLE                     07/20/2024  08/03/2024  AIRFARE FOR D HERNDON JUNEAU TO FAIRBANKS                                     $1,080.08
+DMRK20240813      09/19/2024  GARRETT BOYLE                     08/12/2024  08/18/2024  STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR M ROBINSON ANCHORAGE SEATTLE WA TO WASHINGTON DC                       $40.00
+                                                                                        STAFF TRANSPORTATION                                                             $954.37
+                                                                                        AIRFARE FOR D HERNDON JUNEAU TO WASHINGTON DC                                    $672.50
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR A THIELE ANCHORAGE TO DUTCH HARBOR AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR N NOSEK WASHINGTON DC TO ANCHORAGE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR D HERNDON FAIRBANKS TO JUNEAU
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO ANCHORAGE, EAGLE RIVER, KENAI, HOMER, EAGLE
+                                                                                        RIVER, PALMER, EAGLE RIVER, PALMER, ANCHORAGE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ANCHORAGE TO KOTZEBUE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ANCHORAGE TO WASHINGTON DC AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ANCHORAGE TO KODIAK AND RETURN
+

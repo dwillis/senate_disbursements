@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME     OBLIGATION/SERVICE  DESCRIPTION                                                                     AMOUNT ($)
+                   POSTED                                                     DATES
+DKNG20240615                  EDITH A SMITH                                                                                                                                            $460.96
+                  09/17/2024                                       START       END
+DKNG20240619                  CHRISTINA VALAR BREEN                                                                                                                                      $75.04
+                  09/16/2024                                       08/08/2024                        BANGOR TO MILLINOCKET, EAST MILLINOCKET, MILLINOCKET, EAST                                  B-1553
+DKNG20240620                  CHRISTINA VALAR BREEN                                                  MILLINOCKET, MEDWAY, MILLINOCKET, PATTEN, MILLINOCKET AND RETURN                    $91.79
+                  09/16/2024                                       09/09/2024   08/19/2024 STAFF TRANSPORTATION
+DKNG20240622                  CHRISTINA VALAR BREEN                                                  BANGOR TO THE FOLLOWING AND RETURN: 8/8 GREENVILLE; 8/9 CORINNA;                    $85.09
+                  09/19/2024                                       09/06/2024                        8/10 DANFORTH; 8/14 DOVER FOXCROFT; SANGERVILLE; 8/15 DOVER
+DKNG20240623                  MEGAN STEWART                                                          FOXCROFT; 8/19 DEXTER                                                               $33.70
+                  09/19/2024                                       09/12/2024   09/09/2024 STAFF TRANSPORTATION
+DKNG20240627                  SCOTT F WILKINSON                                                      HOLDEN TO WINTER HARBOR AND RETURN                                                  $41.54
+                  09/20/2024                                       09/09/2024   09/06/2024 STAFF TRANSPORTATION
+DKNG20240628                  PATRICK H-R DOAK                                                       HOLDEN TO ROCKLAND, THOMASTON TO BANGOR                                        $1,103.50
+                  09/24/2024                                       09/11/2024   09/12/2024 STAFF TRANSPORTATION
+DKNG20240634                  CHRISTINA VALAR BREEN                                                  HOLDEN TO ROCKLAND TO BANGOR                                                        $87.77
+                  09/24/2024                                       10/02/2023   09/09/2024 STAFF TRANSPORTATION
+DKNG20240635                  SCOTT F WILKINSON                                                      YARMOUTH TO BRUNSWICK TO PORTLAND                                                   $48.91
+                  09/24/2024                                       09/20/2024   09/11/2024 STAFF TRANSPORTATION
+DKNG20240637                  CHRISTINA VALAR BREEN                                                  AUGUSTA TO WALDOBORO AND RETURN                                                     $60.97
+                  09/26/2024                                       09/21/2024   09/16/2024 STAFF TRANSPORTATION
+0002853700                    SERGEANT AT ARMS                                                       WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $52,433.01
+0002855898        05/14/2024  SERGEANT AT ARMS                     09/24/2024   09/20/2024 STAFF TRANSPORTATION                                                                          $54.40
+0002857247        06/27/2024  SERGEANT AT ARMS                                                       HOLDEN TO ROCKLAND TO BANGOR                                                        $58.50
+0002858821        08/07/2024  SERGEANT AT ARMS                     03/01/2024   09/21/2024 STAFF TRANSPORTATION
+DKNG20240355      09/13/2024  CREATIVENGINE CORPORATION            05/01/2024                        AUGUSTA TO BRUNSWICK AND RETURN                                                   $124.90
+DKNG20240356      04/12/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS  06/01/2024   09/24/2024 STAFF TRANSPORTATION                                                                          $15.30
+DKNG20240363      04/09/2024  CITIBANK - PURCHASE CARD             07/01/2024                        BANGOR TO ELLSWORTH, BAR HARBOR TO HOLDEN
+DKNG20240411      04/19/2024  CREATIVENGINE CORPORATION            03/01/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                                    $500.00
+DKNG20240466      05/14/2024  CREATIVENGINE CORPORATION            02/21/2024                                                                                                            $23.12
+DKNG20240467      06/11/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS  04/04/2024   03/31/2024 FEDERAL AUDIO, VISUAL RECORDNG
+DKNG20240487      06/10/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS  04/01/2024   05/31/2024 FEDERAL AUDIO, VISUAL RECORDNG                                                              $180.20
+DKNG20240516      06/18/2024  CREATIVENGINE CORPORATION            05/01/2024   06/30/2024 FEDERAL AUDIO, VISUAL RECORDNG                                                              $500.00
+DKNG20240522      07/10/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS  04/24/2024   07/31/2024 FEDERAL AUDIO, VISUAL RECORDNG                                                              $500.00
+DKNG20240565      07/16/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS  04/24/2024   03/31/2024 IT EQUIP MAINT
+DKNG20240571      08/02/2024  CREATIVENGINE CORPORATION            06/01/2024   03/26/2024 SERVICE CHARGES & OTHER FEES                                                                  $23.12
+DKNG20240610      08/09/2024  CREATIVENGINE CORPORATION            05/29/2024   04/04/2024 LICENSING FEES                                                                                $40.46
+DKNG20240616      09/16/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS  06/26/2024   04/30/2024 AUDIO, VISUAL EQUIP MAINT                                                                   $500.00
+                  09/12/2024                                       07/01/2024   05/31/2024 IT EQUIP MAINT                                                                                $22.92
+0002852734                    SERGEANT AT ARMS                     08/01/2024   05/28/2024 SERVICE CHARGES & OTHER FEES                                                                  $22.82
+DKNG20240371      04/18/2024  CITIBANK - PURCHASE CARD             07/24/2024   05/28/2024 SERVICE CHARGES & OTHER FEES                                                                $500.00
+                  04/23/2024                                                    06/30/2024 IT EQUIP MAINT                                                                              $500.00
+                                                                   02/01/2024   06/25/2024 SERVICE CHARGES & OTHER FEES                                                                  $22.92
+                                                                   04/10/2024   07/23/2024 SERVICE CHARGES & OTHER FEES                                                             $3,588.66
+                                                                                07/31/2024 IT EQUIP MAINT
+                                                                                08/31/2024 IT EQUIP MAINT                                                                                 $1.98
+                                                                                08/27/2024 SERVICE CHARGES & OTHER FEES                                                                  $16.99
+                                                                               OTHER CONTRACTUAL SERVICES                                                                                $18.97
+
+                                                                                02/29/2024 VOICE & DATA COMM EQUIPMENT
+                                                                                04/10/2024 AUDIO, VISUAL EQUIPMENT
+                                                                               ACQUISITION OF ASSETS
+

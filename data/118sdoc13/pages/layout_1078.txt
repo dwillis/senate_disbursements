@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DCRU20241102                  GIOVANNI CATANZARO                                        STAFF TRANSPORTATION                                                            $123.95
+DCRU20241103      09/17/2024  GIOVANNI CATANZARO                START       END         FORT WORTH TO SHERMAN, DENISON AND RETURN                                         $97.15
+DCRU20241104      09/13/2024  KELLY WHITMIRE WATERMAN                                   STAFF TRANSPORTATION
+DCRU20241105      09/18/2024  KELLY WHITMIRE WATERMAN           08/26/2024  08/26/2024  FORT WORTH TO MONTAGUE, BOWIE AND RETURN                                        $268.67
+DCRU20241106      09/13/2024  KELLY WHITMIRE WATERMAN                                   STAFF TRANSPORTATION
+DCRU20241107      09/17/2024  ADRIANELI GOMEZ                   08/20/2024  08/20/2024  HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $66.66
+DCRU20241108      09/17/2024  ADRIANELI GOMEZ                                           STAFF TRANSPORTATION
+DCRU20241109      09/17/2024  ADRIANELI GOMEZ                   06/01/2024  06/30/2024  HOUSTON TO GALVESTON AND RETURN                                                 $120.60
+DCRU20241110      09/17/2024  CARL B MICA                                               STAFF TRANSPORTATION
+                  09/17/2024                                    06/13/2024  06/13/2024  HOUSTON TO FREEPORT, GALVESTON, TEXAS CITY AND RETURN                           $137.55
+DCRU20241111                                                                            STAFF TRANSPORTATION
+DCRU20241112                                                    06/24/2024  06/24/2024  MCALLEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $405.61
+                                                                                        STAFF TRANSPORTATION
+DCRU20241113                                                    07/01/2024  07/31/2024  MCALLEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $140.29
+DCRU20241114                                                                            STAFF TRANSPORTATION
+DCRU20241117                                                    06/01/2024  06/30/2024  MCALLEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $16.05
+                                                                                        STAFF INCIDENTALS                                                               $145.24
+DCRU20241118                                                    05/01/2024  05/31/2024  STAFF PER DIEM                                                                  $324.49
+                                                                                        STAFF TRANSPORTATION
+DCRU20241119                                                    08/18/2024  08/19/2024  AUSTIN TO ABILENE AND RETURN                                                    $529.97
+DCRU20241120                                                                            STAFF TRANSPORTATION
+                  09/17/2024  CARL B MICA                       08/01/2024  08/31/2024  AUSTIN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $32.10  B-1060
+                  09/17/2024  CARL B MICA                       08/26/2024  08/28/2024  STAFF INCIDENTALS                                                               $299.48
+                                                                                        STAFF PER DIEM                                                                  $337.68
+                  09/17/2024  BLAKE T VINEYARD                  08/01/2024  08/30/2024  STAFF TRANSPORTATION
+                  09/17/2024  CARL B MICA                       08/30/2024  08/30/2024  AUSTIN TO TYLER AND RETURN                                                      $159.46
+                  09/19/2024  KRISTEN J PETTIT                  08/20/2024  08/25/2024  STAFF TRANSPORTATION
+                                                                                        LUBBOCK OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $136.68
+                  09/27/2024  PETER D CRUMPLER IV               08/20/2024  08/25/2024  STAFF TRANSPORTATION
+                                                                                        AUSTIN TO SAN ANTONIO AND RETURN                                                  $60.68
+                  09/19/2024  AMY J NYCZ                        08/20/2024  08/23/2024  STAFF INCIDENTALS                                                               $405.65
+                  09/23/2024  CARL B MICA                       08/20/2024  08/22/2024  STAFF PER DIEM                                                                  $598.25
+                                                                                        STAFF TRANSPORTATION
+DCRU20241121      09/17/2024  MICHAEL A FLUSCHE                 08/30/2024  08/30/2024  WASHINGTON DC TO HOUSTON AND RETURN                                               $60.68
+DCRU20241125      09/19/2024  BOBBI L K HANSON                  08/01/2024  08/31/2024  STAFF INCIDENTALS                                                               $430.28
+                                                                                        STAFF PER DIEM                                                               $1,060.76
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO HOUSTON AND RETURN                                             $441.07
+                                                                                        STAFF PER DIEM                                                                  $898.71
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO MCALLEN, SAN ANTONIO, AUSTIN AND RETURN                          $42.78
+                                                                                        STAFF INCIDENTALS                                                               $293.85
+                                                                                        STAFF PER DIEM                                                                  $711.15
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AUSTIN TO HOUSTON, COLLEGE STATION, EDINBURG, MCALLEN, HOUSTON                  $149.54
+                                                                                        AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                            $115.70
+                                                                                        DALLAS OFFICE:INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ABILENE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

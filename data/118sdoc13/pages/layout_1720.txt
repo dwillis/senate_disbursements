@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DLUM20240850                  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                  $40.00
+DLUM20240853      09/22/2024  CITIBANK - TRAVEL CBA CARD        START       END         TICKET FEES                                                                  $40.00
+DLUM20240858      09/22/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                    $1,479.60
+DLUM20240859      09/23/2024  CITIBANK - TRAVEL CBA CARD        06/04/2024  06/04/2024  AIRFARE FOR K WALKER JACKSON TO WASHINGTON DC
+DLUM20240860      09/23/2024  KATHY A LENZ                      06/26/2024  06/26/2024  SENATOR TRANSPORTATION                                                     $819.98
+                  09/22/2024                                    09/09/2024  09/09/2024  AIRFARE FOR SEN LUMMIS WASHINGTON DC TO AUSTIN TX
+DLUM20240863                  ADAM T STEWART                                            STAFF PER DIEM                                                                $5.36
+DLUM20240864      09/22/2024  KATHY A LENZ                      09/19/2024  09/19/2024  STAFF TRANSPORTATION                                                         $83.08
+DLUM20240871      09/22/2024  LYNNE D. LINN                                             SUNDANCE TO GILLETTE AND RETURN
+                  09/28/2024                                    09/17/2024  09/17/2024  STAFF TRANSPORTATION                                                         $11.94
+DLUM20240873                                                                            WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                09/18/2024  09/18/2024  STAFF TRANSPORTATION                                                         $83.08
+DLUM20240874                                                    09/20/2024  09/20/2024  SUNDANCE TO GILLETTE AND RETURN
+DLUM20240882                                                    08/15/2024  08/17/2024  STAFF INCIDENTALS                                                            $27.82
+                                                                                        STAFF PER DIEM                                                             $295.69
+DLUM20240884      09/28/2024  LYNNE D. LINN                     09/18/2024  09/19/2024  STAFF TRANSPORTATION                                                       $396.64   B-1683
+                                                                                        SHOSHONI TO ROCK SPRINGS, GREEN RIVER, RAWLINS AND RETURN
+DLUM20240894      09/23/2024  CITIBANK - TRAVEL CBA CARD        08/01/2024  08/01/2024  STAFF PER DIEM                                                               $38.00
+                  09/30/2024  ALLY JUSTINE GARNER               09/06/2024  09/06/2024  STAFF TRANSPORTATION                                                       $255.94
+DLUM20240902                                                                            SHOSHONI TO SARATOGA AND RETURN
+DLUM20240903      09/24/2024  ALLY JUSTINE GARNER               09/10/2024  09/10/2024  TICKET FEES                                                                  $40.00
+DLUM20240906                                                                            STAFF PER DIEM                                                                $8.29
+DLUM20240908      09/30/2024  KARMEN T ROSSI                    09/16/2024  09/16/2024  STAFF TRANSPORTATION
+                                                                                        CASPER TO NEWCASTLE AND RETURN                                             $221.10
+DLUM20240912      09/26/2024  CHARLOTTE R NORRIS                09/10/2024  09/10/2024  STAFF PER DIEM
+DLUM20240913      09/26/2024  CHARLOTTE R NORRIS                09/24/2024  09/24/2024  STAFF TRANSPORTATION                                                         $27.48
+DLUM20240914      09/27/2024  KELSEY A PRISTACH                 09/12/2024  09/12/2024  CASPER TO DOUGLAS AND RETURN                                                 $70.35
+DLUM20240915      09/27/2024  JENNIFER A FERNANDEZ              09/21/2024  09/21/2024  STAFF PER DIEM
+DLUM20240916                                                                            STAFF TRANSPORTATION                                                          $9.84
+DLUM20240920      09/27/2024  CITIBANK - TRAVEL CBA CARD        09/16/2024  09/16/2024  CHEYENNE TO DENVER CO AND RETURN                                           $142.04
+                  09/27/2024  CITIBANK - TRAVEL CBA CARD        07/31/2024  07/31/2024  STAFF TRANSPORTATION
+                  09/27/2024  CITIBANK - TRAVEL CBA CARD        09/23/2024  09/23/2024  CHEYENNE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $5.89
+                  09/27/2024  CITIBANK - TRAVEL CBA CARD        09/23/2024  09/23/2024  STAFF TRANSPORTATION
+                  09/27/2024  CITIBANK - TRAVEL CBA CARD        03/17/2024  03/17/2024  CHEYENNE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $2.47
+                  09/27/2024  CITIBANK - TRAVEL CBA CARD        09/26/2024  09/26/2024  STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $53.91
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                         $10.00
+                                                                                        POWELL TO LOVELL AND RETURN                                                  $40.20
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN LUMMIS DENVER CO TO WASHINGTON DC                          $293.10
+                                                                                        TICKET FEES
+                                                                                        STAFF TRANSPORTATION                                                         $40.00
+                                                                                        AIRFARE FOR K WALKER JACKSON TO WASHINGTON DC                              $733.59
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN LUMMIS AUSTIN TX TO WASHINGTON DC                          $819.98
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR A STEWART JACKSON TO WASHINGTON DC                             $307.60
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        TICKET FEES                                                                $304.20
+                                                                                                                                                                     $40.00
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                              DATES
+DMRP20241018                                                                       AIRFARE FOR SEN MURPHY WASHINGTON DC TO WINDSOR LOCKS                          $221.10
+DMRP20241020                                               START       END         SENATOR TRANSPORTATION                                                           $30.47
+DMRP20241021                                                                       AIRFARE FOR SEN MURPHY WASHINGTON DC TO WINDSOR LOCKS                            $18.48
+DMRP20241022      09/17/2024  CITIBANK - SENATOR IBA CARD  09/04/2024  09/04/2024  STAFF TRANSPORTATION                                                              $6.36
+DMRP20241023      09/19/2024  FARIAN E RABBANI             09/09/2024  09/09/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $75.04
+                  09/19/2024  FARIAN E RABBANI             09/12/2024  09/12/2024  STAFF TRANSPORTATION
+DMRP20241024      09/19/2024  FARIAN E RABBANI             09/10/2024  09/10/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $57.62
+                  09/20/2024  ERIN E MCBRIDE               09/11/2024  09/11/2024  STAFF TRANSPORTATION
+DMRP20241025                                                                       WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $44.22
+DMRP20241026      09/20/2024  ERIN E MCBRIDE               09/12/2024  09/12/2024  STAFF TRANSPORTATION                                                             $38.86
+                                                                                   QUAKER HILL TO NEW LONDON, CHESTER, GRISWOLD, EAST LYME AND
+DMRP20241027      09/20/2024  ERIN E MCBRIDE               09/04/2024  09/04/2024  RETURN                                                                           $37.52
+DMRP20241028      09/20/2024  ERIN E MCBRIDE               09/09/2024  09/09/2024  STAFF TRANSPORTATION                                                              $5.36
+DMRP20241032                                                                       QUAKER HILL TO UNCASVILLE, STORRS MANSFIELD, COVENTRY, GROTON
+DMRP20241033      09/20/2024  ERIN E MCBRIDE               09/03/2024  09/03/2024  AND RETURN                                                                       $66.08  B-1904
+DMRP20241034      09/19/2024  ERIN E MCBRIDE               09/06/2024  09/06/2024  STAFF TRANSPORTATION                                                             $40.20
+DMRP20241040      09/20/2024  MICHAEL PATRICK FALLON       09/14/2024  09/14/2024  QUAKER HILL TO NORWICH, NEW LONDON, OLD LYME AND RETURN                          $10.64
+                  09/20/2024  ABIGAIL J DRESSER            09/12/2024  09/12/2024  STAFF TRANSPORTATION                                                           $676.00
+DMRP20241041      09/19/2024  FARIAN E RABBANI             09/16/2024  09/16/2024  QUAKER HILL TO NORTH STONINGTON, STONINGTON, GROTON AND                          $40.00
+DMRP20241042      09/25/2024  CITIBANK - TRAVEL CBA CARD   09/22/2024  09/23/2024  RETURN
+DMRP20241043                                                                       STAFF TRANSPORTATION                                                             $24.31
+DMRP20241044      09/24/2024  FARIAN E RABBANI             09/24/2024  09/24/2024  QUAKER HILL TO WEST HARTFORD VT TO HARTFORD                                       $4.08
+DMRP20241045      09/24/2024  FARIAN E RABBANI             09/18/2024  09/18/2024  STAFF TRANSPORTATION
+DMRP20241046      09/25/2024  JOANNE M CANNON              09/20/2024  09/20/2024  QUAKER HILL TO WATERFORD AND RETURN                                              $67.67
+DMRP20241047      09/27/2024  ERIN E MCBRIDE               09/16/2024  09/16/2024  STAFF TRANSPORTATION                                                             $59.63
+DMRP20241048      09/27/2024  ERIN E MCBRIDE               09/23/2024  09/23/2024  MIDDLETOWN TO HARTFORD AND RETURN                                                $44.22
+                  09/27/2024  JAMESON B FOULKE             09/13/2024  09/14/2024  STAFF TRANSPORTATION
+                  09/27/2024  JAMESON B FOULKE             09/24/2024  09/24/2024  VERNON ROCKVILLE TO NEW HAVEN AND RETURN                                          $9.38
+                  09/27/2024  JAMESON B FOULKE             09/11/2024  09/11/2024  STAFF TRANSPORTATION                                                              $4.69
+                                                                                   WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $56.28
+                                                                                   STAFF TRANSPORTATION
+                                                                                   TICKET FEES
+                                                                                   TRAIN FARE FOR C BOCKENFELD WASHINGTON DC TO NEW YORK NY AND
+                                                                                   RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MIDDLETOWN TO DANBURY AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   QUAKER HILL TO OLD LYME, MYSTIC, HADLYME AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   QUAKER HILL TO STORRS MANSFIELD AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   9/13, 14 WEST HARTFORD TO HARTFORD AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WEST HARTFORD TO HARTFORD AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WEST HARTFORD TO NEW HAVEN AND RETURN
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                        DATES
+DBDD20240365                                                                 SANFORD TO KINSTON AND RETURN                                                   $63.24
+DBDD20240366                                         START       END         STAFF TRANSPORTATION                                                            $87.10
+DBDD20240367                                                                 ASHEVILLE TO SYLVA AND RETURN                                                   $87.10
+DBDD20240368      04/12/2024  JERRY H LAUGHTER       03/19/2024  03/19/2024  STAFF TRANSPORTATION                                                            $58.96
+DBDD20240369      04/12/2024  JERRY H LAUGHTER       03/26/2024  03/26/2024  ASHEVILLE TO BRYSON CITY AND RETURN                                             $71.02
+DBDD20240370      04/12/2024  JERRY H LAUGHTER       03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                          $124.62
+DBDD20240384      04/12/2024  JERRY H LAUGHTER       03/28/2024  03/28/2024  ASHEVILLE TO BRYSON CITY AND RETURN                                             $88.50
+DBDD20240385      04/12/2024  JERRY H LAUGHTER       04/02/2024  04/02/2024  STAFF TRANSPORTATION                                                            $43.41
+DBDD20240386      04/18/2024  JERRY H LAUGHTER       04/04/2024  04/04/2024  ASHEVILLE TO GREEN MOUNTAIN AND RETURN                                          $44.35
+DBDD20240387      04/17/2024  SAMUEL JOSEPH SHUMATE  04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                            $17.27
+                  04/24/2024  SAMUEL JOSEPH SHUMATE  04/06/2024  04/06/2024  ASHEVILLE TO CULLOWHEE AND RETURN                                             $113.49
+DBDD20240388      04/17/2024  SAMUEL JOSEPH SHUMATE  04/07/2024  04/07/2024  STAFF TRANSPORTATION
+                  04/23/2024  SAMUEL JOSEPH SHUMATE  04/08/2024  04/08/2024  ASHEVILLE TO ROBBINSVILLE AND RETURN                                            $63.31
+DBDD20240389                                                                 STAFF TRANSPORTATION
+DBDD20240390      04/17/2024  SAMUEL JOSEPH SHUMATE  04/09/2024  04/09/2024  SANFORD TO SMITHFIELD, CLAYTON AND RETURN                                       $70.98  B-724
+                                                                             STAFF TRANSPORTATION                                                            $49.21
+DBDD20240391      04/17/2024  EMILY L EDMONDSON      03/07/2024  04/09/2024  SANFORD TO FAYETTEVILLE AND RETURN                                            $536.00
+DBDD20240392      05/09/2024  JOSEPH TUCKER KNOTT    04/02/2024  04/06/2024  STAFF TRANSPORTATION                                                            $23.45
+DBDD20240393                                                                 SANFORD TO FAYETTEVILLE AND RETURN                                              $27.80
+DBDD20240394      04/23/2024  MARCEL MILEWSKI        04/08/2024  04/09/2024  STAFF PER DIEM                                                                  $62.98
+                  04/26/2024  SAMUEL JOSEPH SHUMATE  04/10/2024  04/10/2024  STAFF TRANSPORTATION
+DBDD20240395      04/26/2024  ERIN WALL              04/09/2024  04/11/2024  SANFORD TO PEMBROKE, LUMBERTON, RED SPRINGS, SAINT PAULS AND                     $7.52
+DBDD20240396      04/29/2024  SAMUEL JOSEPH SHUMATE  04/11/2024  04/11/2024  RETURN                                                                        $115.24
+DBDD20240397                                                                 STAFF TRANSPORTATION
+DBDD20240398      04/26/2024  SAMUEL JOSEPH SHUMATE  04/12/2024  04/12/2024  SANFORD TO PINEHURST, CARTHAGE, PINEHURST, WEST END AND                         $61.84
+DBDD20240400      04/26/2024  MARCEL MILEWSKI        04/11/2024  04/12/2024  RETURN                                                                          $24.12
+                  04/26/2024  SAMUEL JOSEPH SHUMATE  04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                            $80.19
+                  04/26/2024  MARCEL MILEWSKI        04/15/2024  04/16/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $20.10
+                  05/03/2024  ERIN WALL              04/15/2024  04/18/2024  STAFF PER DIEM                                                                $208.37
+                                                                             STAFF TRANSPORTATION
+                                                                             WASHINGTON DC TO RALEIGH, ADVANCE, RALEIGH AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO BROADWAY, CUMNOCK AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             RALEIGH OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO CLARKTON, ELIZABETHTOWN AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO RAEFORD AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO STEDMAN, GODWIN, FAYETTEVILLE AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                             STAFF TRANSPORTATION
+                                                                             RALEIGH OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                   POSTED                                                  DATES
+DBNN20240382                  PATRICK M DONOVAN                                         STAFF INCIDENTALS                                                              $16.24
+DBNN20240383      06/04/2024  PATRICK M DONOVAN                 START       END         STAFF PER DIEM                                                               $135.31
+DBNN20240384                  CITIBANK - TRAVEL CBA CARD                                DENVER TO DURANGO AND RETURN
+DBNN20240385      06/05/2024  CITIBANK - TRAVEL CBA CARD        05/05/2024  05/06/2024  STAFF PER DIEM                                                                 $10.84
+DBNN20240386                  CITIBANK - SENATOR IBA CARD                               STAFF TRANSPORTATION                                                         $253.00
+DBNN20240387      06/12/2024  CITIBANK - SENATOR IBA CARD       05/12/2024  05/16/2024  DENVER TO WASHINGTON DC AND RETURN                                        $1,126.20
+DBNN20240389                  MICHAEL F BENNET                                          STAFF TRANSPORTATION
+                  06/13/2024                                    05/05/2024  05/06/2024  TICKET FEES                                                                    $30.00
+DBNN20240390      06/12/2024                                                            AIRFARE FOR P DONOVAN DENVER TO DURANGO AND RETURN                             $30.00
+                  06/12/2024                                    05/08/2024  05/08/2024  TICKET FEES                                                                  $293.10
+                  06/13/2024                                    05/20/2024  05/20/2024  SENATOR TRANSPORTATION                                                       $293.10
+                                                                                        AIRFARE FOR SEN BENNET DENVER TO WASHINGTON DC                                 $54.90
+                                                                06/03/2024  06/03/2024  SENATOR TRANSPORTATION                                                       $299.00
+                                                                                        AIRFARE FOR SEN BENNET DENVER TO WASHINGTON DC
+                                                                05/02/2024  05/07/2024  SENATOR INCIDENTALS                                                            $17.75
+                                                                                        SENATOR PER DIEM                                                             $298.29
+                  06/24/2024  JAMES A THOMPSON                  05/13/2024  05/15/2024  WASHINGTON DC TO DENVER, DILLON, FRISCO, LEADVILLE, DENVER,                  $347.47
+                                                                                        DURANGO, DENVER AND RETURN
+DBNN20240391      06/24/2024  JAMES A THOMPSON                  05/17/2024  05/17/2024  STAFF INCIDENTALS                                                              $24.96  B-516
+                                                                                        STAFF PER DIEM                                                               $227.31
+DBNN20240392      06/18/2024  MATTHEW L KIREKER                 06/03/2024  06/03/2024  STAFF TRANSPORTATION                                                         $184.25
+                                                                                        FORT COLLINS TO BURLINGTON, STRATTON, WRAY, FORT MORGAN AND
+DBNN20240393      06/18/2024  MATTHEW L KIREKER                 05/29/2024  05/30/2024  RETURN                                                                       $123.28
+DBNN20240394      06/14/2024  MATTHEW L KIREKER                 06/05/2024  06/05/2024  STAFF PER DIEM                                                                 $56.28
+DBNN20240395      06/14/2024  MATTHEW L KIREKER                 06/04/2024  06/04/2024  STAFF TRANSPORTATION                                                           $56.28
+DBNN20240396      06/24/2024  LARKIN TAYLOR PARKER              06/08/2024  06/10/2024  FORT COLLINS TO HUGO AND RETURN                                                $35.18
+                                                                                        STAFF TRANSPORTATION
+DBNN20240397      06/18/2024  CITIBANK - SENATOR IBA CARD       06/11/2024  06/11/2024  STEAMBOAT SPRINGS TO EAGLE, GLENWOOD SPRINGS, CRAIG AND                      $246.85
+DBNN20240401      06/25/2024  CITIBANK - SENATOR IBA CARD       06/13/2024  06/13/2024  RETURN                                                                       $606.71
+DBNN20240402      07/09/2024  CITIBANK - SENATOR IBA CARD       06/17/2024  06/17/2024  STAFF TRANSPORTATION                                                         $293.10
+DBNN20240403      07/09/2024  CITIBANK - SENATOR IBA CARD       04/20/2024  04/20/2024  STEAMBOAT SPRINGS TO VAIL AND RETURN                                         $293.10
+DBNN20240404      07/09/2024  CITIBANK - SENATOR IBA CARD       04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                         $293.10
+DBNN20240405      07/09/2024  CITIBANK - SENATOR IBA CARD       04/22/2024  04/22/2024  STEAMBOAT SPRINGS TO CRAIG AND RETURN                                        $293.10
+                                                                                        STAFF TRANSPORTATION                                                         $293.10
+                                                                                        STEAMBOAT SPRINGS TO CRAIG AND RETURN                                        $442.10
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO DENVER, ASPEN, DENVER AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BENNET DENVER TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BENNET WASHINGTON DC TO DENVER
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BENNET DENVER TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BENNET WASHINGTON DC TO DENVER
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BENNET DENVER TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+

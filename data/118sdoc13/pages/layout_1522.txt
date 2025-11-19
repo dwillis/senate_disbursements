@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE                    PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                           DATES
+DKEL20240255                                                                    TUCSON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $33.16
+DKEL20240256                                            START       END         STAFF TRANSPORTATION
+DKEL20240259                                                                    TUCSON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $33.00
+DKEL20240260      04/23/2024  ARLETHE RIOS              02/18/2024  02/18/2024  STAFF INCIDENTALS                                                            $88.29
+                  04/25/2024  CORAL J EVANS-RANDALL     03/24/2024  03/25/2024  STAFF PER DIEM                                                             $304.18
+                                                                                STAFF TRANSPORTATION
+                  04/22/2024  TRAVONNE J SMITH          03/21/2024  03/22/2024  FLAGSTAFF TO COLORADO CITY, HILDALE UT AND RETURN                            $29.54
+                                                                                STAFF INCIDENTALS                                                          $294.36
+                  04/26/2024  LUTHER H LEE              03/21/2024  03/27/2024  STAFF PER DIEM                                                             $214.16
+                                                                                STAFF TRANSPORTATION
+DKEL20240261      04/22/2024  JUDY SULLTROP             01/23/2024  01/24/2024  TUCSON TO PHOENIX AND RETURN                                                 $67.85
+                                                                                STAFF INCIDENTALS                                                          $501.95
+DKEL20240262      04/23/2024  TAYLOR J ROGERS           03/06/2024  03/29/2024  STAFF PER DIEM                                                             $809.16   B-1485
+DKEL20240263      04/19/2024  TAYLOR J ROGERS           03/06/2024  03/06/2024  STAFF TRANSPORTATION
+DKEL20240264      04/23/2024  TAYLOR J ROGERS           03/18/2024  03/18/2024  WINSLOW TO GLENDALE, MESA, TUCSON, CHANDLER, MARICOPA,                       $22.26
+DKEL20240265      04/23/2024  ARLETHE RIOS              04/04/2024  04/04/2024  FLAGSTAFF, FORT MCDOWELL, FLAGSTAFF AND RETURN                             $179.58
+DKEL20240266      04/19/2024  TAYLOR J ROGERS           03/19/2024  03/19/2024  STAFF INCIDENTALS                                                          $159.46
+DKEL20240267      04/19/2024  ARLETHE RIOS              04/06/2024  04/06/2024  STAFF PER DIEM
+DKEL20240268      04/19/2024  JILL C DAILEY             03/14/2024  03/31/2024  STAFF TRANSPORTATION                                                       $244.81
+DKEL20240269      04/23/2024  ANA M ARMENDAREZ          03/21/2024  03/21/2024  PRESCOTT TO MESA AND RETURN
+DKEL20240270      05/10/2024  JUDY SULLTROP             03/10/2024  03/17/2024  STAFF TRANSPORTATION                                                         $67.00
+                                                                                PHOENIX OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DKEL20240271      04/18/2024  KARLA M AVALOS SOTO       03/10/2024  03/15/2024  STAFF TRANSPORTATION                                                       $154.10
+                                                                                PHOENIX TO CASA GRANDE AND RETURN
+DKEL20240272      05/03/2024  NATALIA CARDENAS          04/08/2024  04/08/2024  STAFF TRANSPORTATION                                                       $223.78
+DKEL20240273      05/09/2024  KARLA M AVALOS SOTO       03/28/2024  03/28/2024  PHOENIX TO TUCSON AND RETURN
+DKEL20240274      05/09/2024  KARLA M AVALOS SOTO       03/29/2024  03/29/2024  STAFF TRANSPORTATION                                                         $90.45
+                                                                                VAIL TO WADDELL AND RETURN
+                                                                                STAFF TRANSPORTATION                                                         $72.36
+                                                                                PHOENIX TO WICKENBURG AND RETURN
+                                                                                STAFF TRANSPORTATION                                                         $93.13
+                                                                                VAIL TO SIERRA VISTA AND RETURN
+                                                                                STAFF TRANSPORTATION                                                       $333.52
+                                                                                TUCSON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                STAFF TRANSPORTATION                                                       $123.45
+                                                                                PHOENIX TO CLIFTON AND RETURN                                              $925.57
+                                                                                STAFF INCIDENTALS                                                          $214.00
+                                                                                STAFF PER DIEM
+                                                                                STAFF TRANSPORTATION                                                       $205.75
+                                                                                PRESCOTT TO WASHINGTON DC AND RETURN                                    $1,530.36
+                                                                                STAFF INCIDENTALS
+                                                                                STAFF PER DIEM                                                             $350.40
+                                                                                STAFF TRANSPORTATION
+                                                                                TUCSON TO WASHINGTON DC AND RETURN                                           $27.52
+                                                                                STAFF TRANSPORTATION
+                                                                                WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $36.44
+                                                                                STAFF TRANSPORTATION
+                                                                                TUCSON TO MARANA AND RETURN                                                  $45.02
+                                                                                STAFF TRANSPORTATION
+                                                                                TUCSON TO MARANA AND RETURN
+

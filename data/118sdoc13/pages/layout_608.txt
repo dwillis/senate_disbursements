@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+DBLU20240234       POSTED     ELLEN M GRAHAM                               DATES
+                                                                                        STAFF TRANSPORTATION                                                              $410.04
+                  04/22/2024                                    START       END         BRANFORD TO THE FOLLOWING AND RETURN: 3/13 MONTVILLE; 3/18
+                                                                                        WALLINGFORD; 3/20 NORWICH; 3/27 MILFORD; HARTFORD TO THE                          $257.95
+                                                                03/13/2024  04/05/2024  FOLLOWING AND RETURN TO BRANFORD: 3/14 NEW LONDON; 4/2
+                                                                                        MANCHESTER, KILLINGWORTH; BRANFORD TO THE FOLLOWING AND                           $393.10
+DBLU20240235      04/22/2024  JOHN BAIROS                       03/14/2024  03/28/2024  RETURN TO HARTFORD: 4/3 FARMINGTON; 4/5 DANBURY                                   $393.10
+                                                                                        STAFF TRANSPORTATION                                                              $221.10
+DBLU20240244      05/02/2024  CITIBANK - SENATOR IBA CARD       04/11/2024  04/11/2024  WATERFORD TO THE FOLLOWING AND RETURN: 3/14, 21 NEW HAVEN; 3/20                   $313.00   B-590
+DBLU20240245      05/02/2024  CITIBANK - SENATOR IBA CARD       04/08/2024  04/08/2024  OLD SAYBROOK; 3/25 NEW LONDON; 3/28 IN AND AROUND; 3/15 HARTFORD                  $113.10
+DBLU20240246      05/13/2024  CITIBANK - SENATOR IBA CARD       04/15/2024  04/15/2024  TO WILLIMANTIC TO WATERFORD; 3/18 HARTFORD TO NAUGATUCK AND                       $201.75
+DBLU20240252      05/14/2024  CITIBANK - SENATOR IBA CARD       04/20/2024  04/20/2024  RETURN
+DBLU20240253      05/14/2024  CITIBANK - SENATOR IBA CARD       04/21/2024  04/21/2024  SENATOR TRANSPORTATION                                                            $221.10
+DBLU20240254      05/15/2024  ELLEN M GRAHAM                    04/15/2024  04/24/2024  AIRFARE FOR SEN BLUMENTHAL WASHINGTON DC TO WINDSOR LOCKS                         $862.10
+                                                                                        SENATOR TRANSPORTATION                                                            $221.10
+DBLU20240255      05/14/2024  CITIBANK - SENATOR IBA CARD       04/30/2024  04/30/2024  AIRFARE FOR SEN BLUMENTHAL WINDSOR LOCKS TO WASHINGTON DC                         $188.10
+DBLU20240256      05/14/2024  CITIBANK - SENATOR IBA CARD       04/23/2024  04/23/2024  SENATOR TRANSPORTATION                                                            $120.60
+DBLU20240257      05/14/2024  CITIBANK - SENATOR IBA CARD       04/24/2024  04/24/2024  AIRFARE FOR SEN BLUMENTHAL WINDSOR LOCKS TO WASHINGTON DC
+DBLU20240258      05/14/2024  CITIBANK - SENATOR IBA CARD       04/20/2024  04/20/2024  SENATOR TRANSPORTATION                                                              $50.25
+DBLU20240259      05/15/2024  MILGRID GUZMAN                    04/06/2024  04/06/2024  TRAIN FARE FOR SEN BLUMENTHAL WASHINGTON DC TO NEW YORK NY                          $56.95
+DBLU20240260      05/15/2024  KATHLEEN G MCWILLIAMS             02/16/2024  02/16/2024  SENATOR TRANSPORTATION                                                              $18.76
+DBLU20240261      05/15/2024  KATHLEEN G MCWILLIAMS             03/01/2024  03/01/2024  AIRFARE FOR SEN BLUMENTHAL WASHINGTON DC TO NEW YORK NY                             $50.25
+DBLU20240262      05/15/2024  KATHLEEN G MCWILLIAMS             03/04/2024  03/04/2024  STAFF TRANSPORTATION
+DBLU20240263      05/15/2024  KATHLEEN G MCWILLIAMS             03/27/2024  03/27/2024  BRANFORD TO THE FOLLOWING AND RETURN TO HARTFORD: 4/15                               $8.71
+DBLU20240264      05/15/2024  KATHLEEN G MCWILLIAMS             04/01/2024  04/01/2024  NEWINGTON; 4/22 MIDDLEFIELD; 4/16 HARTFORD TO MIDDLETOWN TO                         $11.39
+DBLU20240265      05/15/2024  KATHLEEN G MCWILLIAMS             04/02/2024  04/02/2024  BRANFORD; BRANFORD TO THE FOLLOWING AND RETURN: 4/17 NORWICH;                       $50.25
+DBLU20240266      05/15/2024  KATHLEEN G MCWILLIAMS             04/25/2024  04/25/2024  NEW HAVEN; 4/24 NORTH HAVEN                                                       $100.50
+DBLU20240267      05/17/2024  KATHLEEN G MCWILLIAMS             05/03/2024  05/03/2024  SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BLUMENTHAL WINDSOR LOCKS TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BLUMENTHAL NEW YORK NY TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BLUMENTHAL WASHINGTON DC TO WINDSOR LOCKS
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BLUMENTHAL NEW YORK NY TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BLOOMFIELD TO NORWALK AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HARTFORD TO NEW HAVEN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HARTFORD TO WEST HAVEN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HARTFORD TO NEW BRITAIN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HARTFORD TO NEW HAVEN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HARTFORD TO NEWINGTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HARTFORD TO BLOOMFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HARTFORD TO NEW HAVEN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

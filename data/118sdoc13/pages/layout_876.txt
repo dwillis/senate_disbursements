@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                               DATES
+DCAS20241291                                                                        PITTSBURGH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $30.15
+DCAS20241294                                                START       END         STAFF TRANSPORTATION                                                           $25.96
+DCAS20241295                                                                        PITTSBURGH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $15.33
+DCAS20241299      08/13/2024  TRACE J LEDGARD               08/02/2024  08/02/2024  STAFF PER DIEM                                                               $191.62
+DCAS20241300      08/16/2024  IAN F MADIGAN                 08/01/2024  08/02/2024  SCRANTON TO PHILADELPHIA AND RETURN                                            $51.12
+DCAS20241301      08/13/2024  IAN F MADIGAN                 08/05/2024  08/05/2024  STAFF PER DIEM                                                                 $23.91
+DCAS20241302      08/15/2024  KYLE L HANNON                 08/07/2024  08/07/2024  SCRANTON TO ALLENTOWN AND RETURN                                             $140.70
+DCAS20241303      08/15/2024  BENJAMIN K SOLTERO DE MARTIN  08/06/2024  08/06/2024  STAFF TRANSPORTATION
+DCAS20241304      08/16/2024  ELIZABETH M COOPER            08/05/2024  08/05/2024  ERIE TO COUDERSPORT AND RETURN                                                 $47.23
+DCAS20241305      08/15/2024  BENJAMIN K SOLTERO DE MARTIN  08/05/2024  08/05/2024  STAFF TRANSPORTATION                                                           $35.57
+DCAS20241306                                                                        HARRISBURG TO LANCASTER AND RETURN                                             $93.13
+DCAS20241307      08/15/2024  ELIZABETH M COOPER            07/27/2024  07/27/2024  STAFF TRANSPORTATION                                                           $12.48
+                  08/15/2024  ELIZABETH M COOPER            08/06/2024  08/06/2024  STATE COLLEGE TO PHILIPSBURG AND RETURN                                        $79.06
+DCAS20241308                                                                        STAFF TRANSPORTATION                                                           $22.11
+DCAS20241310      08/20/2024  MARIA A HERNANDEZ             08/06/2024  08/06/2024  HARRISBURG TO CHAMBERSBURG, WARFORDSBURG, MCCONNELLSBURG,                      $38.08  B-858
+DCAS20241312                                                                        HUSTONTOWN AND RETURN                                                        $317.66
+                  08/22/2024  BENJAMIN K SOLTERO DE MARTIN  08/08/2024  08/08/2024  STAFF TRANSPORTATION                                                           $54.00
+DCAS20241313      08/19/2024  IAN F MADIGAN                 08/06/2024  08/08/2024  BOALSBURG TO MILL HALL AND RETURN                                            $245.89
+                                                                                    STAFF PER DIEM                                                                 $30.15
+                  08/27/2024  ROBERTA M MATESIC             08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                           $23.54
+                  08/19/2024  ANDREA M GUSCOTT              08/07/2024  08/07/2024  STATE COLLEGE TO ALLENWOOD AND RETURN                                        $333.44
+                  08/19/2024  JULIA CINQUEGRANI             06/25/2024  06/27/2024  STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION                                                           $39.88
+                  08/20/2024  MISHA SAMUEL LINNEHAN         07/15/2024  07/18/2024  HARRISBURG TO LEWISTOWN AND RETURN                                           $499.12
+                                                                                    STAFF TRANSPORTATION                                                         $411.19
+DCAS20241314      08/20/2024  MISHA SAMUEL LINNEHAN         08/04/2024  08/07/2024  HARRISBURG TO DUNCANNON, MARYSVILLE AND RETURN
+DCAS20241315                                                                        STAFF INCIDENTALS                                                              $80.74
+                  08/20/2024  MISHA SAMUEL LINNEHAN         08/01/2024  08/02/2024  STAFF PER DIEM                                                               $494.35
+                                                                                    STAFF TRANSPORTATION                                                         $540.69
+                                                                                    SCRANTON TO PITTSBURGH, BLAIRSVILLE AND RETURN
+                                                                                    STAFF TRANSPORTATION                                                           $43.08
+                                                                                    WAYNESBURG TO JOHNSTOWN AND RETURN                                           $246.93
+                                                                                    STAFF TRANSPORTATION
+                                                                                    HARRISBURG TO SUMMERDALE TO LITITZ
+                                                                                    STAFF INCIDENTALS
+                                                                                    STAFF PER DIEM
+                                                                                    WASHINGTON DC TO SELINSGROVE, LEWISBURG, SUNBURY,
+                                                                                    MECHANICSBURG, ENOLA, NEW CUMBERLAND, GETTYSBURG AND RETURN
+                                                                                    STAFF INCIDENTALS
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    WASHINGTON DC TO ALLENTOWN, HARRISBURG, WILLIAMSPORT AND
+                                                                                    RETURN
+                                                                                    STAFF INCIDENTALS
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    WASHINGTON DC TO ALLENTOWN, BEDFORD, PITTSBURGH AND RETURN
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    WASHINGTON DC TO PHILADELPHIA AND RETURN
+

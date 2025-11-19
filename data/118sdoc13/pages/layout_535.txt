@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE                    PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                           DATES
+DBNN20240408                                                                    AIRFARE FOR SEN BENNET DENVER TO WASHINGTON DC                               $18.76
+DBNN20240409                                            START       END         STAFF TRANSPORTATION
+DBNN20240410                                                                    GRAND JUNCTION TO PALISADE AND RETURN                                        $12.73
+DBNN20240411      07/10/2024  HILARY E HENRY            06/14/2024  06/14/2024  STAFF INCIDENTALS                                                          $126.93
+DBNN20240412      07/11/2024  NOEL B RINCON-VILLARREAL  06/26/2024  06/27/2024  STAFF PER DIEM                                                             $230.48
+DBNN20240413                                                                    STAFF TRANSPORTATION
+DBNN20240414      07/15/2024  HILARY E HENRY            05/15/2024  05/17/2024  DENVER TO PUEBLO, LA JUNTA AND RETURN                                        $25.40
+DBNN20240415                                                                    STAFF INCIDENTALS                                                          $339.95
+                  07/15/2024  ERIN G MINKS              06/25/2024  06/26/2024  STAFF PER DIEM                                                             $139.36
+                                                                                STAFF TRANSPORTATION
+                  07/15/2024  HILARY E HENRY            04/30/2024  05/03/2024  GRAND JUNCTION TO NATURITA, VANCORUM, GATEWAY AND RETURN                     $14.85
+                                                                                STAFF INCIDENTALS                                                          $149.99
+                  07/17/2024  HILARY E HENRY            06/06/2024  06/10/2024  STAFF PER DIEM                                                             $402.00
+                                                                                STAFF TRANSPORTATION
+                  07/15/2024  SANTIAGO GONZALEZ         06/23/2024  06/29/2024  ALAMOSA TO BURLINGTON AND RETURN                                             $46.10  B-517
+                                                                                STAFF INCIDENTALS                                                          $404.00
+                  07/23/2024  PATRICK C BARHAM          06/23/2024  07/02/2024  STAFF PER DIEM                                                             $238.65
+                                                                                STAFF TRANSPORTATION
+DBNN20240416      07/17/2024  PATRICK M DONOVAN         06/25/2024  06/27/2024  GRAND JUNCTION TO AVON AND RETURN                                            $33.18
+DBNN20240417      07/17/2024  JOHN A BROCKMEIER         05/12/2024  06/23/2024  STAFF INCIDENTALS                                                          $459.80
+DBNN20240418      07/18/2024  JOHN A BROCKMEIER         06/06/2024  06/09/2024  STAFF PER DIEM                                                             $391.91
+DBNN20240419      07/18/2024  PATRICK M DONOVAN         06/29/2024  07/01/2024  STAFF TRANSPORTATION
+                                                                                GRAND JUNCTION TO NATURITA AND RETURN                                        $12.73
+DBNN20240420      07/18/2024  PATRICK M DONOVAN         06/06/2024  06/09/2024  STAFF INCIDENTALS                                                          $284.22
+                                                                                STAFF PER DIEM                                                             $573.48
+DBNN20240421      07/25/2024  ROSALYN BRUMMETTE         06/12/2024  06/14/2024  STAFF TRANSPORTATION
+                                                                                WASHINGTON DC TO DENVER, PUEBLO, DENVER AND RETURN                         $224.40
+                                                                                STAFF INCIDENTALS                                                       $1,993.18
+                                                                                STAFF PER DIEM
+                                                                                STAFF TRANSPORTATION                                                       $844.03
+                                                                                WASHINGTON DC TO DENVER, BURLINGTON, DENVER, FAIRPLAY,
+                                                                                GUNNISON, CRESTED BUTTE, REDSTONE, DENVER AND RETURN                         $31.55
+                                                                                STAFF INCIDENTALS                                                          $296.00
+                                                                                STAFF PER DIEM
+                                                                                DENVER TO BURLINGTON, STERLING AND RETURN                                  $503.93
+                                                                                STAFF TRANSPORTATION
+                                                                                DENVER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $43.97
+                                                                                STAFF INCIDENTALS                                                          $586.88
+                                                                                STAFF PER DIEM
+                                                                                DENVER TO GRAND JUNCTION, NATURITA AND RETURN                                $81.10
+                                                                                STAFF INCIDENTALS                                                          $452.85
+                                                                                STAFF PER DIEM                                                             $351.08
+                                                                                STAFF TRANSPORTATION
+                                                                                DENVER TO CRESTED BUTTE, REDSTONE AND RETURN                                 $43.97
+                                                                                STAFF INCIDENTALS                                                          $545.34
+                                                                                STAFF PER DIEM                                                             $564.88
+                                                                                STAFF TRANSPORTATION
+                                                                                DENVER TO GRAND JUNCTION, NATURITA AND RETURN                                $66.76
+                                                                                STAFF INCIDENTALS                                                          $333.99
+                                                                                STAFF PER DIEM
+

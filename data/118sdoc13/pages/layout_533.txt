@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DBNN20240361                  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                     $293.10
+DBNN20240362      05/24/2024  CITIBANK - SENATOR IBA CARD       START       END         AIRFARE FOR SEN BENNET WASHINGTON DC TO DENVER
+DBNN20240363      05/24/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                     $293.10
+DBNN20240364      05/24/2024  CITIBANK - SENATOR IBA CARD       05/02/2024  05/02/2024  AIRFARE FOR SEN BENNET DENVER TO WASHINGTON DC
+DBNN20240365      05/24/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                     $293.10
+DBNN20240366      05/24/2024  CITIBANK - SENATOR IBA CARD       05/07/2024  05/07/2024  AIRFARE FOR SEN BENNET WASHINGTON DC TO DENVER
+DBNN20240367      05/24/2024  NATASHA A HUTSON                                          SENATOR TRANSPORTATION                                                     $442.10
+DBNN20240368      06/13/2024  AMY M FRIEDMAN                    05/16/2024  05/16/2024  AIRFARE FOR SEN BENNET WASHINGTON DC TO DENVER
+                  05/29/2024                                                            SENATOR TRANSPORTATION                                                     $563.10
+DBNN20240369                                                    04/24/2024  04/24/2024  AIRFARE FOR SEN BENNET DENVER TO DURANGO
+                                                                                        SENATOR TRANSPORTATION                                                     $563.10
+DBNN20240370                                                    05/05/2024  05/05/2024  AIRFARE FOR SEN BENNET DURANGO TO DENVER
+                                                                                        STAFF TRANSPORTATION                                                       $200.73
+DBNN20240371                                                    05/06/2024  05/06/2024  COLORADO SPRINGS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF INCIDENTALS                                                            $57.86
+DBNN20240372                                                    04/08/2024  04/11/2024  STAFF PER DIEM                                                             $262.47
+DBNN20240373                                                                            STAFF TRANSPORTATION                                                       $874.85
+DBNN20240374                                                    04/23/2024  04/24/2024  DENVER TO WASHINGTON DC AND RETURN
+DBNN20240375                                                                            STAFF INCIDENTALS                                                          $132.41
+DBNN20240376      06/12/2024  AMY M FRIEDMAN                    04/29/2024  05/03/2024  STAFF PER DIEM                                                             $780.00
+DBNN20240377                                                                            STAFF TRANSPORTATION                                                       $373.01
+                  05/29/2024  AMY M FRIEDMAN                    04/08/2024  04/12/2024  DENVER TO WASHINGTON DC AND RETURN                                                   B-515
+DBNN20240380                                                                            STAFF INCIDENTALS                                                          $150.68
+DBNN20240381      06/04/2024  AMY M FRIEDMAN                    03/20/2024  03/23/2024  STAFF PER DIEM                                                             $780.00
+                                                                                        STAFF TRANSPORTATION                                                       $691.62
+                  05/29/2024  NOEL B RINCON-VILLARREAL          03/13/2024  05/10/2024  DENVER TO WASHINGTON DC AND RETURN
+                  05/24/2024  CITIBANK - TRAVEL CBA CARD        03/23/2024  03/23/2024  STAFF INCIDENTALS                                                          $248.39
+                  05/24/2024  CITIBANK - TRAVEL CBA CARD        05/12/2024  05/16/2024  STAFF PER DIEM                                                          $1,071.00
+                                                                                        STAFF TRANSPORTATION
+                  05/29/2024  JOHN M WHITNEY                    05/04/2024  05/06/2024  DENVER TO WASHINGTON DC AND RETURN                                         $436.27
+                  05/29/2024  NATASHA A HUTSON                  05/17/2024  05/17/2024  STAFF TRANSPORTATION
+                  05/29/2024  DENITTA DAWN WARD                 05/15/2024  05/17/2024  DENVER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $101.84
+                                                                                        STAFF TRANSPORTATION
+                  05/28/2024  HILARY E HENRY                    05/14/2024  05/14/2024  AIRFARE FOR A FRIEDMAN WASHINGTON DC TO DENVER                             $757.98
+                  06/04/2024  HILARY E HENRY                    04/26/2024  04/27/2024  STAFF TRANSPORTATION
+                                                                                        TICKET FEES                                                                $604.20
+                                                                                        AIRFARE FOR P DONOVAN DENVER TO WASHINGTON DC AND RETURN                     $30.00
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DURANGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $251.59
+                                                                                        STAFF TRANSPORTATION
+                                                                                        COLORADO SPRINGS TO LAMAR AND RETURN                                       $246.42
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM                                                               $34.54
+                                                                                        STAFF TRANSPORTATION                                                       $279.40
+                                                                                        DENVER TO COLORADO SPRINGS AND RETURN                                      $139.19
+                                                                                        STAFF TRANSPORTATION
+                                                                                        GRAND JUNCTION TO PAONIA AND RETURN                                          $92.46
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                         $19.56
+                                                                                        GRAND JUNCTION TO NATURITA AND RETURN                                        $87.05
+

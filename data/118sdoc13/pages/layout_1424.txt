@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                              DATES
+DHOE20240169                                                                       AIRFARE FOR R CAMPBELL BISMARCK TO WASHINGTON DC AND RETURN               $1,248.60
+DHOE20240170                                               START       END         SENATOR TRANSPORTATION                                                         $11.81
+DHOE20240171                                                                       AIRFARE FOR SEN HOEVEN BISMARCK TO WASHINGTON DC
+                  04/30/2024  CITIBANK - SENATOR IBA CARD  04/08/2024  04/08/2024  STAFF PER DIEM                                                               $150.08
+DHOE20240173      04/29/2024  RILEY M CAMPBELL             04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                           $11.24
+DHOE20240174                                                                       BISMARCK TO MINOT AND RETURN
+DHOE20240175      04/29/2024  JESSICA M LEE                04/02/2024  04/03/2024  STAFF INCIDENTALS                                                            $122.60
+DHOE20240178                                                                       STAFF PER DIEM                                                               $100.50
+DHOE20240179      07/11/2024  CITIBANK - TRAVEL CBA CARD   04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                         $299.10
+                  05/02/2024  CITIBANK - SENATOR IBA CARD  04/12/2024  04/12/2024  FARGO TO GRAND FORKS AND RETURN                                           $1,248.60
+                  04/30/2024  CITIBANK - SENATOR IBA CARD  04/15/2024  04/15/2024  SENATOR TRANSPORTATION                                                       $628.10
+                  05/03/2024  SALLY F JOHNSON              04/20/2024  04/20/2024  AIRFARE FOR SEN HOEVEN MINNEAPOLIS MN TO WASHINGTON DC                       $265.32
+                  05/14/2024  HOEVEN,JOHN                  03/23/2024  04/08/2024  SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN HOEVEN WASHINGTON DC TO BISMARCK                               $22.48
+DHOE20240180      05/02/2024  RILEY M CAMPBELL             04/22/2024  04/22/2024  SENATOR TRANSPORTATION                                                       $214.00   B-1406
+DHOE20240181      05/07/2024  LEIGH H SCHISLER             04/03/2024  04/05/2024  AIRFARE FOR SEN HOEVEN BISMARCK TO MINNEAPOLIS MN
+DHOE20240182      05/07/2024  RILEY M CAMPBELL             04/24/2024  04/24/2024  STAFF TRANSPORTATION                                                            $7.00
+DHOE20240183      06/14/2024  JESSICA M LEE                04/22/2024  04/23/2024  MINOT TO GRAND FORKS AND RETURN
+                                                                                   SENATOR INCIDENTALS                                                             $9.78
+DHOE20240184      05/14/2024  CITIBANK - TRAVEL CBA CARD   04/24/2024  04/24/2024  SENATOR PER DIEM                                                               $80.40
+DHOE20240185      05/14/2024  CITIBANK - TRAVEL CBA CARD   04/29/2024  04/29/2024  SENATOR TRANSPORTATION
+DHOE20240192      05/23/2024  CITIBANK - SENATOR IBA CARD  05/07/2024  05/07/2024  WASHINGTON DC TO BISMARCK, GRAND FORKS, FARGO, BISMARCK AND                     $8.04
+DHOE20240193      05/21/2024  CITIBANK - TRAVEL CBA CARD   05/07/2024  05/07/2024  RETURN                                                                         $11.24
+DHOE20240194      05/21/2024  CITIBANK - TRAVEL CBA CARD   05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                         $140.49
+DHOE20240195      05/21/2024  REBEKAH A DOHRMANN           05/01/2024  05/01/2024  BISMARCK OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $428.80
+DHOE20240196      05/24/2024  SALLY F JOHNSON              05/03/2024  05/03/2024  STAFF TRANSPORTATION                                                         $953.60
+DHOE20240198      05/22/2024  RILEY M CAMPBELL             05/07/2024  05/07/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $938.60
+DHOE20240199      06/07/2024  SHARI L BUCK                 05/14/2024  05/15/2024  STAFF TRANSPORTATION                                                         $322.10
+                                                                                   BISMARCK OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $778.10
+                                                                                   STAFF INCIDENTALS                                                         $1,428.60
+                                                                                   STAFF PER DIEM                                                               $116.58
+                                                                                   STAFF TRANSPORTATION                                                         $140.70
+                                                                                   FARGO TO MINOT AND RETURN                                                    $144.05
+                                                                                   SENATOR TRANSPORTATION                                                         $19.60
+                                                                                   AIRFARE FOR SEN HOEVEN WASHINGTON DC TO BISMARCK
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN HOEVEN BISMARCK TO WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN HOEVEN BISMARCK TO MINNEAPOLIS MN
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN HOEVEN MINNEAPOLIS MN TO WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN HOEVEN WASHINGTON DC TO GRAND FORKS
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BISMARCK TO RYDER AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MINOT TO BISMARCK AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BISMARCK TO JAMESTOWN AND RETURN
+                                                                                   STAFF INCIDENTALS
+

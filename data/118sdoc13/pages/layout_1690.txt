@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+              POSTED                                             DATES
+                                                                              AIRFARE FOR S BOCK AS FOLLOWS: 5/26 WASHINGTON DC TO                               $95.24
+                                                      START       END         ALBUQUERQUE; 5/30 ALBUQUERQUE TO LAS VEGAS NV                                    $550.10
+                                                                              STAFF TRANSPORTATION                                                             $630.98
+DLUJ20240328  07/20/2024  CITIBANK - TRAVEL CBA CARD  05/21/2024  05/23/2024  RENTAL AUTO FOR R ROMO LAS CRUCES TO ROSWELL AND RETURN                                    B-1653
+DLUJ20240329  07/22/2024  CITIBANK - TRAVEL CBA CARD  06/03/2024  06/03/2024  SENATOR TRANSPORTATION                                                             $52.14
+DLUJ20240331  07/23/2024  CITIBANK - TRAVEL CBA CARD  06/06/2024  06/06/2024  AIRFARE FOR SEN LUJAN SANTA FE TO WASHINGTON DC
+DLUJ20240332  07/19/2024  CITIBANK - TRAVEL CBA CARD  06/12/2024  06/13/2024  SENATOR TRANSPORTATION                                                           $491.60
+                                                                              AIRFARE FOR SEN LUJAN WASHINGTON DC TO ALBUQUERQUE                               $550.10
+DLUJ20240333  07/23/2024  CITIBANK - TRAVEL CBA CARD  06/20/2024  06/20/2024  STAFF TRANSPORTATION
+DLUJ20240334  07/23/2024  CITIBANK - TRAVEL CBA CARD  07/08/2024  07/08/2024  RENTAL AUTO FOR M GOODMAN LAS CRUCES TO ALBUQUERQUE AND                            $99.48
+DLUJ20240335  07/19/2024  CITIBANK - TRAVEL CBA CARD  06/24/2024  06/26/2024  RETURN                                                                           $554.60
+DLUJ20240336  07/23/2024  CITIBANK - TRAVEL CBA CARD  07/11/2024  07/11/2024  SENATOR TRANSPORTATION                                                           $114.57
+DLUJ20240337  07/24/2024  NICHOLAS DEWHANE MCKENZIE   07/11/2024  07/11/2024  AIRFARE FOR SEN LUJAN WASHINGTON DC TO ALBUQUERQUE
+DLUJ20240338  07/29/2024  ADAN J SERNA                07/14/2024  07/16/2024  SENATOR TRANSPORTATION                                                             $44.08
+                                                                              AIRFARE FOR SEN LUJAN SANTA FE TO WASHINGTON DC                                  $459.83
+DLUJ20240339  08/06/2024  RENE ROMO                   07/02/2024  07/02/2024  STAFF TRANSPORTATION                                                             $353.46
+DLUJ20240340  08/07/2024  RENE ROMO                   07/17/2024  07/17/2024  RENTAL AUTO FOR C WHITE WILLIAMS CLOVIS TO TUCUMCARI AND RETURN
+DLUJ20240341  08/05/2024  JUAN C ABEYTA               06/26/2024  06/26/2024  SENATOR TRANSPORTATION                                                           $147.40
+DLUJ20240342  08/05/2024  JUAN C ABEYTA               07/15/2024  07/15/2024  AIRFARE FOR SEN LUJAN WASHINGTON DC TO SANTA FE                                    $53.60
+DLUJ20240343  08/05/2024  NICHOLAS DEWHANE MCKENZIE   07/25/2024  07/26/2024  STAFF TRANSPORTATION
+DLUJ20240347  08/06/2024  CITIBANK - TRAVEL CBA CARD  07/14/2024  07/16/2024  SANTA FE TO ALBUQUERQUE, NAMBE AND RETURN                                        $127.30
+DLUJ20240348  08/06/2024  CITIBANK - TRAVEL CBA CARD  07/29/2024  07/29/2024  STAFF INCIDENTALS                                                                $120.60
+DLUJ20240349  08/06/2024  CITIBANK - TRAVEL CBA CARD  07/25/2024  07/25/2024  STAFF PER DIEM                                                                   $111.89
+DLUJ20240350  08/08/2024  BRIAN A LEE                 07/02/2024  07/02/2024  STAFF TRANSPORTATION                                                             $896.19
+DLUJ20240351  08/08/2024  BRIAN A LEE                 07/25/2024  07/25/2024  WASHINGTON DC TO ALBUQUERQUE, SANTA FE, ALBUQUERQUE AND                          $550.10
+DLUJ20240352  08/20/2024  NICHOLAS DEWHANE MCKENZIE   08/01/2024  08/01/2024  RETURN                                                                           $554.60
+DLUJ20240354  08/13/2024  CITIBANK - TRAVEL CBA CARD  08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                             $115.24
+                                                                              LAS CRUCES TO RUIDOSO AND RETURN                                                 $151.42
+                                                                              STAFF TRANSPORTATION
+                                                                              LAS CRUCES TO SUNLAND PARK AND RETURN                                              $26.80
+                                                                              STAFF TRANSPORTATION                                                             $554.60
+                                                                              ALBUQUERQUE TO NAMBE AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              ALBUQUERQUE TO NAMBE AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              SANTA FE TO ALBUQUERQUE, NAMBE AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR A SERNA WASHINGTON DC TO ALBUQUERQUE AND RETURN
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN LUJAN SANTA FE TO WASHINGTON DC
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN LUJAN WASHINGTON DC TO SANTA FE
+                                                                              STAFF TRANSPORTATION
+                                                                              FARMINGTON TO CROWNPOINT AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              FARMINGTON TO GALLUP AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              SANTA FE TO NAMBE AND RETURN
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN LUJAN WASHINGTON DC TO SANTA FE
+

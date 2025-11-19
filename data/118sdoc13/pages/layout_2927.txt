@@ -1,0 +1,56 @@
+DOCUMENT NO.    DATE      PAYEE NAME                      OBLIGATION/SERVICE      DESCRIPTION                                                              AMOUNT ($)
+              POSTED                                                 DATES
+                                                                                                                                                                           $173.00
+                                                          START       END                                                                                                  $149.98
+
+DJUD20240328  09/13/2024  CITIBANK - TRAVEL CBA CARD      08/26/2024                        STAFF PER DIEM                                                                 $574.71
+                                                                                            STAFF TRANSPORTATION                                                             $40.00
+DJUD20240329  09/13/2024  CITIBANK - TRAVEL CBA CARD      08/27/2024                        WASHINGTON DC TO ATLANTA GA AND RETURN
+              09/13/2024  CITIBANK - TRAVEL CBA CARD                   09/01/2024 STAFF TRANSPORTATION                                                                     $468.20
+DJUD20240330                                              08/26/2024                        TICKET FEES                                                                      $40.00
+              09/20/2024  CITIBANK - TRAVEL CBA CARD                                        AIRFARE FOR M CEJA-OROZCO WASHINGTON DC TO SAN DIEGO CA AND
+DJUD20240331                                              08/27/2024                        RETURN                                                                         $574.71
+                                                                       08/30/2024 STAFF TRANSPORTATION                                                                       $40.00
+0002852543                                                02/01/2024                        TICKET FEES
+0002853730                                                03/01/2024                        AIRFARE FOR S COFFEY WASHINGTON DC TO PHOENIX AZ AND RETURN                    $230.19
+0002855924                                                05/01/2024   08/30/2024 STAFF TRANSPORTATION                                                                       $40.00
+0002857225                                                06/01/2024                        TICKET FEES
+0002858847                                                07/01/2024                        AIRFARE FOR E CREIGHTON AS FOLLOWS: 8/26 WASHINGTON DC TO SAN              $16,933.77
+DJUD20240191                                              03/12/2024                        DIEGO CA; 8/30 SAN DIEGO TO WASHINGTON DC
+DJUD20240196                                              02/29/2024   08/29/2024 STAFF TRANSPORTATION                                                                       $50.00
+DJUD20240201                                              03/20/2024                        TICKET FEES                                                                       $3.00
+DJUD20240202                                              03/20/2024                        AIRFARE FOR A KEVORKIAN LAS VEGAS NV TO PHOENIX AZ AND RETURN
+DJUD20240218                                              04/09/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                                   $77.00
+DJUD20240219                                              04/10/2024                                                                                                         $48.90
+DJUD20240223  04/18/2024  SERGEANT AT ARMS                04/11/2024  02/29/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                             $24.00  B-2-136
+DJUD20240224  05/14/2024  SERGEANT AT ARMS                04/16/2024  03/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                        $1,035.00
+DJUD20240225  06/27/2024  SERGEANT AT ARMS                04/16/2024  05/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                             $94.99
+DJUD20240226  08/07/2024  SERGEANT AT ARMS                04/17/2024  06/30/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                           $963.00
+DJUD20240227  09/13/2024  SERGEANT AT ARMS                04/18/2024  07/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                           $702.00
+DJUD20240231  04/02/2024  TRUSTPOINT COURT REPORTING LLC  04/27/2024  03/12/2024  STENOGRAPHIC SERVICES                                                                    $630.00
+DJUD20240239  04/09/2024  CITIBANK - PURCHASE CARD        04/30/2024  02/29/2024  VOICE, DATA COMM EQP MAINT                                                               $693.00
+DJUD20240241  04/09/2024  TRUSTPOINT COURT REPORTING LLC  05/09/2024  03/20/2024  STENOGRAPHIC SERVICES                                                                    $200.00
+DJUD20240244  04/09/2024  TRUSTPOINT COURT REPORTING LLC  05/08/2024  03/20/2024  STENOGRAPHIC SERVICES                                                                    $783.00
+DJUD20240248  05/03/2024  TRUSTPOINT COURT REPORTING LLC  05/14/2024  04/09/2024  STENOGRAPHIC SERVICES                                                                    $666.00
+DJUD20240249  05/03/2024  TRUSTPOINT COURT REPORTING LLC  05/16/2024  04/10/2024  STENOGRAPHIC SERVICES                                                                    $891.00
+DJUD20240252  05/03/2024  TRUSTPOINT COURT REPORTING LLC  05/16/2024  04/11/2024  STENOGRAPHIC SERVICES                                                                    $252.00
+DJUD20240253  05/03/2024  TRUSTPOINT COURT REPORTING LLC  05/23/2024  04/16/2024  STENOGRAPHIC SERVICES                                                                      $94.99
+DJUD20240254  05/03/2024  TRUSTPOINT COURT REPORTING LLC  05/21/2024  04/16/2024  STENOGRAPHIC SERVICES                                                                    $819.00
+DJUD20240255  05/03/2024  TRUSTPOINT COURT REPORTING LLC  05/21/2024  04/17/2024  STENOGRAPHIC SERVICES                                                                    $342.00
+DJUD20240260  05/03/2024  TRUSTPOINT COURT REPORTING LLC  05/22/2024  04/18/2024  STENOGRAPHIC SERVICES                                                                 $1,026.00
+DJUD20240265  05/17/2024  CITIBANK - PURCHASE CARD        06/05/2024  04/30/2024  VOICE, DATA COMM EQP MAINT                                                               $840.00
+DJUD20240270  05/17/2024  TRUSTPOINT COURT REPORTING LLC  06/05/2024  04/30/2024  STENOGRAPHIC SERVICES                                                                    $207.00
+DJUD20240272  05/24/2024  TRUSTPOINT COURT REPORTING LLC  06/12/2024  05/09/2024  STENOGRAPHIC SERVICES                                                                    $413.34
+DJUD20240273  05/24/2024  TRUSTPOINT COURT REPORTING LLC  06/13/2024  05/08/2024  STENOGRAPHIC SERVICES                                                                    $200.00
+              05/24/2024  CITIBANK - PURCHASE CARD                    05/14/2024  INTERPRETING SERVICES                                                                    $720.00
+              05/29/2024  TRUSTPOINT COURT REPORTING LLC              05/16/2024  STENOGRAPHIC SERVICES                                                                    $882.00
+              06/07/2024  CITIBANK - PURCHASE CARD                    05/16/2024  VOICE, DATA COMM EQP MAINT                                                               $693.00
+              06/10/2024  TRUSTPOINT COURT REPORTING LLC              05/23/2024  STENOGRAPHIC SERVICES                                                                    $621.00
+              06/10/2024  TRUSTPOINT COURT REPORTING LLC              05/21/2024  STENOGRAPHIC SERVICES                                                                    $648.00
+              06/10/2024  TRUSTPOINT COURT REPORTING LLC              05/21/2024  STENOGRAPHIC SERVICES                                                                    $846.00
+              06/10/2024  TRUSTPOINT COURT REPORTING LLC              05/22/2024  STENOGRAPHIC SERVICES                                                                    $216.00
+              06/18/2024  TRUSTPOINT COURT REPORTING LLC              06/05/2024  STENOGRAPHIC SERVICES
+              07/01/2024  TRUSTPOINT COURT REPORTING LLC              06/05/2024  STENOGRAPHIC SERVICES
+              07/16/2024  TRUSTPOINT COURT REPORTING LLC              06/12/2024  STENOGRAPHIC SERVICES
+              07/15/2024  TRUSTPOINT COURT REPORTING LLC              06/13/2024  STENOGRAPHIC SERVICES
+

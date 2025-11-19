@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                 OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                            DATES
+DMCN20240518                                                                     LONDON TO SOMERSET, MANCHESTER AND RETURN                                    $23.58
+DMCN20240519                                             START       END         STAFF TRANSPORTATION                                                       $174.88
+DMCN20240520                                                                     LONDON TO CORBIN AND RETURN                                                $113.97
+DMCN20240521      04/12/2024  DONNA BAKER MCCLURE        03/04/2024  03/04/2024  STAFF TRANSPORTATION                                                                 B-1753
+DMCN20240522      04/18/2024  DONNA BAKER MCCLURE        03/06/2024  03/06/2024  LONDON TO CAMPTON AND RETURN                                                 $73.36
+DMCN20240523      04/18/2024  DONNA BAKER MCCLURE        03/07/2024  03/07/2024  STAFF TRANSPORTATION                                                         $96.28
+DMCN20240524      04/12/2024  DONNA BAKER MCCLURE        03/08/2024  03/08/2024  LONDON TO HAZARD AND RETURN                                                  $36.68
+DMCN20240525      04/12/2024  DONNA BAKER MCCLURE        03/11/2024  03/11/2024  STAFF TRANSPORTATION                                                       $130.34
+DMCN20240526      04/12/2024  DONNA BAKER MCCLURE        03/12/2024  03/12/2024  LONDON TO SOMERSET AND RETURN                                              $233.83
+DMCN20240527      04/18/2024  DONNA BAKER MCCLURE        03/13/2024  03/13/2024  STAFF TRANSPORTATION                                                         $97.59
+DMCN20240528      04/18/2024  DONNA BAKER MCCLURE        03/14/2024  03/14/2024  LONDON TO HAZARD AND RETURN                                                  $55.67
+DMCN20240529      04/12/2024  DONNA BAKER MCCLURE        03/15/2024  03/15/2024  STAFF TRANSPORTATION                                                       $106.76
+DMCN20240530      04/12/2024  DONNA BAKER MCCLURE        03/21/2024  03/21/2024  LONDON TO CORBIN AND RETURN                                                $100.21
+DMCN20240531      04/18/2024  DONNA BAKER MCCLURE        03/22/2024  03/22/2024  STAFF TRANSPORTATION                                                       $250.21
+DMCN20240532      04/18/2024  DONNA BAKER MCCLURE        03/25/2024  03/25/2024  LONDON TO HAZARD, MANCHESTER, SOMERSET AND RETURN                          $118.55
+DMCN20240533      04/18/2024  DONNA BAKER MCCLURE        03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                       $153.27
+DMCN20240534      04/18/2024  DONNA BAKER MCCLURE        03/27/2024  03/27/2024  LONDON TO PAINTSVILLE AND RETURN                                             $43.23
+DMCN20240535      04/18/2024  DONNA BAKER MCCLURE        03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                         $19.65
+DMCN20240536      04/12/2024  DONNA BAKER MCCLURE        03/29/2024  03/29/2024  LONDON TO WILLIAMSBURG, MANCHESTER AND RETURN                                $68.12
+DMCN20240537      04/12/2024  MORGAN ALVEY               03/19/2024  03/20/2024  STAFF TRANSPORTATION                                                         $38.64
+DMCN20240538      04/12/2024  MORGAN ALVEY               03/21/2024  03/21/2024  LONDON TO ANNVILLE AND RETURN                                                $68.12
+DMCN20240539      04/12/2024  MORGAN ALVEY               03/25/2024  03/25/2024  STAFF TRANSPORTATION                                                         $93.66
+DMCN20240540      04/12/2024  MORGAN ALVEY               03/26/2024  03/26/2024  LONDON TO SOMERSET, CORBIN AND RETURN
+DMCN20240541      04/12/2024  MORGAN ALVEY               03/29/2024  03/29/2024  STAFF TRANSPORTATION                                                          $9.17
+                  04/12/2024  MORGAN ALVEY               04/01/2024  04/01/2024  LONDON TO HYDEN, HAZARD AND RETURN                                           $49.78
+                  04/12/2024  ELIZABETH HUNTER WHITAKER  03/07/2024  03/07/2024  STAFF TRANSPORTATION                                                       $122.48
+                  04/19/2024  ELIZABETH HUNTER WHITAKER  03/13/2024  03/13/2024  LONDON TO HAZARD, PRESTONSBURG, WILLIAMSBURG AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 LONDON TO HAZARD, HINDMAN AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 LONDON TO RUSSELL SPRINGS, SOMERSET AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 LONDON TO CORBIN AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                 STAFF TRANSPORTATION
+                                                                                 PADUCAH TO MAYFIELD, MURRAY AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 PADUCAH TO MAYFIELD AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 PADUCAH TO MURRAY AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 PADUCAH TO CADIZ, EDDYVILLE, BENTON AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                 STAFF TRANSPORTATION
+                                                                                 BOWLING GREEN TO GLASGOW AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 BOWLING GREEN TO ELIZABETHTOWN, CAVE CITY, HORSE CAVE,
+                                                                                 BROWNSVILLE AND RETURN
+

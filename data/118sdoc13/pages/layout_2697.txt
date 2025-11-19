@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DWIC20240492                  CHRISTOPHER RANDOLPH VIGNES                               STAFF TRANSPORTATION                                                             $132.66
+DWIC20240493      09/18/2024  CHRISTOPHER RANDOLPH VIGNES       START       END         GULFPORT TO ELLISVILLE, HATTIESBURG AND RETURN                                   $102.51
+DWIC20240494      09/18/2024  CHRISTOPHER RANDOLPH VIGNES                               STAFF TRANSPORTATION                                                             $146.73
+DWIC20240495      09/18/2024  JUSTIN R ANNISON                  08/23/2024  08/23/2024  GULFPORT TO HATTIESBURG AND RETURN
+                  09/19/2024                                                            STAFF TRANSPORTATION                                                               $29.62
+                                                                08/16/2024  08/16/2024  GULFPORT TO LAUREL AND RETURN                                                    $320.17
+                                                                                        STAFF INCIDENTALS                                                                $444.21
+                                                                08/22/2024  08/22/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                               $37.56
+                                                                08/28/2024  08/30/2024  JACKSON TO TUPELO, PONTOTOC, OXFORD, TUPELO, SENATOBIA, OXFORD                   $407.54
+                                                                                        AND RETURN                                                                       $196.98
+DWIC20240509      09/30/2024  JONATHAN D MOORE                  08/04/2024  08/07/2024  STAFF INCIDENTALS                                                                $862.04
+DWIC20240511                                                                            STAFF PER DIEM                                                                   $781.77
+                  09/24/2024  WICKER,ROGER F                    08/01/2024  09/08/2024  STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO MOUND BAYOU, JACKSON AND RETURN                                   $21.98
+DWIC20240512      09/27/2024  MYLES E RUSSELL                   08/01/2024  08/01/2024  SENATOR PER DIEM                                                                 $294.80   B-2660
+DWIC20240513      09/28/2024  MYLES E RUSSELL                   08/02/2024  08/03/2024  SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO HUNTSVILLE AL, TUPELO, MOUND BAYOU, JACKSON,                      $27.67
+DWIC20240514      09/28/2024  MYLES E RUSSELL                   08/05/2024  08/05/2024  CANTON, BILOXI, OCEAN SPRINGS, MOBILE AL, SANTA ROSA BEACH FL,                   $222.44
+                                                                                        JACKSON, FOREST, JACKSON, TUPELO, ASPEN CO, TUPELO, JACKSON,
+DWIC20240515      09/28/2024  MYLES E RUSSELL                   08/07/2024  08/07/2024  BRANDON, JACKSON, TUPELO, BILOXI, GULFPORT, BILOXI, MOSS POINT,                    $34.09
+DWIC20240517      09/21/2024  MYLES E RUSSELL                   08/08/2024  08/08/2024  TUPELO, PONTOTOC, TUPELO, SENATOBIA, TUPELO, HICKORY FLAT,                       $258.62
+DWIC20240518      09/28/2024  MYLES E RUSSELL                   08/13/2024  08/13/2024  TUPELO, OXFORD, MEMPHIS TN AND RETURN
+DWIC20240519      09/28/2024  MYLES E RUSSELL                   08/14/2024  08/14/2024  STAFF PER DIEM                                                                     $16.00
+DWIC20240520      09/28/2024  MYLES E RUSSELL                   08/15/2024  08/15/2024  STAFF TRANSPORTATION                                                             $125.96
+DWIC20240521      09/28/2024  MYLES E RUSSELL                   08/18/2024  08/18/2024  CORINTH TO OLIVE BRANCH, HUNTSVILLE AL, TUPELO AND RETURN
+DWIC20240522      09/27/2024  MYLES E RUSSELL                   08/20/2024  08/20/2024  STAFF PER DIEM                                                                     $97.82
+                                                                                        STAFF TRANSPORTATION                                                             $113.23
+                                                                                        CORINTH TO OXFORD, BLUE MOUNTAIN, RIPLEY, WATER VALLEY, OXFORD
+                                                                                        AND RETURN                                                                         $12.62
+                                                                                        STAFF PER DIEM                                                                   $162.81
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CORINTH TO TUPELO, MOUND BAYOU, INDIANOLA, WINONA, GRENADA TO                      $15.27
+                                                                                        TUPELO                                                                           $192.96
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                               $18.69
+                                                                                        CORINTH TO DUMAS, BYHALIA, OLIVE BRANCH AND RETURN                               $166.16
+                                                                                        STAFF TRANSPORTATION                                                             $126.63
+                                                                                        TUPELO TO ABERDEEN, WEST POINT, COLUMBUS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CORINTH TO ASHLAND, BOONEVILLE, IUKA AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CORINTH TO HOLLY SPRINGS, OLIVE BRANCH, OXFORD AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TUPELO TO MEMPHIS TN, SOUTHAVEN, AMORY AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CORINTH TO MEMPHIS TN, TUPELO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

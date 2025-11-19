@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DCOT20240437                  CAMERON JOSEPH BANDY                                      STAFF TRANSPORTATION                                                             $152.22
+DCOT20240438      05/21/2024  CAMERON JOSEPH BANDY              START       END         JONESBORO TO LITTLE ROCK AND RETURN                                                $48.97
+DCOT20240439      05/16/2024  CAMERON JOSEPH BANDY                                      STAFF TRANSPORTATION                                                               $83.19
+DCOT20240440      05/16/2024  BRITTANY HELEN PARKER             04/25/2024  04/25/2024  JONESBORO TO TRUMANN, FISHER AND RETURN                                            $93.81
+DCOT20240441      05/16/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION
+DCOT20240450      05/21/2024  MCKENNA L NICHOLSON               04/30/2024  04/30/2024  JONESBORO TO TUCKERMAN, WYNNE AND RETURN                                         $720.20
+DCOT20240451      05/25/2024  MCKENNA L NICHOLSON                                       STAFF TRANSPORTATION                                                               $38.35
+DCOT20240452      05/25/2024  MCKENNA L NICHOLSON               05/02/2024  05/02/2024  ROGERS TO FORT SMITH AND RETURN                                                    $15.34
+DCOT20240453      05/25/2024  MCKENNA L NICHOLSON                                       STAFF TRANSPORTATION                                                               $23.60
+DCOT20240454      05/25/2024  MCKENNA L NICHOLSON               05/03/2024  05/03/2024  AIRFARE FOR V MOODY LITTLE ROCK TO WASHINGTON DC AND RETURN                        $29.50
+DCOT20240455      05/25/2024  BRITTANY HELEN PARKER                                     STAFF TRANSPORTATION                                                               $40.12
+DCOT20240456      05/25/2024  BRITTANY HELEN PARKER             05/07/2024  05/09/2024  CONWAY TO CABOT AND RETURN                                                         $73.16
+DCOT20240457      05/25/2024  BRITTANY HELEN PARKER                                     STAFF TRANSPORTATION                                                               $96.76
+DCOT20240458      05/30/2024  CAMERON JOSEPH BANDY              04/18/2024  04/18/2024  LITTLE ROCK TO NORTH LITTLE ROCK AND RETURN
+DCOT20240459      05/28/2024  CAMERON JOSEPH BANDY                                      STAFF TRANSPORTATION                                                             $243.67
+DCOT20240460      05/28/2024  DAVID R RIDER                     05/15/2024  05/15/2024  LITTLE ROCK TO CONWAY TO CONWAY                                                    $67.26
+DCOT20240461      05/28/2024  BRITTANY HELEN PARKER                                     STAFF TRANSPORTATION                                                               $82.60
+                  06/10/2024                                    05/07/2024  05/07/2024  LITTLE ROCK TO BENTON AND RETURN                                                   $71.98
+DCOT20240462                  BRITTANY HELEN PARKER                                     STAFF TRANSPORTATION                                                               $11.75
+DCOT20240463      05/28/2024  DAVID R RIDER                     05/10/2024  05/10/2024  LITTLE ROCK TO MAUMELLE, JACKSONVILLE AND RETURN
+DCOT20240464      06/07/2024  CAMERON JOSEPH BANDY                                      STAFF TRANSPORTATION                                                             $183.49
+DCOT20240465      06/10/2024  DAVID R RIDER                     05/14/2024  05/14/2024  CLARKSVILLE TO FORT SMITH AND RETURN                                               $93.81
+DCOT20240466      06/10/2024  DAVID R RIDER                                             STAFF TRANSPORTATION                                                               $63.13
+DCOT20240467      06/07/2024  JESSICA J. HART                   05/05/2024  05/05/2024  ROGERS TO FORT SMITH AND RETURN                                                    $55.46  B-987
+                  06/03/2024                                                            STAFF TRANSPORTATION                                                               $97.94
+                                                                05/06/2024  05/06/2024  ROGERS TO LITTLE ROCK AND RETURN                                                   $33.04
+                                                                                        STAFF TRANSPORTATION                                                               $40.32
+                                                                05/07/2024  05/07/2024  JONESBORO TO PEACH ORCHARD, RECTOR AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                             $335.29
+                                                                05/07/2024  05/07/2024  JONESBORO TO MEMPHIS TN AND RETURN                                            $1,205.19
+                                                                                        STAFF TRANSPORTATION
+                                                                05/08/2024  05/08/2024  ARKADELPHIA TO LITTLE ROCK AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                05/07/2024  05/07/2024  STAFF TRANSPORTATION
+                                                                                        ROGERS TO MENA AND RETURN
+                                                                05/15/2024  05/15/2024  STAFF TRANSPORTATION
+                                                                                        ROGERS TO FORT SMITH AND RETURN
+                                                                05/09/2024  05/09/2024  STAFF TRANSPORTATION
+                                                                05/09/2024  05/09/2024  ARKADELPHIA TO EAST CAMDEN AND RETURN
+                                                                05/10/2024  05/10/2024  STAFF TRANSPORTATION
+                                                                05/10/2024  05/10/2024  JONESBORO TO WYNNE AND RETURN
+                                                                05/13/2024  05/13/2024  STAFF TRANSPORTATION
+                                                                05/05/2024  05/07/2024  ARKADELPHIA TO TEXARKANA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ARKADELPHIA TO MALVERN AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ALEXANDRIA VA TO WASHINGTON DC, BENTONVILLE, FAYETTEVILLE, FORT
+                                                                                        SMITH, BENTONVILLE TO WASHINGTON DC
+

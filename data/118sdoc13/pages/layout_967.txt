@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DCRN20240300                  ANDREW HOUSTON HART                                       STAFF TRANSPORTATION                                                               $64.58
+DCRN20240301      04/05/2024  JOHN CORNYN                       START       END         AUSTIN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $1,762.25
+DCRN20240302      04/14/2024  TAYLOR D. PUENTE                                          SENATOR TRANSPORTATION
+DCRN20240303      04/10/2024  WILLIAM R DEWOODY                 10/10/2023  02/13/2024  WASHINGTON DC TO AUSTIN, SAN ANTONIO, HOUSTON, DALLAS, TYLER                       $14.75
+DCRN20240304                  DAVID D JAMES                                             AND RETURN                                                                       $261.90
+DCRN20240315      04/11/2024  DAVID D JAMES                     02/13/2024  02/25/2024  STAFF PER DIEM                                                                   $238.45
+DCRN20240316      04/16/2024  JILL E WYMAN                                              STAFF TRANSPORTATION
+DCRN20240321                  AUDREY J COOK                     03/20/2024  03/20/2024  SAN ANTONIO TO CORPUS CHRISTI AND RETURN                                           $61.48
+                  04/12/2024                                                            STAFF TRANSPORTATION                                                             $584.83
+DCRN20240322      04/18/2024                                    03/01/2024  03/31/2024  TYLER OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCRN20240323                                                    04/01/2024  04/01/2024  STAFF PER DIEM                                                                     $35.30
+DCRN20240325      04/22/2024                                                            STAFF TRANSPORTATION                                                               $13.01
+DCRN20240326                                                    04/03/2024  04/03/2024  AUSTIN TO DALLAS AND RETURN                                                      $137.35
+DCRN20240328                                                    04/02/2024  04/02/2024  STAFF TRANSPORTATION                                                               $62.34
+DCRN20240329                                                                            AUSTIN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $589.34
+DCRN20240330                                                    04/03/2024  04/07/2024  STAFF PER DIEM                                                                   $233.00
+DCRN20240331                                                                            STAFF TRANSPORTATION                                                               $40.00
+DCRN20240332      04/23/2024  WILLIAM R DEWOODY                 04/05/2024  04/05/2024  AUSTIN TO WACO AND RETURN                                                          $98.49  B-949
+DCRN20240345      04/26/2024  ANDREW HOUSTON HART               04/05/2024  04/06/2024  STAFF INCIDENTALS                                                                $221.01
+DCRN20240346      04/23/2024  MORGAN KATE JOHNSON               03/21/2024  03/21/2024  STAFF PER DIEM                                                                   $298.88
+                  04/23/2024  MORGAN KATE JOHNSON               04/02/2024  04/02/2024  STAFF TRANSPORTATION                                                             $223.78
+                  04/26/2024  ANDREA DANIELLE DOOLEY            03/28/2024  03/28/2024  WASHINGTON DC TO NEW YORK NY AND RETURN                                          $223.78
+                  04/26/2024  ANDREA DANIELLE DOOLEY            03/04/2024  03/22/2024  STAFF PER DIEM                                                                     $21.34
+                  04/25/2024  ANDREA DANIELLE DOOLEY            04/03/2024  04/03/2024  STAFF TRANSPORTATION                                                             $227.13
+                  04/30/2024  ANDREA DANIELLE DOOLEY            04/04/2024  04/05/2024  TYLER TO NACOGDOCHES AND RETURN                                                  $300.08
+                  04/24/2024  JOHN CORNYN                       03/23/2024  04/07/2024  STAFF PER DIEM
+                  05/03/2024  BRIAN J FLORES                    12/01/2023  12/31/2023  STAFF TRANSPORTATION                                                                $7.76
+                  05/16/2024  COURTNEY B YOUNG                  04/01/2024  04/05/2024  AUSTIN TO GRAND PRAIRIE AND RETURN                                               $245.22
+                                                                                        STAFF TRANSPORTATION                                                             $257.63
+                                                                                        LUBBOCK TO ABILENE AND RETURN                                                    $902.36
+                                                                                        STAFF TRANSPORTATION                                                          $2,155.10
+                                                                                        LUBBOCK TO ABILENE AND RETURN
+                                                                                        STAFF PER DIEM                                                                   $256.86
+                                                                                        STAFF TRANSPORTATION                                                               $97.65
+                                                                                        SAN ANTONIO TO CORPUS CHRISTI AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                             $805.53
+                                                                                        SAN ANTONIO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SAN ANTONIO TO CORPUS CHRISTI AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SAN ANTONIO TO EL PASO AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO AUSTIN, DALLAS, AUSTIN, TEMPLE, WACO, ABILENE,
+                                                                                        BUFFALO GAP, BROWNSVILLE, HARLINGEN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+

@@ -1,0 +1,43 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE  DESCRIPTION                                                           AMOUNT ($)
+                   POSTED                                                  DATES
+DWEL20240642                  CITIBANK - SENATOR IBA CARD                                                                                                                 $293.10
+                  09/26/2024  CITIBANK - SENATOR IBA CARD       START       END
+DWEL20240643      09/26/2024  PETER WELCH                                                                                                                                 $293.10
+                  09/30/2024  PETER WELCH                       09/09/2024   09/09/2024 SENATOR TRANSPORTATION
+DWEL20240652      09/30/2024                                                                      AIRFARE FOR SEN WELCH BURLINGTON TO WASHINGTON DC                         $13.99
+                                                                09/16/2024
+DWEL20240653      05/14/2024  SERGEANT AT ARMS                               09/16/2024 SENATOR TRANSPORTATION                                                              $59.66  B-2628
+                  06/27/2024  SERGEANT AT ARMS                  09/24/2024                        AIRFARE FOR SEN WELCH BURLINGTON TO WASHINGTON DC
+0002853717        04/26/2024  MICHELLE M MONROE                                                                                                                       $84,420.85
+0002855915        05/14/2024  CITIBANK - PURCHASE CARD          09/19/2024   09/24/2024 SENATOR TRANSPORTATION
+DWEL20240269      06/04/2024  JAMES BENSON MCNERNEY                                               WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                    $10.00
+DWEL20240292      06/25/2024  MICHELLE M MONROE                 03/01/2024                                                                                                   $3.00
+DWEL20240327      07/02/2024  JAMES BENSON MCNERNEY             05/01/2024   09/19/2024 SENATOR TRANSPORTATION
+DWEL20240411      06/25/2024  FAUNA S HURLEY                    03/19/2024                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                    $53.34
+DWEL20240430      06/26/2024  MICHELLE M MONROE                 04/19/2024                                                                                                  $49.99
+DWEL20240433      06/28/2024  AMANDA A THORPE                   05/03/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                            $55.00
+DWEL20240447      07/29/2024  BROOKE S GRAMS                    05/20/2024                                                                                                $101.62
+DWEL20240479      08/07/2024  MARSH PALIN                       06/01/2024   03/31/2024 FEDERAL AUDIO, VISUAL RECORDNG                                                    $275.00
+DWEL20240500      08/23/2024  MICHELLE M MONROE                 06/05/2024   05/31/2024 FEDERAL AUDIO, VISUAL RECORDNG                                                      $48.61
+DWEL20240535      08/29/2024  USCRI VERMONT                     06/03/2024   03/19/2024 TRAIN/ORIENT/CONFERENCE FEES                                                        $90.00
+DWEL20240554      09/18/2024  MICHELLE M MONROE                 12/07/2023   04/19/2024 TRAIN/ORIENT/CONFERENCE FEES                                                      $200.00
+DWEL20240568                                                    06/13/2024   05/03/2024 TRAIN/ORIENT/CONFERENCE FEES                                                        $80.00
+DWEL20240601      05/14/2024  SERGEANT AT ARMS                  01/12/2024   05/21/2024 TRAIN/ORIENT/CONFERENCE FEES                                                        $63.59
+                  09/13/2024  SERGEANT AT ARMS                  07/25/2024   06/04/2024 TRAIN/ORIENT/CONFERENCE FEES                                                        $25.00
+0002854033        09/13/2024  SERGEANT AT ARMS                  06/12/2024   06/05/2024 TRAIN/ORIENT/CONFERENCE FEES                                                        $50.00
+0002859207        09/25/2024  SERGEANT AT ARMS                  08/06/2024   06/06/2024 TRAIN/ORIENT/CONFERENCE FEES                                                        $51.75
+0002859260        07/29/2024  REBECCA M ELLIS                                12/07/2023 TRAIN/ORIENT/CONFERENCE FEES                                                   $1,156.90
+0002859998                                                      03/01/2024   06/14/2024 TRAIN/ORIENT/CONFERENCE FEES
+DWEL20240520                                                    03/01/2024   01/12/2024 TRAIN/ORIENT/CONFERENCE FEES                                                      $197.00
+                                                                07/01/2024   07/25/2024 TRAIN/ORIENT/CONFERENCE FEES                                                     -$197.00
+                                                                08/01/2024   06/12/2024 FOREIGN TRANSLATION SERVICES                                                   $2,597.84
+                                                                07/22/2024   08/06/2024 TRAIN/ORIENT/CONFERENCE FEES                                                   $2,899.92
+                                                                            OTHER CONTRACTUAL SERVICES
+                                                                                                                                                                            $53.45
+                                                                             03/31/2024 SOFTWARE LICENSE                                                               $5,551.21
+                                                                             03/31/2024 SOFTWARE LICENSE
+                                                                             07/31/2024 VOICE & DATA COMM EQUIPMENT
+                                                                             08/31/2024 VOICE & DATA COMM EQUIPMENT
+                                                                             07/22/2024 AUDIO, VISUAL EQUIPMENT
+                                                                            ACQUISITION OF ASSETS
+

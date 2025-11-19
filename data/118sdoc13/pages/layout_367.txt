@@ -1,0 +1,56 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                           DATES
+VSAA22404796       POSTED     JOHNSON CONTROLS                                          AUDIO, VISUAL EQUIP MAINT                                                  $184.13
+VSAA22404797                  JOHNSON CONTROLS                  START       END         AUDIO, VISUAL EQUIP MAINT                                                  $328.31
+VSAA22404798      06/05/2024  JOHNSON CONTROLS                                          AUDIO, VISUAL EQUIP MAINT                                                  $184.13
+VSAA22404799      06/05/2024  JOHNSON CONTROLS                  11/29/2022  11/29/2022  AUDIO, VISUAL EQUIP MAINT                                                  $209.03  B-349
+VSAA22404800      06/05/2024  JOHNSON CONTROLS                  11/08/2022  11/08/2022  AUDIO, VISUAL EQUIP MAINT                                                  $233.93
+VSAA22404801      06/05/2024  JOHNSON CONTROLS                  11/02/2022  11/02/2022  AUDIO, VISUAL EQUIP MAINT                                                  $245.08
+VSAA22404802      06/05/2024  JOHNSON CONTROLS                  11/15/2022  11/15/2022  AUDIO, VISUAL EQUIP MAINT                                                  $328.31
+VSAA22404803      06/05/2024  JOHNSON CONTROLS                  11/29/2022  11/29/2022  AUDIO, VISUAL EQUIP MAINT                                                  $328.31
+VSAA22404804      06/05/2024  JOHNSON CONTROLS                  11/15/2022  11/15/2022  AUDIO, VISUAL EQUIP MAINT                                                  $364.36
+VSAA22404805      06/05/2024  JOHNSON CONTROLS                  11/29/2022  11/29/2022  AUDIO, VISUAL EQUIP MAINT                                                  $386.41
+VSAA22404806      06/05/2024  JOHNSON CONTROLS                  11/29/2022  11/29/2022  AUDIO, VISUAL EQUIP MAINT                                                  $400.40
+VSAA22404807      06/05/2024  JOHNSON CONTROLS                  11/28/2022  11/28/2022  AUDIO, VISUAL EQUIP MAINT                                                  $433.61
+VSAA22404808      06/05/2024  JOHNSON CONTROLS                  11/04/2022  11/04/2022  AUDIO, VISUAL EQUIP MAINT                                                  $472.49
+VSAA22404809      06/05/2024  JOHNSON CONTROLS                  11/29/2022  11/29/2022  AUDIO, VISUAL EQUIP MAINT                                                  $472.49
+VSAA22404810      06/05/2024  JOHNSON CONTROLS                  11/14/2022  11/14/2022  AUDIO, VISUAL EQUIP MAINT                                                  $472.49
+VSAA22404811      06/05/2024  JOHNSON CONTROLS                  11/14/2022  11/14/2022  AUDIO, VISUAL EQUIP MAINT                                                  $508.54
+VSAA22404812      06/05/2024  JOHNSON CONTROLS                  11/02/2022  11/02/2022  AUDIO, VISUAL EQUIP MAINT                                                  $544.58
+VSAA22404813      06/05/2024  JOHNSON CONTROLS                  11/29/2022  11/29/2022  AUDIO, VISUAL EQUIP MAINT                                                  $580.63
+VSAA22404814      06/06/2024  JOHNSON CONTROLS                  11/29/2022  11/29/2022  AUDIO, VISUAL EQUIP MAINT                                                  $616.67
+VSAA22404815      06/06/2024  JOHNSON CONTROLS                  11/15/2022  11/15/2022  AUDIO, VISUAL EQUIP MAINT                                                  $666.47
+VSAA22404816      06/06/2024  JOHNSON CONTROLS                  11/17/2022  11/17/2022  AUDIO, VISUAL EQUIP MAINT                                                  $724.81
+VSAA22404817      05/30/2024  JOHNSON CONTROLS                  11/22/2022  11/22/2022  AUDIO, VISUAL EQUIP MAINT                                                  $905.03
+VSAA22404818      06/06/2024  JOHNSON CONTROLS                  11/01/2022  11/01/2022  AUDIO, VISUAL EQUIP MAINT                                                  $941.08
+VSAA22404819      06/06/2024  JOHNSON CONTROLS                  11/09/2022  11/09/2022  AUDIO, VISUAL EQUIP MAINT                                               $1,049.21
+VSAA22404820      06/05/2024  JOHNSON CONTROLS                  11/04/2022  11/04/2022  AUDIO, VISUAL EQUIP MAINT                                               $1,193.39
+VSAA22404844      06/05/2024  JOHNSON CONTROLS                  11/15/2022  11/15/2022  AUDIO, VISUAL EQUIP MAINT                                                  $184.13
+VSAA22404845      06/06/2024  JOHNSON CONTROLS                  11/17/2022  11/17/2022  AUDIO, VISUAL EQUIP MAINT                                                  $209.03
+VSAA22404846      06/03/2024  JOHNSON CONTROLS                  11/14/2022  11/14/2022  AUDIO, VISUAL EQUIP MAINT                                                  $220.18
+VSAA22404847      06/04/2024  JOHNSON CONTROLS                  12/15/2022  12/15/2022  AUDIO, VISUAL EQUIP MAINT                                                  $236.78
+VSAA22404848      06/04/2024  JOHNSON CONTROLS                  12/15/2022  12/15/2022  AUDIO, VISUAL EQUIP MAINT                                                  $255.05
+VSAA22404849      06/05/2024  JOHNSON CONTROLS                  12/16/2022  12/16/2022  AUDIO, VISUAL EQUIP MAINT                                                  $256.22
+VSAA22404850      06/04/2024  JOHNSON CONTROLS                  12/08/2022  12/08/2022  AUDIO, VISUAL EQUIP MAINT                                                  $256.22
+VSAA22404851      06/05/2024  JOHNSON CONTROLS                  12/22/2022  12/22/2022  AUDIO, VISUAL EQUIP MAINT                                                  $256.22
+VSAA22404853      06/04/2024  JOHNSON CONTROLS                  12/22/2022  12/22/2022  AUDIO, VISUAL EQUIP MAINT                                                  $328.31
+VSAA22404854      06/05/2024  JOHNSON CONTROLS                  12/21/2022  12/21/2022  AUDIO, VISUAL EQUIP MAINT                                                  $292.27
+VSAA22404855      06/05/2024  JOHNSON CONTROLS                  12/12/0222  12/12/2022  AUDIO, VISUAL EQUIP MAINT                                                  $328.31
+VSAA22404856      05/31/2024  JOHNSON CONTROLS                  12/28/2022  12/28/2022  AUDIO, VISUAL EQUIP MAINT                                                  $328.31
+VSAA22404857      06/05/2024  JOHNSON CONTROLS                  12/09/2022  12/09/2022  AUDIO, VISUAL EQUIP MAINT                                                  $328.31
+VSAA22404858      06/04/2024  JOHNSON CONTROLS                  12/14/2022  12/14/2022  AUDIO, VISUAL EQUIP MAINT                                                  $364.36
+VSAA22404859      06/04/2024  JOHNSON CONTROLS                  12/14/2022  12/14/2022  AUDIO, VISUAL EQUIP MAINT                                                  $364.36
+VSAA22404860      06/05/2024  JOHNSON CONTROLS                  12/15/2022  12/15/2022  AUDIO, VISUAL EQUIP MAINT                                                  $400.40
+VSAA22404861      06/04/2024  JOHNSON CONTROLS                  12/09/2022  12/09/2022  AUDIO, VISUAL EQUIP MAINT                                                  $400.40
+VSAA22404862      06/04/2024  JOHNSON CONTROLS                  12/13/2022  12/13/2022  AUDIO, VISUAL EQUIP MAINT                                                  $400.40
+VSAA22404863      06/05/2024  JOHNSON CONTROLS                  12/16/2022  12/16/2022  AUDIO, VISUAL EQUIP MAINT                                                  $400.40
+VSAA22404864      06/04/2024  JOHNSON CONTROLS                  12/24/2022  12/24/2022  AUDIO, VISUAL EQUIP MAINT                                                  $400.40
+VSAA22404865      06/05/2024  JOHNSON CONTROLS                  12/19/2022  12/19/2022  AUDIO, VISUAL EQUIP MAINT                                                  $432.12
+VSAA22404866      06/04/2024  JOHNSON CONTROLS                  12/07/2022  12/07/2022  AUDIO, VISUAL EQUIP MAINT                                                  $436.45
+VSAA22404867      05/31/2024  JOHNSON CONTROLS                  12/12/2022  12/12/2022  AUDIO, VISUAL EQUIP MAINT                                                  $400.40
+VSAA22404868      06/05/2024  JOHNSON CONTROLS                  12/05/2022  12/05/2022  AUDIO, VISUAL EQUIP MAINT                                                  $580.63
+VSAA22404869      06/05/2024  JOHNSON CONTROLS                  12/08/2022  12/08/2022  AUDIO, VISUAL EQUIP MAINT                                                  $544.58
+                  06/04/2024                                    12/09/2022  12/09/2022
+                  06/04/2024                                    12/21/2022  12/21/2022
+                                                                12/16/2022  12/16/2022
+

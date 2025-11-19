@@ -1,0 +1,58 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME   OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                            DATES
+VSAA22407706       POSTED     YIS UPHOLSTERY INTERIORS                                   FURNISHINGS MAINT                                                       $1,110.00
+VSAA22407736                  KONICA MINOLTA BUSINESS SOLUTIONS  START       END         PRODUCTION EQUIP MAINT                                                  $5,784.00
+VSAA22407749      08/22/2024  CARAHSOFT TECHNOLOGY CORPORATION                           APPLICATION SOFTWARE MAINT                                             $45,180.00
+VSAA22407759      08/28/2024  FOXHEDGE LTD.                      10/17/2023  10/17/2023  TRAIN/ORIENT/CONFERENCE FEES                                            $2,250.00    B-434
+VSAA22407760      08/22/2024  ZEALOUS LLC                        07/01/2024  07/31/2024  APPLICATION SOFTWARE MAINT                                              $1,500.00
+VSAA22407765      09/11/2024  PEOPLE STAFF TECHNOLOGIES LLC      07/15/2024  07/14/2025  TECHNICAL SUPPORT                                                       $4,185.00
+VSAA22407772      08/23/2024  PERATON INC.                       07/01/2024  07/31/2024  TECHNICAL SUPPORT                                                    $149,734.54
+VSAA22407811      08/28/2024  MARYLAND ENVIRONMENTAL SERVICE     07/31/2024  07/31/2024  SERVICE CHARGES & OTHER FEES
+VSAA22407837      08/22/2024  D. JOS. BRENDEL, LLC               08/05/2024  08/09/2024  FURNISHINGS MAINT                                                            $16.32
+VSAA22407858      09/03/2024  ALLIANCE MATERIAL HANDLING INC     10/13/2023  10/13/2023  PRODUCTION EQUIP MAINT                                                  $7,646.00
+VSAA22407859      09/04/2024  ALLIANCE MATERIAL HANDLING INC     07/03/2024  07/03/2024  PRODUCTION EQUIP MAINT
+VSAA22407860      09/11/2024  ANIXTER INC                        08/06/2024  08/06/2024  VOICE, DATA COMM EQP MAINT                                                 $805.43
+VSAA22407876      09/11/2024  MASLOW MEDIA GROUP INC             10/10/2023  10/10/2023  TECHNICAL SUPPORT                                                          $305.43
+VSAA22407896      09/12/2024  CARAHSOFT TECHNOLOGY CORPORATION   10/10/2023  10/10/2023  APPLICATION SOFTWARE MAINT                                                 $671.40
+VSAA22407903      09/03/2024  APPLIED ENVIRONMENTAL, INC.        10/23/2023  10/23/2023  STUDIES, ANALYSES, & EVALS                                                 $550.00
+VSAA22407904      08/22/2024  APPLIED ENVIRONMENTAL, INC.        11/09/2023  11/09/2023  STUDIES, ANALYSES, & EVALS                                             $70,801.61
+VSAA22407908      09/11/2024  FEDERAL RESERVE BANK OF ST. LOUIS  07/01/2024  07/31/2024  FED FEES - FIN, CONTRACT, ADM                                           $6,560.69
+VSAA22407910      09/11/2024  BATTERY LIFE, LLC                  08/19/2024  08/19/2024  VOICE, DATA COMM EQP MAINT                                              $4,314.38
+VSAA22407913      09/04/2024  PERATON ENTERPRISE SOLUTIONS       08/19/2024  08/19/2024  TECHNICAL SUPPORT                                                       $2,445.00
+VSAA22407914      09/11/2024  ATLANTIC GRAPHIC SYSTEMS INC       04/01/2024  06/30/2024  PRODUCTION EQUIP MAINT                                                  $3,800.00
+VSAA22407915      09/09/2024  D. JOS. BRENDEL, LLC               07/22/2024  07/22/2024  FURNISHINGS MAINT                                                    $121,246.49
+VSAA22407920      09/12/2024  METRO PRINTING EQUIPMENT INC       04/02/2024  04/02/2024  PRODUCTION EQUIP MAINT                                                     $295.00
+VSAA22407943      09/23/2024  YIS UPHOLSTERY INTERIORS           10/11/2023  10/11/2023  FURNISHINGS MAINT                                                       $5,094.00
+VSAA22407963      09/12/2024  VISION TECHNOLOGIES, LLC           09/06/2024  09/06/2024  VOICE, DATA COMM EQP MAINT                                                 $182.40
+VSAA22407964      09/06/2024  CONVEYOR HANDLING CO INC           08/08/2024  08/08/2024  PRODUCTION EQUIP MAINT                                                  $2,140.00
+VSAA22408000      09/23/2024  PEOPLE STAFF TECHNOLOGIES LLC      10/17/2023  10/17/2023  TECHNICAL SUPPORT                                                    $114,900.86
+VSAA22408011      09/19/2024  HARTING ASSOCIATES INC             10/01/2023  09/30/2024  APPLICATION SOFTWARE MAINT                                              $1,600.00
+VSAA22408032      09/10/2024  THIRDERA LLC                       11/06/2023  11/06/2023  APPLICATION SOFTWARE MAINT                                              $4,500.00
+VSAA22408037      09/12/2024  SUPPRESSION SYSTEMS INC            08/12/2024  08/16/2024  PRODUCTION EQUIP MAINT                                                  $2,690.00
+VSAA22408040      09/12/2024  DEPARTMENT OF HOMELAND SECURITY    06/06/2024  06/06/2024  FEDERAL - MONITOR, GUARD SVC                                           $58,204.58
+VSAA22408043      09/21/2024  PEOPLE STAFF TECHNOLOGIES LLC      08/01/2024  08/31/2024  TECHNICAL SUPPORT                                                       $1,955.00
+VSAA22408055      09/17/2024  CRUNCHY DATA SOLUTIONS, INC        10/23/2023  10/23/2023  APPLICATION SOFTWARE MAINT                                             $63,805.83
+VSAA22408056      09/19/2024  CRUNCHY DATA SOLUTIONS, INC        08/01/2024  08/31/2024  APPLICATION SOFTWARE MAINT                                              $4,440.00
+VSAA22408085      09/11/2024  ANIXTER INC                        08/19/2024  08/23/2024  VOICE, DATA COMM EQP MAINT                                             $33,250.00
+VSAA22408095      09/11/2024  EAGLE FOLDER SERVICE               09/07/2024  09/06/2025  PRODUCTION EQUIP MAINT                                                 $21,159.60
+VSAA22408096      09/15/2024  FLEXIBLE INFORMATION SYSTEMS INC   09/07/2024  09/06/2025  APPLICATION SOFTWARE MAINT
+VSAA22408104      09/12/2024  KODAK ALARIS INC                   10/23/2023  10/23/2023  VOICE, DATA COMM EQP MAINT                                                   $39.98
+                  09/12/2024  SPECIAL AEROSPACE SECURITY         08/20/2024  08/20/2024                                                                          $1,620.00
+VSAA22408109      09/20/2024  SERVICES, INC                      08/22/2024  08/22/2024  MANAGEMENT CONSULTANTS                                                  $4,200.00
+                              SPECIAL AEROSPACE SECURITY         10/01/2024  09/30/2026                                                                          $6,351.70
+VSAA22408110      09/19/2024  SERVICES, INC                                              IT SECURITY
+                              ACCUZIP, INC.                      07/13/2024  08/12/2024                                                                       $243,749.68
+VSAA22408116      09/19/2024  TRUE ZERO TECHNOLOGIES LLC                                 APPLICATION SOFTWARE MAINT
+VSAA22408127                  LEIDOS DIGITAL SOLUTIONS INC       07/13/2024  08/12/2024  APPLICATION SOFTWARE MAINT                                             $53,588.44
+VSAA22408141      09/19/2024  LEIDOS DIGITAL SOLUTIONS INC                               APPLICATION SOFTWARE MAINT
+VSAA22408142      09/15/2024  LEIDOS DIGITAL SOLUTIONS INC       10/01/2024  09/30/2025  APPLICATION SOFTWARE MAINT                                             $14,128.00
+VSAA22408143      09/15/2024  LEIDOS DIGITAL SOLUTIONS INC       07/22/2024  10/17/2024  APPLICATION SOFTWARE MAINT                                              $2,823.90
+VSAA22408145      09/15/2024  SPECIAL AEROSPACE SECURITY         07/01/2024  07/31/2024  APPLICATION SOFTWARE MAINT                                                   $30.00
+                  09/21/2024  SERVICES, INC                      07/01/2024  07/31/2024                                                                               $31.00
+VSAA22408151      09/21/2024  SPECIAL AEROSPACE SECURITY         07/01/2024  07/31/2024  MANAGEMENT CONSULTANTS                                                     $155.00
+                              SERVICES, INC                      07/01/2024  07/31/2024                                                                               $93.00
+VSAA22408152      09/19/2024                                                             IT SECURITY
+                                                                 07/13/2024  08/12/2024                                                                         $31,853.70
+                  09/19/2024
+                                                                 07/09/2024  08/08/2024                                                                         $26,975.67
+

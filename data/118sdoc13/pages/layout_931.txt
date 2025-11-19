@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                             DATES
+DCOL20240633                                                                      AIRFARE FOR SEN COLLINS WASHINGTON DC TO BANGOR                               $221.10
+DCOL20240634                                              START       END         SENATOR TRANSPORTATION                                                          $80.00
+DCOL20240635                                                                      TICKET FEES
+DCOL20240636      07/01/2024  CITIBANK - TRAVEL CBA CARD  06/10/2024  06/10/2024  AIRFARE FOR SEN COLLINS BANGOR TO WASHINGTON DC                               $221.10
+                  06/27/2024  CITIBANK - TRAVEL CBA CARD                          SENATOR TRANSPORTATION                                                          $40.00
+                  07/02/2024  HALSEY B FRANK              06/13/2024  06/13/2024  TICKET FEES                                                                     $69.30
+                  07/12/2024  MOLLY FRANCES ROSS                                  AIRFARE FOR SEN COLLINS WASHINGTON DC TO BANGOR                                 $81.27
+                                                          06/13/2024  06/13/2024  STAFF TRANSPORTATION
+                                                          06/14/2024  06/20/2024  PORTLAND TO BRUNSWICK, EAST BOOTHBAY AND RETURN                               $870.00
+                                                                                  STAFF INCIDENTALS                                                          $1,024.16
+DCOL20240637      07/08/2024  STEVEN W ABBOTT             06/17/2024  06/20/2024  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION                                                          $123.45
+DCOL20240638      07/02/2024  ALLYSON M CAVARETTA         06/15/2024  06/15/2024  WASHINGTON DC TO PORTLAND, BAR HARBOR, SOUTH PORTLAND,                        $808.10   B-913
+DCOL20240639      07/02/2024  ALLYSON M CAVARETTA         06/16/2024  06/16/2024  PORTLAND AND RETURN
+DCOL20240640      07/02/2024  ALLYSON M CAVARETTA         06/20/2024  06/20/2024  STAFF INCIDENTALS                                                               $80.00
+DCOL20240641      07/02/2024  ALLYSON M CAVARETTA         06/17/2024  06/17/2024  STAFF PER DIEM                                                                $597.20
+DCOL20240642      07/15/2024  ALLYSON M CAVARETTA         06/18/2024  06/18/2024  STAFF TICKET FEES
+DCOL20240643      07/02/2024  ALLYSON M CAVARETTA         06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                            $27.50
+                                                                                  PORTLAND TO WASHINGTON DC AND RETURN                                            $77.00
+DCOL20240644      07/09/2024  HALSEY B FRANK              06/26/2024  06/26/2024  STAFF TRANSPORTATION                                                            $39.60
+DCOL20240645      07/16/2024  ALLYSON M CAVARETTA         06/24/2024  06/24/2024  AUGUSTA TO WATERVILLE AND RETURN                                                $14.25
+DCOL20240646      07/16/2024  ALLYSON M CAVARETTA         06/25/2024  06/25/2024  STAFF TRANSPORTATION                                                            $14.25
+DCOL20240647      07/08/2024  ALLYSON M CAVARETTA         05/31/2024  05/31/2024  AUGUSTA TO WATERVILLE, SOUTH PORTLAND AND RETURN                                $83.60
+DCOL20240663      07/15/2024  JACQUELINE E MUNDRY         06/22/2024  06/27/2024  STAFF TRANSPORTATION
+                                                                                  AUGUSTA TO FAYETTE AND RETURN                                                   $18.70
+DCOL20240664      07/15/2024  HALSEY B FRANK              06/28/2024  06/28/2024  STAFF TRANSPORTATION                                                            $14.00
+DCOL20240665      07/15/2024  HALSEY B FRANK              07/01/2024  07/01/2024  AUGUSTA TO BIDDEFORD AND RETURN                                                 $14.00
+DCOL20240666      07/11/2024  CARLENE TREMBLAY            05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                            $14.25
+                                                                                  AUGUSTA TO BIDDEFORD AND RETURN                                                 $28.89
+                                                                                  STAFF TRANSPORTATION                                                          $596.29
+                                                                                  AUGUSTA TO CLINTON, PITTSFIELD, HARTLAND, MADISON, SKOWHEGAN                  $424.60
+                                                                                  AND RETURN
+                                                                                  STAFF TRANSPORTATION                                                            $11.00
+                                                                                  PORTLAND TO FREEPORT AND RETURN                                                 $24.00
+                                                                                  STAFF TRANSPORTATION                                                            $22.00
+                                                                                  AUGUSTA TO BIDDEFORD AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AUGUSTA TO BIDDEFORD AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AUGUSTA TO BIDDEFORD AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO BOSTON MA, BANGOR, LEWISTON, BOSTON MA AND
+                                                                                  RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PORTLAND TO GORHAM AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PORTLAND TO SACO AND RETURN
+                                                                                  STAFF TRANSPORTATION
+

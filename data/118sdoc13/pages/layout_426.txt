@@ -1,0 +1,59 @@
+DOCUMENT NO.    DATE      PAYEE NAME                 OBLIGATION/SERVICE      DESCRIPTION                                                  AMOUNT ($)
+              POSTED                                            DATES
+                                                                                                                                                          $522.00
+                                                     START       END
+                                                                                                                                                            $56.94
+DSAA24M54246  09/27/2024  EDGAR F BELL II            09/03/2024                        STAFF PER DIEM                                                     $438.00   B-408
+              09/27/2024  AARON J VANCE                                                WASHINGTON DC TO RESTON VA AND RETURN
+DSAA24M54247  09/26/2024  GREGGORY M BRUNCLIK        09/02/2024   09/05/2024 STAFF INCIDENTALS                                                            $107.38
+              09/27/2024  JEREMY J POWELL                                              STAFF PER DIEM                                                     $826.00
+DSAA24M54248  09/26/2024  CHRISTOPHER B MCDONALD     09/03/2024                        WASHINGTON DC TO RESTON VA AND RETURN
+              09/26/2024  JACQUELINE R.M. BAUER                   09/06/2024 STAFF INCIDENTALS                                                              $19.86
+DSAA24M54249  09/26/2024  TODD E SNIFFIN             09/03/2024                        STAFF PER DIEM                                                     $124.14
+              09/27/2024  WILLIAM L KITZMILLER                                         WALDORF MD TO RESTON VA TO WASHINGTON DC
+DSAA24M54250                                         09/03/2024   09/04/2024 STAFF INCIDENTALS                                                              $52.96
+                                                                                       STAFF PER DIEM                                                     $407.34
+DSAA24M54251                                         09/02/2024                        WASHINGTON DC TO HERNDON VA AND RETURN
+                                                                  09/05/2024 STAFF INCIDENTALS                                                              $57.45
+DSAA24M54252                                         09/02/2024                        STAFF PER DIEM                                                     $393.00
+                                                                                       CAPITOL HEIGHTS MD TO RESTON VA AND RETURN
+DSAA24M54253                                         09/02/2024   09/05/2024 STAFF INCIDENTALS                                                              $20.54
+                                                                                       STAFF PER DIEM                                                     $158.00
+0002852539                                           02/01/2024                        WASHINGTON DC TO RESTON VA, HERNDON VA AND RETURN
+0002852540                                           02/01/2024   09/03/2024 STAFF INCIDENTALS                                                            $107.38
+0002852541                                           02/01/2024                        STAFF PER DIEM                                                     $826.00
+0002853722                                           03/01/2024                        FREDERICK MD TO RESTON VA AND RETURN
+0002853724                                           03/01/2024   09/06/2024 STAFF INCIDENTALS                                                              $76.31
+0002853725                                           03/01/2024                        STAFF PER DIEM                                                     $587.00
+0002854424                                           04/01/2024                        SILVER SPRING TO RESTON VA AND RETURN
+0002854425                                           04/01/2024   09/05/2024 STAFF INCIDENTALS                                                      $365,071.31
+0002855034                                           06/01/2024                        STAFF PER DIEM
+0002855919                                           05/01/2024                        WALDORF TO RESTON VA TO WASHINGTON DC                                 $8.50
+0002855920                                           05/01/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                       $56.50
+0002856209                                           07/01/2024                                                                                             $20.80
+0002857274    04/18/2024  SERGEANT AT ARMS           06/01/2024  02/29/2024  FEDERAL AUDIO, VISUAL RECORDNG                                               $120.00
+0002857275    04/18/2024  SERGEANT AT ARMS           06/01/2024  02/29/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                 $30.00
+0002857276    04/18/2024  SERGEANT AT ARMS           06/01/2024  02/29/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                 $22.20
+0002858840    05/14/2024  SERGEANT AT ARMS           07/01/2024  03/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                 $39.00
+0002858841    05/14/2024  SERGEANT AT ARMS           07/01/2024  03/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                 $70.00
+0002858842    05/14/2024  SERGEANT AT ARMS           07/01/2024  03/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                           -$3,488.00
+0002859858    05/23/2024  SERGEANT AT ARMS           08/01/2024  04/30/2024  FEDERAL AUDIO, VISUAL RECORDNG
+0002859859    05/23/2024  SERGEANT AT ARMS           08/01/2024  04/30/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                  $1.00
+0002859861    06/07/2024  FINANCIAL CLERK US SENATE  08/01/2024  06/30/2024  TRAIN/ORIENT/CONFERENCE FEES                                                 $100.00
+0002859862    06/27/2024  SERGEANT AT ARMS           08/01/2024  05/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                           -$1,350.00
+              06/27/2024  SERGEANT AT ARMS                       05/31/2024  FEDERAL AUDIO, VISUAL RECORDNG
+              07/08/2024  FINANCIAL CLERK US SENATE              07/31/2024  TRAIN/ORIENT/CONFERENCE FEES                                                   $30.00
+              08/07/2024  SERGEANT AT ARMS                       06/30/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                  $9.00
+              08/07/2024  SERGEANT AT ARMS                       06/30/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                  $5.85
+              08/07/2024  SERGEANT AT ARMS                       06/30/2024  FEDERAL AUDIO, VISUAL RECORDNG
+              09/13/2024  SERGEANT AT ARMS                       07/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                 $10.00
+              09/13/2024  SERGEANT AT ARMS                       07/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                               $360.00
+              09/13/2024  SERGEANT AT ARMS                       07/31/2024  FEDERAL AUDIO, VISUAL RECORDNG
+              09/25/2024  SERGEANT AT ARMS                       08/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                  $3.00
+              09/25/2024  SERGEANT AT ARMS                       08/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                 $60.00
+              09/25/2024  SERGEANT AT ARMS                       08/31/2024  FEDERAL AUDIO, VISUAL RECORDNG
+              09/25/2024  SERGEANT AT ARMS                       08/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                  $8.00
+                                                                                                                                                            $90.00
+
+                                                                                                                                                             $3.00
+

@@ -1,0 +1,58 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME    OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                             DATES
+DSAA24M54059       POSTED     CITIBANK - PURCHASE CARD                                    TRANSPORTATION EQUIP MAINT                                                   $47.92
+DSAA24M54060                  CITIBANK - PURCHASE CARD            START       END         TRAIN/ORIENT/CONFERENCE FEES                                               $150.00
+DSAA24M54067      09/16/2024  CITIBANK - PURCHASE CARD                                    TRANSPORTATION EQUIP MAINT
+DSAA24M54070      09/17/2024  CITIBANK - PURCHASE CARD            08/26/2024  08/26/2024  TRANSPORTATION EQUIP MAINT                                                   $37.66  B-425
+DSAA24M54071      09/16/2024  CITIBANK - PURCHASE CARD            09/05/2024  09/05/2024  TRANSPORTATION EQUIP MAINT                                                 $106.25
+DSAA24M54090      09/18/2024  CITIBANK - PURCHASE CARD            09/05/2024  09/05/2024  TRAIN/ORIENT/CONFERENCE FEES
+DSAA24M54091      09/18/2024  CITIBANK - PURCHASE CARD            09/05/2024  09/05/2024  TRAIN/ORIENT/CONFERENCE FEES                                                 $83.43
+DSAA24M54099      09/18/2024  CITIBANK - PURCHASE CARD            09/05/2024  09/05/2024  TRAIN/ORIENT/CONFERENCE FEES                                               $135.00
+DSAA24M54101      09/18/2024  CITIBANK - PURCHASE CARD            09/09/2024  09/09/2024  TRAIN/ORIENT/CONFERENCE FEES
+DSAA24M54111      09/18/2024  CITIBANK - PURCHASE CARD            09/06/2024  09/06/2024  TRANSPORTATION EQUIP MAINT                                                   $50.00
+DSAA24M54124      09/20/2024  CITIBANK - PURCHASE CARD            09/05/2024  09/05/2024  TRAIN/ORIENT/CONFERENCE FEES                                                 $50.00
+DSAA24M54165      09/20/2024  CITIBANK - PURCHASE CARD            09/05/2024  09/05/2024  TRANSPORTATION EQUIP MAINT                                              $1,900.10
+DSAA24M54170      09/24/2024  CITIBANK - PURCHASE CARD            09/11/2024  09/11/2024  TRAIN/ORIENT/CONFERENCE FEES                                               $435.70
+DSAA24M54172      09/20/2024  CITIBANK - PURCHASE CARD            09/04/2024  09/04/2024  TRANSPORTATION EQUIP MAINT                                                 $295.00
+DSAA24M54173      09/24/2024  CITIBANK - PURCHASE CARD            09/13/2024  09/13/2024  TRANSPORTATION EQUIP MAINT                                                   $75.53
+DSAA24M54174      09/21/2024  CITIBANK - PURCHASE CARD            09/12/2024  09/12/2024  TRANSPORTATION EQUIP MAINT                                              $3,700.00
+DSAA24M54175      09/21/2024  CITIBANK - PURCHASE CARD            09/10/2024  09/10/2024  TRANSPORTATION EQUIP MAINT                                                   $22.00
+DSAA24M54179      09/20/2024  JENNIFER A HEMINGWAY                08/21/2024  08/21/2024  TRAIN/ORIENT/CONFERENCE FEES                                                 $12.00
+DSAA24M54187      09/20/2024  CITIBANK - PURCHASE CARD            09/10/2024  09/10/2024  TRANSPORTATION EQUIP MAINT                                                   $65.26
+DSAA24M54188      09/19/2024  CITIBANK - PURCHASE CARD            09/05/2024  09/05/2024  TRANSPORTATION EQUIP MAINT                                                   $59.52
+DSAA24M54189      09/24/2024  CITIBANK - PURCHASE CARD            08/11/2024  08/15/2024  TRANSPORTATION EQUIP MAINT                                                 $294.54
+DSAA24M54190      09/24/2024  CITIBANK - PURCHASE CARD            08/09/2024  08/09/2024  TRANSPORTATION EQUIP MAINT                                                   $84.16
+DSAA24M54196      09/24/2024  CITIBANK - PURCHASE CARD            08/03/2024  08/29/2024  TRANSPORTATION EQUIP MAINT                                                 $684.58
+DSAA24M54197      09/24/2024  CITIBANK - PURCHASE CARD            08/22/2024  08/22/2024  TRANSPORTATION EQUIP MAINT                                                   $56.75
+DSAA24M54198      09/24/2024  CITIBANK - PURCHASE CARD            08/22/2024  08/22/2024  TRANSPORTATION EQUIP MAINT                                                   $80.00
+DSAA24M54231      09/25/2024  CITIBANK - PURCHASE CARD            08/22/2024  08/22/2024  TRANSPORTATION EQUIP MAINT                                                   $39.00
+DSAA24M54232      09/24/2024  CITIBANK - PURCHASE CARD            08/08/2024  08/08/2024  TRANSPORTATION EQUIP MAINT                                                   $50.00
+DSAA24M54233      09/27/2024  CITIBANK - PURCHASE CARD            08/22/2024  08/22/2024  TRANSPORTATION EQUIP MAINT                                                   $53.66
+TDEP202400452     09/26/2024  FINANCIAL CLERK US SENATE           08/27/2024  08/27/2024  VOICE, DATA COMM EQP MAINT                                                   $47.19
+TDEP202400503     09/26/2024  FINANCIAL CLERK US SENATE           08/24/2024  08/24/2024  PRODUCTION EQUIP MAINT                                                       $29.79
+VSAA22402740      05/09/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC  08/25/2024  08/25/2024  APPLICATION SOFTWARE MAINT                                                   $29.28
+                  05/29/2024                                      05/08/2024  05/08/2024  VOICE, DATA COMM EQP MAINT                                            -$40,548.07
+VSAA22403125      06/13/2024  ALTERION INC                        05/29/2024  05/29/2024  MANAGEMENT CONSULTANTS                                                 -$1,724.02
+VSAA22403634                  DEPARTMENT OF HOMELAND SECURITY     05/24/2024  05/24/2024  FEDERAL - MONITOR, GUARD SVC                                           $12,847.58
+VSAA22403831      04/02/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC                          TECHNICAL SUPPORT                                                      $11,575.08
+VSAA22403900      05/02/2024  GRAYBAR ELECTRIC CO INC             01/01/2024  01/31/2024  VOICE, DATA COMM EQP MAINT                                             $19,028.99
+VSAA22403921      04/04/2024  BART & ASSOCIATES, LLC              02/01/2024  02/29/2024  TECHNICAL SUPPORT                                                      $59,418.58
+VSAA22404025      04/17/2024  EMERGENT, LLC                       02/22/2024  02/22/2024  TECHNICAL SUPPORT                                                    $565,175.76
+VSAA22404069      04/02/2024  CHESAPEAKE NETCRAFTSMEN, LLC        10/18/2023  10/18/2023  MANAGEMENT CONSULTANTS                                                  $8,635.00
+VSAA22404202      04/02/2024  ANIXTER INC                         02/01/2024  02/29/2024  VOICE, DATA COMM EQP MAINT                                           $200,548.36
+                  04/09/2024  SPECIAL AEROSPACE SECURITY          02/01/2024  02/29/2024                                                                         $16,041.45
+VSAA22404212      04/17/2024  SERVICES, INC                       02/01/2024  02/29/2024  MANAGEMENT CONSULTANTS                                               $105,819.45
+                              SPECIAL AEROSPACE SECURITY          10/23/2023  10/23/2023                                                                          $1,305.00
+VSAA22404213      04/02/2024  SERVICES, INC                                               IT SECURITY
+                              CARAHSOFT TECHNOLOGY CORPORATION    02/16/2024  03/15/2024                                                                         $83,189.36
+VSAA22404229      04/02/2024  INDUSTRIAL KNIFE CO INC                                     APPLICATION SOFTWARE MAINT
+VSAA22404238                  FOXHEDGE LTD.                       02/09/2024  03/08/2024  PRODUCTION EQUIP MAINT                                                 $26,975.67
+VSAA22404244      04/02/2024  LITHO TECH LLC                                              TRAIN/ORIENT/CONFERENCE FEES
+VSAA22404271      04/10/2024  THIRDERA LLC                        02/01/2024  02/29/2024  PRODUCTION EQUIP MAINT                                                 $70,801.61
+VSAA22404272      04/30/2024  DEPARTMENT OF HOMELAND SECURITY     10/11/2023  10/11/2023  APPLICATION SOFTWARE MAINT                                                 $310.75
+VSAA22404278      04/10/2024                                      02/22/2024  02/29/2024  FEDERAL - MONITOR, GUARD SVC                                               $750.00
+                  04/09/2024                                      01/26/2024  01/26/2024                                                                             $835.00
+                  05/02/2024                                      03/01/2024  03/31/2024
+                                                                  03/01/2024  03/31/2024                                                                         $58,204.58
+                                                                                                                                                                 $60,017.39
+

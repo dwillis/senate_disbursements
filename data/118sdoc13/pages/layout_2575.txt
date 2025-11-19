@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DWRN20240451                  NICHOLAS R KAWUGULE                                       STAFF TRANSPORTATION                                                         $40.20
+DWRN20240453      05/17/2024  ZACHARY B GOLDEN                  START       END         RICHMOND TO HOPEWELL AND RETURN
+                  05/28/2024                                                            STAFF INCIDENTALS                                                            $34.35
+DWRN20240454                                                    05/07/2024  05/07/2024  STAFF PER DIEM                                                             $210.98
+DWRN20240455                                                                            STAFF TRANSPORTATION                                                       $185.36
+DWRN20240456                                                    01/08/2024  01/09/2024  ARLINGTON TO RICHMOND AND RETURN
+DWRN20240457                                                                            STAFF TRANSPORTATION                                                         $23.00
+                  05/22/2024  ZACHARY B GOLDEN                  01/12/2024  01/12/2024  VIENNA TO ALEXANDRIA AND RETURN
+DWRN20240458      05/21/2024  ZACHARY B GOLDEN                  01/17/2024  01/17/2024  STAFF TRANSPORTATION                                                       $160.36
+DWRN20240459      05/21/2024  ZACHARY B GOLDEN                  01/10/2024  01/10/2024  ARLINGTON TO RICHMOND AND RETURN
+DWRN20240460      05/28/2024  ZACHARY B GOLDEN                  01/21/2024  01/22/2024  STAFF TRANSPORTATION                                                         $25.00
+                                                                                        VIENNA TO WASHINGTON DC AND RETURN
+DWRN20240461      05/21/2024  ZACHARY B GOLDEN                  02/09/2024  02/09/2024  STAFF INCIDENTALS                                                            $30.19  B-2538
+DWRN20240462      05/21/2024  ZACHARY B GOLDEN                  02/21/2024  02/21/2024  STAFF PER DIEM                                                             $185.43
+DWRN20240463      05/30/2024  ZACHARY B GOLDEN                  02/23/2024  02/24/2024  STAFF TRANSPORTATION                                                       $166.36
+DWRN20240464                                                                            ARLINGTON TO RICHMOND AND RETURN
+                  05/21/2024  ZACHARY B GOLDEN                  02/27/2024  02/27/2024  STAFF TRANSPORTATION                                                         $26.00
+                  05/22/2024  ZACHARY B GOLDEN                  03/05/2024  03/06/2024  VIENNA TO WASHINGTON DC AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                       $164.36
+                  05/21/2024  ZACHARY B GOLDEN                  03/18/2024  03/18/2024  ARLINGTON TO RICHMOND AND RETURN
+                  06/07/2024  ZACHARY B GOLDEN                  03/25/2024  03/27/2024  STAFF INCIDENTALS                                                            $42.57
+                                                                                        STAFF PER DIEM                                                             $261.56
+DWRN20240465      05/21/2024  ZACHARY B GOLDEN                  04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                       $157.36
+DWRN20240466      05/21/2024  ZACHARY B GOLDEN                  04/16/2024  04/16/2024  ARLINGTON TO RICHMOND AND RETURN
+DWRN20240467      05/22/2024  ZACHARY B GOLDEN                  04/21/2024  04/24/2024  STAFF TRANSPORTATION                                                       $164.36
+                                                                                        ARLINGTON TO RICHMOND AND RETURN
+DWRN20240468      05/21/2024  ROBERT S CLEM                     04/02/2024  04/02/2024  STAFF PER DIEM                                                               $25.00
+DWRN20240469      05/21/2024  ROBERT S CLEM                     04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                       $293.96
+                                                                                        VIENNA TO NORFOLK TO ARLINGTON
+                                                                                        STAFF TRANSPORTATION                                                       $201.00
+                                                                                        VIENNA TO WILLIAMSBURG TO ARLINGTON
+                                                                                        STAFF INCIDENTALS                                                            $51.31
+                                                                                        STAFF PER DIEM                                                             $440.67
+                                                                                        STAFF TRANSPORTATION                                                       $391.61
+                                                                                        ARLINGTON TO WINCHESTER, LYNCHBURG, CHARLOTTESVILLE,
+                                                                                        STAUNTON, BUENA VISTA, ROANOKE AND RETURN                                    $18.00
+                                                                                        STAFF PER DIEM                                                             $139.36
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ARLINGTON TO RICHMOND AND RETURN                                             $19.00
+                                                                                        STAFF PER DIEM                                                             $139.36
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ARLINGTON TO RICHMOND AND RETURN                                             $73.63
+                                                                                        STAFF INCIDENTALS                                                          $540.57
+                                                                                        STAFF PER DIEM                                                             $548.73
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ARLINGTON TO ROANOKE, RADFORD, GALAX, MARION, BRISTOL,                       $97.82
+                                                                                        BLACKSBURG, HARRISONBURG AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $54.94
+                                                                                        ABINGDON TO PENNINGTON GAP TO POUNDING MILL
+                                                                                        STAFF TRANSPORTATION
+

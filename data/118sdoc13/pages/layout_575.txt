@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                          DATES
+DBLA20241742                                                                   NASHVILLE TO MURFREESBORO AND RETURN                                                $43.88
+DBLA20241743                                           START       END         STAFF TRANSPORTATION                                                                $34.63
+DBLA20241744                                                                   NASHVILLE TO LEBANON AND RETURN                                                     $29.94
+DBLA20241745      07/05/2024  JAY C STROBINO           06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                                $28.60
+DBLA20241746      07/05/2024  JAY C STROBINO           06/17/2024  06/17/2024  NASHVILLE TO FRANKLIN, BRENTWOOD AND RETURN                                         $26.46
+DBLA20241747      07/05/2024  JAY C STROBINO           06/19/2024  06/19/2024  STAFF TRANSPORTATION                                                                $19.29
+DBLA20241748      07/05/2024  JAY C STROBINO           06/04/2024  06/04/2024  NASHVILLE TO BRENTWOOD AND RETURN                                                 $193.63
+DBLA20241749      07/05/2024  JAY C STROBINO           06/22/2024  06/22/2024  STAFF TRANSPORTATION                                                              $134.67
+                  07/05/2024  JAY C STROBINO           06/11/2024  06/11/2024  NASHVILLE TO FRANKLIN AND RETURN
+DBLA20241750      07/16/2024  NEELY, BLAKEMON L        06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                              $120.60
+DBLA20241751      07/16/2024  CALEB ADDISON HASLETT    06/26/2024  06/26/2024  NASHVILLE TO NOLENSVILLE AND RETURN                                               $119.26
+DBLA20241752                                                                   STAFF TRANSPORTATION                                                              $134.67
+DBLA20241753      07/16/2024  NICHOLAS A KISTENMACHER  07/01/2024  07/01/2024  NASHVILLE TO FRANKLIN AND RETURN                                                  $131.32   B-557
+DBLA20241754      07/17/2024  NICHOLAS A KISTENMACHER  06/28/2024  06/28/2024  STAFF TRANSPORTATION                                                              $101.90
+DBLA20241755      07/16/2024  NEELY, BLAKEMON L        07/02/2024  07/02/2024  IUKA MS TO LEWISBURG, PETERSBURG AND RETURN
+DBLA20241756      07/17/2024  WILLIAM A GUFFEE         07/08/2024  07/08/2024  STAFF TRANSPORTATION                                                                $83.75
+DBLA20241758      07/16/2024  NEELY, BLAKEMON L        06/28/2024  06/28/2024  NASHVILLE TO HARTSVILLE, LAFAYETTE, CELINA, GAINESBORO, CARTHAGE                    $75.04
+DBLA20241759      07/16/2024  NICHOLAS A KISTENMACHER  07/03/2024  07/03/2024  AND RETURN                                                                          $65.66
+DBLA20241760      07/16/2024  JAMES M WYATT            06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                                $58.96
+DBLA20241761      07/16/2024  CHELSEA M IVENS          06/25/2024  06/25/2024  MEMPHIS TO SOMERVILLE, HENDERSON AND RETURN                                         $62.98
+DBLA20241762      07/16/2024  JAMES M WYATT            06/14/2024  06/14/2024  STAFF TRANSPORTATION                                                                $48.24
+DBLA20241763      07/16/2024  JAMES M WYATT            06/25/2024  06/25/2024  MEMPHIS TO JACKSON AND RETURN                                                       $32.16
+DBLA20241764      07/16/2024  WILLIAM A GUFFEE         07/01/2024  07/01/2024  STAFF TRANSPORTATION                                                                $37.52
+DBLA20241765      07/16/2024  PABLO A MARTINEZ         06/27/2024  06/27/2024  IUKA MS TO LAWRENCEBURG AND RETURN                                                  $64.99
+DBLA20241768      07/16/2024  PABLO A MARTINEZ         07/02/2024  07/02/2024  STAFF TRANSPORTATION                                                                $30.82
+                  07/16/2024  NEELY, BLAKEMON L        07/01/2024  07/01/2024  CHATTANOOGA TO COOKEVILLE AND RETURN                                                $60.30
+                  07/16/2024  JAMES M WYATT            06/14/2024  06/14/2024  STAFF TRANSPORTATION
+                  07/16/2024  CHELSEA M IVENS          06/13/2024  06/13/2024  IUKA MS TO PARSONS, LINDEN, WAYNESBORO AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               MEMPHIS TO BROWNSVILLE AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               JACKSON TO MARTIN AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               KNOXVILLE TO HARRIMAN AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               JACKSON TO STANTON AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               JACKSON TO MCKENZIE AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               CHATTANOOGA TO CLEVELAND AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               FRANKLIN TO COLUMBIA AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               IUKA MS TO DECATURVILLE, SAVANNAH AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               JACKSON TO MILAN AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               KNOXVILLE TO SEVIERVILLE, PIGEON FORGE, GATLINBURG AND RETURN
+

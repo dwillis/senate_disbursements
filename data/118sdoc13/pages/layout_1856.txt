@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE                    PAYEE NAME     OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+              POSTED                                              DATES
+                                                                               WASHINGTON DC TO KANSAS CITY MO, MCPHERSON, HAYS, MANHATTAN,                  $458.10
+                                                       START       END         ABILENE, OVERLAND PARK, KANSAS CITY MO AND RETURN                             $338.11
+                                                                               SENATOR TRANSPORTATION                                                        $458.10
+DMOR20240691  05/29/2024  CITIBANK - SENATOR IBA CARD  04/20/2024  04/20/2024  AIRFARE FOR SEN MORAN WASHINGTON DC TO WICHITA                                $458.10   B-1819
+DMOR20240692  05/31/2024  CITIBANK - SENATOR IBA CARD  05/16/2024  05/16/2024  SENATOR TRANSPORTATION                                                        $376.10
+DMOR20240693  05/29/2024  CITIBANK - SENATOR IBA CARD  04/22/2024  04/22/2024  AIRFARE FOR SEN MORAN WASHINGTON DC TO KANSAS CITY MO                         $311.10
+DMOR20240694  05/29/2024  CITIBANK - SENATOR IBA CARD  04/24/2024  04/24/2024  SENATOR TRANSPORTATION                                                        $369.10
+DMOR20240695  05/29/2024  CITIBANK - SENATOR IBA CARD  04/30/2024  04/30/2024  AIRFARE FOR SEN MORAN WICHITA TO WASHINGTON DC                                $387.60
+DMOR20240696  05/31/2024  CITIBANK - SENATOR IBA CARD  05/14/2024  05/14/2024  SENATOR TRANSPORTATION                                                        $402.10
+DMOR20240697  05/31/2024  CITIBANK - SENATOR IBA CARD  05/02/2024  05/02/2024  AIRFARE FOR SEN MORAN WASHINGTON DC TO WICHITA                             $1,859.10
+DMOR20240698  05/31/2024  CITIBANK - SENATOR IBA CARD  05/04/2024  05/04/2024  SENATOR TRANSPORTATION
+DMOR20240699  05/31/2024  CITIBANK - SENATOR IBA CARD  05/09/2024  05/09/2024  AIRFARE FOR SEN MORAN KANSAS CITY MO TO WASHINGTON DC                           $13.35
+DMOR20240700  05/31/2024  CITIBANK - SENATOR IBA CARD  05/20/2024  05/20/2024  SENATOR TRANSPORTATION                                                        $174.14
+DMOR20240703  06/03/2024  REID A PETTY                 05/01/2024  05/03/2024  AIRFARE FOR SEN MORAN KANSAS CITY MO TO WASHINGTON DC
+                                                                               SENATOR TRANSPORTATION                                                          $34.41
+DMOR20240704  06/03/2024  TYLER J YORK                 05/02/2024  05/03/2024  AIRFARE FOR SEN MORAN WASHINGTON DC TO KANSAS CITY MO                         $214.62
+                                                                               SENATOR TRANSPORTATION                                                        $196.26
+DMOR20240705  05/28/2024  HUNTER D CARSON              04/25/2024  04/25/2024  AIRFARE FOR SEN MORAN MANHATTAN TO LOS ANGELES CA
+DMOR20240706  05/28/2024  HUNTER D CARSON              04/30/2024  04/30/2024  SENATOR TRANSPORTATION                                                          $70.35
+DMOR20240707  06/03/2024  HUNTER D CARSON              05/02/2024  05/04/2024  AIRFARE FOR SEN MORAN WASHINGTON DC TO KANSAS CITY MO                           $48.24
+                                                                               SENATOR TRANSPORTATION                                                          $43.86
+DMOR20240708  06/03/2024  HUNTER D CARSON              05/01/2024  05/01/2024  AIRFARE FOR SEN MORAN WICHITA TO WASHINGTON DC                                $214.00
+DMOR20240709  06/03/2024  HUNTER D CARSON              05/09/2024  05/09/2024  STAFF PER DIEM                                                                $441.43
+DMOR20240710  05/31/2024  TYLER J YORK                 05/10/2024  05/11/2024  STAFF TRANSPORTATION                                                          $146.73
+                                                                               MANHATTAN TO SALINA, WATERVILLE, LINCOLN, CLAY CENTER AND                     $136.68
+DMOR20240711  05/28/2024  JASON L OSTERHAUS            04/01/2024  04/01/2024  RETURN                                                                          $10.68
+DMOR20240712  05/28/2024  JASON L OSTERHAUS            04/02/2024  04/02/2024  STAFF INCIDENTALS                                                             $226.46
+                                                                               STAFF PER DIEM                                                                  $57.62
+                                                                               STAFF TRANSPORTATION                                                            $16.16
+                                                                               WICHITA TO TOPEKA AND RETURN                                                    $83.07
+                                                                               STAFF TRANSPORTATION
+                                                                               GARDEN CITY TO DODGE CITY AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               GARDEN CITY TO SCOTT CITY AND RETURN
+                                                                               STAFF INCIDENTALS
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               GARDEN CITY TO TOPEKA AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               GARDEN CITY TO RUSH CENTER AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               GARDEN CITY TO JOHNSON, ULYSSES AND RETURN
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               WICHITA TO PRATT, GREENSBURG, ASHLAND, PROTECTION AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               OLATHE TO KANSAS CITY, TONGANOXIE AND RETURN
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               OLATHE TO TOPEKA AND RETURN
+

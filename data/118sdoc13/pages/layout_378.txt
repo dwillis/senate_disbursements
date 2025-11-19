@@ -1,0 +1,60 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME      OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                               DATES
+VSAA22406553       POSTED     JOHNSON CONTROLS                                              AUDIO, VISUAL EQUIP MAINT                                                  $271.27
+VSAA22406554                  JOHNSON CONTROLS                      START       END         AUDIO, VISUAL EQUIP MAINT                                                  $669.30
+VSAA22406555      09/19/2024  JOHNSON CONTROLS                                              AUDIO, VISUAL EQUIP MAINT                                                  $633.23
+VSAA22406556      09/19/2024  JOHNSON CONTROLS                      04/17/2023  04/17/2023  AUDIO, VISUAL EQUIP MAINT                                               $1,603.43    B-360
+VSAA22406557      09/19/2024  JOHNSON CONTROLS                      04/28/2023  04/28/2023  AUDIO, VISUAL EQUIP MAINT                                               $1,078.19
+VSAA22406558      09/19/2024  JOHNSON CONTROLS                      04/03/2023  04/03/2023  AUDIO, VISUAL EQUIP MAINT                                                  $707.39
+VSAA22406559      09/19/2024  JOHNSON CONTROLS                      04/04/2023  04/04/2023  AUDIO, VISUAL EQUIP MAINT                                                  $841.39
+VSAA22406560      09/03/2024  JOHNSON CONTROLS                      04/06/2023  04/06/2023  AUDIO, VISUAL EQUIP MAINT                                                  $246.37
+VSAA22406561      08/30/2024  JOHNSON CONTROLS                      03/08/2023  03/08/2023  AUDIO, VISUAL EQUIP MAINT                                                  $279.03
+VSAA22406562      09/03/2024  JOHNSON CONTROLS                      03/23/2023  03/23/2023  AUDIO, VISUAL EQUIP MAINT                                                  $225.35
+VSAA22406563      09/03/2024  JOHNSON CONTROLS                      03/08/2023  03/08/2023  AUDIO, VISUAL EQUIP MAINT                                                  $484.91
+VSAA22406564      09/03/2024  JOHNSON CONTROLS                      03/27/2023  03/27/2023  AUDIO, VISUAL EQUIP MAINT                                                  $283.45
+VSAA22406565      09/03/2024  JOHNSON CONTROLS                      03/22/2023  03/22/2023  AUDIO, VISUAL EQUIP MAINT                                                  $526.41
+VSAA22406566      09/03/2024  JOHNSON CONTROLS                      03/15/2023  03/15/2023  AUDIO, VISUAL EQUIP MAINT                                                  $312.23
+VSAA22406567      09/03/2024  JOHNSON CONTROLS                      03/27/2023  03/27/2023  AUDIO, VISUAL EQUIP MAINT                                                  $819.29
+VSAA22406568      09/03/2024  JOHNSON CONTROLS                      03/01/2023  03/01/2023  AUDIO, VISUAL EQUIP MAINT                                                  $707.39
+VSAA22406569      09/03/2024  JOHNSON CONTROLS                      03/28/2023  03/28/2023  AUDIO, VISUAL EQUIP MAINT                                               $1,466.13
+VSAA22406570      09/03/2024  JOHNSON CONTROLS                      03/20/2023  03/20/2023  AUDIO, VISUAL EQUIP MAINT                                                  $716.77
+VSAA22406571      09/03/2024  JOHNSON CONTROLS                      03/01/2023  03/01/2023  AUDIO, VISUAL EQUIP MAINT                                                  $781.55
+VSAA22406572      09/03/2024  JOHNSON CONTROLS                      03/23/2023  03/23/2023  AUDIO, VISUAL EQUIP MAINT                                                  $534.71
+VSAA22406573      09/19/2024  JOHNSON CONTROLS                      03/22/2023  03/22/2023  AUDIO, VISUAL EQUIP MAINT                                               $2,709.71
+VSAA22406574      09/19/2024  JOHNSON CONTROLS                      03/10/2023  03/10/2023  AUDIO, VISUAL EQUIP MAINT                                               $1,004.03
+VSAA22406575      09/19/2024  JOHNSON CONTROLS                      03/24/2023  03/24/2023  AUDIO, VISUAL EQUIP MAINT                                                  $204.87
+VSAA22406576      09/03/2024  JOHNSON CONTROLS                      03/09/2023  03/09/2023  AUDIO, VISUAL EQUIP MAINT                                               $1,415.68
+VSAA22406578      09/19/2024  JOHNSON CONTROLS                      03/08/2023  03/08/2023  AUDIO, VISUAL EQUIP MAINT                                                  $559.07
+VSAA22406579      09/19/2024  JOHNSON CONTROLS                      03/09/2023  03/09/2023  AUDIO, VISUAL EQUIP MAINT                                                  $299.51
+VSAA22406580      09/19/2024  JOHNSON CONTROLS                      03/30/2023  03/30/2023  AUDIO, VISUAL EQUIP MAINT                                               $1,235.73
+VSAA22406581      09/19/2024  JOHNSON CONTROLS                      03/08/2023  03/08/2023  AUDIO, VISUAL EQUIP MAINT                                                  $477.15
+VSAA22406582      09/19/2024  JOHNSON CONTROLS                      03/16/2023  03/16/2023  AUDIO, VISUAL EQUIP MAINT                                                  $299.51
+VSAA22406592      09/19/2024  JOHNSON CONTROLS                      03/27/2023  03/27/2023  AUDIO, VISUAL EQUIP MAINT                                               $1,374.83
+VSAA22406593      09/19/2024  JOHNSON CONTROLS                      03/29/2023  03/29/2023  AUDIO, VISUAL EQUIP MAINT                                               $1,859.72
+VSAA22406594      09/19/2024  JOHNSON CONTROLS                      03/08/2023  03/08/2023  AUDIO, VISUAL EQUIP MAINT                                               $1,343.83
+VSAA22406595      09/19/2024  JOHNSON CONTROLS                      06/01/2023  06/01/2023  AUDIO, VISUAL EQUIP MAINT                                                  $572.01
+VSAA22406596      09/19/2024  JOHNSON CONTROLS                      06/13/2023  06/13/2023  AUDIO, VISUAL EQUIP MAINT                                                  $935.39
+VSAA22406597      09/19/2024  JOHNSON CONTROLS                      06/22/2023  06/22/2023  AUDIO, VISUAL EQUIP MAINT                                                  $555.19
+VSAA22406598      09/19/2024  JOHNSON CONTROLS                      06/14/2023  06/14/2023  AUDIO, VISUAL EQUIP MAINT                                                  $188.27
+VSAA22406599      09/19/2024  JOHNSON CONTROLS                      05/17/2023  05/17/2023  AUDIO, VISUAL EQUIP MAINT                                                  $658.13
+VSAA22406600      08/06/2024  JOHNSON CONTROLS                      05/09/2023  05/09/2023  AUDIO, VISUAL EQUIP MAINT                                                  $781.55
+VSAA22406601      08/06/2024  CANON SOLUTIONS AMERICA INC           05/12/2023  05/12/2023  PRODUCTION EQUIP MAINT                                                     $303.08
+                  08/06/2024  SPECIAL AEROSPACE SECURITY            05/31/2023  05/31/2023
+VSAA22406610      07/08/2024  SERVICES, INC                         05/26/2023  05/26/2023  IT SECURITY                                                            $52,029.48
+                              NATIONAL CAPTIONING INSTITUTE, INC.   09/01/2023  09/30/2023
+VSAA22406651      08/02/2024  NATIONAL CAPTIONING INSTITUTE, INC.                           TECHNICAL SUPPORT                                                       $6,063.79
+VSAA22406652                  CANON SOLUTIONS AMERICA INC           05/13/2024  06/12/2024  TECHNICAL SUPPORT                                                       $4,010.86
+VSAA22406684      07/16/2024  CANON SOLUTIONS AMERICA INC                                   PRODUCTION EQUIP MAINT
+VSAA22406685      07/15/2024  GUIDEPOINT SECURITY GOVT SOLUTIONS    05/15/2024  05/22/2024  PRODUCTION EQUIP MAINT                                                       $57.56
+                  07/21/2024  LLC                                   05/01/2024  05/29/2024                                                                          $1,125.00
+VSAA22406710      07/24/2024  CHRISTOPHER LAW                       04/01/2024  06/30/2024  APPLICATION SOFTWARE MAINT
+                              KONICA MINOLTA BUSINESS SOLUTIONS U.  04/01/2024  06/30/2024                                                                         $82,721.65
+VSAA22406792      07/12/2024  S.A.                                                          MONITORING & GUARD SERVICES
+                              CFO SOLUTIONS LLC                     05/21/2024  05/21/2025                                                                          $6,667.00
+VSAA22406838      07/15/2024                                                                PRODUCTION EQUIP MAINT
+                                                                    06/01/2024  06/30/2024                                                                          $8,648.17
+VSAA22406850      07/23/2024                                                                TECHNICAL SUPPORT
+                                                                    04/01/2024  06/30/2024                                                                          $2,800.00
+                  07/17/2024
+                                                                    07/01/2024  07/31/2024
+

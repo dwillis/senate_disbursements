@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED     WILLIAM J SOMERS                             DATES
+DBDD20240649                  RICHARD LEE MOXLEY                                        STAFF TRANSPORTATION                                                             $218.42
+DBDD20240650      08/08/2024                                    START       END         YADKINVILLE TO THE FOLLOWING AND RETURN: 7/19 BOONE; 7/22
+                                                                                        ADVANCE; 7/24 DOBSON, LEWISVILLE; 7/25 WINSTON SALEM                             $408.70
+DBDD20240651      08/09/2024                                    07/19/2024  07/25/2024  STAFF TRANSPORTATION
+DBDD20240652                                                                            PFAFFTOWN TO THE FOLLOWING AND RETURN: 7/24 ASHEBORO,                               $9.15
+DBDD20240653                                                    07/24/2024  07/31/2024  THOMASVILLE; 7/25 WINSTON SALEM; 7/26 ROXBORO, TIMBERLAKE; 7/31                    $15.82
+DBDD20240654                                                                            MONROE, WAXHAW
+DBDD20240655      09/05/2024  RICHARD LEE MOXLEY                07/24/2024  07/24/2024  STAFF PER DIEM                                                                      $9.34  B-735
+DBDD20240657      08/29/2024  RICHARD LEE MOXLEY                07/26/2024  07/26/2024  ADDITIONAL EXPENSE FOR TRIP ADVANCE TO ASHEBORO AND RETURN                         $11.63
+DBDD20240658      08/26/2024  RICHARD LEE MOXLEY                07/31/2024  07/31/2024  STAFF PER DIEM                                                                   $211.51
+DBDD20240659      08/20/2024  SAMUEL JOSEPH SHUMATE             08/01/2024  08/01/2024  ADVANCE TO ROXBORO AND RETURN                                                      $22.62
+DBDD20240660                                                                            STAFF PER DIEM                                                                   $199.52
+DBDD20240661      08/20/2024  SAMUEL JOSEPH SHUMATE             08/02/2024  08/02/2024  ADVANCE TO MONROE AND RETURN                                                     $121.94
+DBDD20240662                                                                            STAFF PER DIEM
+DBDD20240663      08/20/2024  RICHARD LEE MOXLEY                08/01/2024  08/02/2024  STAFF TRANSPORTATION                                                               $53.66
+DBDD20240664      08/20/2024  SAMUEL JOSEPH SHUMATE             08/05/2024  08/05/2024  SANFORD TO POLLOCKSVILLE, TRENTON, JACKSONVILLE AND RETURN
+DBDD20240665      08/27/2024  LINDSEY MURRAY GAINES             07/30/2024  07/31/2024  STAFF PER DIEM                                                                     $37.20
+DBDD20240666                                                                            STAFF TRANSPORTATION                                                             $202.20
+DBDD20240667      08/22/2024  JOSEPH TUCKER KNOTT               07/27/2024  07/28/2024  SANFORD TO CAMP LEJEUNE, JACKSONVILLE, BURGAW AND RETURN
+DBDD20240668                                                                            STAFF TRANSPORTATION                                                               $55.26
+DBDD20240669      08/22/2024  JOSEPH TUCKER KNOTT               08/01/2024  08/02/2024  PFAFFTOWN TO THE FOLLOWING AND RETURN: 8/1 WALNUT COVE, KING; 8                  $618.96
+                  08/20/2024  BAILEY B. HARTSELL                07/29/2024  07/29/2024  /2 ASHEBORO                                                                      $618.96
+                                                                                        STAFF TRANSPORTATION
+                  08/20/2024  BAILEY B. HARTSELL                08/02/2024  08/02/2024  SANFORD TO LEMON SPRINGS, BROADWAY, CUMNOCK, LEMON SPRINGS,                        $20.05
+                  08/20/2024  SAMUEL JOSEPH SHUMATE             08/06/2024  08/06/2024  PINEHURST AND RETURN                                                               $83.75
+                  08/20/2024  SAMUEL JOSEPH SHUMATE             08/07/2024  08/07/2024  STAFF PER DIEM                                                                     $36.18
+                                                                                        STAFF TRANSPORTATION                                                             $100.76
+                  08/20/2024  RICHARD LEE MOXLEY                08/06/2024  08/06/2024  WILMINGTON TO RALEIGH AND RETURN                                                   $13.24
+                  08/20/2024  RICHARD LEE MOXLEY                08/07/2024  08/07/2024  STAFF TICKET FEES                                                                $100.03
+                                                                                        STAFF TRANSPORTATION                                                               $97.15
+                  08/20/2024  BAILEY B. HARTSELL                08/01/2024  08/01/2024  WASHINGTON DC TO RALEIGH AND RETURN
+                  08/20/2024  BAILEY B. HARTSELL                08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                                $9.87
+                                                                                        WASHINGTON DC TO RALEIGH AND RETURN                                              $113.23
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                               $38.19
+                                                                                        WILMINGTON TO ROSE HILL AND RETURN                                                 $68.34
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WILMINGTON TO BURGAW AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SANFORD TO FAYETTEVILLE, CARTHAGE, FAYETTEVILLE AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SANFORD TO SMITHFIELD, CARY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PFAFFTOWN TO GREENSBORO, BURLINGTON AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PFAFFTOWN TO WINSTON SALEM, YANCEYVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WILMINGTON TO BOLIVIA, LELAND AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

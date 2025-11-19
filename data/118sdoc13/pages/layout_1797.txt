@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                   POSTED                                                  DATES
+DMCN20240748                  STEPHANIE H NELSON                                        STAFF TRANSPORTATION                                                                $20.30
+DMCN20240749      06/12/2024  STEPHANIE H NELSON                START       END         IN AND AROUND RICHMOND                                                               $9.17
+DMCN20240750      06/13/2024  STEPHANIE H NELSON                                        STAFF TRANSPORTATION                                                                 $9.17
+DMCN20240751      06/13/2024  HALEY E TIPTON                    05/31/2024  05/31/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  06/12/2024                                                            STAFF TRANSPORTATION                                                                $64.45
+DMCN20240752                  DONNA BAKER MCCLURE               06/03/2024  06/03/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DMCN20240753      06/13/2024  DONNA BAKER MCCLURE                                       STAFF TRANSPORTATION                                                              $146.72
+DMCN20240754      06/13/2024  DONNA BAKER MCCLURE               06/05/2024  06/05/2024  BEATTYVILLE TO THE FOLLOWING AND RETURN TO LEXINGTON: 5/7                         $108.73
+DMCN20240755      06/13/2024  DONNA BAKER MCCLURE                                       WINCHESTER; 6/5 BEREA; 5/31 LEXINGTON TO RICHMOND TO BEATTYVILLE                  $184.71
+DMCN20240756      06/12/2024  DONNA BAKER MCCLURE               05/07/2024  06/05/2024  STAFF TRANSPORTATION
+DMCN20240757      06/13/2024  DONNA BAKER MCCLURE                                       LONDON TO HAZARD, WHITESBURG AND RETURN                                             $81.22
+DMCN20240758      06/13/2024  DONNA BAKER MCCLURE               04/24/2024  04/24/2024  STAFF TRANSPORTATION                                                              $149.34   B-1760
+DMCN20240759      06/13/2024  DONNA BAKER MCCLURE               04/23/2024  04/23/2024  LONDON TO SOMERSET, MANCHESTER AND RETURN                                         $100.21
+DMCN20240760      06/13/2024  DONNA BAKER MCCLURE               04/26/2024  04/26/2024  STAFF TRANSPORTATION                                                              $198.46
+DMCN20240761      06/13/2024  DONNA BAKER MCCLURE               04/25/2024  04/25/2024  LONDON TO PIKEVILLE, HAZARD AND RETURN                                            $143.44
+DMCN20240762      06/13/2024  DONNA BAKER MCCLURE               04/29/2024  04/29/2024  STAFF TRANSPORTATION                                                              $151.30
+DMCN20240763      06/12/2024  DONNA BAKER MCCLURE               04/30/2024  04/30/2024  LONDON TO SOMERSET AND RETURN                                                     $148.68
+DMCN20240764      06/12/2024  DONNA BAKER MCCLURE               05/01/2024  05/01/2024  STAFF TRANSPORTATION
+DMCN20240765      06/12/2024  DONNA BAKER MCCLURE               05/13/2024  05/13/2024  LONDON TO JACKSON, SALYERSVILLE AND RETURN                                          $74.67
+DMCN20240766      06/13/2024  DONNA BAKER MCCLURE               05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                                $20.96
+DMCN20240767      06/13/2024  DONNA BAKER MCCLURE               05/16/2024  05/16/2024  LONDON TO BARBOURVILLE, SOMERSET AND RETURN                                         $87.77
+DMCN20240768      06/13/2024  DONNA BAKER MCCLURE               05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                              $123.14
+DMCN20240769      06/12/2024  DONNA BAKER MCCLURE               05/03/2024  05/03/2024  LONDON TO CORBIN, PIKEVILLE AND RETURN                                            $106.11
+DMCN20240770      06/13/2024  DONNA BAKER MCCLURE               05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                                $99.56
+DMCN20240771      06/13/2024  DONNA BAKER MCCLURE               05/17/2024  05/17/2024  LONDON TO WILLIAMSBURG, HARLAN AND RETURN                                           $68.77
+DMCN20240772      06/12/2024  DONNA BAKER MCCLURE               05/18/2024  05/18/2024  STAFF TRANSPORTATION                                                              $129.03
+                  06/12/2024                                    05/20/2024  05/20/2024  LONDON TO SOMERSET, WILLIAMSBURG AND RETURN                                       $129.69
+                                                                05/21/2024  05/21/2024  STAFF TRANSPORTATION                                                                $37.99
+                                                                05/22/2024  05/22/2024  LONDON TO MIDDLESBORO, SOMERSET AND RETURN                                          $78.60
+                                                                05/23/2024  05/23/2024  STAFF TRANSPORTATION
+                                                                05/24/2024  05/24/2024  LONDON TO MOUNT VERNON, MANCHESTER AND RETURN
+                                                                05/25/2024  05/25/2024  STAFF TRANSPORTATION
+                                                                                        LONDON TO CORBIN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONDON TO WHITLEY CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONDON TO LEXINGTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONDON TO LEXINGTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONDON TO HARLAN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONDON TO MOUNT VERNON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONDON TO MANCHESTER, HAZARD, HINDMAN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONDON TO PINEVILLE, MIDDLESBORO, CORBIN, PINEVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONDON TO CORBIN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

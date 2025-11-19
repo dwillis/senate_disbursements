@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DPAU20241165                  WILLIAM S MATTHEWS                                        STAFF TRANSPORTATION                                                         $20.96
+DPAU20241166      09/05/2024  WILLIAM S MATTHEWS                START       END         BUTLER TO FALMOUTH AND RETURN                                                $20.96
+DPAU20241167      09/05/2024  WILLIAM S MATTHEWS                                        STAFF TRANSPORTATION
+DPAU20241168      09/05/2024  WILLIAM S MATTHEWS                08/12/2024  08/12/2024  BUTLER TO FALMOUTH AND RETURN                                                $39.95
+DPAU20241169      09/05/2024  LAWRENCE C ARNOLD                                         STAFF TRANSPORTATION
+DPAU20241170                  WHITNEY S MEADOWS                 08/13/2024  08/13/2024  BUTLER TO DAYTON AND RETURN                                                  $23.80
+DPAU20241171      09/09/2024  WHITNEY S MEADOWS                                         STAFF PER DIEM                                                             $304.57
+DPAU20241172                  WHITNEY S MEADOWS                 08/14/2024  08/14/2024  STAFF TRANSPORTATION
+DPAU20241173      09/05/2024  REGENA T JONES                                            BUTLER TO BOWLING GREEN AND RETURN                                           $33.03
+DPAU20241174      09/05/2024  REGENA T JONES                    08/15/2024  08/15/2024  STAFF PER DIEM                                                             $175.54
+DPAU20241175      09/05/2024  BRYAN J MILLS                                             STAFF TRANSPORTATION
+DPAU20241176      09/05/2024  BRYAN J MILLS                     08/15/2024  08/15/2024  BOWLING GREEN TO NASHVILLE TN AND RETURN                                     $24.89
+DPAU20241177      09/06/2024  BRYAN J MILLS                                             STAFF TRANSPORTATION
+DPAU20241178      09/05/2024  BRYAN J MILLS                     08/06/2024  08/06/2024  LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $15.72  B-2013
+DPAU20241179      09/05/2024  BRYAN J MILLS                     08/13/2024  08/13/2024  STAFF TRANSPORTATION
+DPAU20241180                  BRYAN J MILLS                     08/14/2024  08/14/2024  LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $18.34
+DPAU20241181      09/05/2024  BRYAN J MILLS                     08/14/2024  08/14/2024  STAFF TRANSPORTATION
+DPAU20241182                  BRYAN J MILLS                     08/15/2024  08/15/2024  LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $119.14
+DPAU20241183      09/09/2024  BRYAN J MILLS                     06/03/2024  06/03/2024  STAFF TRANSPORTATION
+DPAU20241184                  BRYAN J MILLS                     06/04/2024  06/04/2024  PIKEVILLE TO HARLAN AND RETURN                                             $366.40
+                  09/09/2024                                                            STAFF TRANSPORTATION
+                                                                06/05/2024  06/05/2024  PIKEVILLE TO BOWLING GREEN AND RETURN                                        $24.89
+                  09/06/2024                                                            STAFF TRANSPORTATION
+                                                                06/06/2024  06/06/2024  CORBIN TO LONDON AND RETURN                                                  $17.00
+                  09/06/2024                                                            STAFF PER DIEM                                                               $66.81
+                                                                06/07/2024  06/07/2024  STAFF TRANSPORTATION
+                  09/05/2024                                                            CORBIN TO SOMERSET AND RETURN                                                $24.02
+                                                                06/10/2024  06/10/2024  STAFF PER DIEM                                                             $142.13
+                  09/05/2024                                                            STAFF TRANSPORTATION
+                                                                06/11/2024  06/11/2024  CORBIN TO CAMPBELLSVILLE AND RETURN                                          $15.85
+                  09/05/2024                                                            STAFF PER DIEM                                                             $136.89
+                                                                06/12/2024  06/12/2024  STAFF TRANSPORTATION
+                                                                                        CORBIN TO BURKESVILLE AND RETURN                                             $12.38
+                                                                06/13/2024  06/13/2024  STAFF PER DIEM                                                             $136.89
+                                                                                        STAFF TRANSPORTATION
+                                                                06/14/2024  06/14/2024  CORBIN TO BURKESVILLE AND RETURN                                             $12.28
+                                                                                        STAFF PER DIEM                                                               $66.81
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CORBIN TO SOMERSET AND RETURN                                                $10.00
+                                                                                        STAFF PER DIEM                                                             $117.24
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CORBIN TO COLUMBIA AND RETURN                                                $15.00
+                                                                                        STAFF PER DIEM                                                             $117.24
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CORBIN TO LIBERTY AND RETURN                                                 $20.00
+                                                                                        STAFF PER DIEM                                                             $142.13
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CORBIN TO CAMPBELLSVILLE AND RETURN                                          $18.10
+                                                                                        STAFF PER DIEM                                                             $136.89
+                                                                                        STAFF TRANSPORTATION
+

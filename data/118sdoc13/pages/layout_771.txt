@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                   POSTED                                                  DATES
+DBTL20240351                  CAMILLE J PON                                             STAFF TRANSPORTATION                                                              $121.94
+DBTL20240365      05/30/2024  DENISE N ALTOUNIAN SAHATDJIAN     START       END         FAIRFAX TO MORGAN HILL AND RETURN                                                   $14.36
+                  05/31/2024                                                            STAFF PER DIEM
+DBTL20240366                  DENISE N ALTOUNIAN SAHATDJIAN     05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                              $174.20
+DBTL20240367      05/26/2024  DENISE N ALTOUNIAN SAHATDJIAN                             FRESNO TO STOCKTON AND RETURN                                                       $80.40
+DBTL20240374      05/26/2024  SANDRA GONZALES                   05/16/2024  05/16/2024  STAFF TRANSPORTATION                                                                $26.80
+DBTL20240375      06/10/2024  SANDRA GONZALES                                           FRESNO TO MERCED AND RETURN                                                         $22.78
+DBTL20240376      06/10/2024  SANDRA GONZALES                   05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                                $79.06  B-753
+DBTL20240377      06/10/2024  SANDRA GONZALES                   04/04/2024  04/04/2024  FRESNO TO KINGSBURG AND RETURN                                                      $42.88
+DBTL20240378      06/10/2024  SANDRA GONZALES                   03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                                $24.12
+DBTL20240379      06/10/2024  SANDRA GONZALES                   03/29/2024  03/29/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $26.13
+DBTL20240380      06/10/2024  SANDRA GONZALES                   03/30/2024  03/30/2024  STAFF TRANSPORTATION                                                                $16.08
+DBTL20240381      06/10/2024  SANDRA GONZALES                   04/04/2024  04/04/2024  TORRANCE TO ACTON AND RETURN                                                        $31.49
+DBTL20240382      06/10/2024  SANDRA GONZALES                   04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                                $26.80
+DBTL20240383      06/10/2024  SANDRA GONZALES                   04/11/2024  04/11/2024  TORRANCE TO COSTA MESA AND RETURN                                                   $16.75
+DBTL20240384      06/10/2024  SANDRA GONZALES                   04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                                $22.78
+DBTL20240385      06/10/2024  SANDRA GONZALES                   04/13/2024  04/13/2024  TORRANCE TO WILMINGTON TO LOS ANGELES                                               $16.08
+DBTL20240386      06/10/2024  SANDRA GONZALES                   04/14/2024  04/14/2024  STAFF TRANSPORTATION                                                                $22.78
+DBTL20240387      06/10/2024  SANDRA GONZALES                   04/18/2024  04/18/2024  LOS ANGELES TO TORRANCE AND RETURN                                                  $12.73
+DBTL20240388      06/18/2024  SANDRA GONZALES                   04/20/2024  04/20/2024  STAFF TRANSPORTATION                                                                $64.12
+DBTL20240389      06/10/2024  SANDRA GONZALES                   04/23/2024  04/23/2024  TORRANCE TO LOS ANGELES AND RETURN                                                  $29.48
+                  06/10/2024                                    04/24/2024  04/24/2024  STAFF TRANSPORTATION                                                                $50.00
+DBTL20240390                  GENEVA M MONTELEONE               04/27/2024  04/27/2024  TORRANCE TO NORWALK, CARSON AND RETURN
+                  06/11/2024                                    05/01/2024  05/01/2024  STAFF TRANSPORTATION                                                                $99.83
+DBTL20240391                                                    05/02/2024  05/02/2024  TORRANCE TO LOS ANGELES AND RETURN
+DBTL20240392                                                                            STAFF TRANSPORTATION                                                                $44.89
+                                                                05/03/2024  05/24/2024  TORRANCE TO PLAYA DEL REY, LOS ANGELES AND RETURN                                   $49.58
+                                                                                        STAFF TRANSPORTATION
+                  06/10/2024  SANDRA GONZALES                   05/03/2024  05/03/2024  LOS ANGELES TO HUNTINGTON PARK TO TORRANCE
+                  06/10/2024  SANDRA GONZALES                   05/07/2024  05/07/2024  STAFF TRANSPORTATION
+                                                                                        TORRANCE TO LOS ANGELES AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TORRANCE TO HUNTINGTON PARK TO LOS ANGELES
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LOS ANGELES TO INGLEWOOD TO TORRANCE
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TORRANCE TO LOS ANGELES AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TORRANCE TO LOS ANGELES AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TORRANCE TO LOS ANGELES AND RETURN; LOS ANGELES TO TORRANCE
+                                                                                        AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CULVER CITY TO THE FOLLOWING AND RETURN: 5/3, 7 EL SEGUNDO; 5/18
+                                                                                        REDONDO BEACH; 5/24 LONG BEACH; 5/9 LOS ANGELES TO NORTH
+                                                                                        HOLLYWOOD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LOS ANGELES TO PACOIMA, LOS ANGELES TO TORRANCE
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TORRANCE TO LOS ANGELES, CULVER CITY, LONG BEACH AND RETURN
+

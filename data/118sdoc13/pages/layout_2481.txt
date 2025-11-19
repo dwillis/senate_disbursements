@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                              DATES
+DTIL20240658                                                                       CHARLOTTE TO RALEIGH TO CHINA GROVE                                                 $87.60
+DTIL20240660                                               START       END         STAFF TRANSPORTATION                                                                $32.76
+DTIL20240663                                                                       WILMINGTON TO ATLANTIC BEACH AND RETURN                                             $68.40
+DTIL20240664      05/22/2024  GRAYSON COLE OVERHOLT        05/13/2024  05/13/2024  STAFF TRANSPORTATION                                                                $39.60
+DTIL20240665      05/22/2024  ANNA G OSBORNE               05/14/2024  05/14/2024  RALEIGH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                    $16.57
+                  05/24/2024  GRAYSON COLE OVERHOLT        05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                              $154.17
+DTIL20240666      05/24/2024  GRAYSON COLE OVERHOLT        05/15/2024  05/15/2024  WILMINGTON TO ELIZABETHTOWN AND RETURN                                            $151.16
+DTIL20240667      05/29/2024  JOHN ADAM WEBB               05/13/2024  05/14/2024  STAFF TRANSPORTATION
+DTIL20240668                                                                       WILMINGTON TO TOPSAIL BEACH AND RETURN                                               $9.00
+DTIL20240669      05/26/2024  GRAYSON COLE OVERHOLT        05/16/2024  05/16/2024  STAFF INCIDENTALS                                                                 $115.20   B-2444
+DTIL20240670      05/31/2024  GRAYSON COLE OVERHOLT        05/17/2024  05/17/2024  STAFF PER DIEM                                                                    $271.20
+                  05/31/2024  GRAYSON COLE OVERHOLT        05/20/2024  05/20/2024  STAFF TRANSPORTATION                                                              $187.14
+DTIL20240671      05/30/2024  STEPHANIE MARIE BLAIR        05/11/2024  05/15/2024  WASHINGTON DC TO CHARLOTTE, HIGH POINT, RALEIGH AND RETURN
+DTIL20240672                                                                       STAFF TRANSPORTATION                                                              $249.00
+DTIL20240673      05/30/2024  WILLIAM L LEWIS              05/07/2024  05/09/2024  IN AND AROUND WILMINGTON
+DTIL20240674                                                                       STAFF TRANSPORTATION                                                              $639.20
+                  05/31/2024  CITIBANK - TRAVEL CBA CARD   05/13/2024  05/14/2024  WILMINGTON TO BEAUFORT AND RETURN
+DTIL20240675                                                                       STAFF TRANSPORTATION                                                              $505.19
+DTIL20240677      06/03/2024  CITIBANK - TRAVEL CBA CARD   05/14/2024  05/17/2024  WILMINGTON TO JULIAN AND RETURN                                                     $63.60
+DTIL20240678      05/26/2024  GRAYSON COLE OVERHOLT        05/21/2024  05/21/2024  STAFF TRANSPORTATION
+DTIL20240679      05/29/2024  CITIBANK - SENATOR IBA CARD  04/23/2024  05/20/2024  GREENSBORO TO THE FOLLOWING AND RETURN: 5/11 STALEY; 5/14                      $3,085.20
+DTIL20240680                                                                       BURLINGTON, RALEIGH; 5/15 HILLSBOROUGH
+DTIL20240681      06/05/2024  CITIBANK - SENATOR IBA CARD  04/29/2024  05/02/2024  STAFF TRANSPORTATION                                                              $978.70
+                  06/04/2024  GRAYSON COLE OVERHOLT        05/22/2024  05/22/2024  MACCLESFIELD TO THE FOLLOWING AND RETURN: 5/7 SMITHFIELD,
+                  06/04/2024  GRAYSON COLE OVERHOLT        05/24/2024  05/28/2024  CLAYTON; 5/9 NASHVILLE, ROCKY MOUNT, ZEBULON; 5/8 GREENVILLE TO                      $7.20
+                  06/05/2024  GRAYSON COLE OVERHOLT        05/23/2024  05/23/2024  RALEIGH TO MACCLESFIELD                                                             $61.20
+                  06/05/2024  WILLIAM L LEWIS              05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                                $17.22
+                  06/06/2024  WILLIAM L LEWIS              05/23/2024  05/23/2024  AIRFARE FOR J WEBB WASHINGTON DC TO CHARLOTTE, RALEIGH AND                        $147.60
+                                                                                   RETURN                                                                              $10.50
+                                                                                   STAFF TRANSPORTATION                                                              $166.80
+                                                                                   AIRFARE FOR J OSBORNE RALEIGH TO PORTLAND ME AND RETURN                             $16.77
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WILMINGTON TO JACKSONVILLE AND RETURN
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN TILLIS AS FOLLOWS: 4/23, 5/7, 20 CHARLOTTE TO
+                                                                                   WASHINGTON DC; 4/24, 5/10, 16 WASHINGTON DC TO CHARLOTTE; 5/14
+                                                                                   RALEIGH TO WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN TILLIS AS FOLLOWS: 4/29 CHARLOTTE TO WASHINGTON
+                                                                                   DC; 5/2 WASHINGTON DC TO CHARLOTTE
+                                                                                   STAFF TRANSPORTATION
+                                                                                   IN AND AROUND WILMINGTON
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WILMINGTON TO JACKSONVILLE AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WILMINGTON TO FAYETTEVILLE AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   GREENVILLE TO KITTY HAWK, NAGS HEAD, KILL DEVIL HILLS AND RETURN
+                                                                                   STAFF PER DIEM
+

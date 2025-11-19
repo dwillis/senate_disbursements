@@ -1,0 +1,63 @@
+    DOCUMENT NO.    DATE                    PAYEE NAME  OBLIGATION/SERVICE      DESCRIPTION                                                           AMOUNT ($)
+                  POSTED                                           DATES
+DDUC20240706                                                                                                                                                            $17.28
+DDUC20240707                                            START       END
+DDUC20240708                                                                                                                                                            $76.98
+DDUC20240709      09/22/2024  IRIS GONZALEZ             07/18/2024                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DDUC20240710      09/22/2024  IRIS GONZALEZ             07/01/2024   07/18/2024 STAFF TRANSPORTATION                                                                    $39.90
+DDUC20240711      09/22/2024  IRIS GONZALEZ             07/24/2024
+DDUC20240713      09/22/2024  IRIS GONZALEZ             09/06/2024                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $37.93
+                  09/22/2024  IRIS GONZALEZ             09/17/2024   07/31/2024 STAFF TRANSPORTATION
+DDUC20240714      09/21/2024  JESSICA ANN SEWELL        09/17/2024                                                                                                      $25.92
+                  09/27/2024  RANDY R SIKOWSKI          09/11/2024                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                     07/24/2024 STAFF TRANSPORTATION                                                                    $32.74
+                  09/27/2024  CLARENCE D PULCHER III    08/12/2024
+                                                                                          CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $11.96
+DDUC20240715      09/28/2024  EDITH E LONG              09/16/2024   09/06/2024 STAFF TRANSPORTATION                                                                    $92.00  B-1111
+                                                                                                                                                                      $231.82
+DDUC20240716      09/23/2024  JENNIFER L ATANASOV       08/27/2024                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DDUC20240717      09/28/2024  JENNIFER L ATANASOV       09/10/2024   09/17/2024 STAFF TRANSPORTATION                                                                    $15.27
+DDUC20240719      09/25/2024  JESSICA ANN SEWELL        09/19/2024                                                                                                    $221.15
+DDUC20240722      09/25/2024  IRIS GONZALEZ             09/18/2024                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $464.98
+DDUC20240723      09/25/2024  PHILLIP J FOSTER          09/19/2024   09/17/2024 STAFF TRANSPORTATION
+DDUC20240726      09/27/2024  JULIET W SPIES-GANS       09/24/2024                                                                                                      $40.55
+DDUC20240727      09/27/2024  STEPHANIE DELUCA          09/24/2024                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $251.74
+                                                                     09/12/2024 STAFF INCIDENTALS                                                                     $102.73
+0002852508                                              02/01/2024
+0002853695                                              03/01/2024                        STAFF PER DIEM                                                                $84.42
+0002854404                                              04/01/2024                        STAFF TRANSPORTATION
+0002855892                                              05/01/2024                        SPRINGFIELD TO ROCK ISLAND, MOLINE, ROCK ISLAND AND RETURN                  $101.84
+0002857238                                              06/01/2024   08/15/2024 STAFF INCIDENTALS
+0002858816                                              07/01/2024                        STAFF PER DIEM                                                                $50.90
+0002859871                                              08/01/2024                        STAFF TRANSPORTATION
+DDUC20240329                                            04/03/2024                        MORTON TO HOFFMAN ESTATES, SPRINGFIELD, SAINT LOUIS MO AND                    $34.13
+                                                                                          RETURN
+                                                                     09/17/2024 STAFF INCIDENTALS                                                                       $71.02
+                                                                                          STAFF PER DIEM
+                                                                                          STAFF TRANSPORTATION                                                          $27.96
+                                                                                          CHATHAM TO SPRINGFIELD, CHICAGO, SPRINGFIELD AND RETURN
+                                                                     08/28/2024 STAFF TRANSPORTATION                                                                    $47.40
+                                                                                          BELLEVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                     09/10/2024 STAFF TRANSPORTATION                                                              $86,759.29
+                                                                                          BELLEVILLE TO HARDIN AND RETURN                                               $76.00
+                                                                     09/19/2024 STAFF TRANSPORTATION                                                                    $32.95
+                                                                                          CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $46.50
+                                                                     09/18/2024 STAFF TRANSPORTATION
+                                                                                          CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $108.25
+                                                                     09/19/2024 STAFF TRANSPORTATION                                                                    $86.00
+                                                                                          ROCK ISLAND TO THOMSON AND RETURN
+                                                                     09/24/2024 STAFF TRANSPORTATION                                                                  $120.00
+                                                                                          WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $50.00
+                                                                     09/24/2024 STAFF TRANSPORTATION                                                                    $78.00
+                                                                                          WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                    TRAVEL AND TRANSPORTATION OF PERSONS
+
+                  04/18/2024  SERGEANT AT ARMS                      02/29/2024  FEDERAL AUDIO, VISUAL RECORDNG
+                  05/14/2024  SERGEANT AT ARMS                      03/31/2024  FEDERAL AUDIO, VISUAL RECORDNG
+                  05/23/2024  SERGEANT AT ARMS                      04/30/2024  FEDERAL AUDIO, VISUAL RECORDNG
+                  06/27/2024  SERGEANT AT ARMS                      05/31/2024  FEDERAL AUDIO, VISUAL RECORDNG
+                  08/07/2024  SERGEANT AT ARMS                      06/30/2024  FEDERAL AUDIO, VISUAL RECORDNG
+                  09/13/2024  SERGEANT AT ARMS                      07/31/2024  FEDERAL AUDIO, VISUAL RECORDNG
+                  09/25/2024  SERGEANT AT ARMS                      08/31/2024  FEDERAL AUDIO, VISUAL RECORDNG
+                  04/30/2024  CITIBANK - PURCHASE CARD              04/03/2024  SERVICE CHARGES & OTHER FEES
+

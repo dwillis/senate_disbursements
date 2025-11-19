@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+              POSTED                                             DATES
+                                                                              STAFF TRANSPORTATION                                                           $245.06
+                                                      START       END         WASHINGTON DC TO CASPER, CHEYENNE AND RETURN                                     $68.14
+                                                                              STAFF INCIDENTALS
+DBRS20240457  06/13/2024  ROGERS,DYLAN T              05/27/2024  06/01/2024  STAFF PER DIEM                                                                 $749.63
+                                                                              STAFF TRANSPORTATION                                                        $1,240.02
+DBRS20240458  06/24/2024  JOSEPH M CHAMPION           05/27/2024  05/31/2024  WASHINGTON DC TO RAPID CITY SD, HULETT, BUFFALO, SHERIDAN,
+                                                                              BILLINGS MT AND RETURN                                                           $45.96
+DBRS20240461  06/13/2024  BARRASSO,JOHN               05/23/2024  06/03/2024  STAFF INCIDENTALS                                                              $530.77
+                                                                              STAFF PER DIEM                                                                 $512.04
+DBRS20240465  06/15/2024  PATRICK R SHEEHAN           05/23/2024  05/25/2024  STAFF TRANSPORTATION                                                                     B-497
+DBRS20240466  06/17/2024  CITIBANK - TRAVEL CBA CARD  06/07/2024  06/09/2024  WASHINGTON DC TO DENVER CO, CASPER, LARAMIE, CHEYENNE, DENVER                     $9.00
+DBRS20240467                                                                  CO AND RETURN                                                                    $32.80
+DBRS20240468  06/17/2024  CITIBANK - TRAVEL CBA CARD  05/24/2024  06/01/2024  SENATOR INCIDENTALS                                                            $885.58
+DBRS20240469                                                                  SENATOR PER DIEM
+DBRS20240471  06/18/2024  CITIBANK - TRAVEL CBA CARD  06/05/2024  06/08/2024  SENATOR TRANSPORTATION                                                         $457.63
+DBRS20240472                                                                  WASHINGTON DC TO CASPER, DOUGLAS, BUFFALO, LANDER, CODY,                       $271.35
+DBRS20240475  06/24/2024  CITIBANK - TRAVEL CBA CARD  06/05/2024  06/07/2024  CASPER, DENVER CO AND RETURN                                                $2,202.38
+DBRS20240479                                                                  STAFF PER DIEM
+DBRS20240480  06/18/2024  KIEFER CODY MCLEMORE        04/18/2024  06/10/2024  STAFF TRANSPORTATION                                                             $60.00
+              06/24/2024  CITIBANK - TRAVEL CBA CARD  05/28/2024  05/31/2024  CASPER TO DUBOIS TO MILLS
+              07/01/2024  BARRASSO,JOHN               06/06/2024  06/08/2024  STAFF TRANSPORTATION                                                           $735.20
+                                                                              TICKET FEES                                                                      $60.00
+              06/24/2024  CHRISTINE L MCKENZIE        05/27/2024  05/28/2024  AIRFARE FOR E HARVEY, L MENGELKAMP WASHINGTON DC TO CASPER
+                                                                              AND RETURN                                                                     $843.69
+              06/18/2024  VICTORIA A TEEGARDEN        06/05/2024  06/08/2024  STAFF TRANSPORTATION                                                             $60.00
+                                                                              TICKET FEES
+                                                                              AIRFARE FOR A BLAND AS FOLLOWS: 5/24 WASHINGTON DC TO DENVER                   $703.21
+                                                                              CO; 6/1 DENVER CO TO WASHINGTON DC                                               $67.50
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES                                                                    $143.38
+                                                                              AIRFARE FOR V TEEGARDEN WASHINGTON DC TO CASPER, DENVER CO                     $235.00
+                                                                              AND RETURN
+                                                                              STAFF TRANSPORTATION                                                             $25.18
+                                                                              TICKET FEES                                                                 $1,796.30
+                                                                              AIRFARE FOR B BUNNING WASHINGTON DC TO CODY, BILLINGS MT AND
+                                                                              RETURN                                                                           $11.76
+                                                                              STAFF TRANSPORTATION                                                           $153.96
+                                                                              CASPER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $306.86
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR M MARKS WASHINGTON DC TO JACKSON, BILLINGS MT TO                     $35.76
+                                                                              CHARLOTTE NC                                                                   $332.05
+                                                                              SENATOR PER DIEM
+                                                                              SENATOR TRANSPORTATION
+                                                                              WASHINGTON DC TO CASPER, CODY, DOUGLAS, CHUGWATER, CHEYENNE,
+                                                                              DENVER CO AND RETURN
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              SHERIDAN TO LOVELL, BASIN, WORLAND AND RETURN
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+

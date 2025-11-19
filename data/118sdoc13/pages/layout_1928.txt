@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DMRP20240655      05/24/2024  ERIN E MCBRIDE                                            STAFF PER DIEM                                                                   $25.50
+DMRP20240657      05/25/2024  ERIN E MCBRIDE                    START       END         STAFF TRANSPORTATION                                                              $6.03
+DMRP20240658      06/04/2024  JOANNE M CANNON                                           QUAKER HILL TO NEW LONDON AND RETURN
+                                                                05/14/2024  05/14/2024  STAFF PER DIEM                                                                   $20.80
+                                                                                        STAFF TRANSPORTATION                                                             $40.20
+                                                                05/16/2024  05/16/2024  QUAKER HILL TO NEW LONDON, PLAINFIELD AND RETURN                                 $82.30
+                                                                                        STAFF INCIDENTALS                                                              $561.75
+                                                                05/13/2024  05/15/2024  STAFF PER DIEM                                                                 $607.67
+                                                                                        STAFF TRANSPORTATION
+DMRP20240659      05/30/2024  DENI E KAMPER                     05/06/2024  05/06/2024  HARTFORD TO WINDSOR LOCKS, WASHINGTON DC, WINDSOR LOCKS AND                      $54.72
+                                                                                        RETURN                                                                         $177.86
+DMRP20240662      05/28/2024  KYLEE ANNE DOSTIE                 05/18/2024  05/18/2024  STAFF PER DIEM                                                                           B-1891
+DMRP20240663      05/29/2024  FARIAN E RABBANI                  05/19/2024  05/19/2024  STAFF TRANSPORTATION                                                             $30.15
+DMRP20240664      05/29/2024  JAMESON B FOULKE                  05/18/2024  05/18/2024  WASHINGTON DC TO WINDSOR LOCKS, HARTFORD, WINDSOR LOCKS AND                      $21.56
+DMRP20240665      06/03/2024  LIAM C MCENROE                    05/10/2024  05/14/2024  RETURN
+                                                                                        STAFF TRANSPORTATION                                                              $4.69
+DMRP20240666      05/29/2024  JAMESON B FOULKE                  05/22/2024  05/22/2024  MANCHESTER TO MIDDLETOWN AND RETURN                                            $485.20
+DMRP20240667      05/29/2024  FARIAN E RABBANI                  05/22/2024  05/22/2024  STAFF TRANSPORTATION
+DMRP20240668      06/03/2024  JAMESON B FOULKE                  05/21/2024  05/21/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $77.05
+DMRP20240669      05/29/2024  FARIAN E RABBANI                  05/21/2024  05/21/2024  STAFF TRANSPORTATION                                                             $16.07
+DMRP20240670      05/29/2024  JAMESON B FOULKE                  05/20/2024  05/20/2024  WEST HARTFORD TO HARTFORD AND RETURN                                           $107.20
+DMRP20240673      05/31/2024  CITIBANK - SENATOR IBA CARD       05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                             $28.92
+DMRP20240674      05/30/2024  CITIBANK - TRAVEL CBA CARD        05/12/2024  05/12/2024  WASHINGTON DC TO PROVIDENCE RI, NEW LONDON, PROVIDENCE RI AND
+DMRP20240675      06/03/2024  CITIBANK - TRAVEL CBA CARD        05/10/2024  05/10/2024  RETURN                                                                            $7.37
+DMRP20240678      06/06/2024  CLAUDE CAMPBELL                   05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                           $408.98
+DMRP20240679      06/05/2024  CLAUDE CAMPBELL                   05/13/2024  05/13/2024  WEST HARTFORD TO NORTH HAVEN, NEW HAVEN AND RETURN                             $107.10
+DMRP20240680      06/05/2024  CLAUDE CAMPBELL                   05/17/2024  05/17/2024  STAFF TRANSPORTATION                                                           $467.11
+DMRP20240681      06/05/2024  CLAUDE CAMPBELL                   05/01/2024  05/01/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DMRP20240682      06/05/2024  CLAUDE CAMPBELL                   05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                             $53.60
+                                                                                        WEST HARTFORD TO MILFORD, NEW HAVEN, HAMDEN AND RETURN                           $64.32
+                                                                                        STAFF TRANSPORTATION                                                             $17.42
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $45.56
+                                                                                        STAFF TRANSPORTATION                                                             $53.60
+                                                                                        WEST HARTFORD TO HARTFORD AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MURPHY WINDSOR LOCKS TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MURPHY WASHINGTON DC TO NASHVILLE TN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MURPHY WASHINGTON DC TO WINDSOR LOCKS
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HARTFORD TO DANIELSON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HARTFORD TO BRIDGEPORT AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HARTFORD TO MIDDLETOWN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HARTFORD TO NEW HAVEN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HARTFORD TO NEW LONDON AND RETURN
+

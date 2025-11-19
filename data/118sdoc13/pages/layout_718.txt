@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+              POSTED                                             DATES
+                                                                              STAFF TRANSPORTATION                                                        $327.29
+                                                      START       END         CLEVELAND TO CINCINNATI AND RETURN                                            $30.11
+                                                                              STAFF INCIDENTALS
+DBRN20240767  06/12/2024  SARAH R BENZING             01/30/2024  01/31/2024  STAFF PER DIEM                                                              $236.56
+                                                                              STAFF TRANSPORTATION                                                          $43.71
+DBRN20240768  06/12/2024  SARAH R BENZING             05/12/2024  05/13/2024  WASHINGTON DC TO CINCINNATI AND RETURN                                        $34.13
+                                                                              STAFF INCIDENTALS
+DBRN20240769  06/12/2024  SARAH R BENZING             05/01/2024  05/02/2024  STAFF PER DIEM                                                              $255.60   B-700
+                                                                              STAFF TRANSPORTATION                                                          $49.24
+DBRN20240770  07/12/2024  CITIBANK - PURCHASE CARD    03/08/2024  03/10/2024  WASHINGTON DC TO COLUMBUS AND RETURN                                          $41.57
+                                                                              STAFF INCIDENTALS
+DBRN20240771  06/13/2024  BENJAMIN D FINFROCK         03/27/2024  06/05/2024  STAFF PER DIEM                                                              $234.22
+DBRN20240772  06/11/2024  EMMA MARIE SPEYER           06/04/2024  06/04/2024  WASHINGTON DC TO DETROIT MI, TOLEDO, DETROIT MI AND RETURN               $2,413.26
+DBRN20240773  06/11/2024  EMMA MARIE SPEYER           06/05/2024  06/05/2024  NOMINATING BOARD PER DIEM                                                $1,042.05
+DBRN20240775  07/23/2024  CITIBANK - TRAVEL CBA CARD  04/02/2024  04/05/2024  STAFF PER DIEM
+DBRN20240776  07/17/2024  CITIBANK - TRAVEL CBA CARD  04/02/2024  04/02/2024  PER DIEM EXPENSES FOR NOMINATING BOARD HELD IN COLUMBUS                     $515.90
+DBRN20240777  07/17/2024  CITIBANK - TRAVEL CBA CARD  04/03/2024  04/04/2024  STAFF TRANSPORTATION                                                          $83.75
+DBRN20240778  07/19/2024  CITIBANK - TRAVEL CBA CARD  04/03/2024  04/03/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $36.18
+DBRN20240780  07/17/2024  CITIBANK - TRAVEL CBA CARD  04/03/2024  04/03/2024  STAFF TRANSPORTATION
+DBRN20240782  06/13/2024  ANTHONY L ELIOPOULOS        06/05/2024  06/05/2024  COLUMBUS TO RUSSELLS POINT AND RETURN                                    $3,888.95
+DBRN20240783  06/13/2024  JORDAN T PENNELL            06/04/2024  06/04/2024  STAFF TRANSPORTATION                                                        $299.15
+DBRN20240784  06/13/2024  JORDAN T PENNELL            06/05/2024  06/05/2024  COLUMBUS TO CARROLL AND RETURN
+DBRN20240785  06/13/2024  JORDAN T PENNELL            06/06/2024  06/06/2024  STAFF PER DIEM                                                           $1,850.59
+DBRN20240787  06/13/2024  JORDAN T PENNELL            06/07/2024  06/07/2024  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN WASHINGTON DC                   $285.14
+DBRN20240788  06/14/2024  JAMES T HUFFER-COLE         05/22/2024  05/22/2024  STAFF PER DIEM
+DBRN20240789  06/14/2024  JAMES T HUFFER-COLE         05/29/2024  05/29/2024  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN WASHINGTON DC                $1,068.76
+DBRN20240790  06/13/2024  JAMES T HUFFER-COLE         05/31/2024  05/31/2024  STAFF PER DIEM                                                              $162.00
+DBRN20240791  06/13/2024  JAMES T HUFFER-COLE         06/05/2024  06/05/2024  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN WASHINGTON DC                     $90.45
+                                                                              STAFF PER DIEM                                                                $24.12
+                                                                              PER DIEM EXPENSES FOR STAFF RETREAT HELD IN WASHINGTON DC                     $14.74
+                                                                              STAFF PER DIEM                                                                $64.32
+                                                                              PER DIEM EXPENSES FOR STAFF RETREAT HELD IN WASHINGTON DC                   $103.18
+                                                                              STAFF TRANSPORTATION                                                        $138.02
+                                                                              COLUMBUS TO AKRON AND RETURN                                                  $37.52
+                                                                              STAFF TRANSPORTATION                                                          $42.88
+                                                                              YOUNGSTOWN TO NORTH CANTON, CANTON AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              YOUNGSTOWN TO NILES AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              IN AND AROUND YOUNGSTOWN
+                                                                              STAFF TRANSPORTATION
+                                                                              YOUNGSTOWN TO KENT AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              LOUISVILLE TO MANSFIELD AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              LOUISVILLE TO GAMBIER, MOUNT VERNON, AKRON AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              LOUISVILLE TO AKRON AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              LOUISVILLE TO AKRON, CUYAHOGA FALLS AND RETURN
+

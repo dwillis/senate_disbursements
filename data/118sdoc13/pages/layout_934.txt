@@ -1,0 +1,55 @@
+    DOCUMENT NO.    DATE      PAYEE NAME              OBLIGATION/SERVICE                                                    DESCRIPTION               AMOUNT ($)
+                  POSTED                                         DATES
+DCOL20240714                                                                  PORTLAND TO NEW GLOUCESTER AND RETURN                                                     $18.00
+DCOL20240715                                          START       END         STAFF TRANSPORTATION                                                                      $18.00
+DCOL20240716                                                                  AUGUSTA TO BIDDEFORD AND RETURN                                                           $99.00
+DCOL20240717      08/15/2024  ALLYSON M CAVARETTA     07/22/2024  07/22/2024  STAFF TRANSPORTATION                                                                      $27.21
+DCOL20240718      08/01/2024  ALLYSON M CAVARETTA     07/23/2024  07/23/2024  AUGUSTA TO BIDDEFORD AND RETURN                                                           $68.20
+DCOL20240719      07/31/2024  ALLYSON M CAVARETTA     07/22/2024  07/22/2024  STAFF TRANSPORTATION
+DCOL20240720      07/31/2024  ALLYSON M CAVARETTA     07/24/2024  07/24/2024  AUGUSTA TO BOSTON MA AND RETURN                                                           $40.70
+                                                                              STAFF PER DIEM                                                                          $279.95
+DCOL20240721      07/31/2024  ALLYSON M CAVARETTA     07/25/2024  07/25/2024  STAFF TRANSPORTATION
+                  08/05/2024  TRISHA L HOUSE          03/20/2024  04/30/2024  AUGUSTA TO CAMDEN, ROCKLAND, THOMASTON, TENANTS HARBOR AND                              $289.30
+DCOL20240722                                                                  RETURN
+DCOL20240726      08/05/2024  TRISHA L HOUSE          05/02/2024  05/21/2024  STAFF TRANSPORTATION                                                                    $357.50
+                                                                              AUGUSTA TO BOOTHBAY AND RETURN
+                  08/05/2024  TRISHA L HOUSE          06/05/2024  07/25/2024  STAFF TRANSPORTATION                                                                      $32.76  B-916
+                                                                              CARIBOU TO THE FOLLOWING AND RETURN TO MAPLETON: 3/20, 4/11                               $57.20
+                  07/31/2024  TRISHA L HOUSE          05/16/2024  05/16/2024  MADAWASKA; 4/8, 24 PRESQUE ISLE; 4/30 PORTAGE; CARIBOU TO THE                             $44.82
+                  08/06/2024  COLLINS,SUSAN M         07/11/2024  07/23/2024  FOLLOWING AND RETURN: 3/27, 28, 4/9, 12 PRESQUE ISLE; 4/18 MARS HILL                    $642.68
+                                                                              STAFF TRANSPORTATION                                                                    $286.85
+DCOL20240727      08/01/2024  HALSEY B FRANK          07/27/2024  07/27/2024  CARIBOU TO THE FOLLOWING AND RETURN TO MAPLETON: 5/2 FORT KENT;
+DCOL20240730      08/22/2024  MOLLY FRANCES ROSS      07/25/2024  07/29/2024  5/7 HOULTON; 5/15, 20 PRESQUE ISLE; 5/17 VAN BUREN; 5/3, 6, 21 CARIBOU                    $63.80
+                                                                              TO PRESQUE ISLE AND RETURN; MAPLETON TO THE FOLLOWING AND                                 $59.56
+DCOL20240731      08/07/2024  KAREN M STAPLES         07/11/2024  07/11/2024  RETURN TO CARIBOU: 5/8 FRENCHVILLE; 5/10 PRESQUE ISLE                                   $464.01
+DCOL20240749      08/07/2024  ALLYSON M CAVARETTA     07/29/2024  07/29/2024  STAFF TRANSPORTATION                                                                    $739.42
+DCOL20240750      08/07/2024  ALLYSON M CAVARETTA     07/30/2024  07/30/2024  CARIBOU TO THE FOLLOWING AND RETURN TO MAPLETON: 6/10, 7/25                               $41.25
+DCOL20240751                                                                  MADAWASKA; 7/18 EASTON, CARIBOU; 7/19 SAINT AGATHA; CARIBOU TO                            $10.00
+DCOL20240753      08/14/2024  CATHERINE K MCCONVILLE  07/31/2024  07/31/2024  THE FOLLOWING AND RETURN: 6/5 PORTAGE; 7/8, 22 PRESQUE ISLE; 7/2                          $66.55
+                  08/09/2024  STEVEN W ABBOTT         07/29/2024  08/02/2024  MAPLETON TO SAINT AGATHA TO CARIBOU
+                                                                              STAFF PER DIEM                                                                            $13.97
+                                                                              STAFF TRANSPORTATION                                                                      $84.21
+                                                                              CARIBOU TO HOULTON TO MAPLETON                                                          $558.80
+                                                                              SENATOR INCIDENTALS
+                                                                              SENATOR PER DIEM
+                                                                              SENATOR TRANSPORTATION
+                                                                              WASHINGTON DC TO PORTLAND, LEWISTON, AUBURN, STANDISH,
+                                                                              FREEPORT, BANGOR, PRESQUE ISLE, BANGOR, BOSTON MA AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              PORTLAND TO BELGRADE, BATH AND RETURN
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO PORTLAND, BAR HARBOR AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              LEWISTON TO PORTLAND AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AUGUSTA TO BIDDEFORD AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AUGUSTA TO BELGRADE, OAKLAND, NORRIDGEWOCK, PITTSFIELD AND
+                                                                              RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+

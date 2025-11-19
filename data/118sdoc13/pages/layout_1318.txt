@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE                    PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                           DATES
+DHAS20240201                                                                    PORTSMOUTH TO MANCHESTER, PEMBROKE AND RETURN                                  $10.77
+DHAS20240202                                            START       END         STAFF PER DIEM                                                                 $60.30
+DHAS20240207                                                                    STAFF TRANSPORTATION                                                           $14.11
+DHAS20240208      04/11/2024  JUSTIN M TROIANO          04/05/2024  04/05/2024  PORTSMOUTH TO MANCHESTER AND RETURN                                          $835.20
+                  04/18/2024  HASSAN,MAGGIE                                     SENATOR PER DIEM
+                                                        03/14/2024  03/19/2024  SENATOR TRANSPORTATION                                                         $18.04
+                                                                                WASHINGTON DC TO MANCHESTER, NEWFIELDS, SALEM, NEWFIELDS,                    $175.54
+                  04/30/2024  JUSTIN M TROIANO          04/09/2024  04/09/2024  MANCHESTER AND RETURN
+                  05/01/2024  JASMINE LALITA MASAND     03/24/2024  03/31/2024  STAFF PER DIEM                                                                 $55.31
+                                                                                STAFF TRANSPORTATION                                                         $790.19
+DHAS20240209      04/29/2024  PAMELA M WALSH            04/10/2024  04/11/2024  PORTSMOUTH TO GORHAM, LITTLETON AND RETURN                                   $512.23   B-1300
+                                                                                STAFF INCIDENTALS
+DHAS20240210      04/26/2024  PAMELA M WALSH            03/19/2024  04/12/2024  STAFF PER DIEM                                                                 $40.38
+DHAS20240211      04/24/2024  JENNIFER L KUZMA          03/11/2024  03/11/2024  STAFF TRANSPORTATION                                                         $610.52
+DHAS20240212      04/24/2024  JENNIFER L KUZMA          03/28/2024  03/28/2024  WASHINGTON DC TO BOSTON MA, MANCHESTER, PLYMOUTH, NORTH                      $126.63
+DHAS20240213      04/29/2024  HASSAN,MAGGIE             03/23/2024  04/08/2024  CONWAY, BOSTON MA AND RETURN
+                                                                                STAFF PER DIEM                                                                 $89.44
+DHAS20240214      04/29/2024  HASSAN,MAGGIE             04/11/2024  04/15/2024  STAFF TRANSPORTATION                                                           $28.60
+                                                                                CONCORD TO MANCHESTER, WASHINGTON DC, MANCHESTER AND RETURN                    $60.59
+DHAS20240215      04/26/2024  KERRY A ZACK              03/15/2024  03/15/2024  STAFF TRANSPORTATION                                                         $835.20
+DHAS20240216      04/26/2024  KERRY A ZACK              03/15/2024  03/15/2024  CONCORD OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DHAS20240217      04/26/2024  KERRY A ZACK              03/25/2024  03/25/2024  STAFF TRANSPORTATION                                                           $13.94
+DHAS20240218      04/26/2024  KERRY A ZACK              03/26/2024  03/26/2024  MANCHESTER TO NEWFIELDS, MANCHESTER, NEWFIELDS AND RETURN                    $835.20
+DHAS20240219      04/26/2024  KERRY A ZACK              03/27/2024  03/27/2024  STAFF TRANSPORTATION
+DHAS20240220      04/26/2024  KERRY A ZACK              04/09/2024  04/09/2024  MANCHESTER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $56.14
+DHAS20240221      04/26/2024  KERRY A ZACK              04/11/2024  04/11/2024  SENATOR PER DIEM                                                               $79.46
+DHAS20240222      04/26/2024  KERRY A ZACK              04/13/2024  04/13/2024  SENATOR TRANSPORTATION                                                         $76.38
+DHAS20240223      05/01/2024  KERRY A ZACK              04/15/2024  04/15/2024  WASHINGTON DC TO MANCHESTER, NEWFIELDS, HOLDERNESS,                            $66.73
+                                                                                NEWFIELDS, HOLLIS, NEWFIELDS, MANCHESTER, NEWFIELDS,                           $99.56
+                                                                                MANCHESTER AND RETURN                                                          $78.05
+                                                                                SENATOR PER DIEM                                                               $87.30
+                                                                                SENATOR TRANSPORTATION                                                         $87.90
+                                                                                WASHINGTON DC TO MANCHESTER, NEWFIELDS, MANCHESTER AND                       $164.21
+                                                                                RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                HOLLIS TO NEWFIELDS TO MANCHESTER
+                                                                                STAFF TRANSPORTATION
+                                                                                MANCHESTER TO SALEM, NEWFIELDS TO HOLLIS
+                                                                                STAFF TRANSPORTATION
+                                                                                MANCHESTER TO KEENE TO HOLLIS
+                                                                                STAFF TRANSPORTATION
+                                                                                HOLLIS TO DOVER TO MANCHESTER
+                                                                                STAFF TRANSPORTATION
+                                                                                HOLLIS TO PLYMOUTH, HOLDERNESS TO MANCHESTER
+                                                                                STAFF TRANSPORTATION
+                                                                                MANCHESTER TO NEWINGTON TO HOLLIS
+                                                                                STAFF TRANSPORTATION
+                                                                                HOLLIS TO PORTSMOUTH AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                HOLLIS TO NEWFIELDS, NEW CASTLE AND RETURN
+                                                                                STAFF TRANSPORTATION
+

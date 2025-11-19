@@ -1,0 +1,47 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME     OBLIGATION/SERVICE  DESCRIPTION                                AMOUNT ($)
+                                                                              DATES
+TDEP202400846      POSTED     FINANCIAL CLERK US SENATE                                                                                    -$143,627.15
+VSAA22402556                  GE RICHARDS GRAPHIC SUPPLIES CO INC  START       END                                                            $46,787.00
+VSAA22403076      08/20/2024  HICKORY CHAIR LLC                                                                                                $8,738.00
+VSAA22403405      05/02/2024  HICKORY CHAIR LLC                    08/19/2024   08/19/2024 VOICE & DATA COMM EQUIPMENT                         $4,852.80    B-345
+VSAA22403849      04/01/2024  GRACENOTE MEDIA SERVICES LLC         08/17/2023   08/17/2023 PRODUCTION EQUIPMENT                               $13,046.03
+VSAA22404468      04/09/2024  CUTTING EDGE INDUSTRIES              09/27/2023   09/27/2023 FURNISHINGS                                            $360.00
+VSAA22404521      04/01/2024  VISION TECHNOLOGIES, LLC             09/27/2023   09/27/2023 FURNISHINGS
+VSAA22405833      04/16/2024  VERIZON WIRELESS                     01/03/2024   01/03/2024 SOFTWARE LICENSE                                 $549,885.00
+VSAA22405834      04/16/2024  VERIZON WIRELESS                     02/22/2024   02/22/2024 FURNISHINGS                                         $2,599.95
+VSAA22405908      06/17/2024  VISION TECHNOLOGIES, LLC             02/13/2024   02/13/2024 VOICE & DATA COMM EQUIPMENT
+VSAA22406168      05/31/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                        $17,849.83
+VSAA22406236      07/09/2024  CARAHSOFT TECHNOLOGY CORPORATION     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                      $375,179.62
+VSAA22406797      06/25/2024  VERIZON WIRELESS                     06/12/2024   06/12/2024 VOICE & DATA COMM EQUIPMENT
+VSAA22406798      06/12/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                              $44.99
+VSAA22406799      07/15/2024  VERIZON WIRELESS                     06/05/2024   06/05/2024 SOFTWARE LICENSE                                    $9,626.25
+VSAA22406800      07/15/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT
+VSAA22406801      07/15/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                            $549.99
+VSAA22406802      07/15/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                            $399.99
+VSAA22406803      07/15/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                            $749.99
+VSAA22406804      07/15/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                            $749.99
+VSAA22406805      07/15/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                            $749.99
+VSAA22406806      07/15/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                            $749.99
+VSAA22406807      07/15/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                            $549.99
+VSAA22406828      07/12/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                            $749.99
+VSAA22406829      07/15/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                            $549.00
+VSAA22406830      07/15/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT
+VSAA22406831      07/15/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                              $52.48
+VSAA22406832      07/15/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                            $267.46
+VSAA22406833      07/15/2024  VERIZON WIRELESS                     06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                            $649.99
+VSAA22407455      07/15/2024  ILC DOVER LP                         06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                            $252.47
+VSAA22407602      07/15/2024  G&D NORTH AMERICA INC                06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                            $252.47
+VSAA22407906      08/06/2024  PFINIX LLC                           06/04/2021   06/04/2021 VOICE & DATA COMM EQUIPMENT                            $649.99
+VSAA22407965      09/25/2024  PFINIX LLC                           05/01/2024   05/01/2024 IT EQUIPMENT                                           $549.99
+VSAA22408035      09/12/2024  ILC DOVER LP                         05/21/2024   05/21/2024 AUDIO, VISUAL EQUIPMENT                                $249.99
+VSAA22408057      09/12/2024  VCLOUD TECH INC                      08/05/2024   08/05/2024 AUDIO, VISUAL EQUIPMENT                          $401,159.04
+VSAA22408540      09/26/2024  BLUEALLY TECHNOLOGY SOLUTIONS LLC    08/19/2024   08/19/2024 SOFTWARE LICENSE                                    $5,112.00
+                  09/16/2024                                       05/01/2024   05/01/2024 IT EQUIPMENT                                        $9,750.00
+VSAA22408571      09/27/2024  ADVANCED COMPUTER CONCEPTS, INC.     08/14/2024   08/14/2024 SOFTWARE LICENSE                                    $2,900.00
+                                                                   08/12/2024   08/12/2024 SOFTWARE LICENSE                                 $163,840.96
+                  09/27/2024                                                                                                                $289,391.96
+                                                                   08/20/2024                        VOICE & DATA COMM EQUIPMENT              $16,884.00
+                                                                                08/20/2024 VOICE & DATA COMM EQUIPMENT                        $19,224.84
+                                                                               ACQUISITION OF ASSETS                                          $17,539.12
+                                                                                                                                          $1,492,945.85
+

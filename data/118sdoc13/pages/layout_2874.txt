@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+              POSTED                                             DATES
+                                                                              STAFF PER DIEM                                                                 $458.00
+                                                      START       END         STAFF TRANSPORTATION                                                           $189.17
+                                                                              WASHINGTON DC TO PHILADELPHIA PA AND RETURN
+DFRE20240329  09/27/2024  ANDREW N KELLER             10/05/2023  10/06/2023  STAFF INCIDENTALS                                                                $51.36
+                                                                              STAFF PER DIEM                                                                 $322.00
+DFRE20240330  09/27/2024  ANDREW N KELLER             04/18/2024  04/20/2024  STAFF TRANSPORTATION                                                           $156.13
+                                                                              WASHINGTON DC TO BOSTON MA, CAMBRIDGE MA, BOSTON AND RETURN
+DFRE20240331  09/21/2024  ANDREW N KELLER             10/23/2023  10/31/2023  STAFF INCIDENTALS                                                                $84.92
+DFRE20240332  09/27/2024  CHRISTOPHER M SOCHA         06/24/2024  06/28/2024  STAFF PER DIEM                                                                 $488.00
+                                                                              STAFF TRANSPORTATION
+DFRE20240333  09/21/2024  MURPHY,MARGARET H           08/30/2024  08/30/2024  WASHINGTON DC TO CHICAGO IL AND RETURN                                           $84.62  B-2-83
+DFRE20240334  09/21/2024  MURPHY,MARGARET H           09/09/2024  09/09/2024  STAFF TRANSPORTATION
+DFRE20240335  09/27/2024  MATTHEW SULLIVAN            12/06/2023  12/15/2023  INTERDEPARTMENTAL TRANSPORTATION                                                 $63.40
+DFRE20240338  09/20/2024  MURPHY,MARGARET H           09/13/2024  09/13/2024  STAFF INCIDENTALS
+DFRE20240339  09/20/2024  MURPHY,MARGARET H           09/16/2024  09/16/2024  STAFF PER DIEM                                                                   $87.97
+DFRE20240340  09/20/2024  MURPHY,MARGARET H           09/17/2024  09/17/2024  STAFF TRANSPORTATION                                                           $366.26
+DFRE20240346  09/23/2024  CITIBANK - TRAVEL CBA CARD  09/03/2024  09/06/2024  WASHINGTON DC TO RENO NV, INCLINE VILLAGE NV, RENO AND RETURN                  $822.32
+DFRE20240347                                                                  STAFF TRANSPORTATION
+DFRE20240348  09/25/2024  CITIBANK - TRAVEL CBA CARD  09/03/2024  09/06/2024  INTERDEPARTMENTAL TRANSPORTATION                                                 $35.00
+DFRE20240350                                                                  STAFF TRANSPORTATION
+DFRE20240351  09/23/2024  CITIBANK - TRAVEL CBA CARD  09/03/2024  09/06/2024  INTERDEPARTMENTAL TRANSPORTATION                                                 $35.00
+DFRE20240352                                                                  STAFF TRANSPORTATION
+DFRE20240353  09/23/2024  CITIBANK - TRAVEL CBA CARD  09/03/2024  09/07/2024  INTERDEPARTMENTAL TRANSPORTATION                                               $129.42
+                                                                              STAFF TRANSPORTATION
+              09/23/2024  CITIBANK - TRAVEL CBA CARD  09/03/2024  09/06/2024  INTERDEPARTMENTAL TRANSPORTATION                                                 $57.00
+                                                                              STAFF TRANSPORTATION
+              09/23/2024  CITIBANK - TRAVEL CBA CARD  09/03/2024  09/07/2024  INTERDEPARTMENTAL TRANSPORTATION                                                 $48.00
+                                                                              STAFF TRANSPORTATION
+              09/23/2024  CITIBANK - TRAVEL CBA CARD  09/03/2024  09/06/2024  INTERDEPARTMENTAL TRANSPORTATION                                                 $43.00
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES                                                                    $699.21
+                                                                              AIRFARE FOR K WALKER WASHINGTON DC TO BOISE ID AND RETURN                        $40.00
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES                                                                    $688.20
+                                                                              AIRFARE FOR D OLSON WASHINGTON DC TO BOISE ID AND RETURN                         $40.00
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES                                                                    $688.20
+                                                                              AIRFARE FOR J CONDON WASHINGTON DC TO BOISE ID AND RETURN                        $40.00
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES                                                                    $560.20
+                                                                              AIRFARE FOR K GRUBB WASHINGTON DC TO BOISE ID AND RETURN                         $40.00
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES                                                                    $699.21
+                                                                              AIRFARE FOR M URENA WASHINGTON DC TO BOISE ID AND RETURN                         $40.00
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES                                                                    $490.20
+                                                                              AIRFARE FOR B CULLEN WASHINGTON DC TO BOISE ID AND RETURN                        $40.00
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES                                                                    $688.20
+                                                                              AIRFARE FOR L SOMMER WASHINGTON DC TO BOISE ID AND RETURN                        $40.00
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                             DATES
+DKLO20240331                                                                      FARIBAULT TO MARSHALL AND RETURN                                               $23.09
+                                                          START       END         STAFF PER DIEM                                                                 $71.02
+DKLO20240334                                                                      STAFF TRANSPORTATION                                                         $112.56
+DKLO20240335      04/26/2024  CHARLES R ACKMAN            04/15/2024  04/15/2024  FARIBAULT TO MINNEAPOLIS AND RETURN                                            $19.43
+DKLO20240336                                                                      STAFF TRANSPORTATION
+DKLO20240337      05/02/2024  CHARLES R ACKMAN            04/18/2024  04/18/2024  FARIBAULT TO SAINT JAMES AND RETURN                                             $2.01  B-1564
+DKLO20240338      05/02/2024  CHARLES R ACKMAN            04/22/2024  04/22/2024  STAFF TRANSPORTATION                                                         $261.97
+DKLO20240339      05/02/2024  ROMMEL WONG LEE             04/22/2024  04/22/2024  ROCHESTER TO KASSON AND RETURN                                               $120.60
+DKLO20240342      05/07/2024  BENJAMIN J LIEN             04/24/2024  04/24/2024  STAFF TRANSPORTATION
+DKLO20240343      05/02/2024  CHARLES R ACKMAN            04/25/2024  04/25/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $18.09
+DKLO20240344      05/03/2024  ROMMEL WONG LEE             04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                         $894.10
+DKLO20240345      05/16/2024  CITIBANK - TRAVEL CBA CARD  03/23/2024  03/23/2024  MOORHEAD TO LITCHFIELD, WILLMAR AND RETURN                                   $298.60
+                  05/14/2024  CITIBANK - TRAVEL CBA CARD  03/23/2024  03/23/2024  STAFF TRANSPORTATION                                                         $517.10
+DKLO20240347      05/03/2024  CITIBANK - TRAVEL CBA CARD  02/29/2024  02/29/2024  FARIBAULT TO HARMONY, KASSON TO ROCHESTER                                    $783.21
+DKLO20240348      05/03/2024  CITIBANK - TRAVEL CBA CARD  02/22/2024  02/25/2024  STAFF TRANSPORTATION
+DKLO20240352                                                                      MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $40.00
+DKLO20240353      05/03/2024  CITIBANK - TRAVEL CBA CARD  03/06/2024  03/06/2024  STAFF TRANSPORTATION                                                           $40.00
+                  05/03/2024  CITIBANK - TRAVEL CBA CARD  03/22/2024  03/22/2024  AIRFARE FOR E NELSON MINNEAPOLIS TO FARGO ND                                   $40.00
+DKLO20240354      05/03/2024  CITIBANK - TRAVEL CBA CARD  03/22/2024  03/22/2024  STAFF TRANSPORTATION                                                           $40.00
+                  06/25/2024  CITIBANK - TRAVEL CBA CARD  03/01/2024  03/01/2024  AIRFARE FOR M COLES WASHINGTON DC TO FARGO ND                                $229.10
+DKLO20240356                                                                      STAFF TRANSPORTATION                                                           $40.00
+DKLO20240357      05/03/2024  CITIBANK - TRAVEL CBA CARD  03/11/2024  03/13/2024  AIRFARE FOR B SELASSIE WASHINGTON DC TO MINNEAPOLIS                          $783.21
+DKLO20240358                                                                      STAFF TRANSPORTATION                                                           $40.00
+DKLO20240359      05/07/2024  ANDREA A HERNANDEZ DELGADO  04/26/2024  04/26/2024  TICKET FEES                                                                    $14.74
+DKLO20240360      05/07/2024  FREDERICK NOCH              04/01/2024  04/30/2024  AIRFARE FOR M COLES WASHINGTON DC TO MINNEAPOLIS AND RETURN                    $50.25
+DKLO20240361      05/09/2024  JODI A NIEHOFF              04/24/2024  04/24/2024  TICKET FEES                                                                  $136.01
+DKLO20240362      05/07/2024  JODI A NIEHOFF              04/26/2024  04/26/2024  TICKET FEES                                                                    $17.42
+DKLO20240363      05/13/2024  ALLISON K GLASS             04/22/2024  04/22/2024  TICKET FEES                                                                    $35.24
+                  05/13/2024  ALLISON K GLASS             04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                           $11.25
+                  05/13/2024  ALLISON K GLASS             04/25/2024  04/25/2024  TICKET FEES                                                                    $18.49
+                  05/13/2024  PATRICK D KELLIHER          04/01/2024  04/30/2024  AIRFARE FOR B SELASSIE MINNEAPOLIS TO NEW YORK NY                              $49.17
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR H WELCH MINNEAPOLIS TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINNEAPOLIS TO WILLMAR, WINSTED AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

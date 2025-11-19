@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                      DATES
+DMCN20240839                                                               LEXINGTON TO HARRODSBURG AND RETURN                                                 $44.54
+DMCN20240840                                       START       END         STAFF TRANSPORTATION                                                                $41.92
+DMCN20240841                                                               BEATTYVILLE TO IRVINE TO LEXINGTON                                                  $56.33
+DMCN20240842      07/02/2024  HALEY E TIPTON       06/13/2024  06/13/2024  STAFF TRANSPORTATION                                                                $89.08  B-1763
+DMCN20240843      07/02/2024  HALEY E TIPTON       06/22/2024  06/22/2024  BEATTYVILLE TO STANFORD AND RETURN                                                  $84.49
+DMCN20240844      07/02/2024  DONNA BAKER MCCLURE  06/03/2024  06/03/2024  STAFF TRANSPORTATION                                                                $96.28
+DMCN20240845      07/02/2024  DONNA BAKER MCCLURE  06/04/2024  06/04/2024  LONDON TO SOMERSET AND RETURN                                                       $34.06
+DMCN20240846      07/02/2024  DONNA BAKER MCCLURE  06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                              $162.44
+DMCN20240847      07/02/2024  DONNA BAKER MCCLURE  06/06/2024  06/06/2024  LONDON TO SOMERSET AND RETURN                                                       $60.26
+DMCN20240848      07/02/2024  DONNA BAKER MCCLURE  06/07/2024  06/07/2024  STAFF TRANSPORTATION                                                                $38.64
+DMCN20240849      07/02/2024  DONNA BAKER MCCLURE  06/12/2024  06/12/2024  LONDON TO CHAVIES AND RETURN                                                      $129.69
+DMCN20240850      07/02/2024  DONNA BAKER MCCLURE  06/13/2024  06/13/2024  STAFF TRANSPORTATION                                                              $207.63
+DMCN20240851      07/02/2024  DONNA BAKER MCCLURE  06/14/2024  06/14/2024  LONDON TO HAZARD AND RETURN                                                       $156.54
+DMCN20240852      07/02/2024  DONNA BAKER MCCLURE  06/17/2024  06/17/2024  STAFF TRANSPORTATION                                                              $100.21
+DMCN20240853      07/02/2024  DONNA BAKER MCCLURE  06/18/2024  06/18/2024  LONDON TO CORBIN AND RETURN                                                         $99.68
+                  07/02/2024  DONNA BAKER MCCLURE  06/20/2024  06/20/2024  STAFF TRANSPORTATION                                                              $746.41
+                  07/02/2024  DONNA BAKER MCCLURE  06/21/2024  06/21/2024  LONDON TO PIKEVILLE AND RETURN                                                    $496.95
+                  07/03/2024  RICHARD I ST. ONGE   05/26/2024  05/31/2024  STAFF TRANSPORTATION
+                                                                           LONDON TO SOMERSET AND RETURN                                                       $25.54
+DMCN20240862      07/08/2024  STEPHANIE H NELSON   06/25/2024  06/25/2024  STAFF TRANSPORTATION                                                                $20.96
+DMCN20240863      07/08/2024  STEPHANIE H NELSON   06/26/2024  06/26/2024  LONDON TO CORBIN AND RETURN                                                         $19.65
+DMCN20240864      07/08/2024  MEGAN M BANKEMPER    03/04/2024  03/04/2024  STAFF TRANSPORTATION                                                                $13.10
+DMCN20240865      07/08/2024  MEGAN M BANKEMPER    03/05/2024  03/05/2024  LONDON TO LEXINGTON AND RETURN                                                      $26.20
+DMCN20240866      07/08/2024  MEGAN M BANKEMPER    03/07/2024  03/07/2024  STAFF TRANSPORTATION                                                                $16.37
+DMCN20240867      07/08/2024  MEGAN M BANKEMPER    03/11/2024  03/11/2024  LONDON TO MOUNT VERNON, HINDMAN AND RETURN                                          $16.37
+DMCN20240868      07/08/2024  MEGAN M BANKEMPER    03/13/2024  03/13/2024  STAFF TRANSPORTATION                                                                $13.10
+DMCN20240869      07/08/2024  MEGAN M BANKEMPER    03/21/2024  03/21/2024  LONDON TO SOMERSET, HYDEN AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           LONDON TO HARLAN AND RETURN
+                                                                           STAFF INCIDENTALS
+                                                                           STAFF PER DIEM
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO LOUISVILLE, HOPKINSVILLE, LEXINGTON, LOUISVILLE
+                                                                           AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           RICHMOND TO LEXINGTON AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

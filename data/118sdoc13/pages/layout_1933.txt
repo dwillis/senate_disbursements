@@ -1,0 +1,51 @@
+    DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                      DATES
+DMRP20240788                                                               QUAKER HILL TO NORWICH TO HARTFORD                                               $44.22
+DMRP20240790                                       START       END         STAFF TRANSPORTATION                                                             $22.90
+DMRP20240791                                                               QUAKER HILL TO EAST HADDAM TO HARTFORD                                           $17.41
+DMRP20240792      07/03/2024  ERIN E MCBRIDE       06/26/2024  06/26/2024  STAFF TRANSPORTATION                                                             $56.54
+DMRP20240795      07/05/2024  FARIAN E RABBANI     06/20/2024  06/20/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $19.95
+                  07/05/2024  FARIAN E RABBANI     06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                           $133.00
+DMRP20240799      07/05/2024  FARIAN E RABBANI     06/24/2024  06/24/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $386.47
+DMRP20240800      07/15/2024  LIAM C MCENROE       06/21/2024  06/30/2024  STAFF TRANSPORTATION                                                             $45.56
+DMRP20240801                                                               WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $29.48
+DMRP20240802      07/10/2024  CLAUDE CAMPBELL      06/04/2024  06/04/2024  STAFF INCIDENTALS                                                                $47.57  B-1896
+DMRP20240803      07/10/2024  CLAUDE CAMPBELL      06/03/2024  06/03/2024  STAFF PER DIEM                                                                   $20.10
+DMRP20240804      07/11/2024  CLAUDE CAMPBELL      06/10/2024  06/10/2024  STAFF TRANSPORTATION                                                             $45.56
+DMRP20240805      07/10/2024  CLAUDE CAMPBELL      06/20/2024  06/20/2024  WASHINGTON DC TO NEW YORK NY, HARTFORD, WARWICK RI AND RETURN                    $12.06
+DMRP20240806      07/12/2024  CLAUDE CAMPBELL      06/26/2024  06/26/2024  STAFF TRANSPORTATION                                                             $54.94
+DMRP20240807      07/11/2024  CLAUDE CAMPBELL      06/27/2024  06/27/2024  HARTFORD TO NORWICH AND RETURN                                                   $52.26
+DMRP20240808      07/12/2024  CLAUDE CAMPBELL      06/28/2024  06/28/2024  STAFF TRANSPORTATION                                                             $64.32
+DMRP20240809      07/11/2024  CLAUDE CAMPBELL      06/21/2024  06/21/2024  HARTFORD TO WALLINGFORD AND RETURN                                               $44.22
+DMRP20240810      07/11/2024  CLAUDE CAMPBELL      06/13/2024  06/13/2024  STAFF TRANSPORTATION                                                             $71.02
+DMRP20240811      07/11/2024  CLAUDE CAMPBELL      06/25/2024  06/25/2024  HARTFORD TO EAST HAVEN AND RETURN                                                $34.84
+DMRP20240812      07/11/2024  CLAUDE CAMPBELL      06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                             $53.60
+DMRP20240813      07/11/2024  CLAUDE CAMPBELL      06/05/2024  06/05/2024  HARTFORD TO ELLINGTON AND RETURN                                                 $45.56
+DMRP20240814      07/12/2024  CLAUDE CAMPBELL      06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                             $45.56
+DMRP20240815      07/11/2024  CLAUDE CAMPBELL      06/07/2024  06/07/2024  HARTFORD TO NEW HAVEN AND RETURN                                                 $45.56
+DMRP20240820      07/11/2024  CLAUDE CAMPBELL      06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                             $64.32
+                  07/11/2024  CLAUDE CAMPBELL      06/18/2024  06/18/2024  HARTFORD TO NEW BRITAIN AND RETURN                                             $444.22
+                  07/11/2024  CLAUDE CAMPBELL      07/02/2024  07/02/2024  STAFF TRANSPORTATION
+                  07/19/2024  TRAYVONN AARON DIAZ  10/01/2023  11/02/2023  HARTFORD TO GROTON AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HARTFORD TO NEW LONDON AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HARTFORD TO BRIDGEPORT AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HARTFORD TO MONTVILLE AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HARTFORD TO FAIRFIELD AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HARTFORD TO WINDHAM AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HARTFORD TO DANIELSON AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HARTFORD TO NEW HAVEN AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HARTFORD TO NEW HAVEN AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HARTFORD TO NORWICH AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HARTFORD TO DANBURY AND RETURN
+                                                                           STAFF TRANSPORTATION
+

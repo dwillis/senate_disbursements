@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DKNN20240980                  SARAH N DAKE                                              STAFF TRANSPORTATION                                                               $36.18
+DKNN20240981      05/24/2024  SARAH N DAKE                      START       END         LAFAYETTE TO CROWLEY AND RETURN                                                    $10.72
+DKNN20240982      05/24/2024  SARAH N DAKE                                              STAFF TRANSPORTATION                                                             $131.32
+DKNN20240983      05/29/2024  SARAH N DAKE                      03/21/2024  03/21/2024  LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $13.40
+DKNN20240984      05/24/2024  SARAH N DAKE                                              STAFF TRANSPORTATION
+DKNN20240985      05/24/2024  SARAH N DAKE                      03/22/2024  03/22/2024  LAFAYETTE TO NEW IBERIA, BATON ROUGE AND RETURN                                     $8.71
+DKNN20240986      05/24/2024  SARAH N DAKE                                              STAFF TRANSPORTATION                                                               $48.91
+DKNN20240987      05/29/2024  SARAH N DAKE                      03/27/2024  03/27/2024  LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $100.50
+DKNN20240988      05/24/2024  SARAH N DAKE                                              STAFF TRANSPORTATION                                                               $15.41
+DKNN20240989      05/24/2024  SARAH N DAKE                      03/28/2024  03/28/2024  LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $16.75
+DKNN20240990      05/25/2024  SARAH N DAKE                                              STAFF TRANSPORTATION                                                               $21.44
+DKNN20240991      05/25/2024  SARAH N DAKE                      03/29/2024  03/29/2024  LAFAYETTE TO EUNICE, CARENCRO AND RETURN                                           $14.74
+DKNN20240992      05/30/2024  SARAH N DAKE                                              STAFF TRANSPORTATION                                                             $121.94
+DKNN20240993      05/25/2024  SARAH N DAKE                      04/01/2024  04/01/2024  LAFAYETTE TO VILLE PLATTE, CHATAIGNIER, PINE PRAIRIE AND RETURN                    $16.08
+DKNN20240994      05/25/2024  SARAH N DAKE                                              STAFF TRANSPORTATION                                                               $40.20
+DKNN20240995      05/30/2024  SARAH N DAKE                      04/02/2024  04/02/2024  LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $107.20
+DKNN20240996      05/22/2024  CAROLINE M THERIOT                                        STAFF TRANSPORTATION                                                               $15.41
+                  05/29/2024                                    04/03/2024  04/03/2024  LAFAYETTE TO SCOTT AND RETURN                                                      $14.20
+DKNN20240998                  CAROLINE M THERIOT                                        STAFF TRANSPORTATION                                                             $209.71
+DKNN20240999      05/23/2024  JESSICA S ANDREWS                 04/04/2024  04/04/2024  LAFAYETTE TO BROUSSARD AND RETURN                                                  $32.16
+                  05/22/2024                                                            STAFF TRANSPORTATION                                                               $40.06
+DKNN20241000                                                    04/09/2024  04/09/2024  LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $394.96
+DKNN20241001                                                                            STAFF TRANSPORTATION                                                             $188.10
+                                                                04/10/2024  04/10/2024  LAFAYETTE TO PATTERSON, SAINT MARTINVILLE AND RETURN                               $48.24  B-1512
+DKNN20241002                                                                            STAFF TRANSPORTATION                                                               $59.43
+DKNN20241003                                                    04/11/2024  04/11/2024  LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $395.81
+                                                                                        STAFF TRANSPORTATION
+                                                                04/12/2024  04/12/2024  LAFAYETTE TO CROWLEY AND RETURN                                                    $65.04
+                                                                                        STAFF TRANSPORTATION                                                               $36.18
+                                                                04/15/2024  04/15/2024  LAFAYETTE TO MORGAN CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/17/2024  04/17/2024  LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                04/23/2024  04/23/2024  STAFF TRANSPORTATION
+                                                                                        MANDEVILLE TO GALLIANO, AMITE AND RETURN
+                                                                05/13/2024  05/13/2024  STAFF TRANSPORTATION
+                                                                                        MANDEVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                05/14/2024  05/14/2024  STAFF INCIDENTALS
+                                                                05/13/2024  05/14/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                  05/26/2024  JAKE T BENOIT                     04/21/2024  04/21/2024  WASHINGTON DC TO NEW YORK NY AND RETURN
+                  06/04/2024  JAKE T BENOIT                     04/21/2024  04/23/2024  STAFF TRANSPORTATION
+                                                                                        NEW ORLEANS TO ARABI, LA PLACE AND RETURN
+                  05/26/2024  JAKE T BENOIT                     04/24/2024  04/24/2024  STAFF PER DIEM
+                  05/26/2024  JAKE T BENOIT                     04/25/2024  04/25/2024  STAFF TRANSPORTATION
+                                                                                        NEW ORLEANS TO KENNER, MADISONVILLE, MONROE, BATON ROUGE,
+                                                                                        KENNER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NEW ORLEANS TO MADISONVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

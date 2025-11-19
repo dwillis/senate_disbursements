@@ -1,0 +1,50 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                        DATES
+DBDD20240318                                                                 RALEIGH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $209.77
+DBDD20240319                                         START       END         STAFF TRANSPORTATION                                                            $110.55
+DBDD20240320                                                                 ADVANCE TO ASHEVILLE, HENDERSONVILLE AND RETURN                                 $153.76
+DBDD20240322      04/05/2024  KYLE M BRIDGES         03/15/2024  03/15/2024  STAFF TRANSPORTATION                                                            $157.71
+DBDD20240323      04/05/2024  KYLE M BRIDGES         01/22/2024  01/22/2024  ADVANCE TO CHARLOTTE AND RETURN                                                 $100.90
+DBDD20240324      04/05/2024  KYLE M BRIDGES         01/24/2024  01/24/2024  STAFF TRANSPORTATION                                                            $282.33
+DBDD20240325      04/05/2024  KYLE M BRIDGES         02/05/2024  02/05/2024  ADVANCE TO OLD FORT, MARION AND RETURN                                          $171.72
+DBDD20240327      04/08/2024  KYLE M BRIDGES         02/12/2024  02/12/2024  STAFF TRANSPORTATION
+                  04/05/2024  KYLE M BRIDGES         02/15/2024  02/15/2024  ADVANCE TO RALEIGH AND RETURN                                                     $16.10
+                  04/05/2024  KYLE M BRIDGES         02/23/2024  02/23/2024  STAFF TRANSPORTATION                                                            $115.00
+                  04/16/2024  KYLE M BRIDGES         03/03/2024  03/05/2024  ADVANCE TO CHARLOTTE AND RETURN                                                 $149.34
+                                                                             STAFF TRANSPORTATION
+DBDD20240328      04/05/2024  KYLE M BRIDGES         03/05/2024  03/05/2024  ADVANCE TO GREENVILLE, SNOW HILL, RALEIGH AND RETURN                            $102.17   B-722
+DBDD20240329      04/08/2024  KYLE M BRIDGES         03/11/2024  03/13/2024  STAFF TRANSPORTATION                                                            $734.19
+DBDD20240330      04/08/2024  JOHN M TAYLOE          03/11/2024  03/15/2024  ADVANCE TO MILL SPRING, SPINDALE, SHELBY AND RETURN                             $593.62
+                                                                             STAFF INCIDENTALS
+DBDD20240331      04/05/2024  SAMUEL JOSEPH SHUMATE  03/15/2024  03/15/2024  STAFF PER DIEM                                                                    $11.72
+DBDD20240338                                                                 STAFF TRANSPORTATION                                                            $287.89
+DBDD20240339      04/09/2024  THEODORE BUDD          01/22/2024  01/22/2024  ADVANCE TO WINSTON SALEM, ANNAPOLIS MO, WINSTON SALEM AND                       $488.60
+                  04/09/2024  JOHN M TAYLOE          03/18/2024  03/22/2024  RETURN                                                                          $466.99
+DBDD20240340                                                                 STAFF TRANSPORTATION
+DBDD20240341      04/16/2024  SAMUEL JOSEPH SHUMATE  03/22/2024  03/22/2024  ADVANCE TO MOORESVILLE, CHARLOTTE AND RETURN                                      $14.99
+DBDD20240342                                                                 STAFF TRANSPORTATION                                                            $114.57
+DBDD20240343      04/15/2024  SAMUEL JOSEPH SHUMATE  03/24/2024  03/24/2024  ADVANCE TO GREENSBORO, WASHINGTON DC, CHARLOTTE AND RETURN                      $111.35
+DBDD20240346      04/09/2024  THEODORE BUDD          01/30/2024  01/30/2024  STAFF TRANSPORTATION                                                            $488.60
+                  04/09/2024  THEODORE BUDD          03/09/2024  03/09/2024  AULANDER TO THE FOLLOWING AND RETURN: 3/11 GREENVILLE; 3/12                     $490.10
+                  04/16/2024  WILLIAM J SOMERS       02/05/2024  02/20/2024  GOLDSBORO, ROCKY MOUNT; 3/13 WINTON, AHOSKIE, WINDSOR,                          $961.37
+                                                                             PINETOPS, AHOSKIE; 3/14 TARBORO, WILLIAMSTON; 3/15 HENDERSON
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO MOREHEAD CITY, HARKERS ISLAND, ATLANTIC AND RETURN
+                                                                             SENATOR TRANSPORTATION
+                                                                             CHARLOTTE TO WASHINGTON DC
+                                                                             STAFF TRANSPORTATION
+                                                                             AULANDER TO THE FOLLOWING AND RETURN: 3/18 GREENVILLE; 3/19
+                                                                             WINDSOR, MURFREESBORO; 3/20 WINTON, WILLIAMSTON; 3/21 RALEIGH,
+                                                                             OXFORD; 3/22 HERTFORD, CAMDEN, ELIZABETH CITY, AHOSKIE
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO SEYMOUR JOHNSON AFB, GOLDSBORO AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO WRIGHTSVILLE BEACH, KURE BEACH AND RETURN
+                                                                             SENATOR TRANSPORTATION
+                                                                             CHARLOTTE TO WASHINGTON DC
+                                                                             SENATOR TRANSPORTATION
+                                                                             WASHINGTON DC TO CHARLOTTE, ADVANCE, CHARLOTTE
+                                                                             STAFF TRANSPORTATION
+

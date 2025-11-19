@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DMCN20240641                  JOSIE A HAMMON                                            STAFF TRANSPORTATION                                                         $44.54
+DMCN20240642      05/07/2024  JOSIE A HAMMON                    START       END         LOUISVILLE TO EMINENCE AND RETURN                                            $57.64
+DMCN20240643      05/07/2024  JOSIE A HAMMON                                            STAFF TRANSPORTATION                                                         $57.64
+DMCN20240644      05/07/2024  JOSIE A HAMMON                    04/11/2024  04/11/2024  LOUISVILLE TO ELIZABETHTOWN AND RETURN                                       $17.03
+DMCN20240656      05/07/2024  STEPHANIE H NELSON                                        STAFF TRANSPORTATION                                                         $15.86
+DMCN20240657      05/15/2024  ELIZABETH HUNTER WHITAKER         04/17/2024  04/17/2024  LOUISVILLE TO BEDFORD AND RETURN                                           $128.38
+DMCN20240658      05/20/2024  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION                                                         $11.13
+DMCN20240659      05/15/2024  ELIZABETH HUNTER WHITAKER         04/18/2024  04/18/2024  LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $107.42
+DMCN20240660      05/20/2024  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION                                                       $112.66
+DMCN20240661      05/20/2024  ELIZABETH HUNTER WHITAKER         04/30/2024  04/30/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $53.71
+DMCN20240662      05/15/2024  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION                                                       $126.41
+DMCN20240663      05/20/2024  ELIZABETH HUNTER WHITAKER         05/06/2024  05/06/2024  BOWLING GREEN TO RUSSELL SPRINGS AND RETURN                                  $77.29
+DMCN20240664      05/15/2024  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION                                                         $13.75
+DMCN20240665      05/15/2024  ELIZABETH HUNTER WHITAKER         04/08/2024  04/08/2024  BOWLING GREEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DMCN20240666      05/15/2024  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION                                                          $8.51
+DMCN20240667      05/15/2024  ELIZABETH HUNTER WHITAKER         04/10/2024  04/10/2024  BOWLING GREEN TO OWENSBORO AND RETURN                                        $12.44
+DMCN20240668      05/20/2024  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION                                                       $127.07
+DMCN20240669      05/15/2024  ELIZABETH HUNTER WHITAKER         04/10/2024  04/10/2024  BOWLING GREEN TO CAMPBELLSVILLE AND RETURN                                   $11.79
+DMCN20240670      05/15/2024  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION                                                         $62.88
+DMCN20240671      05/15/2024  ELIZABETH HUNTER WHITAKER         04/11/2024  04/11/2024  BOWLING GREEN TO MORGANTOWN AND RETURN                                       $10.48
+DMCN20240672      05/15/2024  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION                                                         $62.88
+DMCN20240673      05/15/2024  ELIZABETH HUNTER WHITAKER         04/15/2024  04/15/2024  BOWLING GREEN TO RUSSELLVILLE AND RETURN                                     $49.78
+DMCN20240674      05/20/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                       $102.18
+DMCN20240675      05/20/2024  MORGAN ALVEY                      04/16/2024  04/16/2024  BOWLING GREEN TO MAMMOTH CAVE AND RETURN                                   $115.93   B-1757
+DMCN20240676      05/15/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                         $43.23
+                  05/15/2024                                    04/17/2024  04/17/2024  BOWLING GREEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $70.74
+                                                                                        STAFF TRANSPORTATION
+                                                                04/18/2024  04/18/2024  BOWLING GREEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                04/19/2024  04/19/2024  BOWLING GREEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                04/22/2024  04/22/2024  BOWLING GREEN TO ALBANY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/23/2024  04/23/2024  BOWLING GREEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                04/24/2024  04/24/2024  BOWLING GREEN TO MAMMOTH CAVE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/25/2024  04/25/2024  BOWLING GREEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                04/26/2024  04/26/2024  BOWLING GREEN TO MUNFORDVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/29/2024  04/29/2024  BOWLING GREEN TO BROWNSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/30/2024  04/30/2024  BOWLING GREEN TO OWENSBORO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/02/2024  05/02/2024  PADUCAH TO HOPKINSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/25/2024  04/25/2024  PADUCAH TO BENTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/26/2024  04/26/2024  PADUCAH TO PRINCETON AND RETURN
+
+                                                                04/29/2024  04/29/2024
+

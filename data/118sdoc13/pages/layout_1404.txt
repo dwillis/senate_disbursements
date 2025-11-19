@@ -1,0 +1,29 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                OBLIGATION/SERVICE  DESCRIPTION                         AMOUNT ($)
+                  POSTED                                           DATES
+0002852546                                                                                                                  $51,800.83
+0002853687                                              START       END
+0002854398                                                                                                                        $53.00
+DHIC20240440      04/18/2024  SERGEANT AT ARMS          02/01/2024  TRAVEL AND TRANSPORTATION OF PERSONS                          $20.00  B-1386
+DHIC20240463      05/14/2024  SERGEANT AT ARMS          03/01/2024                                                                $70.00
+DHIC20240566      05/23/2024  SERGEANT AT ARMS          04/01/2024   02/29/2024 FEDERAL AUDIO, VISUAL RECORDNG                  $249.06
+DHIC20240611      07/03/2024  CITIBANK - PURCHASE CARD  06/20/2024   03/31/2024 FEDERAL AUDIO, VISUAL RECORDNG                  $523.93
+DHIC20240612      07/15/2024  CITIBANK - PURCHASE CARD  06/24/2024   04/30/2024 FEDERAL AUDIO, VISUAL RECORDNG                  $125.00
+                  09/13/2024  CARLEE LOUISE BROWN       08/13/2024   06/20/2024 FOREIGN TRANSLATION SERVICES                    $210.67
+0002852695        09/28/2024  SARA ILLSLEY              08/28/2024   06/24/2024 INTERPRETING SERVICES                           $297.60
+0002852833        09/27/2024  DIAN JENKINS              09/04/2024   08/23/2024 TRAIN/ORIENT/CONFERENCE FEES                 $1,549.26
+0002854014                                                           08/28/2024 INTERPRETING SERVICES
+DHIC20240314      04/18/2024  SERGEANT AT ARMS          02/01/2024   09/04/2024 INTERPRETING SERVICES                             $83.88
+DHIC20240315      04/22/2024  SERGEANT AT ARMS          04/01/2024  OTHER CONTRACTUAL SERVICES                                    $83.88
+DHIC20240320      05/14/2024  SERGEANT AT ARMS          03/01/2024                                                              $419.40
+DHIC20240321      05/02/2024  CITIBANK - PURCHASE CARD  04/18/2024   02/29/2024 SOFTWARE LICENSE                                $349.00
+DHIC20240352      04/30/2024  CITIBANK - PURCHASE CARD  04/18/2024   04/30/2024 SOFTWARE LICENSE                                  $58.27
+DHIC20240432      05/02/2024  CITIBANK - PURCHASE CARD  04/11/2024   03/31/2024 SOFTWARE LICENSE                                $114.99
+DHIC20240567      05/02/2024  CITIBANK - PURCHASE CARD  03/29/2024   04/18/2024 AUDIO, VISUAL EQUIPMENT                         $222.60
+                  05/21/2024  CITIBANK - PURCHASE CARD  04/29/2024   04/18/2024 AUDIO, VISUAL EQUIPMENT                         $159.00
+                  07/01/2024  CITIBANK - PURCHASE CARD  06/18/2024   04/11/2024 AUDIO, VISUAL EQUIPMENT                         $562.91
+                  09/12/2024  CITIBANK - PURCHASE CARD  08/29/2024   03/29/2024 SOFTWARE LICENSE
+                                                                     04/29/2024 SOFTWARE LICENSE                                   $9.99
+                                                                     06/18/2024 AUDIO, VISUAL EQUIPMENT                      $2,063.92
+                                                                     08/29/2024 VOICE & DATA COMM EQUIPMENT
+                                                                    ACQUISITION OF ASSETS
+

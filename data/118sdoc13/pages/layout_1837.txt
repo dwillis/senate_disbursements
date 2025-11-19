@@ -1,0 +1,55 @@
+DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION            AMOUNT ($)
+              POSTED                                              DATES
+                                                                               WASHINGTON DC TO BOISE ID, JOHN DAY, ENTERPRISE, PORTLAND AND                          $47.16
+                                                       START       END         RETURN                                                                               $117.24
+                                                                               STAFF TRANSPORTATION                                                                 $155.22
+DMER20240360  07/16/2024  SOPHIA W FRANCIA             06/27/2024  06/27/2024  EUGENE TO CORVALLIS AND RETURN                                                       $352.60
+DMER20240362  07/17/2024  SOPHIA W FRANCIA             06/25/2024  06/25/2024  STAFF TRANSPORTATION                                                                 $234.00
+DMER20240365  07/19/2024  CITIBANK - TRAVEL CBA CARD   05/17/2024  05/20/2024  EUGENE TO NEWPORT AND RETURN                                                         $628.60
+DMER20240366                                                                   STAFF TRANSPORTATION
+DMER20240367  07/17/2024  CITIBANK - TRAVEL CBA CARD   06/21/2024  06/21/2024  RENTAL AUTO FOR J KEYS ONTARIO TO VALE, BURNS, JOHN DAY, COVE,                         $22.27
+DMER20240369  07/17/2024  CITIBANK - TRAVEL CBA CARD   06/09/2024  06/12/2024  ENTERPRISE, PENDLETON, BOARDMAN AND RETURN                                             $35.67
+DMER20240371  07/17/2024  CITIBANK - TRAVEL CBA CARD   06/23/2024  06/23/2024  SENATOR TRANSPORTATION                                                               $377.27
+DMER20240372  07/20/2024  OLIVIA M WEISS               07/08/2024  07/08/2024  AIRFARE FOR SEN MERKLEY WASHINGTON DC TO PORTLAND
+              07/23/2024  MOLLY J PRESCOTT             06/07/2024  06/09/2024  STAFF TRANSPORTATION                                                                    $8.64
+DMER20240373                                                                   RENTAL AUTO FOR S JOCHIMSEN REDMOND TO PORTLAND AND RETURN                           $502.38
+DMER20240375  07/24/2024  JESSICA H KEYS               06/07/2024  06/21/2024  STAFF TRANSPORTATION                                                                 $343.10   B-1800
+DMER20240376                                                                   AIRFARE FOR C BUCHANAN WASHINGTON DC TO NORTH BEND                                   $602.49
+DMER20240377  07/23/2024  CITIBANK - TRAVEL CBA CARD   07/05/2024  07/05/2024  STAFF TRANSPORTATION
+              07/24/2024  CITIBANK - TRAVEL CBA CARD   06/23/2024  06/28/2024  PORTLAND OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                       $9.01
+DMER20240378                                                                   STAFF INCIDENTALS                                                                    $131.00
+DMER20240379  07/24/2024  GUSTAVO A GUERRERO LANDEROS  01/23/2024  01/23/2024  STAFF PER DIEM
+DMER20240380                                                                   STAFF TRANSPORTATION                                                                   $87.05
+DMER20240381  07/21/2024  GUSTAVO A GUERRERO LANDEROS  02/05/2024  02/05/2024  PORTLAND TO CENTRAL POINT, BEND AND RETURN                                           $102.83
+DMER20240382  07/24/2024  GUSTAVO A GUERRERO LANDEROS  01/24/2024  01/24/2024  STAFF TRANSPORTATION
+              07/21/2024  GUSTAVO A GUERRERO LANDEROS  02/01/2024  02/01/2024  BAKER CITY TO THE FOLLOWING AND RETURN: 6/7 ONTARIO; 6/13 LA                           $55.02
+DMER20240383  07/25/2024  CITIBANK - TRAVEL CBA CARD   07/08/2024  07/08/2024  GRANDE, UKIAH; 6/18 PENDLETON; 6/20 LA GRANDE; 6/21 WALLOWA                          $352.60
+              07/26/2024  GUSTAVO A GUERRERO LANDEROS  03/05/2024  03/21/2024  STAFF TRANSPORTATION                                                                 $530.55
+                                                                               AIRFARE FOR C BUCHANAN PORTLAND TO WASHINGTON DC
+              07/25/2024  GUSTAVO A GUERRERO LANDEROS  04/06/2024  07/10/2024  STAFF TRANSPORTATION                                                              $1,042.10
+                                                                               RENTAL AUTO FOR C BUCHANAN NORTH BEND TO BANDON, NEWPORT,
+DMER20240384  07/29/2024  BUCHANAN, CAITLIN C          06/23/2024  06/28/2024  BEND TO PORTLAND                                                                     $147.26
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               MCMINNVILLE TO SAINT HELENS, CLATSKANIE AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               MCMINNVILLE TO SAINT HELENS, SCAPPOOSE AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               MCMINNVILLE TO TILLAMOOK, GARIBALDI, TILLAMOOK AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               MCMINNVILLE TO PORTLAND AND RETURN
+                                                                               SENATOR TRANSPORTATION
+                                                                               AIRFARE FOR SEN MERKLEY PORTLAND TO WASHINGTON DC
+                                                                               STAFF TRANSPORTATION
+                                                                               MCMINNVILLE TO THE FOLLOWING AND RETURN: 3/5 GARIBALDI, BAY CITY; 3
+                                                                               /14 SEASIDE, ASTORIA; 3/18 TILLAMOOK, NEHALEM, WHEELER, ROCKAWAY
+                                                                               BEACH; 3/19 RAINIER, SAINT HELENS, COLUMBIA CITY; 3/21 ASTORIA,
+                                                                               CANNON BEACH
+                                                                               STAFF TRANSPORTATION
+                                                                               MCMINNVILLE TO THE FOLLOWING AND RETURN: 4/6, 26 PORTLAND; 4/7
+                                                                               ALBANY, CORVALLIS; 4/27 RUFUS, THE DALLES, HOOD RIVER; 5/8 LINCOLN
+                                                                               CITY; 5/31 ASTORIA, SAINT HELENS; 7/7 ASTORIA, WARRENTON; 7/10
+                                                                               TILLAMOOK; MCMINNVILLE TO THE FOLLOWING AND RETURN TO SALEM: 5
+                                                                               /16 CLOVERDALE; 6/20 COLUMBIA CITY
+                                                                               STAFF INCIDENTALS
+

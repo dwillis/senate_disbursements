@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                  POSTED                                             DATES
+DLNK20241154                                                                      TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                       $24.12
+DLNK20241155                                              START       END         STAFF TRANSPORTATION                                                                 $24.12
+DLNK20241156                                                                      TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                       $20.10
+DLNK20241157      09/11/2024  QUINTON BRIER GRAY          08/26/2024  08/26/2024  STAFF TRANSPORTATION                                                                 $22.78
+DLNK20241158      09/11/2024  QUINTON BRIER GRAY          08/28/2024  08/28/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                       $64.56
+DLNK20241159      09/11/2024  QUINTON BRIER GRAY          08/29/2024  08/29/2024  STAFF TRANSPORTATION                                                                 $12.00
+                  09/11/2024  QUINTON BRIER GRAY          08/30/2024  08/30/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DLNK20241160      09/12/2024  JAMES S CARSON              08/26/2024  08/26/2024  STAFF TRANSPORTATION                                                                  $5.05
+DLNK20241161      09/12/2024  JAMES S CARSON              08/27/2024  08/27/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                       $69.69
+DLNK20241162                                                                      STAFF TRANSPORTATION                                                                 $10.00
+                  09/12/2024  JAMES S CARSON              08/28/2024  08/28/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $20.00
+DLNK20241166      09/12/2024  JAMES S CARSON              08/29/2024  08/29/2024  STAFF PER DIEM                                                                       $30.00
+DLNK20241167      09/12/2024  JAMES S CARSON              08/30/2024  08/30/2024  STAFF TRANSPORTATION                                                                 $40.00
+DLNK20241168                                                                      OKLAHOMA CITY TO ELK CITY, ALTUS, LAWTON AND RETURN                                  $40.00
+DLNK20241169      09/12/2024  CITIBANK - TRAVEL CBA CARD  08/27/2024  08/27/2024  STAFF TRANSPORTATION                                                                 $40.00  B-1607
+DLNK20241171      09/12/2024  CITIBANK - TRAVEL CBA CARD  08/22/2024  08/22/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $40.00
+                  09/12/2024  CITIBANK - TRAVEL CBA CARD  08/22/2024  08/22/2024  STAFF PER DIEM                                                                     $367.70
+DLNK20241172      09/12/2024  CITIBANK - TRAVEL CBA CARD  08/20/2024  08/20/2024  OKLAHOMA CITY TO HOBART AND RETURN
+                  09/12/2024  CITIBANK - TRAVEL CBA CARD  08/28/2024  08/30/2024  STAFF PER DIEM                                                                     $358.20
+DLNK20241173                                                                      STAFF TRANSPORTATION
+                  09/12/2024  CITIBANK - TRAVEL CBA CARD  08/25/2024  08/30/2024  OKLAHOMA CITY TO WEATHERFORD, YUKON AND RETURN                                     $300.20
+DLNK20241174                                                                      TICKET FEES
+                  09/16/2024  CITIBANK - TRAVEL CBA CARD  08/28/2024  09/04/2024  TICKET FEES                                                                     $1,605.32
+                                                          07/16/2024  08/20/2024  TICKET FEES
+                  09/24/2024  LARAMIE ANN COCHRAN                                 TICKET FEES                                                                          $40.00
+                                                                                  STAFF TRANSPORTATION                                                                 $40.00
+DLNK20241177      09/13/2024  CITIBANK - TRAVEL CBA CARD  08/30/2024  08/30/2024  AIRFARE FOR J MAHAN WASHINGTON DC TO ST LOUIS MO, OKLAHOMA                         $159.60
+DLNK20241178      09/13/2024  CITIBANK - TRAVEL CBA CARD  08/30/2024  08/30/2024  CITY AND RETURN                                                                    $378.60
+DLNK20241179      09/14/2024  CITIBANK - TRAVEL CBA CARD  09/03/2024  09/03/2024  STAFF TRANSPORTATION                                                               $329.20
+DLNK20241180      09/16/2024  CITIBANK - TRAVEL CBA CARD  09/04/2024  09/04/2024  AIRFARE FOR L GREENWOOD WASHINGTON DC TO OKLAHOMA CITY AND
+DLNK20241181      09/16/2024  CITIBANK - TRAVEL CBA CARD  09/02/2024  09/06/2024  RETURN                                                                             $300.20
+                                                                                  STAFF TRANSPORTATION
+DLNK20241182      09/16/2024  CITIBANK - TRAVEL CBA CARD  09/03/2024  09/06/2024  AIRFARE FOR N HARGRAVE WASHINGTON DC TO OKLAHOMA CITY AND
+                                                                                  RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LANE TO THE FOLLOWING AND RETURN: 7/16-18 OKLAHOMA CITY,
+                                                                                  SHAWNEE, SULPHUR, DAVIS, OKLAHOMA CITY; 7/30, 8/20 MCALESTER; 8/2
+                                                                                  POTEAU; 8/3 ARDMORE; 8/7 STIGLER; 8/8 ARDMORE, MARIETTA; 8/9
+                                                                                  TALIHINA; 8/14-16 OKLAHOMA CITY, MCALESTER, ANTLERS, ATOKA,
+                                                                                  OKLAHOMA CITY; 8/19 SULPHUR
+                                                                                  TICKET FEES
+                                                                                  TICKET FEES
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR M MALLOY WASHINGTON DC TO OKLAHOMA CITY
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR M MALLOY OKLAHOMA CITY TO WASHINGTON DC
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR M JEFFREY WASHINGTON DC TO OKLAHOMA CITY AND
+                                                                                  RETURN
+                                                                                  STAFF TRANSPORTATION
+

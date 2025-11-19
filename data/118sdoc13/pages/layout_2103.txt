@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                      OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                                 DATES
+DRCK20240388                                                                          5/9, 10, 11, 14 LINCOLN TO OMAHA AND RETURN                                         $36.71
+DRCK20240389                                                  START       END         STAFF TRANSPORTATION                                                              $345.72
+DRCK20240400                                                                          OMAHA TO BELLEVUE, ELKHORN AND RETURN
+DRCK20240401      05/24/2024  TRINITY D CHAPPELEAR            05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                                $32.02
+DRCK20240402      05/29/2024  MARIE C WOODHEAD                05/01/2024  05/15/2024  LINCOLN TO THE FOLLOWING AND RETURN: 5/1 PLATTSMOUTH; 5/8                           $23.68
+DRCK20240403                                                                          NEBRASKA CITY; 5/10 STROMSBURG; 5/15 GENEVA                                       $243.21
+DRCK20240404      05/26/2024  ERIC T MAHER                    05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                                $69.68
+DRCK20240406      05/31/2024  BRADLEY JAMES STEVENS           05/16/2024  05/16/2024  OMAHA TO BELLEVUE AND RETURN                                                        $10.00
+DRCK20240407                                                                          STAFF PER DIEM                                                                    $233.16
+DRCK20240409      05/26/2024  DEBORAH J BORG                  05/13/2024  05/13/2024  STAFF TRANSPORTATION                                                                $10.00
+DRCK20240410      05/30/2024  DEBORAH J BORG                  05/15/2024  05/15/2024  LINCOLN TO ALMA, FRANKLIN, KEARNEY AND RETURN                                     $198.32
+DRCK20240411                                                                          STAFF TRANSPORTATION                                                              $161.45
+DRCK20240412      05/31/2024  DEBORAH J BORG                  05/17/2024  05/17/2024  ALLEN TO PLAINVIEW AND RETURN                                                     $136.47
+DRCK20240414                                                                          STAFF PER DIEM                                                                      $42.99
+DRCK20240415      05/31/2024  MATTHEW S. MILTENBERGER         04/30/2024  05/09/2024  STAFF TRANSPORTATION                                                                $10.00  B-2066
+DRCK20240416      06/03/2024  TRINITY D CHAPPELEAR            05/21/2024  05/21/2024  ALLEN TO SPRINGVIEW AND RETURN                                                    $281.40
+DRCK20240417      06/10/2024  MATTHEW S. MILTENBERGER         05/19/2024  05/23/2024  STAFF PER DIEM                                                                    $223.78
+DRCK20240418      06/10/2024  DEBORAH J BORG                  05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                                $27.97
+DRCK20240419                                                                          ALLEN TO BASSETT AND RETURN                                                         $68.34
+DRCK20240420      06/10/2024  TIMOTHY EDWARD SCHROEDER        05/20/2024  05/22/2024  STAFF TRANSPORTATION                                                                $11.99
+                  06/07/2024  BRADLEY JAMES STEVENS           05/23/2024  05/23/2024  GRETNA TO OMAHA, WASHINGTON DC, OMAHA AND RETURN                                  $132.66
+                                                                                      STAFF TRANSPORTATION                                                              $460.29
+                  06/10/2024  SARAH CHRISTINE CATHCART-MILLS  05/30/2024  05/30/2024  OMAHA TO NORFOLK AND RETURN
+                                                                                      STAFF TRANSPORTATION                                                              $108.54
+                  06/10/2024  CASSANDRA A NICHOLS             05/28/2024  05/30/2024  GRETNA TO OMAHA, WASHINGTON DC, OMAHA AND RETURN                                  $121.06
+                                                                                      STAFF PER DIEM
+                  06/10/2024  TIMOTHY EDWARD SCHROEDER        05/29/2024  05/29/2024  STAFF TRANSPORTATION                                                                $26.59
+                  06/10/2024  TRINITY D CHAPPELEAR            05/29/2024  05/29/2024  ALLEN TO VALENTINE AND RETURN                                                       $29.87
+                  06/10/2024  ERIC T MAHER                    05/27/2024  05/27/2024  STAFF TRANSPORTATION                                                                $12.00
+                  06/10/2024  AMELIA J BREINIG                05/21/2024  05/21/2024  LINCOLN TO THE FOLLOWING AND RETURN: 5/20 FALLS CITY; 5/22 OMAHA                    $80.23
+                  06/10/2024  ERIC T MAHER                    05/23/2024  05/23/2024  STAFF PER DIEM
+                                                                                      STAFF TRANSPORTATION
+                                                                                      LINCOLN TO YORK AND RETURN
+                                                                                      STAFF PER DIEM
+                                                                                      STAFF TRANSPORTATION
+                                                                                      KEARNEY TO SAINT PAUL, ORD AND RETURN
+                                                                                      STAFF TRANSPORTATION
+                                                                                      SCOTTSBLUFF TO THE FOLLOWING AND RETURN: 5/28 MULLEN; 5/30
+                                                                                      TRYON, OGALLALA
+                                                                                      STAFF TRANSPORTATION
+                                                                                      LINCOLN TO STERLING, PAWNEE CITY AND RETURN
+                                                                                      STAFF TRANSPORTATION
+                                                                                      OMAHA TO STANTON AND RETURN
+                                                                                      STAFF TRANSPORTATION
+                                                                                      OMAHA TO BELLEVUE AND RETURN
+                                                                                      STAFF TRANSPORTATION
+                                                                                      WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                      STAFF PER DIEM
+                                                                                      STAFF TRANSPORTATION
+                                                                                      OMAHA TO LINCOLN AND RETURN
+

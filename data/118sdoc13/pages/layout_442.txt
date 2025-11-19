@@ -1,0 +1,56 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                           DATES
+DSAA24M53981       POSTED     CITIBANK - PURCHASE CARD                                  TRANSPORTATION EQUIP MAINT                                                   $33.27
+DSAA24M53982                  CITIBANK - PURCHASE CARD          START       END         TRANSPORTATION EQUIP MAINT                                                   $42.00
+DSAA24M53983      09/13/2024  CITIBANK - PURCHASE CARD                                  TRANSPORTATION EQUIP MAINT                                                 $275.01
+DSAA24M53984      09/13/2024  CITIBANK - PURCHASE CARD          08/22/2024  08/22/2024  TRANSPORTATION EQUIP MAINT                                                   $26.51  B-424
+DSAA24M53985      09/16/2024  CITIBANK - PURCHASE CARD          08/20/2024  08/20/2024  TRANSPORTATION EQUIP MAINT                                                   $45.60
+DSAA24M53986      09/13/2024  CITIBANK - PURCHASE CARD          08/18/2024  08/26/2024  TRANSPORTATION EQUIP MAINT                                                   $16.37
+DSAA24M53987      09/13/2024  CITIBANK - PURCHASE CARD          08/28/2024  08/28/2024  TRANSPORTATION EQUIP MAINT                                                   $20.04
+DSAA24M53988      09/13/2024  CITIBANK - PURCHASE CARD          08/27/2024  08/27/2024  TRANSPORTATION EQUIP MAINT                                                 $442.99
+DSAA24M53989      09/13/2024  CITIBANK - PURCHASE CARD          08/20/2024  08/20/2024  TRANSPORTATION EQUIP MAINT                                                   $75.39
+DSAA24M53990      09/16/2024  CITIBANK - PURCHASE CARD          08/26/2024  08/26/2024  TRANSPORTATION EQUIP MAINT                                                   $67.64
+DSAA24M53991      09/13/2024  CITIBANK - PURCHASE CARD          08/01/2024  08/20/2024  TRANSPORTATION EQUIP MAINT                                                 $361.08
+DSAA24M53992      09/13/2024  CITIBANK - PURCHASE CARD          08/22/2024  08/22/2024  TRANSPORTATION EQUIP MAINT                                                 $417.04
+DSAA24M53993      09/16/2024  CITIBANK - PURCHASE CARD          08/20/2024  08/29/2024  TRANSPORTATION EQUIP MAINT                                                   $40.90
+DSAA24M53994      09/16/2024  CITIBANK - PURCHASE CARD          08/19/2024  08/30/2024  TRANSPORTATION EQUIP MAINT                                                 $138.97
+DSAA24M53995      09/13/2024  CITIBANK - PURCHASE CARD          08/26/2024  08/27/2024  TRANSPORTATION EQUIP MAINT                                                   $46.60
+DSAA24M53996      09/16/2024  CITIBANK - PURCHASE CARD          08/19/2024  08/19/2024  TRANSPORTATION EQUIP MAINT                                                 $271.00
+DSAA24M53997      09/13/2024  CITIBANK - PURCHASE CARD          08/21/2024  08/21/2024  TRANSPORTATION EQUIP MAINT                                                 $189.11
+DSAA24M53998      09/16/2024  CITIBANK - PURCHASE CARD          08/27/2024  08/27/2024  TRANSPORTATION EQUIP MAINT                                                   $80.00
+DSAA24M53999      09/16/2024  CITIBANK - PURCHASE CARD          08/30/2024  08/30/2024  TRANSPORTATION EQUIP MAINT                                                 $100.00
+DSAA24M54000      09/25/2024  CITIBANK - PURCHASE CARD          08/22/2024  08/22/2024  TRANSPORTATION EQUIP MAINT                                                 $142.01
+DSAA24M54013      09/13/2024  CITIBANK - PURCHASE CARD          08/01/2024  08/01/2024  TRANSPORTATION EQUIP MAINT                                                 $210.33
+DSAA24M54014      09/14/2024  CITIBANK - PURCHASE CARD          08/29/2024  08/29/2024  TRANSPORTATION EQUIP MAINT                                                   $56.69
+DSAA24M54015      09/17/2024  CITIBANK - PURCHASE CARD          07/26/2024  07/26/2024  TRANSPORTATION EQUIP MAINT                                              $4,699.26
+DSAA24M54016      09/15/2024  CITIBANK - PURCHASE CARD          07/05/2024  07/05/2024  TRANSPORTATION EQUIP MAINT                                              $6,164.62
+DSAA24M54017      09/17/2024  CITIBANK - PURCHASE CARD          07/23/2024  07/23/2024  TRANSPORTATION EQUIP MAINT                                              $1,333.06
+DSAA24M54018      09/17/2024  CITIBANK - PURCHASE CARD          08/30/2024  08/30/2024  TRANSPORTATION EQUIP MAINT                                              $3,653.60
+DSAA24M54019      09/17/2024  CITIBANK - PURCHASE CARD          08/21/2024  08/21/2024  TRANSPORTATION EQUIP MAINT                                              $7,574.12
+DSAA24M54020      09/17/2024  CITIBANK - PURCHASE CARD          08/14/2024  08/14/2024  TRANSPORTATION EQUIP MAINT                                                 $138.25
+DSAA24M54021      09/17/2024  CITIBANK - PURCHASE CARD          08/20/2024  08/20/2024  TRANSPORTATION EQUIP MAINT                                              $4,622.76
+DSAA24M54022      09/17/2024  CITIBANK - PURCHASE CARD          08/01/2024  08/01/2024  TRANSPORTATION EQUIP MAINT                                                 $335.00
+DSAA24M54023      09/17/2024  CITIBANK - PURCHASE CARD          08/30/2024  08/30/2024  TRANSPORTATION EQUIP MAINT                                              $5,725.57
+DSAA24M54024      09/17/2024  CITIBANK - PURCHASE CARD          08/29/2024  08/29/2024  TRANSPORTATION EQUIP MAINT                                              $9,754.37
+DSAA24M54025      09/17/2024  CITIBANK - PURCHASE CARD          08/06/2024  08/06/2024  TRANSPORTATION EQUIP MAINT                                                 $261.46
+DSAA24M54026      09/17/2024  CITIBANK - PURCHASE CARD          08/13/2024  08/13/2024  TRANSPORTATION EQUIP MAINT                                                 $346.00
+DSAA24M54027      09/17/2024  CITIBANK - PURCHASE CARD          08/01/2024  08/01/2024  TRANSPORTATION EQUIP MAINT                                                 $910.00
+DSAA24M54028      09/17/2024  CITIBANK - PURCHASE CARD          08/01/2024  08/01/2024  TRANSPORTATION EQUIP MAINT                                                 $910.00
+DSAA24M54029      09/17/2024  CITIBANK - PURCHASE CARD          08/05/2024  08/05/2024  TRANSPORTATION EQUIP MAINT                                                 $910.00
+DSAA24M54030      09/17/2024  CITIBANK - PURCHASE CARD          08/01/2024  08/01/2024  TRANSPORTATION EQUIP MAINT                                                 $190.83
+DSAA24M54032      09/17/2024  CITIBANK - PURCHASE CARD          08/12/2024  08/12/2024  TRANSPORTATION EQUIP MAINT                                                   $54.85
+DSAA24M54036      09/17/2024  CITIBANK - PURCHASE CARD          08/29/2024  08/29/2024  TRANSPORTATION EQUIP MAINT                                                   $22.00
+DSAA24M54037      09/15/2024  CITIBANK - PURCHASE CARD          08/06/2024  08/06/2024  TRANSPORTATION EQUIP MAINT                                                   $50.00
+DSAA24M54038      09/15/2024  CITIBANK - PURCHASE CARD          08/08/2024  08/08/2024  TRANSPORTATION EQUIP MAINT                                                   $60.01
+DSAA24M54039      09/15/2024  CITIBANK - PURCHASE CARD          09/03/2024  09/03/2024  TRANSPORTATION EQUIP MAINT                                                   $46.63
+DSAA24M54040      09/15/2024  CITIBANK - PURCHASE CARD          09/03/2024  09/03/2024  TRANSPORTATION EQUIP MAINT                                                   $20.00
+DSAA24M54041      09/15/2024  CITIBANK - PURCHASE CARD          09/03/2024  09/03/2024  TRANSPORTATION EQUIP MAINT                                                   $49.69
+DSAA24M54042      09/15/2024  CITIBANK - PURCHASE CARD          08/27/2024  08/27/2024  TRANSPORTATION EQUIP MAINT                                                   $19.03
+DSAA24M54051      09/15/2024  ROACH,ELIZABETH A                 08/27/2024  08/27/2024  TECHNICAL SUPPORT                                                          $720.00
+DSAA24M54054      09/15/2024  JANA J PIERCE                     08/23/2024  08/23/2024  TRAIN/ORIENT/CONFERENCE FEES                                            $1,880.76
+DSAA24M54055      09/24/2024  CITIBANK - PURCHASE CARD          08/08/2024  08/08/2024  AUDIO, VISUAL EQUIP MAINT                                                    $63.50
+DSAA24M54058      09/27/2024  CITIBANK - PURCHASE CARD          06/08/2024  06/08/2024  TRANSPORTATION EQUIP MAINT                                                   $52.49
+                  09/15/2024                                    06/03/2024  07/26/2024
+                  09/16/2024                                    09/04/2024  09/04/2024
+                                                                08/26/2024  08/26/2024
+

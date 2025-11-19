@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+              POSTED                                              DATES
+                                                                               GREENSBORO TO DURHAM, PITTSBORO, RESEARCH TRIANGLE PARK AND                         $42.72
+                                                       START       END         RETURN                                                                              $69.60
+                                                                               STAFF TRANSPORTATION                                                                $63.66
+DTIL20240561  04/23/2024  STEPHANIE MARIE BLAIR        03/20/2024  03/20/2024  GREENSBORO TO ASHEBORO AND RETURN                                                   $45.60  B-2440
+DTIL20240562  04/23/2024  STEPHANIE MARIE BLAIR        03/21/2024  03/21/2024  STAFF TRANSPORTATION                                                                $80.10
+DTIL20240563  04/24/2024  STEPHANIE MARIE BLAIR        03/22/2024  03/22/2024  GREENSBORO TO SALISBURY, MOORESVILLE, CHINA GROVE AND RETURN                      $134.94
+DTIL20240564  04/24/2024  STEPHANIE MARIE BLAIR        03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                                $38.16
+DTIL20240565  04/23/2024  STEPHANIE MARIE BLAIR        04/01/2024  04/01/2024  GREENSBORO TO BERMUDA RUN, MOCKSVILLE AND RETURN                                    $16.83
+DTIL20240566  04/26/2024  STEPHANIE MARIE BLAIR        04/02/2024  04/02/2024  STAFF TRANSPORTATION                                                              $104.40
+DTIL20240567  04/24/2024  STEPHANIE MARIE BLAIR        04/03/2024  04/03/2024  GREENSBORO TO ASHEBORO AND RETURN                                                   $73.26
+DTIL20240568  04/26/2024  KATHERINE ELIZABETH WALKER   04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                              $141.42
+DTIL20240569  04/26/2024  STEPHANIE MARIE BLAIR        04/12/2024  04/12/2024  GREENSBORO TO RESEARCH TRIANGLE PARK, DURHAM AND RETURN                           $136.38
+DTIL20240570  04/24/2024  STEPHANIE MARIE BLAIR        04/10/2024  04/10/2024  STAFF TRANSPORTATION                                                              $298.20
+DTIL20240571  04/29/2024  STEPHANIE MARIE BLAIR        04/11/2024  04/11/2024  GREENSBORO TO DURHAM, RALEIGH, WINSTON SALEM AND RETURN                             $16.83
+DTIL20240572  04/29/2024  STEPHANIE MARIE BLAIR        04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                              $209.35
+DTIL20240573  04/29/2024  CITIBANK - TRAVEL CBA CARD   04/11/2024  04/15/2024  GREENSBORO TO ASHEBORO AND RETURN                                                 $488.60
+DTIL20240575  04/26/2024  KAREN A RAMIREZ              04/12/2024  04/12/2024  STAFF PER DIEM                                                                      $11.40
+                                                                               CHARLOTTE TO RALEIGH AND RETURN
+DTIL20240576  04/29/2024  CITIBANK - SENATOR IBA CARD  04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                                 $9.60
+DTIL20240580  04/26/2024  GRAYSON COLE OVERHOLT        04/12/2024  04/12/2024  GREENSBORO TO DURHAM, RALEIGH, MEBANE AND RETURN                                    $19.79
+DTIL20240581  04/26/2024  GRAYSON COLE OVERHOLT        04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                                $81.00
+DTIL20240582  04/30/2024  WILLIAM L LEWIS              04/04/2024  04/04/2024  GREENSBORO TO WELCOME, MAYODAN AND RETURN
+                                                                               STAFF TRANSPORTATION                                                                 $9.87
+DTIL20240583  04/30/2024  GRAYSON COLE OVERHOLT        04/11/2024  04/11/2024  GREENSBORO TO ELKIN, HICKORY AND RETURN                                           $118.44
+                                                                               STAFF TRANSPORTATION                                                              $141.00
+DTIL20240584  04/30/2024  GRAYSON COLE OVERHOLT        04/16/2024  04/16/2024  GREENSBORO TO CARTHAGE, PINEHURST, DURHAM AND RETURN                              $408.00
+DTIL20240585  05/01/2024  WILLIAM L LEWIS              04/05/2024  04/11/2024  STAFF TRANSPORTATION
+                                                                               AIRFARE FOR D JARRETT WASHINGTON DC TO RALEIGH AND RETURN                           $16.83
+DTIL20240586  04/26/2024  WILLIAM L LEWIS              04/12/2024  04/12/2024  STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               CHARLOTTE TO RALEIGH AND RETURN
+                                                                               SENATOR TRANSPORTATION
+                                                                               AIRFARE FOR SEN TILLIS CHARLOTTE TO WASHINGTON DC
+                                                                               STAFF TRANSPORTATION
+                                                                               IN AND AROUND WILMINGTON
+                                                                               STAFF TRANSPORTATION
+                                                                               IN AND AROUND WILMINGTON
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               MACCLESFIELD TO RALEIGH AND RETURN
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               WILMINGTON TO GOLDSBORO AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               WILMINGTON TO VANDEMERE AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               MACCLESFIELD TO THE FOLLOWING AND RETURN: 4/5 HENDERSON; 4/8, 11
+                                                                               RALEIGH; 4/9 ROCKY MOUNT; 4/10 GREENVILLE TO EDENTON, HERTFORD,
+                                                                               ELIZABETH CITY AND RETURN
+                                                                               STAFF PER DIEM
+

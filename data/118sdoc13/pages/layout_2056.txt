@@ -1,0 +1,73 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE      DESCRIPTION                                                   AMOUNT ($)
+                   POSTED                                                  DATES
+DPAU20241327                  CHRISTINA B PETERSON                                                                                                                      $28.82
+DPAU20241328      09/23/2024  CHRISTINA B PETERSON              START       END
+DPAU20241329      09/23/2024  ROBERT C AUGUSTINE                                                                                                                        $23.58
+DPAU20241330      09/28/2024  ROBERT C AUGUSTINE                08/29/2024   08/29/2024 STAFF TRANSPORTATION
+DPAU20241331      09/22/2024  ROBERT C AUGUSTINE                08/30/2024                        PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                    $124.45
+DPAU20241332      09/28/2024  ROBERT C AUGUSTINE                09/11/2024
+DPAU20241333      09/28/2024  WILLIAM S MATTHEWS                09/17/2024   08/30/2024 STAFF TRANSPORTATION                                                            $96.94
+DPAU20241334      09/22/2024  WILLIAM S MATTHEWS                09/09/2024                        PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DPAU20241335      09/22/2024  WILLIAM S MATTHEWS                09/16/2024                                                                                            $129.69
+DPAU20241336      09/22/2024  MARY ELIZABETH LATHAM             09/17/2024   09/11/2024 STAFF TRANSPORTATION
+                  09/28/2024                                    09/18/2024                        BARDSTOWN TO BOWLING GREEN AND RETURN                               $173.57
+DPAU20241337                                                    09/20/2024
+DPAU20241338      09/23/2024  CHRISTINA B PETERSON              09/19/2024   09/17/2024 STAFF TRANSPORTATION                                                            $65.50  B-2019
+                  09/28/2024  LAWRENCE C ARNOLD                                                   BARDSTOWN TO HARDINSBURG AND RETURN
+DPAU20241339                                                    09/18/2024                                                                                              $46.50
+DPAU20241352      09/22/2024  LAWRENCE C ARNOLD                 09/19/2024   09/09/2024 STAFF TRANSPORTATION
+DPAU20241370      09/30/2024  MICA N SIMS                                                         BARDSTOWN TO BOWLING GREEN AND RETURN                                 $46.50
+                  09/30/2024  WILLIAM S MATTHEWS                09/18/2024
+0002853697                                                      08/20/2024   09/16/2024 STAFF TRANSPORTATION                                                            $18.78
+0002854405                                                      09/21/2024                        BARDSTOWN TO RUSSELLVILLE AND RETURN                                $152.82
+0002857240                                                                                                                                                            $107.02
+DPAU20240648                                                    03/01/2024   09/17/2024 STAFF TRANSPORTATION
+DPAU20241152                                                    04/01/2024                        BUTLER TO OWENTON AND RETURN                                          $20.30
+                                                                06/01/2024
+0002854019                                                      01/01/2024   09/18/2024 STAFF TRANSPORTATION                                                            $14.18
+0002854020                                                      08/15/2024                        BUTLER TO CRESCENT SPRINGS AND RETURN                                 $87.77
+0002857385
+0002857401                                                      03/01/2024   09/20/2024 STAFF TRANSPORTATION                                                            $32.75
+0002859198                                                      03/01/2024                        BUTLER TO CRESCENT SPRINGS AND RETURN
+0002859214                                                      06/01/2024                                                                                              $36.02
+DPAU20240647                                                    06/01/2024   09/20/2024 STAFF INCIDENTALS
+DPAU20240654                                                    03/01/2024                        STAFF PER DIEM                                                        $39.30
+                                                                07/01/2024                        STAFF TRANSPORTATION
+                                                                10/12/2023                        LOUISVILLE TO LEXINGTON AND RETURN                              $88,088.76
+                                                                03/28/2024                                                                                              $18.00
+                                                                             09/18/2024 STAFF TRANSPORTATION                                                             $6.00
+                                                                                                  PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                      $98.40
+                                                                                                                                                                        $80.00
+                                                                             09/19/2024 STAFF PER DIEM
+                                                                                                  STAFF TRANSPORTATION                                             $1,500.00
+                                                                                                  BOWLING GREEN TO FORT KNOX AND RETURN                            $1,702.40
+
+                                                                             09/18/2024 STAFF TRANSPORTATION                                                          $197.00
+                                                                                                  BOWLING GREEN TO SCOTTSVILLE AND RETURN                         $10,115.00
+
+                                                                             08/20/2024 STAFF TRANSPORTATION                                                       $2,521.28
+                                                                                                  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                  $959.96
+                                                                                                                                                                     -$197.00
+                                                                             09/21/2024 STAFF TRANSPORTATION                                                          $261.66
+                                                                                                  BUTLER TO BELLEVUE AND RETURN
+                                                                                                                                                                   $2,010.00
+                                                                            TRAVEL AND TRANSPORTATION OF PERSONS                                                      $299.94
+
+                  05/14/2024  SERGEANT AT ARMS                               03/31/2024 FEDERAL AUDIO, VISUAL RECORDNG
+                  05/23/2024  SERGEANT AT ARMS                               04/30/2024 FEDERAL AUDIO, VISUAL RECORDNG
+                  08/07/2024  SERGEANT AT ARMS                               06/30/2024 FEDERAL AUDIO, VISUAL RECORDNG
+                  04/23/2024  LEIDOS DIGITAL SOLUTIONS INC                   01/31/2024 VOICE, DATA COMM EQP MAINT
+                  08/29/2024  EDWARD N FISHER CPA PSC                        08/15/2024 FINANCIAL DISCLOSURE PREP
+                                                                            OTHER CONTRACTUAL SERVICES
+                  05/14/2024  SERGEANT AT ARMS
+                  05/14/2024  SERGEANT AT ARMS                              03/31/2024  SOFTWARE LICENSE
+                  08/07/2024  SERGEANT AT ARMS                              03/31/2024  SOFTWARE LICENSE
+                  08/07/2024  SERGEANT AT ARMS                              06/30/2024  IT EQUIPMENT
+                  09/13/2024  SERGEANT AT ARMS                              06/30/2024  VOICE & DATA COMM EQUIPMENT
+                  09/13/2024  SERGEANT AT ARMS                              03/31/2024  SOFTWARE LICENSE
+                              WHITAKER BROTHERS BUSINESS                    07/31/2024  IT EQUIPMENT
+                  04/26/2024  MACHINES INC
+                              CITIBANK - PURCHASE CARD                      10/12/2023  IT EQUIPMENT
+                  04/25/2024
+                                                                            03/28/2024  AUDIO, VISUAL EQUIPMENT
+

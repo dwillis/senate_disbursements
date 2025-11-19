@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                              DATES
+DCAS20240832                                                                       WAYNESBURG TO FRIEDENS AND RETURN                                            $55.00
+DCAS20240834                                               START       END         SENATOR TRANSPORTATION                                                     $184.00
+DCAS20240835                                                                       TRAIN FARE FOR SEN CASEY WASHINGTON DC TO PHILADELPHIA
+DCAS20240836      05/03/2024  CITIBANK - SENATOR IBA CARD  01/11/2024  01/11/2024  SENATOR TRANSPORTATION                                                       $87.00
+                  05/03/2024  CITIBANK - SENATOR IBA CARD  03/23/2024  03/23/2024  TRAIN FARE FOR SEN CASEY WASHINGTON DC TO PHILADELPHIA                       $14.31
+DCAS20240841      05/03/2024  CITIBANK - SENATOR IBA CARD  04/08/2024  04/08/2024  SENATOR TRANSPORTATION
+DCAS20240842      05/07/2024  IAN F MADIGAN                04/29/2024  04/29/2024  TRAIN FARE FOR SEN CASEY PHILADELPHIA TO WASHINGTON DC                        $5.65
+DCAS20240843                                                                       STAFF PER DIEM                                                               $40.20
+DCAS20240844      05/02/2024  ROBERTA M MATESIC            04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                         $83.75  B-842
+DCAS20240845      05/02/2024  ROBERTA M MATESIC            04/10/2024  04/10/2024  SCRANTON TO HARRISBURG AND RETURN                                            $12.06
+DCAS20240846      05/06/2024  ROBERTA M MATESIC            04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                         $34.84
+DCAS20240847      05/06/2024  ROBERTA M MATESIC            04/17/2024  04/17/2024  PITTSBURGH TO BUTLER AND RETURN                                              $61.64
+                  05/06/2024  ROBERTA M MATESIC            04/18/2024  04/18/2024  STAFF TRANSPORTATION                                                         $46.90
+DCAS20240848      05/06/2024  ROBERTA M MATESIC            04/20/2024  04/20/2024  WAYNESBURG TO BUTLER TO PITTSBURGH                                           $15.00
+                  05/08/2024  ELIZABETH M COOPER           04/29/2024  04/29/2024  STAFF TRANSPORTATION                                                       $107.87
+DCAS20240849                                                                       PITTSBURGH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $12.60
+DCAS20240853      05/07/2024  TRACE J LEDGARD              04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                         $62.98
+DCAS20240855                                                                       WAYNESBURG TO UNIONTOWN AND RETURN                                           $15.69
+DCAS20240856      05/07/2024  IAN F MADIGAN                04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                       $106.52
+DCAS20240857      05/14/2024  ANDREA M GUSCOTT             04/25/2024  04/25/2024  WAYNESBURG TO MONONGAHELA AND RETURN                                         $15.94
+DCAS20240858      05/10/2024  ETHAN MARC SELETSKY          04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                         $23.14
+                  05/10/2024  ETHAN MARC SELETSKY          04/26/2024  04/26/2024  WAYNESBURG TO CANONSBURG AND RETURN                                          $15.87
+DCAS20240859      05/10/2024  ETHAN MARC SELETSKY          04/29/2024  04/29/2024  STAFF PER DIEM                                                               $17.99
+DCAS20240860      05/14/2024  ELIZABETH M COOPER           05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                       $119.26
+DCAS20240861                                                                       BOALSBURG TO EMPORIUM TO STATE COLLEGE                                     $101.17
+DCAS20240862      05/14/2024  ELIZABETH M COOPER           05/03/2024  05/03/2024  STAFF PER DIEM                                                               $12.12
+                  05/13/2024  ETHAN MARC SELETSKY          05/01/2024  05/01/2024  STAFF TRANSPORTATION                                                         $42.88
+                  05/13/2024  TRACE J LEDGARD              05/03/2024  05/03/2024  PITTSBURGH TO FORD CITY, KITTANNING AND RETURN                               $27.72
+                  05/14/2024  ABBY R LAFORM                05/04/2024  05/04/2024  STAFF PER DIEM                                                               $70.00
+                                                                                   SCRANTON TO PLYMOUTH MEETING AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   LITITZ TO OAKS AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   STATE COLLEGE TO BEAVER SPRINGS, ALTOONA AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   STATE COLLEGE TO BEDFORD TO BOALSBURG
+                                                                                   STAFF TRANSPORTATION
+                                                                                   PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   PITTSBURGH TO HARMONY AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   PHILADELPHIA TO HARRISBURG AND RETURN
+

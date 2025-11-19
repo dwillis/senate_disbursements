@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+                  POSTED                                        DATES
+DPET20240296                                                                 AIRFARE FOR SEN PETERS WASHINGTON DC TO DETROIT                                     $110.55
+DPET20240297                                         START       END         STAFF TRANSPORTATION                                                                $110.55
+DPET20240298                                                                 DEWITT TO LIVONIA AND RETURN
+DPET20240302      04/08/2024  ELISE A LANCASTER      02/13/2024  02/13/2024  STAFF TRANSPORTATION                                                                  $17.36
+DPET20240303      04/08/2024  ELISE A LANCASTER      02/16/2024  02/16/2024  DEWITT TO LIVONIA AND RETURN                                                        $129.31
+DPET20240304      04/05/2024  PETER O DICKOW         02/21/2024  02/21/2024  STAFF PER DIEM
+DPET20240306                                                                 STAFF TRANSPORTATION                                                                  $70.35
+DPET20240307      04/02/2024  PETER O DICKOW         03/04/2024  03/04/2024  GRAND RAPIDS TO STURGIS AND RETURN                                                  $282.74
+DPET20240310      04/08/2024  PETER O DICKOW         02/08/2024  02/22/2024  STAFF TRANSPORTATION
+DPET20240312                                         02/26/2024  02/26/2024  GRAND RAPIDS TO KALAMAZOO AND RETURN                                                  $19.13
+DPET20240313      04/08/2024  EMMA BRENNAN WOELKERS                          STAFF TRANSPORTATION                                                                $256.61
+                                                     02/24/2024  02/24/2024  GRAND RAPIDS TO THE FOLLOWING AND RETURN: 2/8 SOUTH HAVEN; 2/16                     $104.52
+DPET20240314      04/08/2024  EMMA BRENNAN WOELKERS  11/13/2023  11/13/2023  BENTON HARBOR; 2/22 PAW PAW
+DPET20240315      04/08/2024  AUBREY ANNE MOORE                              STAFF PER DIEM                                                                        $20.62
+                                                     02/23/2024  02/23/2024  STAFF TRANSPORTATION                                                                  $94.32  B-2028
+DPET20240316      04/08/2024  AUBREY ANNE MOORE      02/01/2024  02/29/2024  MARQUETTE TO SAULT SAINTE MARIE, SAINT IGNACE AND RETURN                            $111.22
+DPET20240317      04/08/2024  JENNIFER M SWIFT       02/05/2024  02/28/2024  STAFF TRANSPORTATION                                                                $201.80
+DPET20240318      04/08/2024  JENNIFER M SWIFT                               MARQUETTE TO IRON MOUNTAIN AND RETURN                                               $370.51
+DPET20240320                                                                 STAFF PER DIEM
+                  04/08/2024  KELLY HURLIN LIVELY    02/06/2024  02/06/2024  STAFF TRANSPORTATION                                                                $206.36
+DPET20240321      04/08/2024  KELLY HURLIN LIVELY    02/14/2024  02/15/2024  MARQUETTE TO ESCANABA AND RETURN
+                                                                             STAFF TRANSPORTATION                                                                  $11.05
+                  04/08/2024  KELLY HURLIN LIVELY    02/16/2024  02/16/2024  MARQUETTE TO ESCANABA AND RETURN                                                      $85.00
+                  04/08/2024  KELLY HURLIN LIVELY    02/21/2024  02/21/2024  STAFF TRANSPORTATION                                                                $290.11
+                  04/08/2024  KELLY HURLIN LIVELY    02/23/2024  02/23/2024  DETROIT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                    $125.96
+                  04/08/2024  KALA R SMITH           03/11/2024  03/13/2024  STAFF TRANSPORTATION                                                                $206.36
+                                                                             2/5 GROSSE POINTE WOODS TO ROMULUS, BLOOMFIELD HILLS TO                             $115.24
+                  04/22/2024  BENJAMIN E TIMPF       03/11/2024  03/13/2024  DETROIT; GROSSE POINTE WOODS TO THE FOLLOWING AND RETURN: 2/11                        $82.30
+                                                                             ROMULUS, BLOOMFIELD HILLS; 2/12 PORT HURON; 2/20 BLOOMFIELD HILLS,                  $631.43
+                                                                             HARRISON TOWNSHIP, 2/28 CLINTON TOWNSHIP, FORT GRATIOT                              $184.02
+                                                                             STAFF TRANSPORTATION                                                                  $82.30
+                                                                             MAPLE CITY TO CHEBOYGAN, PETOSKEY, GAYLORD, GRAYLING AND                            $647.18
+                                                                             RETURN                                                                                $60.25
+                                                                             STAFF INCIDENTALS
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             MAPLE CITY TO LANSING AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             MAPLE CITY TO FREMONT AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             TRAVERSE CITY TO OSCODA TO MAPLE CITY
+                                                                             STAFF TRANSPORTATION
+                                                                             MAPLE CITY TO PETOSKEY, CHARLEVOIX AND RETURN
+                                                                             STAFF INCIDENTALS
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             DETROIT TO WASHINGTON DC TO BERKLEY
+                                                                             STAFF INCIDENTALS
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             DETROIT TO WASHINGTON DC AND RETURN
+

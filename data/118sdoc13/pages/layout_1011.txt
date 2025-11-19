@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                        DATES
+DCOT20240647                                                                 ROGERS TO BENTONVILLE AND RETURN                                             $84.96
+DCOT20240648                                         START       END         STAFF TRANSPORTATION                                                         $54.28
+DCOT20240649                                                                 ARKADELPHIA TO MAGNOLIA AND RETURN                                           $44.25
+DCOT20240650      09/06/2024  DAVID R RIDER          07/16/2024  07/16/2024  STAFF TRANSPORTATION                                                         $46.02  B-993
+DCOT20240651      09/06/2024  DAVID R RIDER          07/18/2024  07/18/2024  ARKADELPHIA TO MALVERN, SPARKMAN AND RETURN                                $158.71
+DCOT20240652      09/06/2024  DAVID R RIDER          07/19/2024  07/19/2024  STAFF TRANSPORTATION                                                       $133.93
+DCOT20240653      09/06/2024  DAVID R RIDER          07/24/2024  07/24/2024  ARKADELPHIA TO HOT SPRINGS AND RETURN                                        $79.65
+DCOT20240654      09/09/2024  DAVID R RIDER          07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                       $178.18
+DCOT20240655      09/09/2024  DAVID R RIDER          08/06/2024  08/06/2024  ARKADELPHIA TO MURFREESBORO AND RETURN                                       $46.61
+DCOT20240656      09/09/2024  CAMERON JOSEPH BANDY   08/08/2024  08/08/2024  STAFF TRANSPORTATION                                                         $94.99
+DCOT20240657      09/09/2024  JOHNATHAN C WHITE      08/08/2024  08/08/2024  ARKADELPHIA TO ARKANSAS CITY, MCGEHEE AND RETURN                           $133.93
+DCOT20240658      09/06/2024  DAVID R RIDER          08/08/2024  08/08/2024  STAFF TRANSPORTATION                                                         $82.01
+DCOT20240659      09/06/2024  DAVID R RIDER          08/09/2024  08/09/2024  ARKADELPHIA TO EAST CAMDEN, LITTLE ROCK AND RETURN                           $99.71
+DCOT20240660      09/06/2024  BRITTANY HELEN PARKER  08/10/2024  08/10/2024  STAFF TRANSPORTATION                                                         $89.68
+DCOT20240661      09/09/2024  CAMERON JOSEPH BANDY   08/12/2024  08/12/2024  JONESBORO TO HARRISBURG, WEST MEMPHIS AND RETURN                             $71.39
+DCOT20240662      09/09/2024  BRITTANY HELEN PARKER  08/13/2024  08/13/2024  STAFF TRANSPORTATION                                                         $13.72
+                  09/06/2024  DAVID R RIDER          08/14/2024  08/14/2024  LITTLE ROCK TO MOUNTAIN HOME AND RETURN                                    $158.12
+DCOT20240663      09/12/2024  CAMERON JOSEPH BANDY   08/14/2024  08/14/2024  STAFF TRANSPORTATION                                                         $79.06
+DCOT20240664      09/13/2024  BRITTANY HELEN PARKER  08/15/2024  08/15/2024  ARKADELPHIA TO HOT SPRINGS AND RETURN                                        $51.92
+DCOT20240665                                                                 STAFF TRANSPORTATION                                                         $26.18
+                  09/12/2024  DAVID R RIDER          08/15/2024  08/15/2024  ARKADELPHIA TO TEXARKANA TX AND RETURN                                     $295.00
+DCOT20240666      09/12/2024  CAMERON JOSEPH BANDY   08/15/2024  08/15/2024  STAFF TRANSPORTATION                                                         $99.12
+DCOT20240672      09/13/2024  BRITTANY HELEN PARKER  08/19/2024  08/19/2024  CLARKSVILLE TO BENTONVILLE AND RETURN                                        $54.98
+                                                                             STAFF TRANSPORTATION                                                       $462.95
+                  09/12/2024  BRITTANY HELEN PARKER  08/20/2024  08/20/2024  JONESBORO TO MCCRORY, AUGUSTA AND RETURN                                $1,797.00
+                  09/25/2024  JESSICA J. HART        08/18/2024  08/23/2024  STAFF TRANSPORTATION
+                                                                             ROGERS TO BENTONVILLE, FORT SMITH AND RETURN                               $602.88
+DCOT20240673      09/25/2024  JESSICA J. HART        08/05/2024  08/09/2024  STAFF TRANSPORTATION
+                                                                             ARKADELPHIA TO PINE BLUFF AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             JONESBORO TO BLYTHEVILLE, PARAGOULD AND RETURN
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             ROGERS TO RUSSELLVILLE AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             ARKADELPHIA TO MALVERN, MURFREESBORO AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             JONESBORO TO NEWPORT AND RETURN
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             ROGERS TO LITTLE ROCK, WHITE HALL AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             ROGERS TO HARRISON AND RETURN
+                                                                             STAFF INCIDENTALS
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             ALEXANDRIA VA TO WASHINGTON, LITTLE ROCK, BENTONVILLE TO
+                                                                             WASHINGTON DC
+                                                                             STAFF TRANSPORTATION
+                                                                             WASHINGTON DC TO LITTLE ROCK, BENTONVILLE AND RETURN
+

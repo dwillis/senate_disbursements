@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE                  PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                         DATES
+DBRS20240670                                                                  CASPER TO LARAMIE AND RETURN                                               $205.02
+DBRS20240671                                          START       END         STAFF TRANSPORTATION                                                       $126.32
+DBRS20240672                                                                  MILLS TO SHERIDAN AND RETURN                                               $101.84
+DBRS20240674      09/26/2024  PATRICK R SHEEHAN       09/14/2024  09/14/2024  STAFF TRANSPORTATION
+DBRS20240675      09/27/2024  PAM BULINE              08/06/2024  08/07/2024  RIVERTON TO JACKSON AND RETURN                                               $71.69
+DBRS20240676      09/27/2024  PAM BULINE              09/10/2024  09/10/2024  STAFF TRANSPORTATION                                                       $156.38
+DBRS20240677      09/21/2024  BRIANNA N GOODELL       06/18/2024  09/17/2024  CROWHEART TO THERMOPOLIS TO RIVERTON
+                  09/28/2024  BRIANNA N GOODELL       08/14/2024  08/15/2024  STAFF TRANSPORTATION                                                         $79.73
+DBRS20240678      09/21/2024  BRIANNA N GOODELL       08/16/2024  08/17/2024  CASPER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $4.60
+DBRS20240679      09/21/2024  BRIANNA N GOODELL       08/26/2024  08/26/2024  STAFF TRANSPORTATION
+DBRS20240683                                                                  CASPER TO DOUGLAS AND RETURN                                                 $68.34
+DBRS20240684      09/21/2024  BRIANNA N GOODELL       08/27/2024  08/27/2024  STAFF TRANSPORTATION                                                         $35.51  B-503
+                  09/27/2024  BRIANNA N GOODELL       09/14/2024  09/15/2024  CASPER TO DOUGLAS AND RETURN                                               $127.13
+DBRS20240685      09/21/2024  SCOTT S BOSWELL         09/17/2024  09/17/2024  STAFF PER DIEM                                                               $35.80
+DBRS20240686      09/27/2024  BARRASSO,JOHN           09/12/2024  09/16/2024  STAFF TRANSPORTATION
+DBRS20240687                                                                  CASPER TO DOUGLAS AND RETURN                                                  $6.29
+                  09/28/2024  BRIANNA N GOODELL       09/18/2024  09/18/2024  STAFF TRANSPORTATION                                                       $516.60
+DBRS20240688      09/27/2024  JINX CLARK              03/04/2024  09/18/2024  CASPER TO GLENROCK AND RETURN                                              $198.99
+                  09/28/2024  PAM BULINE              05/07/2024  05/10/2024  STAFF TRANSPORTATION                                                       $694.12
+DBRS20240689                                                                  CASPER TO LARAMIE AND RETURN
+DBRS20240690      09/28/2024  PAM BULINE              06/06/2024  06/07/2024  STAFF TRANSPORTATION                                                         $38.52
+DBRS20240691                                                                  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $356.43
+DBRS20240692      09/28/2024  PAM BULINE              05/26/2024  05/27/2024  SENATOR INCIDENTALS                                                        $211.05
+DBRS20240703      09/21/2024  RUTHANN LYNN HARDY      01/08/2024  09/17/2024  SENATOR TRANSPORTATION
+DBRS20240704      09/22/2024  LAURA CURRAN            09/18/2024  09/18/2024  WASHINGTON DC TO CASPER, LARAMIE AND RETURN                                  $13.20
+DBRS20240712      09/22/2024  LAURA CURRAN            07/21/2024  08/23/2024  STAFF TRANSPORTATION                                                       $119.95
+                  09/26/2024  PAM BULINE              08/08/2024  08/08/2024  CASPER TO GILLETTE, DOUGLAS AND RETURN                                     $111.34
+                  09/26/2024  PAM BULINE              05/29/2024  05/29/2024  STAFF TRANSPORTATION
+                  09/27/2024  KYLIE R ANDERSON        09/25/2024  09/25/2024  CASPER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $97.19
+                                                                              STAFF INCIDENTALS                                                            $70.35
+                                                                              STAFF PER DIEM                                                               $69.01
+                                                                              STAFF TRANSPORTATION                                                         $60.30
+                                                                              CROWHEART TO CASPER TO RIVERTON                                              $46.23
+                                                                              STAFF INCIDENTALS                                                            $35.51
+                                                                              STAFF PER DIEM                                                               $53.60
+                                                                              STAFF TRANSPORTATION
+                                                                              RIVERTON TO CODY AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              CROWHEART TO LANDER TO RIVERTON
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              CHEYENNE TO LARAMIE AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              CHEYENNE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              RIVERTON TO LANDER TO CROWHEART
+                                                                              STAFF TRANSPORTATION
+                                                                              RIVERTON TO LANDER AND RETURN
+                                                                              STAFF TRANSPORTATION
+

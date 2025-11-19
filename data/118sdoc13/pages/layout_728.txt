@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DBRN20241023                  KAMERON W ANDERSON                                        STAFF TRANSPORTATION                                                            $48.24
+DBRN20241024      08/16/2024  KAMERON W ANDERSON                START       END         DAYTON TO LIMA AND RETURN
+DBRN20241025      08/16/2024  KAMERON W ANDERSON                                        STAFF TRANSPORTATION                                                            $42.88
+DBRN20241026      08/16/2024  ANTHONY L ELIOPOULOS              08/02/2024  08/02/2024  DAYTON TO CINCINNATI AND RETURN
+DBRN20241027      08/19/2024  JORDAN T PENNELL                                          STAFF TRANSPORTATION                                                            $58.29
+DBRN20241028                  ELAINE N VILEM                    08/06/2024  08/06/2024  DAYTON TO LIMA, SPRINGFIELD AND RETURN
+DBRN20241031      08/19/2024  CITIBANK - TRAVEL CBA CARD                                STAFF PER DIEM                                                                   $7.00
+DBRN20241032      08/20/2024  EMMA MARIE SPEYER                 08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                          $183.24
+DBRN20241033                  EMMA MARIE SPEYER                                         COLUMBUS TO MANSFIELD, DAYTON AND RETURN
+DBRN20241042      08/20/2024  ANN L ORR                         08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                            $97.82
+DBRN20241043                  ANN L ORR                                                 YOUNGSTOWN TO NAVARRE AND RETURN
+DBRN20241044      08/20/2024  ANN L ORR                         08/06/2024  08/06/2024  STAFF PER DIEM                                                                  $37.98
+DBRN20241045      08/20/2024  KIMBERLY N LATTIMORE              08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                          $319.32
+DBRN20241046      09/05/2024  LYNDSEY MARIE BARNES                                      CLEVELAND TO MANSFIELD, LIMA, DAYTON AND RETURN
+                                                                08/08/2024  08/09/2024  STAFF TRANSPORTATION                                                          $330.19
+DBRN20241047      08/27/2024                                                            TICKET FEES                                                                     $30.00
+                                                                08/09/2024  08/09/2024  AIRFARE FOR K LATTIMORE WASHINGTON DC TO COLUMBUS AND RETURN                            B-710
+DBRN20241048      08/26/2024                                    08/12/2024  08/12/2024  STAFF TRANSPORTATION                                                            $20.10
+DBRN20241049                                                    08/07/2024  08/07/2024  COLUMBUS TO BLACKLICK AND RETURN
+DBRN20241050      08/27/2024                                                            STAFF TRANSPORTATION                                                            $16.08
+DBRN20241051                                                    08/13/2024  08/13/2024  COLUMBUS TO DUBLIN AND RETURN
+                  08/28/2024                                                            STAFF PER DIEM                                                                   $4.89
+                                                                08/14/2024  08/14/2024  STAFF TRANSPORTATION                                                            $49.58
+                                                                                        OBERLIN TO CLEVELAND AND RETURN
+                                                                08/08/2024  08/09/2024  STAFF PER DIEM                                                                  $17.51
+                                                                                        STAFF TRANSPORTATION                                                          $134.61
+                                                                07/01/2024  07/02/2024  OBERLIN TO CLEVELAND, YOUNGSTOWN AND RETURN
+                                                                                        STAFF PER DIEM                                                                  $22.31
+                  08/20/2024  NELSON D RICHARDSON               07/07/2024  07/13/2024  STAFF TRANSPORTATION                                                            $51.59
+                                                                                        OBERLIN TO CLEVELAND, ELYRIA AND RETURN
+                  08/28/2024  JORDAN T PENNELL                  08/14/2024  08/14/2024  STAFF PER DIEM                                                                  $19.42
+                                                                                        STAFF TRANSPORTATION                                                            $93.39
+                  08/28/2024  JORDAN T PENNELL                  08/16/2024  08/16/2024  WASHINGTON DC TO COLUMBUS AND RETURN
+                  09/09/2024  ANTHONY L ELIOPOULOS              08/14/2024  08/14/2024  STAFF INCIDENTALS                                                               $21.35
+                  09/09/2024  ANTHONY L ELIOPOULOS              08/15/2024  08/15/2024  STAFF PER DIEM                                                                $148.21
+                                                                                        STAFF TRANSPORTATION                                                          $286.63
+                                                                                        WASHINGTON DC TO COLUMBUS AND RETURN
+                                                                                        STAFF INCIDENTALS                                                             $178.20
+                                                                                        STAFF PER DIEM                                                             $1,339.58
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO CLEVELAND, CINCINNATI AND RETURN                               $29.80
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                            $13.70
+                                                                                        YOUNGSTOWN TO PAINESVILLE AND RETURN                                            $97.82
+                                                                                        STAFF TRANSPORTATION
+                                                                                        YOUNGSTOWN TO BOARDMAN AND RETURN                                               $10.72
+                                                                                        STAFF TRANSPORTATION
+                                                                                        COLUMBUS TO LIMA AND RETURN                                                   $105.72
+                                                                                        STAFF TRANSPORTATION
+                                                                                        COLUMBUS TO CLEVELAND, SANDUSKY AND RETURN                                    $203.34
+

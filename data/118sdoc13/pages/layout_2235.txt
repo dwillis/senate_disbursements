@@ -1,0 +1,17 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE  DESCRIPTION                      AMOUNT ($)
+                   POSTED                                                  DATES
+DSDR20240331                  CITIBANK - PURCHASE CARD                                                                                  $9.99
+                  06/12/2024                                    START       END                                                         $9.99
+0002857407                    SERGEANT AT ARMS                                                                                       $249.99
+DSDR20240243      08/07/2024  CITIBANK - PURCHASE CARD          04/30/2024   04/30/2024 VOICE, DATA COMM EQP MAINT                   $109.98
+DSDR20240249      04/25/2024  CITIBANK - PURCHASE CARD                      OTHER CONTRACTUAL SERVICES                               $114.39
+DSDR20240328      04/16/2024  CITIBANK - PURCHASE CARD          06/01/2024                                                           $153.94
+DSDR20240457      06/18/2024  PERATON ENTERPRISE SOLUTIONS      03/22/2024   06/30/2024 VOICE & DATA COMM EQUIPMENT               $1,031.48
+                  08/22/2024                                    02/26/2024   03/22/2024 AUDIO, VISUAL EQUIPMENT                   $1,659.78
+                                                                05/04/2024   02/26/2024 AUDIO, VISUAL EQUIPMENT
+                                                                04/22/2024   05/04/2024 AUDIO, VISUAL EQUIPMENT
+                                                                             04/22/2024 IT EQUIPMENT
+                                                                            ACQUISITION OF ASSETS
+
+                                                                                                                                               B-2198
+

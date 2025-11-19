@@ -1,0 +1,42 @@
+DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE  DESCRIPTION                                                                  AMOUNT ($)
+              POSTED                                               DATES
+                                                                                                                                                                         $221.10
+                                                        START       END                                                                                                  $221.10
+                                                                                                                                                                         $393.10
+DBLU20240477  09/20/2024  CITIBANK - SENATOR IBA CARD   09/09/2024                        HARTFORD TO THE FOLLOWING AND RETURN: 8/2 EAST HARTFORD; 8/14                  $113.10
+              09/20/2024  CITIBANK - SENATOR IBA CARD                                     PLAINVILLE; 9/3 EAST WINDSOR; WATERFORD TO THE FOLLOWING AND                   $221.10
+DBLU20240478  09/20/2024  CITIBANK - SENATOR IBA CARD   09/12/2024                        RETURN TO HARTFORD: 8/13 SIMSBURY; 8/19 NEW HAVEN; 8/23
+              09/24/2024  CITIBANK - SENATOR IBA CARD                                     WATERFORD TO NEW LONDON AND RETURN; HARTFORD TO THE                              $80.40
+DBLU20240479  09/24/2024  CITIBANK - SENATOR IBA CARD   09/16/2024                        FOLLOWING AND RETURN TO WATERFORD: 8/26 SOUTHBURY, SEYMOUR; 8                    $56.28
+              09/25/2024  KEVIN T MULLANE                                                 /27 OLD LYME, LEDYARD; 8/29 EAST HAVEN                                     $32,020.58
+DBLU20240482  09/27/2024  KATHLEEN G MCWILLIAMS         09/19/2024   09/09/2024 SENATOR TRANSPORTATION                                                                $6,000.00
+                                                                                          AIRFARE FOR SEN BLUMENTHAL WINDSOR LOCKS TO WASHINGTON DC                   $8,645.00
+DBLU20240483  04/10/2024  CREATIVENGINE CORPORATION     09/23/2024   09/12/2024 SENATOR TRANSPORTATION                                                               $14,645.00    B-596
+              08/19/2024  CREATIVENGINE CORPORATION                                       AIRFARE FOR SEN BLUMENTHAL WASHINGTON DC TO WINDSOR LOCKS                  $10,651.53
+DBLU20240492                                            05/25/2024   09/16/2024 SENATOR TRANSPORTATION                                                               $10,632.00
+              04/18/2024  SERGEANT AT ARMS                                                AIRFARE FOR SEN BLUMENTHAL WINDSOR LOCKS TO WASHINGTON DC                   $1,600.00
+DBLU20240505  04/19/2024  SERGEANT AT ARMS              09/20/2024   09/19/2024 SENATOR TRANSPORTATION                                                               $12,427.00
+              04/18/2024  SERGEANT AT ARMS                                                AIRFARE FOR SEN BLUMENTHAL WASHINGTON DC TO NEW YORK NY                        $400.00
+DBLU20240223  04/18/2024  SERGEANT AT ARMS              01/01/2024   09/23/2024 SENATOR TRANSPORTATION                                                                     $40.65
+DBLU20240401  04/18/2024  SERGEANT AT ARMS              08/01/2024                        AIRFARE FOR SEN BLUMENTHAL WINDSOR LOCKS TO WASHINGTON DC                      $158.46
+              06/17/2024  CITIBANK - PURCHASE CARD                   05/25/2024 STAFF TRANSPORTATION                                                                       $55.76
+0002852547    06/26/2024  PERATON ENTERPRISE SOLUTIONS  02/01/2024                        BRANFORD TO GREENWICH AND RETURN                                                 $18.79
+0002852677    08/30/2024  CITIBANK - PURCHASE CARD      02/01/2024   09/20/2024 STAFF TRANSPORTATION                                                                 $35,984.19
+0002852688    08/30/2024  CITIBANK - PURCHASE CARD      02/01/2024                        HARTFORD TO NEW HAVEN AND RETURN
+0002852696                                              02/01/2024  TRAVEL AND TRANSPORTATION OF PERSONS
+0002852728                                              02/01/2024
+DBLU20240330                                            06/09/2024   12/31/2024 IT EQUIP MAINT
+DBLU20240331                                            03/13/2024   08/01/2024 TECHNICAL SUPPORT
+DBLU20240411                                            07/15/2024  OTHER CONTRACTUAL SERVICES
+DBLU20240413                                            08/11/2024
+                                                                     02/29/2024 SOFTWARE LICENSE
+                                                                     02/29/2024 IT EQUIPMENT
+                                                                     02/29/2024 IT EQUIPMENT
+                                                                     02/29/2024 SOFTWARE LICENSE
+                                                                     02/29/2024 IT EQUIPMENT
+                                                                     06/09/2024 AUDIO, VISUAL EQUIPMENT
+                                                                     03/13/2024 SOFTWARE LICENSE
+                                                                     07/15/2024 VOICE & DATA COMM EQUIPMENT
+                                                                     08/11/2024 IT EQUIPMENT
+                                                                    ACQUISITION OF ASSETS
+

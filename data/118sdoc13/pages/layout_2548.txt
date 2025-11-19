@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                      DATES
+DVAN20240474                                                               WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $43.55
+DVAN20240475                                       START       END         STAFF TRANSPORTATION                                                         $56.95
+DVAN20240476                                                               CAMBRIDGE TO SALISBURY AND RETURN                                          $167.50
+DVAN20240477      04/02/2024  ALYSSA M HASTINGS    03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                         $44.22  B-2511
+DVAN20240478      04/02/2024  ALYSSA M HASTINGS    03/27/2024  03/27/2024  CAMBRIDGE TO CHESTER AND RETURN                                              $13.40
+DVAN20240479      04/09/2024  PATRICIA RUSSELL     01/10/2024  03/18/2024  STAFF TRANSPORTATION                                                         $59.16
+DVAN20240480      04/04/2024  TERI L WEATHERS      03/26/2024  03/26/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $45.56
+DVAN20240481      04/04/2024  ELONNA B.Q JONES     03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                         $59.16
+DVAN20240482      04/04/2024  MATTHEW SLAVOSKI     03/26/2024  03/26/2024  BOWIE TO BALTIMORE AND RETURN                                                $59.16
+DVAN20240484      04/04/2024  ALYSSA M HASTINGS    03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                         $55.94
+DVAN20240485      04/05/2024  MATTHEW SLAVOSKI     03/27/2024  03/27/2024  BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $46.90
+DVAN20240486      04/05/2024  MATTHEW SLAVOSKI     03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                         $71.02
+DVAN20240487      04/11/2024  MATTHEW SLAVOSKI     04/01/2024  04/01/2024  WASHINGTON DC TO DUNDALK AND RETURN                                          $80.40
+DVAN20240488      04/11/2024  ALYSSA M HASTINGS    04/03/2024  04/03/2024  STAFF TRANSPORTATION                                                       $130.65
+DVAN20240489      04/11/2024  DAKOTA WALKER BUSBY  03/18/2024  03/18/2024  SALISBURY TO EASTON TO CAMBRIDGE                                             $97.11
+DVAN20240490      04/11/2024  ALYSSA M HASTINGS    04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                         $46.90
+DVAN20240491      04/17/2024  DAKOTA WALKER BUSBY  03/19/2024  03/25/2024  WASHINGTON DC TO DUNDALK AND RETURN                                          $82.37
+DVAN20240492      04/11/2024  DAKOTA WALKER BUSBY  03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                       $129.27
+DVAN20240493      04/11/2024  ALYSSA M HASTINGS    04/02/2024  04/02/2024  WASHINGTON DC TO DUNDALK AND RETURN                                          $80.36
+DVAN20240494      04/11/2024  DAKOTA WALKER BUSBY  03/30/2024  03/30/2024  STAFF TRANSPORTATION                                                       $215.74
+DVAN20240495      04/17/2024  DAKOTA WALKER BUSBY  03/28/2024  03/28/2024  WASHINGTON DC TO BALTIMORE AND RETURN                                        $72.36
+DVAN20240496      04/11/2024  DAKOTA WALKER BUSBY  03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                         $13.26
+DVAN20240497      04/17/2024  NAN SHERIDAN-MANN    03/30/2024  03/30/2024  CAMBRIDGE TO QUEEN ANNE AND RETURN                                         $117.21
+DVAN20240498      04/11/2024  DAKOTA WALKER BUSBY  03/29/2024  03/29/2024  STAFF TRANSPORTATION                                                         $24.79
+DVAN20240501      04/11/2024  ELONNA B.Q JONES     04/01/2024  04/01/2024  WASHINGTON DC TO BALTIMORE AND RETURN                                        $81.74
+                  04/17/2024  DAKOTA WALKER BUSBY  04/01/2024  04/01/2024  STAFF TRANSPORTATION
+                  04/11/2024  DAKOTA WALKER BUSBY  03/31/2024  03/31/2024  CAMBRIDGE TO WESTOVER AND RETURN
+                  04/11/2024  ALYSSA M HASTINGS    04/05/2024  04/05/2024  STAFF TRANSPORTATION
+                                                                           WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO DUNDALK AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           SALISBURY TO EASTON TO CAMBRIDGE
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO DUNDALK AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO DUNDALK AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO DUNDALK AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HAGERSTOWN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO BALTIMORE AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO DUNDALK AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+

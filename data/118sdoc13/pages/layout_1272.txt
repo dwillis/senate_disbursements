@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DGRL20240423                  PENNY VACEK                                               STAFF TRANSPORTATION                                                          $113.90
+DGRL20240424      05/07/2024  PENNY VACEK                       START       END         DAVENPORT TO BURLINGTON AND RETURN                                            $150.08
+DGRL20240425      05/08/2024  PENNY VACEK                                               STAFF TRANSPORTATION
+DGRL20240426      05/03/2024  JACOB I BOSSMAN                   04/18/2024  04/18/2024  OXFORD JUNCTION TO MOUNT PLEASANT AND RETURN                                    $58.96
+DGRL20240427      05/03/2024  GARRETT LANE ANDERSON                                     STAFF TRANSPORTATION                                                            $97.15
+DGRL20240428      05/03/2024  GARRETT LANE ANDERSON             04/19/2024  04/19/2024  OXFORD JUNCTION TO MUSCATINE AND RETURN                                         $17.42
+DGRL20240429      05/03/2024  NOAH A SCHRAD                                             STAFF TRANSPORTATION                                                            $96.48
+DGRL20240430      05/03/2024  NOAH A SCHRAD                     04/21/2024  04/21/2024  SIOUX CITY TO SHELDON AND RETURN                                                $12.73
+DGRL20240431      05/03/2024  ROCHELLE A FULLER                                         STAFF TRANSPORTATION                                                            $12.73
+                  05/07/2024                                    04/23/2024  04/23/2024  SIOUX CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $11.42
+DGRL20240432                  MATTHEW C RECTOR                                          STAFF TRANSPORTATION                                                          $101.84
+                  05/09/2024                                    02/07/2024  02/08/2024  SIOUX CITY TO STORM LAKE AND RETURN                                             $12.31
+DGRL20240433                                                                            STAFF TRANSPORTATION                                                          $120.43
+DGRL20240434                                                    02/09/2024  02/09/2024  DES MOINES TO WEST DES MOINES TO GRIMES
+DGRL20240435                                                                            STAFF TRANSPORTATION                                                            $64.99
+DGRL20240436                                                    04/22/2024  04/22/2024  DES MOINES TO INDIANOLA AND RETURN                                               $4.02
+DGRL20240437                                                                            STAFF PER DIEM
+DGRL20240438                                                    04/19/2024  04/19/2024  STAFF TRANSPORTATION                                                            $63.65
+DGRL20240439                                                                            SOLON TO DUBUQUE AND RETURN                                                     $31.49
+DGRL20240440                                                    04/23/2024  04/23/2024  STAFF PER DIEM                                                                  $73.70
+DGRL20240441                                                                            STAFF TRANSPORTATION                                                            $10.05
+DGRL20240442                                                    04/22/2024  04/23/2024  WATERLOO TO NEW HARTFORD, DES MOINES, OSAGE, MASON CITY AND                     $18.76  B-1254
+DGRL20240443                                                                            RETURN                                                                          $87.10
+DGRL20240444      05/03/2024  GARRETT LANE ANDERSON             02/15/2024  02/15/2024  STAFF TRANSPORTATION                                                            $75.04
+                  05/03/2024  GARRETT LANE ANDERSON             02/21/2024  02/21/2024  SIOUX CITY TO ORANGE CITY AND RETURN                                            $62.71
+                  05/03/2024  GARRETT LANE ANDERSON             03/20/2024  03/20/2024  STAFF TRANSPORTATION                                                          $104.82
+                  05/03/2024  GARRETT LANE ANDERSON             04/09/2024  04/09/2024  SIOUX CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $12.84
+                  05/03/2024  GARRETT LANE ANDERSON             03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                          $129.50
+                  05/07/2024  ROCHELLE A FULLER                 03/21/2024  03/21/2024  SIOUX CITY TO ROCK VALLEY AND RETURN                                          $200.33
+                  05/28/2024  ROCHELLE A FULLER                 04/13/2024  04/13/2024  STAFF TRANSPORTATION
+                  05/06/2024  PENNY VACEK                       04/23/2024  04/23/2024  SIOUX CITY TO LE MARS AND RETURN
+                  05/06/2024  RONALD J RANDAZZO                 04/24/2024  04/24/2024  STAFF TRANSPORTATION
+                  05/03/2024  MATTHEW C RECTOR                  04/25/2024  04/25/2024  SIOUX CITY TO CHEROKEE AND RETURN
+                  05/08/2024  CAROL D OLSON                     04/20/2024  04/20/2024  STAFF TRANSPORTATION
+                  05/10/2024  JENNIFER HEINS DAVIS              04/24/2024  04/25/2024  CEDAR RAPIDS TO SOLON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SOLON TO CEDAR RAPIDS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DAVENPORT TO WAPELLO TO OXFORD JUNCTION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DES MOINES TO MARSHALLTOWN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DENVER TO CHARLES CITY TO WATERLOO
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DES MOINES TO NEW HARTFORD AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DES MOINES TO JEFFERSON, CARROLL, DENISON, WOODBINE, HARLAN,
+                                                                                        AUDUBON, PANORA AND RETURN
+

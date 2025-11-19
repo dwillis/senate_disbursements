@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE                   PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                  POSTED                                          DATES
+DWRN20240853                                                                   ROANOKE TO FREDERICKSBURG AND RETURN                                                 $23.45
+DWRN20240854                                           START       END         STAFF TRANSPORTATION                                                                 $20.00
+DWRN20240855                                                                   NORFOLK OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                     $62.21
+DWRN20240856      09/19/2024  GENE L GARLAND           09/12/2024  09/12/2024  STAFF PER DIEM                                                                     $111.48
+DWRN20240861      09/19/2024  KATHLEEN E PILLIS        09/12/2024  09/12/2024  STAFF TRANSPORTATION                                                                 $11.56
+DWRN20240862                                                                   RICHMOND TO NORFOLK AND RETURN                                                     $432.82
+DWRN20240863      09/26/2024  NICHOLAS R KAWUGULE      09/13/2024  09/13/2024  STAFF TRANSPORTATION                                                                 $12.06
+                  09/30/2024  MICAH I BARBOUR          09/13/2024  09/14/2024  RICHMOND TO FARMVILLE AND RETURN                                                     $42.67
+                                                                               STAFF PER DIEM                                                                     $265.52
+                  09/19/2024  CAROLINE E BROOM         09/13/2024  09/13/2024  STAFF TRANSPORTATION
+                  09/20/2024  OLIVIA MARGARET LEE      08/29/2024  08/29/2024  WASHINGTON DC TO SOUTH BOSTON, DUBLIN AND RETURN                                     $64.49
+                  09/27/2024  JACLYN B MARMOL          07/31/2024  08/23/2024  STAFF TRANSPORTATION                                                               $451.53
+                                                                               WASHINGTON DC TO ALEXANDRIA AND RETURN
+DWRN20240864      09/27/2024  JONAH E KIM              09/12/2024  09/15/2024  STAFF TRANSPORTATION                                                                 $56.07  B-2554
+                                                                               WASHINGTON DC TO ALEXANDRIA AND RETURN                                             $409.46
+DWRN20240865      09/28/2024  ZACHARY B GOLDEN         09/12/2024  09/14/2024  STAFF TRANSPORTATION                                                               $442.20
+                                                                               7/31 VIENNA TO RESTON AND RETURN; FALLS CHURCH TO THE FOLLOWING
+DWRN20240866      09/21/2024  SYDNEY M LIVINGSTON      09/17/2024  09/17/2024  AND RETURN: 8/8 FORT BELVOIR; 8/14 MANASSAS; ARLINGTON; 8/15, 22                     $60.97
+DWRN20240867      09/21/2024  ROBERT S CLEM            08/28/2024  08/28/2024  ANNANDALE; 8/20 ALEXANDRIA, FREDERICKSBURG, FAIRFAX; FALLS                           $56.95
+DWRN20240868      09/21/2024  ROBERT S CLEM            09/11/2024  09/11/2024  CHURCH TO THE FOLLOWING AND RETURN TO VIENNA: 8/13 ALEXANDRIA; 8                     $22.78
+DWRN20240869      09/21/2024  ROBERT S CLEM            09/13/2024  09/13/2024  /21 FREDERICKSBURG; 8/23 FAIRFAX                                                     $37.52
+DWRN20240870      09/21/2024  ROBERT S CLEM            09/12/2024  09/12/2024  STAFF INCIDENTALS                                                                    $36.85
+DWRN20240871      09/28/2024  ROBERT S CLEM            09/14/2024  09/14/2024  STAFF PER DIEM                                                                     $113.90
+DWRN20240872      09/28/2024  ROBERT S CLEM            09/16/2024  09/16/2024  WASHINGTON DC TO RICHMOND, FARMVILLE, SOUTH BOSTON, DANVILLE,                      $136.68
+DWRN20240873      09/27/2024  ISAAC SARVER             09/12/2024  09/12/2024  MARTINSVILLE, STUART, DUBLIN, BLACKSBURG, ROANOKE AND RETURN                       $150.08
+DWRN20240874      09/27/2024  ISAAC SARVER             09/13/2024  09/14/2024  STAFF INCIDENTALS                                                                    $10.85
+                                                                               STAFF PER DIEM                                                                       $96.00
+                                                                               STAFF TRANSPORTATION                                                               $224.45
+                                                                               ARLINGTON TO RICHMOND, FARMVILLE, DANVILLE, MARTINSVILLE, STUART,
+                                                                               DUBLIN AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               ROANOKE TO LYNCHBURG AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               ABINGDON TO BRISTOL TO POUNDING MILL
+                                                                               STAFF TRANSPORTATION
+                                                                               ABINGDON TO BRISTOL AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               POUNDING MILL TO RICHLANDS TO ABINGDON
+                                                                               STAFF TRANSPORTATION
+                                                                               POUNDING MILL TO BRISTOL TO ABINGDON
+                                                                               STAFF TRANSPORTATION
+                                                                               POUNDING MILL TO DUBLIN AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               ABINGDON TO GALAX TO POUNDING MILL
+                                                                               STAFF TRANSPORTATION
+                                                                               ROANOKE TO HARRISONBURG, WEYERS CAVE AND RETURN
+                                                                               STAFF INCIDENTALS
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               RICHMOND TO SOUTH BOSTON, DANVILLE, MARTINSVILLE, STUART, DUBLIN
+                                                                               TO ROANOKE
+

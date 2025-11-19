@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                   POSTED                                                  DATES
+DBRN20240518                  JOYCE M FRAZIER-POWDRILL                                  STAFF TRANSPORTATION                                                          $60.26
+DBRN20240519      04/12/2024  JOYCE M FRAZIER-POWDRILL          START       END         CINCINNATI TO DAYTON AND RETURN                                               $61.57
+DBRN20240520      04/12/2024  JOYCE M FRAZIER-POWDRILL                                  STAFF TRANSPORTATION                                                        $100.50
+DBRN20240521      04/18/2024  JOYCE M FRAZIER-POWDRILL          12/14/2023  12/14/2023  CINCINNATI TO DAYTON AND RETURN                                             $158.12
+DBRN20240522      04/19/2024  JOYCE M FRAZIER-POWDRILL                                  STAFF TRANSPORTATION                                                          $77.72
+DBRN20240523      04/14/2024  JOYCE M FRAZIER-POWDRILL          12/15/2023  12/15/2023  CINCINNATI TO WEST UNION AND RETURN                                           $81.48
+DBRN20240525      05/02/2024  ANTHONY L ELIOPOULOS                                      STAFF TRANSPORTATION
+DBRN20240526      04/22/2024                                    01/05/2024  01/05/2024  CINCINNATI TO LIMA AND RETURN                                                  $8.00
+DBRN20240527                  JOSEPH MICHAEL GILLIGAN                                   STAFF TRANSPORTATION                                                        $220.89
+DBRN20240528      05/02/2024                                    01/29/2024  01/29/2024  CINCINNATI TO COLUMBUS AND RETURN
+DBRN20240529                  JAMES T HUFFER-COLE                                       STAFF TRANSPORTATION                                                          $37.72
+DBRN20240530      04/16/2024  ANTHONY L ELIOPOULOS              02/02/2024  02/02/2024  CINCINNATI TO WASHINGTON DC AND RETURN                                      $110.38
+DBRN20240536      04/22/2024                                                            STAFF PER DIEM
+DBRN20240538                  EMMA MARIE SPEYER                 04/02/2024  04/05/2024  STAFF TRANSPORTATION                                                          $87.10
+DBRN20240539      04/17/2024  JORDAN T PENNELL                                          COLUMBUS TO CLEVELAND, PORT CLINTON AND RETURN                                $10.50
+DBRN20240540      04/19/2024  JOHN A PATTERSON                  04/04/2024  04/04/2024  STAFF PER DIEM                                                              $102.24
+DBRN20240541      04/26/2024                                                            STAFF TRANSPORTATION                                                          $42.88
+DBRN20240545                  CITIBANK - TRAVEL CBA CARD        04/02/2024  04/04/2024  COLUMBUS TO WASHINGTON DC AND RETURN                                          $96.48
+DBRN20240546      04/25/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                          $12.00
+                  04/29/2024                                    04/08/2024  04/08/2024  LOUISVILLE TO CLEVELAND AND RETURN                                            $64.79  B-691
+DBRN20240547                  CITIBANK - TRAVEL CBA CARD        04/09/2024  04/09/2024  STAFF PER DIEM                                                              $512.09
+                  05/03/2024                                                            STAFF TRANSPORTATION                                                        $330.19
+                              CITIBANK - TRAVEL CBA CARD        04/09/2024  04/09/2024  COLUMBUS TO DAYTON AND RETURN                                                 $90.00
+                  04/26/2024                                    04/10/2024  04/10/2024  STAFF TRANSPORTATION                                                        $330.19
+                              CITIBANK - TRAVEL CBA CARD        04/02/2024  04/04/2024  COLUMBUS TO DELAWARE AND RETURN                                               $30.00
+                  04/25/2024                                                            STAFF TRANSPORTATION                                                        $497.20
+                              CITIBANK - TRAVEL CBA CARD        04/09/2024  04/09/2024  YOUNGSTOWN TO ASHTABULA AND RETURN                                            $30.00
+                  04/25/2024                                    03/07/2024  03/10/2024  STAFF PER DIEM                                                              $330.19
+                                                                                        STAFF TRANSPORTATION                                                          $30.00
+                                                                04/11/2024  04/12/2024  CLEVELAND TO WASHINGTON DC AND RETURN                                       $497.20
+                                                                                        SENATOR TRANSPORTATION                                                        $30.00
+                                                                03/27/2024  03/27/2024  AIRFARE FOR SEN BROWN CLEVELAND TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION                                                        $400.19
+                                                                03/07/2024  03/10/2024  TICKET FEES                                                                   $30.00
+                                                                                        AIRFARE FOR J HEKHUIS WASHINGTON DC TO COLUMBUS AND RETURN
+                                                                03/09/2024  03/14/2024  STAFF TRANSPORTATION
+                                                                                        TICKET FEES
+                  04/25/2024  CITIBANK - TRAVEL CBA CARD        03/11/2024  03/14/2024  AIRFARE FOR W KING WASHINGTON DC TO COLUMBUS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR W KING WASHINGTON DC TO CLEVELAND AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR B FLYNN WASHINGTON DC TO COLUMBUS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR A ELIOPOULOS CLEVELAND TO WASHINGTON DC AND
+                                                                                        RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TICKET FEES
+

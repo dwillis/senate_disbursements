@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+              POSTED                                             DATES
+                                                                              AIRFARE FOR THE FOLLOWING: 6/6 N MARK, C PINEDA, T LAJOIE, M                   $1,423.52
+                                                      START       END         GERKEN, K DONOVAN WASHINGTON DC TO WICHITA; 6/6-10 L PITTS
+                                                                              WASHINGTON DC TO WICHITA AND RETURN; 6/8 N MARK, C PINEDA, 6/9 M                    $26.43
+DMRS20240433  06/24/2024  CITIBANK - TRAVEL CBA CARD  06/06/2024  06/09/2024  GERKEN WICHITA TO WASHINGTON DC; 6/9 K DONOVAN KANSAS CITY MO                     $184.00
+                                                                              TO WASINGTON DC
+DMRS20240434  06/17/2024  LACY MICHELE PITTS          06/06/2024  06/10/2024  STAFF TRANSPORTATION                                                                $20.67
+                                                                              AIRFARE FOR THE FOLLOWING: 6/6 M MERIDA, B ROBERTSON                              $242.66
+DMRS20240437  07/25/2024  REBECCA L SWENDER           05/13/2024  05/16/2024  WASHINGTON DC TO WICHITA; 6/6-8 W BENSUR WASHINGTON DC TO                      $1,717.08
+                                                                              WICHITA AND RETURN; 6/9 M MERIDA KANSAS CITY MO TO RICHMOND VA
+DMRS20240438  06/18/2024  CITIBANK - PURCHASE CARD    06/06/2024  06/07/2024  STAFF INCIDENTALS                                                                   $65.13  B-1736
+DMRS20240439  06/28/2024  CITIBANK - TRAVEL CBA CARD  06/06/2024  06/09/2024  STAFF PER DIEM                                                                 $1,418.87
+DMRS20240440  06/18/2024  TYLER J MASON               06/12/2024  06/12/2024  STAFF TRANSPORTATION
+DMRS20240441                                                                  WASHINGTON DC TO WICHITA AND RETURN                                               $729.47
+DMRS20240442  06/26/2024  JOHN C MARTIN               06/13/2024  06/13/2024  STAFF INCIDENTALS                                                                   $20.00
+DMRS20240443  06/25/2024  BRENT C ROBERTSON           06/10/2024  06/13/2024  STAFF PER DIEM                                                                      $57.62
+DMRS20240444                                                                  STAFF TRANSPORTATION                                                                $63.65
+DMRS20240445  06/25/2024  ROGER W MARSHALL            05/09/2024  05/27/2024  GARDEN CITY TO WASHINGTON DC AND RETURN
+DMRS20240446  06/25/2024  ROGER W MARSHALL            05/28/2024  06/10/2024  STAFF PER DIEM                                                                    $309.95
+DMRS20240447  06/27/2024  JOHN MUGLER                 06/11/2024  06/11/2024  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN WICHITA                               $250.58
+                                                                              STAFF TRANSPORTATION                                                              $522.60
+DMRS20240448  07/02/2024  VERONICA CONTRERAS          06/18/2024  06/18/2024  RENTAL AUTO FOR T STEWART WICHITA TO KANSAS CITY MO
+DMRS20240449  07/16/2024  JOHN C MARTIN               06/18/2024  06/19/2024  STAFF PER DIEM                                                                      $40.20
+DMRS20240450                                                                  STAFF TRANSPORTATION                                                                $60.00
+              07/01/2024  TYLER J MASON               06/18/2024  06/18/2024  SALINA TO MANHATTAN TO JUNCTION CITY                                                $94.47
+              07/01/2024  TYLER J MASON               06/19/2024  06/19/2024  STAFF TRANSPORTATION                                                                $71.02
+              07/01/2024  TYLER J MASON               06/20/2024  06/20/2024  OVERLAND PARK TO PLATTE CITY MO AND RETURN                                          $25.16
+                                                                              STAFF PER DIEM                                                                    $189.00
+                                                                              STAFF TRANSPORTATION                                                              $231.15
+                                                                              LYNCHBURG VA TO WASHINGTON DC AND RETURN
+                                                                              SENATOR TRANSPORTATION                                                              $36.00
+                                                                              WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $95.81
+                                                                              SENATOR TRANSPORTATION                                                              $52.00
+                                                                              WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $144.72
+                                                                              STAFF PER DIEM                                                                      $24.00
+                                                                              STAFF TRANSPORTATION                                                                $97.15
+                                                                              TOPEKA TO COUNCIL GROVE AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              GARDEN CITY TO DODGE CITY AND RETURN
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              LEES SUMMIT MO TO LEAVENWORTH, WAVERLY, BURLINGTON, LAWRENCE,
+                                                                              KANSAS CITY MO TO OVERLAND PARK
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              JUNCTION CITY TO TOPEKA AND RETURN
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              JUNCTION CITY TO LEAVENWORTH AND RETURN
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+

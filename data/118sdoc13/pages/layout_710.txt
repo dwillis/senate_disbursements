@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                             DATES
+DBRN20240548                                                                      AIRFARE FOR E KRAUSE DETROIT MI TO WASHINGTON DC AND RETURN                  $1,058.20
+                                                          START       END         STAFF TRANSPORTATION                                                              $30.00
+DBRN20240549                                                                      TICKET FEES
+                  04/25/2024  CITIBANK - TRAVEL CBA CARD  03/11/2024  03/13/2024  AIRFARE FOR K KNOWLTON PITTSBURGH PA TO WASHINGTON DC AND                       $248.21
+DBRN20240550                                                                      RETURN                                                                            $30.00
+DBRN20240551      04/29/2024  CITIBANK - TRAVEL CBA CARD  04/02/2024  04/05/2024  STAFF TRANSPORTATION
+DBRN20240552                                                                      TICKET FEES                                                                       $17.42
+DBRN20240553      04/23/2024  JORDAN T PENNELL            04/12/2024  04/12/2024  AIRFARE FOR J FRAZIER POWDRILL CINCINNATI TO WASHINGTON DC AND                            B-692
+DBRN20240554      04/30/2024  CITIBANK - TRAVEL CBA CARD  04/02/2024  04/04/2024  RETURN                                                                          $330.19
+DBRN20240556      04/29/2024  CITIBANK - TRAVEL CBA CARD  04/02/2024  04/05/2024  STAFF TRANSPORTATION                                                              $30.00
+DBRN20240557      04/26/2024  CITIBANK - TRAVEL CBA CARD  04/02/2024  04/04/2024  IN AND AROUND YOUNGSTOWN
+DBRN20240558      04/29/2024  CITIBANK - TRAVEL CBA CARD  03/08/2024  03/15/2024  STAFF TRANSPORTATION                                                            $330.19
+DBRN20240559      04/26/2024  ELAINE N VILEM              04/01/2024  04/01/2024  TICKET FEES                                                                       $30.00
+                  04/26/2024  ELAINE N VILEM              04/02/2024  04/02/2024  AIRFARE FOR J GILLIGAN COLUMBUS TO WASHINGTON DC AND RETURN
+DBRN20240560      04/26/2024  ELAINE N VILEM              04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                            $497.20
+DBRN20240561      04/30/2024  ANN L ORR                   04/02/2024  04/05/2024  TICKET FEES                                                                       $30.00
+DBRN20240562                                                                      AIRFARE FOR J HENRY COLUMBUS TO WASHINGTON DC AND RETURN
+DBRN20240563      04/26/2024  ANN L ORR                   04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                            $908.20
+DBRN20240564      04/24/2024  ANN L ORR                   04/11/2024  04/11/2024  TICKET FEES                                                                       $30.00
+DBRN20240565      04/24/2024  ANN L ORR                   04/08/2024  04/08/2024  AIRFARE FOR J PATTERSON CLEVELAND TO WASHINGTON DC AND RETURN
+                  04/30/2024  JOSEPH DAVID HENRY          04/02/2024  04/05/2024  STAFF TRANSPORTATION                                                              $29.96
+                  04/25/2024  KAMERON W ANDERSON          04/09/2024  04/09/2024  TICKET FEES                                                                     $117.76
+                  04/25/2024  KAMERON W ANDERSON          04/11/2024  04/11/2024  AIRFARE FOR K ANDERSON DAYTON TO WASHINGTON DC AND RETURN
+                                                                                  STAFF PER DIEM                                                                  $120.33
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CLEVELAND TO LOWELLVILLE AND RETURN                                               $19.52
+                                                                                  STAFF TRANSPORTATION                                                            $174.73
+                                                                                  CLEVELAND TO OAK HARBOR AND RETURN
+                                                                                  STAFF PER DIEM                                                                    $77.85
+                                                                                  STAFF TRANSPORTATION                                                              $30.00
+                                                                                  CLEVELAND TO COLUMBUS AND RETURN                                                $616.78
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TICKET FEES                                                                 $26.72
+                                                                                  STAFF TRANSPORTATION                                                            $138.02
+                                                                                  OBERLIN TO CLEVELAND, WASHINGTON DC, CLEVELAND AND RETURN
+                                                                                  STAFF PER DIEM                                                                    $15.83
+                                                                                  STAFF TRANSPORTATION                                                              $49.58
+                                                                                  OBERLIN TO GRANVILLE AND RETURN
+                                                                                  STAFF PER DIEM                                                                    $11.68
+                                                                                  STAFF TRANSPORTATION                                                              $48.91
+                                                                                  OBERLIN TO CLEVELAND AND RETURN
+                                                                                  STAFF PER DIEM                                                                    $54.29
+                                                                                  STAFF TRANSPORTATION                                                            $131.89
+                                                                                  OBERLIN TO CLEVELAND AND RETURN
+                                                                                  STAFF PER DIEM                                                                    $44.22
+                                                                                  STAFF TRANSPORTATION
+                                                                                  COLUMBUS TO WASHINGTON DC AND RETURN                                              $38.19
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DAYTON TO SIDNEY, GREENVILLE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+

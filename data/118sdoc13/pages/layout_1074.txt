@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED     JACOB S SETTLE                               DATES
+DCRU20241001                                                                            STAFF INCIDENTALS                                                            $28.74
+                  08/21/2024                                    START       END         STAFF PER DIEM                                                             $184.16
+DCRU20241002                                                                            STAFF TRANSPORTATION                                                    $1,087.34
+DCRU20241003                                                    08/01/2024  08/06/2024  WASHINGTON DC TO HOUSTON, COLUMBUS OH TO ALEXANDRIA VA
+                                                                                        STAFF TRANSPORTATION                                                         $48.91
+DCRU20241004      08/16/2024  BLAKE T VINEYARD                  07/01/2024  07/31/2024  LUBBOCK OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $30.34
+DCRU20241005      08/15/2024  NICHOLAS J GANJEI                 08/01/2024  08/02/2024  STAFF INCIDENTALS                                                          $268.43
+DCRU20241006                                                                            STAFF PER DIEM                                                          $1,116.28
+DCRU20241007      08/15/2024  BLAKE T VINEYARD                  07/29/2024  07/30/2024  STAFF TRANSPORTATION                                                       $107.40
+                  08/15/2024  ROJAS,JOSHUA                      06/06/2024  06/06/2024  WASHINGTON DC TO HOUSTON AND RETURN                                        $257.28
+                  08/15/2024  ROJAS,JOSHUA                      07/18/2024  07/18/2024  STAFF PER DIEM                                                             $100.23
+                  09/03/2024  TIMOTHY D KOCHER                  06/22/2024  06/25/2024  STAFF TRANSPORTATION                                                         $17.23
+                                                                                        LUBBOCK TO SAN ANGELO AND RETURN                                           $119.14
+DCRU20241015      08/29/2024  TED CRUZ                          06/13/2024  06/14/2024  STAFF TRANSPORTATION                                                         $88.48  B-1056
+DCRU20241016      08/29/2024  TED CRUZ                          04/08/2024  04/08/2024  MCALLEN TO HARLINGEN, BROWNSVILLE AND RETURN                               $502.48
+DCRU20241017      08/29/2024  TED CRUZ                          03/19/2024  03/19/2024  STAFF PER DIEM                                                             $760.74
+DCRU20241018      08/29/2024  TED CRUZ                          03/05/2024  03/05/2024  STAFF TRANSPORTATION
+DCRU20241019      08/30/2024  TED CRUZ                          02/26/2024  02/26/2024  MCALLEN TO BROWNSVILLE AND RETURN                                          $238.47
+DCRU20241020      08/29/2024  TED CRUZ                          02/13/2024  02/13/2024  STAFF INCIDENTALS                                                          $399.10
+DCRU20241021      08/29/2024  TED CRUZ                          01/08/2024  01/08/2024  STAFF PER DIEM                                                             $399.10
+DCRU20241022      08/29/2024  TED CRUZ                          03/08/2024  03/08/2024  STAFF TRANSPORTATION                                                       $274.10
+DCRU20241023      08/29/2024  TED CRUZ                          07/23/2024  07/23/2024  ARLINGTON VA TO WASHINGTON DC, KENNER LA, NEW ORLEANS LA,                  $550.10
+DCRU20241024      08/29/2024  KELLY WHITMIRE WATERMAN           05/01/2024  05/01/2024  KENNER LA TO WASHINGTON DC                                                 $389.10
+DCRU20241025      08/29/2024  KELLY WHITMIRE WATERMAN           05/02/2024  05/02/2024  SENATOR TRANSPORTATION                                                     $324.30
+DCRU20241026      08/29/2024  KELLY WHITMIRE WATERMAN           05/13/2024  05/13/2024  WASHINGTON DC TO HOUSTON                                                   $690.98
+DCRU20241027      08/28/2024  KELLY WHITMIRE WATERMAN           05/15/2024  05/15/2024  SENATOR TRANSPORTATION                                                     $242.10
+DCRU20241028      08/29/2024  JAVIER D SALINAS                  07/01/2024  07/31/2024  HOUSTON TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION                                                       $33.50
+                                                                                        HOUSTON TO WASHINGTON DC                                                   $147.93
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        HOUSTON TO WASHINGTON DC                                                      $2.41
+                                                                                        SENATOR TRANSPORTATION                                                     $114.57
+                                                                                        HOUSTON TO WASHINGTON DC                                                   $251.25
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO HOUSTON
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        HOUSTON TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO HOUSTON
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        HOUSTON TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HOUSTON TO BEAUMONT AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HOUSTON TO BEAUMONT AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

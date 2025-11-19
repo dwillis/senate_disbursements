@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                             DATES
+DOSS20240544                                                                      ATHENS TO ROME AND RETURN                                                    $68.34
+DOSS20240545                                              START       END         STAFF TRANSPORTATION                                                       $108.54
+DOSS20240546                                                                      ATHENS TO DULUTH AND RETURN
+DOSS20240547      05/01/2024  HOPE L IGLEHART             02/16/2024  02/16/2024  STAFF TRANSPORTATION                                                         $89.78  B-1940
+DOSS20240548      05/03/2024  HOPE L IGLEHART             01/11/2024  01/11/2024  ATHENS TO ATLANTA AND RETURN                                               $199.66
+DOSS20240549      05/01/2024  HOPE L IGLEHART             02/20/2024  02/20/2024  STAFF TRANSPORTATION                                                       $143.38
+DOSS20240550      05/03/2024  HOPE L IGLEHART             02/21/2024  02/21/2024  ATHENS TO DEMOREST AND RETURN                                              $225.12
+DOSS20240551      05/03/2024  HOPE L IGLEHART             02/24/2024  02/24/2024  STAFF TRANSPORTATION                                                       $162.14
+DOSS20240552      05/03/2024  HOPE L IGLEHART             03/22/2024  03/22/2024  ATHENS TO LAGRANGE AND RETURN                                              $134.38
+DOSS20240553      05/03/2024  HOPE L IGLEHART             04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                       $108.54
+DOSS20240554      05/03/2024  HOPE L IGLEHART             04/05/2024  04/05/2024  ATHENS TO BLUE RIDGE AND RETURN                                            $178.22
+DOSS20240555      05/03/2024  HOPE L IGLEHART             04/17/2024  04/17/2024  STAFF TRANSPORTATION
+                  05/03/2024  HOPE L IGLEHART             04/18/2024  04/18/2024  ATHENS TO RINGGOLD AND RETURN                                                $12.36
+DOSS20240558      05/01/2024  ALEXIA K JOHNSON            04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                       $514.21
+DOSS20240559      05/02/2024  CITIBANK - TRAVEL CBA CARD  04/21/2024  04/24/2024  ATHENS TO ADAIRSVILLE AND RETURN
+DOSS20240560                                                                      STAFF TRANSPORTATION                                                         $40.00
+DOSS20240561      05/01/2024  ALEJANDRO L WHITE           03/21/2024  03/21/2024  ATHENS TO ATLANTA AND RETURN                                                 $46.90
+DOSS20240562      05/01/2024  ALEJANDRO L WHITE           03/22/2024  03/22/2024  STAFF TRANSPORTATION                                                         $29.48
+DOSS20240563      05/01/2024  ALEJANDRO L WHITE           03/26/2024  03/26/2024  ATHENS TO GAINESVILLE, ELBERTON AND RETURN                                   $24.12
+DOSS20240564      05/01/2024  ALEJANDRO L WHITE           03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                         $79.32
+DOSS20240565      05/01/2024  ALEJANDRO L WHITE           04/03/2024  04/03/2024  ATHENS TO ROME AND RETURN                                                    $24.12
+                  05/01/2024  ALEJANDRO L WHITE           04/05/2024  04/05/2024  STAFF TRANSPORTATION
+DOSS20240566      05/01/2024  ALEJANDRO L WHITE           04/16/2024  04/16/2024  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $2.14
+DOSS20240567      05/01/2024  ALEJANDRO L WHITE           04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                         $29.07
+DOSS20240568                                                                      TICKET FEES                                                                $103.78
+DOSS20240569      05/02/2024  ALEJANDRO L WHITE           04/18/2024  04/18/2024  AIRFARE FOR S CHAKRABARTY ATLANTA TO SAVANNAH AND RETURN
+                  05/02/2024  ALEJANDRO L WHITE           04/19/2024  04/19/2024  STAFF TRANSPORTATION                                                         $66.06
+                  05/02/2024  ALEJANDRO L WHITE           04/22/2024  04/22/2024  ATLANTA TO CUMMING AND RETURN                                                $30.82
+                  05/02/2024  ALEJANDRO L WHITE           04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                         $33.90
+                                                                                  ATLANTA TO ROSWELL AND RETURN                                                $14.74
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ATLANTA TO DUNWOODY AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SHARPSBURG TO CUMMING TO ATLANTA
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ATLANTA TO DECATUR TO SHARPSBURG
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SHARPSBURG TO ROSWELL TO ATLANTA; ATLANTA TO KENNESAW TO
+                                                                                  SHARPSBURG
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ATLANTA TO ALPHARETTA, DECATUR TO SHARPSBURG
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SHARPSBURG TO DECATUR TO ATLANTA
+                                                                                  STAFF TRANSPORTATION
+

@@ -1,0 +1,58 @@
+    DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE  DESCRIPTION                                           AMOUNT ($)
+                  POSTED                                      DATES
+DRLE20240050                                                                                                                                   $12.84
+DRLE20240058                                       START       END                                                                             $26.50
+DRLE20240061                                                                                                                                   $22.88
+DRLE20240064      05/03/2024  JAMES PATRICK NEILL  04/17/2024                        INTERDEPARTMENTAL TRANSPORTATION                          $18.76  B-172
+DRLE20240065      06/13/2024  STEVEN B DONALDSON   06/05/2024   04/17/2024 STAFF TRANSPORTATION                                                $37.91
+DRLE20240071      06/17/2024  STEVEN B DONALDSON   06/11/2024                                                                                  $25.89
+DRLE20240072      06/28/2024  ALEXANDRA JENKINS    06/18/2024                        INTERDEPARTMENTAL TRANSPORTATION                          $32.43
+DRLE20240073      07/01/2024  STEPHANIE M PARKS    06/20/2024   06/05/2024 STAFF TRANSPORTATION                                                $23.93
+DRLE20240074      08/13/2024  JAMES PATRICK NEILL  04/24/2024                                                                                  $14.94
+DRLE20240075      08/13/2024  JAMES PATRICK NEILL  05/01/2024                        INTERDEPARTMENTAL TRANSPORTATION                          $26.74
+DRLE20240076      08/13/2024  JAMES PATRICK NEILL  05/08/2024   06/11/2024 STAFF TRANSPORTATION                                                $12.92
+DRLE20240077      08/13/2024  JAMES PATRICK NEILL  05/15/2024                                                                                  $12.95
+DRLE20240078      08/13/2024  JAMES PATRICK NEILL  05/22/2024                        INTERDEPARTMENTAL TRANSPORTATION                          $23.31
+DRLE20240079      08/13/2024  JAMES PATRICK NEILL  06/05/2024   06/18/2024 STAFF TRANSPORTATION                                                $18.76
+DRLE20240080      08/13/2024  JAMES PATRICK NEILL  06/12/2024                                                                                $149.09
+                  08/13/2024  JAMES PATRICK NEILL  07/31/2024                        INTERDEPARTMENTAL TRANSPORTATION                        $408.00
+                  08/26/2024  ALEXANDRA JENKINS    08/06/2024   06/20/2024 STAFF TRANSPORTATION                                              $902.10
+                  09/03/2024  JAMES PATRICK NEILL  08/08/2024                                                                             $1,976.24
+                                                                                     INTERDEPARTMENTAL TRANSPORTATION                          $48.97
+0002852733        04/18/2024  SERGEANT AT ARMS     02/01/2024   04/24/2024 STAFF TRANSPORTATION                                                $48.97
+
+                                                                                     INTERDEPARTMENTAL TRANSPORTATION
+                                                                05/01/2024 STAFF TRANSPORTATION
+
+                                                                                     INTERDEPARTMENTAL TRANSPORTATION
+                                                                05/08/2024 STAFF TRANSPORTATION
+
+                                                                                     INTERDEPARTMENTAL TRANSPORTATION
+                                                                05/15/2024 STAFF TRANSPORTATION
+
+                                                                                     INTERDEPARTMENTAL TRANSPORTATION
+                                                                05/22/2024 STAFF TRANSPORTATION
+
+                                                                                     INTERDEPARTMENTAL TRANSPORTATION
+                                                                06/05/2024 STAFF TRANSPORTATION
+
+                                                                                     INTERDEPARTMENTAL TRANSPORTATION
+                                                                06/12/2024 STAFF TRANSPORTATION
+
+                                                                                     INTERDEPARTMENTAL TRANSPORTATION
+                                                                07/31/2024 STAFF TRANSPORTATION
+
+                                                                                     INTERDEPARTMENTAL TRANSPORTATION
+                                                                08/06/2024 STAFF TRANSPORTATION
+
+                                                                                     INTERDEPARTMENTAL TRANSPORTATION
+                                                                08/10/2024 STAFF INCIDENTALS
+
+                                                                                     STAFF PER DIEM
+                                                                                     STAFF TRANSPORTATION
+                                                                                     WASHINGTON DC TO ATLANTA GA AND RETURN
+                                                               TRAVEL AND TRANSPORTATION OF PERSONS
+
+                                                                02/29/2024 VOICE & DATA COMM EQUIPMENT
+                                                               ACQUISITION OF ASSETS
+

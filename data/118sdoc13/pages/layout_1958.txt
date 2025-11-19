@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME            OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                  POSTED                                       DATES
+DMUY20240531                                                                SEATTLE TO LYNDEN, BELLINGHAM TO EVERETT                                         $103.85
+DMUY20240532                                        START       END         STAFF TRANSPORTATION
+DMUY20240535                                                                VANCOUVER TO CHEHALIS AND RETURN                                                 $205.75
+                  07/01/2024  CAITLIN E HARRINGTON  06/20/2024  06/20/2024  STAFF INCIDENTALS                                                             $1,448.34
+                  07/12/2024  LAURA E Z BENBOW      06/09/2024  06/16/2024  STAFF PER DIEM
+                                                                            STAFF TRANSPORTATION                                                             $706.90
+                  07/03/2024  AMIR AHMADIAVIN       04/26/2024  04/28/2024  SEATTLE TO WASHINGTON DC AND RETURN
+                                                                            STAFF INCIDENTALS                                                                  $63.36
+DMUY20240536      08/28/2024  SHAWN L BILLS         06/23/2024  06/24/2024  STAFF PER DIEM                                                                   $352.00
+                                                                            STAFF TRANSPORTATION                                                             $866.75
+DMUY20240537      07/05/2024  DANIEL T PAILTHORP    06/17/2024  06/17/2024  WASHINGTON DC TO SEATAC, SEATTLE, BELLEVUE, SEATTLE, SEATAC AND                            B-1921
+DMUY20240538      07/05/2024  DANIEL T PAILTHORP    06/24/2024  06/24/2024  RETURN                                                                             $14.07
+DMUY20240539      07/05/2024  DANIEL T PAILTHORP    06/12/2024  06/12/2024  STAFF INCIDENTALS                                                                $250.23
+DMUY20240541      07/05/2024  DANIEL T PAILTHORP    05/09/2024  05/09/2024  STAFF PER DIEM                                                                   $408.07
+DMUY20240542      07/05/2024  DANIEL T PAILTHORP    05/06/2024  05/06/2024  STAFF TRANSPORTATION
+DMUY20240543      07/05/2024  DANIEL T PAILTHORP    05/02/2024  05/02/2024  CLE ELUM TO SEQUIM, NEAH BAY AND RETURN                                            $34.16
+DMUY20240544      07/05/2024  DANIEL T PAILTHORP    04/26/2024  04/26/2024  STAFF TRANSPORTATION
+DMUY20240546      07/08/2024  DANIEL T PAILTHORP    04/24/2024  04/24/2024  OLYMPIA TO TENINO, LACEY AND RETURN                                                $12.96
+DMUY20240547      07/05/2024  DANIEL T PAILTHORP    04/23/2024  04/23/2024  STAFF PER DIEM                                                                   $133.46
+DMUY20240548      07/05/2024  DANIEL T PAILTHORP    04/18/2024  04/18/2024  STAFF TRANSPORTATION
+DMUY20240549      07/05/2024  DANIEL T PAILTHORP    04/09/2024  04/09/2024  OLYMPIA TO PORT TOWNSEND AND RETURN                                              $131.05
+DMUY20240550      07/05/2024  DANIEL T PAILTHORP    04/05/2024  04/05/2024  STAFF TRANSPORTATION
+DMUY20240551      07/05/2024  DANIEL T PAILTHORP    04/03/2024  04/03/2024  OLYMPIA TO PORT TOWNSEND AND RETURN                                                $28.20
+DMUY20240552      07/05/2024  DANIEL T PAILTHORP    04/02/2024  04/02/2024  STAFF PER DIEM                                                                   $133.46
+                                                                            STAFF TRANSPORTATION
+                                                                            OLYMPIA TO PORT TOWNSEND AND RETURN                                                $30.95
+                                                                            STAFF TRANSPORTATION
+                                                                            OLYMPIA TO SHELTON AND RETURN                                                      $15.74
+                                                                            STAFF TRANSPORTATION
+                                                                            OLYMPIA TO DUPONT AND RETURN                                                       $13.77
+                                                                            STAFF PER DIEM                                                                   $131.99
+                                                                            STAFF TRANSPORTATION
+                                                                            OLYMPIA TO SEQUIM AND RETURN                                                       $12.00
+                                                                            STAFF PER DIEM                                                                   $142.71
+                                                                            STAFF TRANSPORTATION
+                                                                            OLYMPIA TO PORT TOWNSEND AND RETURN                                                $19.13
+                                                                            STAFF PER DIEM                                                                     $66.93
+                                                                            STAFF TRANSPORTATION
+                                                                            OLYMPIA TO ABERDEEN AND RETURN                                                     $39.86
+                                                                            STAFF TRANSPORTATION
+                                                                            OLYMPIA TO TACOMA AND RETURN                                                       $39.26
+                                                                            STAFF TRANSPORTATION
+                                                                            OLYMPIA TO TACOMA AND RETURN                                                       $32.13
+                                                                            STAFF PER DIEM                                                                     $62.57
+                                                                            STAFF TRANSPORTATION
+                                                                            OLYMPIA TO SHELTON, BELFAIR AND RETURN                                             $10.57
+                                                                            STAFF PER DIEM                                                                     $69.74
+                                                                            STAFF TRANSPORTATION
+                                                                            OLYMPIA TO ABERDEEN AND RETURN                                                     $39.53
+                                                                            STAFF TRANSPORTATION
+

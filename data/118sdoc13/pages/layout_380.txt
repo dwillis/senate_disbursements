@@ -1,0 +1,60 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME     OBLIGATION/SERVICE      DESCRIPTION                  AMOUNT ($)
+                                                                              DATES
+VSAA22408308       POSTED     PERSPECTA ENTERPRISE SOLUTIONS LLC                                                                     $8,679.16
+VSAA22408342                  CFO SOLUTIONS LLC                    START       END                                                   $2,800.00
+VSAA22408397      09/24/2024  CHRISTOPHER LAW                                                                                        $6,667.00
+VSAA22408402      09/27/2024  MC DODD CONSTRUCTION LLC             09/06/2024   09/06/2024 TECHNICAL SUPPORT                        $19,606.53
+VSAA22408531      09/27/2024  CFO SOLUTIONS LLC                    09/01/2024   09/30/2024 TECHNICAL SUPPORT                         $5,000.00
+VSAA22408548      09/28/2024  THE EDUCE GROUP, INC.                08/01/2024   08/31/2024 MONITORING & GUARD SERVICES               $4,557.92
+VSAA22408621      09/27/2024  GLOBAL INFORMATION PARTNERS          04/30/2024   04/30/2024 FEDERAL FAC MAINT, REPAIR                $42,916.96
+                  09/27/2024                                       09/01/2024   09/30/2024 TECHNICAL SUPPORT                    $3,603,018.44
+0002852721        09/27/2024  SERGEANT AT ARMS                     07/28/2024   08/31/2024 TECHNICAL SUPPORT
+0002852722                    SERGEANT AT ARMS                     07/29/2024   07/29/2024 MANAGEMENT CONSULTANTS                       $695.63
+0002852723        04/18/2024  SERGEANT AT ARMS                                 OTHER CONTRACTUAL SERVICES                            $3,576.22
+0002852724        04/18/2024  SERGEANT AT ARMS                     09/01/2023                                                       $10,024.35
+0002859254        04/18/2024  SERGEANT AT ARMS                     09/01/2023  09/30/2023  IT EQUIPMENT                            -$14,296.20     B-362
+0002859485        04/18/2024  SERGEANT AT ARMS                     09/01/2023  09/30/2023  IT EQUIPMENT                             -$2,561.00
+0002859493        09/13/2024  SERGEANT AT ARMS                     09/01/2023  09/30/2023  IT EQUIPMENT                             -$2,561.00
+0002859591        09/19/2024  SERGEANT AT ARMS                     09/01/2023  09/30/2023  IT EQUIPMENT                              $2,561.00
+0002859599        09/19/2024  SERGEANT AT ARMS                     09/01/2023  09/30/2023  SOFTWARE LICENSE                          $2,561.00
+00494002          09/20/2024  PERATON ENTERPRISE SOLUTIONS LLC     09/01/2023  09/30/2023  SOFTWARE LICENSE                          $2,561.00
+00508002          09/20/2024  CDW GOVERNMENT INC                   09/01/2024  09/30/2023  SOFTWARE LICENSE
+00508443          04/11/2024  CDW GOVERNMENT INC                   09/01/2023  09/30/2024  SOFTWARE LICENSE                             $355.98
+00508880          05/09/2024  PERATON ENTERPRISE SOLUTIONS LLC     04/10/2024  09/30/2023  SOFTWARE LICENSE                          $3,088.88
+00510445          05/15/2024  CDW GOVERNMENT INC                   05/08/2024  04/10/2024  VOICE & DATA COMM EQUIPMENT               $5,723.84
+00513851          05/14/2024  PERATON ENTERPRISE SOLUTIONS LLC     05/09/2024  05/08/2024  VOICE & DATA COMM EQUIPMENT             -$18,191.86
+00514380          05/16/2024  PERATON ENTERPRISE SOLUTIONS LLC     05/14/2024  05/09/2024  VOICE & DATA COMM EQUIPMENT               $3,473.40
+00514598          05/21/2024  PERATON ENTERPRISE SOLUTIONS LLC     05/16/2024  05/14/2024  VOICE & DATA COMM EQUIPMENT              -$8,518.08
+00514781          05/21/2024  PERATON ENTERPRISE SOLUTIONS LLC     05/20/2024  05/16/2024  VOICE & DATA COMM EQUIPMENT              -$9,686.74
+DSAA23M54367      05/22/2024  CITIBANK - PURCHASE CARD             05/21/2024  05/20/2024  VOICE & DATA COMM EQUIPMENT              -$3,243.60
+DSAA23M54375      05/22/2024  CITIBANK - PURCHASE CARD             05/22/2024  05/21/2024  VOICE & DATA COMM EQUIPMENT              -$3,080.28
+VSAA22403107      05/24/2024  VERIZON WIRELESS                     05/22/2024  05/22/2024  VOICE & DATA COMM EQUIPMENT
+VSAA22403128      07/03/2024  AT&T MOBILITY                        09/14/2023  05/22/2024  IT EQUIPMENT                                 $149.99
+VSAA22403208      05/01/2024  AT&T MOBILITY                        10/28/2022  03/30/2024  VOICE & DATA COMM EQUIPMENT                  $664.60
+VSAA22403209      04/11/2024  AT&T MOBILITY                        05/16/2023  11/27/2022  FURNISHINGS
+VSAA22403210      04/10/2024  AT&T MOBILITY                        05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                    $44.99
+VSAA22403227      05/14/2024  AT&T MOBILITY                        05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                  $149.99
+VSAA22403228      04/11/2024  AT&T MOBILITY                        05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT               $1,259.98
+VSAA22403332      05/14/2024  AT&T MOBILITY                        05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+VSAA22403374      05/14/2024  AT&T MOBILITY                        05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                       $.99
+VSAA22403375      04/11/2024  AT&T MOBILITY                        05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                  $499.99
+VSAA22403468      04/11/2024  AT&T MOBILITY                        05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+VSAA22403469      05/14/2024  AT&T MOBILITY                        05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                     $1.98
+VSAA22403503      04/11/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                     $2.97
+VSAA22403540      05/14/2024  VERIZON WIRELESS                     05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                  $459.99
+VSAA22403651      04/08/2024  AT&T MOBILITY                        05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                  $299.98
+VSAA22403679      04/02/2024  VERIZON WIRELESS                     08/15/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                     $1.98
+VSAA22403715      05/14/2024  VERIZON WIRELESS                     05/16/2023  08/15/2023  VOICE & DATA COMM EQUIPMENT                  $149.99
+VSAA22403716      04/17/2024  VERIZON WIRELESS                     05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+VSAA22403717      04/10/2024  VERIZON WIRELESS                     05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                       $.99
+VSAA22403718      04/10/2024  VERIZON WIRELESS                     05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                  $186.80
+VSAA22403719      05/02/2024  VERIZON WIRELESS                     05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT               $1,029.99
+                  05/02/2024                                       05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+                  04/02/2024                                       05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                       $.99
+                                                                   05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                  $329.99
+                                                                               05/16/2023  VOICE & DATA COMM EQUIPMENT                  $149.99
+                                                                                                                                        $428.98
+                                                                                                                                        $749.99
+                                                                                                                                        $249.99
+                                                                                                                                     $1,719.84
+

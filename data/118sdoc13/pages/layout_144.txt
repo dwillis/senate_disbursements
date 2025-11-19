@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE                        PAYEE NAME  OBLIGATION/SERVICE                                                DESCRIPTION  AMOUNT ($)
+              POSTED                                               DATES
+                      CARTER, JOHN ROBERT JR                                CYBERSECURITY PRINCIPAL SPECIALIST                                     $76,033.12
+                      CHESTERFIELD, STEPHEN DAVID       START  END          SENIOR IT MANAGER                                                      $92,880.98
+                      COLEMAN, ELLIS KEITH JR                               CYBERSECURITY PRINCIPAL SPECIALIST                                     $85,932.84
+                      EGGA, ALMAZ NEGASH                                    CYBERSECURITY SENIOR SPECIALIST                                        $70,893.12  B-126
+                      HOWARD, BRUCE BURGESS                                 CYBERSECURITY SENIOR SPECIALIST                                        $64,869.92
+                      IMARHIAGBE, UWAGBOE                                   CYBERSECURITY PRINCIPAL SPECIALIST                                     $81,048.58
+                      JOHNSON, ALAN DENNIS                                  CYBERSECURITY SENIOR SPECIALIST                                        $74,444.57
+                      NDILLE NDILLE, THIERRY                                CYBERSECURITY SENIOR SPECIALIST                                        $70,465.23
+                      WILLIAMS, ASBERRY R                                   CYBERSECURITY PRINCIPAL SPECIALIST                                     $80,955.85
+                      HENDERSON, DANIEL W                                   CYBERSECURITY PRINCIPAL SPECIALIST                                     $74,908.86
+                      HAMRICK, CHRISTINE J                                  CYBERSECURITY SENIOR SPECIALIST                                        $70,066.90
+                      MACHADO, JEREMIAH L                                   CYBERSECURITY SENIOR SPECIALIST                                        $74,301.70
+                      POINTER, BOBBY K                                      CYBERSECURITY PRINCIPAL SPECIALIST                                     $73,823.40
+                      GARCIA, GABRIEL LF                                    CYBERSECURITY JUNIOR SPECIALIST                                        $43,696.66
+                      KASE, SEAN M                                          SENIOR IT MANAGER                                                      $81,965.88
+                      MALOCU, DANIEL L                                      CYBERSECURITY PRINCIPAL SPECIALIST                                     $75,092.66
+                      SALEMMO, KELLY D                                      SENIOR IT MANAGER                                                      $89,957.22
+                      POLMOUNTER, KEVIN S                                   CYBERSECURITY SENIOR SPECIALIST                                        $69,620.52
+                      EVANS, JORDAN A                                       CYBERSECURITY SENIOR SPECIALIST                                        $69,652.81
+                      TORTORELLO, FRANK J JR                                CYBERSECURITY ANALYST                                                  $85,722.96
+                      HICKSON, KARL L                                       INFORMATION TECHNOLOGY BRANCH MANAGER                                  $97,744.45
+                      VALENTIN, JOSE LUIS                                   CYBERSECURITY SENIOR SPECIALIST TO AUG. 23                             $63,840.77
+                      CONLON, MATTHEW J                                     CYBERSECURITY PRINCIPAL SPECIALIST                                     $77,360.44
+                      CARVER, TRAVIS BENNETT                                CYBERSECURITY PRINCIPAL SPECIALIST                                     $83,605.61
+                      MASON, LOGAN B                                        SENIOR IT MANAGER FROM JUN. 16                                         $49,881.75
+                      RAHEEM, AHMED                                         CYBERSECURITY SENIOR SPECIALIST                                        $60,775.53
+                      BODEN, JOHN R                                         INFORMATION TECHNOLOGY BRANCH MANAGER FROM MAY 6                       $77,091.66
+                      ONIMISI, ELIZABETH C                                  CYBERSECURITY SENIOR SPECIALIST FROM MAY 6                             $51,152.71
+                      HOLMBLAD, JOHN B                                      CYBERSECURITY PRINCIPAL SPECIALIST                                     $87,369.86
+                      CLOWER, EDWARD A                                      CYBERSECURITY PRINCIPAL SPECIALIST                                     $87,369.86
+                      AQUINO, ANDRES ROBERT                                 CYBERSECURITY PRINCIPAL SPECIALIST                                     $79,167.46
+                      THOMPSON, RODNEY BERNARD                              SENIOR IT MANAGER                                                      $92,732.72
+                      MURPHY, JOHN J                                        SENIOR IT MANAGER                                                      $87,832.25
+                      FERRERAS-PEREZ, JENNIFER L                            CYBERSECURITY SPECIALIST                                               $63,394.02
+                      JOHNSON, JESSICA D                                    CYBERSECURITY PRINCIPAL SPECIALIST TO AUG. 29                          $67,273.98
+                      GRIFFITH, JOSEPH AUSTIN                               CYBERSECURITY PRINCIPAL SPECIALIST                                     $77,999.49
+                      ALVAREZ, NELSON J                                     CYBERSECURITY PRINCIPAL SPECIALIST                                     $77,531.21
+                      DHONDT, BRYAN C                                       CYBERSECURITY PRINCIPAL SPECIALIST                                     $73,580.83
+                      BROWN, JESSICA C.                                     SENIOR IT MANAGER                                                      $87,725.06
+                      TRUDICS, NICHOLAS D                                   CYBERSECURITY PRINCIPAL SPECIALIST                                     $73,409.90
+                      MASON, LOGAN B                                        SENIOR IT MANAGER TO JUN. 15                                           $37,227.30
+                      RELIFORD, ANTHONY                                     CYBERSECURITY PRINCIPAL SPECIALIST FROM MAY 20                         $46,465.00
+                      PATEL, SAAD M                                         INFORMATION TECHNOLOGY BRANCH MANAGER FROM JUN. 3                      $62,736.66
+                      WILSON, JUSTIN D                                      MEDIA GALLERY DIRECTOR                                                 $96,042.78
+                      KENT, JEFFREY S                                       MEDIA GALLERY DIRECTOR                                               $102,729.79
+                      RIDGEWAY, GRACE T                                     ASSISTANT SAA FOR CAPITOL OPERATIONS                                 $110,328.63
+                      MASTRIAN, MICHAEL J                                   MEDIA GALLERY DIRECTOR                                               $103,729.79
+                      JONES, BRIAN M                                        ASSISTANT SAA FOR CAPITOL OPERATIONS                                 $105,556.60
+                      JACOBS, SAMUEL J                                      DIRECTOR FACILITIES ENVIROMENTAL SERVICES                            $103,713.31
+                      HENDRIXSON, LUKE A                                    PROGRAM MANAGER FOR ASSET AND INVENTORY MANAGEMENT                     $73,455.96
+

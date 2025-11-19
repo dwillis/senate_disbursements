@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                        DATES
+DCOT20240398                                                                 JONESBORO TO LITTLE ROCK AND RETURN                                          $81.42
+DCOT20240399                                         START       END         STAFF TRANSPORTATION                                                         $60.18
+DCOT20240400                                                                 JONESBORO TO HIGHLAND AND RETURN                                             $25.96
+DCOT20240401      04/30/2024  CAMERON JOSEPH BANDY   04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                         $61.36
+DCOT20240402      04/30/2024  DAVID R RIDER          04/16/2024  04/16/2024  ARKADELPHIA TO CAMDEN AND RETURN
+DCOT20240403      04/30/2024  CAMERON JOSEPH BANDY   04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                          $8.61
+DCOT20240404      04/30/2024  DAVID R RIDER          04/17/2024  04/17/2024  JONESBORO TO PARAGOULD AND RETURN                                          $251.34
+DCOT20240405      04/30/2024  BRITTANY HELEN PARKER  04/18/2024  04/18/2024  STAFF TRANSPORTATION
+DCOT20240406      04/30/2024  JOHNATHAN C WHITE      04/18/2024  04/18/2024  ARKADELPHIA TO HOPE AND RETURN                                               $33.04
+DCOT20240407      04/30/2024  DAVID R RIDER          04/18/2024  04/18/2024  STAFF TRANSPORTATION                                                         $18.88
+                  05/03/2024  CAMERON JOSEPH BANDY   04/19/2024  04/19/2024  ROGERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $92.63
+DCOT20240408      05/03/2024  BRITTANY HELEN PARKER  04/19/2024  04/19/2024  STAFF TRANSPORTATION                                                         $24.80
+                  05/14/2024  SHANNON N MILLAR       04/20/2024  04/21/2024  LITTLE ROCK TO ROGERS AND RETURN                                           $180.10
+DCOT20240409                                                                 STAFF TRANSPORTATION                                                       $259.60
+DCOT20240410      05/13/2024  BRITTANY HELEN PARKER  04/22/2024  04/24/2024  ARKADELPHIA TO MALVERN AND RETURN                                            $39.85  B-986
+DCOT20240411                                                                 STAFF TRANSPORTATION                                                       $413.00
+DCOT20240412      05/07/2024  CAMERON JOSEPH BANDY   04/23/2024  04/23/2024  JONESBORO TO TRUMANN AND RETURN                                            $128.62
+DCOT20240423      05/03/2024  JOHNATHAN C WHITE      04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                         $80.24
+DCOT20240424      05/08/2024  CAMERON JOSEPH BANDY   04/24/2024  04/24/2024  ROGERS TO FORT SMITH AND RETURN                                            $148.68
+DCOT20240425      05/09/2024  BRITTANY HELEN PARKER  04/25/2024  04/25/2024  STAFF INCIDENTALS                                                            $97.35
+DCOT20240426      05/15/2024  DAVID R RIDER          04/25/2024  04/25/2024  STAFF PER DIEM                                                             $172.28
+DCOT20240427      05/10/2024  DAVID R RIDER          04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                         $96.76
+                  05/10/2024  DAVID R RIDER          04/30/2024  04/30/2024  BRYANT TO ROGERS AND RETURN                                                  $43.66
+DCOT20240428      05/10/2024  DAVID R RIDER          05/02/2024  05/02/2024  STAFF PER DIEM                                                               $82.60
+                  05/15/2024  BRITTANY HELEN PARKER  04/30/2024  04/30/2024  STAFF TRANSPORTATION
+DCOT20240429                                                                 ROGERS TO FORT SMITH, LITTLE ROCK, CAMDEN AND RETURN                          $9.61
+                  05/15/2024  BRITTANY HELEN PARKER  05/01/2024  05/01/2024  STAFF TRANSPORTATION                                                         $93.81
+                                                                             JONESBORO TO HEBER SPRINGS AND RETURN
+                  05/10/2024  BRITTANY HELEN PARKER  05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                          $9.30
+                                                                             LITTLE ROCK TO HEBER SPRINGS AND RETURN                                      $99.71
+                                                                             STAFF TRANSPORTATION                                                         $93.81
+                                                                             JONESBORO TO MOUNTAIN HOME AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             ROGERS TO VAN BUREN, FORT SMITH AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             ARKADELPHIA TO MONTICELLO, LEWISVILLE AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             ARKADELPHIA TO EAST CAMDEN AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             ARKADELPHIA TO MALVERN AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             ARKADELPHIA TO HAMPTON AND RETURN
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             ROGERS TO FORT SMITH AND RETURN
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             ROGERS TO FORT SMITH, VAN BUREN AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             ROGERS TO FORT SMITH AND RETURN
+

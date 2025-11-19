@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                  POSTED                                           DATES
+DSCM20240481                                                                    ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $47.16
+DSCM20240482                                            START       END         STAFF TRANSPORTATION                                                               $17.29
+DSCM20240483                                                                    ST LOUIS TO CLAYTON, SAINT PETERS AND RETURN                                     $369.67
+                  04/02/2024  CHRISTOPHER LYNN WALKER   03/20/2024  03/20/2024  STAFF TRANSPORTATION
+DSCM20240485      04/02/2024  BENJAMIN COLE SCHNEIDER   03/01/2024  03/01/2024  SAINT LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $33.07
+DSCM20240486      04/09/2024  HEATH L ROBINS            03/07/2024  03/19/2024  STAFF TRANSPORTATION                                                               $29.34
+DSCM20240487                                                                    CAPE GIRARDEAU TO THE FOLLOWING AND RETURN: 3/7 DEXTER; 3/14                       $27.70
+DSCM20240488      04/02/2024  BENJAMIN COLE SCHNEIDER   01/17/2024  01/17/2024  CARUTHERSVILLE; 3/15 NEELYVILLE; 3/19 SIKESTON, BENTON                             $33.40  B-2219
+DSCM20240489      04/02/2024  BENJAMIN COLE SCHNEIDER   11/02/2023  11/02/2023  STAFF TRANSPORTATION                                                               $29.14
+DSCM20240491      04/02/2024  BENJAMIN COLE SCHNEIDER   02/16/2024  02/16/2024  SAINT LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $26.26
+DSCM20240495      04/02/2024  BENJAMIN COLE SCHNEIDER   02/17/2024  02/17/2024  STAFF TRANSPORTATION
+DSCM20240496      04/02/2024  BENJAMIN COLE SCHNEIDER   03/01/2024  03/01/2024  SAINT LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $9.30
+DSCM20240497      04/02/2024  BENJAMIN COLE SCHNEIDER   02/20/2024  02/20/2024  STAFF TRANSPORTATION                                                             $140.03
+DSCM20240498      04/02/2024  GEORGE PETER KNAPP        03/25/2024  03/25/2024  SAINT LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DSCM20240502      04/09/2024  MICHAEL E USSERY          03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                               $41.33
+                  04/02/2024  MORGAN S CORDER           03/25/2024  03/25/2024  SAINT LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $165.71
+DSCM20240503      04/09/2024  MORGAN S CORDER           03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                             $301.30
+DSCM20240504      04/09/2024  ADAM J TIMMERMAN          03/18/2024  03/22/2024  SAINT LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DSCM20240505                                                                    STAFF TRANSPORTATION                                                               $14.01
+DSCM20240506      04/04/2024  GEORGE PETER KNAPP        03/27/2024  03/27/2024  SAINT LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $100.21
+DSCM20240507      04/09/2024  MEGAN KAYLEE WERDEHAUSEN  03/22/2024  03/22/2024  STAFF TRANSPORTATION
+DSCM20240508      04/04/2024  MEGAN KAYLEE WERDEHAUSEN  03/01/2024  03/01/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $77.29
+                  04/04/2024  MEGAN KAYLEE WERDEHAUSEN  03/07/2024  03/07/2024  STAFF TRANSPORTATION                                                               $29.01
+DSCM20240509      04/04/2024  MEGAN KAYLEE WERDEHAUSEN  03/14/2024  03/14/2024  SPRINGFIELD TO URBANA, LINCOLN, COLE CAMP AND RETURN                               $31.11
+DSCM20240510      04/10/2024  CHRISTOPHER LOUIS NUELLE  03/03/2024  03/06/2024  STAFF TRANSPORTATION                                                             $124.68
+DSCM20240511                                                                    COLUMBIA TO JEFFERSON CITY AND RETURN                                            $923.23
+                  04/04/2024  JORDAN T JOBES            03/14/2024  03/14/2024  STAFF TRANSPORTATION                                                               $49.88
+                  04/10/2024  JORDAN T JOBES            03/18/2024  03/18/2024  COLUMBIA TO MILAN AND RETURN                                                       $16.37
+                  04/05/2024  JORDAN T JOBES            03/20/2024  03/20/2024  STAFF TRANSPORTATION                                                             $127.72
+                                                                                SHAWNEE KS TO THE FOLLOWING AND RETURN: 3/18 SAINT JOSEPH; 3/21                    $11.13
+                                                                                MOUND CITY; 3/22 WARRENSBURG
+                                                                                STAFF TRANSPORTATION
+                                                                                ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                STAFF TRANSPORTATION
+                                                                                FULTON TO BOWLING GREEN AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                FULTON TO VIENNA AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                FULTON TO JEFFERSON CITY AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                FULTON TO JEFFERSON CITY AND RETURN
+                                                                                STAFF INCIDENTALS
+                                                                                STAFF PER DIEM
+                                                                                STAFF TRANSPORTATION
+                                                                                WASHINGTON DC TO NEW YORK NY AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                SPRINGFIELD TO OZARK AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                SPRINGFIELD TO OSCEOLA, CLINTON AND RETURN
+                                                                                STAFF TRANSPORTATION
+

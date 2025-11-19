@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DMOR20240713                  JASON L OSTERHAUS                                         STAFF PER DIEM                                                                   $17.49
+DMOR20240714      06/03/2024  JASON L OSTERHAUS                 START       END         STAFF TRANSPORTATION                                                             $92.49
+DMOR20240715                  JASON L OSTERHAUS                                         OLATHE TO LAWRENCE, TOPEKA AND RETURN                                            $68.34
+DMOR20240716      05/28/2024  JASON L OSTERHAUS                 04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                             $38.19
+DMOR20240717      05/28/2024  JASON L OSTERHAUS                                         OLATHE TO LEAVENWORTH, KANSAS CITY AND RETURN                                    $37.52
+DMOR20240718      05/28/2024  JASON L OSTERHAUS                 04/10/2024  04/10/2024  STAFF TRANSPORTATION                                                             $30.82
+DMOR20240719      05/28/2024  JASON L OSTERHAUS                 04/11/2024  04/11/2024  OLATHE TO TONGANOXIE AND RETURN                                                  $26.13
+                  05/28/2024  JASON L OSTERHAUS                 04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                             $12.70
+DMOR20240720      05/28/2024  JASON L OSTERHAUS                 04/16/2024  04/16/2024  OLATHE TO KANSAS CITY AND RETURN                                                 $83.08
+                              JASON L OSTERHAUS                 04/19/2024  04/19/2024  STAFF TRANSPORTATION                                                             $18.66
+DMOR20240721      05/28/2024  JASON L OSTERHAUS                 04/23/2024  04/23/2024  OLATHE TO KANSAS CITY MO AND RETURN                                              $73.70
+                              JASON L OSTERHAUS                                         STAFF TRANSPORTATION                                                             $11.59
+DMOR20240722      05/28/2024  JASON L OSTERHAUS                 04/26/2024  04/26/2024  OLATHE TO KANSAS CITY AND RETURN                                                 $84.42
+                              JASON L OSTERHAUS                                         STAFF PER DIEM
+DMOR20240723      05/28/2024  REID A PETTY                      04/29/2024  04/29/2024  STAFF TRANSPORTATION                                                              $9.84  B-1820
+DMOR20240724                                                                            OLATHE TO TOPEKA AND RETURN                                                      $73.70
+DMOR20240725      05/28/2024                                    05/03/2024  05/03/2024  STAFF PER DIEM                                                                   $20.10
+DMOR20240726      05/28/2024                                                            STAFF TRANSPORTATION                                                             $25.46
+                  05/28/2024                                    05/06/2024  05/06/2024  OLATHE TO TOPEKA AND RETURN                                                      $69.01
+DMOR20240727      05/28/2024                                    05/07/2024  05/07/2024  STAFF PER DIEM
+                                                                05/08/2024  05/08/2024  STAFF TRANSPORTATION                                                              $8.22
+DMOR20240728      06/03/2024                                    05/09/2024  05/09/2024  OLATHE TO ATCHISON AND RETURN                                                    $78.39
+DMOR20240729                                                                            STAFF PER DIEM                                                                   $20.22
+DMOR20240730                                                    05/07/2024  05/11/2024  STAFF TRANSPORTATION                                                           $161.31
+DMOR20240731                                                                            OLATHE TO TOPEKA AND RETURN                                                    $417.29
+                  06/03/2024  JAKE LEROY WESSEL                 05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                           $175.54
+DMOR20240732      05/28/2024  JAKE LEROY WESSEL                 05/13/2024  05/13/2024  OLATHE TO OVERLAND PARK AND RETURN                                               $62.98
+DMOR20240733      05/28/2024  JAKE LEROY WESSEL                 04/02/2024  04/30/2024  STAFF TRANSPORTATION                                                             $70.35
+                  05/31/2024  TYLER J YORK                      05/15/2024  05/15/2024  OLATHE TO SHAWNEE MISSION AND RETURN                                             $15.74
+                                                                                        STAFF TRANSPORTATION                                                           $136.68
+                  05/28/2024  REID A PETTY                      05/17/2024  05/17/2024  OLATHE TO LAWRENCE, KANSAS CITY MO, KANSAS CITY AND RETURN                       $50.92
+                  05/28/2024  PAMELA D HENDERSON                05/16/2024  05/17/2024  STAFF PER DIEM                                                                   $15.03
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OLATHE TO TOPEKA AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MANHATTAN TO COLBY, WAKEENEY, KANSAS CITY MO, HAYS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MANHATTAN TO KANSAS CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MANHATTAN TO HERINGTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MANHATTAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WICHITA TO LYONS, ELLINWOOD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MANHATTAN TO CLAY CENTER AND RETURN
+                                                                                        STAFF PER DIEM
+

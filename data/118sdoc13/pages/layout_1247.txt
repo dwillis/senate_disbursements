@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION            AMOUNT ($)
+              POSTED                                             DATES
+                                                                              TRAIN FARE FOR THE FOLLOWING: 8/27 SEN GILLIBRAND, M PARKER                       $1,136.90
+                                                      START       END         ALBANY TO NEW YORK; 8/28 SEN GILLIBRAND NEW YORK TO ALBANY
+                                                                              STAFF TRANSPORTATION                                                                 $341.00
+DGIL20240864  09/19/2024  CITIBANK - TRAVEL CBA CARD  08/25/2024  09/01/2024  AIRFARE FOR THE FOLLOWING: 8/25 A JIMENEZ, R KAMBACH WASHINGTON                      $466.47
+                                                                              DC TO ROCHESTER; 8/26 A JIMENEZ, R KAMBICH ROCHESTER TO NEW
+DGIL20240865  09/19/2024  CITIBANK - TRAVEL CBA CARD  08/21/2024  08/23/2024  YORK; TRAIN FARE FOR THE FOLLOWING: 8/31 R KAMBIC ; 9/1 A JIMENEZ                    $663.96
+DGIL20240866  09/19/2024  CITIBANK - TRAVEL CBA CARD  08/25/2024  08/31/2024  NEW YORK TO WASHINGTON DC                                                            $249.70
+                                                                              STAFF TRANSPORTATION                                                                 $251.25
+DGIL20240867  09/19/2024  CITIBANK - TRAVEL CBA CARD  08/25/2024  08/26/2024  TRAIN FARE FOR B BROWN WASHINGTON DC TO NEW YORK AND RETURN                                    B-1229
+                                                                              STAFF TRANSPORTATION                                                                   $95.14
+DGIL20240871  09/26/2024  SUSAN R MERRELL             05/20/2024  05/31/2024  8/25 AIRFARE FOR A CUBILLOS WASHINGTON DC TO SYRACUSE; TRAIN                         $247.90
+DGIL20240872  09/26/2024  SUSAN R MERRELL             07/20/2024  07/31/2024  FARE FOR THE FOLLOWING: 8/27 A CUBILLOS, A SONG ALBANY TO NEW                        $253.93
+DGIL20240873  09/19/2024  SUSAN R MERRELL             07/17/2024  07/17/2024  YORK; 8/31 A CUBILLOS NEW YORK TO WASHINGTON DC                                      $322.38
+DGIL20240874  09/26/2024  SUSAN R MERRELL             06/15/2024  06/30/2024  STAFF TRANSPORTATION                                                                 $207.32
+DGIL20240875  09/26/2024  SUSAN R MERRELL             08/01/2024  08/12/2024  AIRFARE FOR E LUKASKE AS FOLLOWS: 8/25 WASHINGTON DC TO ALBANY;                      $756.43
+DGIL20240876  09/27/2024  AUSTIN M PONCE              09/09/2024  09/10/2024  8/26 BUFFALO TO WASHINGTON DC
+DGIL20240877  09/27/2024  KENNETH FARRELL             09/15/2024  09/15/2024  STAFF TRANSPORTATION                                                                   $22.79
+DGIL20240878  09/26/2024  SUSAN R MERRELL             08/13/2024  08/29/2024  LOWVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      $43.61
+                                                                              STAFF TRANSPORTATION                                                                 $487.87
+DGIL20240880  09/21/2024  JENNIFER J DEAN             09/06/2024  09/06/2024  LOWVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DGIL20240881  09/27/2024  JENNIFER J DEAN             09/04/2024  09/04/2024  STAFF TRANSPORTATION                                                                    $9.00
+                                                                              LOWVILLE TO CANTON AND RETURN                                                          $26.50
+DGIL20240882  09/23/2024  RACHEL A CZAP               09/14/2024  09/16/2024  STAFF TRANSPORTATION                                                                   $40.72
+DGIL20240885  09/24/2024  JACINTA YUAN SZE CHEN       08/22/2024  08/22/2024  LOWVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      $40.11
+DGIL20240886  09/24/2024  JACINTA YUAN SZE CHEN       08/23/2024  08/23/2024  STAFF TRANSPORTATION                                                                   $26.50
+DGIL20240887  09/24/2024  JACINTA YUAN SZE CHEN       08/27/2024  08/27/2024  LOWVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      $26.50
+DGIL20240888  09/24/2024  JACINTA YUAN SZE CHEN       08/28/2024  08/28/2024  STAFF TRANSPORTATION
+DGIL20240889  09/24/2024  JACINTA YUAN SZE CHEN       09/04/2024  09/04/2024  ROCHESTER TO ALBANY AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              NORTH MASSAPEQUA TO ALBANY, YONKERS AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              LOWVILLE TO THE FOLLOWING AND RETURN: 8/13 WATERTOWN, FORT
+                                                                              DRUM, WATERTOWN; 8/14 LEWIS; 8/26, 27 SYRACUSE; 8/29 RAQUETTE LAKE,
+                                                                              ELIZABETHTOWN, PLATTSBURGH, WADDINGTON
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO NEW YORK AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO NEW YORK AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              YONKERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              SCARSDALE TO BEACON TO YONKERS
+                                                                              STAFF TRANSPORTATION
+                                                                              YONKERS TO VALHALLA TO SCARSDALE
+                                                                              STAFF TRANSPORTATION
+                                                                              YONKERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              YONKERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

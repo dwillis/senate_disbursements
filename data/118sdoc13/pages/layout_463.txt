@@ -1,0 +1,56 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                           DATES
+0002859977         POSTED     SERGEANT AT ARMS                                          SOFTWARE LICENSE                                                        $1,000.42
+0002859978                    SERGEANT AT ARMS                  START       END         SOFTWARE LICENSE                                                       -$4,115.42
+0002859979        09/25/2024  SERGEANT AT ARMS                                          SOFTWARE LICENSE
+0002859980        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  SOFTWARE LICENSE                                                           $449.90   B-445
+0002859981        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  SOFTWARE LICENSE                                                           $449.90
+0002859982        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  SOFTWARE LICENSE                                                           $449.90
+0002859983        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  SOFTWARE LICENSE                                                        $1,079.76
+0002859985        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  IT EQUIPMENT                                                               $235.64
+0002859986        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  SOFTWARE LICENSE                                                       -$8,348.29
+0002859987        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  IT EQUIPMENT                                                           -$1,940.26
+0002859988        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  IT EQUIPMENT                                                               $780.89
+0002859989        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  IT EQUIPMENT                                                            $6,384.72
+0002859990        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  IT EQUIPMENT                                                               $133.33
+0002859999        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                               -$133.33
+0002860000        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                                $901.21
+0002860001        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                           -$38,512.34
+0002860002        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                                $469.99
+0002860003        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT
+0002860004        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                                  $15.66
+0002860005        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                                  $59.97
+0002860006        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                                $249.99
+0002860007        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                             $1,299.94
+0002860009        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                                $399.99
+0002860010        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                                  $74.98
+0002860011        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                             $1,107.42
+0002860012        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                                $379.99
+0002860013        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                             $1,458.72
+0002860014        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                                $101.21
+00508002          09/25/2024  CDW GOVERNMENT INC                08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                                $844.98
+00508443          09/25/2024  CDW GOVERNMENT INC                08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                            $17,932.55
+00510445          05/09/2024  CDW GOVERNMENT INC                08/01/2024  08/31/2024  VOICE & DATA COMM EQUIPMENT                                            -$3,088.88
+00513887          05/15/2024  VCLOUD TECH INC                   05/08/2024  05/08/2024  SOFTWARE LICENSE                                                       -$5,723.84
+00514599          05/16/2024  VCLOUD TECH INC                   05/09/2024  05/09/2024  SOFTWARE LICENSE                                                       -$3,473.40
+00514783          05/21/2024  PERATON ENTERPRISE SOLUTIONS LLC  05/16/2024  05/16/2024  IT EQUIPMENT                                                                -$71.28
+00514901          05/22/2024  VCLOUD TECH INC                   05/20/2024  05/20/2024  SOFTWARE LICENSE                                                            -$23.76
+00557937          05/22/2024  VCLOUD TECH INC                   05/22/2024  05/22/2024  SOFTWARE LICENSE                                                          -$723.24
+00557938          05/23/2024  PERATON ENTERPRISE SOLUTIONS LLC  05/22/2024  05/22/2024  VOICE & DATA COMM EQUIPMENT                                                 -$23.76
+00558144          08/27/2024  PERATON ENTERPRISE SOLUTIONS LLC  05/22/2024  05/22/2024  VOICE & DATA COMM EQUIPMENT                                               -$582.12
+00558463          08/27/2024  VCLOUD TECH INC                   08/27/2024  08/27/2024  SOFTWARE LICENSE                                                       -$4,021.12
+00558464          08/29/2024  PERATON ENTERPRISE SOLUTIONS LLC  08/27/2024  08/27/2024  VOICE & DATA COMM EQUIPMENT                                            -$9,126.66
+00558561          08/29/2024  VCLOUD TECH INC                   08/28/2024  08/28/2024  SOFTWARE LICENSE                                                            -$83.16
+00558814          08/29/2024  PERATON ENTERPRISE SOLUTIONS LLC  08/29/2024  08/29/2024  IT SUPPORTIVE EQUIPMENT                                                   -$373.74
+00558815          08/30/2024  PERATON ENTERPRISE SOLUTIONS LLC  08/29/2024  08/29/2024  IT SUPPORTIVE EQUIPMENT                                                -$1,122.60
+DSAA24M50768      08/30/2024  CITIBANK - PURCHASE CARD          08/29/2024  08/29/2024  SOFTWARE LICENSE                                                          -$431.75
+DSAA24M51177      08/30/2024  CITIBANK - PURCHASE CARD          08/30/2024  08/30/2024  FURNISHINGS                                                               -$431.75
+DSAA24M51454      04/12/2024  CITIBANK - PURCHASE CARD          08/30/2024  08/30/2024  FURNISHINGS                                                             $1,197.00
+DSAA24M51608      04/04/2024  CITIBANK - PURCHASE CARD          11/16/2023  11/16/2023  AUDIO, VISUAL EQUIPMENT                                                 $1,304.41
+DSAA24M51611      04/12/2024  CITIBANK - PURCHASE CARD          12/04/2023  12/04/2023  AUDIO, VISUAL EQUIPMENT                                                    $128.78
+DSAA24M51672      04/01/2024  CITIBANK - PURCHASE CARD          01/26/2024  01/26/2024  SOFTWARE LICENSE                                                             $22.99
+DSAA24M51683      04/05/2024  CITIBANK - PURCHASE CARD          02/08/2024  02/08/2024  AUDIO, VISUAL EQUIPMENT                                                    $158.00
+                  05/02/2024                                    03/07/2024  03/07/2024                                                                             $599.00
+                  04/05/2024                                    03/18/2024  03/18/2024                                                                             $359.96
+                                                                03/14/2024  03/15/2024
+

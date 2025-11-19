@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DMCN20240616                  DONNA BAKER MCCLURE                                       STAFF TRANSPORTATION                                                         $94.97
+DMCN20240617      05/07/2024  DONNA BAKER MCCLURE               START       END         LONDON TO SOMERSET AND RETURN                                              $126.41
+DMCN20240618      05/10/2024  DONNA BAKER MCCLURE                                       STAFF TRANSPORTATION
+DMCN20240619      05/07/2024  DONNA BAKER MCCLURE               04/12/2024  04/12/2024  LONDON TO HAZARD, CORBIN AND RETURN                                          $81.87
+DMCN20240620      05/09/2024  DONNA BAKER MCCLURE                                       STAFF TRANSPORTATION                                                       $161.78
+DMCN20240621      05/07/2024  DONNA BAKER MCCLURE               04/15/2024  04/15/2024  LONDON TO SOMERSET AND RETURN
+DMCN20240622      05/07/2024  DONNA BAKER MCCLURE                                       STAFF TRANSPORTATION                                                         $51.74
+DMCN20240623      05/09/2024  STEPHANIE H NELSON                04/16/2024  04/16/2024  LONDON TO EVARTS AND RETURN                                                  $92.35
+DMCN20240624      05/07/2024  STEPHANIE H NELSON                                        STAFF TRANSPORTATION                                                       $188.64
+DMCN20240625      05/07/2024  HALEY E TIPTON                    04/18/2024  04/18/2024  LONDON TO MANCHESTER AND RETURN                                              $43.88
+DMCN20240626      05/07/2024  JOSIE A HAMMON                                            STAFF TRANSPORTATION                                                         $12.44
+DMCN20240627      05/07/2024  JOSIE A HAMMON                    04/19/2024  04/19/2024  LONDON TO MONTICELLO AND RETURN                                              $53.71
+DMCN20240628      05/07/2024  JOSIE A HAMMON                                            STAFF TRANSPORTATION                                                         $45.85
+DMCN20240629      05/07/2024  JOSIE A HAMMON                    04/22/2024  04/22/2024  LONDON TO RICHMOND, FRANKFORT, LOUISVILLE AND RETURN
+DMCN20240630      05/07/2024  JOSIE A HAMMON                                            STAFF TRANSPORTATION                                                          $6.55
+DMCN20240631      05/07/2024  JOSIE A HAMMON                    04/02/2024  04/02/2024  LEXINGTON TO PARIS AND RETURN                                                $45.85
+DMCN20240632      05/07/2024  JOSIE A HAMMON                                            STAFF TRANSPORTATION                                                         $52.40
+DMCN20240633      05/10/2024  JOSIE A HAMMON                    04/29/2024  04/29/2024  IN AND AROUND RICHMOND                                                       $45.85
+DMCN20240634      05/07/2024  JOSIE A HAMMON                                            STAFF TRANSPORTATION                                                         $57.64
+DMCN20240635      05/07/2024  JOSIE A HAMMON                    04/30/2024  04/30/2024  LEXINGTON TO BEREA AND RETURN                                              $103.49
+DMCN20240636      05/07/2024  JOSIE A HAMMON                                            STAFF TRANSPORTATION                                                         $26.20
+DMCN20240637      05/07/2024  JOSIE A HAMMON                    04/26/2024  04/26/2024  LOUISVILLE TO SHELBYVILLE AND RETURN                                         $26.20
+DMCN20240638      05/10/2024  JOSIE A HAMMON                                            STAFF TRANSPORTATION                                                         $57.64
+DMCN20240639      05/07/2024  JOSIE A HAMMON                    03/01/2024  03/01/2024  LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $44.54  B-1756
+DMCN20240640      05/07/2024  JOSIE A HAMMON                                            STAFF TRANSPORTATION                                                       $121.83
+                  05/07/2024                                    03/05/2024  03/05/2024  LOUISVILLE TO SHELBYVILLE AND RETURN                                         $45.85
+                                                                                        STAFF TRANSPORTATION                                                         $57.64
+                                                                03/06/2024  03/06/2024  LOUISVILLE TO BARDSTOWN AND RETURN                                           $45.85
+                                                                                        STAFF TRANSPORTATION
+                                                                03/08/2024  03/08/2024  LOUISVILLE TO SHELBYVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                03/09/2024  03/09/2024  LOUISVILLE TO ELIZABETHTOWN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                03/13/2024  03/13/2024  LOUISVILLE TO LEXINGTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                03/14/2024  03/14/2024  LOUISVILLE TO SHEPHERDSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                03/15/2024  03/15/2024  LOUISVILLE TO SHEPHERDSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                03/18/2024  03/18/2024  LOUISVILLE TO ELIZABETHTOWN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                03/20/2024  03/20/2024  LOUISVILLE TO TAYLORSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                03/21/2024  03/21/2024  LOUISVILLE TO CUB RUN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                03/22/2024  03/22/2024  LOUISVILLE TO SHELBYVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                03/27/2024  03/27/2024  LOUISVILLE TO ELIZABETHTOWN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                03/28/2024  03/28/2024  LOUISVILLE TO SHELBYVILLE AND RETURN
+
+                                                                04/03/2024  04/03/2024
+

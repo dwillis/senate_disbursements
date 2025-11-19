@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+              POSTED                                               DATES
+                                                                                STAFF TRANSPORTATION                                                            $501.83
+                                                        START       END         SIOUX FALLS TO RAPID CITY TO BROOKINGS                                            $34.84
+                                                                                STAFF TRANSPORTATION
+DROU20240594  04/29/2024  REBECCA JO HERMAN             04/18/2024  04/18/2024  RUTLAND TO BROOKINGS AND RETURN                                                 $186.26
+DROU20240596  04/30/2024  GRALING PETE CARMICHAEL       04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                              $32.83
+DROU20240597  04/29/2024  KEITH OWEN MOORE              04/12/2024  04/12/2024  RAPID CITY TO MARTIN AND RETURN                                                   $32.16
+DROU20240598  04/29/2024  KEITH OWEN MOORE              04/17/2024  04/17/2024  STAFF TRANSPORTATION
+DROU20240599  05/02/2024  ADAM L KAEMINGK               04/14/2024  04/18/2024  SIOUX FALLS TO VALLEY SPRINGS, BALTIC AND RETURN                                $164.60
+                                                                                STAFF TRANSPORTATION                                                         $1,238.75
+DROU20240600  05/03/2024  M MICHAEL ROUNDS              04/20/2024  04/20/2024  SIOUX FALLS TO DELL RAPIDS AND RETURN                                        $1,008.69    B-2144
+DROU20240602  05/02/2024  JENNIFER ANN HIEB             04/04/2024  04/04/2024  STAFF INCIDENTALS
+DROU20240603  05/08/2024  JENNIFER ANN HIEB             04/10/2024  04/10/2024  STAFF PER DIEM                                                                  $402.10
+DROU20240604  04/30/2024  JENNIFER ANN HIEB             04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                            $127.30
+DROU20240605  04/30/2024  JENNIFER ANN HIEB             04/18/2024  04/18/2024  RAPID CITY TO WASHINGTON DC AND RETURN                                          $127.30
+DROU20240608  05/03/2024  LUCAS W HEITKAMP              03/23/2024  04/07/2024  SENATOR TRANSPORTATION
+                                                                                WASHINGTON DC TO MINNEAPOLIS MN, EDEN PRAIRIE MN TO PIERRE                        $96.48
+DROU20240609  05/03/2024  M MICHAEL ROUNDS              04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                              $83.08
+DROU20240612  05/01/2024  CITIBANK - TRAVEL CBA CARD    04/19/2024  04/19/2024  ABERDEEN TO WATERTOWN AND RETURN                                                $486.42
+DROU20240614  05/07/2024  CAPITAL CITY AIR CARRIER INC  04/20/2024  04/20/2024  STAFF TRANSPORTATION
+DROU20240615  05/07/2024  CAPITAL CITY AIR CARRIER INC  04/23/2024  04/23/2024  ABERDEEN TO WATERTOWN AND RETURN                                                $407.10
+DROU20240616  05/07/2024  CAPITAL CITY AIR CARRIER INC  04/24/2024  04/24/2024  STAFF TRANSPORTATION                                                              $30.00
+DROU20240619  05/09/2024  M MICHAEL ROUNDS              04/24/2024  04/24/2024  ABERDEEN TO EUREKA AND RETURN
+DROU20240620  05/02/2024  NELSON, MARY L                04/24/2024  04/24/2024  STAFF TRANSPORTATION                                                         $5,865.70
+DROU20240621  05/03/2024  CITIBANK - TRAVEL CBA CARD    04/25/2024  04/25/2024  ABERDEEN TO ANDOVER, MELLETTE AND RETURN                                     $5,865.70
+DROU20240622  05/06/2024  GRALING PETE CARMICHAEL       04/26/2024  04/26/2024  STAFF TRANSPORTATION                                                         $9,455.97
+DROU20240623  05/13/2024  M MICHAEL ROUNDS              04/29/2024  04/29/2024  WASHINGTON DC TO DES MOINES IA, SIOUX FALLS, DES MOINES IA AND
+DROU20240626  05/06/2024  CITIBANK - TRAVEL CBA CARD    04/23/2024  04/23/2024  RETURN                                                                          $402.10
+DROU20240627  05/13/2024  CITIBANK - TRAVEL CBA CARD    04/24/2024  04/28/2024  SENATOR TRANSPORTATION                                                            $50.92
+DROU20240629  05/14/2024  FRANK TEDESCHI                04/23/2024  04/25/2024  PIERRE TO EDEN PRAIRIE MN, MINNEAPOLIS MN, WASHINGTON DC
+                                                                                TICKET FEES                                                                     $504.50
+                                                                                SENATOR TRANSPORTATION                                                            $56.28
+                                                                                AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN
+                                                                                SENATOR TRANSPORTATION                                                          $658.10
+                                                                                AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN                       $30.00
+                                                                                SENATOR TRANSPORTATION
+                                                                                AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN                     $223.20
+                                                                                SENATOR TRANSPORTATION                                                            $19.66
+                                                                                WASHINGTON DC TO MINNEAPOLIS MN, EDEN PRAIRIE MN, TO PIERRE
+                                                                                STAFF TRANSPORTATION
+                                                                                PIERRE TO ONIDA AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                AIRFARE FOR J ROLLINS PIERRE TO WASHINGTON DC
+                                                                                STAFF TRANSPORTATION
+                                                                                RAPID CITY TO DEADWOOD AND RETURN
+                                                                                SENATOR TRANSPORTATION
+                                                                                PIERRE TO EDEN PRAIRIE MN, MINNEAPOLIS MN, WASHINGTON DC
+                                                                                TICKET FEES
+                                                                                STAFF TRANSPORTATION
+                                                                                AIRFARE FOR D KAITFORS WASHINGTON DC TO SIOUX FALLS AND RETURN
+                                                                                STAFF INCIDENTALS
+

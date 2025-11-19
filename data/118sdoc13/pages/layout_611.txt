@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                              DATES
+DBLU20240370                                                                       EAST HAVEN TO WATERBURY TO BRIDGEPORT                                            $20.10
+DBLU20240371                                               START       END         STAFF TRANSPORTATION                                                             $16.75
+DBLU20240372                                                                       EAST HAVEN TO NEW HAVEN TO BRIDGEPORT                                            $68.34
+DBLU20240373      07/21/2024  RUTH E QUILES                06/28/2024  06/28/2024  STAFF TRANSPORTATION                                                             $56.28  B-593
+DBLU20240374      07/21/2024  RUTH E QUILES                07/09/2024  07/09/2024  BRIDGEPORT TO SHELTON AND RETURN                                                 $16.75
+DBLU20240375      07/25/2024  KATHLEEN G MCWILLIAMS        06/17/2024  06/17/2024  STAFF TRANSPORTATION                                                             $12.06
+DBLU20240376      07/29/2024  KATHLEEN G MCWILLIAMS        05/28/2024  05/28/2024  HARTFORD TO NEW LONDON AND RETURN
+DBLU20240377      07/29/2024  KATHLEEN G MCWILLIAMS        07/19/2024  07/19/2024  STAFF TRANSPORTATION                                                              $6.03
+DBLU20240378      07/29/2024  KATHLEEN G MCWILLIAMS        07/16/2024  07/16/2024  HARTFORD TO WEST HAVEN AND RETURN                                                $28.14
+DBLU20240379      07/29/2024  KATHLEEN G MCWILLIAMS        07/03/2024  07/03/2024  STAFF TRANSPORTATION                                                             $26.13
+DBLU20240380      07/29/2024  KATHLEEN G MCWILLIAMS        06/28/2024  06/28/2024  HARTFORD TO WINDSOR AND RETURN                                                   $16.75
+DBLU20240381      07/29/2024  KATHLEEN G MCWILLIAMS        07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                             $47.57
+DBLU20240382      07/29/2024  KATHLEEN G MCWILLIAMS        07/17/2024  07/17/2024  HARTFORD TO SOUTH GLASTONBURY AND RETURN                                         $20.77
+                  07/29/2024  RUTH E QUILES                07/22/2024  07/22/2024  STAFF TRANSPORTATION                                                           $445.55
+                  07/29/2024  RUTH E QUILES                07/23/2024  07/23/2024  HARTFORD TO WEST HARTFORD AND RETURN
+                  08/08/2024  JOHN BAIROS                  06/10/2024  06/25/2024  STAFF TRANSPORTATION                                                           $909.31
+                                                                                   HARTFORD TO MERIDEN AND RETURN                                                   $60.00
+DBLU20240383      07/31/2024  CITIBANK - TRAVEL CBA CARD   07/13/2024  07/18/2024  STAFF TRANSPORTATION
+                                                                                   HARTFORD TO MIDDLETOWN AND RETURN                                              $909.31
+DBLU20240384      07/31/2024  CITIBANK - TRAVEL CBA CARD   07/13/2024  07/18/2024  STAFF TRANSPORTATION                                                             $60.00
+                                                                                   HARTFORD TO WINDSOR AND RETURN
+DBLU20240385      07/31/2024  CITIBANK - SENATOR IBA CARD  07/08/2024  07/08/2024  STAFF TRANSPORTATION                                                           $235.10
+DBLU20240386      08/02/2024  CITIBANK - SENATOR IBA CARD  07/23/2024  07/23/2024  EAST HAVEN TO WATERBURY TO BRIDGEPORT                                          $221.10
+DBLU20240388      07/31/2024  CITIBANK - SENATOR IBA CARD  06/13/2024  06/13/2024  STAFF TRANSPORTATION                                                           $113.10
+DBLU20240389      08/19/2024  CITIBANK - SENATOR IBA CARD  06/09/2024  06/09/2024  EAST HAVEN TO NEW HAVEN TO BRIDGEPORT                                          $188.10
+DBLU20240392      08/15/2024  KASANDRA NAVARRO             07/13/2024  07/18/2024  STAFF TRANSPORTATION
+                                                                                   HARTFORD TO THE FOLLOWING AND RETURN TO WATERFORD: 6/10                          $99.79
+                                                                                   WILTON; 6/21 GROTON; 6/24 MILFORD; WATERFORD TO THE FOLLOWING                  $876.86
+                                                                                   AND RETURN TO HARTFORD: 6/11 MERIDEN; 6/13 BRANFORD; HARTFORD                  $453.15
+                                                                                   TO THE FOLLOWING AND RETURN: 6/14 INTERDEPARTMENTAL
+                                                                                   TRANSPORTATION; 6/25 WATERBURY; 6/21 WATERFORD TO HARTFORD
+                                                                                   AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   TICKET FEES
+                                                                                   AIRFARE FOR K NAVARRO AS FOLLOWS: 7/13 WASHINGTON DC TO
+                                                                                   WINDSOR LOCKS; 7/18 WINDSOR LOCKS TO WASHINGTON DC
+                                                                                   STAFF TRANSPORTATION
+                                                                                   TICKET FEES
+                                                                                   AIRFARE FOR S LAMB AS FOLLOWS: 7/13 WASHINGTON DC TO WINDSOR
+                                                                                   LOCKS; 7/18 WINDSOR LOCKS TO WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN BLUMENTHAL WINDSOR LOCKS TO WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN BLUMENTHAL WINDSOR LOCKS TO WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN BLUMENTHAL WASHINGTON DC TO NEW YORK NY
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN BLUMENTHAL WASHINGTON DC TO NEW YORK NY
+                                                                                   STAFF INCIDENTALS
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DWRN20240553                  LOUISE A KADIRI                                           STAFF TRANSPORTATION                                                         $31.49
+DWRN20240554      06/13/2024  ZACHARY B GOLDEN                  START       END         RICHMOND TO PETERSBURG AND RETURN                                            $18.84
+                  06/13/2024                                                            STAFF PER DIEM                                                             $139.36
+DWRN20240555                  CYNTHIA DOWNS-TAYLOR              06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                       $119.26
+DWRN20240556      06/14/2024  CYNTHIA DOWNS-TAYLOR                                      ARLINGTON TO RICHMOND AND RETURN                                           $208.37
+DWRN20240557      06/14/2024  CYNTHIA DOWNS-TAYLOR              06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                         $50.92
+DWRN20240558      06/13/2024  CYNTHIA DOWNS-TAYLOR                                      CHESTER TO CHESAPEAKE AND RETURN                                           $187.60
+DWRN20240563      06/14/2024  CAROLINE E BROOM                  01/13/2024  01/13/2024  STAFF TRANSPORTATION                                                         $12.06  B-2542
+DWRN20240564      06/14/2024  VALERIA RIVADENEIRA               01/15/2024  01/15/2024  CHESTER TO HAMPTON ROADS AND RETURN                                          $21.59
+DWRN20240566      06/14/2024  GENE L GARLAND                    01/08/2024  01/08/2024  STAFF TRANSPORTATION                                                         $22.78
+DWRN20240567      06/18/2024  GENE L GARLAND                    02/05/2024  02/05/2024  CHESTER TO RICHMOND AND RETURN                                               $22.11
+DWRN20240568      06/18/2024  GENE L GARLAND                    06/07/2024  06/07/2024  STAFF TRANSPORTATION                                                         $46.23
+DWRN20240569      06/18/2024  VALERIA RIVADENEIRA               06/03/2024  06/03/2024  CHESTER TO WASHINGTON DC AND RETURN                                          $96.60
+DWRN20240571      06/24/2024  BERESIK,MICHAEL T                 06/07/2024  06/07/2024  STAFF TRANSPORTATION                                                         $28.00
+DWRN20240573      06/27/2024  GENE L GARLAND                    06/11/2024  06/11/2024  WASHINGTON DC TO ALEXANDRIA AND RETURN                                       $24.79
+DWRN20240576      06/27/2024  GENE L GARLAND                    06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                         $42.02
+                  07/01/2024                                    04/26/2024  04/26/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $345.54
+DWRN20240578                                                    04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                       $279.39
+DWRN20240579                                                    06/13/2024  06/13/2024  NORFOLK TO CHESAPEAKE AND RETURN                                             $16.75
+DWRN20240580                                                    06/19/2024  06/20/2024  STAFF TRANSPORTATION                                                         $53.60
+DWRN20240581                                                                            NORFOLK OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $18.09
+DWRN20240582      07/02/2024  GENE L GARLAND                    06/14/2024  06/14/2024  STAFF TRANSPORTATION                                                         $52.93
+                  07/02/2024  GENE L GARLAND                    06/18/2024  06/18/2024  CHESAPEAKE TO NEWPORT NEWS AND RETURN                                        $41.15
+DWRN20240583      07/02/2024  GENE L GARLAND                    06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                       $271.62
+                  07/05/2024  ZACHARY R LEWIS                   03/25/2024  03/25/2024  WASHINGTON DC TO RICHMOND, HENRICO AND RETURN                                $63.00
+                  07/05/2024  ASHLEE WARREN                     06/19/2024  06/20/2024  STAFF TRANSPORTATION                                                       $205.56
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                  $1,081.90
+                  07/09/2024  WARNER,MARK R                     05/02/2024  05/07/2024  STAFF TRANSPORTATION                                                       $457.67
+                                                                                        NORFOLK TO VIRGINIA BEACH AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHESAPEAKE TO WASHINGTON DC, ALEXANDRIA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHESAPEAKE TO SUFFOLK AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHESAPEAKE TO FORT EUSTIS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NORFOLK OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO MANASSAS AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ROANOKE TO WASHINGTON DC AND RETURN
+                                                                                        SENATOR INCIDENTALS
+                                                                                        SENATOR PER DIEM
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO SAN FRANCISCO CA, HEALDSBURG CA, SAN
+                                                                                        FRANCISCO AND RETURN
+

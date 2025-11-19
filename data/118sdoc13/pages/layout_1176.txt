@@ -1,0 +1,62 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                      DESCRIPTION                                               AMOUNT ($)
+                  POSTED                                             DATES
+DERN20240839                                                                                                                                                                $103.10
+DERN20240840                                              START       END                                                                                                   $142.10
+DERN20240841                                                                                                                                                                $112.60
+DERN20240842      09/18/2024  CITIBANK - TRAVEL CBA CARD  06/16/2024                        AIRFARE FOR K WOOD DES MOINES TO WASHINGTON DC                                  $189.98   B-1158
+DERN20240843      09/18/2024  CITIBANK - TRAVEL CBA CARD  02/02/2024   06/16/2024 SENATOR TRANSPORTATION                                                                    $373.20
+                  09/18/2024  CITIBANK - TRAVEL CBA CARD  04/23/2024
+DERN20240844      09/18/2024  CITIBANK - TRAVEL CBA CARD  02/29/2024                        AIRFARE FOR SEN ERNST OMAHA NE TO WASHINGTON DC                                 $103.10
+DERN20240845      09/18/2024  CITIBANK - TRAVEL CBA CARD  07/09/2024   02/02/2024 SENATOR TRANSPORTATION                                                                    $102.10
+DERN20240846                                              04/24/2024                                                                                                        $103.10
+DERN20240847      09/18/2024  CITIBANK - TRAVEL CBA CARD  03/04/2024                        AIRFARE FOR SEN ERNST WASHINGTON DC TO CEDAR RAPIDS                             $107.10
+DERN20240855      09/18/2024  CITIBANK - TRAVEL CBA CARD  02/26/2024   04/23/2024 SENATOR TRANSPORTATION
+                  09/18/2024  CITIBANK - TRAVEL CBA CARD  03/26/2024                                                                                                          $27.36
+                  09/19/2024  CITIBANK - TRAVEL CBA CARD  08/28/2024                        AIRFARE FOR SEN ERNST OMAHA NE TO WASHINGTON DC                                 $280.00
+                  09/27/2024  TRENTON P HOEKSTRA                       02/29/2024 SENATOR TRANSPORTATION
+                                                          08/11/2024                                                                                                          $41.73
+DERN20240856      09/27/2024  AARON GOTTESMAN                                               AIRFARE FOR SEN ERNST WASHINGTON DC TO OMAHA NE
+DERN20240857                                              08/12/2024   07/12/2024 STAFF TRANSPORTATION                                                                        $69.03
+DERN20240858      09/27/2024  KATHERINE K BAKER                                                                                                                             $753.04
+DERN20240859                                              09/13/2024                        AIRFARE FOR J BEECHER DES MOINES TO WASHINGTON DC TO                            $571.07
+DERN20240863      09/26/2024  KOLBY RYAN DEWITT           09/14/2024                        MINNEAPOLIS MN
+DERN20240868      09/27/2024  JUSTIN L JENSEN             09/12/2024   04/24/2024 SENATOR TRANSPORTATION                                                                      $54.65
+                  09/27/2024  JUSTIN L JENSEN             09/15/2024                        AIRFARE FOR SEN ERNST WASHINGTON DC TO OMAHA NE                                 $442.00
+                  09/24/2024  CITIBANK - TRAVEL CBA CARD               03/04/2024 SENATOR TRANSPORTATION                                                                    $367.25
+                                                          04/14/2024                        AIRFARE FOR SEN ERNST NEW YORK NY TO WASHINGTON DC
+                                                          03/14/2024   02/26/2024 SENATOR TRANSPORTATION                                                                      $15.00
+                                                          05/14/2024                        AIRFARE FOR SEN ERNST OMAHA NE TO WASHINGTON DC                                 $129.31
+                                                                       03/26/2024 SENATOR TRANSPORTATION
+                                                                                            AIRFARE FOR SEN ERNST DES MOINES TO WASHINGTON DC                                 $23.40
+                                                                       08/30/2024 STAFF INCIDENTALS                                                                         $152.76
+                                                                                            STAFF PER DIEM
+                                                                                            STAFF TRANSPORTATION                                                              $14.95
+                                                                                            WASHINGTON DC TO DES MOINES, NEVADA, URBANDALE, ANKENY, BOONE,                  $101.84
+                                                                                            URBANDALE, DES MOINES AND RETURN                                                $293.70
+                                                                       08/16/2024 STAFF INCIDENTALS
+                                                                                            STAFF PER DIEM                                                                    $30.00
+                                                                                            STAFF TRANSPORTATION
+                                                                                            WASHINGTON DC TO DES MOINES, MARION, DAVENPORT AND RETURN                   $96,405.04
+                                                                       08/16/2024 STAFF INCIDENTALS                                                                         $104.94
+                                                                                            STAFF PER DIEM                                                                  $104.94
+                                                                                            STAFF TRANSPORTATION                                                            $104.94
+                                                                                            WASHINGTON DC TO DES MOINES, DAVENPORT, IOWA CITY AND RETURN
+                                                                       09/13/2024 STAFF PER DIEM
+                                                                                            STAFF TRANSPORTATION
+                                                                                            SIOUX CITY TO SPENCER AND RETURN
+                                                                       09/14/2024 STAFF PER DIEM
+                                                                                            STAFF TRANSPORTATION
+                                                                                            CEDAR FALLS TO FOREST CITY AND RETURN
+                                                                       09/12/2024 STAFF PER DIEM
+                                                                                            STAFF TRANSPORTATION
+                                                                                            CEDAR RAPIDS TO GRINNELL TO CEDAR FALLS
+                                                                       09/18/2024 STAFF TRANSPORTATION
+                                                                                            TICKET FEES
+                                                                                            AIRFARE FOR N MORROW CEDAR RAPIDS TO WASHINGTON DC AND
+                                                                                            RETURN
+                                                                      TRAVEL AND TRANSPORTATION OF PERSONS
+
+DERN20240459      05/16/2024  CITIBANK - PURCHASE CARD                04/14/2024  LICENSING FEES
+DERN20240460      05/16/2024  CITIBANK - PURCHASE CARD                03/14/2024  LICENSING FEES
+DERN20240616      07/09/2024  CITIBANK - PURCHASE CARD                05/14/2024  LICENSING FEES
+

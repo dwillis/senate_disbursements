@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+              POSTED                                              DATES
+                                                                               AIRFARE FOR SEN STABENOW AS FOLLOWS: 7/25 WASHINGTON DC TO                         $390.81
+                                                       START       END         DETROIT; 7/28 LANSING TO WASHINGTON DC
+                                                                               SENATOR TRANSPORTATION                                                             $140.70
+DSTB20240425  08/14/2024  CITIBANK - SENATOR IBA CARD  07/26/2024  07/28/2024  RENTAL AUTO FOR SEN STABENOW DETROIT TO ANN ARBOR, DETROIT TO                        $17.55
+DSTB20240426  08/21/2024  MELISSA K FRUGE              08/08/2024  08/08/2024  LANSING
+DSTB20240427  08/23/2024  KALI L FOX                   08/08/2024  08/09/2024  STAFF TRANSPORTATION                                                               $143.61
+DSTB20240430                                                                   TRAVERSE CITY TO INDIAN RIVER AND RETURN                                             $63.65
+DSTB20240432  08/21/2024  MARY M JUDNICH               06/11/2024  07/17/2024  STAFF INCIDENTALS
+              08/23/2024  MARY M JUDNICH               07/02/2024  08/09/2024  STAFF PER DIEM                                                                     $879.71
+DSTB20240438                                                                   EAST LANSING TO SOUTH HAVEN, GRAND RAPIDS AND RETURN
+              08/23/2024  STABENOW,DEBORAH A           07/25/2024  07/28/2024  STAFF TRANSPORTATION                                                                 $54.74
+                                                                               GRAND RAPIDS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $421.52
+DSTB20240439  08/26/2024  STABENOW,DEBORAH A           04/24/2024  04/29/2024  STAFF TRANSPORTATION                                                                         B-2377
+DSTB20240440  08/23/2024  STABENOW,DEBORAH A           05/17/2024  05/20/2024  GRAND RAPIDS TO THE FOLLOWING AND RETURN: 7/2 HASTINGS; 7/11, 8/9                    $33.43
+                                                                               BENTON HARBOR; 7/16 THREE RIVERS; 7/19 HOLLAND; 7/26 DETROIT; 8/6
+DSTB20240441  08/23/2024  CHRIS K SANFORD              08/02/2024  08/12/2024  CONSTANTINE; 8/8 SOUTH HAVEN                                                         $78.13
+DSTB20240449  09/03/2024  KALI L FOX                   08/13/2024  08/15/2024  SENATOR INCIDENTALS                                                                  $44.96
+DSTB20240450  08/30/2024  MARY M JUDNICH               08/14/2024  08/15/2024  SENATOR PER DIEM                                                                   $345.68
+DSTB20240451  08/30/2024  MARY M JUDNICH               08/13/2024  08/13/2024  SENATOR TRANSPORTATION                                                               $90.00
+DSTB20240453  09/03/2024  CITIBANK - SENATOR IBA CARD  08/15/2024  08/15/2024  WASHINGTON DC TO DETROIT, ANN ARBOR, DETROIT, LANSING AND                          $211.05
+DSTB20240454  09/05/2024  STABENOW,DEBORAH A           08/01/2024  08/15/2024  RETURN
+                                                                               SENATOR TRANSPORTATION                                                             $147.40
+DSTB20240461  09/14/2024  CHRIS K SANFORD              08/23/2024  08/27/2024  WASHINGTON DC TO DETROIT, LANSING, GRAND RAPIDS AND RETURN
+DSTB20240463                                                                   SENATOR INCIDENTALS                                                                $229.81
+              09/16/2024  LISA S MULCRONE              08/25/2024  08/25/2024  SENATOR PER DIEM
+                                                                               SENATOR TRANSPORTATION                                                               $24.12
+                                                                               WASHINGTON DC TO DETROIT AND RETURN                                                $235.10
+                                                                               STAFF TRANSPORTATION
+                                                                               8/2 LANSING TO GRAND RAPIDS AND RETURN; 8/12 EAST LANSING TO                         $39.03
+                                                                               DETROIT AND RETURN                                                                 $394.19
+                                                                               STAFF TRANSPORTATION                                                               $370.50
+                                                                               EAST LANSING TO THE FOLLOWING AND RETURN: 8/13 SAINT JOHNS; 8/15
+                                                                               JACKSON, MONROE                                                                      $38.31
+                                                                               STAFF TRANSPORTATION                                                               $267.28
+                                                                               GRAND RAPIDS TO THE FOLLOWING AND RETURN: 8/14 BENTON HARBOR; 8                    $230.48
+                                                                               /15 PORTAGE                                                                        $128.64
+                                                                               STAFF TRANSPORTATION
+                                                                               GRAND RAPIDS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               SENATOR TRANSPORTATION
+                                                                               AIRFARE FOR SEN STABENOW LANSING TO WASHINGTON DC
+                                                                               SENATOR INCIDENTALS
+                                                                               SENATOR PER DIEM
+                                                                               SENATOR TRANSPORTATION
+                                                                               WASHINGTON DC TO BEDFORD PA, LANSING, DETROIT, LANSING AND
+                                                                               RETURN
+                                                                               STAFF INCIDENTALS
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               EAST LANSING TO TRAVERSE CITY AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               EAST LANSING TO DETROIT AND RETURN
+

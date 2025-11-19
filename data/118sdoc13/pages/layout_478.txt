@@ -1,0 +1,49 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                               DESCRIPTION   AMOUNT ($)
+                   POSTED                                                  DATES
+VSAA22406646                  EDINALARM INC                                                                                                      $58.87
+VSAA22406647      07/12/2024  EDINALARM INC                     START       END                                                                  $58.87
+VSAA22406760      07/12/2024  OLE BROOK FIRE & SECURITY                                                                                        $100.00
+                  07/19/2024                                    06/01/2024  06/30/2024  MONITORING & GUARD SERVICES                              $60.00
+VSAA22406768                  JOHNSON CONTROLS                  07/01/2024  07/31/2024  MONITORING & GUARD SERVICES                        $68,587.20
+VSAA22406769      07/19/2024  JOHNSON CONTROLS                  04/29/2024  04/29/2024  AUDIO, VISUAL EQUIP MAINT                          $70,505.60
+VSAA22407211      07/19/2024  JOHNSON CONTROLS SECURITY                                 MONITORING & GUARD SERVICES
+VSAA22407411      07/25/2024  SOLUTIONS                         04/01/2024  04/30/2024  PHYSICAL SECURITY                                  $70,505.60
+VSAA22407526      08/06/2024  ACE-HTI                           05/01/2024  05/31/2024  PHYSICAL SECURITY
+VSAA22407612      08/07/2024  ACE-HTI                           06/01/2024                                                                       $85.00
+VSAA22407764      08/12/2024  ACE-HTI                           07/01/2024  06/30/2024 PHYSICAL SECURITY                                         $85.00
+VSAA22407992      08/22/2024  JOHNSON CONTROLS SECURITY         08/01/2024                                                                       $85.00
+VSAA22407994      09/09/2024  SOLUTIONS                         06/01/2024  07/31/2024  MONITORING & GUARD SERVICES
+VSAA22408196      09/09/2024  SKYE-GLOBAL LLC                   07/01/2024  08/31/2024  MONITORING & GUARD SERVICES                        $70,505.60
+VSAA22408324      09/13/2024  SKYE-GLOBAL LLC                   05/01/2024  06/30/2024  MONITORING & GUARD SERVICES
+                  09/20/2024  JOHNSON CONTROLS SECURITY         07/01/2024                                                               $120,470.94
+VSAA22408325                  SOLUTIONS                         08/01/2024  07/31/2024 PHYSICAL SECURITY                                   $14,940.90
+                  09/20/2024  OLE BROOK FIRE & SECURITY         04/29/2024
+VSAA22408367                                                                05/31/2024  PHYSICAL SECURITY                                  $70,505.60
+                  09/16/2024  OLE BROOK FIRE & SECURITY         04/29/2024  07/31/2024  PHYSICAL SECURITY
+DSAAXN0006                                                                                                                                     $100.00
+VSAA22405022      07/30/2024  ACE-HTI                           09/01/2024  08/31/2024 PHYSICAL SECURITY                                         $60.00
+VSAA22405023      04/30/2024
+VSAA22405024      05/06/2024  CITIBANK - PURCHASE CARD          07/16/2024   04/29/2024 AUDIO, VISUAL EQUIP MAINT                              $100.00   B-460
+VSAA22405555      05/02/2024  ACE-HTI                           03/28/2024                        MONITORING & GUARD SERVICES                    $60.00
+VSAA22406089      05/24/2024  OLE BROOK FIRE & SECURITY         04/01/2024                                                                       $85.00
+VSAA22406090      06/17/2024  OLE BROOK FIRE & SECURITY         04/01/2024   04/29/2024 AUDIO, VISUAL EQUIP MAINT
+VSAA22406793      07/12/2024  ACE-HTI                           04/29/2024                        MONITORING & GUARD SERVICES          $1,016,401.91
+VSAA22406857      08/06/2024  EDINALARM INC                     05/24/2024
+VSAA22407213      07/19/2024  EDINALARM INC                     05/30/2024   09/30/2024 MONITORING & GUARD SERVICES                         $6,798.00
+VSAA22407842      08/06/2024  ADT SECURITY SERVICES             06/07/2024  OTHER CONTRACTUAL SERVICES                                      $6,945.00
+VSAA22407993      08/19/2024  HI-TECH INNOVATIONS INC           06/12/2024                                                                  $6,448.32
+VSAA22407997      09/09/2024  ADT SECURITY SERVICES             06/05/2024   07/16/2024 AUDIO, VISUAL EQUIPMENT                             $8,011.45
+                  09/09/2024  EDINALARM INC                     06/06/2024   03/28/2024 AUDIO, VISUAL EQUIPMENT                             $8,147.85
+                              SKYE-GLOBAL LLC                   05/01/2024   04/01/2024 AUDIO, VISUAL EQUIPMENT                            $12,715.00
+                              SOUTHERN ELECTRIC CORP OF MS      05/09/2024   04/01/2024 AUDIO, VISUAL EQUIPMENT                             $3,470.00
+                                                                             04/29/2024 AUDIO, VISUAL EQUIPMENT                             $4,939.86
+                                                                             05/24/2024 AUDIO, VISUAL EQUIPMENT                            $10,828.34
+                                                                             05/30/2024 AUDIO, VISUAL EQUIPMENT                             $7,478.68
+                                                                             08/04/2024 AUDIO, VISUAL EQUIPMENT                             $2,110.00
+                                                                             06/12/2024 AUDIO, VISUAL EQUIPMENT
+                                                                             07/04/2024 AUDIO, VISUAL EQUIPMENT                                $718.00
+                                                                             06/06/2024 AUDIO, VISUAL EQUIPMENT                            $41,600.00
+                                                                             05/01/2024 IT EQUIPMENT                                     $120,210.50
+                                                                             05/09/2024 IT EQUIPMENT
+                                                                            ACQUISITION OF ASSETS
+

@@ -1,0 +1,55 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+              POSTED                                             DATES
+                                                                              BATON ROUGE TO BATON ROUGE, GONZALES, BATON ROUGE,                                  $3.72
+                                                      START       END         COVINGTON, HAMMOND, COVINGTON, MADISONVILLE, COVINGTON AND                       $385.26
+                                                                              RETURN                                                                           $169.65
+DCSS20240328  04/17/2024  MICHAEL R EBY JR            03/25/2024  03/28/2024  STAFF INCIDENTALS
+                                                                              STAFF PER DIEM                                                                      $3.72
+DCSS20240329  04/17/2024  SHAWN G HANSCOM             03/25/2024  03/28/2024  STAFF TRANSPORTATION                                                             $425.15
+                                                                              BATON ROUGE TO BATON ROUGE, COVINGTON, HAMMOND, COVINGTON,                       $375.70
+DCSS20240330  04/16/2024  CITIBANK - TRAVEL CBA CARD  03/24/2024  04/01/2024  MADISONVILLE, COVINGTON AND RETURN
+                                                                              STAFF INCIDENTALS                                                                  $18.75
+DCSS20240331  04/16/2024  CITIBANK - TRAVEL CBA CARD  03/24/2024  03/28/2024  STAFF PER DIEM                                                                   $433.20   B-880
+DCSS20240333  04/16/2024  CITIBANK - TRAVEL CBA CARD  03/25/2024  03/28/2024  BATON ROUGE TO BATON ROUGE, HAMMOND, MADISONVILLE, COVINGTON                     $877.70
+DCSS20240334  04/16/2024  CITIBANK - TRAVEL CBA CARD  03/25/2024  03/28/2024  AND RETURN                                                                       $967.70
+DCSS20240335  04/17/2024  CITIBANK - PURCHASE CARD    03/25/2024  03/25/2024  STAFF TRANSPORTATION                                                          $1,358.85
+DCSS20240336  04/17/2024  CITIBANK - PURCHASE CARD    03/27/2024  03/27/2024  TICKET FEES                                                                   $2,538.10
+DCSS20240337  04/16/2024  CITIBANK - TRAVEL CBA CARD  03/25/2024  03/28/2024  AIRFARE FOR H BARR AS FOLLOWS: 3/24 WASHINGTON DC TO BATON                    $1,112.70
+DCSS20240338  04/16/2024  CITIBANK - TRAVEL CBA CARD  03/25/2024  03/25/2024  ROUGE; 4/1 FORT SMITH AR TO WASHINGTON DC                                        $785.60
+DCSS20240339  04/16/2024  CITIBANK - TRAVEL CBA CARD  03/25/2024  03/28/2024  STAFF TRANSPORTATION                                                          $1,112.70
+DCSS20240340  04/16/2024  CITIBANK - TRAVEL CBA CARD  03/25/2024  03/28/2024  AIRFARE FOR Z AGUILLARD AS FOLLOWS: 3/24 WASHINGTON DC TO BATON                  $877.70
+DCSS20240341  04/16/2024  CITIBANK - TRAVEL CBA CARD  03/25/2024  03/28/2024  ROUGE; 3/28 NEW ORLEANS TO WASHINGTON DC                                         $732.70
+DCSS20240342  04/16/2024  CITIBANK - TRAVEL CBA CARD  03/24/2024  03/29/2024  STAFF TRANSPORTATION                                                             $433.20
+DCSS20240343  04/16/2024  CITIBANK - TRAVEL CBA CARD  03/24/2024  03/28/2024  AIRFARE FOR K RUDIS AS FOLLOWS: 3/25 WASHINGTON DC TO BATON                      $433.20
+DCSS20240344  04/16/2024  CITIBANK - TRAVEL CBA CARD  03/24/2024  03/24/2024  ROUGE; 3/28 NEW ORLEANS TO WASHINGTON DC                                         $106.10
+DCSS20240345  04/10/2024  CITIBANK - TRAVEL CBA CARD  03/24/2024  03/28/2024  STAFF TRANSPORTATION                                                             $433.20
+                                                                              AIRFARE FOR C HARBIN AS FOLLOWS: 3/25 WASHINGTON DC TO BATON
+                                                                              ROUGE; 3/28 NEW ORLEANS TO WASHINGTON DC
+                                                                              STAFF PER DIEM
+                                                                              PER DIEM EXPENSES FOR STAFF RETREAT HELD IN BATON ROUGE
+                                                                              STAFF PER DIEM
+                                                                              PER DIEM EXPENSES FOR STAFF RETREAT HELD IN MADISONVILLE
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR J HIRST AS FOLLOWS: 3/25 WASHINGTON DC TO BATON
+                                                                              ROUGE; 3/28 NEW ORLEANS TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR J QUINN WASHINGTON DC TO BATON ROUGE
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR J RAMALLO AS FOLLOWS: 3/25 WASHINGTON DC TO BATON
+                                                                              ROUGE; 3/28 NEW ORLEANS TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR J PAOLELLA AS FOLLOWS: 3/25 WASHINGTON DC TO BATON
+                                                                              ROUGE; 3/28 NEW ORLEANS TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR R ANDERSON AS FOLLOWS: 3/25 WASHINGTON DC TO BATON
+                                                                              ROUGE; 3/28 NEW ORLEANS TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR S ALEXANDER AS FOLLOWS: 3/24 WASHINGTON DC TO
+                                                                              BATON ROUGE; 3/29 NEW ORLEANS TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR M BLOCK AS FOLLOWS: 3/24 WASHINGTON DC TO BATON
+                                                                              ROUGE; 3/28 NEW ORLEANS TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR R BROUSSARD WASHINGTON DC TO BATON ROUGE
+                                                                              STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                               DATES
+DMUY20240374                                                                        WASHINGTON DC TO SEATTLE AND RETURN                                          $20.37
+                                                            START       END         STAFF INCIDENTALS                                                          $227.35
+DMUY20240375                                                                        STAFF PER DIEM                                                             $316.15
+DMUY20240377      04/26/2024  SHAWN L BILLS                 04/10/2024  04/11/2024  STAFF TRANSPORTATION
+DMUY20240380                                                                        CLE ELUM TO YAKIMA, SPOKANE, RITZVILLE AND RETURN                            $19.05
+DMUY20240382      04/26/2024  HAYDEN LEE JENKINS            04/11/2024  04/11/2024  STAFF PER DIEM                                                             $100.50
+                  04/26/2024  MELINDA D LINQUIST            04/11/2024  04/14/2024  STAFF TRANSPORTATION
+DMUY20240384      04/30/2024  HAYDEN LEE JENKINS            04/16/2024  04/16/2024  EVERETT TO BELLINGHAM TO SEATTLE                                              $8.00
+                  05/02/2024  BREE ANN RABOURN              04/03/2024  04/04/2024  STAFF INCIDENTALS                                                       $2,673.16
+DMUY20240385                                                                        STAFF TRANSPORTATION
+DMUY20240387      04/26/2024  MILENA SHERMAN                04/07/2024  04/12/2024  WASHINGTON DC TO SEATTLE AND RETURN                                          $11.30
+DMUY20240388                                                                        STAFF PER DIEM                                                             $121.27
+DMUY20240389      05/03/2024  RAQUEL MARIE FERRELL CROWLEY  03/18/2024  03/18/2024  STAFF TRANSPORTATION                                                                 B-1916
+DMUY20240390                                                                        SEATTLE TO LYNDEN, BELLINGHAM MA TO EVERETT                                  $42.17
+                  05/03/2024  BREE ANN RABOURN              04/18/2024  04/18/2024  STAFF INCIDENTALS                                                          $250.94
+                  05/03/2024  BREE ANN RABOURN              04/16/2024  04/16/2024  STAFF PER DIEM                                                             $352.90
+                  05/01/2024  BREE ANN RABOURN              03/20/2024  03/20/2024  STAFF TRANSPORTATION
+                  06/25/2024  HART M CLEMENTS               03/31/2024  04/05/2024  SEATTLE TO SPOKANE, CHENEY, SPOKANE AND RETURN                             $205.75
+                                                                                    STAFF INCIDENTALS                                                       $1,290.00
+DMUY20240391      05/03/2024  RAQUEL MARIE FERRELL CROWLEY  04/01/2024  04/18/2024  STAFF PER DIEM
+DMUY20240392      05/03/2024  RAQUEL MARIE FERRELL CROWLEY  04/01/2024  04/01/2024  STAFF TRANSPORTATION                                                       $779.63
+DMUY20240393      05/03/2024  RAQUEL MARIE FERRELL CROWLEY  04/09/2024  04/09/2024  SEATTLE TO WASHINGTON DC AND RETURN
+                                                                                    STAFF PER DIEM                                                               $26.00
+DMUY20240394      05/03/2024  RAQUEL MARIE FERRELL CROWLEY  04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                         $87.77
+                                                                                    RICHLAND TO YAKIMA, SELAH AND RETURN
+DMUY20240395      05/17/2024  RAQUEL MARIE FERRELL CROWLEY  04/10/2024  04/11/2024  STAFF TRANSPORTATION                                                         $46.90
+                                                                                    SEATTLE TO TACOMA AND RETURN
+                                                                                    STAFF TRANSPORTATION                                                         $30.82
+                                                                                    SEATTLE TO BOTHELL AND RETURN
+                                                                                    STAFF TRANSPORTATION                                                         $21.44
+                                                                                    SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                    STAFF INCIDENTALS                                                          $140.68
+                                                                                    STAFF PER DIEM                                                             $896.57
+                                                                                    STAFF TRANSPORTATION                                                    $1,185.03
+                                                                                    WASHINGTON DC TO SEATTLE, EVERETT, EDMONDS, KINGSTON,
+                                                                                    BREMERTON, VANCOUVER, TACOMA, SEATTLE AND RETURN                           $207.70
+                                                                                    STAFF TRANSPORTATION
+                                                                                    RICHLAND OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $130.65
+                                                                                    STAFF TRANSPORTATION
+                                                                                    RICHLAND TO NACHES AND RETURN                                                $48.76
+                                                                                    STAFF PER DIEM                                                             $121.94
+                                                                                    STAFF TRANSPORTATION
+                                                                                    RICHLAND TO YAKIMA AND RETURN                                                $25.00
+                                                                                    STAFF PER DIEM                                                             $217.08
+                                                                                    STAFF TRANSPORTATION
+                                                                                    RICHLAND TO MOSES LAKE AND RETURN                                            $11.24
+                                                                                    STAFF INCIDENTALS                                                          $126.54
+                                                                                    STAFF PER DIEM                                                             $208.37
+                                                                                    STAFF TRANSPORTATION
+                                                                                    RICHLAND TO MOSES LAKE AND RETURN
+

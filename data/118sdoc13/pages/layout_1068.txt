@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                              DATES
+DCRU20240805                                                                       DEL RIO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $250.58
+DCRU20240806                                               START       END         STAFF TRANSPORTATION                                                            $22.79
+                                                                                   DEL RIO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCRU20240807      06/11/2024  CASANDRA L GARCIA            05/06/2024  05/09/2024  STAFF PER DIEM                                                                $105.19
+DCRU20240808      06/11/2024  BRANDON JAMES SIMON          05/21/2024  05/21/2024  STAFF TRANSPORTATION                                                            $64.99
+DCRU20240809                                                                       GEORGETOWN TO GATESVILLE AND RETURN
+DCRU20240810      06/11/2024  BRANDON JAMES SIMON          05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                          $182.81
+DCRU20240811      06/11/2024  BRANDON JAMES SIMON          05/01/2024  05/31/2024  GEORGETOWN TO BELTON, TEMPLE AND RETURN                                       $128.64
+DCRU20240818      06/11/2024  BRANDON JAMES SIMON          05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                          $429.97
+DCRU20240821      06/12/2024  TED CRUZ                     04/30/2024  04/30/2024  AUSTIN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $242.10
+                  06/11/2024  TED CRUZ                     05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                          $154.10
+DCRU20240822      06/13/2024  GIOVANNI CATANZARO           06/05/2024  06/05/2024  AUSTIN TO BRYAN TO GEORGETOWN                                                 $925.86
+DCRU20240826      07/03/2024  MATTHEW CHRISTOPHER WINGATE  05/27/2024  05/31/2024  SENATOR TRANSPORTATION                                                     $1,082.00
+DCRU20240827                                                                       HOUSTON TO WASHINGTON DC
+DCRU20240828      06/18/2024  BLAKE T VINEYARD             06/06/2024  06/07/2024  SENATOR TRANSPORTATION                                                        $345.72   B-1050
+DCRU20240829      07/18/2024  TED CRUZ                     06/09/2024  06/09/2024  HOUSTON TO WASHINGTON DC                                                      $745.98
+DCRU20240839      07/18/2024  TED CRUZ                     06/03/2024  06/03/2024  STAFF TRANSPORTATION                                                          $242.10
+DCRU20240840      06/25/2024  MICHAEL A FLUSCHE            05/01/2024  05/31/2024  DALLAS TO MERIDIAN AND RETURN                                                 $456.27
+DCRU20240841      06/27/2024  MICHAEL A FLUSCHE            05/03/2024  05/03/2024  STAFF PER DIEM
+DCRU20240842      06/27/2024  RASUALI W BRAY               05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                            $87.77
+DCRU20240843      06/27/2024  RASUALI W BRAY               05/06/2024  05/10/2024  ALEXANDRIA VA TO WASHINGTON DC, SAN ANTONIO, AUSTIN, DALLAS,                    $15.00
+DCRU20240845      06/27/2024  RASUALI W BRAY               05/22/2024  05/24/2024  WASHINGTON DC AND RETURN                                                        $69.67
+                  06/27/2024  RASUALI W BRAY               05/29/2024  05/31/2024  STAFF TRANSPORTATION                                                            $67.45
+DCRU20240850      06/28/2024  BLAKE T VINEYARD             06/14/2024  06/14/2024  LUBBOCK TO STEPHENVILLE AND RETURN                                              $87.74
+DCRU20240851      07/01/2024  AARON FRANCIS REITZ          06/03/2024  06/14/2024  SENATOR TRANSPORTATION                                                        $286.76
+DCRU20240852                                                                       WASHINGTON DC TO HOUSTON                                                        $43.48
+                  07/08/2024  BOBBI L K HANSON             05/10/2024  05/10/2024  SENATOR TRANSPORTATION                                                     $1,239.13
+                  07/08/2024  BOBBI L K HANSON             05/13/2024  05/13/2024  HOUSTON TO WASHINGTON DC                                                      $205.02
+                  07/08/2024  BOBBI L K HANSON             05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                          $228.47
+                                                                                   DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $25.00
+                                                                                   STAFF TRANSPORTATION
+                                                                                   DALLAS TO WEATHERFORD OK TO DESOTO
+                                                                                   STAFF TRANSPORTATION
+                                                                                   HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   LUBBOCK TO PERRYTON AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   AUSTIN TO WASHINGTON DC, HOUSTON AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ABILENE TO MIDLAND AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ABILENE TO ODESSA AND RETURN
+                                                                                   STAFF PER DIEM
+

@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME            OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+              POSTED                                       DATES
+                                                                        WASHINGTON DC TO SEATTLE, SEATAC, SEQUIM, SEATAC, SEATTLE AND                    $15.14
+                                                START       END         RETURN                                                                           $28.14
+                                                                        STAFF TRANSPORTATION                                                        $3,306.20
+DMUY20240618  08/07/2024  MARY KAY GLENN        07/24/2024  07/24/2024  TACOMA TO FEDERAL WAY AND RETURN                                                 $18.83
+DMUY20240619  08/07/2024  CAITLIN E HARRINGTON  07/30/2024  07/30/2024  STAFF TRANSPORTATION                                                           $219.00
+DMUY20240620  08/06/2024  MURRAY,PATTY          07/26/2024  07/29/2024  VANCOUVER TO WOODLAND AND RETURN                                                 $11.53
+DMUY20240621  08/08/2024  MURRAY,PATTY          07/12/2024  07/23/2024  SENATOR TRANSPORTATION                                                           $20.10
+                                                                        WASHINGTON DC TO SEATTLE AND RETURN                                              $64.00
+DMUY20240625  08/13/2024  SHAUNA M RUST         07/31/2024  07/31/2024  SENATOR INCIDENTALS                                                            $546.33
+DMUY20240627  08/13/2024  CAITLIN E HARRINGTON  07/31/2024  07/31/2024  SENATOR PER DIEM                                                               $647.07
+DMUY20240628  08/28/2024  DYLAN MASON STAFFORD  07/12/2024  07/20/2024  WASHINGTON DC TO SEATTLE, SEQUIM, SEATTLE AND RETURN                           $147.40
+                                                                        STAFF TRANSPORTATION                                                             $29.33
+DMUY20240629  08/09/2024  HAYDEN LEE JENKINS    07/31/2024  07/31/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $312.35   B-1924
+DMUY20240630  08/13/2024  DANIEL T PAILTHORP    07/17/2024  07/18/2024  STAFF TRANSPORTATION                                                           $282.74
+                                                                        VANCOUVER TO LA CENTER AND RETURN                                                $22.51
+DMUY20240631  08/13/2024  DANIEL T PAILTHORP    07/19/2024  07/19/2024  STAFF INCIDENTALS                                                                $19.29
+DMUY20240632  08/13/2024  DANIEL T PAILTHORP    07/26/2024  07/26/2024  STAFF PER DIEM                                                                   $38.86
+DMUY20240633  08/15/2024  CAITLIN E HARRINGTON  08/05/2024  08/05/2024  STAFF TRANSPORTATION                                                             $72.13
+DMUY20240636  08/16/2024  JOSE A MARISCAL CRUZ  08/05/2024  08/05/2024  WASHINGTON DC TO SEATTLE, SEQUIM AND RETURN                                      $12.39
+DMUY20240638  08/16/2024  JOSE A MARISCAL CRUZ  08/08/2024  08/08/2024  STAFF TRANSPORTATION                                                             $18.83
+DMUY20240639  08/19/2024  DANIEL T PAILTHORP    07/09/2024  07/10/2024  SEATTLE TO DARRINGTON, INDEX TO EVERETT                                        $294.80
+                                                                        STAFF INCIDENTALS                                                              $303.74
+DMUY20240640  08/20/2024  HAYDEN LEE JENKINS    08/05/2024  08/05/2024  STAFF PER DIEM                                                                   $80.40
+DMUY20240641  08/16/2024  HAYDEN LEE JENKINS    08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                             $77.72
+DMUY20240642  08/16/2024  HAYDEN LEE JENKINS    08/06/2024  08/06/2024  OLYMPIA TO SEQUIM, NEAH BAY AND RETURN                                           $71.69
+DMUY20240643  08/15/2024  NICOLE MARIE REES     08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                           $231.15
+DMUY20240644  08/13/2024  SARA F ZAHEER         08/04/2024  08/08/2024  OLYMPIA TO TENINO AND RETURN                                                   $282.76
+                                                                        STAFF TRANSPORTATION                                                        $1,146.32
+                                                                        OLYMPIA TO DUPONT AND RETURN                                                   $522.68
+                                                                        STAFF TRANSPORTATION
+                                                                        VANCOUVER TO KALAMA AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                        STAFF TRANSPORTATION
+                                                                        SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                        STAFF INCIDENTALS
+                                                                        STAFF PER DIEM
+                                                                        STAFF TRANSPORTATION
+                                                                        OLYMPIA TO SEQUIM, NEAH BAY AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        EVERETT TO DARRINGTON TO SEATTLE
+                                                                        STAFF TRANSPORTATION
+                                                                        SEATTLE TO DARRINGTON TO EVERETT
+                                                                        STAFF TRANSPORTATION
+                                                                        EVERETT TO INDEX TO SEATTLE
+                                                                        STAFF TRANSPORTATION
+                                                                        SPOKANE TO WENATCHEE AND RETURN
+                                                                        STAFF INCIDENTALS
+                                                                        STAFF PER DIEM
+                                                                        STAFF TRANSPORTATION
+

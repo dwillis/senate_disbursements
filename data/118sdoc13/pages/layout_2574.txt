@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+                   POSTED                                                  DATES
+DWRN20240422                  ANDREW C LUMPKIN                                          STAFF TRANSPORTATION                                                                  $26.13
+DWRN20240423      05/02/2024  GENE L GARLAND                    START       END         NORFOLK TO VIRGINIA BEACH AND RETURN                                                  $20.77
+DWRN20240424      05/02/2024  GENE L GARLAND                                            STAFF TRANSPORTATION                                                                  $24.79
+DWRN20240425      04/30/2024  ASHLEE WARREN                     04/25/2024  04/25/2024  NORFOLK TO VIRGINIA BEACH AND RETURN                                                  $10.29
+                  05/07/2024                                                            STAFF TRANSPORTATION                                                                $160.38
+DWRN20240428                  GENE L GARLAND                    04/23/2024  04/23/2024  CHESAPEAKE TO PORTSMOUTH AND RETURN                                                   $26.80
+DWRN20240433      05/03/2024  LAURA K DACY                                              STAFF PER DIEM                                                                        $12.25
+                  05/15/2024                                    04/24/2024  04/24/2024  STAFF TRANSPORTATION                                                                  $63.03
+DWRN20240434                  GENE L GARLAND                                            ROANOKE TO ASHLAND AND RETURN                                                         $16.08
+DWRN20240435      05/14/2024  GENE L GARLAND                    04/19/2024  04/21/2024  STAFF TRANSPORTATION                                                                  $23.45
+DWRN20240436      05/14/2024  GENE L GARLAND                                            CHESAPEAKE TO PORTSMOUTH AND RETURN                                                   $18.09
+DWRN20240437      05/14/2024  NICHOLAS R KAWUGULE               04/26/2024  04/26/2024  STAFF PER DIEM                                                                        $17.42
+DWRN20240438      05/14/2024  NICHOLAS R KAWUGULE               04/26/2024  04/26/2024  STAFF TRANSPORTATION                                                                  $10.00
+DWRN20240439      05/15/2024  NICHOLAS R KAWUGULE                                       WASHINGTON DC TO RICHMOND AND RETURN                                                  $12.00
+DWRN20240440      05/14/2024  RACHEL COHEN                      04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                                  $40.48  B-2537
+DWRN20240445      05/28/2024  JACLYN B MARMOL                   05/02/2024  05/02/2024  CHESAPEAKE TO PORTSMOUTH AND RETURN                                                 $226.79
+                  05/20/2024                                    05/03/2024  05/03/2024  STAFF TRANSPORTATION
+                                                                04/15/2024  04/15/2024  NORFOLK OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      $22.63
+                                                                05/04/2024  05/04/2024  STAFF TRANSPORTATION                                                                $139.00
+                                                                05/02/2024  05/02/2024  CHESAPEAKE TO PORTSMOUTH AND RETURN                                                 $118.59
+                                                                04/27/2024  04/27/2024  STAFF TRANSPORTATION                                                                $159.21
+                                                                03/30/2024  04/19/2024  RICHMOND OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION                                                                  $30.15
+DWRN20240446      05/24/2024  JACLYN B MARMOL                   04/19/2024  04/20/2024  RICHMOND OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                     $42.21
+                                                                                        STAFF TRANSPORTATION                                                                  $90.60
+DWRN20240447      05/21/2024  JACLYN B MARMOL                   04/26/2024  05/06/2024  RICHMOND OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $536.92
+                                                                                        STAFF TRANSPORTATION                                                                $107.66
+DWRN20240448      05/17/2024  GENE L GARLAND                    05/06/2024  05/06/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DWRN20240449      05/16/2024  GENE L GARLAND                    05/07/2024  05/07/2024  STAFF TRANSPORTATION
+DWRN20240450      05/21/2024  ELIZABETH F FALCONE               05/05/2024  05/07/2024  FALLS CHURCH TO THE FOLLOWING AND RETURN: 3/30 CHANTILLY; 4/4
+                                                                                        ALEXANDRIA; VIENNA TO THE FOLLOWING AND RETURN TO FALLS
+                                                                                        CHURCH: 4/2 ALEXANDRIA; 4/18 FAIRFAX; VIENNA TO THE FOLLOWING AND
+                                                                                        RETURN: 4/5 ARLINGTON; 4/9 WOODBRIDGE; 4/10 FREDERICKSBURG; 4/11
+                                                                                        WOODBRIDGE; FALLS CHURCH TO THE FOLLOWING AND RETURN TO
+                                                                                        VIENNA: 4/17 ARLINGTON; 4/19 RESTON
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        VIENNA TO ASHLAND TO FALLS CHURCH
+                                                                                        STAFF TRANSPORTATION
+                                                                                        VIENNA TO THE FOLLOWING AND RETURN: 4/26 FREDERICKSBURG; 4/30
+                                                                                        FAIRFAX; 5/6 ALEXANDRIA; 4/28 FALLS CHURCH TO VIENNA AND RETURN; 5
+                                                                                        /2 VIENNA TO FAIRFAX TO FALLS CHURCH
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NORFOLK OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NORFOLK TO VIRGINIA BEACH AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO SAN FRANCISCO CA AND RETURN
+

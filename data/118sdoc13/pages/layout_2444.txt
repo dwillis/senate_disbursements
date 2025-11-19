@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DTES20240281                  TESTER,JON                                                SENATOR TRANSPORTATION                                                      $1,488.48
+DTES20240282      04/29/2024  ARTHUR SCOTT PETTIT               START       END         WASHINGTON DC TO GREAT FALLS AND RETURN                                          $22.29
+                  04/29/2024                                                            STAFF PER DIEM                                                                   $77.72
+DTES20240283                  ARTHUR SCOTT PETTIT               04/11/2024  04/15/2024  STAFF TRANSPORTATION                                                             $22.78
+DTES20240285      04/26/2024  ARTHUR SCOTT PETTIT                                       MISSOULA TO SUPERIOR AND RETURN
+DTES20240286      06/13/2024  CHAD L CAMPBELL                   04/02/2024  04/02/2024  STAFF PER DIEM                                                                 $144.31
+DTES20240288      05/01/2024  TESTER,JON                                                MISSOULA TO DRUMMOND AND RETURN                                                $111.48
+DTES20240294      05/03/2024  SHIVA-NANDAN ARENS                03/29/2024  03/29/2024  STAFF TRANSPORTATION                                                           $989.45   B-2407
+DTES20240297      05/06/2024  TESTER,JON                        01/30/2024  01/30/2024  MISSOULA TO SUPERIOR AND RETURN
+DTES20240298      05/15/2024  DYLAN M LASLOVICH                 04/16/2024  04/17/2024  STAFF TRANSPORTATION                                                              $8.71
+DTES20240299      05/16/2024  PAMELA R HAXBY-COTE               04/20/2024  04/23/2024  KALISPELL TO COLUMBIA FALLS, NOXON, COLUMBIA FALLS AND RETURN               $1,572.48
+                  05/16/2024                                    04/27/2024  04/27/2024  SENATOR TRANSPORTATION                                                      $1,223.81
+DTES20240300                                                    04/24/2024  04/30/2024  WASHINGTON DC TO GREAT FALLS AND RETURN
+DTES20240301                                                    04/19/2024  04/26/2024  STAFF TRANSPORTATION                                                             $17.23
+DTES20240303                                                    03/27/2024  03/28/2024  MISSOULA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $240.38
+DTES20240304                                                                            SENATOR TRANSPORTATION                                                         $421.09
+DTES20240307      05/14/2024  SHIVA-NANDAN ARENS                05/02/2024  05/02/2024  WASHINGTON DC TO GREAT FALLS AND RETURN
+DTES20240308      05/14/2024  SHIVA-NANDAN ARENS                05/01/2024  05/01/2024  STAFF TRANSPORTATION                                                             $35.52
+DTES20240309      05/15/2024  ALICE SMITH B WORKS               05/03/2024  05/03/2024  WASHINGTON DC TO MISSOULA AND RETURN                                              $9.71
+DTES20240310      05/16/2024  AMANDA M CASEY                    05/01/2024  05/01/2024  STAFF INCIDENTALS
+DTES20240311      05/15/2024  CHAD L CAMPBELL                   04/11/2024  05/02/2024  STAFF PER DIEM                                                                   $70.08
+DTES20240312      05/21/2024  TESTER,JON                        05/02/2024  05/07/2024  STAFF TRANSPORTATION                                                           $129.98
+DTES20240314      05/21/2024  PETER R MATT                      05/06/2024  05/06/2024  BUTTE TO GREAT FALLS AND RETURN
+DTES20240316      05/21/2024  PETER R MATT                      05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                             $79.32
+DTES20240317      05/21/2024  SHIVA-NANDAN ARENS                05/06/2024  05/06/2024  MISSOULA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $1,056.21
+DTES20240318      05/21/2024  SHIVA-NANDAN ARENS                05/07/2024  05/07/2024  STAFF TRANSPORTATION
+                  05/24/2024  TESTER,JON                        05/09/2024  05/14/2024  MISSOULA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $39.53
+                  05/23/2024  SHIVA-NANDAN ARENS                05/09/2024  05/09/2024  STAFF TRANSPORTATION                                                             $84.42
+                  05/29/2024  CAITLIN J AVEY                    05/13/2024  05/13/2024  KALISPELL TO POLSON AND RETURN                                                   $20.10
+                  05/25/2024  CAITLIN J AVEY                    05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                             $87.10
+                                                                                        HELENA TO BOZEMAN AND RETURN                                                   $954.48
+                                                                                        STAFF TRANSPORTATION
+                                                                                        KALISPELL OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $8.71
+                                                                                        SENATOR TRANSPORTATION                                                         $100.50
+                                                                                        WASHINGTON DC TO GREAT FALLS AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                             $65.66
+                                                                                        MISSOULA TO ARLEE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MISSOULA TO PABLO, ARLEE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MISSOULA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MISSOULA TO SUPERIOR AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO GREAT FALLS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MISSOULA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BOZEMAN TO ALDER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                             DATES
+DBRI20240684                                                                      AIRFARE FOR SEN BRITT MONTGOMERY TO WASHINGTON DC                              $35.00
+DBRI20240685                                              START       END         SENATOR TRANSPORTATION                                                         $65.10
+DBRI20240686                                                                      WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $106.50
+DBRI20240687      09/11/2024  KATIE BOYD BRITT            06/04/2024  06/04/2024  STAFF TRANSPORTATION                                                           $35.00
+DBRI20240692      09/12/2024  SHANDERLA DIONNE MCMILLIAN  08/29/2024  08/29/2024  HUNTSVILLE TO FLORENCE AND RETURN                                              $19.80
+                  09/14/2024  MELANIE KAY HILL            08/29/2024  08/29/2024  STAFF TRANSPORTATION                                                         $117.73
+DBRI20240693      09/12/2024  TERA R JOHNSON              08/23/2024  08/23/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $29.00
+DBRI20240694      09/17/2024  MELANIE KAY HILL            08/11/2024  08/12/2024  STAFF TRANSPORTATION                                                           $33.00
+DBRI20240695                                                                      MOBILE TO BAY MINETTE AND RETURN                                             $121.99
+                  09/12/2024  MELANIE KAY HILL            09/03/2024  09/03/2024  STAFF INCIDENTALS                                                         $1,138.24
+                  09/12/2024  KELLI R WOLFE               08/22/2024  08/31/2024  STAFF PER DIEM                                                               $699.77
+                  09/18/2024  GRACE C EVANS               08/02/2024  08/22/2024  ADDITIONAL EXPENSE FOR TRIP DOTHAN TO MONTGOMERY AND RETURN
+                                                                                  STAFF TRANSPORTATION                                                         $113.00
+DBRI20240696      09/19/2024  KELLI R WOLFE               09/04/2024  09/04/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $32.24  B-679
+DBRI20240697      09/19/2024  MARK G MCKINNON             09/03/2024  09/04/2024  STAFF TRANSPORTATION
+                                                                                  TUSCALOOSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $306.60
+DBRI20240698      09/16/2024  MELANIE KAY HILL            09/04/2024  09/04/2024  STAFF INCIDENTALS                                                              $40.00
+DBRI20240699      09/18/2024  KELLI R WOLFE               09/05/2024  09/11/2024  STAFF PER DIEM
+DBRI20240700      09/18/2024  KELLI R WOLFE               09/10/2024  09/10/2024  STAFF TRANSPORTATION                                                         $780.22
+                                                                                  WASHINGTON DC TO DALLAS TX, MOBILE, MONTGOMERY, BIRMINGHAM,                    $31.00
+DBRI20240706      09/26/2024  CLINT MANLEY REID           09/12/2024  09/14/2024  TUSCALOOSA, HUNTSVILLE, FORT PAYNE, BIRMINGHAM AND RETURN                      $68.50
+                                                                                  STAFF TRANSPORTATION                                                           $15.64
+DBRI20240707      09/27/2024  SHANDERLA DIONNE MCMILLIAN  02/21/2024  09/18/2024  COTTONDALE TO THOMASVILLE TO TUSCALOOSA                                        $78.50
+DBRI20240709      09/22/2024  KELLI R WOLFE               09/19/2024  09/19/2024  STAFF INCIDENTALS                                                              $44.70
+                                                                                  STAFF PER DIEM
+DBRI20240712      09/27/2024  KELLI R WOLFE               09/13/2024  09/18/2024  STAFF TICKET FEES                                                            $370.55
+DBRI20240715      09/29/2024  MELANIE KAY HILL            09/18/2024  09/18/2024  STAFF TRANSPORTATION                                                           $40.00
+DBRI20240716      09/29/2024  MELANIE KAY HILL            09/20/2024  09/20/2024  WASHINGTON DC TO HUNTSVILLE AND RETURN
+                                                                                  STAFF TRANSPORTATION                                                         $794.69
+                                                                                  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $1,549.50
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TUSCALOOSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $22.30
+                                                                                  STAFF PER DIEM                                                                 $66.00
+                                                                                  STAFF TRANSPORTATION                                                           $18.00
+                                                                                  COTTONDALE TO LINDEN, GREENSBORO TO TUSCALOOSA                                 $72.50
+                                                                                  STAFF INCIDENTALS                                                              $41.00
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TICKET FEES
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO MONTGOMERY AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  HUNTSVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  COTTONDALE TO UNIONTOWN, GREENSBORO TO TUSCALOOSA
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TUSCALOOSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DOTHAN TO TROY AND RETURN
+                                                                                  STAFF TRANSPORTATION
+

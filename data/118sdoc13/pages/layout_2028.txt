@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DPAU20240565                  ROBERT P GIVENS                                           STAFF TRANSPORTATION                                                         $55.02
+DPAU20240566      04/03/2024  ROBERT P GIVENS                   START       END         LOUISVILLE TO FRANKFORT AND RETURN
+                  04/09/2024                                                            STAFF INCIDENTALS                                                            $10.96
+DPAU20240567                                                    12/08/2023  12/08/2023  STAFF PER DIEM                                                             $135.00
+DPAU20240568                                                                            STAFF TRANSPORTATION                                                       $312.43
+                                                                12/11/2023  12/12/2023  LOUISVILLE TO BOWLING GREEN, CORBIN, PINE KNOT AND RETURN
+DPAU20240569                                                                            STAFF PER DIEM                                                               $23.50
+                  04/09/2024  ROBERT P GIVENS                   12/13/2023  12/14/2023  STAFF TRANSPORTATION                                                       $218.77
+DPAU20240570      04/09/2024  ROBERT P GIVENS                   01/08/2024  01/09/2024  LOUISVILLE TO OWENSBORO, FRANKFORT AND RETURN
+DPAU20240571                                                                            STAFF INCIDENTALS                                                            $14.36
+                  04/10/2024  ROBERT P GIVENS                   02/06/2024  02/08/2024  STAFF PER DIEM                                                             $107.00
+DPAU20240572                                                                            STAFF TRANSPORTATION                                                       $163.75
+DPAU20240573      04/04/2024  ROBERT P GIVENS                   02/15/2024  02/15/2024  LOUISVILLE TO BOWLING GREEN AND RETURN                                               B-1991
+DPAU20240574      04/09/2024  ROBERT P GIVENS                   03/03/2024  03/04/2024  STAFF INCIDENTALS                                                            $61.56
+DPAU20240575                                                                            STAFF PER DIEM                                                             $446.00
+DPAU20240577      04/04/2024  ROBERT P GIVENS                   03/07/2024  03/07/2024  STAFF TRANSPORTATION                                                       $488.20
+DPAU20240578                                                                            LOUISVILLE TO WASHINGTON DC AND RETURN
+DPAU20240579      04/09/2024  LAWRENCE C ARNOLD                 03/06/2024  03/06/2024  STAFF TRANSPORTATION                                                         $55.02
+DPAU20240580                                                                            LOUISVILLE TO FRANKFORT AND RETURN
+DPAU20240581      04/03/2024  WILLIAM S MATTHEWS                03/06/2024  03/06/2024  STAFF INCIDENTALS                                                            $14.36
+DPAU20240582      04/03/2024  WILLIAM S MATTHEWS                03/07/2024  03/07/2024  STAFF PER DIEM                                                             $139.00
+DPAU20240585      04/09/2024  WILLIAM S MATTHEWS                03/11/2024  03/11/2024  STAFF TRANSPORTATION                                                       $163.75
+                                                                                        LOUISVILLE TO BOWLING GREEN AND RETURN
+                  04/03/2024  WILLIAM S MATTHEWS                03/13/2024  03/13/2024  STAFF PER DIEM                                                               $25.00
+                  04/04/2024  LAWRENCE C ARNOLD                 03/08/2024  03/08/2024  STAFF TRANSPORTATION                                                         $55.02
+                  04/09/2024  LAWRENCE C ARNOLD                 03/11/2024  03/11/2024  LOUISVILLE TO FRANKFORT AND RETURN
+                                                                                        STAFF PER DIEM                                                               $19.50
+                  04/03/2024  WILLIAM S MATTHEWS                03/14/2024  03/14/2024  STAFF TRANSPORTATION                                                       $192.57
+                  04/09/2024  MARY ELIZABETH LATHAM             03/08/2024  03/08/2024  BOWLING GREEN TO FRANKFORT AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $47.16
+                  04/09/2024  WILLIAM S MATTHEWS                03/18/2024  03/18/2024  BUTLER TO FLORENCE AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $22.92
+                                                                                        BUTLER TO ALEXANDRIA AND RETURN
+                                                                                        STAFF PER DIEM                                                               $11.65
+                                                                                        STAFF TRANSPORTATION                                                       $123.14
+                                                                                        BUTLER TO BEDFORD AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $44.54
+                                                                                        BUTLER TO COVINGTON AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $44.54
+                                                                                        BOWLING GREEN TO GLASGOW AND RETURN
+                                                                                        STAFF PER DIEM                                                               $16.49
+                                                                                        STAFF TRANSPORTATION                                                       $157.20
+                                                                                        BOWLING GREEN TO LOUISVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $49.12
+                                                                                        BUTLER TO COVINGTON, FALMOUTH AND RETURN
+                                                                                        STAFF PER DIEM                                                                $7.52
+                                                                                        STAFF TRANSPORTATION                                                         $93.01
+                                                                                        LOUISVILLE TO LEXINGTON AND RETURN
+                                                                                        STAFF PER DIEM                                                               $11.65
+                                                                                        STAFF TRANSPORTATION                                                       $115.28
+

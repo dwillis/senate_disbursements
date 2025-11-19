@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                  POSTED                                             DATES
+DMCN20240773                                                                      LONDON TO PINEVILLE AND RETURN                                              $113.97
+DMCN20240774                                              START       END         STAFF TRANSPORTATION                                                          $27.51
+DMCN20240775                                                                      LONDON TO LEXINGTON AND RETURN
+DMCN20240776      06/13/2024  DONNA BAKER MCCLURE         05/28/2024  05/28/2024  STAFF TRANSPORTATION                                                        $118.55   B-1761
+DMCN20240777      06/12/2024  DONNA BAKER MCCLURE         05/29/2024  05/29/2024  LONDON TO CORBIN AND RETURN                                                   $31.44
+DMCN20240778      06/17/2024  DONNA BAKER MCCLURE         05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                          $45.85
+DMCN20240779      06/12/2024  DONNA BAKER MCCLURE         05/31/2024  05/31/2024  LONDON TO HARROGATE TN AND RETURN                                             $26.20
+DMCN20240780      06/12/2024  JOSIE A HAMMON              05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                          $34.06
+DMCN20240781      06/12/2024  JOSIE A HAMMON              05/03/2024  05/03/2024  LONDON TO CORBIN AND RETURN                                                   $26.20
+DMCN20240782      06/12/2024  JOSIE A HAMMON              05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                          $57.64
+DMCN20240783      06/12/2024  JOSIE A HAMMON              05/14/2024  05/14/2024  LOUISVILLE TO SHELBYVILLE AND RETURN                                          $52.40
+DMCN20240784      06/12/2024  JOSIE A HAMMON              05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                          $87.77
+DMCN20240785      06/12/2024  JOSIE A HAMMON              05/28/2024  05/28/2024  LOUISVILLE TO SHEPHERDSVILLE AND RETURN                                       $45.85
+                  06/12/2024  JOSIE A HAMMON              05/17/2024  05/17/2024  STAFF TRANSPORTATION
+DMCN20240786      06/12/2024  JOSIE A HAMMON              06/05/2024  06/05/2024  LOUISVILLE TO LA GRANGE AND RETURN                                          $508.45
+DMCN20240795      06/18/2024  CITIBANK - TRAVEL CBA CARD  05/26/2024  05/31/2024  STAFF TRANSPORTATION
+                                                                                  LOUISVILLE TO SHEPHERDSVILLE AND RETURN                                     $508.45
+                  06/14/2024  CITIBANK - TRAVEL CBA CARD  05/26/2024  05/31/2024  STAFF TRANSPORTATION                                                          $97.88
+                  06/25/2024  JOHN D SCHUMACHER           05/26/2024  05/31/2024  LOUISVILLE TO ELIZABETHTOWN AND RETURN
+                                                                                  STAFF TRANSPORTATION                                                        $747.78
+DMCN20240796      06/25/2024  K S AIR INC                 05/28/2024  05/28/2024  LOUISVILLE TO FORT KNOX AND RETURN                                            $14.70
+DMCN20240797      06/18/2024  STEPHANIE PENN              06/11/2024  06/11/2024  STAFF TRANSPORTATION
+DMCN20240805      06/25/2024  STEPHANIE H NELSON          06/12/2024  06/12/2024  LOUISVILLE TO LEBANON AND RETURN                                         $4,700.00
+DMCN20240806      06/25/2024  STEPHANIE H NELSON          06/13/2024  06/13/2024  STAFF TRANSPORTATION                                                          $20.99
+DMCN20240807      06/24/2024  ELIZABETH HUNTER WHITAKER   05/06/2024  05/06/2024  LOUISVILLE TO SHELBYVILLE AND RETURN                                          $99.56
+DMCN20240808      06/24/2024  ELIZABETH HUNTER WHITAKER   05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                          $56.98
+DMCN20240809      06/24/2024  ELIZABETH HUNTER WHITAKER   05/08/2024  05/08/2024  AIRFARE FOR J SCHUMACHER WASHINGTON DC TO LOUISVILLE AND
+DMCN20240810      06/24/2024  ELIZABETH HUNTER WHITAKER   05/09/2024  05/09/2024  RETURN                                                                      $141.48
+                                                                                  STAFF TRANSPORTATION                                                          $28.82
+                                                                                  AIRFARE FOR R ONGE WASHINGTON DC TO LOUISVILLE AND RETURN
+                                                                                  STAFF INCIDENTALS                                                           $102.18
+                                                                                  STAFF PER DIEM                                                                $44.54
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO LOUISVILLE, HOPKINSVILLE, FORT CAMPBELL,
+                                                                                  LEXINGTON, LOUISVILLE AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN MCCONNELL LOUISVILLE TO ASHLAND AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LEXINGTON TO MOREHEAD AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LEXINGTON TO MOUNT STERLING AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BOWLING GREEN TO HENDERSON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BOWLING GREEN TO FRANKLIN AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BOWLING GREEN TO CALHOUN AND RETURN
+                                                                                  STAFF TRANSPORTATION
+

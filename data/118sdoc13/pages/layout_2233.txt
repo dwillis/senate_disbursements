@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+                  POSTED                                              DATES
+DSDR20240431                                                                       BURLINGTON TO ALBURGH AND RETURN                                                    $160.13
+DSDR20240436                                               START       END         STAFF TRANSPORTATION                                                                $432.10
+DSDR20240437                                                                       BARRE TO ALBURGH, MIDDLEBURY AND RETURN                                             $293.10
+DSDR20240438      08/08/2024  HALEY E PERO                 07/27/2024  07/27/2024  SENATOR TRANSPORTATION                                                              $293.10   B-2196
+DSDR20240442      08/13/2024  CITIBANK - SENATOR IBA CARD  07/22/2024  07/22/2024  AIRFARE FOR SEN SANDERS BURLINGTON TO WASHINGTON DC                                 $432.10
+DSDR20240444      08/08/2024  CITIBANK - SENATOR IBA CARD  07/25/2024  07/25/2024  SENATOR TRANSPORTATION
+DSDR20240445      08/08/2024  CITIBANK - SENATOR IBA CARD  07/29/2024  07/29/2024  AIRFARE FOR SEN SANDERS WASHINGTON DC TO BURLINGTON                                   $66.12
+DSDR20240446      08/13/2024  CITIBANK - SENATOR IBA CARD  06/05/2024  06/05/2024  SENATOR TRANSPORTATION                                                                $52.39
+DSDR20240447      08/14/2024  ETHAN D HINCH                06/05/2024  06/05/2024  AIRFARE FOR SEN SANDERS BURLINGTON TO WASHINGTON DC                                 $105.86
+DSDR20240448      08/14/2024  ETHAN D HINCH                06/13/2024  06/13/2024  SENATOR TRANSPORTATION                                                              $138.69
+DSDR20240449      08/13/2024  ETHAN D HINCH                07/17/2024  07/17/2024  AIRFARE FOR SEN SANDERS WASHINGTON DC TO BURLINGTON                                   $37.58
+DSDR20240450      08/13/2024  ETHAN D HINCH                07/18/2024  07/18/2024  STAFF TRANSPORTATION                                                                  $25.86
+DSDR20240451      08/14/2024  ETHAN D HINCH                07/30/2024  07/30/2024  BURLINGTON TO JOHNSON, MORRISVILLE AND RETURN                                       $115.91
+DSDR20240452      08/14/2024  ETHAN D HINCH                07/31/2024  07/31/2024  STAFF TRANSPORTATION                                                                  $58.29
+                  08/13/2024  RYAN M JOSEPH                08/01/2024  08/01/2024  BURLINGTON TO MONTPELIER AND RETURN                                                 $117.92
+DSDR20240453      08/15/2024  RYAN M JOSEPH                07/31/2024  07/31/2024  STAFF TRANSPORTATION
+DSDR20240454      08/13/2024  HALEY E PERO                 07/31/2024  07/31/2024  BURLINGTON TO PEACHAM, BARNET AND RETURN                                              $43.55
+                                                                                   STAFF TRANSPORTATION                                                                $414.73
+DSDR20240459      08/14/2024  NATHANIEL J BISCOTTI         07/31/2024  07/31/2024  BURLINGTON TO RANDOLPH, HARTLAND, HARTFORD AND RETURN
+DSDR20240460      08/22/2024  ELIZABETH ALMA STERN         07/22/2024  08/05/2024  STAFF TRANSPORTATION                                                                  $72.36
+DSDR20240463                                                                       BURLINGTON TO WATERBURY AND RETURN                                                  $110.55
+DSDR20240464      08/29/2024  RYAN M JOSEPH                08/15/2024  08/15/2024  STAFF TRANSPORTATION
+                  08/29/2024  ETHAN D HINCH                08/16/2024  08/16/2024  BURLINGTON TO SOUTH HERO AND RETURN                                                   $49.51
+DSDR20240465      09/10/2024  RYAN M JOSEPH                08/20/2024  08/20/2024  STAFF TRANSPORTATION                                                                  $12.49
+DSDR20240470      09/11/2024  ELIZABETH ALMA STERN         08/21/2024  08/21/2024  BURLINGTON TO HARDWICK, BARNET AND RETURN                                           $174.20
+                                                                                   STAFF TRANSPORTATION
+                  09/10/2024  ETHAN D HINCH                08/20/2024  08/20/2024  BURLINGTON TO SOUTH HERO, ALBURGH, SOUTH HERO AND RETURN                              $58.29
+                  09/11/2024  RYAN M JOSEPH                08/29/2024  08/29/2024  STAFF TRANSPORTATION                                                                  $75.71
+                                                                                   BURLINGTON TO ALBURGH, ISLE LA MOTTE, NORTH HERO, ALBURGH TO
+                                                                                   BARRE
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BURLINGTON TO NORTH HERO AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   PLAINFIELD TO THE FOLLOWING AND RETURN: 7/22 JOHNSON; 7/23 BERLIN;
+                                                                                   8/2, 5 SAINT JOHNSBURY; 7/31 BURLINGTON TO SOUTH HERO AND RETURN;
+                                                                                   8/1 BURLINGTON TO MIDDLEBURY, CASTLETON, RUTLAND, BENNINGTON
+                                                                                   TO PLAINFIELD
+                                                                                   STAFF TRANSPORTATION
+                                                                                   HINESBURG TO ROCHESTER, WAITSFIELD AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BURLINGTON TO NEWPORT AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BURLINGTON TO GRAND ISLE, SOUTH HERO AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   PLAINFIELD TO BRATTLEBORO, WINDSOR, WHITE RIVER JUNCTION AND
+                                                                                   RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BURLINGTON TO SWANTON AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   HINESBURG TO MONTPELIER, MORRISVILLE TO BURLINGTON
+

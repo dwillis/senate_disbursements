@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                             DATES
+DCAN20240576                                                                      SPOKANE TO CLARKSTON AND RETURN                                            $100.23
+DCAN20240577                                              START       END         STAFF TRANSPORTATION                                                         $24.79
+DCAN20240578                                                                      SPOKANE TO PULLMAN AND RETURN
+DCAN20240579      07/29/2024  RILEY B SMITH               07/15/2024  07/15/2024  STAFF TRANSPORTATION                                                       $119.93   B-775
+DCAN20240580      07/25/2024  FARAZ M ZARGHAMI            07/15/2024  07/15/2024  SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $492.83
+DCAN20240581      07/29/2024  FARAZ M ZARGHAMI            07/17/2024  07/17/2024  STAFF TRANSPORTATION                                                       $614.84
+DCAN20240582      07/29/2024  CALLEY N HAIR               07/14/2024  07/16/2024  SEATTLE TO ANACORTES AND RETURN                                            $742.05
+DCAN20240583      07/31/2024  ANSLEY G LACITIS            07/14/2024  07/18/2024  STAFF TRANSPORTATION                                                       $441.20
+DCAN20240584      07/29/2024  ANSLEY G LACITIS            06/23/2024  06/27/2024  WASHINGTON DC TO SEATTLE AND RETURN                                        $283.30
+DCAN20240585      07/29/2024  DEVIN HELFRICH              07/18/2024  07/19/2024  STAFF TRANSPORTATION
+DCAN20240586      07/30/2024  PAUL T QUINONEZ FIGUEROA    07/18/2024  07/19/2024  WASHINGTON DC TO SEATTLE AND RETURN                                          $66.90
+DCAN20240587      07/29/2024  PAUL T QUINONEZ FIGUEROA    07/15/2024  07/15/2024  STAFF TRANSPORTATION                                                         $26.99
+DCAN20240588      07/29/2024  PAUL T QUINONEZ FIGUEROA    07/15/2024  07/15/2024  WASHINGTON DC TO SEATTLE AND RETURN                                        $125.47
+DCAN20240589      07/30/2024  PAUL T QUINONEZ FIGUEROA    07/17/2024  07/17/2024  STAFF TRANSPORTATION
+DCAN20240590      07/29/2024  JOSEPHINE L MCKINLEY        06/24/2024  06/24/2024  SEATTLE TO SPOKANE AND RETURN                                                 $4.42
+DCAN20240591      07/29/2024  JOSEPHINE L MCKINLEY        06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                         $21.64
+DCAN20240592      07/29/2024  JOSEPHINE L MCKINLEY        07/10/2024  07/10/2024  SEATTLE TO SPOKANE AND RETURN                                                $26.86
+DCAN20240593      07/29/2024  JOSEPHINE L MCKINLEY        07/11/2024  07/11/2024  STAFF TRANSPORTATION
+DCAN20240594      07/29/2024  JOSEPHINE L MCKINLEY        07/18/2024  07/18/2024  SEATTLE TO EDMONDS AND RETURN                                                 $3.61
+DCAN20240595      07/30/2024  JOSEPHINE L MCKINLEY        07/17/2024  07/17/2024  STAFF TRANSPORTATION                                                         $50.45
+DCAN20240599      07/29/2024  JOSEPHINE L MCKINLEY        07/16/2024  07/16/2024  SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $116.58
+DCAN20240603      07/29/2024  JOSEPHINE L MCKINLEY        07/22/2024  07/22/2024  STAFF TRANSPORTATION                                                         $22.71
+DCAN20240604      07/29/2024  JOSEPHINE L MCKINLEY        07/14/2024  07/14/2024  SEATTLE TO EDMONDS AND RETURN                                                $51.45
+DCAN20240608      08/02/2024  CITIBANK - TRAVEL CBA CARD  07/13/2024  07/20/2024  STAFF TRANSPORTATION                                                         $26.93
+                  07/31/2024  CITIBANK - TRAVEL CBA CARD  07/22/2024  07/22/2024  SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $303.20
+                  07/31/2024  CITIBANK - TRAVEL CBA CARD  07/11/2024  07/11/2024  STAFF TRANSPORTATION                                                       $650.10
+                  08/06/2024  SOPHIA M SWAIN              07/01/2024  07/22/2024  SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $336.10
+                                                                                  STAFF TRANSPORTATION                                                       $692.16
+                                                                                  SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  EDMONDS TO ANACORTES AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR A RONEN WASHINGTON DC TO SEATTLE AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN CANTWELL SEATTLE TO WASHINGTON DC
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN CANTWELL WASHINGTON DC TO SEATTLE
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO SEATTLE, KENMORE, ANACORTES, KENMORE,
+                                                                                  SEATTLE, KENMORE, SEATTLE, KENMORE, SEATTLE AND RETURN
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                          DATES
+DCRU20240717                                                                   SAN ANTONIO TO CORPUS CHRISTI, ARANSAS PASS AND RETURN                       $24.00
+                                                       START       END         STAFF PER DIEM                                                             $113.08
+DCRU20240718                                                                   STAFF TRANSPORTATION                                                       $109.77
+DCRU20240719      05/29/2024  JAVIER D SALINAS         05/03/2024  05/03/2024  SAN ANTONIO TO CORPUS CHRISTI, KINGSVILLE AND RETURN                       $251.25
+DCRU20240720                                                                   STAFF TRANSPORTATION
+                  05/29/2024  JAVIER D SALINAS         05/09/2024  05/09/2024  SAN ANTONIO TO CORPUS CHRISTI AND RETURN                                     $89.97
+DCRU20240721      05/29/2024  JAVIER D SALINAS         04/01/2024  04/30/2024  STAFF TRANSPORTATION                                                       $630.55
+DCRU20240722      05/29/2024  BRANDON JAMES SIMON      05/06/2024  05/09/2024  SAN ANTONIO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                    $1,284.11
+DCRU20240723                                                                   STAFF INCIDENTALS
+DCRU20240724      05/24/2024  BRANDON JAMES SIMON      04/30/2024  04/30/2024  STAFF PER DIEM                                                               $73.36
+                  05/24/2024  BRANDON JAMES SIMON      04/01/2024  04/30/2024  STAFF TRANSPORTATION                                                         $86.09
+DCRU20240725      05/29/2024  BRANDON JAMES SIMON      05/02/2024  05/02/2024  GEORGETOWN TO WASHINGTON DC AND RETURN                                     $115.24
+DCRU20240726      06/11/2024  BETHANY C STEVENS        04/03/2024  04/06/2024  STAFF TRANSPORTATION                                                       $124.68
+DCRU20240727                                                                   GEORGETOWN TO CAMERON AND RETURN                                           $947.90
+DCRU20240730      05/29/2024  GIOVANNI CATANZARO       05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                       $537.49   B-1047
+DCRU20240731      05/29/2024  BLAKE T VINEYARD         05/13/2024  05/13/2024  AUSTIN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $177.55
+DCRU20240732      05/29/2024  BLAKE T VINEYARD         05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                       $159.46
+DCRU20240733      05/22/2024  KELLY WHITMIRE WATERMAN  03/02/2024  03/02/2024  GEORGETOWN TO STONEWALL AND RETURN                                         $159.46
+DCRU20240734      05/29/2024  KELLY WHITMIRE WATERMAN  03/05/2024  03/05/2024  STAFF INCIDENTALS
+DCRU20240735      05/24/2024  KELLY WHITMIRE WATERMAN  03/06/2024  03/06/2024  STAFF PER DIEM                                                                $9.98
+DCRU20240736      05/24/2024  KELLY WHITMIRE WATERMAN  03/07/2024  03/07/2024  STAFF TRANSPORTATION                                                       $162.81
+DCRU20240737      05/24/2024  KELLY WHITMIRE WATERMAN  03/08/2024  03/08/2024  WASHINGTON DC TO NEW YORK NY AND RETURN
+DCRU20240738      05/24/2024  KELLY WHITMIRE WATERMAN  03/12/2024  03/12/2024  STAFF TRANSPORTATION                                                         $30.61
+DCRU20240739      05/24/2024  KELLY WHITMIRE WATERMAN  03/13/2024  03/13/2024  FORT WORTH TO BRECKENRIDGE AND RETURN                                        $37.31
+DCRU20240740      05/29/2024  KELLY WHITMIRE WATERMAN  03/14/2024  03/14/2024  STAFF TRANSPORTATION                                                         $46.69
+                  05/24/2024  KELLY WHITMIRE WATERMAN  03/19/2024  03/19/2024  LUBBOCK TO CANYON AND RETURN                                                 $41.54
+                  05/29/2024  KELLY WHITMIRE WATERMAN  03/20/2024  03/20/2024  STAFF TRANSPORTATION                                                         $36.98
+                  05/29/2024  KELLY WHITMIRE WATERMAN  03/21/2024  03/21/2024  LUBBOCK TO CANYON AND RETURN                                               $121.27
+                                                                               STAFF TRANSPORTATION                                                         $12.86
+                                                                               HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $162.14
+                                                                               STAFF TRANSPORTATION                                                       $119.26
+                                                                               HOUSTON TO POINT COMFORT AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               HOUSTON TO KOUNTZE AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               HOUSTON TO VICTORIA AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               HOUSTON TO BEAUMONT AND RETURN
+

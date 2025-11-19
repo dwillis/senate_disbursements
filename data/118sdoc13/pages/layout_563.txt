@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DBLA20241398                  MICHAEL L HENSLEY                                         STAFF TRANSPORTATION                                                       $124.62
+DBLA20241399      05/24/2024  MICHAEL L HENSLEY                 START       END         KNOXVILLE TO JONESBOROUGH AND RETURN                                       $119.93
+DBLA20241400      05/24/2024  JAMES M WYATT                                             STAFF TRANSPORTATION                                                       $116.58
+DBLA20241401      05/24/2024  MICHAEL L HENSLEY                 04/30/2024  04/30/2024  KNOXVILLE TO TELFORD AND RETURN                                            $101.84
+DBLA20241402      05/24/2024  JAMES M WYATT                                             STAFF TRANSPORTATION
+DBLA20241403      05/23/2024  MICHAEL L HENSLEY                 04/27/2024  04/27/2024  JACKSON TO MEMPHIS AND RETURN                                                $85.76
+DBLA20241404      05/23/2024  MICHAEL L HENSLEY                                         STAFF TRANSPORTATION                                                         $79.73
+DBLA20241405      05/23/2024  JAMES M WYATT                     05/08/2024  05/08/2024  KNOXVILLE TO AFTON AND RETURN                                                $77.72
+DBLA20241406      05/23/2024  JAMES M WYATT                                             STAFF TRANSPORTATION                                                         $65.66
+DBLA20241407      05/23/2024  JAMES M WYATT                     05/03/2024  05/03/2024  JACKSON TO UNION CITY AND RETURN                                             $58.96
+DBLA20241408      05/23/2024  JAMES M WYATT                                             STAFF TRANSPORTATION                                                         $57.62
+DBLA20241409      05/23/2024  PABLO A MARTINEZ                  05/07/2024  05/07/2024  KNOXVILLE TO COSBY AND RETURN                                                $52.93
+DBLA20241410      05/23/2024  CALEB ADDISON HASLETT                                     STAFF TRANSPORTATION                                                         $42.21
+DBLA20241411      05/23/2024  CALEB ADDISON HASLETT             05/09/2024  05/09/2024  KNOXVILLE TO HARROGATE AND RETURN                                            $38.86
+DBLA20241412      05/23/2024  PABLO A MARTINEZ                                          STAFF TRANSPORTATION                                                         $32.16
+DBLA20241413      05/23/2024  PABLO A MARTINEZ                  04/26/2024  04/26/2024  JACKSON TO RIPLEY AND RETURN                                                 $26.13
+DBLA20241414      05/23/2024  BRIGID MARY K MCDONNELL                                   STAFF TRANSPORTATION                                                         $14.74
+                  05/24/2024                                    05/03/2024  05/03/2024  JACKSON TO MCKENZIE AND RETURN                                               $48.94
+                                                                                        STAFF TRANSPORTATION                                                       $389.53
+                                                                05/06/2024  05/06/2024  JACKSON TO HUNTINGDON AND RETURN                                             $40.00
+                                                                                        STAFF TRANSPORTATION                                                       $873.94
+                                                                05/02/2024  05/02/2024  JACKSON TO WAVERLY AND RETURN                                                $27.04
+                                                                                        STAFF TRANSPORTATION                                                       $107.20
+                                                                04/24/2024  04/24/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $21.87  B-545
+                                                                                        STAFF TRANSPORTATION                                                       $104.52
+                                                                05/10/2024  05/10/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $110.31
+                                                                                        STAFF TRANSPORTATION                                                       $982.29
+                                                                05/14/2024  05/14/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $402.19
+                                                                                        STAFF TRANSPORTATION
+                                                                05/13/2024  05/13/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $22.49
+                                                                                        STAFF TRANSPORTATION                                                         $74.37
+                                                                05/13/2024  05/13/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF INCIDENTALS
+                                                                05/13/2024  05/13/2024  STAFF PER DIEM
+                                                                                        STAFF TICKET FEES
+                                                                05/12/2024  05/14/2024  STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO KNOXVILLE AND RETURN
+DBLA20241415      05/30/2024  WILLIAM A GUFFEE                  05/10/2024  05/10/2024  STAFF PER DIEM
+DBLA20241416      05/30/2024  WILLIAM A GUFFEE                  05/13/2024  05/13/2024  STAFF TRANSPORTATION
+DBLA20241417      05/29/2024  WILLIAM A GUFFEE                  05/06/2024  05/09/2024  CHATTANOOGA TO PHILADELPHIA AND RETURN
+                                                                                        STAFF PER DIEM
+DBLA20241418      05/25/2024  PABLO A MARTINEZ                  05/14/2024  05/14/2024  STAFF TRANSPORTATION
+                                                                                        CHATTANOOGA TO SWEETWATER AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHATTANOOGA TO SWEETWATER, NASHVILLE, WASHINGTON DC,
+                                                                                        ARLINGTON VA, WASHINGTON DC, NASHVILLE AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION            AMOUNT ($)
+                   POSTED                                                  DATES
+DVAC20240537                  TIMOTHY RYAN SCHNEIDER                                    STAFF TRANSPORTATION                                                                    $4.02
+DVAC20240538      05/02/2024  TIMOTHY RYAN SCHNEIDER            START       END         TOLEDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                        $22.75
+                  05/02/2024                                                            STAFF PER DIEM                                                                         $73.70
+DVAC20240539                  TIMOTHY RYAN SCHNEIDER            04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                                   $17.50
+                  05/02/2024                                                            TOLEDO TO SANDUSKY AND RETURN                                                          $71.02
+DVAC20240540                  TIMOTHY RYAN SCHNEIDER            04/24/2024  04/24/2024  STAFF PER DIEM
+DVAC20240541      05/02/2024  ROY GENE PALMER III                                       STAFF TRANSPORTATION                                                                    $2.01
+DVAC20240542      05/02/2024  ROY GENE PALMER III               04/25/2024  04/25/2024  TOLEDO TO TIFFIN AND RETURN                                                            $25.05
+                  05/07/2024                                                            STAFF TRANSPORTATION
+DVAC20240543                  ROY GENE PALMER III               04/25/2024  04/25/2024  TOLEDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                         $7.00
+DVAC20240544      05/02/2024  TIMOTHY RYAN SCHNEIDER            04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                                 $107.20
+DVAC20240545      05/02/2024  KELLEN F GARMON                   04/26/2024  04/26/2024  TOLEDO TO SWANTON AND RETURN
+DVAC20240546      05/02/2024  PETER DAVID MARBACH                                       STAFF PER DIEM                                                                          $6.03
+DVAC20240547      05/03/2024  NICHOLAS W MORGAN                 04/22/2024  04/22/2024  STAFF TRANSPORTATION                                                                    $2.68  B-2488
+DVAC20240549      05/03/2024  PETER DAVID MARBACH               04/26/2024  04/26/2024  TOLEDO TO LIMA AND RETURN                                                              $79.06
+DVAC20240550      05/07/2024  JOSEPH MICHAEL ABNER              04/24/2024  04/24/2024  STAFF TRANSPORTATION                                                                   $93.13
+                  05/14/2024                                    04/25/2024  04/25/2024  TOLEDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                        $42.21
+DVAC20240552                  TIMOTHY RYAN SCHNEIDER            04/23/2024  04/25/2024  STAFF TRANSPORTATION                                                                   $60.30
+                  05/17/2024                                    04/30/2024  04/30/2024  TOLEDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      $168.84
+DVAC20240553                  TIMOTHY RYAN SCHNEIDER            04/24/2024  04/30/2024  STAFF TRANSPORTATION
+DVAC20240554      05/14/2024  TIMOTHY RYAN SCHNEIDER                                    TOLEDO TO DEFIANCE, NAPOLEON AND RETURN                                                $20.28
+                  05/17/2024                                    04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                                 $184.95
+DVAC20240555                  MARK A OZANICK                                            COLUMBUS TO BUCYRUS, DELAWARE TO HILLIARD
+DVAC20240556      06/27/2024  TIMOTHY RYAN SCHNEIDER            05/01/2024  05/01/2024  STAFF TRANSPORTATION                                                                   $38.86
+DVAC20240557      05/14/2024  KELLEN F GARMON                   05/02/2024  05/02/2024  CINCINNATI TO THE FOLLOWING AND RETURN: 4/23 DAYTON; 4/25 FAIRFIELD                    $17.36
+DVAC20240560      05/14/2024  NICHOLAS W MORGAN                                         STAFF TRANSPORTATION                                                                 $100.50
+DVAC20240567      05/15/2024  JAMES M COYNE                     05/03/2024  05/03/2024  HILLIARD TO HEATH TO COLUMBUS                                                          $10.80
+DVAC20240568      05/21/2024  JAMES M COYNE                     05/03/2024  05/03/2024  STAFF TRANSPORTATION                                                                   $16.75
+                  05/21/2024                                    05/03/2024  05/03/2024  COVINGTON KY TO THE FOLLOWING AND RETURN: 4/24 FAIRBORN; 4/30                          $75.04
+                                                                04/29/2024  05/02/2024  DAYTON                                                                               $195.64
+                                                                04/30/2024  04/30/2024  STAFF PER DIEM                                                                       $127.30
+                                                                05/03/2024  05/03/2024  STAFF TRANSPORTATION                                                                 $233.16
+                                                                                        TOLEDO TO CLEVELAND AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TOLEDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TOLEDO TO PAULDING AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CLEVELAND OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TOLEDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TOLEDO TO DEFIANCE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CINCINNATI TO THE FOLLOWING AND RETURN: 4/29, 30 SIDNEY; 5/2 DAYTON
+                                                                                        STAFF TRANSPORTATION
+                                                                                        COLUMBUS TO MIDDLETOWN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        COLUMBUS TO WILMINGTON, WADSWORTH AND RETURN
+

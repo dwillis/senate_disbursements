@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DSTH20240501                  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                           $266.10
+DSTH20240502      07/25/2024  CITIBANK - SENATOR IBA CARD       START       END         AIRFARE FOR SEN SMITH WASHINGTON DC TO MINNEAPOLIS                               $517.10
+DSTH20240503      07/24/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                           $266.10
+DSTH20240504      07/24/2024  CITIBANK - SENATOR IBA CARD       06/08/2024  06/08/2024  AIRFARE FOR SEN SMITH WASHINGTON DC TO MINNEAPOLIS                               $266.10
+DSTH20240505      07/24/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                           $517.10
+DSTH20240506      07/24/2024  CITIBANK - SENATOR IBA CARD       06/13/2024  06/13/2024  AIRFARE FOR SEN SMITH MINNEAPOLIS TO WASHINGTON DC                               $191.10
+DSTH20240507      07/24/2024  OLAYEMI J FADAHUNSI                                       SENATOR TRANSPORTATION
+                  07/25/2024                                    06/11/2024  06/11/2024  AIRFARE FOR SEN SMITH WASHINGTON DC TO MINNEAPOLIS                                 $19.61
+DSTH20240508                  SARAH E SANDGREN                                          SENATOR TRANSPORTATION                                                           $272.65
+DSTH20240509      07/21/2024  JORDAN K SCHROEER                 06/20/2024  06/20/2024  AIRFARE FOR SEN SMITH MINNEAPOLIS TO WASHINGTON DC
+                  07/30/2024                                                            SENATOR TRANSPORTATION                                                             $12.75
+DSTH20240510                  PETER D MAKOWSKI                  06/17/2024  06/17/2024  AIRFARE FOR SEN SMITH WASHINGTON DC TO MINNEAPOLIS                                 $17.75
+DSTH20240511      07/29/2024  PETER D MAKOWSKI                                          STAFF INCIDENTALS                                                                $158.10
+DSTH20240512      07/29/2024  PETER D MAKOWSKI                  07/11/2024  07/11/2024  STAFF PER DIEM                                                                     $20.40
+DSTH20240513      07/29/2024  PETER D MAKOWSKI                                          SAINT PAUL TO MOUNTAIN IRON TO MOUNTAIN IRON                                       $45.90
+DSTH20240514      07/30/2024  OLAYEMI J FADAHUNSI               07/15/2024  07/16/2024  STAFF TRANSPORTATION                                                               $66.30
+DSTH20240515      07/29/2024  OLAYEMI J FADAHUNSI                                       SAINT PAUL OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $102.00
+DSTH20240516      07/29/2024  CARSON A OUELLETTE                07/16/2024  07/16/2024  STAFF PER DIEM
+DSTH20240517      07/30/2024                                    07/17/2024  07/17/2024  STAFF TRANSPORTATION                                                                $9.74
+                              CARSON A OUELLETTE                                        MOORHEAD TO BLACKDUCK AND RETURN                                                    $4.99
+DSTH20240518      07/30/2024                                    07/10/2024  07/10/2024  STAFF TRANSPORTATION                                                             $351.90   B-2359
+                              CARSON A OUELLETTE                07/11/2024  07/11/2024  VIRGINIA TO CHISHOLM AND RETURN
+DSTH20240519      07/30/2024                                    07/16/2024  07/16/2024  STAFF TRANSPORTATION                                                               $33.29
+                              ANNA L MCCLOSKEY                  07/17/2024  07/17/2024  VIRGINIA TO CALUMET AND RETURN                                                   $257.55
+DSTH20240520      08/05/2024                                    07/18/2024  07/18/2024  STAFF TRANSPORTATION
+                                                                07/19/2024  07/19/2024  VIRGINIA TO COHASSET AND RETURN                                                    $20.80
+DSTH20240521                                                    06/25/2024  06/27/2024  STAFF TRANSPORTATION                                                             $112.20
+                                                                                        VIRGINIA TO BENA AND RETURN
+                                                                06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                               $37.19
+                                                                                        SAINT PAUL OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $363.88
+                                                                07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                             $489.00
+                                                                                        SAINT PAUL OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                07/11/2024  07/21/2024  STAFF TRANSPORTATION                                                               $14.85
+                                                                                        MOORHEAD TO THE FOLLOWING AND RETURN: 6/25 THIEF RIVER FALLS; 6                  $129.00
+                  07/31/2024  AMY J KORBA                       07/16/2024  07/17/2024  /26 MORRIS; 6/27 ALEXANDRIA                                                      $264.18
+                                                                                        STAFF PER DIEM
+                  07/30/2024  JESSA N MUELLER                   07/16/2024  07/17/2024  STAFF TRANSPORTATION                                                               $33.35
+                                                                                        MOORHEAD TO SAINT PAUL AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MOORHEAD TO ALEXANDRIA AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO BEMIDJI AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SAINT PAUL TO BEMIDJI, BENA, BLACKDUCK AND RETURN
+                                                                                        STAFF INCIDENTALS
+

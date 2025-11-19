@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+              POSTED                                             DATES
+                                                                              STAFF TRANSPORTATION                                                         $214.22
+                                                      START       END         WASHINGTON DC TO LAS VEGAS AND RETURN                                        $103.38
+                                                                              STAFF INCIDENTALS                                                            $206.30
+DROS20240386  07/02/2024  DAVID LEE BOIRE             06/12/2024  06/14/2024  STAFF PER DIEM                                                               $168.65
+                                                                              STAFF TRANSPORTATION                                                         $138.21
+DROS20240387  07/03/2024  ELYSSA S GOLDMAN            06/03/2024  06/20/2024  RENO TO LAS VEGAS AND RETURN                                                 $334.41   B-2128
+DROS20240388  07/18/2024  CHRISTIAN X JONES           06/04/2024  06/30/2024  STAFF TRANSPORTATION
+DROS20240391  07/17/2024  CANDACE A WELLS             06/01/2024  06/30/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $6.43
+DROS20240392  07/17/2024  NETHMINI S HAPPAWANA        06/01/2024  06/30/2024  STAFF TRANSPORTATION                                                         $201.87
+DROS20240396  07/18/2024  ABBEY LYNN PIKE             05/31/2024  06/28/2024  LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $549.86
+DROS20240397  07/19/2024  ABBEY LYNN PIKE             06/13/2024  06/13/2024  STAFF TRANSPORTATION
+DROS20240398  07/18/2024  MOLLY R LEWIS               06/03/2024  06/27/2024  LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $29.69
+DROS20240406  07/18/2024  CITIBANK - TRAVEL CBA CARD  07/01/2024  07/03/2024  STAFF TRANSPORTATION                                                         $105.72
+DROS20240407  07/22/2024  CITIBANK - TRAVEL CBA CARD  07/08/2024  07/11/2024  LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $485.96
+DROS20240408  07/20/2024  CITIBANK - TRAVEL CBA CARD  07/11/2024  07/11/2024  STAFF TRANSPORTATION                                                         $554.93
+DROS20240412  07/25/2024  DAVID LEE BOIRE             07/08/2024  07/11/2024  RENO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $342.10
+                                                                              STAFF PER DIEM                                                               $154.05
+DROS20240416  07/29/2024  CITIBANK - TRAVEL CBA CARD  07/15/2024  07/15/2024  RENO TO FALLON AND RETURN                                                    $245.91
+DROS20240417  07/29/2024  CITIBANK - TRAVEL CBA CARD  07/12/2024  07/17/2024  STAFF TRANSPORTATION                                                         $305.05
+DROS20240418  07/29/2024  CITIBANK - TRAVEL CBA CARD  07/11/2024  07/21/2024  RENO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $531.97
+DROS20240419  07/31/2024  NICOLE M ECHETO             07/11/2024  07/21/2024  SENATOR TRANSPORTATION                                                       $778.95
+                                                                              AIRFARE FOR SEN ROSEN LAS VEGAS TO RENO AND RETURN                           $506.20
+DROS20240420  07/29/2024  CITIBANK - TRAVEL CBA CARD  07/12/2024  07/21/2024  STAFF TRANSPORTATION
+              07/31/2024  MOLLY R LEWIS               07/26/2024  07/26/2024  AIRFARE FOR D BOIRE RENO TO LAS VEGAS AND RETURN                               $54.00
+DROS20240423  08/06/2024  ALEXANDER N GOFF            07/15/2024  07/15/2024  SENATOR TRANSPORTATION                                                         $39.51
+              08/07/2024  ERIC A CARDONA              06/06/2024  07/26/2024  AIRFARE FOR SEN ROSEN WASHINGTON DC TO LAS VEGAS                             $596.03
+DROS20240426                                                                  STAFF INCIDENTALS                                                            $449.71
+DROS20240427                                                                  STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION                                                           $23.17
+                                                                              RENO TO LAS VEGAS AND RETURN                                                   $76.38
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR J BUSH LAS VEGAS TO RENO AND RETURN                                 $8.30
+                                                                              STAFF TRANSPORTATION                                                         $550.60
+                                                                              AIRFARE FOR A MARTINEZ LAS VEGAS TO RENO AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR N ECHETO WASHINGTON DC TO RENO AND RETURN
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO RENO, SPARKS, RENO AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR N TEUTLE-LOPEZ WASHINGTON DC TO RENO, LAS VEGAS
+                                                                              AND RETURN
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              RENO TO STATELINE AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              RENO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

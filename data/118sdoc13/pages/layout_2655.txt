@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                             DATES
+DWEL20240338                                                                      WASHINGTON DC TO BURLINGTON AND RETURN                                        $628.20
+DWEL20240339                                              START       END         STAFF TRANSPORTATION                                                            $20.00
+DWEL20240340                                                                      AIRFARE FOR C SMITH WASHINGTON DC TO BURLINGTON AND RETURN
+                  06/03/2024  CITIBANK - TRAVEL CBA CARD  05/13/2024  05/14/2024  STAFF TRANSPORTATION                                                          $586.19
+DWEL20240341      05/29/2024  CITIBANK - TRAVEL CBA CARD  05/11/2024  05/14/2024  AIRFARE FOR C SMITH WASHINGTON DC TO BURLINGTON AND RETURN
+DWEL20240342      05/29/2024  CITIBANK - TRAVEL CBA CARD  05/12/2024  05/14/2024  STAFF TRANSPORTATION                                                            $30.00
+DWEL20240343                                                                      AIRFARE FOR L WAGNER OVESON WASHINGTON DC TO BURLINGTON AND                   $586.19
+DWEL20240344      05/24/2024  CITIBANK - TRAVEL CBA CARD  05/07/2024  05/07/2024  RETURN                                                                        $586.19   B-2618
+DWEL20240345      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/11/2024  05/14/2024  TICKET FEES                                                                   $586.19
+DWEL20240346      06/04/2024  CITIBANK - TRAVEL CBA CARD  05/11/2024  05/14/2024  STAFF TRANSPORTATION                                                          $586.19
+DWEL20240347      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/10/2024  05/14/2024  AIRFARE FOR C DEPONTE WASHINGTON DC TO BURLINGTON AND RETURN                  $586.19
+DWEL20240348      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/10/2024  05/14/2024  STAFF TRANSPORTATION                                                          $586.19
+DWEL20240349      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/10/2024  05/14/2024  AIRFARE FOR B ROSS WASHINGTON DC TO BURLINGTON AND RETURN                     $586.19
+DWEL20240350      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/10/2024  05/14/2024  STAFF TRANSPORTATION                                                          $586.19
+DWEL20240351      06/04/2024  CITIBANK - TRAVEL CBA CARD  05/11/2024  05/14/2024  AIRFARE FOR A SLAIMEN WASHINGTON DC TO BURLINGTON AND RETURN                  $586.19
+DWEL20240352      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/10/2024  05/14/2024  STAFF TRANSPORTATION                                                          $586.19
+DWEL20240353      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/10/2024  05/14/2024  AIRFARE FOR S SAVAGE WASHINGTON DC TO BURLINGTON AND RETURN                   $586.19
+DWEL20240354      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/09/2024  05/14/2024  STAFF TRANSPORTATION                                                          $586.19
+DWEL20240355      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/13/2024  05/14/2024  AIRFARE FOR A WHITE WASHINGTON DC TO BURLINGTON AND RETURN                    $586.19
+DWEL20240356      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/13/2024  05/14/2024  STAFF TRANSPORTATION                                                          $586.19
+DWEL20240357      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/13/2024  05/14/2024  AIRFARE FOR S SHETH WASHINGTON DC TO BURLINGTON AND RETURN                    $586.19
+DWEL20240358      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/13/2024  05/15/2024  STAFF TRANSPORTATION                                                          $586.19
+DWEL20240359      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/13/2024  05/14/2024  AIRFARE FOR P BIGGS WASHINGTON DC TO BURLINGTON AND RETURN                    $586.19
+DWEL20240360      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/13/2024  05/14/2024  STAFF TRANSPORTATION                                                          $586.19
+                  06/05/2024  CITIBANK - TRAVEL CBA CARD  05/13/2024  05/14/2024  AIRFARE FOR L KAUTH WASHINGTON DC TO BURLINGTON AND RETURN                    $586.19
+DWEL20240361      06/05/2024  CITIBANK - TRAVEL CBA CARD  05/13/2024  05/14/2024  STAFF TRANSPORTATION
+                  06/05/2024  CITIBANK - TRAVEL CBA CARD  05/13/2024  05/14/2024  AIRFARE FOR J VAN OOT WASHINGTON DC TO BURLINGTON AND RETURN                  $586.19
+                                                                                  STAFF TRANSPORTATION
+                  06/05/2024  CITIBANK - TRAVEL CBA CARD  05/13/2024  05/14/2024  AIRFARE FOR A LYNN WASHINGTON DC TO BURLINGTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR J FERENC WASHINGTON DC TO BURLINGTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR A WHITE WASHINGTON DC TO BURLINGTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR E ST ONGE WASHINGTON DC TO BURLINGTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR M PALIN WASHINGTON DC TO BURLINGTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR D DAVIS WASHINGTON DC TO BURLINGTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR T DEEN WASHINGTON DC TO BURLINGTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR J WALSH WASHINGTON DC TO BURLINGTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR J SPENCE WASHINGTON DC TO BURLINGTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR D ALEXANDER WASHINGTON DC TO BURLINGTON AND
+                                                                                  RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR A THORPE WASHINGTON DC TO BURLINGTON AND RETURN
+

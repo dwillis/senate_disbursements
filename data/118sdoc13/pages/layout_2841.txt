@@ -1,0 +1,57 @@
+DOCUMENT NO.    DATE      PAYEE NAME                      OBLIGATION/SERVICE      DESCRIPTION                                                               AMOUNT ($)
+              POSTED                                                 DATES
+                                                                                                                                                                              $18.96
+                                                          START       END                                                                                                   $346.74
+
+DENR20240143  09/24/2024  RENAE L BLACK                   08/25/2024                        ARLINGTON VA TO WASHINGTON, DENVER, LARAMIE, DENVER,                              $45.95
+DENR20240144  09/24/2024  CHRISTOPHER LEE BOWMAN                                            WASHINGTON AND RETURN                                                           $462.21
+DENR20240145  09/24/2024  SAM E FOWLER                    08/26/2024   08/28/2024 STAFF PER DIEM
+DENR20240146  09/24/2024  ALYSE S. HUFFMAN                                                  STAFF TRANSPORTATION                                                            $414.06
+                                                          08/26/2024                        WASHINGTON DC TO LANSING WV AND RETURN
+DENR20240147  09/24/2024  SARAH A KESSEL                  08/26/2024   08/28/2024 STAFF PER DIEM                                                                              $30.27
+DENR20240148  09/24/2024  SAMUEL M LANE                                                     STAFF TRANSPORTATION                                                            $252.62
+                                                          08/26/2024                        WASHINGTON DC TO LANSING WV AND RETURN
+DENR20240149  09/24/2024  CHARLOTTE G LARACY              08/26/2024   08/28/2024 STAFF TRANSPORTATION                                                                        $37.39  B-2-50
+                                                                                            ARLINGTON VA TO LANSING WV AND RETURN
+DENR20240150  09/24/2024  SEAN W MULLIN                   08/26/2024   08/28/2024 STAFF PER DIEM                                                                              $13.91
+              09/24/2024  CHRISTOPHER J OSMAN                                               STAFF TRANSPORTATION                                                            $107.00
+DENR20240151  09/24/2024  DANIEL A PALKEN                 08/26/2024                        WASHINGTON DC TO HYATTSVILLE MD, LANSING WV, HYATTSVILLE AND                    $435.50
+                                                          08/26/2024                        RETURN
+DENR20240152  09/24/2024  MELANIE R THORNTON              08/26/2024   08/28/2024 STAFF PER DIEM                                                                              $20.41
+              09/24/2024  ZAHAVA R URECKI                                                   WASHINGTON DC TO FAYETTEVILLE WV, LANSING WV AND RETURN                         $221.87
+DENR20240153  09/25/2024  ADVENTURE WV LLC                08/26/2024   08/29/2024 STAFF INCIDENTALS
+              09/24/2024  DANIEL A PALKEN                 08/26/2024                        STAFF PER DIEM                                                                    $36.21
+DENR20240154                                              08/26/2024                        STAFF TRANSPORTATION
+                                                          09/17/2024                        WASHINGTON DC TO FAYETTEVILLE WV, LANSING WV, LEWISBURG WV AND                    $45.81
+DENR20240155                                                                                RETURN
+                                                          02/28/2024   08/28/2024 STAFF PER DIEM                                                                              $19.12
+DENR20240156                                              03/12/2024                        STAFF TRANSPORTATION                                                            $421.15
+                                                          03/21/2024                        WASHINGTON DC TO LANSING WV AND RETURN
+DENR20240044                                              04/10/2024   08/28/2024 STAFF PER DIEM                                                                              $29.31
+DENR20240058                                              04/16/2024                        WASHINGTON DC TO LANSING WV AND RETURN
+DENR20240059                                              05/02/2024   08/28/2024 STAFF PER DIEM                                                                              $21.50
+DENR20240068                                              05/15/2024                        WASHINGTON DC TO FAYETTEVILLE WV, LANSING WV AND RETURN
+DENR20240069                                              05/16/2024   08/28/2024 STAFF PER DIEM                                                                         $6,880.00
+DENR20240094                                              05/21/2024                        STAFF TRANSPORTATION
+DENR20240095                                              05/30/2024                        WASHINGTON DC TO LANSING WV AND RETURN                                            $40.98
+DENR20240096                                                           08/28/2024 STAFF PER DIEM
+DENR20240097                                                                                WASHINGTON DC TO FAYETTEVILLE WV, LANSING WV AND RETURN                     $29,286.55
+DENR20240098                                                           08/28/2024 STAFF PER DIEM                                                                            $392.00
+                                                                                            WASHINGTON DC TO LANSING WV AND RETURN                                          $712.00
+                                                                       08/28/2024 STAFF PER DIEM                                                                            $784.00
+                                                                                            PER DIEM FOR STAFF RETREAT HELD IN LANSING WV                                   $328.00
+                                                                       09/17/2024 STAFF TRANSPORTATION                                                                      $744.00
+                                                                                            INTERDEPARTMENTAL TRANSPORTATION                                                $744.00
+                                                                      TRAVEL AND TRANSPORTATION OF PERSONS                                                                  $456.00
+                                                                                                                                                                            $536.00
+              04/03/2024  TRUSTPOINT COURT REPORTING LLC              02/28/2024  STENOGRAPHIC SERVICES                                                                     $664.00
+              05/02/2024  TRUSTPOINT COURT REPORTING LLC              03/12/2024  STENOGRAPHIC SERVICES                                                                     $219.95
+              05/02/2024  TRUSTPOINT COURT REPORTING LLC              03/21/2024  STENOGRAPHIC SERVICES
+              06/13/2024  TRUSTPOINT COURT REPORTING LLC              04/10/2024  STENOGRAPHIC SERVICES
+              06/13/2024  TRUSTPOINT COURT REPORTING LLC              04/16/2024  STENOGRAPHIC SERVICES
+              06/28/2024  TRUSTPOINT COURT REPORTING LLC              05/02/2024  STENOGRAPHIC SERVICES
+              06/28/2024  TRUSTPOINT COURT REPORTING LLC              05/15/2024  STENOGRAPHIC SERVICES
+              06/28/2024  TRUSTPOINT COURT REPORTING LLC              05/16/2024  STENOGRAPHIC SERVICES
+              07/01/2024  TRUSTPOINT COURT REPORTING LLC              05/21/2024  STENOGRAPHIC SERVICES
+              07/18/2024  CITIBANK - PURCHASE CARD                    05/30/2024  VOICE, DATA COMM EQP MAINT
+

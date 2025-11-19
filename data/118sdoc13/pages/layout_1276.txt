@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DGRL20240514                  JACOB I BOSSMAN                                           STAFF TRANSPORTATION                                                          $134.67
+DGRL20240515      06/07/2024  JACOB I BOSSMAN                   START       END         SIOUX CITY TO HARLAN AND RETURN                                                  $9.58
+DGRL20240516      06/10/2024  NOAH A SCHRAD                                             STAFF PER DIEM
+DGRL20240517                  RONALD J RANDAZZO                 05/28/2024  05/28/2024  STAFF TRANSPORTATION                                                          $180.23
+DGRL20240518      06/06/2024  JACOB I BOSSMAN                                           SIOUX CITY TO DAKOTA CITY, FORT DODGE, MANSON AND RETURN
+DGRL20240519                  PENNY VACEK                       05/30/2024  05/30/2024  STAFF PER DIEM                                                                  $14.52
+DGRL20240520      06/06/2024  JENNIFER HEINS DAVIS                                      STAFF TRANSPORTATION                                                            $95.14
+                  06/06/2024                                    05/30/2024  05/30/2024  GRIMES TO CRESTON TO DES MOINES
+DGRL20240521                                                                            STAFF TRANSPORTATION                                                            $76.38
+DGRL20240522      06/06/2024                                    05/30/2024  05/30/2024  DES MOINES TO HUMESTON AND RETURN
+                  06/10/2024                                    05/29/2024  05/29/2024  STAFF PER DIEM                                                                   $5.33
+                                                                                        STAFF TRANSPORTATION                                                            $61.64
+                                                                05/30/2024  05/30/2024  SIOUX CITY TO SIOUX CENTER AND RETURN
+                                                                05/20/2024  05/23/2024  STAFF TRANSPORTATION                                                            $48.91
+                                                                                        DAVENPORT TO MUSCATINE AND RETURN
+                  06/10/2024  JENNIFER HEINS DAVIS              05/28/2024  05/29/2024  STAFF INCIDENTALS                                                             $123.45   B-1258
+                  06/10/2024  JENNIFER HEINS DAVIS              05/29/2024  05/30/2024  STAFF PER DIEM                                                                $774.00
+                                                                                        STAFF TRANSPORTATION                                                          $673.20
+DGRL20240523      06/06/2024  CAROL D OLSON                     05/22/2024  05/22/2024  DES MOINES TO WASHINGTON DC AND RETURN
+DGRL20240524      06/06/2024  CAROL D OLSON                     05/23/2024  05/23/2024  STAFF INCIDENTALS                                                               $12.84
+DGRL20240525      06/06/2024  CAROL D OLSON                     05/24/2024  05/24/2024  STAFF PER DIEM                                                                $140.47
+DGRL20240534      06/18/2024  MATTHEW C RECTOR                  05/27/2024  05/29/2024  DES MOINES TO GLENWOOD, COUNCIL BLUFFS AND RETURN
+                                                                                        STAFF INCIDENTALS                                                               $12.84
+DGRL20240535      06/12/2024  ROCHELLE A FULLER                 05/29/2024  05/30/2024  STAFF PER DIEM                                                                $119.03
+DGRL20240536                                                                            STAFF TRANSPORTATION                                                          $159.46
+DGRL20240537      06/12/2024  ROCHELLE A FULLER                 05/31/2024  05/31/2024  DES MOINES TO CEDAR FALLS, NEW HARTFORD, FORT DODGE, NEW
+                  06/27/2024  MATTHEW C RECTOR                  05/30/2024  05/30/2024  HARTFORD AND RETURN                                                             $48.24
+DGRL20240538                                                                            STAFF TRANSPORTATION
+                  06/25/2024  MATTHEW C RECTOR                  05/31/2024  05/31/2024  DES MOINES TO WINTERSET AND RETURN                                               $7.04
+                                                                                        STAFF PER DIEM                                                                  $79.06
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DES MOINES TO GREENFIELD AND RETURN                                             $13.58
+                                                                                        STAFF PER DIEM                                                                  $84.42
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DES MOINES TO JEFFERSON AND RETURN                                            $139.52
+                                                                                        STAFF PER DIEM                                                                $216.85
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DENVER TO CEDAR RAPIDS, ATLANTIC, RED OAK, GLENWOOD, COUNCIL                    $17.19
+                                                                                        BLUFFS, RANDOLPH, SHENANDOAH, LENOX, CORNING AND RETURN                       $140.83
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                          $146.73
+                                                                                        SOLON TO CEDAR RAPIDS, DECORAH, CEDAR RAPIDS AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                            $14.79
+                                                                                        SOLON TO MARSHALLTOWN, BROOKLYN AND RETURN                                    $120.84
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                          $155.11
+                                                                                        DENVER TO CEDAR RAPIDS, ALGONA, DAKOTA CITY, FORT DODGE,
+                                                                                        MANSON, CEDAR RAPIDS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WATERLOO TO CEDAR FALLS, LA PORTE CITY AND RETURN
+

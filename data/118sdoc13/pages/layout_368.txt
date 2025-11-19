@@ -1,0 +1,65 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME      OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                      DATES
+VSAA22404870                  JOHNSON CONTROLS                                              AUDIO, VISUAL EQUIP MAINT                                                  $508.54
+VSAA22404871      06/03/2024  JOHNSON CONTROLS                      START       END         AUDIO, VISUAL EQUIP MAINT                                                  $508.54
+VSAA22404872      06/05/2024  JOHNSON CONTROLS                                              AUDIO, VISUAL EQUIP MAINT                                                  $472.49
+VSAA22404873      06/05/2024  JOHNSON CONTROLS                      12/22/2022  12/22/2022  AUDIO, VISUAL EQUIP MAINT                                                  $441.90   B-350
+VSAA22404874      05/31/2024  JOHNSON CONTROLS                      12/21/2022  12/21/2022  AUDIO, VISUAL EQUIP MAINT                                                  $832.94
+VSAA22404875      06/04/2024  JOHNSON CONTROLS                      12/05/2022  12/05/2022  AUDIO, VISUAL EQUIP MAINT                                                  $580.63
+VSAA22404876      06/06/2024  JOHNSON CONTROLS                      12/14/2022  12/14/2022  AUDIO, VISUAL EQUIP MAINT                                                  $616.67
+VSAA22404877      05/31/2024  JOHNSON CONTROLS                      12/15/2022  12/15/2022  AUDIO, VISUAL EQUIP MAINT                                                  $688.76
+VSAA22404878      06/06/2024  JOHNSON CONTROLS                      12/22/2022  12/22/2022  AUDIO, VISUAL EQUIP MAINT                                                  $760.85
+VSAA22404888      06/06/2024  HEWLETT PACKARD ENTERPRISE            12/01/2022  12/01/2022  VOICE, DATA COMM EQP MAINT                                              $2,832.76
+                              COMPANY                               12/28/2022  12/28/2022
+VSAA22405054      04/26/2024  HEWLETT PACKARD ENTERPRISE            12/21/2022  12/21/2022  VOICE, DATA COMM EQP MAINT                                              $1,682.64
+                              COMPANY
+VSAA22405065      04/25/2024  SPECIAL AEROSPACE SECURITY            02/21/2024  03/20/2024  MANAGEMENT CONSULTANTS                                               $236,648.70
+VSAA22405076                  SERVICES, INC                                                 APPLICATION SOFTWARE MAINT                                             $90,760.20
+VSAA22405187      05/31/2024  AMERICAN SYSTEMS CORPORATION          03/21/2024  04/20/2024  TECHNICAL SUPPORT                                                      $69,513.53
+VSAA22405211                  IRON MOUNTAIN DBA CROZIER FINE ARTS                           TECHNICAL SUPPORT                                                      $68,519.00
+VSAA22405214      05/07/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS   03/11/2024  04/10/2024  TECHNICAL SUPPORT                                                      $69,513.53
+VSAA22405215      05/03/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS                           TECHNICAL SUPPORT                                                      $68,519.00
+VSAA22405341      05/16/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS   04/01/2024  04/30/2024  PRODUCTION EQUIP MAINT                                                       $85.99
+                  05/21/2024  KONICA MINOLTA BUSINESS SOLUTIONS U.  03/01/2024  03/31/2024
+VSAA22405342      05/16/2024  S.A.                                  03/01/2024  03/31/2024  PRODUCTION EQUIP MAINT                                                     $317.62
+                              KONICA MINOLTA BUSINESS SOLUTIONS U.  04/01/2024  04/30/2024
+VSAA22405458      05/14/2024  S.A.                                  04/01/2024  04/30/2024  VOICE, DATA COMM EQP MAINT                                              $2,832.76
+VSAA22405531                  HEWLETT PACKARD ENTERPRISE                                    APPLICATION SOFTWARE MAINT                                                 $213.00
+VSAA22405552      05/14/2024  COMPANY                               10/01/2021  12/31/2021  NON-FEDERAL FAC MAINT, REPAIR
+VSAA22405553                  LEIDOS DIGITAL SOLUTIONS INC                                  MANAGEMENT CONSULTANTS                                                 $14,588.00
+VSAA22405756      05/17/2024  TOTAL SECURITY SOLUTIONS INC          01/01/2022  03/31/2022  VOICE, DATA COMM EQP MAINT                                             $15,618.32
+VSAA22405827                  TEKSYNAP CORPORATION                                          VOICE, DATA COMM EQP MAINT
+VSAA22405841      05/23/2024  HEWLETT PACKARD ENTERPRISE            03/21/2024  04/20/2024  VOICE, DATA COMM EQP MAINT                                              $1,682.64
+VSAA22405989      06/06/2024  COMPANY                                                       APPLICATION SOFTWARE MAINT                                           $126,433.00
+VSAA22406080      05/23/2024  PFINIX LLC                            12/27/2022  12/27/2022  MANAGEMENT CONSULTANTS
+VSAA22406091                  HEWLETT PACKARD ENTERPRISE            03/18/2024  03/18/2024  NON-FEDERAL FAC MAINT, REPAIR                                           $2,832.76
+VSAA22406094      05/31/2024  COMPANY                               04/01/2024  04/30/2024  MANAGEMENT CONSULTANTS                                                     $600.00
+VSAA22406159                  LEIDOS DIGITAL SOLUTIONS INC                                  NON-FEDERAL FAC MAINT, REPAIR                                              $426.42
+VSAA22406174      06/13/2024  ALTERION INC                          04/21/2024  05/20/2024  TECHNICAL SUPPORT
+VSAA22406291                  QNA CONTRACTING INC                                           PHYSICAL SECURITY                                                      $27,182.68
+VSAA22406372      06/03/2024  TEKSYNAP CORPORATION                  06/01/2024  05/31/2025  VOICE, DATA COMM EQP MAINT                                             $15,618.32
+VSAA22406373                  TOTAL SECURITY SOLUTIONS INC                                  VOICE, DATA COMM EQP MAINT                                             $15,567.00
+VSAA22406374      06/13/2024  LIFECARE INC                          04/21/2024  05/20/2024  VOICE, DATA COMM EQP MAINT
+VSAA22406484      06/18/2024  U S CAPITOL POLICE                                            NON-FEDERAL FAC MAINT, REPAIR                                           $2,126.63
+VSAA22406516      06/18/2024  MOTOROLA SOLUTIONS INC                03/01/2023  03/01/2023  VOICE, DATA COMM EQP MAINT                                             $45,204.75
+VSAA22406583      06/12/2024  MOTOROLA SOLUTIONS INC                05/01/2024  05/31/2024  TECHNICAL SUPPORT
+VSAA22406611      06/18/2024  MOTOROLA SOLUTIONS INC                04/01/2024  05/28/2024  IT SECURITY                                                             $9,909.79
+VSAA22406794      06/25/2024  BAILEY MARSHALL CORPORATION           05/01/2024  05/31/2024  MANAGEMENT CONSULTANTS                                                  $9,909.79
+VSAA22406872      06/13/2024  HEWLETT PACKARD ENTERPRISE            03/18/2024  03/18/2024  MANAGEMENT CONSULTANTS                                                  $9,909.79
+VSAA22406922      06/28/2024  COMPANY                               05/01/2024  05/31/2024  TECHNICAL SUPPORT                                                       $7,720.93
+                  06/28/2024  PERATON ENTERPRISE SOLUTIONS          02/18/2024  02/26/2024                                                                          $1,682.64
+                  06/28/2024  SPECIAL AEROSPACE SECURITY            02/23/2024  03/22/2024                                                                         $25,460.32
+                  07/20/2024  SERVICES, INC                         03/23/2024  04/22/2024                                                                         $33,256.31
+                              TEKSYNAP CORPORATION                  04/23/2024  05/22/2024                                                                         $15,618.32
+                  07/20/2024  ALTERION INC                          02/14/2024  02/14/2024
+                              LIFECARE INC                                                                                                                             $213.21
+                  07/15/2024                                        05/21/2024  06/20/2024                                                                          $3,325.22
+
+                  07/15/2024                                        04/02/2024  04/02/2024
+
+                  07/15/2024                                        09/26/2023  11/19/2023
+                  07/19/2024
+                  07/19/2024                                        06/01/2024  06/30/2024
+                                                                    06/01/2024  06/30/2024
+                                                                    06/01/2024  06/30/2024
+

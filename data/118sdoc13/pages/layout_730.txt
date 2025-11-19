@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                             DATES
+DBRN20241080                                                                      AIRFARE FOR D MARTINEAU RICHMOND BRITISH COLUMBIA TO DAYTON                    $249.47
+DBRN20241081                                              START       END         STAFF TRANSPORTATION                                                             $30.00
+                                                                                  TICKET FEES
+DBRN20241082      09/10/2024  CITIBANK - TRAVEL CBA CARD  08/16/2024  08/16/2024  AIRFARE FOR D MARTINEAU PITTSBURGH PA TO WASHINGTON DC                         $467.57
+DBRN20241083      09/11/2024  CITIBANK - TRAVEL CBA CARD                          STAFF TRANSPORTATION                                                             $30.00
+DBRN20241084                                              08/12/2024  08/16/2024  TICKET FEES
+DBRN20241085                                                                      AIRFARE FOR B FLYNN WASHINGTON DC TO CLEVELAND, PITTSBURGH PA                    $20.10
+DBRN20241086      09/11/2024  KAMERON W ANDERSON          08/27/2024  08/27/2024  AND RETURN                                                                     $436.21   B-712
+DBRN20241090      09/11/2024  CITIBANK - TRAVEL CBA CARD  08/13/2024  08/16/2024  STAFF TRANSPORTATION
+DBRN20241092      09/11/2024  CITIBANK - TRAVEL CBA CARD  08/13/2024  08/15/2024  DAYTON TO SPRINGFIELD AND RETURN                                                 $30.00
+                  09/12/2024  CITIBANK - TRAVEL CBA CARD  08/06/2024  08/06/2024  STAFF TRANSPORTATION                                                           $318.19
+DBRN20241093      09/12/2024  ELAINE N VILEM              08/22/2024  08/22/2024  TICKET FEES
+DBRN20241094      09/10/2024  JAMES T HUFFER-COLE         08/28/2024  08/28/2024  AIRFARE FOR W KING WASHINGTON DC TO CLEVELAND AND RETURN                         $40.00
+DBRN20241095      09/13/2024  CHAD L BOLT                 08/13/2024  08/15/2024  STAFF TRANSPORTATION                                                           $209.11
+DBRN20241096                                                                      TICKET FEES
+DBRN20241097      09/12/2024  JORDAN T PENNELL            08/28/2024  08/28/2024  AIRFARE FOR C BOLT WASHINGTON DC TO CLEVELAND AND RETURN                         $30.00
+DBRN20241098      09/12/2024  JORDAN T PENNELL            08/29/2024  08/29/2024  STAFF TRANSPORTATION                                                             $32.27
+DBRN20241099      09/13/2024  KALEB KNOWLTON              07/30/2024  07/30/2024  TICKET FEES                                                                    $283.41
+                  09/13/2024  KALEB KNOWLTON              08/01/2024  08/01/2024  AIRFARE FOR L BARNES BUFFALO NY TO WASHINGTON DC                                 $37.52
+DBRN20241100      09/13/2024  KALEB KNOWLTON              08/06/2024  08/06/2024  STAFF PER DIEM                                                                   $52.50
+DBRN20241101      09/12/2024  JOSEPH MICHAEL GILLIGAN     08/22/2024  08/28/2024  STAFF TRANSPORTATION                                                           $372.45
+DBRN20241102      09/13/2024  KALEB KNOWLTON              08/08/2024  08/09/2024  CLEVELAND TO PIKETON AND RETURN                                                $350.46
+                                                                                  STAFF TRANSPORTATION                                                             $30.82
+                  09/13/2024  KALEB KNOWLTON              08/19/2024  08/19/2024  LOUISVILLE TO AKRON AND RETURN                                                   $30.82
+                  09/13/2024  KALEB KNOWLTON              08/20/2024  08/20/2024  STAFF INCIDENTALS                                                              $196.98
+                  09/12/2024  EMMA MARIE SPEYER           08/27/2024  08/27/2024  STAFF PER DIEM                                                                 $120.60
+                                                                                  STAFF TRANSPORTATION                                                           $195.64
+                                                                                  WASHINGTON DC TO CLEVELAND AND RETURN                                            $74.10
+                                                                                  STAFF TRANSPORTATION                                                             $21.93
+                                                                                  YOUNGSTOWN TO WARREN AND RETURN                                                $151.20
+                                                                                  STAFF TRANSPORTATION                                                           $275.37
+                                                                                  YOUNGSTOWN TO WARREN AND RETURN                                                $123.28
+                                                                                  STAFF TRANSPORTATION                                                           $124.62
+                                                                                  MINGO JUNCTION TO COLUMBUS AND RETURN                                            $81.07
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINGO JUNCTION TO COSHOCTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINGO JUNCTION TO COLUMBUS AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  COLUMBUS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINGO JUNCTION TO ATHENS, CHILLICOTHE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINGO JUNCTION TO ZANESVILLE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINGO JUNCTION TO ZANESVILLE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  COLUMBUS TO BELLEFONTAINE AND RETURN
+

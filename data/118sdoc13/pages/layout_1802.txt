@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                   POSTED                                                  DATES
+DMCN20240895                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                              $506.20
+DMCN20240897      07/16/2024  CITIBANK - TRAVEL CBA CARD        START       END         AIRFARE FOR J HAMMON HEBRON TO WASHINGTON DC AND RETURN                           $549.36
+                  07/11/2024                                                            STAFF TRANSPORTATION
+DMCN20240898                  CITIBANK - TRAVEL CBA CARD        06/09/2024  06/11/2024  AIRFARE FOR M ALVEY AS FOLLOWS: 6/9 LOUISVILLE TO WASHINGTON DC;                  $527.60
+DMCN20240899      07/11/2024  CITIBANK - TRAVEL CBA CARD                                6/11 WASHINGTON DC TO PADUCAH                                                     $227.48
+DMCN20240900      07/10/2024  CITIBANK - TRAVEL CBA CARD        06/09/2024  06/11/2024  STAFF TRANSPORTATION                                                              $752.38
+DMCN20240901      07/23/2024  CITIBANK - TRAVEL CBA CARD                                AIRFARE FOR S NELSON LEXINGTON TO WASHINGTON DC                                $1,128.38
+DMCN20240902      07/23/2024  CITIBANK - TRAVEL CBA CARD        06/09/2024  06/09/2024  STAFF TRANSPORTATION                                                              $752.38   B-1765
+DMCN20240903      07/23/2024  CITIBANK - TRAVEL CBA CARD        06/11/2024  06/11/2024  AIRFARE FOR S NELSON WASHINGTON DC TO LEXINGTON                                   $752.38
+DMCN20240905      07/23/2024  CITIBANK - TRAVEL CBA CARD        06/09/2024  06/11/2024  STAFF PER DIEM                                                                    $752.38
+DMCN20240906      07/23/2024  CITIBANK - TRAVEL CBA CARD        06/10/2024  06/12/2024  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN WASHINGTON DC                         $752.38
+DMCN20240909      07/23/2024  STEPHANIE H NELSON                06/09/2024  06/11/2024  STAFF PER DIEM                                                                    $115.28
+DMCN20240910      07/18/2024  STEPHANIE H NELSON                06/09/2024  06/11/2024  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN WASHINGTON DC
+DMCN20240914      07/16/2024  K S AIR INC                       06/09/2024  06/11/2024  STAFF PER DIEM                                                                      $26.85
+DMCN20240915      07/22/2024  STEPHANIE H NELSON                06/09/2024  06/11/2024  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN WASHINGTON DC                      $5,500.00
+DMCN20240916      07/18/2024  K S AIR INC                       07/02/2024  07/02/2024  STAFF PER DIEM
+DMCN20240924      07/22/2024  STEPHANIE H NELSON                07/08/2024  07/08/2024  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN WASHINGTON DC                           $10.48
+DMCN20240928      07/18/2024  STEPHANIE H NELSON                07/02/2024  07/02/2024  STAFF PER DIEM                                                                 $5,250.00
+DMCN20240936      07/21/2024  STEPHANIE H NELSON                07/10/2024  07/10/2024  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN WASHINGTON DC
+                  07/23/2024                                    07/03/2024  07/03/2024  STAFF PER DIEM                                                                      $34.71
+DMCN20240937                  MEGAN M BANKEMPER                 07/11/2024  07/11/2024  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN WASHINGTON DC                           $70.08
+                  07/23/2024                                    07/15/2024  07/15/2024  STAFF TRANSPORTATION                                                              $123.51
+DMCN20240938                  STEPHANIE H NELSON                06/09/2024  06/11/2024  RICHMOND TO BEREA, FRENCHBURG TO LEXINGTON                                        $206.46
+DMCN20240939      07/23/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                                $99.81
+                  07/23/2024                                    06/10/2024  06/12/2024  LEXINGTON TO GEORGETOWN AND RETURN                                                $259.23
+DMCN20240940                  DONNA BAKER MCCLURE                                       SENATOR TRANSPORTATION                                                              $34.06
+                  07/23/2024                                    07/18/2024  07/18/2024  AIRFARE FOR SEN MCCONNELL LOUISVILLE TO MURRAY AND RETURN                         $128.93
+DMCN20240941                  STEPHANIE H NELSON                06/08/2024  06/11/2024  STAFF TRANSPORTATION                                                              $106.77
+                  07/23/2024                                                            LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $219.68
+                                                                06/09/2024  06/11/2024  SENATOR TRANSPORTATION                                                            $276.45
+                                                                                        AIRFARE FOR SEN MCCONNELL LOUISVILLE TO PIKEVILLE AND RETURN                        $28.16
+                                                                07/19/2024  07/19/2024  STAFF TRANSPORTATION
+                                                                                        LEXINGTON TO FRANKFORT AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LEXINGTON TO CAMPTON AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RICHMOND TO LEXINGTON, WASHINGTON DC, LEXINGTON AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FORT THOMAS TO HEBRON, WASHINGTON DC, HEBRON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LEXINGTON TO FRANKFORT, GEORGETOWN AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PADUCAH TO LOUISVILLE, WASHINGTON DC, LOUISVILLE AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONDON TO LEXINGTON, WASHINGTON DC, LEXINGTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+              POSTED                                          DATES
+                                                                           STAFF TRANSPORTATION                                                                $31.76
+                                                   START       END         WASHINGTON DC TO ATLANTA AND RETURN                                                 $29.08
+                                                                           STAFF INCIDENTALS                                                                 $321.87
+DOSS20240912  09/05/2024  SARA ELISABETH EISEMANN  05/23/2024  05/24/2024  STAFF PER DIEM                                                                    $168.88
+                                                                           STAFF TRANSPORTATION
+DOSS20240913  08/12/2024  SARA ELISABETH EISEMANN  07/25/2024  07/26/2024  WASHINGTON DC TO JACKSONVILLE FL, JEKYLL ISLAND, JACKSONVILLE FL                    $34.24  B-1954
+                                                                           AND RETURN                                                                        $211.29
+DOSS20240914  08/13/2024  ALEJANDRO L WHITE        07/02/2024  07/02/2024  STAFF INCIDENTALS
+DOSS20240915  08/13/2024  ALEJANDRO L WHITE        07/03/2024  07/03/2024  STAFF PER DIEM                                                                      $20.63
+DOSS20240916  08/09/2024  ALEJANDRO L WHITE        07/09/2024  07/09/2024  WASHINGTON DC TO ATLANTA AND RETURN                                                 $22.11
+                                                                           STAFF TRANSPORTATION                                                                $21.35
+DOSS20240917  08/13/2024  ALEJANDRO L WHITE        07/11/2024  07/11/2024  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $111.35
+DOSS20240918  08/09/2024  ALEJANDRO L WHITE        07/15/2024  07/15/2024  STAFF TRANSPORTATION
+                                                                           ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                     $5.49
+DOSS20240919  08/13/2024  ALEJANDRO L WHITE        07/16/2024  07/16/2024  STAFF PER DIEM                                                                      $21.12
+DOSS20240920  08/13/2024  ALEJANDRO L WHITE        07/17/2024  07/17/2024  STAFF TRANSPORTATION                                                              $182.24
+DOSS20240921  08/13/2024  ALEJANDRO L WHITE        07/18/2024  07/18/2024  SHARPSBURG TO COLUMBUS AND RETURN                                                   $37.58
+DOSS20240922  08/13/2024  ALEJANDRO L WHITE        07/22/2024  07/22/2024  STAFF TRANSPORTATION                                                                $28.27
+DOSS20240923  08/13/2024  ALEJANDRO L WHITE        07/23/2024  07/23/2024  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                    $43.28
+DOSS20240924  08/13/2024  ALEJANDRO L WHITE        07/31/2024  07/31/2024  STAFF PER DIEM                                                                      $26.46
+DOSS20240925  08/13/2024  HOPE L IGLEHART          04/07/2024  04/12/2024  STAFF TRANSPORTATION                                                                $33.63
+                                                                           SHARPSBURG TO LAFAYETTE, ROME AND RETURN                                            $35.97
+DOSS20240929  08/09/2024  REGINALD G COFER         07/26/2024  07/26/2024  STAFF TRANSPORTATION                                                              $206.95
+DOSS20240930  08/09/2024  HOPE L IGLEHART          05/16/2024  05/16/2024  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $1,519.00
+DOSS20240931  08/13/2024  REGINALD G COFER         07/31/2024  07/31/2024  STAFF TRANSPORTATION                                                              $201.82
+DOSS20240932  08/13/2024  HOPE L IGLEHART          05/20/2024  05/20/2024  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $128.64
+DOSS20240933  08/09/2024  HOPE L IGLEHART          07/30/2024  07/30/2024  STAFF TRANSPORTATION                                                              $139.36
+DOSS20240934  08/09/2024  HOPE L IGLEHART          06/12/2024  06/12/2024  SHARPSBURG TO ATLANTA AND RETURN                                                    $16.75
+                                                                           STAFF TRANSPORTATION                                                                $60.30
+                                                                           ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $140.70
+                                                                           STAFF TRANSPORTATION                                                              $143.38
+                                                                           SHARPSBURG TO BUCKHEAD TO ATLANTA
+                                                                           STAFF TRANSPORTATION
+                                                                           SHARPSBURG TO SMYRNA TO ATLANTA
+                                                                           STAFF INCIDENTALS
+                                                                           STAFF PER DIEM
+                                                                           STAFF TRANSPORTATION
+                                                                           ATHENS TO WASHINGTON DC, ATLANTA AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           AUGUSTA TO ATHENS AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           ATHENS TO ROME AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           AUGUSTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           ATHENS TO GAINESVILLE AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           ATHENS TO DALTON AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           ATHENS TO CARTERSVILLE AND RETURN
+

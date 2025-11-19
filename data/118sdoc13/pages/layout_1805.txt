@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DMCN20240992                  DONNA BAKER MCCLURE                                       STAFF TRANSPORTATION                                                         $99.56
+DMCN20240993      08/07/2024  DONNA BAKER MCCLURE               START       END         LONDON TO SOMERSET AND RETURN                                              $153.92
+DMCN20240994      08/07/2024  DONNA BAKER MCCLURE                                       STAFF TRANSPORTATION
+DMCN20240995      08/07/2024  DONNA BAKER MCCLURE               06/26/2024  06/26/2024  LONDON TO LEXINGTON AND RETURN                                               $77.29
+DMCN20240996      08/07/2024  DONNA BAKER MCCLURE                                       STAFF TRANSPORTATION                                                         $79.25
+                  08/19/2024                                    06/27/2024  06/27/2024  LONDON TO SOMERSET AND RETURN                                                $22.34
+DMCN20240997                                                                            STAFF TRANSPORTATION                                                       $294.91
+DMCN20240998                                                    06/28/2024  06/28/2024  LONDON TO SOMERSET AND RETURN                                              $254.14
+DMCN20240999                                                                            STAFF INCIDENTALS                                                          $169.64
+DMCN20241000                                                    07/01/2024  07/01/2024  STAFF PER DIEM                                                               $47.81
+DMCN20241001                                                                            STAFF TRANSPORTATION                                                       $143.44
+DMCN20241002                                                    07/02/2024  07/03/2024  LONDON TO PIKEVILLE AND RETURN                                               $34.71
+DMCN20241003                                                                            STAFF TRANSPORTATION                                                         $90.39
+DMCN20241004      08/07/2024  DONNA BAKER MCCLURE               07/08/2024  07/08/2024  LONDON TO WHITESBURG AND RETURN                                              $98.90  B-1768
+DMCN20241005      08/07/2024  DONNA BAKER MCCLURE               07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                         $48.47
+DMCN20241006      08/07/2024  DONNA BAKER MCCLURE               07/10/2024  07/10/2024  LONDON TO CORBIN AND RETURN                                                  $22.92
+DMCN20241007      08/07/2024  DONNA BAKER MCCLURE               07/12/2024  07/12/2024  STAFF TRANSPORTATION                                                         $22.92
+DMCN20241013      08/07/2024  DONNA BAKER MCCLURE               07/15/2024  07/15/2024  LONDON TO PRESTONSBURG AND RETURN                                          $109.38
+DMCN20241014      08/07/2024  DONNA BAKER MCCLURE               07/16/2024  07/16/2024  STAFF TRANSPORTATION                                                         $78.60
+DMCN20241015      08/07/2024  DONNA BAKER MCCLURE               07/17/2024  07/17/2024  LONDON TO CORBIN AND RETURN                                                $706.10
+DMCN20241016      08/07/2024  DONNA BAKER MCCLURE               07/19/2024  07/19/2024  STAFF TRANSPORTATION                                                       $124.11
+DMCN20241017      08/07/2024  DONNA BAKER MCCLURE               07/22/2024  07/22/2024  LONDON TO SOMERSET AND RETURN                                              $234.10
+DMCN20241018      08/07/2024  DONNA BAKER MCCLURE               07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                       $234.10
+DMCN20241019      08/07/2024  DONNA BAKER MCCLURE               07/24/2024  07/24/2024  LONDON TO WHITLEY CITY, WILLIAMSBURG AND RETURN                            $234.10
+DMCN20241020      08/09/2024  CITIBANK - TRAVEL CBA CARD        07/07/2024  07/07/2024  STAFF TRANSPORTATION
+                  08/09/2024  CITIBANK - TRAVEL CBA CARD        07/12/2024  07/12/2024  LONDON TO CORBIN AND RETURN                                                   $9.17
+                  08/08/2024  CITIBANK - TRAVEL CBA CARD        07/21/2024  07/21/2024  STAFF TRANSPORTATION                                                         $20.96
+                  08/08/2024  CITIBANK - TRAVEL CBA CARD        07/26/2024  07/26/2024  LONDON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $13.75
+                  08/08/2024  CITIBANK - TRAVEL CBA CARD        07/28/2024  07/28/2024  STAFF TRANSPORTATION
+                  08/07/2024  STEPHANIE H NELSON                07/29/2024  07/29/2024  LONDON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  08/07/2024  STEPHANIE H NELSON                07/30/2024  07/30/2024  STAFF TRANSPORTATION
+                  08/07/2024  STEPHANIE H NELSON                07/31/2024  07/31/2024  LONDON TO MIDDLESBORO, BARBOURVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LONDON TO SOMERSET AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MCCONNELL HEBRON TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MCCONNELL WASHINGTON DC TO HEBRON
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MCCONNELL HEBRON TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MCCONNELL WASHINGTON DC TO HEBRON
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MCCONNELL HEBRON TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        IN AND AROUND RICHMOND
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

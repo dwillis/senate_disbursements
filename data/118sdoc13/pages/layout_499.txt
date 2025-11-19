@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION             AMOUNT ($)
+                  POSTED                                              DATES
+DBAL20240429                                                                       MADISON TO WAUSAU, MENASHA AND RETURN                                                   $91.70
+DBAL20240430                                               START       END         STAFF TRANSPORTATION                                                                    $98.25
+DBAL20240431                                                                       MADISON TO WAUTOMA AND RETURN                                                           $91.04
+DBAL20240432      07/30/2024  SARAH E BENEDICT-ANSTAETT    07/16/2024  07/16/2024  STAFF TRANSPORTATION                                                                  $144.75
+DBAL20240433      07/30/2024  SARAH E BENEDICT-ANSTAETT    07/22/2024  07/22/2024  MADISON TO MILWAUKEE AND RETURN                                                         $90.10
+DBAL20240435      07/30/2024  ANNA BERNICE RINGSTAD        07/22/2024  07/22/2024  STAFF TRANSPORTATION                                                                  $149.99
+DBAL20240436      08/02/2024  ANNA BERNICE RINGSTAD        07/23/2024  07/23/2024  LADYSMITH TO EAU CLAIRE AND RETURN                                                    $759.80
+                  07/25/2024  CITIBANK - SENATOR IBA CARD  07/22/2024  07/22/2024  STAFF TRANSPORTATION
+DBAL20240437      08/02/2024  ANNA BERNICE RINGSTAD        07/24/2024  07/24/2024  LADYSMITH TO WAUSAU AND RETURN                                                        $290.16
+DBAL20240439      08/05/2024  GREGG A WAVRUNEK             07/15/2024  07/22/2024  SENATOR TRANSPORTATION                                                                $634.20
+DBAL20240440                                                                       AIRFARE FOR SEN BALDWIN MADISON TO WASHINGTON DC                                      $189.95
+DBAL20240441      08/08/2024  ANNA BERNICE RINGSTAD        07/26/2024  07/27/2024  STAFF TRANSPORTATION                                                                  $103.49   B-481
+DBAL20240442      08/05/2024  CITIBANK - TRAVEL CBA CARD   07/26/2024  07/27/2024  LADYSMITH TO WOODRUFF, RHINELANDER AND RETURN
+DBAL20240443      08/08/2024  AISLING W KEANE              07/27/2024  07/27/2024  STAFF TRANSPORTATION                                                                    $90.10
+                  08/19/2024  JENNIFER D GARNER            07/27/2024  07/27/2024  ONALASKA TO THE FOLLOWING AND RETURN: 7/15 ELLSWORTH, FOUNTAIN                        $421.16
+DBAL20240444      08/07/2024  CITIBANK - SENATOR IBA CARD  07/28/2024  07/28/2024  CITY; 7/17 WAUSAU; 7/18 WHITEHALL, MILLTOWN, BLACK RIVER FALLS; 7/22
+                  08/19/2024  JENNIFER D GARNER            06/10/2024  07/26/2024  STEVENS POINT                                                                         $298.68
+DBAL20240445                                                                       STAFF TRANSPORTATION
+DBAL20240446      08/19/2024  JENNIFER D GARNER            04/30/2024  05/27/2024  LADYSMITH TO MADISON AND RETURN                                                         $86.32
+DBAL20240447                                                                       STAFF TRANSPORTATION                                                                    $77.29
+DBAL20240451      08/07/2024  ANNA BERNICE RINGSTAD        07/31/2024  07/31/2024  AIRFARE FOR K REIDY WASHINGTON DC TO MADISON AND RETURN                                 $95.63
+DBAL20240452      08/19/2024  ANNA BERNICE RINGSTAD        08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                                    $85.15
+DBAL20240454      08/19/2024  AISLING W KEANE              08/02/2024  08/02/2024  MADISON TO WAUSAU AND RETURN                                                          $177.50
+DBAL20240455      08/19/2024  ANNA BERNICE RINGSTAD        08/06/2024  08/06/2024  STAFF TRANSPORTATION                                                                  $101.13
+DBAL20240456      08/19/2024  ANNA BERNICE RINGSTAD        08/08/2024  08/08/2024  GREEN BAY TO LAONA AND RETURN                                                           $14.41
+DBAL20240457      08/27/2024  REBECCA E BURETTA            07/26/2024  07/26/2024  SENATOR TRANSPORTATION                                                                  $31.57
+                  08/27/2024  REBECCA E BURETTA            07/31/2024  07/31/2024  AIRFARE FOR SEN BALDWIN MADISON TO WASHINGTON DC                                        $73.36
+                  08/27/2024  REBECCA E BURETTA            08/06/2024  08/06/2024  STAFF TRANSPORTATION
+                  08/27/2024  JUSTIN D WILLIAMS            08/13/2024  08/13/2024  GREEN BAY TO THE FOLLOWING AND RETURN: 6/10 MANITOWOC; 6/28
+                                                                                   CLINTONVILLE; 7/6 NEW LONDON; 7/17 MENASHA; 7/26 MADISON
+                                                                                   STAFF TRANSPORTATION
+                                                                                   GREEN BAY TO THE FOLLOWING AND RETURN: 4/30 LAONA; 5/2 OSHKOSH; 5
+                                                                                   /25 APPLETON; 5/27 TWO RIVERS
+                                                                                   STAFF TRANSPORTATION
+                                                                                   LADYSMITH TO EAU CLAIRE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   LADYSMITH TO HAYWARD AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MADISON TO WEST ALLIS AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   LADYSMITH TO EAU CLAIRE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   LADYSMITH TO SUPERIOR AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MILWAUKEE TO MADISON AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MILWAUKEE TO FRANKLIN AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MILWAUKEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+

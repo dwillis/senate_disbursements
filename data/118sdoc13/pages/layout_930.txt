@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                             DATES
+DCOL20240609                                                                      WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $28.03
+DCOL20240610                                              START       END         STAFF TRANSPORTATION                                                            $13.02
+DCOL20240611                                                                      WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $17.80
+DCOL20240612      06/24/2024  ANNA E SANDERS              05/08/2024  05/08/2024  STAFF TRANSPORTATION                                                            $81.29
+DCOL20240613      06/24/2024  ANNA E SANDERS              04/22/2024  04/22/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $66.33
+DCOL20240614      06/25/2024  ANNA E SANDERS              04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                            $82.30
+                  06/24/2024  DEIDRE JEAN GRANT           04/24/2024  04/24/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $516.00
+                  06/25/2024  DEIDRE JEAN GRANT           06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                            $40.00
+                  06/26/2024  STEVEN W ABBOTT             06/11/2024  06/13/2024  BANGOR TO AUGUSTA AND RETURN                                                  $494.19
+                                                                                  STAFF TRANSPORTATION                                                            $29.81
+DCOL20240615      06/25/2024  PAMELA D BUCK               06/13/2024  06/13/2024  BANGOR TO CHERRYFIELD AND RETURN                                                $14.25  B-912
+DCOL20240616      07/02/2024  ALLYSON M CAVARETTA         06/07/2024  06/07/2024  STAFF INCIDENTALS                                                               $14.25
+DCOL20240617      07/08/2024  ALLYSON M CAVARETTA         06/10/2024  06/10/2024  STAFF PER DIEM                                                                  $14.25
+DCOL20240618      07/02/2024  ALLYSON M CAVARETTA         06/11/2024  06/11/2024  STAFF TICKET FEES                                                               $41.25
+DCOL20240619      06/25/2024  ALLYSON M CAVARETTA         06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                            $13.20
+DCOL20240620      06/25/2024  ALLYSON M CAVARETTA         06/12/2024  06/12/2024  PORTLAND TO WASHINGTON DC AND RETURN                                            $71.50
+DCOL20240621      06/25/2024  ALLYSON M CAVARETTA         06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                            $50.60
+DCOL20240622      06/26/2024  ALLYSON M CAVARETTA         06/13/2024  06/13/2024  BIDDEFORD TO ACTON AND RETURN                                                   $80.30
+DCOL20240623      06/25/2024  CAROL H WOODCOCK            06/15/2024  06/15/2024  STAFF TRANSPORTATION                                                            $18.00
+DCOL20240624      06/28/2024  CAROL H WOODCOCK            06/12/2024  06/12/2024  AUGUSTA TO BIDDEFORD AND RETURN                                                 $61.60
+                                                                                  STAFF TRANSPORTATION                                                            $20.00
+DCOL20240625      06/26/2024  CAROL H WOODCOCK            06/03/2024  06/03/2024  AUGUSTA TO BIDDEFORD AND RETURN                                                 $55.00
+                                                                                  STAFF TRANSPORTATION                                                          $324.10
+DCOL20240628      06/25/2024  CITIBANK - TRAVEL CBA CARD  04/22/2024  04/22/2024  AUGUSTA TO BIDDEFORD AND RETURN                                               $466.09
+DCOL20240630      07/01/2024  CITIBANK - TRAVEL CBA CARD  06/02/2024  06/02/2024  STAFF TRANSPORTATION                                                            $40.00
+                                                                                  AUGUSTA TO GARDINER, DRESDEN, EDGECOMB, BRUNSWICK AND RETURN                  $247.10
+DCOL20240631      06/28/2024  CITIBANK - TRAVEL CBA CARD  06/16/2024  06/16/2024  STAFF TRANSPORTATION                                                            $40.00
+                                                                                  AUGUSTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $221.10
+DCOL20240632      06/28/2024  CITIBANK - TRAVEL CBA CARD  06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                            $40.00
+                                                                                  AUGUSTA TO SAINT ALBANS AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AUGUSTA TO GARDINER, WISCASSET, EAST BOOTHBAY AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BANGOR TO GREENVILLE AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BANGOR TO BROOKS, BELFAST, CAMDEN AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BANGOR TO BAR HARBOR AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN COLLINS PORTLAND TO WASHINGTON DC
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR SEN COLLINS BANGOR TO WASHINGTON DC
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR SEN COLLINS PORTLAND TO WASHINGTON DC
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  TICKET FEES
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DCAN20240609                  JOSEPHINE L MCKINLEY                                      STAFF TRANSPORTATION                                                       $130.78
+DCAN20240610      08/06/2024  DAVID G SILVERMAN                 START       END         SEATTLE TO ROSLYN TO EDMONDS                                               $188.27
+DCAN20240617      08/06/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                       $336.10
+DCAN20240618      08/07/2024  CITIBANK - TRAVEL CBA CARD        07/24/2024  07/24/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $336.10
+DCAN20240619      08/07/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION
+DCAN20240620      08/07/2024  CITIBANK - TRAVEL CBA CARD        07/07/2024  07/30/2024  AIRFARE FOR SEN CANTWELL WASHINGTON DC TO SEATTLE                            $91.10
+DCAN20240621      08/07/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                     $182.10
+DCAN20240622      08/15/2024  CITIBANK - TRAVEL CBA CARD        06/13/2024  06/13/2024  AIRFARE FOR SEN CANTWELL WASHINGTON DC TO SEATTLE
+DCAN20240623      08/13/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                       $96.99
+DCAN20240626      08/09/2024  CITIBANK - TRAVEL CBA CARD        05/25/2024  05/25/2024  AIRFARE FOR SEN CANTWELL SPOKANE TO SEATTLE                                  $29.00
+DCAN20240627      08/09/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                     $343.10
+DCAN20240632      08/09/2024  TANISHA LYNN HARRIS               05/30/2024  05/30/2024  AIRFARE FOR SEN CANTWELL PASCO TO SEATTLE                                  $318.98
+DCAN20240633      08/09/2024  TANISHA LYNN HARRIS                                       STAFF TRANSPORTATION                                                       $336.10
+DCAN20240634      08/07/2024  TANISHA LYNN HARRIS               06/26/2024  06/26/2024  AIRFARE FOR A RONEN WASHINGTON DC TO SEATTLE AND RETURN                    $297.48
+DCAN20240635      08/07/2024  TANISHA LYNN HARRIS                                       STAFF TRANSPORTATION                                                         $27.47
+DCAN20240639      08/08/2024  CITIBANK - TRAVEL CBA CARD        07/13/2024  07/20/2024  AIRFARE FOR A RONEN WASHINGTON DC TO SEATTLE AND RETURN                      $89.78
+DCAN20240641      08/13/2024  DEVIN HELFRICH                                            SENATOR TRANSPORTATION                                                     $104.52
+DCAN20240645      08/15/2024  FARAZ M ZARGHAMI                  07/13/2024  07/20/2024  AIRFARE FOR SEN CANTWELL PORTLAND OR TO WASHINGTON DC                      $200.10
+                  08/28/2024                                                            SENATOR TRANSPORTATION                                                     $672.19
+DCAN20240646                  FARAZ M ZARGHAMI                  07/28/2024  07/28/2024  AIRFARE FOR SEN CANTWELL SEATTLE TO SPOKANE                                  $34.32
+                  08/22/2024                                                            SENATOR TRANSPORTATION                                                     $253.26
+DCAN20240650                  RILEY B SMITH                     07/18/2024  07/18/2024  AIRFARE FOR SEN CANTWELL SEATTLE TO WASHINGTON DC                            $53.05
+                  08/28/2024                                                            STAFF TRANSPORTATION                                                       $499.82
+DCAN20240651                                                    07/07/2024  07/07/2024  VANCOUVER TO RICHLAND AND RETURN                                                     B-776
+                                                                                        STAFF TRANSPORTATION                                                          $9.63
+DCAN20240652                                                    06/25/2024  06/26/2024  VANCOUVER TO LONGVIEW AND RETURN                                           $664.00
+                                                                                        STAFF TRANSPORTATION                                                       $338.14
+                                                                07/11/2024  07/11/2024  VANCOUVER TO CATHLAMET AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $28.06
+                                                                07/19/2024  07/19/2024  VANCOUVER TO CHEHALIS AND RETURN                                           $233.16
+                                                                                        SENATOR TRANSPORTATION
+                                                                07/31/2024  07/31/2024  AIRFARE FOR SEN CANTWELL WASHINGTON DC TO SEATTLE                            $14.67
+                                                                                        STAFF TRANSPORTATION                                                       $104.65
+                                                                08/01/2024  08/01/2024  SEATTLE TO WASHINGTON DC AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                07/29/2024  08/01/2024  STAFF TRANSPORTATION
+                                                                                        SEATTLE TO PORTLAND OR, CHEHALIS, CENTRALIA AND RETURN
+                                                                08/08/2024  08/08/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                08/09/2024  08/09/2024  SEATTLE TO COLVILLE, REPUBLIC, OMAK AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                08/08/2024  08/11/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                  08/27/2024  FARAZ M ZARGHAMI                  08/12/2024  08/12/2024  SPOKANE TO CHEWELAH, OMAK, CHELAN AND RETURN
+                  09/11/2024  RILEY B SMITH                     08/15/2024  08/15/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SEATTLE TO WENATCHEE AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SPOKANE TO PULLMAN AND RETURN
+

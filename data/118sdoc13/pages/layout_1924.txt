@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                   POSTED                                                  DATES
+DMRP20240533                  ERIN E MCBRIDE                                            STAFF PER DIEM                                                                 $25.43
+DMRP20240534      04/11/2024  ERIN E MCBRIDE                    START       END         STAFF TRANSPORTATION                                                           $68.34
+DMRP20240535                  ERIN E MCBRIDE                                            QUAKER HILL TO DANIELSON, GROTON AND RETURN                                    $60.30
+DMRP20240536      04/11/2024  IRENE M SOTERIOU                  03/27/2024  03/27/2024  STAFF TRANSPORTATION
+DMRP20240537      04/17/2024  ERIN E MCBRIDE                                            QUAKER HILL TO GALES FERRY, NORWICH, DANIELSON, WINDHAM AND                  $113.23
+                  04/17/2024                                    04/02/2024  04/02/2024  RETURN                                                                         $31.81
+DMRP20240538                                                                            STAFF TRANSPORTATION
+DMRP20240539      04/11/2024                                    03/28/2024  03/28/2024  QUAKER HILL TO CHESHIRE, NEW HAVEN, WINDHAM AND RETURN                       $267.21
+DMRP20240541                                                    03/21/2024  03/31/2024  STAFF PER DIEM                                                                 $25.50
+                                                                                        STAFF TRANSPORTATION                                                           $58.29
+                                                                04/01/2024  04/01/2024  WASHINGTON DC TO NEW HAVEN, HARTFORD, NEW HAVEN AND RETURN
+                                                                                        STAFF PER DIEM                                                                 $54.94
+                  04/11/2024  CLAUDE CAMPBELL                   03/08/2024  03/08/2024  STAFF TRANSPORTATION                                                           $65.66
+                  04/12/2024  CLAUDE CAMPBELL                   04/02/2024  04/02/2024  QUAKER HILL TO MADISON, NEW LONDON, GROTON, NEW LONDON AND                     $82.30
+                  04/17/2024  CLAUDE CAMPBELL                   03/11/2024  03/13/2024  RETURN                                                                       $555.79
+                                                                                        STAFF TRANSPORTATION                                                         $358.19
+DMRP20240543      04/12/2024  KENNETH J CURRAN                  03/05/2024  03/05/2024  HARTFORD TO GROTON AND RETURN                                                          B-1887
+DMRP20240544      04/12/2024  EMILY M SMITH                     04/03/2024  04/03/2024  STAFF TRANSPORTATION                                                           $30.82
+DMRP20240552      04/12/2024  CITIBANK - SENATOR IBA CARD       03/31/2024  03/31/2024  HARTFORD TO BRIDGEPORT AND RETURN                                              $11.23
+DMRP20240553      04/17/2024  CITIBANK - TRAVEL CBA CARD        03/27/2024  03/27/2024  STAFF INCIDENTALS                                                              $40.11
+DMRP20240554      04/17/2024  CITIBANK - TRAVEL CBA CARD        03/31/2024  03/31/2024  STAFF PER DIEM                                                               $221.10
+DMRP20240555      04/22/2024  CITIBANK - TRAVEL CBA CARD        04/03/2024  04/03/2024  STAFF TRANSPORTATION                                                         $467.11
+DMRP20240556      04/16/2024  JAMESON B FOULKE                  04/03/2024  04/03/2024  MANCHESTER TO WINDSOR LOCKS, WASHINGTON DC, WINDSOR LOCKS                    $292.98
+DMRP20240557      04/16/2024  JAMESON B FOULKE                  04/09/2024  04/09/2024  AND RETURN
+DMRP20240558      04/22/2024  CITIBANK - TRAVEL CBA CARD        03/27/2024  03/29/2024  STAFF TRANSPORTATION                                                            $4.69
+                                                                                        WATERBURY TO NEW HAVEN AND RETURN                                              $73.70
+DMRP20240559      04/23/2024  ERIN E MCBRIDE                    04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                         $442.20
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $80.00
+DMRP20240560      04/23/2024  ERIN E MCBRIDE                    04/05/2024  04/05/2024  SENATOR TRANSPORTATION
+DMRP20240561      04/24/2024  ERIN E MCBRIDE                    04/08/2024  04/08/2024  TAXI FARE FOR SEN MURPHY IN WASHINGTON DC                                      $19.40
+                                                                                        SENATOR TRANSPORTATION                                                         $17.42
+                                                                                        AIRFARE FOR SEN MURPHY WASHINGTON DC TO WINDSOR LOCKS                          $64.99
+                                                                                        SENATOR TRANSPORTATION                                                         $23.00
+                                                                                        AIRFARE FOR SEN MURPHY WINDSOR LOCKS TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN MURPHY WASHINGTON DC TO WINDSOR LOCKS
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WEST HARTFORD TO HARTFORD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WEST HARTFORD TO NEW HAVEN, HAMDEN TO HARTFORD
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR A LIVINGSTON WASHINGTON DC TO WINDSOR LOCKS AND
+                                                                                        RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        QUAKER HILL TO GROTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        QUAKER HILL TO HARTFORD AND RETURN
+                                                                                        STAFF PER DIEM
+

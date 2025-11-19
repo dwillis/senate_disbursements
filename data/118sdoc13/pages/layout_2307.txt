@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DSCT20240359                  BARRY S COTTON                                            STAFF TRANSPORTATION                                                         $15.08
+DSCT20240366      05/07/2024  CITIBANK - TRAVEL CBA CARD        START       END         ORLANDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $193.10
+DSCT20240368      05/15/2024  JAVIER D BUSTOS                                           SENATOR TRANSPORTATION
+DSCT20240369      05/14/2024  JAVIER D BUSTOS                   04/20/2024  04/24/2024  AIRFARE FOR SEN SCOTT FORT MYERS TO WASHINGTON DC                            $15.88
+DSCT20240370      05/14/2024  ALEXANDRA K OJEDA APONTE                                  STAFF TRANSPORTATION                                                         $13.96
+DSCT20240371      05/15/2024  CHLOE D ANGELINI                  04/30/2024  04/30/2024  ORLANDO TO WINDERMERE AND RETURN                                             $60.00
+DSCT20240372      05/14/2024  SARAH J SALAS                                             STAFF TRANSPORTATION                                                         $48.80
+DSCT20240373      05/14/2024  SARAH J SALAS                     04/29/2024  04/29/2024  ORLANDO TO APOPKA AND RETURN                                                 $50.59
+DSCT20240374      05/15/2024  TREVOR M BROWN                                            STAFF TRANSPORTATION                                                         $55.83
+DSCT20240376      05/17/2024  JAVIER D BUSTOS                   04/30/2024  04/30/2024  WESLEY CHAPEL TO SARASOTA AND RETURN                                         $82.90
+DSCT20240382      05/15/2024  BARRY S COTTON                                            STAFF TRANSPORTATION                                                         $40.94
+DSCT20240383      05/17/2024  TREVOR M BROWN                    05/04/2024  05/04/2024  WEST PALM BEACH TO FORT PIERCE AND RETURN                                    $47.60
+DSCT20240384      05/16/2024  JARED F HONTS                                             STAFF TRANSPORTATION                                                         $19.60
+                  05/23/2024                                    04/25/2024  04/25/2024  WASHINGTON DC TO DULLES VA AND RETURN                                        $63.72
+DSCT20240385                  TREVOR M BROWN                                            STAFF TRANSPORTATION                                                         $73.92
+DSCT20240391      05/22/2024  CITIBANK - TRAVEL CBA CARD        04/19/2024  04/19/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $14.40
+                  05/23/2024                                                            STAFF TRANSPORTATION                                                       $362.20
+DSCT20240392                  CITIBANK - TRAVEL CBA CARD        05/02/2024  05/02/2024  IN AND AROUND FORT MYERS                                                     $30.00
+                  05/24/2024                                                            STAFF TRANSPORTATION                                                       $397.21
+DSCT20240393                  RICK SCOTT                        04/26/2024  04/27/2024  ORLANDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $30.00
+DSCT20240394      05/22/2024  RICK SCOTT                                                STAFF TRANSPORTATION                                                         $14.92
+DSCT20240396      05/22/2024  BARRY S COTTON                    04/25/2024  04/25/2024  ORLANDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $94.10
+DSCT20240397      05/22/2024  BARRY S COTTON                                            STAFF TRANSPORTATION                                                         $38.74
+                  05/22/2024                                    04/26/2024  05/07/2024  NAPLES TO FORT MYERS AND RETURN                                              $14.77  B-2270
+DSCT20240404                  BARRY S COTTON                                            STAFF PER DIEM                                                               $32.28
+DSCT20240407      05/28/2024  RICK SCOTT                        04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                         $48.39
+DSCT20240408      06/05/2024  BARRY S COTTON                                            WASHINGTON DC TO TAMPA, ORLANDO, TAMPA AND RETURN                          $264.10
+                  06/04/2024                                    05/09/2024  05/12/2024  STAFF TRANSPORTATION                                                         $44.25
+                                                                                        FORT MYERS TO ESTERO AND RETURN
+                                                                03/19/2024  03/19/2024  STAFF TRANSPORTATION
+                                                                05/09/2024  05/12/2024  TICKET FEES
+                                                                                        AIRFARE FOR J HONTS WASHINGTON DC TO TAMPA AND RETURN
+                                                                05/09/2024  05/11/2024  STAFF TRANSPORTATION
+                                                                                        TICKET FEES
+                                                                05/02/2024  05/07/2024  AIRFARE FOR M HOLZMANN WASHINGTON DC TO TAMPA AND RETURN
+                                                                05/10/2024  05/14/2024  SENATOR PER DIEM
+                                                                05/10/2024  05/12/2024  WASHINGTON DC TO NAPLES, TAMPA AND RETURN
+                                                                05/13/2024  05/13/2024  SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO ORLANDO, NAPLES AND RETURN
+                                                                05/14/2024  05/15/2024  STAFF TRANSPORTATION
+                                                                05/16/2024  05/20/2024  ORLANDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                05/17/2024  05/17/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ORLANDO TO DELAND AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ORLANDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO NAPLES, MIAMI AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ORLANDO TO TITUSVILLE AND RETURN
+

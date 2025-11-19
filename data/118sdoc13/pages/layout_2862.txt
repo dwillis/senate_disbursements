@@ -1,0 +1,57 @@
+DOCUMENT NO.    DATE      PAYEE NAME                      OBLIGATION/SERVICE  DESCRIPTION                                                               AMOUNT ($)
+              POSTED                                                 DATES
+                                                                                                                                                                          $40.00
+                                                          START       END                                                                                               $793.19
+
+DFIN20240144  08/08/2024  CITIBANK - TRAVEL CBA CARD      05/23/2024                        WASHINGTON DC TO SEATTLE WA, REDMOND WA, TACOMA WA AND                        $40.00
+DFIN20240147  09/13/2024  CITIBANK - TRAVEL CBA CARD      08/04/2024                        RETURN
+                                                                       05/23/2024 TICKET FEES                                                                           $133.89
+DFIN20240149  09/06/2024  JONATHAN G GOLDMAN              08/04/2024   08/08/2024 STAFF TRANSPORTATION                                                               $1,092.32
+                                                                                            TICKET FEES
+DFIN20240151  09/04/2024  CITIBANK - TRAVEL CBA CARD      08/11/2024                        AIRFARE FOR J GOLDMAN WASHINGTON DC TO PORTLAND OR AND                      $447.70
+              09/18/2024  ELI WHITNEY BLAKE WEINER                                          RETURN
+DFIN20240156                                              08/11/2024   08/08/2024 STAFF INCIDENTALS                                                                     $586.19
+              09/19/2024  JAMIE S CUMMINS                                                   STAFF PER DIEM                                                                $30.00  B-2-71
+DFIN20240164  09/19/2024  JAMIE S CUMMINS                 06/26/2024                        STAFF TRANSPORTATION
+                                                                                            WASHINGTON DC TO PORTLAND OR AND RETURN                                     $197.96
+DFIN20240165  06/27/2024  SERGEANT AT ARMS                09/09/2024   08/17/2024 STAFF TRANSPORTATION                                                               $1,645.37
+              08/07/2024  SERGEANT AT ARMS                                                  TICKET FEES
+0002855912    04/11/2024  ACE FEDERAL REPORTERS, INC.     05/01/2024                        AIRFARE FOR E WEINER WASHINGTON DC TO DENVER CO AND RETURN                  $564.00
+0002857278    04/11/2024  ACE FEDERAL REPORTERS, INC.     06/01/2024   08/17/2024 STAFF INCIDENTALS
+DFIN20240067  04/11/2024  ACE FEDERAL REPORTERS, INC.     03/12/2024                        STAFF PER DIEM                                                                $62.63
+DFIN20240068  04/26/2024  ACE FEDERAL REPORTERS, INC.     03/20/2024                        STAFF TRANSPORTATION
+DFIN20240069  05/07/2024  ACE FEDERAL REPORTERS, INC.     03/21/2024                        WASHINGTON DC TO DENVER CO AND RETURN                                          $8.00
+DFIN20240076  05/07/2024  ACE FEDERAL REPORTERS, INC.     04/09/2024   06/26/2024 STAFF TRANSPORTATION
+DFIN20240080  05/07/2024  ACE FEDERAL REPORTERS, INC.     04/11/2024                        INTERDEPARTMENTAL TRANSPORTATION                                        $17,161.88
+DFIN20240081  05/20/2024  ACE FEDERAL REPORTERS, INC.     04/16/2024   09/09/2024 STAFF TRANSPORTATION
+DFIN20240082  05/30/2024  ACE FEDERAL REPORTERS, INC.     04/17/2024                        INTERDEPARTMENTAL TRANSPORTATION                                              $50.00
+DFIN20240089  06/14/2024  ACE FEDERAL REPORTERS, INC.     05/01/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                              $100.00
+DFIN20240100  06/14/2024  ACE FEDERAL REPORTERS, INC.     05/16/2024                                                                                                    $990.00
+DFIN20240105  06/14/2024  ACE FEDERAL REPORTERS, INC.     05/23/2024   05/31/2024 FEDERAL AUDIO, VISUAL RECORDNG                                                        $846.00
+DFIN20240106  07/03/2024  ACE FEDERAL REPORTERS, INC.     05/22/2024   06/30/2024 FEDERAL AUDIO, VISUAL RECORDNG                                                        $837.00
+DFIN20240107  07/01/2024  ACE FEDERAL REPORTERS, INC.     05/21/2024   03/12/2024 STENOGRAPHIC SERVICES                                                                 $200.00
+DFIN20240119  07/01/2024  ACE FEDERAL REPORTERS, INC.     06/05/2024   03/20/2024 STENOGRAPHIC SERVICES                                                                 $756.00
+DFIN20240120  07/03/2024  ACE FEDERAL REPORTERS, INC.     06/12/2024   03/21/2024 STENOGRAPHIC SERVICES                                                                 $945.00
+DFIN20240121  07/03/2024  JOYFUL SIGNING LLC              06/13/2024   04/09/2024 STENOGRAPHIC SERVICES                                                              $1,017.00
+DFIN20240123  07/17/2024  TRUSTPOINT COURT REPORTING LLC  06/04/2024   04/11/2024 STENOGRAPHIC SERVICES                                                                 $945.00
+DFIN20240124  07/30/2024  ACE FEDERAL REPORTERS, INC.     06/18/2024   04/16/2024 STENOGRAPHIC SERVICES                                                                 $945.00
+DFIN20240125  07/30/2024  ACE FEDERAL REPORTERS, INC.     06/07/2024   04/17/2024 STENOGRAPHIC SERVICES                                                              $1,008.00
+DFIN20240139  08/13/2024  ACE FEDERAL REPORTERS, INC.     07/09/2024   05/01/2024 STENOGRAPHIC SERVICES                                                                 $792.00
+DFIN20240140  09/18/2024  ACE FEDERAL REPORTERS, INC.     07/10/2024   05/16/2024 STENOGRAPHIC SERVICES                                                                 $747.00
+DFIN20240146                                              07/25/2024   05/23/2024 STENOGRAPHIC SERVICES                                                                 $810.00
+DFIN20240158  08/07/2024  SERGEANT AT ARMS                07/30/2024   05/22/2024 STENOGRAPHIC SERVICES                                                                 $540.00
+                                                                       05/21/2024 STENOGRAPHIC SERVICES                                                                 $200.00
+0002857382                                                06/01/2024   06/05/2024 STENOGRAPHIC SERVICES                                                                 $432.00
+                                                                       06/12/2024 STENOGRAPHIC SERVICES                                                                 $480.00
+                                                                       06/13/2024 STENOGRAPHIC SERVICES                                                                 $594.00
+                                                                       06/04/2024 STENOGRAPHIC SERVICES                                                                 $558.00
+                                                                       06/18/2024 INTERPRETING SERVICES                                                                 $216.00
+                                                                       06/07/2024 STENOGRAPHIC SERVICES                                                                 $200.00
+                                                                       07/09/2024 STENOGRAPHIC SERVICES                                                                 $648.00
+                                                                       07/10/2024 STENOGRAPHIC SERVICES                                                             $14,856.00
+                                                                       07/25/2024 STENOGRAPHIC SERVICES
+                                                                       07/30/2024 STENOGRAPHIC SERVICES                                                              $1,488.91
+                                                                      OTHER CONTRACTUAL SERVICES
+
+                                                                       06/30/2024 IT EQUIPMENT
+

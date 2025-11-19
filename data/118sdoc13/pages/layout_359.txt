@@ -1,0 +1,58 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE      DESCRIPTION                          AMOUNT ($)
+                                                                           DATES
+DSAA20M53364       POSTED     CITIBANK - PURCHASE CARD                                                                                       $335.00
+DSAA20M53365                  CITIBANK - PURCHASE CARD          START       END                                                           $3,155.00
+TDEP202400872     09/18/2024  FINANCIAL CLERK US SENATE                                                                               -$126,173.23
+VSAA22403858      09/20/2024  LIVEU INC                         09/03/2024   09/03/2024 TRAIN/ORIENT/CONFERENCE FEES                                  B-341
+                  09/27/2024                                    08/19/2024   08/19/2024 TRAIN/ORIENT/CONFERENCE FEES                         $180.00
+VSAA22404101      04/02/2024  ZEALOUS LLC                       09/27/2024   09/27/2024 TECHNICAL SUPPORT                                 $1,300.00
+VSAA22404259                  MAGNUS HEALTH LLC                 02/01/2024   02/29/2024 APPLICATION SOFTWARE MAINT                        $1,500.00
+VSAA22404459      04/08/2024  THE ELECTRONIC FARM USA INC
+VSAA22404502      04/11/2024  LIVEU INC                         03/12/2024                        AUDIO, VISUAL EQUIP MAINT                  $578.81
+VSAA22405029      04/22/2024  PERATON ENTERPRISE SOLUTIONS      03/19/2024   03/12/2024 APPLICATION SOFTWARE MAINT                        $1,551.80
+VSAA22405058      05/02/2024  ZEALOUS LLC                       12/05/2023   03/19/2024 TECHNICAL SUPPORT                                 $1,480.00
+VSAA22405133      05/02/2024  THE ELECTRONIC FARM USA INC       03/01/2024   12/05/2023 TRAIN/ORIENT/CONFERENCE FEES                   $570,383.40
+VSAA22405208      05/02/2024  A.B.CDL TRAINING                  04/03/2024   03/31/2024 AUDIO, VISUAL EQUIP MAINT                         $1,500.00
+VSAA22405340      06/10/2024  LIVEU INC                         04/19/2024   04/03/2024 APPLICATION SOFTWARE MAINT                        $6,953.50
+VSAA22405717      05/09/2024  IDENTICOMM TECHNOLOGIES INC       12/05/2023   04/19/2024 APPLICATION SOFTWARE MAINT                        $5,250.00
+VSAA22405746      06/10/2024  WELCH AND RUSHE, LLC              01/29/2024   12/05/2023 TRAIN/ORIENT/CONFERENCE FEES                      $1,480.00
+VSAA22406103      07/10/2024  LIVEU INC                         04/01/2024   01/29/2024 TRAIN/ORIENT/CONFERENCE FEES
+VSAA22406369      06/03/2024  MOTOROLA SOLUTIONS INC            05/30/2023   04/30/2024 AUDIO, VISUAL EQUIP MAINT                            $393.91
+VSAA22406370      07/16/2024  MOTOROLA SOLUTIONS INC            09/08/2023   05/30/2023 VOICE, DATA COMM EQP MAINT                        $1,078.00
+VSAA22406371      06/28/2024  MOTOROLA SOLUTIONS INC            05/01/2024   09/08/2023 VOICE, DATA COMM EQP MAINT                        $1,480.00
+VSAA22406716      06/28/2024  LIVEU INC                         10/01/2023   05/31/2024 AUDIO, VISUAL EQUIP MAINT                         $7,500.00
+VSAA22406906      06/28/2024  WASHINGTON COUNTY TREASURER       12/23/2023   09/30/2024 APPLICATION SOFTWARE MAINT                        $7,998.32
+VSAA22407094      07/16/2024  DELOITTE CONSULTING LLP           01/23/2024   01/22/2024 VOICE, DATA COMM EQP MAINT                        $7,998.44
+VSAA22407256      07/24/2024  ONE DIVERSIFIED LLC               06/01/2024   02/22/2024 VOICE, DATA COMM EQP MAINT                        $1,480.00
+VSAA22407325      08/28/2024  EVERTZ MICROSYSTEMS LTD           06/01/2023   06/30/2024 AUDIO, VISUAL EQUIP MAINT                        $23,874.00
+VSAA22407421      07/30/2024  DELOITTE CONSULTING LLP           04/29/2024   05/31/2024 FEDERAL FAC MAINT, REPAIR                      $137,414.87
+VSAA22407450      09/12/2024  MOTOROLA SOLUTIONS INC            07/01/2024   05/31/2024 MANAGEMENT CONSULTANTS                           $66,453.28
+VSAA22407451      08/09/2024  MOTOROLA SOLUTIONS INC            01/01/2023   07/31/2024 STUDIES, ANALYSES, & EVALS                        $8,634.85
+VSAA22407452      08/09/2024  MOTOROLA SOLUTIONS INC            06/01/2024   12/31/2023 VOICE, DATA COMM EQP MAINT                     $191,862.05
+VSAA22407453      08/09/2024  MOTOROLA SOLUTIONS INC            02/01/2024   06/30/2024 MANAGEMENT CONSULTANTS                            $2,551.76
+VSAA22407454      08/09/2024  MOTOROLA SOLUTIONS INC            03/01/2024   02/29/2024 VOICE, DATA COMM EQP MAINT                        $2,551.76
+VSAA22407762      08/09/2024  ONE DIVERSIFIED LLC               04/01/2024   03/31/2024 VOICE, DATA COMM EQP MAINT                        $2,551.76
+VSAA22407812      08/09/2024  MOTOROLA SOLUTIONS INC            05/01/2024   04/30/2024 VOICE, DATA COMM EQP MAINT                        $2,551.76
+VSAA22407909      08/22/2024  DELOITTE CONSULTING LLP           06/01/2024   05/31/2024 VOICE, DATA COMM EQP MAINT                        $2,551.76
+VSAA22407995      09/04/2024  ONE DIVERSIFIED LLC               08/01/2024   06/30/2024 VOICE, DATA COMM EQP MAINT                       $87,308.40
+VSAA22407996      09/03/2024  ONE DIVERSIFIED LLC               07/01/2024   08/31/2024 STUDIES, ANALYSES, & EVALS                        $2,551.76
+VSAA22408003      09/11/2024  BFPE INTERNATIONAL                07/01/2024   07/31/2024 VOICE, DATA COMM EQP MAINT                     $203,274.21
+VSAA22408155      09/11/2024  AON CONSULTING, INC.              08/01/2024   07/31/2024 MANAGEMENT CONSULTANTS                         $143,383.12
+VSAA22408313      09/09/2024  WELCH AND RUSHE, LLC              08/22/2024   08/31/2024 STUDIES, ANALYSES, & EVALS                       $38,800.00
+VSAA22408314      09/13/2024  YELLOWSTONE BASIN CONSTRUCTION    08/15/2022   08/22/2024 STUDIES, ANALYSES, & EVALS
+VSAA22408437      09/19/2024  THE GLASGOW GROUP LLC             08/01/2024   08/15/2022 VOICE, DATA COMM EQP MAINT                           $789.00
+VSAA22408461      09/20/2024  ONE DIVERSIFIED LLC               09/08/2023   07/31/2025 STUDIES, ANALYSES, & EVALS                       $15,400.00
+VSAA22408470      09/24/2024  DELOITTE CONSULTING LLP           08/01/2024   09/08/2023 VOICE, DATA COMM EQP MAINT
+                  09/24/2024                                    08/29/2024   08/23/2024 NON-FEDERAL FAC MAINT, REPAIR                     $1,078.00
+0002854717        09/24/2024  FINANCIAL CLERK US SENATE         09/01/2024   08/29/2024 TRAIN/ORIENT/CONFERENCE FEES                      $8,856.00
+DSAA20M53362                  CITIBANK - PURCHASE CARD          08/01/2024   09/30/2024 STUDIES, ANALYSES, & EVALS                        $3,000.00
+VSAA22308937      05/28/2024  ALTENDORF GROUP AMERICA INC                    08/31/2024 MANAGEMENT CONSULTANTS                         $199,547.23
+VSAA22403459      09/19/2024  THE ELECTRONIC FARM USA INC       05/01/2024  OTHER CONTRACTUAL SERVICES                                 $233,963.32
+VSAA22403504      05/02/2024  EFURNITUREMAX LLC                 07/03/2024                                                           $2,030,254.84
+                  04/22/2024                                    09/26/2023  05/31/2024  VOICE & DATA COMM EQUIPMENT
+                  04/02/2024                                    12/05/2023  09/05/2024  SOFTWARE LICENSE                                 -$1,149.96
+                                                                02/14/2024  09/26/2023  PRODUCTION EQUIPMENT                              $7,479.54
+                                                                            12/05/2023  SOFTWARE CUSTOM DEVELOPED                        $88,725.00
+                                                                            02/14/2024  FURNISHINGS                                       $7,920.00
+                                                                                                                                          $6,500.56
+

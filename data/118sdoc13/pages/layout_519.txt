@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED     CITIBANK - TRAVEL CBA CARD                   DATES
+DBRS20240619                                                                            STAFF TRANSPORTATION                                                             $985.32
+DBRS20240620      09/14/2024                                    START       END         TICKET FEES                                                                        $30.00
+                                                                                        AIRFARE FOR J CHAMPION WASHINGTON DC TO CASPER, DENVER CO AND
+DBRS20240621                                                    08/26/2024  08/30/2024  RETURN                                                                           $722.20
+DBRS20240622                                                                            STAFF TRANSPORTATION                                                               $30.00
+                  09/14/2024  CITIBANK - TRAVEL CBA CARD        08/26/2024  08/30/2024  TICKET FEES
+DBRS20240623                                                                            AIRFARE FOR D ROGERS AS FOLLOWS: 8/26 WASHINGTON DC TO SALT                        $11.64
+DBRS20240624      09/13/2024  KIEFER CODY MCLEMORE              08/22/2024  08/23/2024  LAKE CITY UT; 8/30 SALT LAKE CITY UT TO WASHINGTON DC                            $366.12
+DBRS20240625      09/14/2024  CITIBANK - TRAVEL CBA CARD        08/25/2024  08/30/2024  STAFF PER DIEM                                                                   $646.19
+DBRS20240627                                                                            STAFF TRANSPORTATION
+DBRS20240632      09/12/2024  SIERRA A BROWN                    08/27/2024  08/27/2024  CASPER TO LARAMIE, CHEYENNE AND RETURN                                             $60.00  B-501
+                  09/14/2024  SIERRA A BROWN                    08/28/2024  08/29/2024  STAFF TRANSPORTATION
+                                                                                        TICKET FEES                                                                        $95.14
+                  09/12/2024  PAM BULINE                        08/22/2024  08/22/2024  AIRFARE FOR C HENGEL WASHINGTON DC TO JACKSON, SHERIDAN AND                        $14.65
+                  09/12/2024  CITIBANK - TRAVEL CBA CARD        08/29/2024  08/29/2024  RETURN                                                                           $104.05
+                                                                                        STAFF TRANSPORTATION                                                               $71.69
+                  09/17/2024  ROGERS,DYLAN T                    08/26/2024  08/30/2024  ROCK SPRINGS TO MOUNTAIN VIEW AND RETURN                                         $516.60
+                                                                                        STAFF PER DIEM                                                                     $30.00
+DBRS20240635      09/16/2024  PAM BULINE                        09/02/2024  09/02/2024  STAFF TRANSPORTATION                                                               $55.14
+DBRS20240636      09/18/2024  MADDISON R DILLON                 08/15/2024  08/29/2024  ROCK SPRINGS TO AFTON AND RETURN                                                 $606.60
+                                                                                        STAFF TRANSPORTATION                                                             $524.88
+DBRS20240637      09/18/2024  VICTORIA A TEEGARDEN              08/25/2024  08/30/2024  CROWHEART TO PAVILLION, FORT WASHAKIE TO RIVERTON
+DBRS20240638                                                                            STAFF TRANSPORTATION                                                             $198.32
+                  09/17/2024  BARRASSO,JOHN                     08/08/2024  08/28/2024  TICKET FEES                                                                        $46.38
+                                                                                        AIRFARE FOR M DILLON CASPER TO WASHINGTON DC
+DBRS20240639      09/17/2024  KYLIE R ANDERSON                  08/15/2024  08/17/2024  STAFF INCIDENTALS                                                                $852.51
+DBRS20240640      09/18/2024  KYLIE R ANDERSON                  08/23/2024  08/24/2024  STAFF PER DIEM                                                                $1,603.71
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO SALT LAKE CITY UT, EVANSTON, PINEDALE,                          $114.30
+                                                                                        EVANSTON, SALT LAKE CITY UT AND RETURN                                        $1,247.61
+                                                                                        STAFF TRANSPORTATION                                                          $1,043.49
+                                                                                        CROWHEART TO MEETEETSE AND RETURN
+                                                                                        STAFF INCIDENTALS                                                                  $19.79
+                                                                                        STAFF PER DIEM                                                                   $114.00
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO BILLINGS MT, CASPER, RIVERTON, JACKSON, AFTON,                  $635.10
+                                                                                        CASPER AND RETURN                                                                  $12.84
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM                                                                   $137.47
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO JACKSON, SHERIDAN AND RETURN
+                                                                                        SENATOR PER DIEM
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO CASPER, RAWLINS, CASPER, CHEYENNE, DUBOIS,
+                                                                                        CASPER, DOUGLAS, CASPER, LOVELL, ROCK SPRINGS, CASPER, DOUGLAS,
+                                                                                        CASPER, LARAMIE, CASPER, UPTON, NEWCASTLE, THERMOPOLIS, CASPER
+                                                                                        AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SHERIDAN TO LOVELL, CASPER, DOUGLAS AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+

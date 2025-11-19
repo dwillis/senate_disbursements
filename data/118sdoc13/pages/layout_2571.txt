@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME        OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                   DATES
+DWRN20240345                                                            WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $16.08
+DWRN20240346                                    START       END         STAFF TRANSPORTATION                                                         $15.41
+DWRN20240351                                                            NORFOLK OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $60.30
+DWRN20240352      04/12/2024  GENE L GARLAND    04/02/2024  04/02/2024  STAFF TRANSPORTATION                                                         $51.97  B-2534
+DWRN20240353      04/12/2024  GENE L GARLAND    04/04/2024  04/04/2024  CHESAPEAKE TO SUFFOLK AND RETURN                                             $54.94
+DWRN20240354      04/15/2024  ANDREW C LUMPKIN  01/03/2024  01/03/2024  STAFF TRANSPORTATION                                                       $144.26
+DWRN20240355      04/15/2024  ANDREW C LUMPKIN  01/05/2024  01/05/2024  NORFOLK TO WILLIAMSBURG, POQUOSON AND RETURN                                 $14.07
+DWRN20240356      04/15/2024  ANDREW C LUMPKIN  01/10/2024  01/10/2024  STAFF TRANSPORTATION                                                         $16.08
+DWRN20240357      04/22/2024  ANDREW C LUMPKIN  01/16/2024  01/16/2024  NORFOLK TO NEWPORT NEWS, CHESAPEAKE AND RETURN                               $14.07
+DWRN20240358      04/15/2024  ANDREW C LUMPKIN  01/18/2024  01/18/2024  STAFF TRANSPORTATION                                                         $33.59
+DWRN20240359      04/15/2024  ANDREW C LUMPKIN  01/19/2024  01/19/2024  NORFOLK TO WILLIAMSBURG AND RETURN                                           $17.42
+DWRN20240360      04/15/2024  ANDREW C LUMPKIN  01/20/2024  01/20/2024  STAFF TRANSPORTATION                                                         $16.08
+DWRN20240361      04/15/2024  ANDREW C LUMPKIN  01/23/2024  01/23/2024  NORFOLK TO RICHMOND AND RETURN                                               $19.43
+DWRN20240362      04/15/2024  ANDREW C LUMPKIN  01/24/2024  01/24/2024  STAFF TRANSPORTATION                                                         $14.07
+DWRN20240363      04/15/2024  ANDREW C LUMPKIN  01/31/2024  01/31/2024  NORFOLK TO CHESAPEAKE AND RETURN                                             $60.30
+DWRN20240364      04/15/2024  ANDREW C LUMPKIN  02/02/2024  02/02/2024  STAFF TRANSPORTATION                                                         $14.07
+DWRN20240365      04/15/2024  ANDREW C LUMPKIN  02/05/2024  02/05/2024  NORFOLK TO VIRGINIA BEACH AND RETURN                                         $32.16
+DWRN20240366      04/15/2024  ANDREW C LUMPKIN  02/13/2024  02/13/2024  STAFF TRANSPORTATION                                                         $14.07
+DWRN20240367      04/15/2024  ANDREW C LUMPKIN  02/15/2024  02/15/2024  NORFOLK TO CHESAPEAKE AND RETURN                                             $40.87
+DWRN20240368      04/15/2024  ANDREW C LUMPKIN  02/16/2024  02/16/2024  STAFF TRANSPORTATION                                                         $32.16
+DWRN20240369      04/15/2024  ANDREW C LUMPKIN  02/17/2024  02/17/2024  NORFOLK TO SUFFOLK AND RETURN                                                $28.14
+DWRN20240370      04/15/2024  ANDREW C LUMPKIN  02/20/2024  02/20/2024  STAFF TRANSPORTATION                                                         $42.21
+DWRN20240371      04/15/2024  ANDREW C LUMPKIN  02/22/2024  02/22/2024  NORFOLK TO VIRGINIA BEACH, CHESAPEAKE AND RETURN                             $21.44
+DWRN20240372      04/15/2024  ANDREW C LUMPKIN  02/24/2024  02/24/2024  STAFF TRANSPORTATION                                                         $27.47
+DWRN20240373      04/15/2024  ANDREW C LUMPKIN  02/29/2024  02/29/2024  NORFOLK TO VIRGINIA BEACH AND RETURN                                         $43.93
+                  04/15/2024  ANDREW C LUMPKIN  03/01/2024  03/01/2024  STAFF TRANSPORTATION
+                  04/15/2024  ANDREW C LUMPKIN  03/02/2024  03/02/2024  NORFOLK TO VIRGINIA BEACH AND RETURN
+                  04/15/2024  ANDREW C LUMPKIN  03/05/2024  03/05/2024  STAFF TRANSPORTATION
+                                                                        NORFOLK TO CHESAPEAKE AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        NORFOLK TO YORKTOWN, WILLIAMSBURG AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        NORFOLK TO CHESAPEAKE AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        NORFOLK TO NEWPORT NEWS, HAMPTON AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        NORFOLK TO CHESAPEAKE AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        NORFOLK TO NEWPORT NEWS, POQUOSON, FORT MONROE AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        NORFOLK TO NEWPORT NEWS AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        NORFOLK TO NEWPORT NEWS AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        NORFOLK TO NEWPORT NEWS, HAMPTON AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        NORFOLK TO CHESAPEAKE AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        NORFOLK TO VIRGINIA BEACH AND RETURN
+                                                                        STAFF TRANSPORTATION
+

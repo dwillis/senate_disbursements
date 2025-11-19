@@ -1,0 +1,28 @@
+DOCUMENT NO.    DATE      PAYEE NAME                OBLIGATION/SERVICE  DESCRIPTION                                                           AMOUNT ($)
+              POSTED                                           DATES
+                                                                                                                                                        $239,268.90
+                                                    START       END
+                                                                                                                                                                $50.00
+0002854422    05/23/2024  SERGEANT AT ARMS          04/01/2024                        TRAIN FARE FOR SEN LUMMIS WASHINGTON DC TO NEW YORK NY               $1,100.00    B-1684
+DLUM20240385  04/08/2024  CITIBANK - PURCHASE CARD  02/28/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                       $3,300.00
+DLUM20240386  04/08/2024  CITIBANK - PURCHASE CARD  02/27/2024
+DLUM20240466  05/14/2024  LYNNE D. LINN             11/16/2023   04/30/2024 FEDERAL AUDIO, VISUAL RECORDNG                                                    $225.00
+DLUM20240468  05/17/2024  LYNNE D. LINN             12/12/2023   02/28/2024 TRAIN/ORIENT/CONFERENCE FEES                                                      $550.00
+DLUM20240518  06/05/2024  KATHY A LENZ              04/29/2024   02/27/2024 TRAIN/ORIENT/CONFERENCE FEES                                                      $150.00
+DLUM20240577  06/27/2024  ALLY JUSTINE GARNER       06/06/2024   11/17/2023 TRAIN/ORIENT/CONFERENCE FEES                                                      $205.00
+DLUM20240599  06/28/2024  STACEY M DANIELS          06/07/2024   12/18/2023 TRAIN/ORIENT/CONFERENCE FEES                                                      $115.00
+DLUM20240612  07/12/2024  KATHY A LENZ              06/01/2024   05/02/2024 TRAIN/ORIENT/CONFERENCE FEES                                                      $125.00
+DLUM20240624  07/10/2024  CONNER J KAUFFMAN BROWN   06/06/2024   06/07/2024 TRAIN/ORIENT/CONFERENCE FEES                                                      $219.00
+DLUM20240827  09/24/2024  CITIBANK - PURCHASE CARD  08/29/2024   06/09/2024 TRAIN/ORIENT/CONFERENCE FEES                                                      $150.00
+                                                                 06/08/2024 TRAIN/ORIENT/CONFERENCE FEES                                                   $6,189.00
+DLUM20240615  07/01/2024  STACEY M DANIELS          06/22/2024   06/09/2024 TRAIN/ORIENT/CONFERENCE FEES
+DLUM20240742  08/22/2024  CITIBANK - PURCHASE CARD  08/03/2024   08/29/2024 TRAIN/ORIENT/CONFERENCE FEES                                                      $137.79
+DLUM20240743  08/22/2024  CITIBANK - PURCHASE CARD  08/02/2024  OTHER CONTRACTUAL SERVICES                                                                      $15.98
+DLUM20240855  09/22/2024  CITIBANK - PURCHASE CARD  09/17/2024                                                                                                  $12.99
+DLUM20240856  09/22/2024  CITIBANK - PURCHASE CARD  09/18/2024   06/22/2024 AUDIO, VISUAL EQUIPMENT                                                             $64.56
+                                                                 08/03/2024 VOICE & DATA COMM EQUIPMENT                                                         $29.98
+                                                                 08/02/2024 VOICE & DATA COMM EQUIPMENT
+                                                                 09/17/2024 VOICE & DATA COMM EQUIPMENT                                                       $261.30
+                                                                 09/18/2024 VOICE & DATA COMM EQUIPMENT
+                                                                ACQUISITION OF ASSETS
+

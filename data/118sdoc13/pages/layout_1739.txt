@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME              OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+              POSTED                                         DATES
+                                                                          CHARLESTON TO THE FOLLOWING AND RETURN: 8/23 FAYETTEVILLE,                          $14.82
+                                                  START       END         BECKLEY, OAK HILL, SUMMERSVILLE; 8/24 FAYETTEVILLE                                $183.76
+                                                                          STAFF INCIDENTALS
+DMAN20240520  09/20/2024  GREGORY A HEWITT        08/28/2024  08/29/2024  STAFF PER DIEM                                                                      $53.75  B-1702
+                                                                          CHARLESTON TO LEWISBURG AND RETURN                                                $151.25
+DMAN20240521  09/15/2024  ROSEANN W FERRO         09/04/2024  09/04/2024  STAFF TRANSPORTATION
+DMAN20240523  09/20/2024  GREGORY A HEWITT        09/05/2024  09/05/2024  FAIRMONT TO WEIRTON AND RETURN                                                      $42.50
+DMAN20240524  09/15/2024  ROSEANN W FERRO         08/30/2024  08/30/2024  STAFF TRANSPORTATION                                                              $216.25
+DMAN20240525  09/20/2024  MARA C BOGGS            08/24/2024  08/24/2024  CHARLESTON TO FAYETTEVILLE, BECKLEY, LEWISBURG AND RETURN
+DMAN20240526  09/15/2024  MARA C BOGGS            08/22/2024  08/22/2024  STAFF TRANSPORTATION                                                                $71.25
+DMAN20240527  09/20/2024  MICHAEL W BROWNING      08/28/2024  08/28/2024  FAIRMONT TO NEW MARTINSVILLE AND RETURN                                           $133.62
+DMAN20240528  09/20/2024  AURELYN ELLEN VAN KIRK  09/04/2024  09/04/2024  STAFF TRANSPORTATION                                                              $118.12
+DMAN20240529  09/21/2024  JAMES WILLIAM STRAWN    09/12/2024  09/12/2024  CHARLESTON TO SAINT MARYS, MORGANTOWN AND RETURN
+DMAN20240530  09/27/2024  GREGORY A HEWITT        09/09/2024  09/11/2024  STAFF TRANSPORTATION                                                                $32.50
+DMAN20240531  09/21/2024  ROSEANN W FERRO         09/11/2024  09/11/2024  CHARLESTON TO FAYETTEVILLE AND RETURN                                             $244.37
+DMAN20240532  09/21/2024  ROSEANN W FERRO         09/12/2024  09/12/2024  STAFF TRANSPORTATION
+DMAN20240533  09/27/2024  FRANK JOSEPH JEZIORO    09/12/2024  09/12/2024  DANVILLE TO PARKERSBURG AND RETURN                                                  $37.50
+DMAN20240534  09/27/2024  ANDREW NELSON ROBINSON  09/11/2024  09/11/2024  STAFF TRANSPORTATION                                                                $46.25
+DMAN20240535  09/24/2024  PERRIN B BROWN          09/12/2024  09/12/2024  FAIRMONT TO PARKERSBURG AND RETURN                                                $113.75
+DMAN20240548  09/23/2024  SYLVIA V ASBURY         09/02/2024  09/02/2024  STAFF TRANSPORTATION                                                              $193.75
+DMAN20240549  09/28/2024  LOGAN E VAN DE WATER    08/26/2024  08/28/2024  CHARLESTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $85.11
+DMAN20240550  09/28/2024  FRANK JOSEPH JEZIORO    08/26/2024  08/28/2024  STAFF TRANSPORTATION                                                                $32.50
+DMAN20240551  09/30/2024  ROSEANN W FERRO         08/26/2024  08/28/2024  CHARLESTON TO THE FOLLOWING AND RETURN: 9/9 BECKLEY; 9/11 ELKINS                  $390.00
+DMAN20240552  09/23/2024  JAMES WILLIAM STRAWN    08/26/2024  08/26/2024  STAFF TRANSPORTATION                                                              $173.12
+DMAN20240553  09/23/2024  JAMES WILLIAM STRAWN    08/27/2024  08/27/2024  FAIRMONT TO NEW MARTINSVILLE AND RETURN                                           $283.75
+DMAN20240554  09/28/2024  JAMES WILLIAM STRAWN    08/28/2024  08/28/2024  STAFF TRANSPORTATION                                                                $65.00
+DMAN20240555  09/28/2024  MICHAEL W BROWNING      08/26/2024  08/28/2024  FAIRMONT TO WEIRTON AND RETURN                                                      $38.75
+DMAN20240556  09/28/2024  RYAN J MURGUIA          08/26/2024  08/28/2024  STAFF TRANSPORTATION                                                              $114.37
+                                                                          FLEMINGTON TO DAVIS AND RETURN                                                    $101.87
+                                                                          STAFF TRANSPORTATION                                                              $101.41
+                                                                          CHARLESTON TO MORGANTOWN AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                          STAFF TRANSPORTATION
+                                                                          CHARLESTON TO RACINE AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          WASHINGTON DC TO LANSING AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          FLEMINGTON TO LANSING AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          FAIRMONT TO LANSING AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          CHARLESTON TO FAYETTEVILLE AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          CHARLESTON TO FAYETTEVILLE AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          CHARLESTON TO WHITE SULPHUR SPRINGS AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          DANVILLE TO BECKLEY, LANSING AND RETURN
+                                                                          STAFF TRANSPORTATION
+

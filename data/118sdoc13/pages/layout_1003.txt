@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DCOT20240366                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                             $130.77
+DCOT20240367      04/22/2024  CITIBANK - TRAVEL CBA CARD        START       END         AIRFARE FOR P GELLER FAYETTEVILLE TO CHICAGO IL                                  $528.20
+                  04/26/2024                                                            STAFF TRANSPORTATION
+DCOT20240368                  CITIBANK - TRAVEL CBA CARD        03/13/2024  03/13/2024  AIRFARE FOR A HARDAGE WASHINGTON DC TO FAYETTEVILLE AND                          $729.29
+                  04/26/2024                                                            RETURN
+DCOT20240369                  MADISON A ERSTINE                 04/09/2024  04/11/2024  STAFF TRANSPORTATION                                                               $15.00
+                  04/25/2024                                                            AIRFARE FOR B PARKER AS FOLLOWS: 3/11 LITTLE ROCK TO WASHINGTON                    $97.51
+DCOT20240379                  DAVID R RIDER                     03/11/2024  03/12/2024  DC; 3/12 WASHINGTON DC TO LITTLE ROCK                                              $63.13
+DCOT20240380      04/24/2024  BRITTANY HELEN PARKER                                     STAFF INCIDENTALS                                                                  $15.00
+                  05/01/2024                                    03/27/2024  04/02/2024  STAFF TRANSPORTATION                                                             $110.33
+DCOT20240381                  CAMERON JOSEPH BANDY                                      WASHINGTON DC TO LITTLE ROCK, CONWAY AND RETURN                                    $66.08
+DCOT20240382      04/24/2024  DAVID R RIDER                     04/02/2024  04/02/2024  STAFF TRANSPORTATION                                                               $63.72
+DCOT20240383      04/24/2024  CAMERON JOSEPH BANDY              04/03/2024  04/03/2024  ARKADELPHIA TO CARTHAGE, SPARKMAN AND RETURN                                       $92.04
+DCOT20240384      04/24/2024  BRITTANY HELEN PARKER                                     STAFF PER DIEM                                                                   $146.91
+DCOT20240385      04/26/2024  JOHNATHAN C WHITE                 04/03/2024  04/03/2024  STAFF TRANSPORTATION                                                             $251.34   B-985
+DCOT20240386      04/26/2024  MCKENNA L NICHOLSON               04/04/2024  04/04/2024  ROGERS TO VAN BUREN, GREENWOOD AND RETURN                                          $41.30
+DCOT20240387      04/30/2024  BRITTANY HELEN PARKER             04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                               $86.14
+DCOT20240388      04/30/2024  CAMERON JOSEPH BANDY              04/04/2024  04/04/2024  JONESBORO TO OSCEOLA AND RETURN                                                    $46.02
+DCOT20240389      04/30/2024  BRITTANY HELEN PARKER             04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                               $93.81
+DCOT20240390      04/30/2024  CAMERON JOSEPH BANDY              04/08/2024  04/08/2024  ARKADELPHIA TO NASHVILLE AND RETURN                                                $25.96
+DCOT20240391      04/30/2024  MCKENNA L NICHOLSON               04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                               $24.78
+DCOT20240392      04/30/2024  DAVID R RIDER                     04/09/2024  04/09/2024  JONESBORO TO CARUTHERSVILLE MO AND RETURN                                        $118.00
+DCOT20240393      04/30/2024  CAMERON JOSEPH BANDY              04/10/2024  04/10/2024  STAFF TRANSPORTATION                                                               $73.16
+DCOT20240394      04/30/2024  MCKENNA L NICHOLSON               04/10/2024  04/10/2024  ROGERS TO CLARKSVILLE, FORT SMITH AND RETURN                                     $138.06
+DCOT20240395      04/30/2024  BRITTANY HELEN PARKER             04/11/2024  04/11/2024  STAFF TRANSPORTATION                                                             $260.72
+                  04/30/2024                                    04/11/2024  04/11/2024  LITTLE ROCK TO CARUTHERSVILLE MO AND RETURN
+DCOT20240396                  MCKENNA L NICHOLSON               04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                               $20.65
+DCOT20240397      05/02/2024  CAMERON JOSEPH BANDY              04/12/2024  04/12/2024  LITTLE ROCK TO CONWAY AND RETURN                                                 $153.40
+                  04/30/2024                                    04/15/2024  04/16/2024  STAFF TRANSPORTATION
+                                                                                        ROGERS TO VAN BUREN AND RETURN
+                                                                04/15/2024  04/15/2024  STAFF TRANSPORTATION
+                                                                04/15/2024  04/15/2024  JONESBORO TO POCAHONTAS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ROGERS TO FORT SMITH AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        JONESBORO TO PARAGOULD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LITTLE ROCK TO BRYANT AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ARKADELPHIA TO STAR CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        JONESBORO TO FORREST CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LITTLE ROCK TO BIG FLAT AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ROGERS TO THE FOLLOWING AND RETURN: 4/15 LITTLE ROCK; 4/16 ELM
+                                                                                        SPRINGS
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LITTLE ROCK TO CONWAY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

@@ -1,0 +1,62 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE      DESCRIPTION                                                            AMOUNT ($)
+                  POSTED                                              DATES
+DRUB20240980                                                                                                                                                                $16.08
+DRUB20240981                                               START       END
+DRUB20240982                                                                                                                                                                 $8.50
+DRUB20240983      09/16/2024  MATTHEW R DEWS               08/28/2024                        MIAMI OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DRUB20240984      09/16/2024  DANIEL R PAASCH                           08/28/2024 STAFF TRANSPORTATION                                                                      $6.03
+DRUB20240997      09/16/2024  DANIEL R PAASCH              07/26/2024
+                  09/20/2024  DANIEL R PAASCH                                                JACKSONVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $1.07
+DRUB20241000      09/20/2024  DANIEL R PAASCH              08/13/2024   07/26/2024 STAFF TRANSPORTATION
+DRUB20241002      09/26/2024  THOMAS SCOTT BARNHORST                                                                                                                         $2.14
+DRUB20241003                                               08/16/2024                        TALLAHASSEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DRUB20241004      09/18/2024  DANIEL JOSE ZUNIGA                        08/13/2024 STAFF TRANSPORTATION                                                                     $82.25  B-2182
+DRUB20241005      09/20/2024  ASHLEY E COOK                07/12/2024                                                                                                     $843.58
+DRUB20241006      09/27/2024  GREGORY A LANGOWSKI                                            TALLAHASSEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $957.11
+DRUB20241016      09/20/2024  DANIEL R PAASCH              08/07/2024   08/16/2024 STAFF TRANSPORTATION
+DRUB20241017      09/20/2024  DANIEL R PAASCH                                                                                                                               $77.77
+DRUB20241018      09/20/2024  DANIEL R PAASCH              06/01/2024                        TALLAHASSEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DRUB20241019      09/26/2024  CITIBANK - SENATOR IBA CARD               07/12/2024 STAFF TRANSPORTATION                                                                     $79.73
+                  09/26/2024  CITIBANK - SENATOR IBA CARD  08/01/2024
+0002852503        09/26/2024  CITIBANK - SENATOR IBA CARD                                    TALLAHASSEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $654.59
+0002853689        09/26/2024  CITIBANK - SENATOR IBA CARD  08/02/2024   08/11/2024 STAFF INCIDENTALS
+0002854399                                                                                                                                                                   $4.69
+0002855886                                                 07/31/2024                        STAFF PER DIEM
+0002858811                                                                                   STAFF TRANSPORTATION                                                            $4.62
+DRUB20240503                                               08/30/2024                        WASHINGTON DC TO MIAMI, GAINESVILLE, MIAMI AND RETURN
+DRUB20240700                                                            06/30/2024 STAFF TRANSPORTATION                                                                      $2.41
+DRUB20240724                                               07/03/2024                        MIAMI OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DRUB20240811                                                            08/28/2024 STAFF TRANSPORTATION                                                                   $380.09
+DRUB20240845                                               09/12/2024                        JACKSONVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DRUB20240846                                                            08/30/2024 STAFF TRANSPORTATION                                                                   $380.09
+DRUB20240847                                               09/16/2024                        PALM BEACH GARDENS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DRUB20240969                                                            07/31/2024 STAFF TRANSPORTATION                                                                   $380.09
+                                                           09/19/2024                        TALLAHASSEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                        08/30/2024 STAFF TRANSPORTATION                                                                   $380.09
+                                                           09/23/2024                        TALLAHASSEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                        07/03/2024 STAFF TRANSPORTATION                                                               $89,099.93
+                                                           02/01/2024                        TALLAHASSEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $50.00
+                                                           03/01/2024   09/12/2024 SENATOR TRANSPORTATION                                                                   $50.00
+                                                           04/01/2024                        AIRFARE FOR SEN RUBIO WASHINGTON DC TO MIAMI                                   $90.00
+                                                           05/01/2024   09/16/2024 SENATOR TRANSPORTATION                                                                   $30.00
+                                                           07/01/2024                        AIRFARE FOR SEN RUBIO MIAMI TO WASHINGTON DC                                   $30.00
+                                                           03/14/2024   09/19/2024 SENATOR TRANSPORTATION                                                                   $21.42
+                                                           05/22/2024                        AIRFARE FOR SEN RUBIO WASHINGTON DC TO MIAMI
+                                                           05/30/2024   09/23/2024 SENATOR TRANSPORTATION                                                                 $348.00
+                                                           07/02/2024                        AIRFARE FOR SEN RUBIO MIAMI TO WASHINGTON DC                                    $9.99
+                                                           05/14/2024  TRAVEL AND TRANSPORTATION OF PERSONS
+                                                           06/14/2024                                                                                                  $3,598.00
+                  04/18/2024  SERGEANT AT ARMS             07/14/2024  02/29/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                           $13.40
+                  05/14/2024  SERGEANT AT ARMS             08/14/2024  03/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                           $19.23
+                  05/23/2024  SERGEANT AT ARMS                         04/30/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                            $1.13
+                  06/27/2024  SERGEANT AT ARMS                         05/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                            $7.06
+                  09/13/2024  SERGEANT AT ARMS                         07/31/2024  FEDERAL AUDIO, VISUAL RECORDNG
+                  04/09/2024  CITIBANK - PURCHASE CARD                 03/14/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  06/06/2024  CITIBANK - PURCHASE CARD                 05/22/2024  FINANCIAL DISCLOSURE PREP
+                  06/13/2024  CITIBANK - PURCHASE CARD                 05/30/2024  VOICE, DATA COMM EQP MAINT
+                  07/16/2024  CITIBANK - PURCHASE CARD                 07/02/2024  FINANCIAL DISCLOSURE PREP
+                  07/25/2024  CITIBANK - PURCHASE CARD                 05/14/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  07/25/2024  CITIBANK - PURCHASE CARD                 06/14/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  07/30/2024  CITIBANK - PURCHASE CARD                 07/14/2024  TRANSCRIPTS, STUDIES, OFF DOC
+                  09/15/2024  CITIBANK - PURCHASE CARD                 08/14/2024  TRANSCRIPTS, STUDIES, OFF DOC
+

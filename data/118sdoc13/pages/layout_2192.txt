@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+              POSTED                                               DATES
+                                                                                STAFF TRANSPORTATION                                                                 $72.89
+                                                        START       END         SIOUX FALLS TO MADISON AND RETURN                                                    $65.66
+                                                                                STAFF TRANSPORTATION                                                                 $21.67
+DROU20240948  09/09/2024  GRALING PETE CARMICHAEL       08/22/2024  08/22/2024  RAPID CITY TO WALL AND RETURN                                                      $385.25
+DROU20240951  09/12/2024  SHELBY R LINKE                08/19/2024  08/22/2024  STAFF PER DIEM                                                                     $144.28
+                                                                                STAFF TRANSPORTATION                                                            $1,018.83
+DROU20240953  09/11/2024  MATTHEW R YETTER              08/18/2024  08/23/2024  SIOUX FALLS TO MITCHELL AND RETURN                                                   $44.99
+                                                                                STAFF INCIDENTALS                                                                  $149.60
+DROU20240955  09/09/2024  CITIBANK - TRAVEL CBA CARD    08/24/2024  08/24/2024  STAFF PER DIEM                                                                       $30.00  B-2155
+DROU20240956  09/09/2024  CITIBANK - TRAVEL CBA CARD    08/19/2024  08/19/2024  STAFF TRANSPORTATION                                                               $469.20
+DROU20240957  09/09/2024  CITIBANK - TRAVEL CBA CARD    08/18/2024  08/23/2024  WASHINGTON DC TO GLENVIEW, RAPID CITY AND RETURN
+                                                                                STAFF TRANSPORTATION                                                                 $30.00
+DROU20240958  09/09/2024  CITIBANK - TRAVEL CBA CARD    08/15/2024  08/15/2024  AIRFARE FOR W VAN CAMP SIOUX FALLS TO WASHINGTON DC                                $450.20
+DROU20240959  09/10/2024  CITIBANK - TRAVEL CBA CARD    08/18/2024  08/23/2024  TICKET FEES
+                                                                                STAFF TRANSPORTATION                                                                 $30.00
+DROU20240960  09/09/2024  CITIBANK - TRAVEL CBA CARD    08/15/2024  08/15/2024  AIRFARE FOR A BRAUN WASHINGTON DC TO SIOUX FALLS, RAPID CITY AND                   $124.36
+DROU20240961  08/28/2024  ANDREW P BRAUN                08/18/2024  08/23/2024  RETURN                                                                          $1,025.78
+                                                                                TICKET FEES
+DROU20240962  09/09/2024  JAMES STEVEN SELCHERT         08/20/2024  08/22/2024  STAFF TRANSPORTATION                                                                 $75.30
+                                                                                AIRFARE FOR M YETTER WASHINGTON DC TO CHICAGO IL, RAPID CITY AND                     $24.60
+DROU20240963  09/10/2024  CAPITAL CITY AIR CARRIER INC  08/06/2024  08/06/2024  RETURN                                                                             $319.57
+                                                                                TICKET FEES                                                                        $373.86
+DROU20240964  09/10/2024  CAPITAL CITY AIR CARRIER INC  08/07/2024  08/07/2024  STAFF INCIDENTALS                                                               $5,718.13
+DROU20240965  09/10/2024  CAPITAL CITY AIR CARRIER INC  08/09/2024  08/09/2024  STAFF PER DIEM
+DROU20240966  09/10/2024  CAPITAL CITY AIR CARRIER INC  08/12/2024  08/12/2024  STAFF TRANSPORTATION                                                            $4,404.96
+DROU20240967  09/10/2024  CAPITAL CITY AIR CARRIER INC  08/13/2024  08/13/2024  WASHINGTON DC TO SIOUX FALLS, RAPID CITY AND RETURN                             $4,388.69
+DROU20240968  09/10/2024  CAPITAL CITY AIR CARRIER INC  08/16/2024  08/16/2024  STAFF INCIDENTALS                                                               $7,294.71
+                                                                                STAFF PER DIEM                                                                  $6,691.29
+DROU20240969  09/10/2024  CAPITAL CITY AIR CARRIER INC  08/20/2024  08/20/2024  STAFF TRANSPORTATION                                                           $10,131.83
+DROU20240972  09/10/2024  ROBERT T SKJONSBERG           03/11/2024  03/11/2024  RAPID CITY TO MITCHELL AND RETURN
+DROU20240973  09/10/2024  ROBERT T SKJONSBERG           03/27/2024  03/27/2024  SENATOR TRANSPORTATION                                                          $5,061.63
+                                                                                AIRFARE FOR SEN ROUNDS PIERRE TO HOT SPRINGS, RAPID CITY AND                       $304.85
+                                                                                RETURN                                                                             $274.70
+                                                                                SENATOR TRANSPORTATION
+                                                                                AIRFARE FOR SEN ROUNDS PIERRE TO SIOUX FALLS AND RETURN
+                                                                                SENATOR TRANSPORTATION
+                                                                                AIRFARE FOR SEN ROUNDS PIERRE TO SISSETON AND RETURN
+                                                                                SENATOR TRANSPORTATION
+                                                                                AIRFARE FOR SEN ROUNDS RAPID CITY TO PIERRE, RAPID CITY TO PIERRE
+                                                                                SENATOR TRANSPORTATION
+                                                                                AIRFARE FOR SEN ROUNDS PIERRE TO ABERDEEN, PIERRE TO RAPID CITY
+                                                                                SENATOR TRANSPORTATION
+                                                                                AIRFARE FOR SEN ROUNDS RAPID CITY TO PIERRE, SIOUX FALLS,
+                                                                                WATERTOWN, PIERRE AND RETURN
+                                                                                SENATOR TRANSPORTATION
+                                                                                AIRFARE FOR SEN ROUNDS PIERRE TO RAPID CITY AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                PIERRE TO SIOUX FALLS AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                PIERRE TO RAPID CITY AND RETURN
+

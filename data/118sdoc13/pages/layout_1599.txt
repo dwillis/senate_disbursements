@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+              POSTED                                             DATES
+                                                                              STAFF PER DIEM                                                             $149.07
+                                                      START       END         STAFF TRANSPORTATION                                                       $333.38
+                                                                              MOORHEAD TO MINNEAPOLIS, SAINT PAUL AND RETURN                             $100.50
+DKLO20240265  04/05/2024  PATRICK D KELLIHER          01/03/2024  03/01/2024  STAFF TRANSPORTATION                                                                 B-1562
+DKLO20240267  04/08/2024  BENJAMIN J LIEN             03/08/2024  03/08/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $10.02
+                                                                              STAFF PER DIEM                                                             $140.03
+DKLO20240268  04/01/2024  ANDREA A HERNANDEZ DELGADO  03/08/2024  03/08/2024  STAFF TRANSPORTATION
+DKLO20240273  04/08/2024  BENJAMIN J LIEN             03/14/2024  03/14/2024  MOORHEAD TO ALEXANDRIA AND RETURN                                             $6.03
+                                                                              STAFF TRANSPORTATION                                                         $23.00
+DKLO20240274  04/08/2024  BENJAMIN J LIEN             03/15/2024  03/15/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $121.27
+                                                                              STAFF PER DIEM                                                               $10.70
+DKLO20240275  04/11/2024  SORENSEN,RACHEL             03/13/2024  03/13/2024  STAFF TRANSPORTATION                                                       $138.69
+DKLO20240276  04/08/2024  CHARLES R ACKMAN            03/19/2024  03/19/2024  MOORHEAD TO PARK RAPIDS AND RETURN                                           $30.21
+DKLO20240277  04/22/2024  PATRICK D KELLIHER          03/22/2024  03/23/2024  STAFF PER DIEM                                                             $105.86
+                                                                              STAFF TRANSPORTATION                                                         $16.97
+DKLO20240278  04/08/2024  RACHEL C LOEFFLER-KEMP      10/19/2023  10/19/2023  MOORHEAD TO WARREN AND RETURN                                              $194.83
+DKLO20240280  04/08/2024  RACHEL C LOEFFLER-KEMP      10/12/2023  10/12/2023  STAFF TRANSPORTATION                                                       $388.39
+DKLO20240284  04/08/2024  RACHEL C LOEFFLER-KEMP      11/20/2023  11/20/2023  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $208.29
+DKLO20240285  04/08/2024  RACHEL C LOEFFLER-KEMP      11/28/2023  11/28/2023  STAFF TRANSPORTATION                                                       $154.58
+                                                                              FARIBAULT TO MINNEAPOLIS, MANKATO AND RETURN                               $209.60
+DKLO20240287  04/02/2024  ANDREA A HERNANDEZ DELGADO  03/20/2024  03/20/2024  STAFF INCIDENTALS                                                            $19.88
+DKLO20240289  04/08/2024  RACHEL C LOEFFLER-KEMP      12/15/2023  12/15/2023  STAFF PER DIEM                                                             $191.91
+DKLO20240291  04/08/2024  RACHEL C LOEFFLER-KEMP      01/12/2024  01/12/2024  STAFF TRANSPORTATION                                                         $14.74
+                                                                              MINNEAPOLIS TO MOORHEAD, HALSTAD, MAHNOMEN AND RETURN                      $115.28
+DKLO20240292  04/08/2024  RACHEL C LOEFFLER-KEMP      01/30/2024  01/30/2024  STAFF TRANSPORTATION                                                         $10.52
+                                                                              DULUTH TO MINNEAPOLIS AND RETURN                                           $214.40
+DKLO20240295  04/02/2024  ANDREA A HERNANDEZ DELGADO  03/22/2024  03/22/2024  STAFF TRANSPORTATION                                                         $13.43
+DKLO20240296  04/08/2024  RACHEL C LOEFFLER-KEMP      02/05/2024  02/05/2024  DULUTH TO BAXTER AND RETURN                                                $134.00
+DKLO20240299  04/08/2024  RACHEL C LOEFFLER-KEMP      02/23/2024  02/23/2024  STAFF TRANSPORTATION                                                         $22.78
+                                                                              DULUTH TO MINNEAPOLIS AND RETURN                                           $161.47
+                                                                              STAFF PER DIEM                                                               $32.94
+                                                                              STAFF TRANSPORTATION                                                       $134.00
+                                                                              VIRGINIA TO GRAND RAPIDS, RUSH CITY AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              DULUTH TO LUTSEN AND RETURN
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              DULUTH TO SAUK RAPIDS, BRAINERD AND RETURN
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              VIRGINIA TO INTERNATIONAL FALLS AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              VIRGINIA TO WALKER AND RETURN
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              DULUTH TO BRAHAM AND RETURN
+

@@ -1,0 +1,62 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME     OBLIGATION/SERVICE      DESCRIPTION                  AMOUNT ($)
+                   POSTED                                                     DATES
+VSAA22406975                  HEWLETT PACKARD ENTERPRISE                                                                             $2,832.76
+VSAA22407117      07/20/2024  COMPANY                              START       END                                                  $97,440.00
+VSAA22407240      07/29/2024  SNAPSTREAM MEDIA INC
+VSAA22407255      07/30/2024  HEWLETT PACKARD ENTERPRISE           05/21/2024  06/20/2024  VOICE, DATA COMM EQP MAINT                $1,682.64
+VSAA22407294      07/31/2024  COMPANY                                                                                                $9,909.79
+VSAA22407537      08/09/2024  MOTOROLA SOLUTIONS INC               07/01/2024  06/30/2025  AUDIO, VISUAL EQUIP MAINT                 $9,909.79
+VSAA22407538      08/14/2024  MOTOROLA SOLUTIONS INC                                                                                $69,513.53
+VSAA22407539      08/13/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS  06/21/2024  07/20/2024  VOICE, DATA COMM EQP MAINT               $68,519.00
+VSAA22407540      08/13/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS                                                                   $68,519.00
+VSAA22407646      08/09/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS  05/23/2024  06/22/2024  VOICE, DATA COMM EQP MAINT               $68,519.00
+VSAA22407665      08/15/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS  06/23/2024  07/22/2024  VOICE, DATA COMM EQP MAINT                $3,325.22
+VSAA22407944      08/20/2024  LIFECARE INC                         05/01/2024  05/31/2024  TECHNICAL SUPPORT                        $16,309.00
+                  09/03/2024  PERATON ENTERPRISE SOLUTIONS         05/01/2024  05/31/2024  TECHNICAL SUPPORT                         $1,682.64
+VSAA22407968                  HEWLETT PACKARD ENTERPRISE           06/01/2024  06/30/2024  TECHNICAL SUPPORT
+                  09/10/2024  COMPANY                              07/01/2024  07/31/2024  TECHNICAL SUPPORT                         $2,754.88
+VSAA22407969                  HEWLETT PACKARD ENTERPRISE           07/01/2024  07/31/2024  TECHNICAL SUPPORT
+VSAA22408100      09/09/2024  COMPANY                              04/02/2024  04/02/2024  TECHNICAL SUPPORT                         $2,754.88
+VSAA22408204      09/17/2024  HEWLETT PACKARD ENTERPRISE                                                                             $9,909.79
+VSAA22408211      09/15/2024  COMPANY                              07/21/2024  08/20/2024  VOICE, DATA COMM EQP MAINT               $69,513.53
+VSAA22408309      09/15/2024  MOTOROLA SOLUTIONS INC                                                                                $68,519.00
+VSAA22408323      09/06/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS  06/21/2024  07/20/2024 VOICE, DATA COMM EQP MAINT                 $7,782.38
+VSAA22408545      09/19/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS                                                                    $3,325.22
+VSAA22408546      09/27/2024  U S CAPITOL POLICE                   07/21/2024  08/20/2024  VOICE, DATA COMM EQP MAINT               $69,513.53    B-351
+VSAA22408667      09/27/2024  LIFECARE INC                                                                                          $69,513.53
+                  09/20/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS  07/23/2024  08/22/2024  VOICE, DATA COMM EQP MAINT
+VSAA22408668                  IRON MOUNTAIN DBA CROZIER FINE ARTS  08/01/2024  08/31/2024  TECHNICAL SUPPORT                              $77.88
+                  09/21/2024  HEWLETT PACKARD ENTERPRISE           08/01/2024  08/31/2024  TECHNICAL SUPPORT
+00508836                      COMPANY                              02/18/2024  02/26/2024  PHYSICAL SECURITY                              $77.88
+00514302          05/13/2024  HEWLETT PACKARD ENTERPRISE           08/01/2024  08/31/2024  TECHNICAL SUPPORT
+00514383          05/21/2024  COMPANY                              06/01/2024  06/30/2024  TECHNICAL SUPPORT                    $2,009,597.34
+DSAA22M53678      05/22/2024                                       07/01/2024  07/31/2024  TECHNICAL SUPPORT
+DSAA22M53688      07/26/2024  WHITAKER BROTHERS BUSINESS                                                                            -$1,250.00
+DSAA22M53689      09/20/2024  MACHINES INC                         06/21/2024  07/20/2024  VOICE, DATA COMM EQP MAINT                  -$298.20
+VSAA22403861      09/23/2024  PERATON ENTERPRISE SOLUTIONS LLC
+VSAA22403862      04/29/2024  OMNI BUSINESS SYSTEMS, INC           07/21/2024   08/20/2024 VOICE, DATA COMM EQP MAINT              -$10,790.00
+VSAA22403863      04/30/2024  CITIBANK - PURCHASE CARD                         OTHER CONTRACTUAL SERVICES                               $129.99
+VSAA22403864      04/30/2024  CITIBANK - PURCHASE CARD             05/13/2024
+VSAA22403866      04/30/2024  CITIBANK - PURCHASE CARD                         05/13/2024  IT EQUIPMENT                              $4,303.58
+VSAA22403868      04/29/2024  T MOBILE                             05/21/2024                                                           $260.00
+VSAA22403869      04/30/2024  T MOBILE                             05/21/2024  05/21/2024  AUDIO, VISUAL EQUIPMENT
+VSAA22404000      04/30/2024  T MOBILE                             07/12/2024  05/21/2024  IT EQUIPMENT                              $1,069.99
+VSAA22404042      04/16/2024  T MOBILE                             09/05/2024  07/13/2024  IT EQUIPMENT                              $1,069.99
+VSAA22404391      04/09/2024  T MOBILE                             09/13/2024  09/10/2024  AUDIO, VISUAL EQUIPMENT
+VSAA22404488      04/18/2024  T MOBILE                             05/16/2023  09/13/2024  VOICE & DATA COMM EQUIPMENT                  $399.99
+VSAA22404658      04/16/2024  T MOBILE                             05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT               $6,089.94
+VSAA22404690      04/30/2024  LEIDOS DIGITAL SOLUTIONS INC         05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+                  04/30/2024  GENERAL DYNAMICS INFORMATION TECH    05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                  $799.98
+                              INC                                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT               $1,057.98
+                              LEIDOS DIGITAL SOLUTIONS INC         05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+                              AUTOMATED SIGNATURE TECHNOLOGY INC   05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                  $399.99
+                              AT&T MOBILITY                        01/01/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                  $144.00
+                              PERATON ENTERPRISE SOLUTIONS                     12/31/2023  SOFTWARE LICENSE                          $1,614.04
+                                                                   10/01/2023                                                        $1,600.00
+                                                                               10/31/2023  VOICE & DATA COMM EQUIPMENT                  $240.00
+                                                                   02/01/2024
+                                                                   09/05/2023  02/29/2024  SOFTWARE LICENSE                               $59.98
+                                                                   06/23/2022  09/05/2023  IT EQUIPMENT                                 $624.00
+                                                                   03/14/2024  06/23/2022  VOICE & DATA COMM EQUIPMENT
+                                                                               03/14/2024  VOICE & DATA COMM EQUIPMENT
+

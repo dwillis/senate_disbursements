@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DSAA24M53959                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                            $207.10
+DSAA24M53960      09/16/2024  CITIBANK - TRAVEL CBA CARD        START       END         AIRFARE FOR K SIMS WASHINGTON DC TO NEW ORLEANS LA
+DSAA24M53961      09/13/2024  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                       $30.00
+                  09/16/2024                                    08/05/2024  08/05/2024  STAFF TRANSPORTATION                                                            $566.19
+DSAA24M53962                  CITIBANK - TRAVEL CBA CARD                                AIRFARE FOR F THOMPSON WASHINGTON DC TO MONTGOMERY AL AND
+DSAA24M53963      09/13/2024  CITIBANK - TRAVEL CBA CARD        08/02/2024  08/02/2024  RETURN                                                                            $30.00
+DSAA24M53964      09/13/2024  CITIBANK - TRAVEL CBA CARD        08/06/2024  08/07/2024  TICKET FEES                                                                       $30.00
+                  09/16/2024                                                            TICKET FEES                                                                     $516.20
+DSAA24M53965                  CITIBANK - TRAVEL CBA CARD        08/02/2024  08/02/2024  STAFF TRANSPORTATION
+DSAA24M53966      09/13/2024  CITIBANK - TRAVEL CBA CARD        08/09/2024  08/09/2024  AIRFARE FOR C KAEMKE WASHINGTON DC TO MINNEAPOLIS MN AND                          $30.00
+DSAA24M53967      09/16/2024  CITIBANK - TRAVEL CBA CARD        08/14/2024  08/16/2024  RETURN                                                                          $298.20
+DSAA24M53968      09/16/2024  CITIBANK - TRAVEL CBA CARD                                TICKET FEES
+                  09/16/2024                                    08/12/2024  08/12/2024  STAFF TRANSPORTATION                                                              $30.00
+DSAA24M54044                  KYLE SCOTT RASH                   08/15/2024  08/15/2024  AIRFARE FOR L MIKEAL RALEIGH NC TO WASHINGTON DC AND RETURN                     $304.95
+                  09/18/2024                                                            TICKET FEES
+                                                                08/12/2024  08/12/2024  STAFF TRANSPORTATION                                                              $70.20
+                                                                08/13/2024  08/14/2024  TRAIN FARE FOR K SUMMERS WASHINGTON DC TO NEW YORK NY AND                       $972.24
+                                                                                        RETURN                                                                          $798.97
+                                                                08/16/2024  08/23/2024  STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM                                                                  $132.99
+DSAA24M54045      09/27/2024  CARLY RAE FLICK                   08/08/2024  08/10/2024  STAFF TRANSPORTATION                                                                      B-405
+DSAA24M54049      09/25/2024  REGINALD ROBERSON                 09/02/2024  09/06/2024  TRIANGLE TO WASHINGTON DC, CHICAGO IL, MUNSTER IN, CHICAGO IL,                  $102.70
+                                                                                        MUNSTER IN, CHICAGO IL, WASHINGTON DC AND RETURN                                $890.30
+DSAA24M54050      09/23/2024  HEIDI M DEWAN                     08/26/2024  08/28/2024  STAFF TRANSPORTATION                                                            $371.05
+                                                                                        WASHINGTON DC TO MCLEAN VA AND RETURN
+DSAA24M54056      09/24/2024  JANA J PIERCE                     08/26/2024  08/30/2024  STAFF INCIDENTALS                                                                 $59.52
+DSAA24M54062                                                                            STAFF PER DIEM                                                                  $494.42
+                  09/19/2024  JEANNE MARIE FAHEY                08/25/2024  08/30/2024  STAFF TRANSPORTATION                                                            $188.99
+                                                                                        PITTSBURGH TO RESTON VA AND RETURN
+DSAA24M54075      09/25/2024  ROSCOE O HUNTER JR                08/13/2024  08/14/2024  STAFF INCIDENTALS                                                                 $65.72
+DSAA24M54088                                                                            STAFF PER DIEM                                                                  $698.03
+                  09/27/2024  ANDREW J GUYER                    09/09/2024  09/12/2024  STAFF TRANSPORTATION                                                            $183.34
+                                                                                        ALEXANDRIA TO MILWAUKEE WI, ELKHART LAKE WI, MILWAUKEE WI AND
+                                                                                        RETURN                                                                          $213.37
+                                                                                        STAFF INCIDENTALS                                                            $1,260.01
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                            $215.87
+                                                                                        BENTON TO TUCSON AZ, PHOENIX AZ, IRVING TX AND RETURN
+                                                                                        STAFF INCIDENTALS                                                                 $36.56
+                                                                                        STAFF PER DIEM                                                                  $327.96
+                                                                                        STAFF TRANSPORTATION                                                            $118.66
+                                                                                        ARLINGTON TO WASHINGTON DC, CHICAGO IL, WASHINGTON DC AND
+                                                                                        RETURN                                                                          $144.24
+                                                                                        STAFF INCIDENTALS                                                            $1,016.00
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                            $601.67
+                                                                                        CLINTON TO WASHINGTON DC, NEW YORK NY TO WASHINGTON DC
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+

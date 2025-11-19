@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+              POSTED                                              DATES
+                                                                               STAFF PER DIEM                                                                 $561.57
+                                                       START       END         STAFF TICKET FEES                                                                $40.00
+                                                                               STAFF TRANSPORTATION
+DBTL20240521  09/12/2024  MARVIN B FIGUEROA            07/11/2024  07/13/2024  BERKELEY TO OAKLAND, LOS ANGELES, INGLEWOOD, LOS ANGELES,                      $570.13
+                                                                               BEVERLY HILLS, INGLEWOOD, LOS ANGELES, OAKLAND AND RETURN
+DBTL20240522  08/27/2024  ALEXANDER H CHANG            07/15/2024  08/04/2024  STAFF INCIDENTALS                                                              $131.87   B-757
+DBTL20240523  08/27/2024  CHESNA A FOORD               07/23/2024  07/23/2024  STAFF PER DIEM                                                                 $379.83
+DBTL20240524  08/27/2024  CHESNA A FOORD               07/24/2024  07/24/2024  STAFF TRANSPORTATION                                                           $347.35
+DBTL20240525  08/27/2024  CHESNA A FOORD               07/26/2024  07/26/2024  WASHINGTON DC TO NEW YORK NY AND RETURN                                        $121.80
+DBTL20240526  08/27/2024  GENEVA M MONTELEONE          08/08/2024  08/08/2024  STAFF TRANSPORTATION
+DBTL20240527  08/27/2024  NICHOLAS FIDENCIO HERNANDEZ  08/07/2024  08/07/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $4.02
+DBTL20240528  08/27/2024  NICHOLAS FIDENCIO HERNANDEZ  08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                             $12.06
+DBTL20240529  08/27/2024  EDWIN A SEVILLA              08/01/2024  08/01/2024  NEWPORT BEACH TO IRVINE AND RETURN
+                                                                               STAFF TRANSPORTATION                                                              $2.01
+DBTL20240530  08/27/2024  GENEVA M MONTELEONE          07/31/2024  07/31/2024  NEWPORT BEACH TO SANTA ANA AND RETURN                                            $27.42
+DBTL20240531  08/27/2024  CHESNA A FOORD               07/31/2024  07/31/2024  STAFF TRANSPORTATION
+DBTL20240532  08/27/2024  NICHOLAS FIDENCIO HERNANDEZ  07/29/2024  07/29/2024  IN AND AROUND NEWPORT BEACH                                                       $5.36
+DBTL20240533  08/30/2024  CHESNA A FOORD               08/08/2024  08/08/2024  STAFF TRANSPORTATION                                                             $16.61
+DBTL20240534  09/03/2024  CHESNA A FOORD               08/11/2024  08/15/2024  LOS ANGELES TO CULVER CITY AND RETURN
+                                                                               STAFF TRANSPORTATION                                                              $5.75
+DBTL20240547  09/10/2024  NICHOLAS FIDENCIO HERNANDEZ  08/15/2024  08/15/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $60.30
+DBTL20240548  09/10/2024  NICHOLAS FIDENCIO HERNANDEZ  08/16/2024  08/16/2024  STAFF TRANSPORTATION                                                             $41.54
+DBTL20240549  09/10/2024  NICHOLAS FIDENCIO HERNANDEZ  08/22/2024  08/22/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $93.48
+DBTL20240561  09/14/2024  KATELYN S CURRIE             07/21/2024  08/02/2024  STAFF PER DIEM                                                                   $35.24
+                                                                               STAFF TRANSPORTATION
+                                                                               SAN FRANCISCO TO LIVERMORE AND RETURN                                             $4.02
+                                                                               STAFF TRANSPORTATION                                                             $99.16
+                                                                               CULVER CITY TO LONG BEACH AND RETURN                                           $305.45
+                                                                               STAFF TRANSPORTATION                                                             $37.50
+                                                                               NEWPORT BEACH TO RIVERSIDE, COACHELLA AND RETURN                               $344.45
+                                                                               STAFF TRANSPORTATION
+                                                                               LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $18.62
+                                                                               STAFF TRANSPORTATION                                                             $12.59
+                                                                               NEWPORT BEACH TO IRVINE AND RETURN
+                                                                               STAFF INCIDENTALS                                                                 $5.36
+                                                                               STAFF PER DIEM                                                                 $336.84
+                                                                               STAFF TICKET FEES                                                           $2,526.07
+                                                                               STAFF TRANSPORTATION
+                                                                               NEWPORT BEACH TO SANTA ANA, SAN FRANCISCO, STATELINE NV, RENO                    $48.75
+                                                                               NV, SANTA ANA AND RETURN                                                       $358.80
+                                                                               STAFF TRANSPORTATION
+                                                                               LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF INCIDENTALS
+                                                                               STAFF PER DIEM
+                                                                               STAFF TICKET FEES
+                                                                               STAFF TRANSPORTATION
+

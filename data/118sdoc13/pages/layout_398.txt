@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                  POSTED                                             DATES
+DSAA24M51971                                                                      AIRFARE FOR N DUNIFON WASHINGTON DC TO CHICAGO IL                                  $30.00
+DSAA24M51972                                              START       END         TICKET FEES                                                                      $129.10
+                                                                                  STAFF TRANSPORTATION
+DSAA24M51973      04/26/2024  CITIBANK - TRAVEL CBA CARD  03/14/2024  03/14/2024  AIRFARE FOR L EAGAN WASHINGTON DC TO CHICAGO IL                                    $30.00  B-380
+DSAA24M51974      04/30/2024  CITIBANK - TRAVEL CBA CARD  03/17/2024  03/17/2024  TICKET FEES                                                                      $129.10
+                                                                                  STAFF TRANSPORTATION
+DSAA24M51975      04/26/2024  CITIBANK - TRAVEL CBA CARD  03/19/2024  03/19/2024  AIRFARE FOR N DUNIFON CHICAGO IL TO WASHINGTON DC                                  $30.00
+DSAA24M51976      05/02/2024  CITIBANK - TRAVEL CBA CARD  03/19/2024  03/19/2024  TICKET FEES                                                                      $129.10
+                                                                                  STAFF TRANSPORTATION
+DSAA24M51977      04/26/2024  CITIBANK - TRAVEL CBA CARD  03/19/2024  03/19/2024  AIRFARE FOR L EAGAN CHICAGO IL TO WASHINGTON DC                                    $30.00
+DSAA24M51978      05/02/2024  CITIBANK - TRAVEL CBA CARD  03/19/2024  03/19/2024  TICKET FEES                                                                      $129.10
+                                                                                  STAFF TRANSPORTATION
+DSAA24M51979      04/26/2024  CITIBANK - TRAVEL CBA CARD  03/14/2024  03/14/2024  AIRFARE FOR R HARRY WASHINGTON DC TO CHICAGO IL                                    $30.00
+DSAA24M51980      04/30/2024  CITIBANK - TRAVEL CBA CARD  03/17/2024  03/17/2024  TICKET FEES                                                                      $129.10
+                                                                                  STAFF TRANSPORTATION
+DSAA24M51982      04/26/2024  CITIBANK - TRAVEL CBA CARD  03/19/2024  03/19/2024  AIRFARE FOR R HARRY CHICAGO IL TO WASHINGTON DC                                    $30.00
+DSAA24M51983      05/02/2024  CITIBANK - TRAVEL CBA CARD  03/19/2024  03/19/2024  TICKET FEES                                                                      $129.11
+                                                                                  STAFF TRANSPORTATION
+DSAA24M51984      04/26/2024  CITIBANK - TRAVEL CBA CARD  03/14/2024  03/14/2024  AIRFARE FOR R STEWART WASHINGTON DC TO CHICAGO IL                                  $30.00
+DSAA24M51985      04/30/2024  CITIBANK - TRAVEL CBA CARD  03/17/2024  03/17/2024  TICKET FEES                                                                      $129.10
+                                                                                  STAFF TRANSPORTATION
+DSAA24M51986      04/26/2024  CITIBANK - TRAVEL CBA CARD  03/19/2024  03/19/2024  AIRFARE FOR R STEWART CHICAGO IL TO WASHINGTON DC                                  $30.00
+DSAA24M51987      05/02/2024  CITIBANK - TRAVEL CBA CARD  03/19/2024  03/19/2024  TICKET FEES                                                                      $193.20
+                                                                                  STAFF TRANSPORTATION
+DSAA24M51988      04/26/2024  CITIBANK - TRAVEL CBA CARD  03/07/2024  03/07/2024  AIRFARE FOR L PETERS WASHINGTON DC TO CHICAGO IL TO ORLANDO FL                     $94.10
+                  04/30/2024  CITIBANK - TRAVEL CBA CARD  03/10/2024  03/14/2024  STAFF TRANSPORTATION
+DSAA24M51989                                                                      AIRFARE FOR L PETERS ORLANDO FL TO WASHINGTON DC                                   $30.00
+DSAA24M51992      04/26/2024  CITIBANK - TRAVEL CBA CARD  03/20/2024  03/20/2024  TICKET FEES                                                                        $30.00
+DSAA24M51993                                                                      TICKET FEES                                                                      $603.20
+                  04/26/2024  CITIBANK - TRAVEL CBA CARD  03/13/2024  03/13/2024  STAFF TRANSPORTATION
+DSAA24M51995      04/26/2024  CITIBANK - TRAVEL CBA CARD  03/21/2024  03/21/2024  AIRFARE FOR N DUNIFON WASHINGTON DC TO CHICAGO IL, MILWAUKEE WI                    $40.00
+DSAA24M51997      05/02/2024  CITIBANK - TRAVEL CBA CARD  03/24/2024  03/27/2024  AND RETURN                                                                       $952.21
+                                                                                  TICKET FEES
+DSAA24M52017      04/26/2024  CITIBANK - TRAVEL CBA CARD  03/21/2024  03/21/2024  STAFF TRANSPORTATION                                                               $68.25
+                  05/01/2024  CITIBANK - TRAVEL CBA CARD  03/24/2024  03/29/2024  AIRFARE FOR T WIBLE WASHINGTON DC TO ORLANDO FL AND RETURN                       $664.99
+                                                                                  STAFF INCIDENTALS                                                                $301.98
+                  05/21/2024  RUSSELL C. STEWART          04/11/2024  04/14/2024  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION                                                             $166.93
+DSAA24M52018      05/02/2024  DANIEL Y HSIAO              04/16/2024  04/17/2024  BURKE VA TO WASHINGTON DC, GRAPEVINE TX, WASHINGTON DC AND                       $431.42
+                                                                                  RETURN
+DSAA24M52064      04/29/2024  CITIBANK - TRAVEL CBA CARD  02/23/2024  02/23/2024  STAFF PER DIEM                                                                     $30.00
+DSAA24M52065      04/30/2024  CITIBANK - TRAVEL CBA CARD  02/27/2024  02/27/2024  STAFF TRANSPORTATION                                                             $127.10
+DSAA24M52066      04/29/2024  CITIBANK - TRAVEL CBA CARD  02/29/2024  02/29/2024  HANOVER MD TO SLIPPERY ROCK PA AND RETURN
+DSAA24M52067      04/29/2024  CITIBANK - TRAVEL CBA CARD  03/01/2024  03/01/2024  TICKET FEES                                                                        $96.10
+DSAA24M52069      05/02/2024  CITIBANK - TRAVEL CBA CARD  03/06/2024  03/06/2024  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR D GALLO WASHINGTON DC TO BOSTON MA                                     $35.00
+                                                                                  STAFF TRANSPORTATION                                                               $30.00
+                                                                                  AIRFARE FOR D GALLO BOSTON MA TO WASHINGTON DC
+                                                                                  TICKET FEES
+                                                                                  TICKET FEES
+

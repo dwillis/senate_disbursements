@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+              POSTED                                             DATES
+                                                                              STAFF PER DIEM                                                                 $950.53
+                                                      START       END         STAFF TRANSPORTATION                                                           $897.60
+                                                                              WASHINGTON DC TO ANCHORAGE, HOMER AND RETURN                                   $294.70
+DSUL20240367  09/16/2024  CITIBANK - TRAVEL CBA CARD  09/01/2024  09/02/2024  STAFF TRANSPORTATION                                                           $574.90  B-2394
+DSUL20240370  09/13/2024  CITIBANK - TRAVEL CBA CARD  08/08/2024  08/08/2024  AIRFARE FOR A FOGELS ANCHORAGE TO WASHINGTON DC                                $464.70
+DSUL20240371  09/16/2024  CITIBANK - TRAVEL CBA CARD  07/22/2024  07/23/2024  SENATOR TRANSPORTATION                                                         $331.20
+DSUL20240372  09/13/2024  CITIBANK - TRAVEL CBA CARD  07/25/2024  07/25/2024  AIRFARE FOR SEN SULLIVAN ANCHORAGE TO JUNEAU AND RETURN                        $161.20
+DSUL20240373  09/13/2024  CITIBANK - TRAVEL CBA CARD  06/18/2024  06/18/2024  SENATOR TRANSPORTATION                                                         $331.20
+DSUL20240374  09/13/2024  CITIBANK - TRAVEL CBA CARD  08/07/2024  08/07/2024  AIRFARE FOR SEN SULLIVAN ANCHORAGE TO WASHINGTON DC                            $161.20
+DSUL20240375  09/13/2024  CITIBANK - TRAVEL CBA CARD  08/07/2024  08/07/2024  SENATOR TRANSPORTATION                                                         $722.20
+DSUL20240376  09/14/2024  CITIBANK - TRAVEL CBA CARD  06/26/2024  06/27/2024  AIRFARE FOR SEN SULLIVAN WASHINGTON DC TO ANCHORAGE                            $236.10
+DSUL20240377  09/13/2024  CITIBANK - TRAVEL CBA CARD  06/24/2024  06/24/2024  SENATOR TRANSPORTATION                                                         $129.10
+DSUL20240378  09/13/2024  CITIBANK - TRAVEL CBA CARD  08/17/2024  08/17/2024  AIRFARE FOR SEN SULLIVAN WASHINGTON DC TO ANCHORAGE                            $353.70
+DSUL20240379  09/13/2024  CITIBANK - TRAVEL CBA CARD  08/08/2024  08/08/2024  SENATOR TRANSPORTATION                                                         $129.10
+DSUL20240380  09/14/2024  CITIBANK - TRAVEL CBA CARD  06/30/2024  06/30/2024  AIRFARE FOR SEN SULLIVAN WASHINGTON DC TO ANCHORAGE                            $349.40
+DSUL20240381  09/13/2024  CITIBANK - TRAVEL CBA CARD  06/23/2024  06/24/2024  STAFF TRANSPORTATION                                                           $255.10
+DSUL20240382  09/13/2024  CITIBANK - TRAVEL CBA CARD  06/24/2024  06/24/2024  AIRFARE FOR A FOGELS WASHINGTON DC TO ANCHORAGE                                $722.20
+DSUL20240383  09/14/2024  CITIBANK - TRAVEL CBA CARD  06/26/2024  06/27/2024  SENATOR TRANSPORTATION                                                         $337.20
+DSUL20240384  09/13/2024  CITIBANK - TRAVEL CBA CARD  06/28/2024  06/28/2024  AIRFARE FOR SEN SULLIVAN ANCHORAGE TO BARROW AND RETURN                        $113.10
+DSUL20240385  09/13/2024  CITIBANK - TRAVEL CBA CARD  06/10/2024  06/10/2024  SENATOR TRANSPORTATION                                                         $161.20
+DSUL20240386  09/13/2024  CITIBANK - TRAVEL CBA CARD  05/23/2024  05/23/2024  AIRFARE FOR SEN SULLIVAN FAIRBANKS TO ANCHORAGE                                $145.00
+DSUL20240387  09/14/2024  CITIBANK - TRAVEL CBA CARD  08/21/2024  08/21/2024  STAFF TRANSPORTATION                                                           $393.75
+DSUL20240388  09/13/2024  CITIBANK - TRAVEL CBA CARD  05/24/2024  05/24/2024  AIRFARE FOR B DIETDERICH CHICAGO IL TO WASHINGTON DC                           $787.50
+                                                                              STAFF TRANSPORTATION
+DSUL20240389  09/13/2024  CITIBANK - TRAVEL CBA CARD  04/25/2024  04/25/2024  AIRFARE FOR B DIETDERICH WASHINGTON DC TO FAIRBANKS                            $300.00
+DSUL20240390  09/17/2024  CITIBANK - TRAVEL CBA CARD  08/09/2024  09/09/2024  STAFF TRANSPORTATION                                                        $1,692.68
+                                                                              AIRFARE FOR B DIETDERICH CHICAGO IL TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR B DIETDERICH WASHINGTON DC TO FAIRBANKS
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR B DIETDERICH FAIRBANKS TO ANCHORAGE
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR B DIETDERICH ANCHORAGE TO BARROW AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR B DIETDERICH ANCHORAGE TO CHICAGO IL
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR B DIETDERICH WASHINGTON DC TO NEW YORK NY
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR B DIETDERICH WASHINGTON DC TO ANCHORAGE
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN SULLIVAN ANCHORAGE TO KENAI
+                                                                              SENATOR TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR SEN SULLIVAN, A COYNE, B DIETDERICH KENAI TO PORT
+                                                                              GRAHAM, SELDOVIA AND RETURN
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN SULLIVAN ANCHORAGE TO KENAI AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR C BROWN WASHINGTON DC TO SEATTLE WA, KETCHIKAN,
+                                                                              SITKA, ANCHORAGE, KETCHIKAN AND RETURN
+

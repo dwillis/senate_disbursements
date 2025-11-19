@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME         OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                  POSTED                                    DATES
+DLEE20240518                                                             LEHI TO SMITHFIELD AND RETURN                                                        $75.04
+DLEE20240520                                     START       END         STAFF TRANSPORTATION                                                                 $21.56
+                                                                         LEHI TO NEPHI AND RETURN                                                           $252.21
+DLEE20240521      09/20/2024  MARK R WELCKER     09/13/2024  09/13/2024  STAFF INCIDENTALS                                                                  $141.42
+DLEE20240522      09/27/2024  MARK R WELCKER     09/11/2024  09/12/2024  STAFF PER DIEM                                                                  $1,445.25
+DLEE20240523                                                             STAFF TRANSPORTATION                                                               $553.26
+DLEE20240524      09/27/2024  MARK A WAIT        08/27/2024  09/08/2024  LEHI TO AMERICAN FORK, ST GEORGE, WASHINGTON AND RETURN                            $156.78   B-1637
+DLEE20240525      09/27/2024  MARK A WAIT        08/08/2024  08/14/2024  STAFF TRANSPORTATION                                                               $194.49
+DLEE20240526      09/27/2024  JOEL V BROWN       09/16/2024  09/16/2024  WASHINGTON DC TO SALT LAKE CITY AND RETURN
+DLEE20240527      09/27/2024  MICHAEL S LEE      08/01/2024  09/09/2024  STAFF TRANSPORTATION                                                               $178.85
+DLEE20240528      09/27/2024  MICHAEL S LEE      06/13/2024  06/17/2024  WASHINGTON DC TO SALT LAKE CITY AND RETURN
+DLEE20240531      09/24/2024  MICHAEL S LEE      07/11/2024  07/11/2024  STAFF TRANSPORTATION                                                                 $91.00
+DLEE20240532      09/25/2024  MICHAEL S LEE      06/20/2024  07/08/2024  VERNAL TO PRICE AND RETURN                                                           $91.86
+DLEE20240533      09/27/2024  MICHAEL S LEE      05/16/2024  05/20/2024  SENATOR TRANSPORTATION
+DLEE20240535      09/27/2024  DEREK M ANDERSON   09/12/2024  09/12/2024  WASHINGTON DC TO SALT LAKE CITY, PROVO, SALT LAKE CITY AND                         $159.48
+                                                                         RETURN
+                  09/27/2024  DEREK M ANDERSON   09/13/2024  09/13/2024  SENATOR TRANSPORTATION                                                               $13.78
+                                                                         WASHINGTON DC TO SALT LAKE CITY, PROVO, SALT LAKE CITY AND                         $133.33
+                  09/21/2024  DEREK M ANDERSON   09/16/2024  09/16/2024  RETURN
+                  09/26/2024  JOCELYN B ALBAUGH  08/07/2024  09/01/2024  SENATOR TRANSPORTATION                                                               $40.10
+                                                                         WASHINGTON DC TO SALT LAKE CITY                                                      $70.35
+DLEE20240536      09/28/2024  EMME R JAMES       08/08/2024  08/24/2024  SENATOR TRANSPORTATION                                                               $70.35
+DLEE20240537      09/28/2024  JOEL V BROWN       09/19/2024  09/19/2024  WASHINGTON DC TO SALT LAKE CITY, PROVO, SALT LAKE CITY AND                         $377.05
+DLEE20240538      09/28/2024  DEREK M ANDERSON   09/19/2024  09/19/2024  RETURN                                                                          $2,510.52
+DLEE20240539      09/23/2024  GARY S. WEBSTER    09/20/2024  09/20/2024  SENATOR TRANSPORTATION                                                          $1,589.41
+                                                                         WASHINGTON DC TO SALT LAKE CITY, PROVO, SALT LAKE CITY AND
+                                                                         RETURN                                                                             $255.23
+                                                                         STAFF PER DIEM                                                                  $1,314.30
+                                                                         STAFF TRANSPORTATION
+                                                                         SALT LAKE CITY TO MOUNT PLEASANT TO LEHI                                             $23.48
+                                                                         STAFF PER DIEM                                                                     $211.05
+                                                                         STAFF TRANSPORTATION
+                                                                         LEHI TO NEPHI AND RETURN                                                             $16.58
+                                                                         STAFF TRANSPORTATION                                                               $207.70
+                                                                         LEHI TO NEPHI AND RETURN
+                                                                         STAFF INCIDENTALS                                                                    $69.68
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         WASHINGTON DC TO JACKSON HOLE WY, SALT LAKE CITY, RICHFIELD,
+                                                                         BRYCE CANYON CITY, PAGE AZ, CEDAR CITY, SALT LAKE CITY AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         WASHINGTON DC TO SALT LAKE CITY AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         VERNAL TO PROVO AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         SALT LAKE CITY TO EMERY TO LEHI
+                                                                         STAFF TRANSPORTATION
+                                                                         ST GEORGE TO ENTERPRISE AND RETURN
+

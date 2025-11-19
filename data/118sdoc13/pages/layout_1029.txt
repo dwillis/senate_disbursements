@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+              POSTED                                             DATES
+                                                                              STAFF TRANSPORTATION                                                         $66.15
+                                                      START       END         GRAND FORKS TO WASHINGTON DC AND RETURN                                    $489.00
+                                                                              SENATOR TRANSPORTATION                                                     $631.60
+DCRM20240730  08/06/2024  CITIBANK - TRAVEL CBA CARD  07/25/2024  07/25/2024  AIRFARE FOR SEN CRAMER WASHINGTON DC TO BISMARCK                           $631.60   B-1011
+DCRM20240731  08/08/2024  CITIBANK - TRAVEL CBA CARD  07/26/2024  07/27/2024  STAFF TRANSPORTATION                                                       $411.60
+DCRM20240732  08/06/2024  CITIBANK - TRAVEL CBA CARD  07/24/2024  07/24/2024  AIRFARE FOR M BELZER WASHINGTON DC TO BISMARCK                          $1,039.60
+DCRM20240733  08/06/2024  CITIBANK - TRAVEL CBA CARD  07/24/2024  07/24/2024  STAFF TRANSPORTATION
+DCRM20240734  08/06/2024  CITIBANK - TRAVEL CBA CARD  07/27/2024  07/27/2024  AIRFARE FOR M BELZER BISMARCK TO WASHINGTON DC                               $18.49
+DCRM20240737  08/06/2024  SARA E SMITH                07/30/2024  07/30/2024  STAFF TRANSPORTATION                                                         $18.23
+DCRM20240738  08/07/2024  MICHAEL J KELSCH            07/30/2024  07/30/2024  AIRFARE FOR B DOSS GRAND FORKS TO WASHINGTON DC                            $112.56
+                                                                              STAFF TRANSPORTATION                                                       $631.60
+DCRM20240739  08/13/2024  CITIBANK - TRAVEL CBA CARD  08/01/2024  08/01/2024  AIRFARE FOR K GLADITSCH FARGO TO WASHINGTON DC                             $631.60
+DCRM20240740  08/13/2024  CITIBANK - TRAVEL CBA CARD  07/29/2024  07/29/2024  STAFF PER DIEM                                                             $631.60
+DCRM20240745  08/13/2024  CITIBANK - TRAVEL CBA CARD  08/01/2024  08/01/2024  FARGO TO GRAND FORKS AND RETURN                                              $49.64
+DCRM20240746  08/13/2024  KATHERINE M GLADITSCH       07/25/2024  07/27/2024  STAFF PER DIEM                                                               $56.14
+DCRM20240747  08/20/2024  MARY E BELZER               07/24/2024  07/27/2024  STAFF TRANSPORTATION                                                       $448.30
+                                                                              FARGO TO GRAND FORKS AND RETURN                                              $33.00
+DCRM20240748  08/16/2024  MARY E BELZER               07/30/2024  07/30/2024  STAFF TRANSPORTATION                                                         $13.89
+              08/14/2024  JOHN C LOTT                 07/17/2024  07/18/2024  AIRFARE FOR M CHAMBERS WASHINGTON DC TO BISMARCK
+DCRM20240749                                                                  SENATOR TRANSPORTATION                                                        $6.29
+              08/13/2024  CITIBANK - TRAVEL CBA CARD  08/02/2024  08/02/2024  AIRFARE FOR SEN CRAMER BISMARCK TO WASHINGTON DC                             $36.69
+DCRM20240750  08/13/2024  CITIBANK - TRAVEL CBA CARD  08/03/2024  08/03/2024  SENATOR TRANSPORTATION                                                     $288.55
+DCRM20240751  08/13/2024  CITIBANK - TRAVEL CBA CARD  08/02/2024  08/02/2024  AIRFARE FOR SEN CRAMER WASHINGTON DC TO BISMARCK                           $107.76
+DCRM20240752  08/13/2024  CITIBANK - TRAVEL CBA CARD  08/02/2024  08/02/2024  STAFF PER DIEM                                                             $191.10
+DCRM20240753  08/13/2024  CITIBANK - TRAVEL CBA CARD  08/04/2024  08/04/2024  WASHINGTON DC TO FARGO AND RETURN                                          $866.60
+DCRM20240757  08/13/2024  CITIBANK - TRAVEL CBA CARD  08/02/2024  08/02/2024  STAFF INCIDENTALS                                                          $631.60
+DCRM20240758  08/13/2024  LISA BECKSTROM GIBBENS      08/01/2024  08/01/2024  STAFF PER DIEM                                                             $411.60
+DCRM20240759                                                                  STAFF TRANSPORTATION                                                       $358.98
+                                                                              BISMARCK TO WASHINGTON DC AND RETURN                                       $639.60
+                                                                              STAFF PER DIEM                                                             $268.00
+                                                                              STAFF TRANSPORTATION
+                                                                              BISMARCK TO BEACH AND RETURN
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO NEW YORK NY AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR D RUD WASHINGTON DC TO SEATTLE WA
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR K GLADITSCH WASHINGTON DC TO FARGO
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR N SLAYTER WASHINGTON DC TO BISMARCK
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR R BUENING WASHINGTON DC TO GRAND FORKS
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR R KENYON WASHINGTON DC TO BISMARCK
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR W ZAHN WASHINGTON DC TO MINOT
+                                                                              STAFF TRANSPORTATION
+                                                                              FARGO TO BISMARCK AND RETURN
+

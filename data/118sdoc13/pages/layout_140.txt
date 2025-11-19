@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE                        PAYEE NAME    OBLIGATION/SERVICE                                                DESCRIPTION  AMOUNT ($)
+              POSTED                                                 DATES
+                      GIBBONS, RICHARD F                                      PRINCIPAL NETWORK ENGINEER                                             $88,244.88
+                      KAUS, KENNETH J                     START  END          PRINCIPAL NETWORK ENGINEER                                             $93,929.40
+                      SEHERY, WILE A                                          SENIOR IT MANAGER                                                      $94,658.04
+                      REEDY, CHAD W                                           PRINCIPAL NETWORK ENGINEER                                             $88,648.50  B-122
+                      GOODWINE, GLENN J                                       SENIOR NETWORK ENGINEER                                                $61,422.38
+                      WELSH, JOSHUA M                                         PRINCIPAL NETWORK ENGINEER                                             $88,696.04
+                      NEMEC, TIMOTHY J                                        PRINCIPAL NETWORK ENGINEER                                             $87,648.50
+                      NEHER, SAMUEL S                                         PRINCIPAL NETWORK ENGINEER                                             $76,576.45
+                      BUGGS, MEEKAEL W                                        PRINCIPAL NETWORK ENGINEER FROM JUL. 15                                $31,666.66
+                      MORGAN, DAVID L JR                                      PRINCIPAL TECHNOLOGY SOLUTIONS SPECIALIST                              $88,244.88
+                      KOZAK, BARRY L                                          TECHNOLOGY SOLUTIONS ARCHITECT                                         $95,944.62
+                      FEINDT, JEREMIAH                                        SENIOR IT MANAGER                                                      $95,203.75
+                      SWANNER, SAMUEL T                                       TECHNOLOGY SOLUTIONS SPECIALIST FROM MAY 16                            $42,499.98
+                      ALFONSO SIEGELBAUM, MIGUEL ERNESTO                      SENIOR TECHNOLOGY SOLUTIONS SPECIALIST                                 $80,124.82
+                      MORALES, CHRISTOPHER L                                  PRINCIPAL TECHNOLOGY SOLUTIONS SPECIALIST                              $78,566.17
+                      LEE, PETER D                                            SENIOR IT MANAGER                                                      $96,596.39
+                      LE, ANDY T                                              PRINCIPAL SOFTWARE ENGINEER                                            $89,571.96
+                      LEONCIO, WILFREDO M                                     PRINCIPAL SOFTWARE ENGINEER                                            $88,244.38
+                      SINGH, ANIL K                                           SENIOR SOFTWARE ENGINEER                                               $80,898.26
+                      BATEMAN, KREMENA B                                      SENIOR SOFTWARE ENGINEER                                               $80,640.26
+                      MOORE, ERIK S                                           SENIOR SOFTWARE ENGINEER                                               $80,898.26
+                      PAPPAJOHN, FRANK G                                      SENIOR SOFTWARE ENGINEER                                               $80,897.77
+                      AROCHO, JUAN M                                          SENIOR SOFTWARE ENGINEER                                               $80,897.29
+                      MENDOZA, HUGO                                           SENIOR SOFTWARE ENGINEER                                               $79,349.29
+                      GADHIRAJU, RAVI KUMAR                                   SENIOR QUALITY ASSURANCE ANALYST                                       $78,556.00
+                      LU, AMANDA E.                                           SENIOR QUALITY ASSURANCE ANALYST                                       $73,462.67
+                      PHAM, NGHIA H                                           SENIOR SOFTWARE ENGINEER                                               $66,200.55
+                      DULL, AMBER M                                           SENIOR SOFTWARE ENGINEER                                               $70,220.97
+                      ROBERT, BRIAN M                                         SENIOR SOFTWARE ENGINEER                                               $80,420.05
+                      ROSS, CLAUDE T                                          WIRELESS NETWORK ENGINEER                                              $66,517.69
+                      REYNOLDS, JOHN M                                        SENIOR IT MANAGER                                                      $82,614.76
+                      RICHARDS, DARREN J                                      PRINCIPAL WIRELESS NETWORK ENGINEER                                    $87,647.49
+                      QUINTOS, ERIC R                                         WIRELESS NETWORK ENGINEER                                              $68,321.79
+                      HOFFMAN, DAVID A                                        SENIOR WIRELESS NETWORK ENGINEER                                       $81,156.26
+                      GARRETT, PAUL                                           SYSTEMS ENGINEER                                                       $75,221.96
+                      ALANIZ, DAVID C                                         SENIOR IT MANAGER                                                      $96,965.00
+                      AHMAD, ASIM N                                           SYSTEMS ENGINEER                                                       $64,607.97
+                      YIM, DAVID                                              SENIOR SYSTEMS ENGINEER                                                $72,097.16
+                      WILLIAMS, ANTONIO R                                     COMMUNICATIONS TECHNICIAN                                              $52,433.73
+                      VARELA, DANIEL D                                        IT MANAGER                                                             $88,703.94
+                      JANIFER, RUDOLPH E                                      SENIOR COMMUNICATIONS TECHNICIAN                                       $61,625.17
+                      HUMPHREY, CHRISTOPHER D                                 COMMUNICATIONS TECHNICIAN                                              $51,282.63
+                      NOVAK, DANIEL L JR                                      COMMUNICATIONS TECHNICIAN TO JUN. 15                                   $19,795.94
+                      FONG, GINA G                                            SENIOR COORDINATOR STATE OFFICE PROJECT MANAGEMENT                     $61,475.46
+                      STEFFEN, KIMBERLY E                                     MANAGER, STATE OFFICE OPERATIONS                                       $80,275.77
+                      PERSAUD, LEELA J                                        SENIOR COORDINATOR STATE OFFICE PROJECT MANAGEMENT                     $67,029.23
+                      STILWELL, ALISON O                                      STATE OFFICE PROGRAM MANAGER                                           $76,627.09
+                      PETERS, LAUREN J                                        MANAGER, COMMUNICATIONS RESILIENCE                                     $89,950.54
+                      BELL, EDGAR F II                                        SENIOR NETWORK ENGINEER                                                $71,566.29
+                      ANDERSON, LYNETTE M                                     DIR TECH & COMMS RESILIENCE                                          $103,719.15
+

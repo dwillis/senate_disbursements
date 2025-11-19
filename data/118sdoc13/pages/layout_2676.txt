@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DWHI20240322                  NISA MARIE PISTACCHIO                                     STAFF TRANSPORTATION                                                            $95.14
+DWHI20240323      05/26/2024  NISA MARIE PISTACCHIO             START       END         JOHNSTON TO WARWICK, PROVIDENCE, NEWPORT, NARRAGANSETT,
+DWHI20240325                  ANDREW E SZALA                                            SOUTH KINGSTOWN AND RETURN                                                      $79.73
+DWHI20240326      05/26/2024  ANDREW E SZALA                    05/06/2024  05/06/2024  STAFF TRANSPORTATION
+DWHI20240327                  MARIAH O PFLEGER                                          JOHNSTON TO BARRINGTON, PROVIDENCE, KINGSTON, NEWPORT AND                       $16.08
+                  05/26/2024                                    05/07/2024  05/07/2024  RETURN                                                                          $30.15
+DWHI20240328      05/26/2024                                                            STAFF TRANSPORTATION                                                            $46.50
+DWHI20240330      05/30/2024                                    05/16/2024  05/16/2024  PROVIDENCE TO NORTH SCITUATE AND RETURN                                       $470.15
+DWHI20240331                                                    05/19/2024  05/19/2024  STAFF TRANSPORTATION                                                          $105.79
+DWHI20240332                                                    05/06/2024  05/08/2024  WARREN TO WOONSOCKET AND RETURN                                                 $10.65
+DWHI20240333                                                                            STAFF INCIDENTALS                                                             $235.10
+DWHI20240336      05/26/2024  NICHOLAS J GREENE                 05/20/2024  05/20/2024  STAFF PER DIEM                                                                  $40.00  B-2639
+DWHI20240337      06/04/2024  CITIBANK - TRAVEL CBA CARD        05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                          $373.10
+DWHI20240339                                                                            WASHINGTON DC TO PROVIDENCE AND RETURN                                          $40.00
+                  06/04/2024  CITIBANK - TRAVEL CBA CARD        05/20/2024  05/20/2024  STAFF TRANSPORTATION                                                          $235.10
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $40.00
+                  06/04/2024  CITIBANK - TRAVEL CBA CARD        05/16/2024  05/16/2024  SENATOR TRANSPORTATION                                                          $40.00
+                                                                                        TICKET FEES                                                                   $470.20
+                  05/29/2024  CITIBANK - TRAVEL CBA CARD        04/25/2024  04/25/2024  AIRFARE FOR SEN WHITEHOUSE WASHINGTON DC TO PROVIDENCE                        $239.41
+                  06/10/2024  CITIBANK - TRAVEL CBA CARD        05/27/2024  05/30/2024  SENATOR TRANSPORTATION                                                          $23.25
+                  06/10/2024  CITIBANK - TRAVEL CBA CARD        05/27/2024  05/30/2024  TICKET FEES                                                                   $255.65
+                  06/10/2024  MONALISA DUGUE                    04/25/2024  04/26/2024  AIRFARE FOR SEN WHITEHOUSE PROVIDENCE TO WASHINGTON DC                        $145.82
+                                                                                        SENATOR TRANSPORTATION
+DWHI20240340      06/14/2024  NISA MARIE PISTACCHIO             05/07/2024  05/07/2024  TICKET FEES                                                                     $15.00
+                                                                                        AIRFARE FOR SEN WHITEHOUSE WASHINGTON DC TO PROVIDENCE
+DWHI20240341      06/11/2024  NISA MARIE PISTACCHIO             05/17/2024  05/17/2024  TICKET FEES                                                                     $38.59
+DWHI20240342      06/11/2024  NISA MARIE PISTACCHIO             05/28/2024  05/28/2024  STAFF TRANSPORTATION                                                             $5.62
+DWHI20240343      06/11/2024  NISA MARIE PISTACCHIO             05/30/2024  05/30/2024  AIRFARE FOR E HIGGINS WASHINGTON DC TO PROVIDENCE AND RETURN
+DWHI20240344      06/11/2024  NISA MARIE PISTACCHIO             05/29/2024  05/29/2024  STAFF TRANSPORTATION                                                            $37.11
+DWHI20240345      06/11/2024  CITIBANK - TRAVEL CBA CARD        06/03/2024  06/03/2024  RENTAL AUTO FOR E HIGGINS WARWICK TO PROVIDENCE AND RETURN                       $5.96
+                                                                                        STAFF INCIDENTALS
+DWHI20240346      06/13/2024  EDWARD HIGGINS                    05/27/2024  05/30/2024  STAFF PER DIEM                                                                $235.10
+                                                                                        STAFF TRANSPORTATION                                                            $40.00
+                                                                                        WASHINGTON DC TO WARWICK, PROVIDENCE, NARRAGANSETT,                             $69.75
+                                                                                        PROVIDENCE, CRANSTON, PROVIDENCE, WARWICK AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        ADDITONAL EXPENSE FOR TRIP JOHNSTON TO BARRINGTON,
+                                                                                        PROVIDENCE, KINGSTON, NEWPORT AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        JOHNSTON TO CRANSTON, NORTH KINGSTOWN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PROVIDENCE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        JOHNSTON TO BRISTOL AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PROVIDENCE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR SEN WHITEHOUSE PROVIDENCE TO WASHINGTON DC
+                                                                                        STAFF INCIDENTALS
+

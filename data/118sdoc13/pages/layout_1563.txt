@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DKNN20241402                  SARAH N DAKE                                              STAFF TRANSPORTATION                                                         $15.41
+DKNN20241403      08/16/2024  SARAH N DAKE                      START       END         LAFAYETTE TO BROUSSARD AND RETURN                                            $32.16
+DKNN20241404      08/27/2024  SARAH N DAKE                                              STAFF TRANSPORTATION                                                         $50.25
+DKNN20241405      08/16/2024  SARAH N DAKE                      05/21/2024  05/21/2024  LAFAYETTE TO NEW IBERIA AND RETURN                                           $10.05
+DKNN20241406      08/27/2024  SARAH N DAKE                                              STAFF TRANSPORTATION
+                  08/15/2024                                    05/22/2024  05/22/2024  LAFAYETTE TO CROWLEY, CARENCRO AND RETURN                                     $9.87
+DKNN20241407                  SARAH N DAKE                                              STAFF TRANSPORTATION                                                       $107.20
+DKNN20241408      08/27/2024  SARAH N DAKE                      05/23/2024  05/23/2024  LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DKNN20241409      08/27/2024  SARAH N DAKE                                              STAFF PER DIEM                                                                $4.69
+DKNN20241410      08/27/2024  SARAH N DAKE                      05/28/2024  05/28/2024  STAFF TRANSPORTATION                                                          $8.71
+DKNN20241411      08/27/2024  SARAH N DAKE                                              LAFAYETTE TO MORGAN CITY AND RETURN                                          $38.19
+DKNN20241412      08/27/2024  SARAH N DAKE                      05/29/2024  05/29/2024  STAFF TRANSPORTATION                                                         $13.40
+DKNN20241413      08/16/2024  SARAH N DAKE                                              LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $10.72
+DKNN20241414      08/27/2024  SARAH N DAKE                      05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                         $30.15  B-1526
+DKNN20241415      08/27/2024  SARAH N DAKE                      05/31/2024  05/31/2024  LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $8.71
+DKNN20241416      08/27/2024  SARAH N DAKE                      06/04/2024  06/04/2024  STAFF TRANSPORTATION                                                         $33.50
+DKNN20241417      08/27/2024  SARAH N DAKE                      06/05/2024  06/05/2024  LAFAYETTE TO CROWLEY AND RETURN                                              $46.90
+DKNN20241418      08/27/2024  SARAH N DAKE                      06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                         $93.13
+DKNN20241419      08/27/2024  SARAH N DAKE                      06/10/2024  06/10/2024  LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $70.35
+DKNN20241420      08/27/2024  SARAH N DAKE                      06/11/2024  06/11/2024  STAFF TRANSPORTATION                                                         $10.72
+DKNN20241421      08/27/2024  SARAH N DAKE                      06/12/2024  06/12/2024  LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $46.90
+DKNN20241422      08/16/2024  SARAH N DAKE                      06/13/2024  06/13/2024  STAFF TRANSPORTATION                                                         $12.06
+                  08/29/2024                                    06/17/2024  06/17/2024  LAFAYETTE TO RAYNE AND RETURN                                                 $6.70
+DKNN20241423                  SARAH N DAKE                      06/18/2024  06/18/2024  STAFF TRANSPORTATION                                                          $9.74
+DKNN20241424      08/27/2024  SARAH N DAKE                      06/19/2024  06/19/2024  LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $87.10
+DKNN20241425      08/27/2024  SARAH N DAKE                      06/20/2024  06/20/2024  STAFF TRANSPORTATION                                                         $11.39
+                  08/27/2024                                    06/21/2024  06/21/2024  LAFAYETTE TO RAYNE AND RETURN                                                 $8.04
+                                                                06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                         $33.50
+                                                                06/27/2024  06/27/2024  LAFAYETTE TO YOUNGSVILLE, NEW IBERIA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                06/28/2024  06/28/2024  LAFAYETTE TO PATTERSON AND RETURN
+                                                                07/01/2024  07/01/2024  STAFF TRANSPORTATION
+                                                                07/02/2024  07/02/2024  LAFAYETTE TO EUNICE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAFAYETTE TO RAYNE, CARENCRO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAFAYETTE TO PATTERSON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAFAYETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAFAYETTE TO CROWLEY AND RETURN
+

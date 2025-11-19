@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+              POSTED                                              DATES
+                                                                               STAFF PER DIEM                                                             $285.00
+                                                       START       END         STAFF TRANSPORTATION                                                       $172.13
+                                                                               WILMINGTON TO WASHINGTON DC AND RETURN
+DCRT20240359  05/29/2024  CARPER,THOMAS R              05/13/2024  05/13/2024  SENATOR TRANSPORTATION                                                     $112.37   B-822
+DCRT20240360  05/24/2024  CARPER,THOMAS R              05/14/2024  05/14/2024  WILMINGTON TO SLAUGHTER BEACH, MILFORD, SMYRNA AND RETURN
+DCRT20240361  05/24/2024  CARPER,THOMAS R              05/14/2024  05/14/2024  SENATOR TRANSPORTATION                                                       $89.09
+DCRT20240362  05/24/2024  LAYNE E TAYLOR               05/14/2024  05/14/2024  WILMINGTON TO WASHINGTON DC
+DCRT20240363  05/24/2024  LAYNE E TAYLOR               05/16/2024  05/16/2024  SENATOR TRANSPORTATION                                                       $76.36
+DCRT20240364  05/24/2024  CITIBANK - SENATOR IBA CARD  05/15/2024  05/15/2024  WASHINGTON DC TO WILMINGTON
+DCRT20240365  05/24/2024  CITIBANK - SENATOR IBA CARD  05/16/2024  05/16/2024  STAFF TRANSPORTATION                                                         $71.87
+DCRT20240367  05/25/2024  JAIDA PATRICE RODRIQUES      05/17/2024  05/17/2024  WILMINGTON TO DOVER AND RETURN
+DCRT20240368  05/30/2024  ANDREW NYLE SMITH            05/17/2024  05/17/2024  STAFF TRANSPORTATION                                                         $71.93
+                                                                               WILMINGTON TO DOVER AND RETURN
+DCRT20240369  05/25/2024  KATHERINE L GRASSO           05/20/2024  05/20/2024  SENATOR TRANSPORTATION                                                     $133.00
+                                                                               TRAIN FARE FOR SEN CARPER WILMINGTON TO WASHINGTON DC
+DCRT20240371  05/26/2024  HEATHER K GUERKE             05/15/2024  05/15/2024  SENATOR TRANSPORTATION                                                     $138.00
+DCRT20240372  05/30/2024  VICTORIA CARLE               05/17/2024  05/17/2024  TRAIN FARE FOR SEN CARPER WASHINGTON DC TO WILMINGTON
+                                                                               STAFF PER DIEM                                                               $29.12
+DCRT20240373  05/31/2024  LAURA PASTRE                 05/17/2024  05/17/2024  DOVER TO NEWARK, BEAR AND RETURN
+                                                                               STAFF PER DIEM                                                               $25.20
+DCRT20240374  05/30/2024  JEDIDIAH TONG BUSH           05/17/2024  05/17/2024  STAFF TRANSPORTATION                                                       $167.00
+                                                                               WASHINGTON DC TO WILMINGTON, NEWARK AND RETURN
+DCRT20240375  05/30/2024  OLIVIA DAVIS                 05/17/2024  05/17/2024  STAFF PER DIEM                                                               $10.00
+                                                                               STAFF TRANSPORTATION                                                         $65.64
+DCRT20240377  05/30/2024  JONAS A MUNSON               05/17/2024  05/17/2024  WILMINGTON TO DOVER AND RETURN
+                                                                               STAFF TRANSPORTATION                                                         $38.50
+DCRT20240378  05/30/2024  BROOKE C MEADOWCROFT         05/17/2024  05/17/2024  WILMINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF PER DIEM                                                               $19.00
+DCRT20240380  06/03/2024  EMMA P.C. WETHERED           05/16/2024  05/16/2024  STAFF TRANSPORTATION                                                       $149.00
+                                                                               WASHINGTON DC TO WILMINGTON, NEWARK AND RETURN
+DCRT20240381  05/31/2024  JAKE D STRICKLAND            05/17/2024  05/17/2024  STAFF PER DIEM                                                               $33.10
+                                                                               STAFF TRANSPORTATION                                                       $167.00
+                                                                               WASHINGTON DC TO WILMINGTON, NEWARK AND RETURN
+                                                                               STAFF PER DIEM                                                               $18.00
+                                                                               STAFF TRANSPORTATION                                                       $190.00
+                                                                               WASHINGTON DC TO WILMINGTON, NEWARK AND RETURN
+                                                                               STAFF PER DIEM                                                               $33.10
+                                                                               STAFF TRANSPORTATION                                                       $167.00
+                                                                               WASHINGTON DC TO WILMINGTON, NEWARK AND RETURN
+                                                                               STAFF PER DIEM                                                               $23.00
+                                                                               STAFF TRANSPORTATION                                                       $193.00
+                                                                               WASHINGTON DC TO WILMINGTON, NEWARK AND RETURN
+                                                                               STAFF PER DIEM                                                               $12.75
+                                                                               STAFF TRANSPORTATION                                                       $132.66
+                                                                               WASHINGTON DC TO NEWARK AND RETURN
+                                                                               STAFF PER DIEM                                                               $16.00
+                                                                               STAFF TRANSPORTATION                                                       $262.00
+                                                                               PHILADELPHIA PA TO WASHINGTON DC AND RETURN
+                                                                               STAFF PER DIEM                                                               $20.75
+                                                                               STAFF TRANSPORTATION                                                       $167.00
+

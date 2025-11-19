@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DBRN20240813                  ERICA N KRAUSE                                            STAFF TRANSPORTATION                                                          $4.62
+DBRN20240814      06/27/2024  ERICA N KRAUSE                    START       END         IN AND AROUND TOLEDO                                                         $10.05
+DBRN20240815      06/27/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION
+DBRN20240816      06/27/2024  ERICA N KRAUSE                    06/03/2024  06/03/2024  TOLEDO TO MAUMEE AND RETURN                                                   $5.56
+DBRN20240817      06/26/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION                                                         $62.88
+DBRN20240818      06/27/2024  ERICA N KRAUSE                    05/30/2024  05/30/2024  IN AND AROUND TOLEDO
+DBRN20240819      06/27/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION                                                          $8.17
+DBRN20240820      06/27/2024  ERICA N KRAUSE                    05/29/2024  05/29/2024  TOLEDO TO FREMONT AND RETURN                                                 $29.07
+DBRN20240821      06/27/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION
+DBRN20240822      06/27/2024  ERICA N KRAUSE                    05/28/2024  05/28/2024  IN AND AROUND TOLEDO                                                          $9.98
+DBRN20240823      06/27/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION                                                         $12.39
+DBRN20240824      06/27/2024  ERICA N KRAUSE                    05/23/2024  05/23/2024  CINCINNATI TO TOLEDO, SYLVANIA AND RETURN
+DBRN20240825      06/27/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION                                                          $3.61
+DBRN20240826      06/27/2024  ERICA N KRAUSE                    05/21/2024  05/21/2024  TOLEDO TO NORTHWOOD AND RETURN                                               $19.44
+DBRN20240827      06/26/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION
+DBRN20240828      06/26/2024  ERICA N KRAUSE                    05/20/2024  05/20/2024  IN AND AROUND TOLEDO                                                          $3.28
+DBRN20240829      06/26/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION                                                       $105.86
+DBRN20240830      06/26/2024  CITIBANK - TRAVEL CBA CARD        05/16/2024  05/16/2024  IN AND AROUND TOLEDO
+DBRN20240833      06/27/2024  SUSAN M KLEIN                                             STAFF TRANSPORTATION                                                         $11.45
+                  07/01/2024                                    05/13/2024  05/13/2024  IN AND AROUND TOLEDO                                                         $58.29
+DBRN20240834                                                                            STAFF TRANSPORTATION                                                         $29.45
+DBRN20240835                                                    05/10/2024  05/10/2024  IN AND AROUND TOLEDO                                                         $45.15
+                                                                                        STAFF TRANSPORTATION
+DBRN20240836                                                    05/09/2024  05/09/2024  TOLEDO TO GIBSONBURG, WILLARD, BELLEVUE AND RETURN                            $6.43  B-702
+                                                                                        STAFF TRANSPORTATION                                                       $218.10
+DBRN20240837                                                    05/08/2024  05/08/2024  IN AND AROUND TOLEDO
+                                                                                        STAFF TRANSPORTATION                                                         $19.03
+                                                                05/07/2024  05/07/2024  TOLEDO TO HAMLER AND RETURN                                                $132.00
+                                                                                        STAFF TRANSPORTATION                                                       $367.83
+                                                                05/06/2024  05/06/2024  TOLEDO TO OREGON AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $46.90
+                                                                05/03/2024  05/03/2024  TOLEDO TO OAK HARBOR, TOLEDO, WALBRIDGE AND RETURN                           $13.00
+                                                                                        STAFF TRANSPORTATION                                                         $42.88
+                                                                05/02/2024  05/02/2024  IN AND AROUND TOLEDO
+                                                                                        SENATOR TRANSPORTATION                                                        $6.00
+                                                                05/01/2024  05/01/2024  AIRFARE FOR SEN BROWN CLEVELAND TO WASHINGTON DC                           $189.34
+                                                                                        STAFF INCIDENTALS
+                                                                06/17/2024  06/17/2024  STAFF PER DIEM                                                               $54.27
+                                                                                        STAFF TRANSPORTATION
+                                                                06/12/2024  06/13/2024  CLEVELAND TO COLUMBUS, OXFORD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                  07/02/2024  KAMERON W ANDERSON                06/13/2024  06/13/2024  DAYTON TO LIMA AND RETURN
+                  07/03/2024  KAMERON W ANDERSON                06/14/2024  06/14/2024  STAFF PER DIEM
+                  07/02/2024  ANTHONY L ELIOPOULOS              06/18/2024  06/18/2024  STAFF TRANSPORTATION
+                  07/02/2024  EMMA MARIE SPEYER                 06/18/2024  06/18/2024  DAYTON TO CINCINNATI AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        COLUMBUS TO ELYRIA, CLEVELAND AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        COLUMBUS TO CIRCLEVILLE AND RETURN
+

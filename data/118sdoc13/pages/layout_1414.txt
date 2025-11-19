@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+DHIR20240223      POSTED                                             DATES
+DHIR20240227                                                                      WASHINGTON DC TO HONOLULU AND RETURN                                             $666.96
+                                                          START       END         STAFF INCIDENTALS                                                             $1,671.79
+                                                                                  STAFF PER DIEM                                                                $1,248.32
+                  06/17/2024  RACHEL A NEWSTADT           05/25/2024  06/01/2024  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO HONOLULU AND RETURN                                             $571.68
+                  06/24/2024  GEORGE O FLYNN              05/25/2024  06/01/2024  STAFF INCIDENTALS                                                             $1,518.40
+                                                                                  STAFF PER DIEM
+DHIR20240229      06/28/2024  MICHAEL-EDWARD L STONE      03/28/2024  04/08/2024  STAFF TICKET FEES                                                                  $30.00
+DHIR20240233                                                                      STAFF TRANSPORTATION                                                          $2,521.63
+                  07/18/2024  BLAINE M NOLAN              05/25/2024  06/02/2024  WASHINGTON DC TO HONOLULU AND RETURN
+                                                                                  STAFF INCIDENTALS                                                                $490.32
+DHIR20240239      07/19/2024  CITIBANK - TRAVEL CBA CARD  07/07/2024  07/08/2024  STAFF PER DIEM                                                                $1,512.73    B-1396
+DHIR20240242      07/19/2024  CITIBANK - TRAVEL CBA CARD  06/20/2024  07/08/2024  STAFF TRANSPORTATION
+DHIR20240243      07/18/2024  CITIBANK - TRAVEL CBA CARD  07/03/2024  07/03/2024  WASHINGTON DC TO HONOLULU AND RETURN                                             $569.78
+DHIR20240252                                                                      STAFF INCIDENTALS
+DHIR20240254      09/19/2024  CITIBANK - TRAVEL CBA CARD  07/19/2024  09/06/2024  STAFF PER DIEM                                                                   $474.45
+DHIR20240264      09/06/2024  CITIBANK - TRAVEL CBA CARD  08/11/2024  08/17/2024  STAFF TICKET FEES                                                             $1,611.84
+                                                                                  STAFF TRANSPORTATION
+DHIR20240266      09/18/2024  CITIBANK - TRAVEL CBA CARD  08/14/2024  08/14/2024  ALEXANDRIA VA TO WASHINGTON DC, HONOLULU, OAHU, HONOLULU,                          $40.00
+                                                                                  WASHINGTON DC AND RETURN                                                      $1,884.02
+DHIR20240268      09/06/2024  CITIBANK - TRAVEL CBA CARD  08/08/2024  08/08/2024  SENATOR TRANSPORTATION
+DHIR20240269                                                                      AIRFARE FOR SEN HIRONO HONOLULU TO WASHINGTON DC                              $3,653.80
+DHIR20240276      09/05/2024  CITIBANK - TRAVEL CBA CARD  08/03/2024  08/03/2024  SENATOR TRANSPORTATION
+                  09/06/2024  CITIBANK - TRAVEL CBA CARD  08/15/2024  08/17/2024  CAR SERVICE FOR SEN HIRONO IN WASHINGTON DC                                      $268.00
+DHIR20240289      09/17/2024  JED D. D'ERCOLE             08/11/2024  08/21/2024  SENATOR TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION                                                             $188.60
+                  09/12/2024  DERRICK L MUSE              08/11/2024  08/16/2024  AIRFARE FOR SEN HIRONO, L YAP HONOLULU TO HILO AND RETURN                        $188.60
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  CAR SERVICE FOR SEN HIRONO IN WASHINGTON DC                                      $215.00
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES                                                                   $2,080.67
+                                                                                  AIRFARE FOR D MUSE WASHINGTON DC TO HONOLULU AND RETURN                            $40.00
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR THE FOLLOWING: S OTA KAHULUI TO HONOLULU AND                         $535.79
+                                                                                  RETURN; R WILSON KAILUA KONA TO HONOLULU AND RETURN; A EBESUNO
+                                                                                  HILO TO HONOLULU AND RETURN                                                      $149.19
+                                                                                  SENATOR TRANSPORTATION                                                           $298.38
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR SEN HIRONO, L YAP, E INOUYE HONOLULU TO KAHULUI AND                    $77.00
+                                                                                  RETURN
+                                                                                  SENATOR TRANSPORTATION                                                           $189.19
+                                                                                  CAR SERVICE FOR SEN HIRONO IN WASHINGTON DC
+                                                                                  STAFF TRANSPORTATION                                                             $243.21
+                                                                                  AIRFARE FOR A GEIBEL HONOLULU TO HILO AND RETURN                              $1,575.71
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM                                                                     $40.00
+                                                                                  STAFF TICKET FEES                                                             $2,260.79
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO HONOLULU AND RETURN                                             $196.70
+                                                                                  STAFF INCIDENTALS
+

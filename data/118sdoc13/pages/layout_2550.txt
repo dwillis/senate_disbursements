@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DVAN20240533                  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION                                                         $33.50
+DVAN20240541      04/23/2024  ELONNA B.Q JONES                  START       END         CAMBRIDGE TO PITTSVILLE TO SALISBURY                                          $8.84
+DVAN20240542      04/26/2024  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION
+DVAN20240544      04/30/2024  ELONNA B.Q JONES                  04/12/2024  04/12/2024  BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $40.20
+DVAN20240546      04/26/2024  TERI L WEATHERS                                           STAFF TRANSPORTATION                                                          $8.84
+DVAN20240547      05/02/2024  ALYSSA M HASTINGS                 04/16/2024  04/16/2024  CAMBRIDGE TO WYE MILLS AND RETURN
+DVAN20240548      05/02/2024  ELONNA B.Q JONES                                          STAFF TRANSPORTATION                                                         $19.22
+DVAN20240549      05/02/2024  ALYSSA M HASTINGS                 04/18/2024  04/18/2024  BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $30.15
+DVAN20240550      05/02/2024  TERI L WEATHERS                                           STAFF TRANSPORTATION                                                         $15.74
+DVAN20240551      05/02/2024  ALYSSA M HASTINGS                 04/18/2024  04/18/2024  BOWIE TO BLADENSBURG, CHEVERLY AND RETURN                                    $23.45
+DVAN20240552      05/02/2024  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION                                                         $41.74
+DVAN20240553      05/03/2024  DAKOTA WALKER BUSBY               04/22/2024  04/22/2024  CAMBRIDGE TO EASTON AND RETURN                                               $40.20
+DVAN20240554      05/09/2024  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION                                                         $46.90
+DVAN20240555      05/02/2024  CINDY S SUNG                      04/22/2024  04/22/2024  BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $322.27
+DVAN20240556      05/04/2024  ELONNA B.Q JONES                                          STAFF TRANSPORTATION                                                         $63.65
+DVAN20240558      05/02/2024  SAVANNA R PETERSON                04/19/2024  04/19/2024  CAMBRIDGE TO OXFORD AND RETURN                                               $20.77
+DVAN20240561      05/06/2024  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION                                                         $14.87
+DVAN20240562      05/07/2024  AUDREY K SEVERN                   04/24/2024  04/24/2024  BOWIE TO BALTIMORE AND RETURN                                                $18.90
+DVAN20240563      05/07/2024  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION                                                         $57.62
+DVAN20240568      05/07/2024  DAKOTA WALKER BUSBY               04/24/2024  04/24/2024  CAMBRIDGE TO TRAPPE TO SALISBURY                                             $23.45
+DVAN20240569      05/08/2024  DAKOTA WALKER BUSBY                                       STAFF TRANSPORTATION                                                         $40.20
+DVAN20240570      05/14/2024  DAKOTA WALKER BUSBY               04/25/2024  04/25/2024  CAMBRIDGE TO RIDGELY AND RETURN                                              $79.73
+DVAN20240571      05/08/2024  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION                                                       $170.18
+DVAN20240572      05/09/2024  TERI L WEATHERS                   04/26/2024  04/26/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $60.97  B-2513
+DVAN20240574      05/10/2024  ELONNA B.Q JONES                                          STAFF TRANSPORTATION                                                         $83.75
+                  05/10/2024                                    04/04/2024  04/22/2024  CAMBRIDGE TO OCEAN CITY TO SALISBURY                                         $41.54
+                                                                                        STAFF TRANSPORTATION                                                         $21.16
+                                                                04/19/2024  04/19/2024  ROCKVILLE TO LAUREL TO ELLICOTT CITY
+                                                                                        STAFF TRANSPORTATION
+                                                                04/20/2024  04/20/2024  BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                04/24/2024  04/24/2024  WASHINGTON DC TO ROCKVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/07/2024  04/07/2024  CAMBRIDGE TO STEVENSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/29/2024  04/29/2024  ROCKVILLE TO COLLEGE PARK TO CHEVY CHASE
+                                                                                        STAFF TRANSPORTATION
+                                                                04/23/2024  04/23/2024  SALISBURY TO PRINCESS ANNE TO CAMBRIDGE
+                                                                                        STAFF TRANSPORTATION
+                                                                04/30/2024  04/30/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                04/23/2024  04/23/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                04/25/2024  04/30/2024  WASHINGTON DC TO BALTIMORE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/24/2024  04/24/2024  CAMBRIDGE TO EASTON, ANNAPOLIS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/02/2024  05/02/2024  BOWIE TO BALTIMORE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/30/2024  04/30/2024  BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+
+                                                                05/02/2024  05/02/2024
+

@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+              POSTED                                             DATES
+                                                                              HYATTSVILLE MD TO WASHINGTON DC, OMAHA, NORFOLK, VALENTINE,                     $162.27
+                                                      START       END         OMAHA, WASHINGTON DC AND RETURN                                                 $460.98
+                                                                              STAFF TRANSPORTATION                                                            $303.70
+DFIS20240398  09/18/2024  RINGLEIN,RAY M              09/04/2024  09/04/2024  LINCOLN TO NORFOLK, DAVID CITY, SEWARD AND RETURN
+DFIS20240399  09/16/2024  CITIBANK - TRAVEL CBA CARD  08/11/2024  08/11/2024  STAFF TRANSPORTATION                                                              $20.77
+DFIS20240400  09/17/2024  CITIBANK - TRAVEL CBA CARD  08/28/2024  08/29/2024  AIRFARE FOR S KUCERA WASHINGTON DC TO OMAHA                                       $28.14
+DFIS20240406  09/14/2024  KEVIN D HUEBERT             09/05/2024  09/05/2024  STAFF TRANSPORTATION                                                            $102.91
+DFIS20240408  09/14/2024  DENISE M BARRETT            09/05/2024  09/05/2024  AIRFARE FOR C FOLMAR WASHINGTON DC TO OMAHA AND RETURN                          $572.93
+DFIS20240409  09/27/2024  CRAIG BERNING               08/28/2024  09/03/2024  STAFF TRANSPORTATION                                                         $1,012.23
+                                                                              OMAHA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                    $15.41
+DFIS20240410  09/16/2024  KEVIN D HUEBERT             09/06/2024  09/06/2024  STAFF TRANSPORTATION                                                              $55.61  B-1199
+DFIS20240411  09/16/2024  JOSHUA W JELDEN             08/29/2024  08/29/2024  OMAHA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                    $33.13
+DFIS20240412  09/23/2024  CHLOE FOLMAR                08/28/2024  08/30/2024  STAFF INCIDENTALS                                                               $175.43
+                                                                              STAFF PER DIEM                                                                  $207.16
+DFIS20240413  09/30/2024  SIDNEY C KUCERA             08/11/2024  09/08/2024  STAFF TRANSPORTATION                                                            $117.77
+                                                                              WASHINGTON DC TO OMAHA, CHICAGO, BENTONVILLE AND RETURN                         $885.00
+DFIS20240414  09/18/2024  JOSHUA W JELDEN             09/10/2024  09/10/2024  STAFF TRANSPORTATION                                                         $1,083.17
+DFIS20240415  09/26/2024  NEIL P MOSEMAN              08/29/2024  08/31/2024  OMAHA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION                                                              $46.23
+DFIS20240416  09/20/2024  CITIBANK - TRAVEL CBA CARD  09/05/2024  09/08/2024  KEARNEY TO GRAND ISLAND AND RETURN                                                $15.73
+DFIS20240417  09/19/2024  CITIBANK - TRAVEL CBA CARD  09/08/2024  09/08/2024  STAFF INCIDENTALS                                                               $172.13
+DFIS20240418  09/19/2024  CITIBANK - TRAVEL CBA CARD  09/09/2024  09/09/2024  STAFF PER DIEM                                                                  $212.50
+DFIS20240428  09/27/2024  JAMES S ARNOLD              08/13/2024  08/16/2024  STAFF TRANSPORTATION                                                            $495.21
+                                                                              WASHINGTON DC TO OMAHA AND RETURN                                               $658.48
+DFIS20240429  09/22/2024  KEVIN D HUEBERT             09/15/2024  09/15/2024  STAFF INCIDENTALS                                                               $560.99
+DFIS20240431  09/27/2024  BRANDEN J MCCASLIN          09/16/2024  09/16/2024  STAFF PER DIEM                                                                  $458.07
+DFIS20240433  09/22/2024  DENISE M BARRETT            09/13/2024  09/13/2024  STAFF TRANSPORTATION                                                              $88.87
+                                                                              WASHINGTON DC TO OMAHA, FREMONT, LINCOLN, VALLEY, OMAHA,
+                                                                              FREMONT, COLUMBUS, BENNINGTON AND RETURN                                          $75.71
+                                                                              STAFF TRANSPORTATION                                                            $134.00
+                                                                              KEARNEY TO ALDA AND RETURN
+                                                                              STAFF INCIDENTALS                                                                 $14.07
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              OMAHA TO YORK, GRAND ISLAND AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR P GRIBBEN WASHINGTON DC TO OMAHA AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR S KUCERA OMAHA TO WASHINGTON DC
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN FISCHER OMAHA TO WASHINGTON DC
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO OMAHA, VALENTINE, SCOTTSBLUFF, SIDNEY, DENVER
+                                                                              AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              PAPILLION TO LINCOLN AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              SCOTTSBLUFF TO CHAPPELL AND RETURN
+                                                                              STAFF TRANSPORTATION
+

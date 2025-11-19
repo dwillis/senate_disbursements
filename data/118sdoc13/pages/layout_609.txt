@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION               AMOUNT ($)
+                  POSTED                                              DATES
+DBLU20240272                                                                       HARTFORD TO NORWALK AND RETURN                                                          $786.00
+DBLU20240274                                               START       END         STAFF TRANSPORTATION                                                                      $50.92
+DBLU20240275                                                                       10/3, 6, 7, 9, 13, 14, 15, 27, 28, 29 BRANFORD TO GREENWICH AND RETURN                    $22.78
+DBLU20240291      05/23/2024  KEVIN T MULLANE              10/03/2023  10/29/2023  STAFF TRANSPORTATION                                                                              B-591
+DBLU20240292      05/22/2024  RUTH E QUILES                05/13/2024  05/13/2024  BRIDGEPORT TO WATERBURY AND RETURN                                                      $113.10
+DBLU20240293      05/23/2024  RUTH E QUILES                03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                                    $393.10
+DBLU20240294      05/24/2024  CITIBANK - SENATOR IBA CARD  05/09/2024  05/09/2024  EAST HAVEN TO SHELTON TO BRIDGEPORT                                                     $221.10
+DBLU20240295      05/24/2024  CITIBANK - SENATOR IBA CARD  05/02/2024  05/02/2024  SENATOR TRANSPORTATION
+DBLU20240299      06/18/2024  CITIBANK - SENATOR IBA CARD  05/14/2024  05/14/2024  AIRFARE FOR SEN BLUMENTHAL WASHINGTON DC TO NEW YORK NY                                   $21.44
+DBLU20240300      05/26/2024  MILGRID GUZMAN               05/16/2024  05/16/2024  SENATOR TRANSPORTATION                                                                    $16.08
+DBLU20240305      05/28/2024  MILGRID GUZMAN               05/17/2024  05/17/2024  AIRFARE FOR SEN BLUMENTHAL WASHINGTON DC TO WINDSOR LOCKS                               $633.10
+                  05/31/2024  CITIBANK - SENATOR IBA CARD  05/16/2024  05/16/2024  SENATOR TRANSPORTATION                                                                  $393.10
+                  05/31/2024  CITIBANK - SENATOR IBA CARD  05/20/2024  05/20/2024  AIRFARE FOR SEN BLUMENTHAL WINDSOR LOCKS TO WASHINGTON DC                               $461.57
+                  06/10/2024  ELLEN M GRAHAM               05/13/2024  05/31/2024  STAFF TRANSPORTATION
+                                                                                   HARTFORD TO MANCHESTER AND RETURN                                                       $221.10
+DBLU20240306      06/11/2024  CITIBANK - SENATOR IBA CARD  05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                                      $77.05
+DBLU20240307      06/10/2024  RUTH E QUILES                05/16/2024  05/16/2024  BLOOMFIELD TO EAST HARTFORD AND RETURN                                                    $54.94
+DBLU20240308      06/07/2024  RUTH E QUILES                05/23/2024  05/23/2024  SENATOR TRANSPORTATION                                                                    $24.12
+DBLU20240309      06/07/2024  RUTH E QUILES                04/25/2024  04/25/2024  AIRFARE FOR SEN BLUMENTHAL WASHINGTON DC TO WHITE PLAINS NY                               $35.51
+DBLU20240310      06/07/2024  RUTH E QUILES                05/14/2024  05/14/2024  SENATOR TRANSPORTATION                                                                    $10.05
+DBLU20240311      06/07/2024  RUTH E QUILES                05/10/2024  05/10/2024  AIRFARE FOR SEN BLUMENTHAL WINDSOR LOCKS TO WASHINGTON DC                                 $60.97
+DBLU20240312      06/07/2024  RUTH E QUILES                04/18/2024  04/18/2024  STAFF TRANSPORTATION                                                                      $57.62
+DBLU20240313      06/07/2024  RUTH E QUILES                05/08/2024  05/08/2024  BRANFORD TO THE FOLLOWING AND RETURN TO HARTFORD: 5/13
+DBLU20240314      06/12/2024  DANIEL PATRICK REILLY        03/19/2024  05/09/2024  STRATFORD; 5/14 NEW HAVEN; 5/16 BRIDGEPORT, RIDGEFIELD; 5/17                            $500.49
+                                                                                   WATERBURY; 5/30 MIDDLETOWN; BRANFORD TO THE FOLLOWING AND
+DBLU20240315      06/13/2024  DANIEL PATRICK REILLY        05/10/2024  05/31/2024  RETURN: 5/15 NORWICH; 5/31 REDDING; HARTFORD TO THE FOLLOWING                           $440.86
+                                                                                   AND RETURN: 5/24 WILLIMANTIC; 5/29 TORRINGTON
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN BLUMENTHAL WASHINGTON DC TO WINDSOR LOCKS
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BRIDGEPORT TO HARTFORD AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   EAST HAVEN TO NORWALK AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   EAST HAVEN TO NEW HAVEN TO BRIDGEPORT
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BRIDGEPORT TO NEW HAVEN AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   EAST HAVEN TO NEW HAVEN AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BRIDGEPORT TO KILLINGWORTH AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BRIDGEPORT TO SOUTHINGTON AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   HARTFORD TO THE FOLLOWING AND RETURN: 3/19 BLOOMFIELD; 3/25
+                                                                                   PUTNAM; HARTFORD TO THE FOLLOWING AND RETURN TO CHESHIRE: 3/27
+                                                                                   NEW HAVEN; 3/28 ROCKY HILL, EAST HAVEN, BRANFORD; 4/25 WINSTED,
+                                                                                   HAMDEN; 4/26 NEW LONDON; 5/6 EAST WINDSOR, NORTH HAVEN; 5/9
+                                                                                   WINSTED, SOUTHINGTON; CHESHIRE TO THE FOLLOWING AND RETURN: 4/4
+                                                                                   DANBURY; 4/24 SEYMOUR, OLD LYME
+                                                                                   STAFF TRANSPORTATION
+

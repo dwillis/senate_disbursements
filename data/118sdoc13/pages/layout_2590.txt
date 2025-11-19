@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                      DATES
+DWRN20240822                                                               ABINGDON TO WYTHEVILLE AND RETURN                                                $44.22
+DWRN20240823                                       START       END         STAFF TRANSPORTATION                                                             $79.06
+DWRN20240824                                                               ABINGDON TO BRISTOL TO POUNDING MILL                                             $46.90
+DWRN20240825      09/14/2024  ROBERT S CLEM        08/14/2024  08/14/2024  STAFF TRANSPORTATION                                                           $100.50   B-2553
+DWRN20240826      09/14/2024  ROBERT S CLEM        08/15/2024  08/15/2024  ABINGDON TO GRUNDY TO POUNDING MILL                                              $73.70
+DWRN20240829      09/14/2024  ROBERT S CLEM        08/20/2024  08/20/2024  STAFF TRANSPORTATION                                                             $39.67
+DWRN20240830      09/19/2024  ROBERT S CLEM        08/23/2024  08/23/2024  ABINGDON TO BRISTOL AND RETURN                                                   $35.57
+DWRN20240831      09/14/2024  ROBERT S CLEM        08/24/2024  08/24/2024  STAFF TRANSPORTATION
+DWRN20240832      09/14/2024  TANNIA TALENTO       08/03/2024  08/03/2024  ABINGDON TO MARION, BRISTOL TO POUNDING MILL                                      $8.17
+DWRN20240833      09/14/2024  TANNIA TALENTO       08/04/2024  08/04/2024  STAFF TRANSPORTATION                                                             $31.10
+DWRN20240834      09/14/2024  TANNIA TALENTO       08/06/2024  08/06/2024  POUNDING MILL TO GLADE SPRING AND RETURN                                         $35.64
+DWRN20240835      09/14/2024  TANNIA TALENTO       08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                             $40.73
+DWRN20240836      09/14/2024  TANNIA TALENTO       08/11/2024  08/11/2024  ARLINGTON TO HERNDON AND RETURN                                                  $54.41
+DWRN20240837      09/14/2024  TANNIA TALENTO       08/12/2024  08/12/2024  STAFF TRANSPORTATION                                                             $17.85
+DWRN20240838      09/14/2024  TANNIA TALENTO       08/17/2024  08/17/2024  ARLINGTON TO MANASSAS AND RETURN
+DWRN20240839      09/14/2024  TANNIA TALENTO       08/26/2024  08/26/2024  STAFF TRANSPORTATION                                                              $8.71
+DWRN20240840      09/14/2024  TANNIA TALENTO       08/27/2024  08/27/2024  IN AND AROUND ARLINGTON                                                           $9.84
+DWRN20240847      09/14/2024  TANNIA TALENTO       08/28/2024  08/28/2024  STAFF TRANSPORTATION                                                              $3.14
+DWRN20240848      09/14/2024  TANNIA TALENTO       08/29/2024  08/29/2024  VIENNA TO FAIRFAX TO ARLINGTON                                                   $36.97
+DWRN20240849      09/14/2024  TANNIA TALENTO       08/30/2024  08/30/2024  STAFF TRANSPORTATION                                                             $43.55
+                  09/17/2024  NICHOLAS R KAWUGULE  08/27/2024  08/27/2024  ARLINGTON TO MANASSAS AND RETURN                                                 $12.06
+DWRN20240850      09/17/2024  CAROLINE E BROOM     09/06/2024  09/06/2024  STAFF TRANSPORTATION                                                             $21.32
+DWRN20240851      09/25/2024  ISAAC SARVER         09/05/2024  09/07/2024  VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $206.98
+                                                                           STAFF TRANSPORTATION                                                           $110.55
+DWRN20240852      09/17/2024  LOUISE A KADIRI      09/06/2024  09/06/2024  ARLINGTON TO ASHBURN AND RETURN                                                  $27.47
+                  09/17/2024  LOUISE A KADIRI      09/10/2024  09/10/2024  STAFF TRANSPORTATION                                                             $18.91
+                                                                           VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $80.40
+                  09/26/2024  ASHLEE WARREN        09/10/2024  09/10/2024  STAFF TRANSPORTATION                                                              $9.68
+                                                                           VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $104.55
+                                                                           STAFF TRANSPORTATION
+                                                                           VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           IN AND AROUND ARLINGTON
+                                                                           STAFF TRANSPORTATION
+                                                                           RICHMOND OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO ALEXANDRIA AND RETURN
+                                                                           STAFF INCIDENTALS
+                                                                           STAFF PER DIEM
+                                                                           STAFF TRANSPORTATION
+                                                                           ROANOKE TO RADFORD, DUBLIN, RADFORD, DUBLIN, FLOYD AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           RICHMOND TO CHESTERFIELD TO HENRICO
+                                                                           STAFF PER DIEM
+                                                                           STAFF TRANSPORTATION
+                                                                           RICHMOND TO FREDERICKSBURG AND RETURN
+                                                                           STAFF PER DIEM
+                                                                           STAFF TRANSPORTATION
+

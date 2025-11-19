@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DPAD20240430      06/13/2024  ROBERTO RIZO                                              STAFF PER DIEM                                                                    $22.34
+DPAD20240431      06/11/2024  ROBERTO J NEGRETE                 START       END         STAFF TRANSPORTATION                                                            $111.38
+DPAD20240432      06/13/2024  ROBERTO A ARTEAGA                                         SACRAMENTO TO BURBANK, LOS ANGELES AND RETURN
+DPAD20240433                  MARGARET ARECHIGA                 05/12/2024  05/13/2024  STAFF TRANSPORTATION                                                              $89.78
+DPAD20240434      06/13/2024  DANIEL F CHEN                                             LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                05/13/2024  05/13/2024  STAFF PER DIEM                                                                    $28.00
+DPAD20240435      06/13/2024                                    05/12/2024  05/13/2024  STAFF TRANSPORTATION                                                              $69.61
+DPAD20240436                                                                            BERKELEY TO LOS ANGELES AND RETURN
+DPAD20240437                                                    05/12/2024  05/13/2024  STAFF PER DIEM                                                                    $15.44
+DPAD20240438                                                                            STAFF TRANSPORTATION                                                            $329.64
+DPAD20240439                                                    05/13/2024  05/13/2024  FRESNO TO LOS ANGELES AND RETURN
+DPAD20240440                                                                            STAFF PER DIEM                                                                    $28.55
+DPAD20240441      06/13/2024  IZCHEL ARIADNA MONTELONGO         05/12/2024  05/13/2024  STAFF TRANSPORTATION                                                            $146.78   B-1974
+DPAD20240442      06/13/2024  ELISA MARIA JIMENEZ               05/12/2024  05/13/2024  SAN MATEO TO LOS ANGELES, SAN MATEO, SAN FRANCISCO, SAN MATEO,
+DPAD20240443      06/13/2024  LIZETTE M MATA                    05/12/2024  05/13/2024  LOS ANGELES AND RETURN                                                            $50.83
+DPAD20240444      06/13/2024  ANGEL MARQUEZ                     05/12/2024  05/13/2024  STAFF PER DIEM                                                                  $102.62
+DPAD20240445      06/13/2024  NATHALIE G GUILLEN                05/12/2024  05/13/2024  STAFF TRANSPORTATION
+DPAD20240446      06/06/2024  CITIBANK - TRAVEL CBA CARD        05/23/2024  05/23/2024  SACRAMENTO TO LOS ANGELES AND RETURN                                              $27.53
+DPAD20240447      06/07/2024  CITIBANK - TRAVEL CBA CARD        05/13/2024  05/13/2024  STAFF PER DIEM                                                                  $206.69
+                  06/06/2024  CITIBANK - TRAVEL CBA CARD        05/12/2024  05/13/2024  STAFF TRANSPORTATION
+                  06/07/2024  CITIBANK - TRAVEL CBA CARD        05/12/2024  05/12/2024  SAN DIEGO TO LOS ANGELES AND RETURN                                               $33.01
+                  06/07/2024  CITIBANK - TRAVEL CBA CARD        05/12/2024  05/13/2024  STAFF PER DIEM                                                                  $108.37
+                  06/07/2024  CITIBANK - TRAVEL CBA CARD        05/12/2024  05/12/2024  STAFF TRANSPORTATION
+                  06/07/2024  CITIBANK - TRAVEL CBA CARD        05/12/2024  05/13/2024  SACRAMENTO TO LOS ANGELES AND RETURN                                            $228.27
+                  06/06/2024  CITIBANK - TRAVEL CBA CARD        05/12/2024  05/13/2024  STAFF TRANSPORTATION
+                                                                                        SAN YSIDRO TO LOS ANGELES AND RETURN                                              $22.97
+                                                                                        STAFF PER DIEM                                                                  $316.30
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SAN FRANCISCO TO LOS ANGELES AND RETURN                                         $443.10
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN PADILLA WASHINGTON DC TO LOS ANGELES                            $207.20
+                                                                                        STAFF TRANSPORTATION                                                              $30.00
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR D CHEN SAN FRANCISCO TO LOS ANGELES AND RETURN                      $184.20
+                                                                                        STAFF TRANSPORTATION                                                              $30.00
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR R ARTEAGA OAKLAND TO LOS ANGELES AND RETURN                         $580.19
+                                                                                        STAFF TRANSPORTATION                                                              $40.00
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR L MATA SACRAMENTO TO BURBANK                                        $580.19
+                                                                                        STAFF TRANSPORTATION                                                              $40.00
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR J SCHWAB SACRAMENTO TO BURBANK AND RETURN                           $184.20
+                                                                                        STAFF TRANSPORTATION                                                              $40.00
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR T NEVINS OAKLAND TO LOS ANGELES                                     $580.19
+                                                                                        STAFF TRANSPORTATION                                                              $40.00
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR R RIZO SACRAMENTO TO BURBANK AND RETURN                             $165.20
+                                                                                        STAFF TRANSPORTATION
+

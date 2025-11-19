@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME          OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+              POSTED                                     DATES
+                                                                      STAFF TRANSPORTATION                                                                $55.18
+                                              START       END         OKLAHOMA CITY TO YUKON, TUTTLE, LAWTON, YUKON AND RETURN                            $80.84
+                                                                      STAFF TRANSPORTATION                                                                $90.45
+DLNK20240852  06/13/2024  JAMES S CARSON      06/07/2024  06/07/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $72.36
+DLNK20240854  06/14/2024  MACKENZIE J SAVALA  05/03/2024  05/03/2024  STAFF TRANSPORTATION                                                                $79.06
+DLNK20240855  06/14/2024  MACKENZIE J SAVALA  05/07/2024  05/07/2024  TULSA TO MEEKER AND RETURN                                                          $79.06
+DLNK20240856  06/14/2024  MACKENZIE J SAVALA  05/13/2024  05/13/2024  STAFF TRANSPORTATION                                                                $70.35
+DLNK20240857  06/14/2024  MACKENZIE J SAVALA  05/14/2024  05/14/2024  TULSA TO BARNSDALL AND RETURN                                                     $131.32
+DLNK20240858  06/14/2024  MACKENZIE J SAVALA  05/16/2024  05/16/2024  STAFF TRANSPORTATION                                                              $103.18
+DLNK20240859  06/18/2024  MACKENZIE J SAVALA  05/22/2024  05/22/2024  TULSA TO BARTLESVILLE AND RETURN                                                  $164.60
+DLNK20240860  06/18/2024  MACKENZIE J SAVALA  05/29/2024  05/29/2024  STAFF TRANSPORTATION                                                           $1,032.00
+DLNK20240861  06/25/2024  MACKENZIE J SAVALA  06/03/2024  06/07/2024  TULSA TO BARTLESVILLE AND RETURN                                                  $478.98
+                                                                      STAFF TRANSPORTATION                                                                $15.51
+DLNK20240863  06/17/2024  PEYTON G BURNS      06/05/2024  06/05/2024  TULSA TO CHOUTEAU AND RETURN                                                        $32.75  B-1596
+              06/27/2024  EAN SERVICES LLC    06/03/2024  06/06/2024  STAFF TRANSPORTATION                                                              $212.83
+DLNK20240868                                                          TULSA TO OKLAHOMA CITY AND RETURN
+              06/27/2024  EAN SERVICES LLC    06/08/2024  06/13/2024  STAFF TRANSPORTATION                                                              $195.00
+DLNK20240869                                                          TULSA TO VINITA, CLAREMORE AND RETURN
+DLNK20240870  06/27/2024  EAN SERVICES LLC    06/03/2024  06/06/2024  STAFF INCIDENTALS                                                                 $168.28
+DLNK20240871  06/27/2024  EAN SERVICES LLC    06/03/2024  06/11/2024  STAFF PER DIEM                                                                    $277.16
+DLNK20240872                                                          STAFF TRANSPORTATION
+DLNK20240873  06/27/2024  EAN SERVICES LLC    06/04/2024  06/05/2024  TULSA TO OKLAHOMA CITY, WASHINGTON DC AND RETURN                                  $107.59
+DLNK20240874  06/25/2024  EAN SERVICES LLC    06/05/2024  06/07/2024  STAFF PER DIEM                                                                      $88.47
+DLNK20240875  06/27/2024  EAN SERVICES LLC    06/12/2024  06/13/2024  STAFF TRANSPORTATION
+              06/26/2024  JAMES LANKFORD      04/23/2024  04/30/2024  STILLWATER TO CUSHING, ENID AND RETURN                                            $110.34
+DLNK20240876                                                          STAFF TRANSPORTATION                                                                $43.80
+              07/10/2024  JAMES LANKFORD      05/02/2024  05/07/2024  RENTAL AUTO FOR P BURNS AS FOLLOWS: 6/3 STILLWATER TO OKLAHOMA
+                                                                      CITY; 6/4 STILLWATER TO OKLAHOMA CITY, PAULS VALLEY, SULPHUR AND                  $134.67
+                                                                      RETURN; 6/5 CUSHING, ENID, KINGFISHER, PERKINS AND RETURN; 6/6
+                                                                      OKLAHOMA CITY TO STILLWATER                                                       $111.26
+                                                                      STAFF TRANSPORTATION                                                              $740.66
+                                                                      RENTAL AUTO FOR P BURNS STILLWATER TO GUTHRIE, PERKINS,                           $464.69
+                                                                      STILLWATER, ENID, STILLWATER, ALVA, WAKITA, MEDFORD AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      RENTAL AUTO FOR J CARSON YUKON TO TULSA, LAWTON AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      RENTAL AUTO FOR L COCHRAN MCALESTER TO SULPHUR, ADA, KINGSTON,
+                                                                      DURANT, SULPHUR, DAVIS, OKLAHOMA CITY AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      RENTAL AUTO FOR J SHARUM TULSA TO SULPHUR AND RETURN
+                                                                      STAFF TRANSPORTATION
+                                                                      RENTAL AUTO FOR S SHARUM IN AND AROUND TULSA
+                                                                      STAFF TRANSPORTATION
+                                                                      RENTAL AUTO FOR S SHARUM TULSA TO OKLAHOMA CITY AND RETURN
+                                                                      SENATOR PER DIEM
+                                                                      SENATOR TRANSPORTATION
+                                                                      WASHINGTON DC TO OKLAHOMA CITY, ATLANTA GA, DALLAS TX, SULPHUR,
+                                                                      PAULS VALLEY, DAVIS, ARDMORE, OKLAHOMA CITY AND RETURN
+                                                                      SENATOR INCIDENTALS
+                                                                      SENATOR PER DIEM
+                                                                      SENATOR TRANSPORTATION
+

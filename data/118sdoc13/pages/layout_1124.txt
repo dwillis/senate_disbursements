@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DDUC20240519                  LOREN C HARRIS                                            STAFF TRANSPORTATION                                                             $58.79
+DDUC20240520      07/03/2024  RANDY R SIKOWSKI                  START       END         CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $11.96
+                  07/08/2024                                                            STAFF INCIDENTALS                                                              $102.88
+DDUC20240521                                                    05/22/2024  05/22/2024  STAFF PER DIEM                                                                 $276.57
+DDUC20240522                                                                            STAFF TRANSPORTATION                                                             $31.49
+DDUC20240523                                                    06/19/2024  06/20/2024  SPRINGFIELD TO MOLINE, THOMPSONVILLE AND RETURN                                  $64.32
+DDUC20240524                                                                            STAFF TRANSPORTATION                                                           $579.41
+DDUC20240525      07/03/2024  PHILLIP J FOSTER                  06/20/2024  06/20/2024  ROCK ISLAND TO THOMSON AND RETURN                                                $50.82  B-1106
+DDUC20240526      07/05/2024  PHILLIP J FOSTER                  06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                             $36.11
+DDUC20240527      07/05/2024  ABDULLA A SINDI                   06/01/2024  06/30/2024  ROCK ISLAND TO PEORIA AND RETURN                                               $110.02
+DDUC20240528      07/05/2024  JESSICA ANN SEWELL                06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                           $119.59
+DDUC20240530      07/08/2024  IRIS GONZALEZ                     03/01/2024  03/31/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $71.82
+                  07/08/2024  THOMAS N MOSLEY                   06/20/2024  06/20/2024  STAFF TRANSPORTATION                                                             $13.72
+DDUC20240531      07/09/2024  IRIS GONZALEZ                     04/01/2024  04/30/2024  CHICAGO TO PLAINFIELD AND RETURN                                                 $62.64
+DDUC20240532      07/08/2024  IRIS GONZALEZ                     05/01/2024  05/31/2024  STAFF TRANSPORTATION                                                           $116.31
+                  07/08/2024  ROBIN M CROCHET                   06/25/2024  06/25/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $19.78
+DDUC20240533                                                                            STAFF TRANSPORTATION                                                           $207.42
+DDUC20240534      07/09/2024  RANDY R SIKOWSKI                  06/26/2024  06/26/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $37.89
+DDUC20240535      08/09/2024  JERMAINE RASHAD TURNER            06/28/2024  06/29/2024  STAFF TRANSPORTATION                                                             $59.09
+DDUC20240538                                                                            CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $137.65
+DDUC20240539      07/11/2024  JESSICA ANN SEWELL                06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                             $13.99
+DDUC20240540      07/15/2024  ROGELIO VILLA                     06/01/2024  06/30/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $19.22
+DDUC20240541      07/17/2024  JESSICA ANN SEWELL                06/29/2024  06/29/2024  STAFF PER DIEM                                                                 $218.35
+DDUC20240542      07/15/2024  KIRSTEN T HEINDL                  06/18/2024  06/18/2024  STAFF TRANSPORTATION                                                           $172.12
+DDUC20240543      07/15/2024  KIRSTEN T HEINDL                  06/13/2024  06/13/2024  GLEN CARBON TO JERSEYVILLE, GRAFTON AND RETURN                                 $172.12
+DDUC20240544      07/15/2024  ELIZABETH W LABOTTE               02/15/2024  02/15/2024  STAFF TRANSPORTATION                                                           $220.43
+                  07/15/2024  ELIZABETH W LABOTTE               04/08/2024  04/08/2024  SPRINGFIELD TO CHAMPAIGN AND RETURN                                            $238.25
+                  07/15/2024  ELIZABETH W LABOTTE               04/12/2024  04/12/2024  STAFF INCIDENTALS
+                  07/15/2024  ELIZABETH W LABOTTE               05/08/2024  05/08/2024  STAFF PER DIEM
+                  07/15/2024  KATHERINE E KELLER                06/01/2024  06/30/2024  WASHINGTON DC TO CHICAGO, HOFFMAN ESTATES, CHICAGO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MOLINE TO BENSENVILLE, SCHILLER PARK AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MOLINE TO BELVIDERE, ROCKFORD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MOLINE TO BELVIDERE, ROCKFORD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MOLINE TO SPRINGFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CARBONDALE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

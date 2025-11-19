@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                  POSTED                                             DATES
+DPAD20240611                                                                      WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $18.76
+DPAD20240612                                              START       END         STAFF TRANSPORTATION                                                               $60.97
+DPAD20240613                                                                      WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $88.44
+DPAD20240614      08/08/2024  HARPER B RUBIN              07/23/2024  07/24/2024  STAFF TRANSPORTATION                                                               $67.33  B-1980
+DPAD20240616      08/08/2024  ROBERTO J NEGRETE           08/29/2024  08/29/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $443.48
+DPAD20240624      08/08/2024  MARGARET ARECHIGA           08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                             $199.66
+DPAD20240625      08/08/2024  ANGEL MARQUEZ               07/10/2024  07/10/2024  FRESNO TO CORCORAN AND RETURN                                                      $87.10
+DPAD20240626      08/09/2024  CITIBANK - TRAVEL CBA CARD  08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                               $83.08
+DPAD20240627      08/29/2024  ROBERTO A ARTEAGA           08/13/2024  08/13/2024  SAN DIEGO TO SAN MARCOS, ESCONDIDO, VISTA, OCEANSIDE AND RETURN                    $62.10
+DPAD20240629      08/29/2024  ADEN J OROZCO               08/12/2024  08/12/2024  SENATOR TRANSPORTATION                                                             $34.84
+DPAD20240630      08/29/2024  ADEN J OROZCO               08/10/2024  08/10/2024  AIRFARE FOR SEN PADILLA WASHINGTON DC TO LOS ANGELES                               $28.14
+DPAD20240631      08/30/2024  ROBERTO A ARTEAGA           08/09/2024  08/09/2024  STAFF TRANSPORTATION                                                               $74.37
+DPAD20240632      08/30/2024  ROBERTO J NEGRETE           08/07/2024  08/07/2024  YUBA CITY TO SOUTH LAKE TAHOE AND RETURN                                           $34.84
+DPAD20240633      08/29/2024  MARGARET ARECHIGA           08/08/2024  08/08/2024  STAFF TRANSPORTATION                                                             $147.20
+DPAD20240634      08/29/2024  MARGARET ARECHIGA           08/09/2024  08/09/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $283.10
+DPAD20240635      08/30/2024  ROBERTO J NEGRETE           08/09/2024  08/09/2024  STAFF TRANSPORTATION                                                             $120.10
+DPAD20240639      08/30/2024  CITIBANK - TRAVEL CBA CARD  08/10/2024  08/10/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $77.72
+DPAD20240640      08/30/2024  CITIBANK - TRAVEL CBA CARD  08/10/2024  08/10/2024  STAFF TRANSPORTATION                                                             $121.27
+DPAD20240641      09/03/2024  CITIBANK - TRAVEL CBA CARD  08/10/2024  08/10/2024  YUBA CITY TO CHICO AND RETURN
+DPAD20240642      09/05/2024  MARGARET ARECHIGA           08/20/2024  08/20/2024  STAFF TRANSPORTATION                                                                $4.02
+DPAD20240643      09/04/2024  ADEN J OROZCO               08/15/2024  08/15/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $18.09
+DPAD20240644      09/11/2024  LAUREN ODETTE GALLANT       08/19/2024  08/19/2024  STAFF TRANSPORTATION                                                               $28.00
+DPAD20240645      09/11/2024  THERESA M NEVINS            08/07/2024  08/07/2024  FRESNO TO MADERA AND RETURN                                                        $55.00
+DPAD20240646      09/11/2024  THERESA M NEVINS            08/14/2024  08/14/2024  STAFF TRANSPORTATION                                                               $88.44
+DPAD20240647      09/11/2024  THERESA M NEVINS            08/10/2024  08/10/2024  FRESNO TO MERCED AND RETURN                                                      $192.29
+                  09/11/2024  MARGARET ARECHIGA           08/22/2024  08/22/2024  STAFF TRANSPORTATION                                                               $75.04
+                  09/12/2024  ROBERTO A ARTEAGA           08/19/2024  08/19/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  09/11/2024  MARGARET ARECHIGA           08/24/2024  08/24/2024  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR E RODRIGUEZ ONTARIO TO SAN FRANCISCO AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN PADILLA OAKLAND TO BURBANK
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN PADILLA BURBANK TO SAN FRANCISCO
+                                                                                  STAFF TRANSPORTATION
+                                                                                  FRESNO TO VISALIA AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SAN FRANCISCO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SAN FRANCISCO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SAN FRANCISCO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  FRESNO TO ATWATER AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  YUBA CITY TO BODEGA BAY AND RETURN
+                                                                                  STAFF TRANSPORTATION
+

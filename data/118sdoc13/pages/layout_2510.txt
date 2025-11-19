@@ -1,0 +1,55 @@
+    DOCUMENT NO.    DATE      PAYEE NAME        OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                  POSTED                                   DATES
+DTUB20240462                                                            MONTGOMERY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $18.01
+DTUB20240463                                    START       END         STAFF TRANSPORTATION                                                               $50.00
+                                                                        MONTGOMERY TO PRATTVILLE AND RETURN                                                $86.34
+DTUB20240464      07/23/2024  CINDY M PATE      06/10/2024  06/10/2024  STAFF PER DIEM                                                                     $14.74
+DTUB20240465      07/24/2024  CINDY M PATE      06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                               $18.01
+DTUB20240466                                                            MONTGOMERY TO SYLACAUGA AND RETURN                                                 $24.57
+DTUB20240467      07/23/2024  CINDY M PATE      06/13/2024  06/13/2024  STAFF TRANSPORTATION                                                               $10.53
+DTUB20240468      07/23/2024  CINDY M PATE      06/14/2024  06/14/2024  MONTGOMERY TO MILLBROOK AND RETURN                                                 $39.07
+DTUB20240469      07/23/2024  CINDY M PATE      06/18/2024  06/18/2024  STAFF TRANSPORTATION                                                               $56.86
+DTUB20240470      07/23/2024  CINDY M PATE      06/21/2024  06/21/2024  MONTGOMERY TO PRATTVILLE AND RETURN                                                $40.00
+                  07/23/2024  CINDY M PATE      06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                               $45.04
+DTUB20240471      07/23/2024  CINDY M PATE      06/25/2024  06/25/2024  MONTGOMERY TO WETUMPKA AND RETURN                                                  $20.53
+DTUB20240473      07/23/2024  CINDY M PATE      06/26/2024  06/26/2024  STAFF TRANSPORTATION                                                               $18.03
+DTUB20240475                                                            MONTGOMERY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $35.41
+DTUB20240492      07/23/2024  CINDY M PATE      06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                             $138.02   B-2473
+                  07/17/2024  EMILY MCBRIDE     07/09/2024  07/09/2024  MONTGOMERY TO PRATTVILLE AND RETURN                                              $914.06
+DTUB20240498      07/19/2024  JESSICA M NEWMAN  07/11/2024  07/11/2024  STAFF TRANSPORTATION                                                             $114.07
+DTUB20240499      07/25/2024  TOMMY TUBERVILLE  06/18/2024  06/29/2024  MONTGOMERY TO WETUMPKA AND RETURN                                                  $63.18
+DTUB20240500                                                            STAFF PER DIEM                                                                     $64.35
+DTUB20240501      08/27/2024  ALAN B NAUGHER    07/16/2024  07/16/2024  STAFF TRANSPORTATION                                                             $652.58
+                  08/26/2024  ALAN B NAUGHER    07/17/2024  07/17/2024  MONTGOMERY TO CLANTON AND RETURN
+                  08/27/2024  ALAN B NAUGHER    07/18/2024  07/18/2024  STAFF TRANSPORTATION                                                             $513.04
+                  09/06/2024  MICHAEL A RAITA   06/12/2024  06/27/2024  MONTGOMERY TO PRATTVILLE AND RETURN
+                                                                        STAFF TRANSPORTATION                                                               $50.31
+DTUB20240502      08/28/2024  MICHAEL A RAITA   07/02/2024  07/23/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                        STAFF TRANSPORTATION
+DTUB20240503      08/27/2024  ALAN B NAUGHER    07/23/2024  07/23/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                        SENATOR INCIDENTALS
+                                                                        SENATOR PER DIEM
+                                                                        WASHINGTON DC TO ATLANTA GA, AUBURN, HUNTSVILLE, AUBURN,
+                                                                        HUNTSVILLE, BIRMINGHAM, AUBURN, DOTHAN, ENTERPRISE AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        GUNTERSVILLE TO RUSSELLVILLE AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        GUNTERSVILLE TO HUNTSVILLE AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        GUNTERSVILLE TO HUNTSVILLE AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        COLUMBIANA TO THE FOLLOWING AND RETURN TO BIRMINGHAM: 6/12
+                                                                        ANNISTON; 6/20 SPRINGVILLE; 6/25 FAYETTE; 6/27 BESSEMER, LEEDS;
+                                                                        BIRMINGHAM TO THE FOLLOWING AND RETURN: 6/13 TUSCALOOSA; 6/14
+                                                                        MOUNTAIN BROOK; 6/17 FULTONDALE; 6/20 BROOKWOOD; 6/20
+                                                                        BIRMINGHAM TO RAINBOW CITY, ATTALLA TO COLUMBIANA; 6/26
+                                                                        COLUMBIANA TO OXFORD AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        BIRMINGHAM TO THE FOLLOWING AND RETURN: 7/2 ONEONTA; 7/15
+                                                                        HOOVER; 7/17 FAIRFIELD, BESSEMER; COLUMBIANA TO THE FOLLOWING
+                                                                        AND RETURN: 7/10 STEELE; 7/23 CENTRE, LEESBURG, CEDAR BLUFF,
+                                                                        PIEDMONT; COLUMBIANA TO THE FOLLOWING AND RETURN TO
+                                                                        BIRMINGHAM: 7/11 BIRMINGHAM, HOOVER; 7/16 OXFORD, MOUNTAIN
+                                                                        BROOK; 7/19 GADSDEN; 7/11 BIRMINGHAM TO BESSEMER TO COLUMBIANA
+                                                                        STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                             DATES
+DWNK20240800                                                                      AIRFARE FOR C KARLINS WASHINGTON DC TO SAVANNAH AND RETURN                    $343.95
+                                                          START       END         STAFF TRANSPORTATION                                                            $30.00
+DWNK20240803                                                                      TICKET FEES
+DWNK20240804      06/13/2024  CITIBANK - TRAVEL CBA CARD  06/05/2024  06/08/2024  AIRFARE FOR M LIBELL WASHINGTON DC TO JACKSONVILLE FL AND                     $129.31
+DWNK20240805                                                                      RETURN                                                                          $22.78
+DWNK20240810      06/12/2024  KRISTIN C FULFORD           06/04/2024  06/04/2024  STAFF TRANSPORTATION                                                            $58.96  B-2577
+DWNK20240811      06/13/2024  MARIA H COOK                06/03/2024  06/03/2024  SAVANNAH TO BAXLEY AND RETURN
+DWNK20240812      06/13/2024  MARIA H COOK                06/04/2024  06/04/2024  STAFF TRANSPORTATION                                                          $498.36
+DWNK20240813      07/09/2024  ANNETTE MARIE CHRISTIE      05/16/2024  05/19/2024  AUGUSTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $28.14
+DWNK20240814      06/13/2024  KRISTIN C FULFORD           06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                             $7.10
+DWNK20240815      06/13/2024  BRENDA C WILLIAMS           05/15/2024  05/15/2024  AUGUSTA TO THOMSON AND RETURN                                                   $84.42
+DWNK20240816      06/13/2024  BRENDA C WILLIAMS           05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                            $33.50
+DWNK20240817      06/13/2024  BRENDA C WILLIAMS           05/30/2024  05/30/2024  WASHINGTON DC TO ATLANTA, COLLEGE PARK, ATLANTA AND RETURN                      $72.36
+DWNK20240818      06/13/2024  BRENDA C WILLIAMS           06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                            $88.44
+DWNK20240819      06/13/2024  BRENDA C WILLIAMS           06/07/2024  06/07/2024  SAVANNAH TO POOLER AND RETURN                                                   $30.15
+DWNK20240821      06/13/2024  MARIA H COOK                06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                            $25.46
+                  06/13/2024  MARIA H COOK                06/07/2024  06/07/2024  COLUMBUS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  06/18/2024  KRISTIN C FULFORD           06/10/2024  06/10/2024  STAFF TRANSPORTATION                                                          $157.45
+                  07/02/2024  CYDNEY J KARLINS            05/27/2024  05/31/2024  COLUMBUS TO AMERICUS AND RETURN                                                 $51.36
+                                                                                  STAFF TRANSPORTATION
+DWNK20240822      06/24/2024  BRENDA C WILLIAMS           06/11/2024  06/11/2024  COLUMBUS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $603.74
+DWNK20240823      07/01/2024  MARK W LIBELL               06/05/2024  06/08/2024  STAFF TRANSPORTATION                                                          $301.84
+                                                                                  COLUMBUS TO LUMPKIN AND RETURN
+DWNK20240824      06/18/2024  KRISTIN C FULFORD           06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                          $110.55
+DWNK20240825      07/30/2024  KATRINA E COCHRAN           06/10/2024  06/12/2024  COLUMBUS TO PLAINS, TALBOTTON AND RETURN                                        $38.10
+                                                                                  STAFF TRANSPORTATION
+DWNK20240826      07/02/2024  KATRINA E COCHRAN           06/04/2024  06/04/2024  AUGUSTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $219.93
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AUGUSTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $93.13
+                                                                                  STAFF TRANSPORTATION                                                            $56.10
+                                                                                  SAVANNAH TO WAYNESBORO AND RETURN                                             $354.83
+                                                                                  STAFF INCIDENTALS                                                               $70.00
+                                                                                  STAFF PER DIEM                                                                  $36.71
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO SAVANNAH, FERNANDINA BEACH FL, SAVANNAH AND
+                                                                                  RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  COLUMBUS TO ANDERSONVILLE, BUTLER AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO JACKSONVILLE FL, SAINT SIMONS ISLAND,
+                                                                                  JACKSONVILLE FL AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SAVANNAH TO STATESBORO AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ATLANTA TO SAVANNAH AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                   POSTED                                                  DATES
+DPET20240668                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                               $320.19
+DPET20240669      09/03/2024  CITIBANK - TRAVEL CBA CARD        START       END         AIRFARE FOR I ZHAN WASHINGTON DC TO TRAVERSE CITY AND RETURN                       $320.19
+DPET20240670      09/03/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION
+DPET20240672      09/03/2024  CITIBANK - TRAVEL CBA CARD        08/12/2024  08/14/2024  AIRFARE FOR C NORTMAN WASHINGTON DC TO TRAVERSE CITY AND                           $320.19
+DPET20240673      09/03/2024  CITIBANK - TRAVEL CBA CARD                                RETURN
+DPET20240674      09/03/2024  CITIBANK - TRAVEL CBA CARD        08/12/2024  08/14/2024  STAFF TRANSPORTATION                                                               $320.19
+DPET20240675      09/03/2024  CITIBANK - TRAVEL CBA CARD                                AIRFARE FOR K LEONARD WASHINGTON DC TO TRAVERSE CITY AND
+DPET20240676      09/03/2024  CITIBANK - TRAVEL CBA CARD        08/12/2024  08/14/2024  RETURN                                                                             $320.19
+DPET20240677      09/03/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION
+DPET20240678      09/03/2024  CITIBANK - TRAVEL CBA CARD        08/12/2024  08/15/2024  AIRFARE FOR D HARTZLER WASHINGTON DC TO TRAVERSE CITY AND                          $320.19
+DPET20240679      09/03/2024  CITIBANK - TRAVEL CBA CARD                                RETURN
+DPET20240680      09/03/2024  CITIBANK - TRAVEL CBA CARD        08/12/2024  08/15/2024  STAFF TRANSPORTATION                                                               $160.10
+DPET20240681      09/03/2024  CITIBANK - TRAVEL CBA CARD                                AIRFARE FOR B DONOVAN WASHINGTON DC TO TRAVERSE CITY AND                           $160.10
+DPET20240682      09/03/2024  CITIBANK - TRAVEL CBA CARD        08/12/2024  08/15/2024  RETURN                                                                             $160.10
+DPET20240689      09/03/2024  BLUE LAKES BY THE BAY LLC                                 STAFF TRANSPORTATION                                                               $160.10
+DPET20240690      09/24/2024  PETERS,GARY                       08/14/2024  08/14/2024  AIRFARE FOR S SHAPIRO WASHINGTON DC TO TRAVERSE CITY AND                           $160.10   B-2039
+DPET20240691      09/05/2024  LACIE LIN MCKENNEY                08/12/2024  08/12/2024  RETURN                                                                             $160.10
+DPET20240692                  THOMAS MAXWELL STEPHENSON         08/12/2024  08/12/2024  STAFF TRANSPORTATION                                                               $160.10
+DPET20240693      09/24/2024  THOMAS MAXWELL STEPHENSON         08/12/2024  08/12/2024  AIRFARE FOR H WHITE TRAVERSE CITY TO WASHINGTON DC                                 $320.19
+DPET20240694                  THOMAS MAXWELL STEPHENSON         08/12/2024  08/12/2024  STAFF TRANSPORTATION
+                  09/24/2024                                    08/12/2024  08/12/2024  AIRFARE FOR B SULLIVAN WASHINGTON DC TO TRAVERSE CITY                           $5,790.00
+                                                                08/12/2024  08/12/2024  STAFF TRANSPORTATION                                                                 $28.65
+                  09/24/2024                                    08/12/2024  08/15/2024  AIRFARE FOR M JORGENSEN WASHINGTON DC TO TRAVERSE CITY
+                                                                                        STAFF TRANSPORTATION                                                               $191.00
+                  09/24/2024                                    08/12/2024  08/15/2024  AIRFARE FOR H HARMON WASHINGTON DC TO TRAVERSE CITY                                  $11.00
+                                                                07/25/2024  07/29/2024  STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR Q FELLOWS WASHINGTON DC TO TRAVERSE CITY                               $100.50
+                                                                07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                                 $12.82
+                                                                                        AIRFARE FOR S CURETON WASHINGTON DC TO TRAVERSE CITY                                 $96.48
+                                                                07/29/2024  07/29/2024  STAFF TRANSPORTATION                                                                 $11.44
+                                                                                        AIRFARE FOR Z CRAWFORD WASHINGTON DC TO TRAVERSE CITY
+                                                                07/31/2024  07/31/2024  STAFF TRANSPORTATION                                                               $117.92
+                                                                                        AIRFARE FOR E SCHOOLEY WASHINGTON DC TO TRAVERSE CITY AND                          $196.98
+                                                                07/12/2024  07/26/2024  RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BUS FARE FOR STAFF RETREAT IN AND AROUND TRAVERSE CITY
+                                                                                        SENATOR INCIDENTALS
+                                                                                        SENATOR PER DIEM
+                                                                                        WASHINGTON DC TO GRAND RAPIDS, DETROIT AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        REESE TO LANSING TO FLINT
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        GRAND RAPIDS TO LANSING AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        GRAND RAPIDS TO BENTON HARBOR AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        GRAND RAPIDS TO THE FOLLOWING AND RETURN: 7/12, 26 PORTLAND; 7/22
+                                                                                        IONIA
+

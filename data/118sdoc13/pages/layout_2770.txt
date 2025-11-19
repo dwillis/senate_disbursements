@@ -1,0 +1,41 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE  DESCRIPTION                       AMOUNT ($)
+                   POSTED                                                  DATES
+DJEC20240060                  LEIDOS DIGITAL SOLUTIONS INC                                                                            $810.00
+DJEC20240061      05/14/2024  LEIDOS DIGITAL SOLUTIONS INC      START       END                                                       $150.00
+DJEC20240062      05/14/2024  LEIDOS DIGITAL SOLUTIONS INC
+DJEC20240063      05/09/2024  LEIDOS DIGITAL SOLUTIONS INC      03/01/2024   03/31/2024 IT EQUIP MAINT                                  $31.00  B-2733
+DJEC20240070      05/14/2024  INKLING COMMUNICATIONS LLC        03/01/2024   03/31/2024 IT EQUIP MAINT                                $350.00
+DJEC20240075      06/04/2024  LEIDOS DIGITAL SOLUTIONS INC      03/01/2024   03/31/2024 IT EQUIP MAINT                             $1,800.00
+DJEC20240076      06/10/2024  LEIDOS DIGITAL SOLUTIONS INC      03/01/2024   03/31/2024 IT EQUIP MAINT                             $1,440.00
+DJEC20240080      06/11/2024  ACE FEDERAL REPORTERS, INC.       05/21/2024   05/21/2024 TRAIN/ORIENT/CONFERENCE FEES                  $350.00
+DJEC20240082      06/14/2024  LEIDOS DIGITAL SOLUTIONS INC      04/01/2024   04/30/2024 SOFTWARE MAINT                                $744.00
+DJEC20240083      07/09/2024  LEIDOS DIGITAL SOLUTIONS INC      04/01/2024   04/30/2024 IT EQUIP MAINT                                $350.00
+DJEC20240084      07/09/2024  LEIDOS DIGITAL SOLUTIONS INC      06/04/2024   06/04/2024 STENOGRAPHIC SERVICES                      $4,020.00
+DJEC20240094      07/09/2024  LEIDOS DIGITAL SOLUTIONS INC      05/01/2024   05/31/2024 IT EQUIP MAINT
+DJEC20240095      08/06/2024  LEIDOS DIGITAL SOLUTIONS INC      05/01/2024   05/31/2024 IT EQUIP MAINT                                  $31.00
+DJEC20240096      08/06/2024  LEIDOS DIGITAL SOLUTIONS INC      05/01/2024   05/31/2024 IT EQUIP MAINT                             $5,394.00
+DJEC20240101      08/06/2024  LEIDOS DIGITAL SOLUTIONS INC      06/01/2024   06/30/2024 AUDIO, VISUAL EQUIP MAINT
+DJEC20240102      09/14/2024  LEIDOS DIGITAL SOLUTIONS INC      06/01/2024   06/30/2024 AUDIO, VISUAL EQUIP MAINT                     $350.00
+DJEC20240107      09/14/2024  ACE FEDERAL REPORTERS, INC.       06/01/2024   06/30/2024 AUDIO, VISUAL EQUIP MAINT                       $31.00
+DJEC20240108      09/26/2024  LEIDOS DIGITAL SOLUTIONS INC      07/01/2024   07/31/2024 IT EQUIP MAINT
+DJEC20240109      09/26/2024  LEIDOS DIGITAL SOLUTIONS INC      07/01/2024   07/31/2024 IT EQUIP MAINT                                $961.00
+DJEC20240116      09/26/2024  LEIDOS DIGITAL SOLUTIONS INC      06/12/2024   06/12/2024 STENOGRAPHIC SERVICES                         $350.00
+                  09/30/2024                                    01/01/2024   01/31/2024 AUDIO, VISUAL EQUIP MAINT                     $516.00
+0002853972                    SERGEANT AT ARMS                  01/01/2024   01/31/2024 AUDIO, VISUAL EQUIP MAINT                  $3,690.00
+0002853993        05/15/2024  SERGEANT AT ARMS                  08/01/2024   08/31/2024 AUDIO, VISUAL EQUIP MAINT                     $340.00
+0002854000        05/14/2024  SERGEANT AT ARMS                              OTHER CONTRACTUAL SERVICES
+0002854010        05/14/2024  SERGEANT AT ARMS                  03/01/2024                                                              $62.00
+0002854011        05/14/2024  SERGEANT AT ARMS                  03/01/2024   03/31/2024 IT EQUIPMENT                              $25,476.00
+DJEC20240071      05/14/2024  CITIBANK - PURCHASE CARD          03/01/2024   03/31/2024 SOFTWARE LICENSE
+DJEC20240093      05/28/2024  LEIDOS DIGITAL SOLUTIONS INC      03/01/2024   03/31/2024 IT EQUIPMENT                               $5,700.00
+                  08/06/2024                                    03/01/2024   03/31/2024 SOFTWARE LICENSE                          $19,192.05
+                                                                05/18/2024   03/31/2024 SOFTWARE LICENSE
+                                                                06/01/2024   05/18/2024 VOICE & DATA COMM EQUIPMENT                $4,000.00
+                                                                             06/30/2024 SOFTWARE LICENSE                              $625.00
+                                                                            ACQUISITION OF ASSETS
+                                                                                                                                  $13,872.00
+                                                                                                                                        $14.99
+
+                                                                                                                                      $630.00
+                                                                                                                                  $44,034.04
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                  POSTED                                             DATES
+DBRS20240582                                                                      CHEYENNE TO DENVER CO AND RETURN                                                   $67.67
+DBRS20240583                                              START       END         STAFF TRANSPORTATION                                                               $41.54
+DBRS20240584                                                                      CROWHEART TO SHOSHONI AND RETURN                                                 $135.04
+DBRS20240591      08/15/2024  PAM BULINE                  07/14/2024  07/14/2024  STAFF TRANSPORTATION                                                             $162.60
+DBRS20240592      08/15/2024  PAM BULINE                  07/30/2024  07/30/2024  RIVERTON TO LANDER AND RETURN                                                    $184.25
+DBRS20240593      08/13/2024  CHRISTINE L MCKENZIE        07/18/2024  07/18/2024  STAFF TRANSPORTATION                                                             $884.20
+                  08/29/2024  KIEFER CODY MCLEMORE        08/08/2024  08/09/2024  SHERIDAN TO CASPER AND RETURN                                                      $30.00
+DBRS20240595      08/29/2024  KIEFER CODY MCLEMORE        06/12/2024  08/12/2024  STAFF TRANSPORTATION
+DBRS20240598      08/29/2024  CITIBANK - TRAVEL CBA CARD  08/14/2024  08/18/2024  CASPER TO RAWLINS AND RETURN                                                     $238.52
+DBRS20240599                                                                      STAFF TRANSPORTATION                                                             $636.43
+DBRS20240600      08/29/2024  PATRICK R SHEEHAN           08/09/2024  08/09/2024  CASPER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $192.96   B-500
+                  09/04/2024  VICTORIA A TEEGARDEN        08/14/2024  08/18/2024  STAFF TRANSPORTATION                                                          $2,819.50
+DBRS20240601      09/04/2024  KIEFER CODY MCLEMORE        08/17/2024  08/17/2024  TICKET FEES                                                                   $2,819.50
+                  09/04/2024  BUSINESS AVIATORS INC       07/13/2024  07/13/2024  AIRFARE FOR V TEEGARDEN WASHINGTON DC TO DENVER CO AND
+DBRS20240602                                                                      RETURN                                                                        $2,393.61
+DBRS20240604      09/04/2024  BUSINESS AVIATORS INC       07/27/2024  07/27/2024  STAFF TRANSPORTATION                                                          $2,393.61
+                                                                                  CASPER TO CHEYENNE AND RETURN
+DBRS20240605      09/06/2024  BUSINESS AVIATORS INC       08/13/2024  08/13/2024  STAFF TRANSPORTATION                                                          $3,084.46
+DBRS20240608      09/09/2024  SCOTT S BOSWELL             08/21/2024  08/24/2024  WASHINGTON DC TO WHEATLAND, DENVER CO AND RETURN                                   $51.58
+DBRS20240609                                                                      STAFF TRANSPORTATION
+DBRS20240610      09/09/2024  JINX CLARK                  08/24/2024  08/24/2024  CASPER TO SINCLAIR AND RETURN                                                    $516.21
+DBRS20240616      09/11/2024  CITIBANK - TRAVEL CBA CARD  08/21/2024  08/24/2024  SENATOR TRANSPORTATION                                                           $429.95
+DBRS20240618                                                                      STAFF TRANSPORTATION                                                             $242.54
+                  09/10/2024  PAM BULINE                  08/26/2024  08/26/2024  AIRFARE FOR SEN BARRASSO, B GOODELL CASPER TO RIVERTON,                          $728.45
+                  09/10/2024  PAM BULINE                  08/27/2024  08/27/2024  PINEDALE AND RETURN
+                  09/13/2024  KIEFER CODY MCLEMORE        08/26/2024  08/26/2024  SENATOR TRANSPORTATION                                                             $30.00
+                  09/13/2024  CITIBANK - TRAVEL CBA CARD  08/21/2024  08/30/2024  STAFF TRANSPORTATION                                                               $33.50
+                                                                                  AIRFARE FOR SEN BARRASSO, B GOODELL CASPER TO TORRINGTON,                          $81.74
+                                                                                  NEWCASTLE AND RETURN                                                             $268.00
+                                                                                  SENATOR TRANSPORTATION                                                           $645.70
+                                                                                  AIRFARE FOR SEN BARRASSO CASPER TO JACKSON AND RETURN                              $30.00
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO CASPER, CHEYENNE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CASPER TO UPTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR S BOSWELL WASHINGTON DC TO CASPER AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CROWHEART TO DUBOIS AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  RIVERTON TO PAVILLION, FORT WASHAKIE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CASPER TO SARATOGA, RAWLINS, ELK MOUNTAIN AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR A BLAND WASHINGTON DC TO DENVER CO, BILLINGS MT AND
+                                                                                  RETURN
+

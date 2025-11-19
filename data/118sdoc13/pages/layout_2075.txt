@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                             DATES
+DPET20240620                                                                      AIRFARE FOR B SULLIVAN LANSING TO WASHINGTON DC                                 $245.10
+DPET20240621                                              START       END         SENATOR TRANSPORTATION                                                          $386.10
+DPET20240622                                                                      AIRFARE FOR SEN PETERS WASHINGTON DC TO DETROIT                                 $309.59
+DPET20240623      07/31/2024  CITIBANK - TRAVEL CBA CARD  07/15/2024  07/15/2024  SENATOR TRANSPORTATION                                                          $458.60
+DPET20240630      07/31/2024  CITIBANK - TRAVEL CBA CARD  07/08/2024  07/08/2024  AIRFARE FOR SEN PETERS DETROIT TO WASHINGTON DC                                 $139.80
+DPET20240631      07/31/2024  CITIBANK - TRAVEL CBA CARD  07/15/2024  07/15/2024  STAFF TRANSPORTATION                                                            $181.57
+DPET20240632      07/31/2024  CITIBANK - TRAVEL CBA CARD  07/21/2024  07/21/2024  AIRFARE FOR S SHAPIRO WASHINGTON DC TO MARQUETTE
+DPET20240633      08/02/2024  JOSHUA MICAH SWATHWOOD      06/26/2024  06/27/2024  STAFF TRANSPORTATION                                                              $97.08
+DPET20240634                                                                      AIRFARE FOR S SHAPIRO PELLSTON TO WASHINGTON DC                                   $14.51
+DPET20240635      07/30/2024  ZACHARY A CRAWFORD          05/01/2024  05/23/2024  STAFF PER DIEM                                                                    $69.01
+DPET20240636      07/30/2024  THOMAS MAXWELL STEPHENSON   07/11/2024  07/11/2024  STAFF TRANSPORTATION                                                              $10.59
+                                                                                  LANSING TO DETROIT, LINCOLN PARK AND RETURN                                     $127.30
+DPET20240637      07/31/2024  THOMAS MAXWELL STEPHENSON   07/16/2024  07/16/2024  STAFF TRANSPORTATION                                                              $18.44
+                                                                                  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $102.62
+                  07/31/2024  THOMAS MAXWELL STEPHENSON   07/23/2024  07/23/2024  STAFF PER DIEM                                                                    $12.72  B-2038
+                                                                                  STAFF TRANSPORTATION                                                            $103.85
+                  07/31/2024  ELISE A LANCASTER           06/24/2024  06/24/2024  GRAND RAPIDS TO MUSKEGON AND RETURN                                               $37.05
+                                                                                  STAFF PER DIEM                                                                  $233.74
+                  08/01/2024  ELISE A LANCASTER           07/10/2024  07/11/2024  STAFF TRANSPORTATION                                                            $396.85
+                                                                                  GRAND RAPIDS TO CASSOPOLIS AND RETURN                                             $59.10
+                  08/05/2024  SARAH SHAPIRO               07/15/2024  07/21/2024  STAFF PER DIEM                                                                  $742.25
+                                                                                  STAFF TRANSPORTATION                                                            $701.86
+DPET20240638      08/19/2024  CITIBANK - TRAVEL CBA CARD  08/06/2024  08/06/2024  GRAND RAPIDS TO LANSING AND RETURN
+DPET20240639      08/19/2024  CITIBANK - TRAVEL CBA CARD  07/25/2024  07/25/2024  STAFF PER DIEM                                                                  $218.10
+DPET20240640      08/19/2024  CITIBANK - TRAVEL CBA CARD  08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                            $386.10
+DPET20240641      08/19/2024  CITIBANK - TRAVEL CBA CARD  07/29/2024  07/29/2024  LANSING TO CLARKSTON AND RETURN                                                 $200.10
+DPET20240642      08/19/2024  CITIBANK - TRAVEL CBA CARD  07/25/2024  07/25/2024  STAFF INCIDENTALS                                                               $386.10
+DPET20240665      08/30/2024  CITIBANK - TRAVEL CBA CARD  08/11/2024  08/15/2024  STAFF PER DIEM                                                                  $199.10
+                                                                                  STAFF TRANSPORTATION                                                            $320.19
+DPET20240667      09/03/2024  CITIBANK - TRAVEL CBA CARD  08/12/2024  08/14/2024  DEWITT TO CHICAGO IL AND RETURN
+                                                                                  STAFF INCIDENTALS                                                               $320.19
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO MARQUETTE, GWINN, SAULT SAINTE MARIE, GWINN,
+                                                                                  MACKINAW CITY, PELLSTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR H WHITE WASHINGTON DC TO GRAND RAPIDS
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN PETERS WASHINGTON DC TO DETROIT
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN PETERS WASHINGTON DC TO DETROIT
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN PETERS DETROIT TO WASHINGTON DC
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN PETERS DETROIT TO GRAND RAPIDS
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR L MEININGER WASHINGTON DC TO TRAVERSE CITY AND
+                                                                                  RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR J MOSLEY WASHINGTON DC TO TRAVERSE CITY AND RETURN
+

@@ -1,0 +1,52 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME     OBLIGATION/SERVICE  DESCRIPTION                                                        AMOUNT ($)
+                   POSTED                                                     DATES
+DSTH20240628                  SARAH E SANDGREN                                                                                                                              $12.24
+DSTH20240629      09/20/2024  JORDAN K SCHROEER                    START       END
+                  09/28/2024                                                                                                                                                $17.43
+DSTH20240631                  LONNA K STEVENS                      09/16/2024                        SAINT PAUL OFFICE: INTERDEPARTMENTAL TRANSPORTATION                  $142.80   B-2364
+DSTH20240632      09/30/2024  SARAH E SANDGREN                     09/19/2024   09/16/2024 STAFF TRANSPORTATION
+                  09/30/2024                                                                                                                                              $226.44
+DSTH20240633                  SARAH E SANDGREN                     09/19/2024                        SAINT PAUL OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  09/30/2024                                       09/19/2024   09/19/2024 STAFF PER DIEM                                                                   $27.57
+DSTH20240634                  CITIBANK - SENATOR IBA CARD                                                                                                                   $76.50
+DSTH20240635      09/25/2024  CITIBANK - SENATOR IBA CARD          09/20/2024                        STAFF TRANSPORTATION
+DSTH20240636      09/25/2024  CITIBANK - SENATOR IBA CARD                                            MOORHEAD TO CASS LAKE AND RETURN                                       $18.09
+DSTH20240639      09/25/2024  CITIBANK - SENATOR IBA CARD          09/09/2024   09/19/2024 STAFF TRANSPORTATION                                                             $89.25
+DSTH20240640      09/27/2024  JACK OLAI SMYTH                      09/12/2024                        SAINT PAUL TO CASS LAKE AND RETURN
+DSTH20240642      09/29/2024  JACK OLAI SMYTH                      09/16/2024   09/19/2024 STAFF PER DIEM                                                                 $517.10
+                  09/29/2024                                       02/13/2024                        STAFF TRANSPORTATION
+DSTH20240643                  JORDAN K SCHROEER                    09/04/2024                        SAINT PAUL TO ROCHESTER AND RETURN                                   $517.10
+                  09/29/2024                                       09/19/2024   09/20/2024 STAFF PER DIEM
+0002857250                    SERGEANT AT ARMS                                                       STAFF TRANSPORTATION                                                 $517.10
+DSTH20240286      08/07/2024  SAOLIA Y TUCKER                      09/24/2024                        SAINT PAUL TO MANKATO, SAINT PETER AND RETURN
+DSTH20240288      04/09/2024  STET COMMUNICATIONS                               09/09/2024 SENATOR TRANSPORTATION                                                         $266.10
+DSTH20240349      04/09/2024  CITIBANK - PURCHASE CARD             06/01/2024                        AIRFARE FOR SEN SMITH MINNEAPOLIS TO WASHINGTON DC
+DSTH20240350      05/02/2024  CITIBANK - PURCHASE CARD             03/19/2024   09/12/2024 SENATOR TRANSPORTATION                                                           $69.36
+DSTH20240395      05/02/2024  UNIVERSAL INFORMATION SERVICES, INC  03/26/2024                        AIRFARE FOR SEN SMITH WASHINGTON DC TO MINNEAPOLIS
+DSTH20240497      06/10/2024  UNIVERSAL INFORMATION SERVICES, INC  04/16/2024   09/16/2024 SENATOR TRANSPORTATION                                                           $13.93
+DSTH20240541      07/25/2024  UNIVERSAL INFORMATION SERVICES, INC  04/16/2024                        AIRFARE FOR SEN SMITH MINNEAPOLIS TO WASHINGTON DC                     $70.38
+DSTH20240542      08/15/2024  UNIVERSAL INFORMATION SERVICES, INC  04/30/2024   02/13/2024 SENATOR TRANSPORTATION
+DSTH20240587      08/15/2024  CARSON A OUELLETTE                   05/31/2024                        AIRFARE FOR SEN SMITH WASHINGTON DC TO MINNEAPOLIS                     $25.78
+DSTH20240624      09/27/2024  UNIVERSAL INFORMATION SERVICES, INC  06/30/2024   09/04/2024 STAFF TRANSPORTATION                                                             $63.75
+                  09/23/2024                                       07/31/2024                        SAINT PAUL TO OWATONNA TO SAINT LOUIS PARK
+                                                                   08/05/2024   09/19/2024 STAFF PER DIEM                                                             $60,752.59
+                                                                   08/31/2024                        STAFF TRANSPORTATION                                                    $3.00
+                                                                                                     SAINT PAUL TO SAINT CLOUD TO SAINT LOUIS PARK
+                                                                                09/24/2024 STAFF PER DIEM                                                                   $50.00
+                                                                                                     STAFF TRANSPORTATION                                              $3,000.00
+                                                                                                     MOORHEAD TO ROCHERT AND RETURN
+                                                                               TRAVEL AND TRANSPORTATION OF PERSONS                                                       $631.00
+                                                                                                                                                                          $631.00
+                                                                                06/30/2024 FEDERAL AUDIO, VISUAL RECORDNG                                                 $631.00
+                                                                                03/19/2024 TRAIN/ORIENT/CONFERENCE FEES                                                   $631.00
+                                                                                03/26/2024 TRANSCRIPTS, STUDIES, OFF DOC                                                  $681.00
+                                                                                04/16/2024 CLIPPING SERVICES                                                              $681.00
+                                                                                04/16/2024 CLIPPING SERVICES
+                                                                                04/30/2024 CLIPPING SERVICES                                                                $20.00
+                                                                                05/31/2024 CLIPPING SERVICES                                                              $681.00
+                                                                                06/30/2024 CLIPPING SERVICES                                                           $7,640.00
+                                                                                07/31/2024 CLIPPING SERVICES
+                                                                                08/08/2024 TRAIN/ORIENT/CONFERENCE FEES
+                                                                                08/31/2024 CLIPPING SERVICES
+                                                                               OTHER CONTRACTUAL SERVICES
+

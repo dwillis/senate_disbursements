@@ -1,0 +1,51 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE  DESCRIPTION                                                          AMOUNT ($)
+                   POSTED                                                  DATES
+DWRR20240826                  CITIBANK - TRAVEL CBA CARD                                                                                                                 $184.10
+DWRR20240832      09/23/2024  CITIBANK - TRAVEL CBA CARD        START       END
+DWRR20240839      09/23/2024  JOHNATHAN CREQUE                                                                                                                           $735.40
+DWRR20240847      09/27/2024  CITIBANK - TRAVEL CBA CARD        09/09/2024   09/09/2024 SENATOR TRANSPORTATION
+                  09/27/2024                                                                      AIRFARE FOR SEN WARREN BOSTON TO WASHINGTON DC                           $76.38
+                                                                09/20/2024
+0002857242        08/07/2024  SERGEANT AT ARMS                               09/20/2024 STAFF TRANSPORTATION                                                             $213.50   B-2609
+DWRR20240410      04/29/2024  CREATIVENGINE CORPORATION         09/24/2024                        AIRFARE FOR M BODY WASHINGTON DC TO BOSTON AND RETURN                    $30.00
+DWRR20240411      04/29/2024  MANAGMENT ACTION CENTER
+DWRR20240563      07/24/2024  CITIBANK - PURCHASE CARD          09/23/2024   09/24/2024 STAFF TRANSPORTATION                                                         $29,482.48
+DWRR20240575      07/24/2024  CREATIVENGINE CORPORATION                                           QUINCY TO WORCESTER AND RETURN
+DWRR20240576      07/10/2024  CREATIVENGINE CORPORATION         06/01/2024                                                                                                 $30.00
+DWRR20240617      07/29/2024  FLETCHER CONSULTING LLC           03/01/2024   09/23/2024 SENATOR TRANSPORTATION                                                           $500.00
+DWRR20240701      08/13/2024  CREATIVENGINE CORPORATION         03/28/2024                        TICKET FEES                                                         $7,000.00
+DWRR20240702      08/13/2024  CREATIVENGINE CORPORATION         05/20/2024                        AIRFARE FOR SEN WARREN BOSTON TO WASHINGTON DC
+DWRR20240811      09/26/2024  CATHOLIC CHARITIES BOSTON         04/01/2024                                                                                                 $80.00
+DWRR20240824      09/28/2024  CREATIVENGINE CORPORATION         05/01/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                         $500.00
+                                                                06/21/2024                                                                                               $500.00
+0002854565        05/23/2024  SERGEANT AT ARMS                  06/01/2024   06/30/2024 FEDERAL AUDIO, VISUAL RECORDNG                                               $12,000.00
+0002859102        09/13/2024  SERGEANT AT ARMS                  07/01/2024   03/31/2024 IT EQUIP MAINT                                                                   $500.00
+DWRR20240435      05/07/2024  CITIBANK - PURCHASE CARD          08/13/2024   03/29/2024 TRAIN/ORIENT/CONFERENCE FEES                                                     $500.00
+DWRR20240472      06/13/2024  CITIBANK - PURCHASE CARD          08/01/2024   05/20/2024 TRAIN/ORIENT/CONFERENCE FEES                                                  $1,920.00
+DWRR20240474      06/10/2024  CITIBANK - PURCHASE CARD                       04/30/2024 IT EQUIP MAINT                                                                   $500.00
+DWRR20240525      06/27/2024  CITIBANK - PURCHASE CARD          04/01/2024   05/31/2024 IT EQUIP MAINT                                                               $24,030.00
+DWRR20240547      07/02/2024  MEAGHAN E BODY                    04/01/2024   06/21/2024 TRAIN/ORIENT/CONFERENCE FEES
+DWRR20240668      08/09/2024  CITIBANK - PURCHASE CARD          04/22/2024   06/30/2024 IT EQUIP MAINT                                                                   $197.00
+DWRR20240669      08/09/2024  CITIBANK - PURCHASE CARD          05/25/2024   07/31/2024 IT EQUIP MAINT                                                                  -$197.00
+DWRR20240673      08/09/2024  CITIBANK - PURCHASE CARD          05/23/2024   08/13/2024 FOREIGN TRANSLATION SERVICES
+DWRR20240734      09/03/2024  CITIBANK - PURCHASE CARD          05/24/2024   08/31/2024 IT EQUIP MAINT                                                                     $69.99
+DWRR20240828      09/23/2024  CITIBANK - PURCHASE CARD          05/20/2024  OTHER CONTRACTUAL SERVICES                                                                   $345.00
+DWRR20240829      09/22/2024  CITIBANK - PURCHASE CARD          07/31/2024
+DWRR20240830      09/23/2024  CITIBANK - PURCHASE CARD          07/23/2024   04/30/2024 SOFTWARE LICENSE                                                                   $89.97
+DWRR20240831      09/23/2024  CITIBANK - PURCHASE CARD          07/26/2024   04/30/2024 SOFTWARE LICENSE                                                                 $298.00
+DWRR20240842      09/27/2024  CITIBANK - PURCHASE CARD          08/06/2024   04/22/2024 AUDIO, VISUAL EQUIPMENT                                                          $171.49
+                                                                09/17/2024   05/25/2024 IT EQUIPMENT                                                                     $184.37
+                                                                09/19/2024   05/23/2024 AUDIO, VISUAL EQUIPMENT                                                          $110.33
+                                                                09/19/2024   05/24/2024 IT EQUIPMENT                                                                     $115.42
+                                                                09/18/2024   06/24/2024 VOICE & DATA COMM EQUIPMENT
+                                                                09/20/2024   07/31/2024 VOICE & DATA COMM EQUIPMENT                                                        $23.99
+                                                                             07/23/2024 VOICE & DATA COMM EQUIPMENT                                                        $29.69
+                                                                             07/26/2024 AUDIO, VISUAL EQUIPMENT                                                            $18.99
+                                                                             08/06/2024 VOICE & DATA COMM EQUIPMENT                                                      $329.97
+                                                                             09/17/2024 AUDIO, VISUAL EQUIPMENT                                                          $782.99
+                                                                             09/19/2024 VOICE & DATA COMM EQUIPMENT                                                        $99.99
+                                                                             09/19/2024 IT SUPPORTIVE EQUIPMENT                                                       $2,670.19
+                                                                             09/18/2024 AUDIO, VISUAL EQUIPMENT
+                                                                             09/20/2024 AUDIO, VISUAL EQUIPMENT
+                                                                            ACQUISITION OF ASSETS
+

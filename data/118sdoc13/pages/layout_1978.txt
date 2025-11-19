@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                  POSTED                                             DATES
+DOSS20240570                                                                      ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $22.78
+DOSS20240571                                              START       END         STAFF TRANSPORTATION
+                                                                                  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $23.19
+DOSS20240572      05/02/2024  ALEJANDRO L WHITE           04/24/2024  04/24/2024  STAFF INCIDENTALS                                                           $107.00
+                  05/20/2024  JULIA CATHERINE SPROUL      02/13/2024  02/16/2024  STAFF PER DIEM                                                              $433.94
+DOSS20240573                                                                      STAFF TRANSPORTATION
+DOSS20240574      05/16/2024  JULIA CATHERINE SPROUL      03/27/2024  03/29/2024  WASHINGTON DC TO ATLANTA, COLUMBUS AND RETURN                                 $77.26
+DOSS20240575                                                                      STAFF INCIDENTALS                                                           $478.70
+DOSS20240576      05/08/2024  KENNEDI D SLAY              04/26/2024  04/26/2024  STAFF PER DIEM                                                              $267.07   B-1941
+DOSS20240577                                                                      STAFF TRANSPORTATION
+DOSS20240578      05/02/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/19/2024  WASHINGTON DC TO ATLANTA AND RETURN                                         $179.69
+DOSS20240579      05/02/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/19/2024  STAFF TRANSPORTATION
+DOSS20240580      05/02/2024  CITIBANK - TRAVEL CBA CARD  04/22/2024  04/22/2024  SAVANNAH TO ATLANTA AND RETURN                                                $40.00
+DOSS20240581      05/02/2024  CITIBANK - TRAVEL CBA CARD  04/22/2024  04/22/2024  TICKET FEES                                                                   $40.00
+DOSS20240584      05/02/2024  CITIBANK - TRAVEL CBA CARD  04/22/2024  04/22/2024  TICKET FEES                                                                   $40.00
+DOSS20240585      05/03/2024  CITIBANK - TRAVEL CBA CARD  04/23/2024  04/23/2024  TICKET FEES                                                                   $40.00
+DOSS20240587      05/03/2024  CITIBANK - TRAVEL CBA CARD  04/23/2024  04/23/2024  TICKET FEES                                                                   $40.00
+DOSS20240588      05/03/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/24/2024  TICKET FEES                                                                   $40.00
+DOSS20240589      05/14/2024  CITIBANK - TRAVEL CBA CARD  04/25/2024  04/26/2024  TICKET FEES                                                                   $40.00
+DOSS20240590                                                                      TICKET FEES                                                                   $40.00
+DOSS20240591      05/03/2024  CITIBANK - TRAVEL CBA CARD  04/25/2024  04/28/2024  TICKET FEES                                                                 $465.20
+DOSS20240592                                                                      STAFF TRANSPORTATION
+DOSS20240593      05/06/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/24/2024  AIRFARE FOR S EISEMANN WASHINGTON DC TO ATLANTA AND RETURN                  $465.20
+DOSS20240594      05/03/2024  NICHOLAS GEORGE SAVAS       04/15/2024  04/15/2024  STAFF TRANSPORTATION
+DOSS20240595                                                                      AIRFARE FOR K ZONOU WASHINGTON DC TO ATLANTA AND RETURN                       $40.00
+DOSS20240596      05/03/2024  NICHOLAS GEORGE SAVAS       04/16/2024  04/16/2024  TICKET FEES                                                                   $23.45
+DOSS20240597                                                                      STAFF TRANSPORTATION
+DOSS20240598      05/03/2024  NICHOLAS GEORGE SAVAS       04/17/2024  04/17/2024  SAVANNAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $14.07
+DOSS20240599                                                                      STAFF TRANSPORTATION
+                  05/03/2024  NICHOLAS GEORGE SAVAS       04/19/2024  04/19/2024  SAVANNAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $15.41
+                                                                                  STAFF TRANSPORTATION
+                  05/03/2024  NICHOLAS GEORGE SAVAS       04/22/2024  04/22/2024  SAVANNAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $21.44
+                                                                                  STAFF TRANSPORTATION
+                  05/03/2024  NICHOLAS GEORGE SAVAS       04/23/2024  04/23/2024  SAVANNAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $11.39
+                                                                                  STAFF TRANSPORTATION
+                  05/03/2024  NICHOLAS GEORGE SAVAS       04/24/2024  04/24/2024  SAVANNAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $16.75
+                                                                                  STAFF TRANSPORTATION
+                  05/03/2024  REGINALD G COFER            04/23/2024  04/23/2024  SAVANNAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $11.39
+                                                                                  STAFF TRANSPORTATION
+                  05/06/2024  REGINALD G COFER            04/17/2024  04/17/2024  SAVANNAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $61.64
+                                                                                  STAFF TRANSPORTATION
+                  05/08/2024  REGINALD G COFER            04/22/2024  04/22/2024  AUGUSTA TO WARRENTON AND RETURN                                               $96.48
+                                                                                  STAFF TRANSPORTATION
+                  05/03/2024  REGINALD G COFER            04/26/2024  04/26/2024  AUGUSTA TO SPARTA AND RETURN                                                $103.85
+                                                                                  STAFF TRANSPORTATION
+                  05/10/2024  ERIN J HALVERSON            04/26/2024  04/27/2024  AUGUSTA TO SPARTA, CRAWFORDVILLE AND RETURN                                   $67.00
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AUGUSTA TO LOUISVILLE AND RETURN                                              $21.94
+                                                                                  STAFF INCIDENTALS                                                           $174.71
+                                                                                  STAFF PER DIEM
+

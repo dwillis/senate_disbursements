@@ -1,0 +1,57 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                           DATES
+DBLA20241044       POSTED     CITIBANK - PURCHASE CARD                                  TRANSCRIPTS, STUDIES, OFF DOC                                                 $1.75
+DBLA20241055                  DIRECT SHRED LLC                  START       END         SERVICE CHARGES & OTHER FEES                                                 $45.00
+DBLA20241144      04/01/2024  RICHARDS & RICHARDS LLC                                   SERVICE CHARGES & OTHER FEES                                                 $51.45
+DBLA20241164      04/04/2024  LEIDOS DIGITAL SOLUTIONS INC      03/21/2024  03/21/2024  IT EQUIP MAINT                                                             $350.00    B-575
+DBLA20241171      04/23/2024  LEIDOS DIGITAL SOLUTIONS INC      03/25/2024  03/25/2024  IT EQUIP MAINT                                                             $120.00
+DBLA20241189      04/26/2024  CITIBANK - PURCHASE CARD          02/29/2024  02/29/2024  TRANSCRIPTS, STUDIES, OFF DOC
+DBLA20241190      04/29/2024  CITIBANK - PURCHASE CARD          02/01/2024  02/29/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $1.00
+DBLA20241193      04/26/2024  CITIBANK - PURCHASE CARD          02/01/2024  02/29/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $1.25
+DBLA20241194      04/26/2024  CITIBANK - PURCHASE CARD          03/26/2024  03/26/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $1.50
+DBLA20241195      04/26/2024  CITIBANK - PURCHASE CARD          03/26/2024  03/26/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $1.50
+DBLA20241196      04/26/2024  CITIBANK - PURCHASE CARD          03/26/2024  03/26/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                $10.00
+DBLA20241197      04/26/2024  CITIBANK - PURCHASE CARD          03/26/2024  03/26/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $2.00
+DBLA20241198      04/26/2024  CITIBANK - PURCHASE CARD          03/26/2024  03/26/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $3.00
+DBLA20241200      04/26/2024  CITIBANK - PURCHASE CARD          03/26/2024  03/26/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $1.75
+DBLA20241201      04/26/2024  CITIBANK - PURCHASE CARD          03/26/2024  03/26/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $3.25
+DBLA20241202      04/26/2024  CITIBANK - PURCHASE CARD          03/27/2024  03/27/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $2.75
+DBLA20241203      04/26/2024  CITIBANK - PURCHASE CARD          03/28/2024  03/28/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $2.25
+DBLA20241204      04/26/2024  CITIBANK - PURCHASE CARD          03/29/2024  03/29/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $2.75
+DBLA20241205      04/26/2024  CITIBANK - PURCHASE CARD          04/02/2024  04/02/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $2.00
+DBLA20241206      04/26/2024  CITIBANK - PURCHASE CARD          04/04/2024  04/04/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $7.00
+DBLA20241207      04/26/2024  CITIBANK - PURCHASE CARD          04/08/2024  04/08/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $6.25
+DBLA20241208      04/26/2024  CITIBANK - PURCHASE CARD          04/09/2024  04/09/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $1.00
+DBLA20241209      04/26/2024  CITIBANK - PURCHASE CARD          04/09/2024  04/09/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $1.75
+DBLA20241210      04/26/2024  CITIBANK - PURCHASE CARD          04/09/2024  04/09/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $1.00
+DBLA20241211      04/26/2024  CITIBANK - PURCHASE CARD          04/09/2024  04/09/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $3.00
+DBLA20241212      04/26/2024  CITIBANK - PURCHASE CARD          04/09/2024  04/09/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $2.50
+DBLA20241213      04/26/2024  CITIBANK - PURCHASE CARD          04/10/2024  04/10/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $3.00
+DBLA20241214      04/26/2024  CITIBANK - PURCHASE CARD          04/10/2024  04/10/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $4.00
+DBLA20241223      04/26/2024  CITIBANK - PURCHASE CARD          04/11/2024  04/11/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $1.00
+DBLA20241232      04/26/2024  CITIBANK - PURCHASE CARD          04/11/2024  04/11/2024  TRANSCRIPTS, STUDIES, OFF DOC
+DBLA20241233      04/26/2024  CITIBANK - PURCHASE CARD          04/11/2024  04/11/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                   $.75
+DBLA20241234      04/26/2024  CITIBANK - PURCHASE CARD          04/12/2024  04/12/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $2.50
+DBLA20241235      04/26/2024  CITIBANK - PURCHASE CARD          04/15/2024  04/15/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $1.25
+DBLA20241265      04/26/2024  CITIBANK - PURCHASE CARD          04/15/2024  04/15/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $2.50
+DBLA20241266      05/24/2024  CITIBANK - PURCHASE CARD          04/15/2024  04/15/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $1.75
+DBLA20241267      04/30/2024  CITIBANK - PURCHASE CARD          04/16/2024  04/16/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $2.25
+DBLA20241268      04/30/2024  CITIBANK - PURCHASE CARD          04/16/2024  04/16/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $2.25
+DBLA20241269      04/30/2024  CITIBANK - PURCHASE CARD          04/16/2024  04/16/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $5.25
+DBLA20241270      04/30/2024  CITIBANK - PURCHASE CARD          04/16/2024  04/16/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $1.75
+DBLA20241271      04/30/2024  CITIBANK - PURCHASE CARD          04/17/2024  04/17/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $2.00
+DBLA20241272      04/30/2024  CITIBANK - PURCHASE CARD          04/17/2024  04/17/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $4.75
+DBLA20241335      04/30/2024  LEIDOS DIGITAL SOLUTIONS INC      04/18/2024  04/18/2024  IT EQUIP MAINT                                                                $1.50
+DBLA20241336      04/30/2024  RICHARDS & RICHARDS LLC           04/18/2024  04/18/2024  SERVICE CHARGES & OTHER FEES                                                  $7.25
+DBLA20241337      05/15/2024  LEIDOS DIGITAL SOLUTIONS INC      04/18/2024  04/18/2024  IT EQUIP MAINT                                                             $120.00
+DBLA20241468      05/13/2024  CITIBANK - PURCHASE CARD          03/01/2024  03/31/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                $51.45
+DBLA20241469      05/16/2024  CITIBANK - PURCHASE CARD          04/17/2024  04/17/2024  TRANSCRIPTS, STUDIES, OFF DOC                                              $350.00
+DBLA20241470      05/28/2024  CITIBANK - PURCHASE CARD          03/01/2024  03/31/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $3.50
+DBLA20241471      05/28/2024  CITIBANK - PURCHASE CARD          04/19/2024  04/19/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                 $5.25
+DBLA20241472      05/28/2024  CITIBANK - PURCHASE CARD          04/19/2024  04/19/2024  TRANSCRIPTS, STUDIES, OFF DOC
+DBLA20241473      05/28/2024  CITIBANK - PURCHASE CARD          04/23/2024  04/23/2024  TRANSCRIPTS, STUDIES, OFF DOC                                                   $.50
+                  05/28/2024                                    04/24/2024  04/24/2024                                                                                $1.00
+                  05/30/2024                                    04/25/2024  04/25/2024
+                                                                04/26/2024  04/26/2024                                                                                  $.25
+                                                                                                                                                                      $3.00
+

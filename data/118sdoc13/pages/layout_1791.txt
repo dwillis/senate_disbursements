@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DMCN20240542                  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION                                                       $151.96
+DMCN20240543      04/19/2024  ELIZABETH HUNTER WHITAKER         START       END         BOWLING GREEN TO OWENSBORO, ROBARDS, HENDERSON AND RETURN                  $107.42
+DMCN20240544      04/19/2024  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION
+DMCN20240545      04/12/2024  ELIZABETH HUNTER WHITAKER         03/14/2024  03/14/2024  BOWLING GREEN TO RUSSELL SPRINGS AND RETURN                                  $37.99
+DMCN20240546      04/19/2024  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION                                                       $106.11
+DMCN20240547      04/19/2024  ELIZABETH HUNTER WHITAKER         03/19/2024  03/19/2024  BOWLING GREEN TO GLASGOW AND RETURN                                        $102.18
+DMCN20240548      04/19/2024  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION                                                       $160.47
+DMCN20240549      04/12/2024  ELIZABETH HUNTER WHITAKER         03/20/2024  03/20/2024  BOWLING GREEN TO CAMPBELLSVILLE AND RETURN
+DMCN20240550      04/12/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                         $92.35
+DMCN20240551      04/19/2024  CITIBANK - TRAVEL CBA CARD        03/25/2024  03/25/2024  BOWLING GREEN TO OWENSBORO AND RETURN                                        $31.44
+DMCN20240552      04/19/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                       $215.10
+DMCN20240553      04/19/2024  CITIBANK - TRAVEL CBA CARD        03/28/2024  03/28/2024  BOWLING GREEN TO EDDYVILLE, BENTON AND RETURN                              $320.10
+DMCN20240563      04/22/2024  STEPHANIE H NELSON                                        STAFF TRANSPORTATION                                                       $234.10
+DMCN20240564      04/16/2024  STEPHANIE H NELSON                03/29/2024  03/29/2024  BOWLING GREEN TO GREENSBURG, MUNFORDVILLE AND RETURN                       $234.10
+DMCN20240565      04/15/2024  KIMBERLY S KRAFT                                          STAFF TRANSPORTATION
+DMCN20240566      04/24/2024  STEPHANIE H NELSON                04/03/2024  04/03/2024  BOWLING GREEN TO BROWNSVILLE AND RETURN                                       $7.86
+DMCN20240567      04/23/2024  STEPHANIE H NELSON                                        SENATOR TRANSPORTATION                                                       $23.58
+DMCN20240568      04/24/2024  STEPHANIE H NELSON                04/05/2024  04/05/2024  AIRFARE FOR SEN MCCONNELL WASHINGTON DC TO LOUISVILLE                      $137.72
+DMCN20240580      04/24/2024  ELIZABETH HUNTER WHITAKER                                 SENATOR TRANSPORTATION
+DMCN20240581      04/26/2024  ELIZABETH HUNTER WHITAKER         03/15/2024  03/15/2024  AIRFARE FOR SEN MCCONNELL LOUISVILLE TO WASHINGTON DC                         $7.86
+DMCN20240582      04/26/2024  ELIZABETH HUNTER WHITAKER                                 SENATOR TRANSPORTATION                                                       $47.16
+DMCN20240583      04/26/2024  ELIZABETH HUNTER WHITAKER         03/17/2024  03/17/2024  AIRFARE FOR SEN MCCONNELL WASHINGTON DC TO HEBRON                            $15.72
+DMCN20240584      04/26/2024  ELIZABETH HUNTER WHITAKER                                 SENATOR TRANSPORTATION                                                       $14.41
+DMCN20240586      04/26/2024  STEPHANIE H NELSON                03/23/2024  03/23/2024  AIRFARE FOR SEN MCCONNELL HEBRON TO WASHINGTON DC                                    B-1754
+DMCN20240587      04/26/2024  STEPHANIE H NELSON                                        STAFF TRANSPORTATION                                                          $9.17
+                  04/26/2024                                    04/07/2024  04/07/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $49.78
+                                                                                        STAFF TRANSPORTATION                                                         $17.68
+                                                                04/08/2024  04/08/2024  LEXINGTON TO NICHOLASVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                          $9.17
+                                                                04/09/2024  04/09/2024  FORT WRIGHT TO LOUISVILLE AND RETURN                                         $26.85
+                                                                                        STAFF TRANSPORTATION
+                                                                04/02/2024  04/02/2024  IN AND AROUND RICHMOND                                                        $7.86
+                                                                                        STAFF TRANSPORTATION
+                                                                04/10/2024  04/10/2024  LEXINGTON TO WINCHESTER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/11/2024  04/11/2024  IN AND AROUND RICHMOND
+                                                                                        STAFF TRANSPORTATION
+                                                                04/12/2024  04/12/2024  BOWLING GREEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                03/08/2024  03/08/2024  BOWLING GREEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                03/12/2024  03/12/2024  BOWLING GREEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                03/15/2024  03/15/2024  BOWLING GREEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                03/18/2024  03/18/2024  BOWLING GREEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                03/27/2024  03/27/2024  RICHMOND TO WINCHESTER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/17/2024  04/17/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+
+                                                                04/18/2024  04/18/2024
+

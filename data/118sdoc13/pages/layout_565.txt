@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                              DATES
+DBLA20241439                                                                       NASHVILLE TO MURFREESBORO AND RETURN                                             $20.36
+DBLA20241440                                               START       END         STAFF TRANSPORTATION                                                             $18.48
+                                                                                   NASHVILLE TO FRANKLIN AND RETURN                                               $105.05
+DBLA20241441      05/26/2024  JAY C STROBINO               05/06/2024  05/06/2024  STAFF PER DIEM                                                                   $19.73
+DBLA20241442      05/30/2024  JAY C STROBINO               05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                             $17.17
+DBLA20241443                                                                       NASHVILLE TO FRANKLIN, MANCHESTER AND RETURN                                     $41.00
+DBLA20241444      05/26/2024  SPENCER HURWITZ              05/20/2024  05/20/2024  STAFF TRANSPORTATION                                                           $109.07
+DBLA20241445      05/26/2024  SPENCER HURWITZ              05/14/2024  05/14/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $59.56
+DBLA20241446      05/28/2024  JOHN M CLEMENT               05/18/2024  05/18/2024  STAFF TRANSPORTATION                                                             $11.17
+                  06/06/2024  JAY C STROBINO               05/08/2024  05/08/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $142.04
+DBLA20241447      05/26/2024  JAY C STROBINO               05/09/2024  05/09/2024  STAFF TRANSPORTATION                                                             $21.90
+DBLA20241448      05/30/2024  JAY C STROBINO               05/14/2024  05/14/2024  ADAMS TO FORT CAMPBELL KY AND RETURN                                             $84.48
+DBLA20241449                                                                       STAFF TRANSPORTATION                                                             $42.47
+DBLA20241450      05/26/2024  JAY C STROBINO               05/13/2024  05/13/2024  NASHVILLE TO THE FOLLOWING AND RETURN: COLUMBIA; FRANKLIN                        $41.15  B-547
+                  05/28/2024  JAY C STROBINO               05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                           $330.97
+DBLA20241452      05/26/2024  JAY C STROBINO               05/17/2024  05/17/2024  NASHVILLE TO MOUNT JULIET, NASHVILLE, FRANKLIN AND RETURN                      $149.11
+                  05/31/2024  JAY C STROBINO               04/29/2024  04/30/2024  STAFF PER DIEM                                                                   $17.16
+DBLA20241453                                                                       STAFF TRANSPORTATION                                                           $235.10
+                  05/31/2024  NEELY, BLAKEMON L            05/21/2024  05/21/2024  NASHVILLE TO TULLAHOMA, LEBANON, MURFREESBORO AND RETURN                         $32.79
+DBLA20241454                                                                       STAFF TRANSPORTATION                                                           $205.35
+                  06/03/2024  NEELY, BLAKEMON L            05/20/2024  05/20/2024  NASHVILLE TO FRANKLIN AND RETURN                                                 $14.22
+DBLA20241455                                                                       STAFF TRANSPORTATION                                                           $132.52
+DBLA20241456      05/31/2024  NEELY, BLAKEMON L            05/16/2024  05/16/2024  NASHVILLE TO SPRING HILL, MURFREESBORO, FRANKLIN AND RETURN                    $349.10
+DBLA20241457                                                                       STAFF TRANSPORTATION                                                           $415.10
+DBLA20241458      05/31/2024  CITIBANK - SENATOR IBA CARD  05/10/2024  05/10/2024  NASHVILLE TO LEBANON AND RETURN                                                $415.10
+DBLA20241459      05/31/2024  CITIBANK - SENATOR IBA CARD  05/14/2024  05/14/2024  STAFF INCIDENTALS                                                              $147.10
+DBLA20241460      05/31/2024  CITIBANK - SENATOR IBA CARD  05/16/2024  05/16/2024  STAFF PER DIEM                                                                 $163.48
+                  05/31/2024  CITIBANK - SENATOR IBA CARD  05/20/2024  05/20/2024  STAFF TRANSPORTATION
+                  05/31/2024  CHELSEA M IVENS              05/07/2024  05/07/2024  NASHVILLE TO WASHINGTON DC AND RETURN                                          $130.65
+                  05/31/2024  CHELSEA M IVENS              05/17/2024  05/17/2024  STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   IUKA MS TO WINCHESTER, LEWISBURG, PULASKI AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   IUKA MS TO LYNCHBURG, FAYETTEVILLE, LAWRENCEBURG AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   IUKA MS TO LINDEN, HOHENWALD, WAYNESBORO AND RETURN
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN BLACKBURN WASHINGTON DC TO NASHVILLE
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN BLACKBURN KNOXVILLE TO WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN BLACKBURN WASHINGTON DC TO KNOXVILLE
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN BLACKBURN NASHVILLE TO WASHINGTON DC
+                                                                                   STAFF TRANSPORTATION
+                                                                                   KNOXVILLE TO OLIVER SPRINGS, PIGEON FORGE, CLINTON, SUNBRIGHT
+                                                                                   AND RETURN
+                                                                                   STAFF TRANSPORTATION
+

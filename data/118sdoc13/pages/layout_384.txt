@@ -1,0 +1,67 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                           DATES
+VSAA22405129       POSTED     PERATON INC.                                              SOFTWARE LICENSE                                                        $5,188.90
+                                                                START       END         VOICE & DATA COMM EQUIPMENT                                            $38,877.80
+VSAA22405135      04/26/2024  PFINIX LLC                                                AUDIO, VISUAL EQUIPMENT
+VSAA22405137                  AT&T MOBILITY                     06/29/2023  06/29/2023  VOICE & DATA COMM EQUIPMENT                                             $5,949.00
+VSAA22405139      06/06/2024  AT&T MOBILITY                                             VOICE & DATA COMM EQUIPMENT                                                $129.98
+VSAA22405140      06/13/2024  AT&T MOBILITY                     05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                     $.99  B-366
+VSAA22405141      06/12/2024  AT&T MOBILITY                     05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+VSAA22405142      06/17/2024  AT&T MOBILITY                     05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                             $1,448.99
+VSAA22405143      06/13/2024  AT&T MOBILITY                     05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                $259.96
+VSAA22405172      06/12/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                     $.99
+VSAA22405173      06/12/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                     $.99
+VSAA22405175      05/14/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                $999.99
+VSAA22405176      05/15/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                $249.99
+VSAA22405177      05/14/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                $749.99
+VSAA22405178      06/11/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                  $74.98
+VSAA22405179      05/14/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                $879.96
+VSAA22405180      05/22/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+VSAA22405181      05/21/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                            $13,959.60
+VSAA22405182      05/14/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                            $13,959.60
+VSAA22405183      06/12/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+VSAA22405184      05/15/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                             $1,099.98
+VSAA22405185      05/22/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                  $44.99
+VSAA22405186      05/15/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+VSAA22405199      05/22/2024  CARAHSOFT TECHNOLOGY CORPORATION  05/16/2023  05/16/2023  SOFTWARE LICENSE                                                           $348.99
+                  06/11/2024  WHITAKER BROTHERS BUSINESS        05/16/2023  05/16/2023                                                                          $2,279.94
+VSAA22405232      05/21/2024  MACHINES INC                      05/16/2023  05/16/2023  IT EQUIPMENT
+                              VERIZON WIRELESS                  03/24/2024  04/21/2024                                                                             $359.92
+VSAA22405369      05/13/2024  VERIZON WIRELESS                                          VOICE & DATA COMM EQUIPMENT                                             $1,399.99
+VSAA22405370                  VERIZON WIRELESS                  09/05/2023  09/05/2023  VOICE & DATA COMM EQUIPMENT
+VSAA22405371      05/15/2024  VERIZON WIRELESS                                          VOICE & DATA COMM EQUIPMENT                                                  $89.98
+VSAA22405372      06/13/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                             $4,054.65
+VSAA22405373      06/13/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+VSAA22405374      05/15/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                             $3,624.00
+VSAA22405375      05/15/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+VSAA22405376      05/15/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                $729.99
+VSAA22405377      05/15/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                  $74.98
+VSAA22405378      05/16/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                  $44.99
+VSAA22405379      05/15/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+VSAA22405380      05/15/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                $299.55
+VSAA22405381      05/14/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                $729.99
+VSAA22405382      07/15/2024  AT&T MOBILITY                     05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                $729.99
+VSAA22405385      05/15/2024  AT&T MOBILITY                     05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                $729.99
+VSAA22405426      05/14/2024  PERATON INC.                      05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                $298.99
+VSAA22405429      06/11/2024                                    05/16/2023  05/16/2023  SOFTWARE LICENSE                                                           $729.99
+                  06/13/2024  AT&T MOBILITY                     05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                $729.99
+VSAA22405500      05/17/2024  AT&T MOBILITY                     05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+VSAA22405501                  VERIZON WIRELESS                  06/29/2023  06/29/2023  VOICE & DATA COMM EQUIPMENT                                                  $99.99
+VSAA22405502      06/11/2024  VERIZON WIRELESS                                          VOICE & DATA COMM EQUIPMENT                                                $649.99
+VSAA22405504      06/11/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                $149.98
+VSAA22405505      05/21/2024  VERIZON WIRELESS                  05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT                                                $729.99
+VSAA22405506      05/21/2024                                    05/16/2023  05/16/2023  VOICE & DATA COMM EQUIPMENT
+                  05/21/2024                                    05/16/2023  05/16/2023                                                                                  $.99
+                  07/15/2024                                    05/16/2023  05/16/2023                                                                          $3,089.97
+                                                                05/16/2023  05/16/2023                                                                          $5,188.90
+                                                                                                                                                               $38,877.80
+
+                                                                                                                                                                   $129.98
+                                                                                                                                                                        $.99
+
+                                                                                                                                                                     $37.49
+                                                                                                                                                                $1,649.96
+
+                                                                                                                                                                   $749.99
+                                                                                                                                                                   $249.99
+

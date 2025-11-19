@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE                    PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+              POSTED                                           DATES
+                                                                            STAFF PER DIEM                                                                 $275.06
+                                                    START       END         STAFF TRANSPORTATION                                                           $257.28
+                                                                            BOZEMAN TO GREAT FALLS AND RETURN
+DTES20240260  04/11/2024  KATHLEEN MARIE HAHN       03/27/2024  03/29/2024  STAFF INCIDENTALS                                                                $29.70
+                                                                            STAFF PER DIEM                                                                 $372.24
+DTES20240261  04/11/2024  PETER R MATT              03/29/2024  03/30/2024  STAFF TRANSPORTATION                                                           $254.08
+                                                                            MISSOULA TO GREAT FALLS, HELENA AND RETURN
+DTES20240262  04/17/2024  SHIVA-NANDAN ARENS        03/29/2024  03/29/2024  STAFF INCIDENTALS                                                                $15.68
+DTES20240265  04/19/2024  PETER R MATT              04/03/2024  04/04/2024  STAFF PER DIEM                                                                 $218.15
+                                                                            STAFF TRANSPORTATION                                                           $282.07
+DTES20240266  04/18/2024  SHIVA-NANDAN ARENS        04/04/2024  04/04/2024  MISSOULA TO BOZEMAN AND RETURN                                                           B-2406
+DTES20240268                                                                STAFF PER DIEM                                                                   $20.15
+DTES20240269  04/22/2024  JESSE R ANDERSON          04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                           $102.88
+DTES20240270  04/16/2024  SHIVA-NANDAN ARENS        04/05/2024  04/05/2024  MISSOULA TO PHILIPSBURG, DRUMMOND AND RETURN
+DTES20240271  04/23/2024  PAMELA R HAXBY-COTE       04/05/2024  04/05/2024  STAFF INCIDENTALS                                                                $10.56
+DTES20240272  04/17/2024  CHAD L CAMPBELL           03/14/2024  04/04/2024  STAFF PER DIEM                                                                 $164.15
+DTES20240273  04/22/2024  TESTER,JON                03/23/2024  04/08/2024  STAFF TRANSPORTATION                                                           $375.20
+                                                                            MISSOULA TO GREAT FALLS, ROCKY BOY AGENCY AND RETURN
+DTES20240274  04/23/2024  ARTHUR SCOTT PETTIT       02/26/2024  02/27/2024  STAFF PER DIEM                                                                   $27.59
+DTES20240275                                                                STAFF TRANSPORTATION                                                             $93.13
+DTES20240276  04/26/2024  CHAD L CAMPBELL           04/01/2024  04/02/2024  MISSOULA TO STEVENSVILLE, HAMILTON, FRENCHTOWN AND RETURN
+DTES20240277                                                                STAFF TRANSPORTATION                                                           $121.94
+DTES20240279  04/25/2024  CHAD L CAMPBELL           04/02/2024  04/03/2024  HELENA TO GREAT FALLS AND RETURN
+DTES20240280                                                                STAFF TRANSPORTATION                                                             $10.38
+              04/23/2024  ARTHUR SCOTT PETTIT       03/08/2024  03/08/2024  MISSOULA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+              04/25/2024  JESSE R ANDERSON          04/09/2024  04/10/2024  STAFF TRANSPORTATION                                                           $210.38
+              04/23/2024  AMANDA M CASEY            04/10/2024  04/10/2024  BUTTE TO GREAT FALLS AND RETURN
+              04/23/2024  AMANDA M CASEY            04/11/2024  04/11/2024  STAFF TRANSPORTATION                                                             $68.67
+                                                                            KALISPELL OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                            SENATOR PER DIEM                                                                 $31.98
+                                                                            SENATOR TRANSPORTATION                                                         $723.80
+                                                                            WASHINGTON DC TO GREAT FALLS AND RETURN
+                                                                            STAFF INCIDENTALS                                                                $10.56
+                                                                            STAFF PER DIEM                                                                 $199.88
+                                                                            STAFF TRANSPORTATION                                                           $197.97
+                                                                            MISSOULA TO GREAT FALLS AND RETURN
+                                                                            STAFF PER DIEM                                                                   $28.85
+                                                                            STAFF TRANSPORTATION                                                             $96.55
+                                                                            KALISPELL TO COLUMBIA FALLS, LIBBY, COLUMBIA FALLS AND RETURN
+                                                                            STAFF PER DIEM                                                                   $31.94
+                                                                            STAFF TRANSPORTATION                                                             $94.48
+                                                                            KALISPELL TO COLUMBIA FALLS, THOMPSON FALLS AND RETURN
+                                                                            STAFF PER DIEM                                                                   $26.00
+                                                                            MISSOULA TO HAMILTON AND RETURN
+                                                                            STAFF TRANSPORTATION                                                           $121.94
+                                                                            HELENA TO GREAT FALLS AND RETURN
+                                                                            STAFF TRANSPORTATION                                                             $91.12
+                                                                            HELENA TO BUTTE AND RETURN
+                                                                            STAFF TRANSPORTATION                                                             $91.12
+                                                                            HELENA TO BUTTE AND RETURN
+

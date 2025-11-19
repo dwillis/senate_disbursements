@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DFIS20240274                  DENISE M BARRETT                                          STAFF PER DIEM                                                                    $22.31
+DFIS20240275      06/12/2024  BRANDEN J MCCASLIN                START       END         STAFF TRANSPORTATION                                                              $72.27
+DFIS20240276                  JOSHUA W JELDEN                                           OMAHA TO LINCOLN AND RETURN                                                     $200.33
+                  06/13/2024                                    06/04/2024  06/04/2024  STAFF TRANSPORTATION                                                              $10.00
+DFIS20240285      06/13/2024                                                            SCOTTSBLUFF TO ARTHUR, OGALLALA AND RETURN                                        $22.99
+DFIS20240286                                                    06/04/2024  06/04/2024  STAFF INCIDENTALS                                                                 $94.31
+DFIS20240287                                                    06/04/2024  06/04/2024  STAFF PER DIEM                                                                    $30.44
+DFIS20240288                                                                            STAFF TRANSPORTATION                                                            $124.98
+DFIS20240289      06/18/2024  JOSHUA W JELDEN                   06/06/2024  06/06/2024  KEARNEY TO COZAD, NORTH PLATTE AND RETURN                                         $11.48  B-1195
+DFIS20240292      06/18/2024  KEVIN D HUEBERT                   06/06/2024  06/06/2024  STAFF PER DIEM                                                                  $133.33
+                  06/25/2024  CITIBANK - TRAVEL CBA CARD        06/06/2024  06/08/2024  STAFF TRANSPORTATION                                                            $958.58
+DFIS20240293      06/24/2024  CITIBANK - TRAVEL CBA CARD        06/06/2024  06/06/2024  KEARNEY TO COLUMBUS, OSCEOLA, SEWARD AND RETURN
+DFIS20240294      06/24/2024  CITIBANK - TRAVEL CBA CARD        06/10/2024  06/10/2024  STAFF PER DIEM                                                                  $103.10
+DFIS20240297      06/26/2024  EMMA ELIZABETH HOFFSCHNEIDER      06/06/2024  06/08/2024  STAFF TRANSPORTATION                                                            $103.10
+DFIS20240298                                                                            PAPILLION TO SEWARD AND RETURN
+DFIS20240299      06/25/2024  RINGLEIN,RAY M                    06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                              $34.61
+DFIS20240300      07/01/2024  JOSHUA W JELDEN                   06/13/2024  06/13/2024  AIRFARE FOR E HOFFSCHNEIDER WASHINGTON DC TO OMAHA AND                          $223.85
+DFIS20240301                                                                            RETURN                                                                          $276.32
+DFIS20240302      07/08/2024  RINGLEIN,RAY M                    06/20/2024  06/20/2024  SENATOR TRANSPORTATION                                                          $111.35
+DFIS20240303      07/09/2024  RINGLEIN,RAY M                    06/18/2024  06/18/2024  AIRFARE FOR SEN FISCHER WASHINGTON DC TO OMAHA
+                  07/09/2024  JOSHUA W JELDEN                   06/18/2024  06/18/2024  SENATOR TRANSPORTATION                                                            $17.06
+                  07/09/2024  JOSHUA W JELDEN                   06/20/2024  06/20/2024  AIRFARE FOR SEN FISCHER OMAHA TO WASHINGTON DC                                  $125.98
+                                                                                        STAFF INCIDENTALS                                                               $162.40
+                  07/09/2024  BRANDEN J MCCASLIN                06/20/2024  06/20/2024  STAFF PER DIEM                                                                  $152.89
+                  07/09/2024  BRANDEN J MCCASLIN                06/25/2024  06/25/2024  STAFF TRANSPORTATION                                                            $113.30
+                  07/17/2024  NEIL P MOSEMAN                    06/11/2024  06/14/2024  WASHINGTON DC TO OMAHA, LINCOLN, WAYNE, OMAHA AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                              $22.92
+DFIS20240306      07/29/2024  EMILY E LEVINER                   06/06/2024  06/11/2024  LINCOLN TO BROWNVILLE AND RETURN                                                $104.83
+                                                                                        STAFF PER DIEM                                                                  $273.36
+                                                                                        STAFF TRANSPORTATION                                                            $234.50
+                                                                                        KEARNEY TO CLAY CENTER, NELSON, RED CLOUD AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                              $15.73
+                                                                                        LINCOLN TO NORFOLK AND RETURN                                                   $490.49
+                                                                                        STAFF TRANSPORTATION                                                            $447.58
+                                                                                        LINCOLN TO FRIEND, RED CLOUD AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                            $210.74
+                                                                                        KEARNEY TO SCOTIA AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        KEARNEY TO ARAPAHOE, MCCOOK AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SCOTTSBLUFF TO STAPLETON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SCOTTSBLUFF TO THEDFORD AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OMAHA TO YORK, BROKEN BOW, OGALLALA, GRAND ISLAND, LINCOLN AND
+                                                                                        RETURN
+                                                                                        STAFF INCIDENTALS
+

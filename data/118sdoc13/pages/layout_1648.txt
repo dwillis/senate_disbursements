@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DLNK20241278                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                         $14.95
+DLNK20241279      09/20/2024  ESTELA L HERNANDEZ                START       END         TOLLS FOR S SHARUM TULSA TO OKLAHOMA CITY AND RETURN                       $121.67
+DLNK20241280      09/27/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION
+DLNK20241281      09/20/2024  CITIBANK - TRAVEL CBA CARD        08/05/2024  08/05/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $5.70
+DLNK20241282      09/20/2024  ESTELA L HERNANDEZ                                        STAFF TRANSPORTATION                                                       $215.10
+DLNK20241283      09/27/2024  ESTELA L HERNANDEZ                08/12/2024  08/17/2024  TOLLS FOR J SHARUM TULSA TO OKLAHOMA CITY AND RETURN                       $153.89
+DLNK20241284      09/27/2024  JOSHUA K SHARUM                                           STAFF TRANSPORTATION                                                       $137.14
+DLNK20241285      09/20/2024  JOSHUA K SHARUM                   08/13/2024  08/14/2024  AIRFARE FOR D OSBORN TULSA TO WASHINGTON DC
+DLNK20241286      09/20/2024  JOSHUA K SHARUM                                           STAFF TRANSPORTATION                                                         $18.63
+DLNK20241287      09/20/2024  DEREK R OSBORN                    09/15/2024  09/15/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $12.54
+                  09/27/2024                                                            STAFF TRANSPORTATION
+DLNK20241288                                                    08/19/2024  08/23/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $9.12
+DLNK20241289                                                                            STAFF PER DIEM                                                             $179.67
+DLNK20241303                                                    08/26/2024  08/30/2024  TULSA TO GORE AND RETURN                                                $1,158.87
+DLNK20241304                                                                            STAFF PER DIEM                                                             $183.57
+DLNK20241305                                                    08/29/2024  08/29/2024  TULSA TO GUTHRIE, KINGFISHER AND RETURN                                    $184.92
+                                                                                        STAFF PER DIEM                                                             $179.10
+DLNK20241308                                                    09/04/2024  09/04/2024  TULSA TO OKEMAH, OKLAHOMA CITY AND RETURN                                  $215.10
+DLNK20241309                                                                            STAFF INCIDENTALS                                                          $179.10
+DLNK20241310                                                    09/10/2024  09/10/2024  STAFF PER DIEM                                                             $162.63
+DLNK20241311                                                                            STAFF TRANSPORTATION                                                    $1,059.86
+DLNK20241312                                                    09/08/2024  09/12/2024  TULSA TO WASHINGTON DC AND RETURN                                          $181.42
+DLNK20241313                                                                            STAFF TRANSPORTATION
+DLNK20241314      09/27/2024  ESTELA L HERNANDEZ                09/04/2024  09/14/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $22.11  B-1611
+DLNK20241315      09/20/2024  CITIBANK - TRAVEL CBA CARD        09/16/2024  09/16/2024  SENATOR TRANSPORTATION                                                       $24.12
+                  09/23/2024  CITIBANK - TRAVEL CBA CARD        09/19/2024  09/19/2024  AIRFARE FOR SEN LANKFORD OKLAHOMA CITY TO WASHINGTON DC                      $17.42
+                  09/23/2024  CITIBANK - TRAVEL CBA CARD        09/19/2024  09/19/2024  STAFF TRANSPORTATION                                                         $32.16
+                  09/30/2024  DEREK R OSBORN                    09/15/2024  09/19/2024  AIRFARE FOR D OSBORN WASHINGTON DC TO TULSA                                  $24.79
+                                                                                        SENATOR TRANSPORTATION                                                       $18.76
+                  09/23/2024  QUINTON BRIER GRAY                09/04/2024  09/04/2024  AIRFARE FOR SEN LANKFORD WASHINGTON DC TO OKLAHOMA CITY                      $28.14
+                  09/23/2024  QUINTON BRIER GRAY                09/09/2024  09/09/2024  STAFF INCIDENTALS                                                            $24.12
+                  09/23/2024  QUINTON BRIER GRAY                09/10/2024  09/10/2024  STAFF PER DIEM
+                  09/23/2024  QUINTON BRIER GRAY                09/12/2024  09/12/2024  STAFF TRANSPORTATION
+                  09/23/2024  QUINTON BRIER GRAY                09/13/2024  09/13/2024  TULSA TO WASHINGTON DC AND RETURN
+                  09/23/2024  QUINTON BRIER GRAY                09/18/2024  09/18/2024  STAFF TRANSPORTATION
+                  09/23/2024  QUINTON BRIER GRAY                09/19/2024  09/19/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  09/23/2024  QUINTON BRIER GRAY                09/20/2024  09/20/2024  STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

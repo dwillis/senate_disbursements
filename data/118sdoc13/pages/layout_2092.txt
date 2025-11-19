@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                   POSTED                                                  DATES
+DREE20240251                  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                       $373.10
+DREE20240260      06/12/2024  BENJAMIN A CRAIG                  START       END         AIRFARE FOR SEN REED WASHINGTON DC TO PROVIDENCE                             $331.34
+DREE20240264      06/12/2024  CHRISTOPHER R ALBERT                                      STAFF TRANSPORTATION                                                         $272.48
+DREE20240265      07/01/2024  CHRISTOPHER R ALBERT              05/23/2024  05/23/2024  PROVIDENCE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $287.54
+DREE20240274      06/28/2024  CITIBANK - SENATOR IBA CARD                               STAFF TRANSPORTATION                                                         $746.20
+DREE20240281      06/28/2024  GRIFFIN K OWNJAZAYERI             05/05/2024  05/30/2024  CRANSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $246.60
+DREE20240284      06/28/2024  BENJAMIN A CRAIG                                          STAFF TRANSPORTATION                                                         $158.83
+DREE20240285      07/19/2024  JOHN F KIERNAN                    04/01/2024  04/29/2024  CRANSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $249.90
+DREE20240286      07/19/2024  JOHN F KIERNAN                                            SENATOR TRANSPORTATION                                                       $108.07
+DREE20240293      07/19/2024  CITIBANK - SENATOR IBA CARD       05/05/2024  05/29/2024  AIRFARE FOR SEN REED WASHINGTON DC TO PROVIDENCE AND RETURN                  $608.20
+                  07/19/2024                                                            STAFF TRANSPORTATION
+DREE20240296                  ROBERT S WALL                     06/14/2024  06/17/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $833.43
+DREE20240297      07/24/2024  ROBERT S WALL                                             STAFF TRANSPORTATION                                                      $1,018.54
+DREE20240298      07/24/2024  ROBERT S WALL                     04/09/2024  04/30/2024  PROVIDENCE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DREE20240299      07/24/2024  GRIFFIN K OWNJAZAYERI                                     STAFF TRANSPORTATION                                                         $555.00
+DREE20240303      07/24/2024  CITIBANK - SENATOR IBA CARD       06/17/2024  06/28/2024  CRANSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $217.59
+DREE20240306      07/24/2024  ERIN N ARCAND                                             STAFF TRANSPORTATION                                                         $364.98
+DREE20240307      07/29/2024  ERIN N ARCAND                     05/21/2024  05/30/2024  CRANSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $141.21
+DREE20240308      07/24/2024  ERIN N ARCAND                                             SENATOR TRANSPORTATION
+DREE20240309      07/29/2024  ERIN N ARCAND                     06/06/2024  06/21/2024  AIRFARE FOR SEN REED AS FOLLOWS: 6/20 WASHINGTON DC TO                         $80.23
+DREE20240313      07/29/2024  VINCENT T VENTICINQUE                                     PROVIDENCE; 7/8 PROVIDENCE TO WASHINGTON DC                                  $187.69
+DREE20240314      08/06/2024  VINCENT T VENTICINQUE             06/20/2024  07/08/2024  STAFF TRANSPORTATION                                                         $162.17
+DREE20240315      08/06/2024  VINCENT T VENTICINQUE                                     CRANSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $250.37
+DREE20240331      08/06/2024  CITIBANK - SENATOR IBA CARD       04/01/2024  04/28/2024  STAFF TRANSPORTATION                                                                   B-2055
+                  08/28/2024                                    05/02/2024  05/29/2024  CRANSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $61.04
+DREE20240332                  CITIBANK - SENATOR IBA CARD       06/15/2024  06/29/2024  STAFF TRANSPORTATION                                                           $96.28
+                  08/20/2024                                    05/01/2024  05/23/2024  CRANSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $649.08
+                                                                07/11/2024  07/11/2024  STAFF TRANSPORTATION
+                                                                03/01/2024  03/26/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $373.10
+                                                                04/03/2024  04/30/2024  SENATOR TRANSPORTATION
+                                                                05/03/2024  05/29/2024  AIRFARE FOR SEN REED WASHINGTON DC TO PROVIDENCE
+                                                                06/12/2024  06/28/2024  STAFF TRANSPORTATION
+                                                                04/03/2024  04/30/2024  PROVIDENCE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                05/04/2024  05/28/2024  STAFF TRANSPORTATION
+                                                                06/15/2024  06/27/2024  PROVIDENCE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                07/25/2024  07/29/2024  STAFF TRANSPORTATION
+                                                                                        PROVIDENCE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                08/01/2024  08/01/2024  STAFF TRANSPORTATION
+                                                                                        PROVIDENCE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PROVIDENCE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PROVIDENCE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PROVIDENCE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN REED AS FOLLOWS: 7/25 WASHINGTON DC TO
+                                                                                        PROVIDENCE; 7/29 PROVIDENCE TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN REED WASHINGTON DC TO PROVIDENCE
+

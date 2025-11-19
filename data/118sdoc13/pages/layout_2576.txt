@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME        OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                   DATES
+DWRN20240470                                                            ABINGDON TO BRISTOL TO POUNDING MILL                                         $56.95
+DWRN20240471                                    START       END         STAFF TRANSPORTATION                                                         $51.59
+DWRN20240472                                                            ABINGDON TO GRUNDY TO POUNDING MILL                                          $62.31
+DWRN20240473      05/21/2024  ROBERT S CLEM     04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                         $83.08  B-2539
+DWRN20240474      05/21/2024  ROBERT S CLEM     04/11/2024  04/11/2024  ABINGDON TO SAINT PAUL TO POUNDING MILL                                      $64.32
+DWRN20240475      05/21/2024  ROBERT S CLEM     04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                         $56.28
+DWRN20240476      05/21/2024  ROBERT S CLEM     04/17/2024  04/17/2024  ABINGDON TO GRUNDY TO POUNDING MILL                                        $186.26
+DWRN20240477      05/21/2024  ROBERT S CLEM     04/18/2024  04/18/2024  STAFF TRANSPORTATION                                                         $34.84
+DWRN20240478      05/21/2024  ROBERT S CLEM     04/19/2024  04/19/2024  ABINGDON TO BIG STONE GAP AND RETURN                                         $77.05
+DWRN20240479      05/22/2024  ROBERT S CLEM     04/22/2024  04/22/2024  STAFF TRANSPORTATION                                                         $35.51
+DWRN20240480      05/21/2024  ROBERT S CLEM     04/23/2024  04/23/2024  ABINGDON TO COEBURN AND RETURN                                               $75.04
+DWRN20240481      05/21/2024  ROBERT S CLEM     04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                         $22.78
+DWRN20240482      05/21/2024  ROBERT S CLEM     04/29/2024  04/29/2024  ABINGDON TO BRISTOL TO POUNDING MILL                                         $52.93
+DWRN20240483      05/21/2024  ROBERT S CLEM     04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                       $134.00
+DWRN20240486      05/21/2024  ROBERT S CLEM     05/01/2024  05/01/2024  ABINGDON TO GALAX, MARION, BRISTOL TO POUNDING MILL                          $20.77
+DWRN20240487      05/21/2024  ROBERT S CLEM     05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                         $17.55
+DWRN20240488      05/22/2024  ROBERT S CLEM     05/03/2024  05/03/2024  ABINGDON TO LEBANON TO POUNDING MILL                                       $101.06
+DWRN20240490      05/23/2024  GENE L GARLAND    05/08/2024  05/08/2024  STAFF TRANSPORTATION                                                         $15.65
+DWRN20240491      05/23/2024  TANNIA TALENTO    10/05/2023  10/05/2023  ABINGDON TO BLUEFIELD TO POUNDING MILL
+DWRN20240492      05/24/2024  TANNIA TALENTO    10/13/2023  10/13/2023  STAFF TRANSPORTATION                                                          $7.00
+DWRN20240493      05/23/2024  TANNIA TALENTO    10/15/2023  10/15/2023  ABINGDON TO LEBANON TO POUNDING MILL                                         $18.27
+DWRN20240494      05/23/2024  TANNIA TALENTO    10/18/2023  10/18/2023  STAFF TRANSPORTATION                                                         $69.43
+DWRN20240495      05/23/2024  TANNIA TALENTO    10/25/2023  10/25/2023  ABINGDON TO BLUEFIELD TO POUNDING MILL                                       $64.97
+DWRN20240496      05/23/2024  TANNIA TALENTO    10/26/2023  10/26/2023  STAFF TRANSPORTATION
+                  05/23/2024  TANNIA TALENTO    10/27/2023  10/27/2023  ABINGDON TO BRISTOL AND RETURN                                                $9.69
+                  05/23/2024  TANNIA TALENTO    10/30/2023  10/30/2023  STAFF TRANSPORTATION                                                         $25.85
+                  05/31/2024  ZACHARY B GOLDEN  05/13/2024  05/15/2024  ABINGDON TO TAZEWELL TO POUNDING MILL                                      $295.56
+                                                                        STAFF TRANSPORTATION
+                                                                        POUNDING MILL TO GALAX TO ABINGDON
+                                                                        STAFF TRANSPORTATION
+                                                                        NORFOLK OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                        STAFF TRANSPORTATION
+                                                                        ARLINGTON TO WASHINGTON DC TO VIENNA
+                                                                        STAFF TRANSPORTATION
+                                                                        ARLINGTON TO WASHINGTON, ANNANDALE, MCLEAN AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        ARLINGTON TO ALEXANDRIA AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        VIENNA TO MCLEAN TO ARLINGTON
+                                                                        STAFF TRANSPORTATION
+                                                                        VIENNA TO MCLEAN TO ARLINGTON
+                                                                        STAFF TRANSPORTATION
+                                                                        VIENNA TO FREDERICKSBURG AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        ARLINGTON TO FREDERICKSBURG TO VIENNA
+                                                                        STAFF TRANSPORTATION
+                                                                        ARLINGTON TO FALLS CHURCH TO VIENNA
+                                                                        STAFF PER DIEM
+                                                                        STAFF TRANSPORTATION
+                                                                        VIENNA TO NORFOLK, VIRGINIA BEACH, RICHMOND AND RETURN
+

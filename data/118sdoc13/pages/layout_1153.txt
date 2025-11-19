@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+DERN20240343       POSTED     EMILY ANN GAARD COVEY                        DATES
+                                                                                        STAFF INCIDENTALS                                                              $164.60
+                  04/02/2024                                    START       END         STAFF PER DIEM                                                              $1,297.97
+                                                                                        STAFF TRANSPORTATION
+                                                                03/10/2024  03/14/2024  DES MOINES TO WASHINGTON DC, ALEXANDRIA VA , DES MOINES TO                     $147.34
+                                                                                        ALTOONA
+DERN20240345      04/11/2024  MICHELE A BECK                    01/16/2024  01/16/2024  STAFF TRANSPORTATION                                                           $117.92   B-1135
+DERN20240346      04/09/2024  MICHELE A BECK                    01/24/2024  01/24/2024  DAVENPORT TO BURLINGTON AND RETURN                                               $54.94
+DERN20240347      04/12/2024  MICHELE A BECK                    01/25/2024  01/25/2024  STAFF TRANSPORTATION
+DERN20240348      04/09/2024  MICHELE A BECK                    01/30/2024  01/30/2024  DAVENPORT TO CLINTON AND RETURN                                                $117.92
+DERN20240349      04/09/2024  MICHELE A BECK                    02/01/2024  02/01/2024  STAFF TRANSPORTATION                                                             $54.94
+DERN20240350      04/09/2024  MICHELE A BECK                    02/08/2024  02/08/2024  DAVENPORT TO BURLINGTON AND RETURN                                               $96.48
+DERN20240351      04/09/2024  MICHELE A BECK                    02/13/2024  02/13/2024  STAFF TRANSPORTATION                                                             $76.38
+DERN20240352      04/11/2024  MICHELE A BECK                    02/14/2024  02/14/2024  DAVENPORT TO CLINTON AND RETURN                                                  $54.94
+DERN20240353      04/12/2024  MICHELE A BECK                    02/22/2024  02/22/2024  STAFF TRANSPORTATION
+DERN20240354      04/09/2024  MICHELE A BECK                    02/26/2024  02/26/2024  DAVENPORT TO WAPELLO, MUSCATINE, LETTS AND RETURN                              $134.67
+DERN20240355      04/12/2024  MICHELE A BECK                    02/27/2024  02/27/2024  STAFF TRANSPORTATION                                                           $117.92
+DERN20240356      04/09/2024  MICHELE A BECK                    03/05/2024  03/05/2024  DAVENPORT TO COLUMBUS JUNCTION AND RETURN
+DERN20240357      04/09/2024  MICHELE A BECK                    03/12/2024  03/12/2024  STAFF TRANSPORTATION                                                             $54.94
+DERN20240358      04/12/2024  MICHELE A BECK                    03/14/2024  03/14/2024  DAVENPORT TO ELDRIDGE, CLINTON AND RETURN                                      $165.49
+DERN20240359      04/12/2024  MICHELE A BECK                    03/08/2024  03/08/2024  STAFF TRANSPORTATION
+DERN20240360      04/12/2024  MICHELE A BECK                    03/07/2024  03/07/2024  DAVENPORT TO DANVILLE, MEDIAPOLIS, WEST BURLINGTON AND RETURN                    $44.22
+DERN20240361      04/09/2024  MICHELE A BECK                    01/20/2024  01/20/2024  STAFF TRANSPORTATION                                                             $44.22
+DERN20240362      04/18/2024  BRENDA RHEA SAFRANSKI             03/19/2024  03/19/2024  DAVENPORT TO BURLINGTON AND RETURN                                             $119.26
+DERN20240363      04/10/2024  KOLBY RYAN DEWITT                 03/20/2024  03/20/2024  STAFF TRANSPORTATION                                                           $183.58
+                                                                                        DAVENPORT TO CLINTON AND RETURN                                                $180.90
+DERN20240364      04/09/2024  KOLBY RYAN DEWITT                 03/21/2024  03/21/2024  STAFF TRANSPORTATION                                                             $79.06
+DERN20240365      04/09/2024  KIMBERLY A REEM                   03/22/2024  03/22/2024  DAVENPORT TO FORT MADISON, KEOKUK AND RETURN                                   $160.80
+DERN20240366      04/12/2024  JUSTIN L JENSEN                   03/19/2024  03/19/2024  STAFF TRANSPORTATION                                                             $19.06
+                                                                                        DAVENPORT TO MUSCATINE AND RETURN                                                $79.73
+                                                                                        STAFF TRANSPORTATION                                                             $80.40
+                                                                                        DAVENPORT TO MUSCATINE AND RETURN                                                $41.07
+                                                                                        STAFF TRANSPORTATION                                                             $10.90
+                                                                                        DAVENPORT TO WASHINGTON, KALONA AND RETURN                                     $108.54
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DAVENPORT TO OTTUMWA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DAVENPORT TO KEOSAUQUA, BURLINGTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DAVENPORT TO IOWA CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DES MOINES TO MASON CITY AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SIOUX CITY TO ROCK VALLEY, LE MARS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SIOUX CITY TO SHELDON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CEDAR RAPIDS TO IOWA CITY AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+

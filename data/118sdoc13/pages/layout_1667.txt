@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME        OBLIGATION/SERVICE                                                    DESCRIPTION               AMOUNT ($)
+                  POSTED                                   DATES
+DLEE20240359                                                            SALT LAKE CITY TO BRIGHAM CITY AND RETURN                                                 $92.35
+DLEE20240360                                    START       END         STAFF TRANSPORTATION
+DLEE20240361                                                            SALT LAKE CITY TO THE FOLLOWING AND RETURN: 10/11 SANDY; 10/12, 20,                       $15.57
+DLEE20240362      06/11/2024  EMILY T WISCOMBE  10/11/2023  12/20/2023  26, 30, 12/20 INTERDEPARTMENTAL TRANSPORTATION; OREM TO THE                               $53.60
+DLEE20240363                                                            FOLLOWING AND RETURN: 10/19, 11/8, 9 PROVO; 11/10 IN AND AROUND                           $22.11
+DLEE20240364      06/11/2024  EMILY T WISCOMBE  01/05/2024  01/05/2024  STAFF PER DIEM
+DLEE20240365      06/11/2024  EMILY T WISCOMBE  01/08/2024  01/24/2024  STAFF TRANSPORTATION                                                                      $15.57
+DLEE20240366      06/11/2024  EMILY T WISCOMBE  02/02/2024  02/02/2024  SALT LAKE CITY TO OGDEN AND RETURN                                                        $53.60
+DLEE20240367      06/11/2024  EMILY T WISCOMBE  02/05/2024  03/21/2024  STAFF TRANSPORTATION                                                                      $64.32
+DLEE20240369                                                            1/8, 18 OREM TO PROVO AND RETURN; 1/24 SALT LAKE CITY OFFICE:
+DLEE20240370      06/11/2024  EMILY T WISCOMBE  03/29/2024  03/29/2024  INTERDEPARTMENTAL TRANSPORTATION                                                          $33.50  B-1630
+DLEE20240371      06/11/2024  EMILY T WISCOMBE  04/05/2024  04/05/2024  STAFF PER DIEM                                                                            $15.57
+DLEE20240372      06/11/2024  EMILY T WISCOMBE  04/18/2024  04/25/2024  STAFF TRANSPORTATION                                                                      $53.60
+DLEE20240373      06/11/2024  EMILY T WISCOMBE  05/03/2024  05/03/2024  SALT LAKE CITY TO OGDEN AND RETURN                                                        $24.79
+DLEE20240374      06/13/2024  JOEL V BROWN      05/04/2024  05/10/2024  STAFF TRANSPORTATION
+                                                                        OREM TO THE FOLLOWING AND RETURN: 2/5, 20, 22, 3/11, 21 PROVO; 2/15 IN                    $15.57
+                  06/15/2024  DANIEL A HAUSER   03/04/2024  03/07/2024  AND AROUND; 2/8, 3/15,19, 20 SALT LAKE CITY OFFICE:                                       $53.60
+                                                                        INTERDEPARTMENTAL TRANSPORTATION                                                        $276.60
+                  06/13/2024  JOEL V BROWN      06/03/2024  06/04/2024  STAFF TRANSPORTATION                                                                 $2,100.16
+                                                                        SALT LAKE CITY TO LAYTON AND RETURN                                                     $885.28
+                  06/18/2024  DANIEL A HAUSER   06/03/2024  06/06/2024  STAFF PER DIEM                                                                          $279.76
+                                                                        STAFF TRANSPORTATION                                                                 $1,348.00
+                  06/24/2024  ROBERT J ANTHONY  06/04/2024  06/07/2024  SALT LAKE CITY TO OGDEN AND RETURN                                                   $1,906.20
+                                                                        STAFF TRANSPORTATION                                                                      $21.93
+                  06/13/2024  GARY S. WEBSTER   06/07/2024  06/07/2024  4/18 OREM TO PROVO AND RETURN; 4/25 SALT LAKE CITY TO MURRAY AND                        $182.14
+                                                                        RETURN                                                                                    $82.41
+                                                                        STAFF PER DIEM                                                                          $248.92
+                                                                        STAFF TRANSPORTATION                                                                    $774.00
+                                                                        SALT LAKE CITY TO OGDEN AND RETURN                                                   $1,326.95
+                                                                        STAFF INCIDENTALS                                                                         $70.71
+                                                                        STAFF PER DIEM                                                                          $504.24
+                                                                        STAFF TRANSPORTATION                                                                 $1,070.13
+                                                                        VERNAL TO WASHINGTON DC AND RETURN                                                        $74.50
+                                                                        STAFF INCIDENTALS
+                                                                        STAFF PER DIEM
+                                                                        STAFF TRANSPORTATION
+                                                                        SALT LAKE CITY TO WASHINGTON DC AND RETURN
+                                                                        STAFF INCIDENTALS
+                                                                        STAFF PER DIEM
+                                                                        STAFF TRANSPORTATION
+                                                                        VERNAL TO PRICE AND RETURN
+                                                                        STAFF INCIDENTALS
+                                                                        STAFF PER DIEM
+                                                                        STAFF TRANSPORTATION
+                                                                        SALT LAKE CITY TO WASHINGTON DC AND RETURN
+                                                                        STAFF INCIDENTALS
+                                                                        STAFF PER DIEM
+                                                                        STAFF TRANSPORTATION
+                                                                        WASHINGTON DC TO SALT LAKE CITY AND RETURN
+                                                                        STAFF TRANSPORTATION
+                                                                        ST GEORGE TO CEDAR CITY AND RETURN
+

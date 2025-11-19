@@ -1,0 +1,56 @@
+DOCUMENT NO.    DATE      PAYEE NAME                      OBLIGATION/SERVICE      DESCRIPTION                                                               AMOUNT ($)
+              POSTED                                                 DATES
+                                                                                                                                                                            $202.12
+                                                          START       END                                                                                                   $172.89
+
+DHLP20240100  05/28/2024  WESLEY L MCENANY                04/19/2024                        STAFF PER DIEM                                                                    $79.84
+                                                                                            STAFF TRANSPORTATION                                                            $557.36
+DHLP20240103  05/28/2024  MANUEL I CONTRERAS              05/15/2024                        WASHINGTON DC TO BIRMINGHAM AL AND RETURN                                       $599.85
+DHLP20240121  07/23/2024  CITIBANK - TRAVEL CBA CARD      07/10/2024   04/21/2024 STAFF INCIDENTALS
+                                                                                            STAFF PER DIEM                                                                    $31.99
+DHLP20240127  07/29/2024  CITIBANK - TRAVEL CBA CARD      07/10/2024                        STAFF TRANSPORTATION
+DHLP20240129  07/31/2024  TY M BOFFERDING                 06/26/2024                        WASHINGTON DC TO CHICAGO IL, ROSEMONT IL, CHICAGO AND RETURN                      $30.00
+                                                                       05/15/2024 STAFF TRANSPORTATION                                                                      $258.21
+DHLP20240135  08/20/2024  CITIBANK - TRAVEL CBA CARD      08/05/2024                        INTERDEPARTMENTAL TRANSPORTATION                                                          B-2-110
+              09/04/2024  MARGARITA A ALMANZA                          07/11/2024 TICKET FEES                                                                               $291.03
+DHLP20240136                                              08/05/2024                        WITNESS TRANSPORTATION
+              09/20/2024  CITIBANK - TRAVEL CBA CARD                                        AIRFARE FOR A WARD CHICAGO IL TO WASHINGTON DC AND RETURN                         $68.01
+DHLP20240141                                              08/26/2024   07/11/2024 WITNESS PER DIEM                                                                          $386.64
+                                                                                            PER DIEM FOR A WARD CHICAGO IL TO WASHINGTON DC AND RETURN
+0002855922                                                05/01/2024   06/27/2024 STAFF INCIDENTALS                                                                           $43.62
+0002857280                                                06/01/2024                        STAFF PER DIEM
+DHLP20240073                                              03/12/2024                        STAFF TRANSPORTATION                                                         $1,041.20
+DHLP20240074                                              03/07/2024                        WASHINGTON DC TO BOSTON MA, CAMBRIDGE MA, BOSTON MA AND                           $30.00
+DHLP20240084                                              04/03/2024                        RETURN
+DHLP20240085                                              03/14/2024   08/09/2024 STAFF TRANSPORTATION                                                                      $197.67
+DHLP20240097                                              05/02/2024                        TICKET FEES                                                                  $1,038.64
+DHLP20240100                                              04/19/2024                        AIRFARE FOR M ALMANZA WASHINGTON DC TO BOZEMAN MT AND RETURN
+DHLP20240108                                              05/21/2024   08/09/2024 STAFF INCIDENTALS                                                                         $260.00
+DHLP20240109                                              05/22/2024                        STAFF PER DIEM
+DHLP20240115                                              06/12/2024                        STAFF TRANSPORTATION                                                            $207.10
+DHLP20240116                                              06/12/2024                        WASHINGTON DC TO BOZEMAN MT, BIG SKY MT, BOZEMAN MT AND RETURN                    $30.00
+DHLP20240117                                              06/04/2024   08/26/2024 STAFF TRANSPORTATION
+DHLP20240118                                              05/23/2024                        TICKET FEES                                                                  $8,606.55
+DHLP20240119                                              02/08/2024                        AIRFARE FOR B BILLIOT WASHINGTON DC TO KENNER LA
+DHLP20240120                                              04/03/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                                    $27.00
+DHLP20240124                                              07/09/2024                                                                                                          $27.00
+DHLP20240125  06/27/2024  SERGEANT AT ARMS                07/11/2024  05/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                            $432.00
+              08/07/2024  SERGEANT AT ARMS                            06/30/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                            $693.00
+              04/02/2024  TRUSTPOINT INTERNATIONAL, LLC               03/12/2024  STENOGRAPHIC SERVICES                                                                     $468.00
+              04/02/2024  TRUSTPOINT INTERNATIONAL, LLC               03/07/2024  STENOGRAPHIC SERVICES                                                                     $594.00
+              04/23/2024  HARDEMAN REALTIME INC                       04/03/2024  INTERPRETING SERVICES                                                                     $765.00
+              04/22/2024  TRUSTPOINT COURT REPORTING LLC              03/14/2024  STENOGRAPHIC SERVICES                                                                     $185.00
+              05/24/2024  TRUSTPOINT COURT REPORTING LLC              05/02/2024  STENOGRAPHIC SERVICES                                                                     $486.00
+              05/28/2024  WESLEY L MCENANY                            04/21/2024  TRAIN/ORIENT/CONFERENCE FEES                                                              $513.00
+              06/07/2024  TRUSTPOINT COURT REPORTING LLC              05/21/2024  STENOGRAPHIC SERVICES                                                                     $882.00
+              06/07/2024  TRUSTPOINT COURT REPORTING LLC              05/22/2024  STENOGRAPHIC SERVICES                                                                     $531.00
+              07/01/2024  TRUSTPOINT COURT REPORTING LLC              06/12/2024  STENOGRAPHIC SERVICES                                                                  $2,400.00
+              07/01/2024  TRUSTPOINT COURT REPORTING LLC              06/12/2024  STENOGRAPHIC SERVICES                                                                     $936.00
+              06/28/2024  TRUSTPOINT COURT REPORTING LLC              06/04/2024  INTERPRETING SERVICES                                                                     $315.00
+                                                                                  STENOGRAPHIC SERVICES                                                                  $1,404.00
+              07/01/2024  TRUSTPOINT COURT REPORTING LLC              05/23/2024  STENOGRAPHIC SERVICES                                                                     $612.00
+              06/28/2024  TRUSTPOINT COURT REPORTING LLC              02/08/2024  STENOGRAPHIC SERVICES                                                                     $594.00
+              07/01/2024  TRUSTPOINT COURT REPORTING LLC              04/03/2024  STENOGRAPHIC SERVICES                                                                     $810.00
+              07/29/2024  TRUSTPOINT COURT REPORTING LLC              07/09/2024  STENOGRAPHIC SERVICES
+              07/29/2024  TRUSTPOINT COURT REPORTING LLC              07/11/2024  STENOGRAPHIC SERVICES
+

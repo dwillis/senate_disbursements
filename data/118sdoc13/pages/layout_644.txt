@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                          DATES
+DBOO20240351                                                                   AIRFARE FOR SEN BOOZMAN FAYETTEVILLE TO WASHINGTON DC                            $65.52
+DBOO20240355                                           START       END         STAFF TRANSPORTATION                                                             $26.57
+DBOO20240356                                                                   JONESBORO TO BLYTHEVILLE AND RETURN                                              $57.68
+DBOO20240357      05/06/2024  JOSHUA WILLIAM MULLINAX  04/24/2024  04/24/2024  STAFF PER DIEM                                                                   $24.80
+DBOO20240358      05/07/2024  HANNAH MARIE HENDERSON   04/10/2024  04/10/2024  STAFF TRANSPORTATION                                                           $476.19
+DBOO20240360                                                                   ROGERS TO EUREKA SPRINGS TO LOWELL
+DBOO20240361      05/07/2024  HANNAH MARIE HENDERSON   04/11/2024  04/11/2024  STAFF TRANSPORTATION                                                           $149.76
+DBOO20240362      05/13/2024  CHASE A EMERSON          04/24/2024  04/25/2024  LOWELL TO BENTONVILLE TO ROGERS                                                  $97.11
+DBOO20240363      05/13/2024  CHASE A EMERSON                                  STAFF TRANSPORTATION
+DBOO20240364      05/07/2024  JESSICA LAUREN SOLLEY    04/29/2024  04/29/2024  EL DORADO TO THE FOLLOWING AND RETURN: 4/24 FORT SMITH; 4/25                   $186.03
+                  05/13/2024  JESSICA LAUREN SOLLEY    04/18/2024  04/18/2024  LITTLE ROCK                                                                      $46.83
+DBOO20240365      05/13/2024  BRIAN ROHAUER            04/25/2024  04/25/2024  STAFF TRANSPORTATION
+DBOO20240366                                           04/21/2024  04/22/2024  EL DORADO TO HOT SPRINGS AND RETURN                                            $288.99
+DBOO20240367      05/13/2024  BRIAN ROHAUER                                    STAFF TRANSPORTATION                                                             $15.20
+                                                       04/29/2024  04/29/2024  FORT SMITH TO ROGERS AND RETURN                                                          B-626
+DBOO20240368      05/14/2024  BOOZMAN,JOHN                                     STAFF TRANSPORTATION                                                           $180.76
+DBOO20240369                                           04/24/2024  04/29/2024  FORT SMITH TO LITTLE ROCK AND RETURN                                             $25.40
+                                                                               STAFF PER DIEM                                                                   $23.40
+DBOO20240370      05/13/2024  HANNAH MARIE HENDERSON   04/16/2024  04/16/2024  STAFF TRANSPORTATION
+                  05/13/2024  HANNAH MARIE HENDERSON   04/17/2024  04/17/2024  LITTLE ROCK TO FAYETTEVILLE AND RETURN                                            $8.65
+DBOO20240371      05/20/2024  SARA K LASURE            05/02/2024  05/03/2024  STAFF PER DIEM                                                                   $12.87
+                                                                               STAFF TRANSPORTATION                                                             $16.06
+DBOO20240373      05/15/2024  CHASE A EMERSON          05/03/2024  05/03/2024  LITTLE ROCK TO FORT SMITH AND RETURN                                           $151.86
+                  05/17/2024  JOSHUA WILLIAM MULLINAX  05/02/2024  05/03/2024  SENATOR PER DIEM                                                                 $21.16
+                                                                               SENATOR TRANSPORTATION                                                         $146.25
+                  05/17/2024  CHASE A EMERSON          05/01/2024  05/02/2024  WASHINGTON DC TO BENTONVILLE, ROGERS, LITTLE ROCK, ROGERS,                       $16.06
+                                                                               BENTONVILLE AND RETURN                                                         $122.49
+                  05/17/2024  BOOZMAN,JOHN             05/02/2024  05/06/2024  STAFF TRANSPORTATION                                                           $243.55
+                                                                               LOWELL TO ELM SPRINGS AND RETURN                                                 $14.65
+                  05/15/2024  MATTHEW T MYERS          05/01/2024  05/01/2024  STAFF TRANSPORTATION                                                           $141.80
+                                                                               LOWELL TO BENTONVILLE AND RETURN                                               $363.87
+                                                                               STAFF INCIDENTALS                                                                $16.06
+                                                                               STAFF PER DIEM                                                                 $121.03
+                                                                               STAFF TRANSPORTATION                                                             $11.70
+                                                                               WASHINGTON DC TO LITTLE ROCK AND RETURN                                          $11.04
+                                                                               STAFF TRANSPORTATION
+                                                                               EL DORADO TO LITTLE ROCK AND RETURN
+                                                                               STAFF INCIDENTALS
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               JONESBORO TO WYNNE, LITTLE ROCK AND RETURN
+                                                                               STAFF INCIDENTALS
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               EL DORADO TO HARRISON, MOUNTAIN HOME AND RETURN
+                                                                               SENATOR INCIDENTALS
+                                                                               SENATOR PER DIEM
+                                                                               SENATOR TRANSPORTATION
+                                                                               WASHINGTON DC TO LITTLE ROCK, ROGERS, FAYETTEVILLE AND RETURN
+                                                                               STAFF PER DIEM
+

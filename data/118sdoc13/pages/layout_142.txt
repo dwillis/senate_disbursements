@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE                        PAYEE NAME  OBLIGATION/SERVICE                                                DESCRIPTION  AMOUNT ($)
+              POSTED                                               DATES
+                      KELLEY, VALERIE LYNN                                  CAPITOL TELEPHONE EXCHANGE OPERATOR                                    $38,691.89
+                      WILLIAMS-BEY, JANEL               START  END          CAPITOL TELEPHONE EXCHANGE OPERATOR                                    $37,080.56
+                      BEIGLARBEIGI, MARIA ELIZABETH                         CAPITOL TELEPHONE EXCHANGE OPERATOR                                    $36,655.79
+                      KWON, YONGKU                                          SENIOR NETWORK OPERATIONS SPECIALIST                                   $76,068.96  B-124
+                      MURRAY, MICHELE                                       SENIOR NETWORK OPERATIONS SPECIALIST                                   $80,845.44
+                      COLEMAN, ANTAUN N                                     SENIOR NETWORK OPERATIONS SPECIALIST                                   $69,264.53
+                      TAYLOR, REGINA L                                      NETWORK SUPPORT SPECIALIST                                             $64,447.71
+                      NOWAK, THADDEUS J                                     SENIOR NETWORK OPERATIONS SPECIALIST                                   $80,845.44
+                      NEWMAN, KENNETH A                                     SENIOR IT MANAGER                                                      $95,203.75
+                      JOHNSON, JENNELL L                                    PRINCIPAL NETWORK OPERATIONS SPECIALIST                                $84,280.44
+                      CRAFT, BRIAN F                                        PRINCIPAL NETWORK OPERATIONS SPECIALIST                                $86,135.81
+                      MAYES, JONA ELLEN                                     NETWORK OPERATIONS SPECIALIST                                          $66,186.00
+                      BING, BONITA F                                        NETWORK OPERATIONS SPECIALIST                                          $71,625.96
+                      MOTEN, YVETTE M                                       NETWORK SUPPORT SPECIALIST                                             $69,190.44
+                      LOBO, EDWARD                                          PRINCIPAL NETWORK OPERATIONS SPECIALIST                                $86,135.81
+                      GRAY, TROY                                            SENIOR NETWORK OPERATIONS SPECIALIST                                   $72,099.73
+                      MOOSE, ERNEST F                                       NETWORK ENGINEER                                                       $13,222.67
+                      HAMBRIGHT, ROBERT G                                   SENIOR IT MANAGER                                                      $95,411.82
+                      KELLEY, MICHAEL K                                     PRINCIPAL NETWORK ENGINEER                                             $86,227.21
+                      SNODGRASS, DANIEL E                                   PRINCIPAL NETWORK ENGINEER                                             $88,647.49
+                      HSIAO, DANIEL Y                                       SENIOR NETWORK ENGINEER                                                $66,230.72
+                      KARELIA, CHAITANYA D                                  PRINCIPAL NETWORK ENGINEER                                             $72,763.87
+                      PRICE, DENNIS M                                       TECHNOLOGY SOLUTIONS ARCHITECT FROM APR. 1                             $83,531.27
+                      ROBERTS, CHARLES D                                    NETWORK SPECIALIST                                                     $63,438.71
+                      NOVAK, DANIEL L JR                                    NETWORK SPECIALIST FROM JUN. 16                                        $35,000.00
+                      NGONG, JEAN RICHARD DT                                NETWORK ENGINEER                                                       $68,369.83
+                      CHARLES, MARY D                                       SENIOR IT MANAGER                                                      $95,791.54
+                      SAFAEI, AFSHIN                                        SENIOR TECHNOLOGY CONTRACT ANALYST                                     $84,584.67
+                      TSHISHIMBI, MULUMBA M                                 SENIOR TECHNOLOGY CONTRACT ANALYST                                     $81,652.35
+                      GIORDANO, SANTO                                       TECHNOLOGY CONTRACT ANALYST                                            $80,897.29
+                      GOLLERY, GEORGE                                       TECHNOLOGY CONTRACT ANALYST                                            $81,155.77
+                      MEEHAN, JOHN S                                        PRINCIPAL SOFTWARE ENGINEER                                            $88,525.88
+                      WILLIS, MELISSA S                                     SOFTWARE ENGINEER FROM APR. 1                                          $58,695.17
+                      CONTILLO, MICHAEL P                                   SENIOR IT MANAGER TO AUG. 19                                           $76,115.20
+                      DO, MARIE N                                           SOFTWARE ENGINEER                                                      $74,708.46
+                      LIN, WEINING                                          PRINCIPAL SOFTWARE ENGINEER TO SEP. 25                                 $86,955.57
+                      KHAN, ABDUL R                                         SENIOR SOFTWARE ENGINEER                                               $80,898.26
+                      HOBSON, STACEY M                                      SOFTWARE ENGINEER                                                      $66,867.47
+                      HARDEN, STEVEN D                                      SENIOR SOFTWARE ENGINEER                                               $80,382.26
+                      SUNKARA, PRASANNA K                                   PRINCIPAL SOFTWARE ENGINEER                                            $87,368.80
+                      BUKOSKI, MONICA M                                     SENIOR SOFTWARE ENGINEER                                               $80,640.26
+                      TREFZGER, CHERYLL O                                   PRINCIPAL SOFTWARE ENGINEER TO SEP. 20                                 $84,020.61
+                      HO, LI-WEN W                                          PRINCIPAL SOFTWARE ENGINEER                                            $89,426.13
+                      MBADUGHA, OBINNA HENRY                                SENIOR SOFTWARE ENGINEER                                               $77,988.28
+                      YEDULLA, NANDINI                                      SENIOR SOFTWARE ENGINEER                                               $77,825.16
+                      MIKEAL, LAUREN M                                      SENIOR SOFTWARE ENGINEER                                               $80,031.77
+                      STONG, SHANNON K                                      SENIOR IT MANAGER                                                      $95,203.75
+                      KUHN, JAMES C                                         PRINCIPAL SOFTWARE ENGINEER                                            $88,244.38
+                      MATTESON, GLENN W                                     SENIOR SOFTWARE ENGINEER                                               $85,949.17
+                      ALLEN, GORDON L                                       PRINCIPAL SYSTEMS ENGINEER                                             $88,251.50
+

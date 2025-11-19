@@ -1,0 +1,50 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION            AMOUNT ($)
+                  POSTED                                             DATES
+DBLU20240431                                                                      HARTFORD TO NEW HAVEN AND RETURN                                                        $6.03
+DBLU20240432                                              START       END         STAFF TRANSPORTATION                                                                   $25.46
+DBLU20240433                                                                      HARTFORD TO SOUTH GLASTONBURY AND RETURN                                               $57.62
+DBLU20240435      09/10/2024  KEYRI V AMBROCIO            08/15/2024  08/15/2024  STAFF TRANSPORTATION                                                                 $568.95
+                  09/10/2024  KEYRI V AMBROCIO            08/16/2024  08/16/2024  HARTFORD TO NEW HAVEN AND RETURN                                                       $30.00
+DBLU20240436      09/09/2024  KEYRI V AMBROCIO            08/19/2024  08/19/2024  STAFF TRANSPORTATION
+DBLU20240437      09/11/2024  CITIBANK - TRAVEL CBA CARD  08/19/2024  08/21/2024  HARTFORD TO NEW HAVEN, NEWTOWN AND RETURN                                              $68.34
+DBLU20240438                                                                      STAFF TRANSPORTATION                                                                   $53.60
+DBLU20240439      09/09/2024  KATHLEEN G MCWILLIAMS       08/28/2024  08/28/2024  TICKET FEES                                                                            $46.90
+DBLU20240441      09/09/2024  KATHLEEN G MCWILLIAMS       08/27/2024  08/27/2024  AIRFARE FOR C BARNES WASHINGTON DC TO WINDSOR LOCKS AND                                $63.65
+                  09/09/2024  KEYRI V AMBROCIO            08/28/2024  08/28/2024  RETURN                                                                               $202.34
+DBLU20240442      09/09/2024  KATHLEEN G MCWILLIAMS       08/30/2024  08/30/2024  STAFF TRANSPORTATION
+DBLU20240443      09/16/2024  ELLEN M GRAHAM              08/05/2024  08/26/2024  HARTFORD TO OXFORD AND RETURN                                                          $67.67
+                                                                                  STAFF TRANSPORTATION
+                  09/13/2024  JOHN BAIROS                 07/16/2024  07/17/2024  HARTFORD TO SOUTHBURY AND RETURN                                                       $39.90  B-595
+                  09/04/2024  CALEB E BARNES              08/19/2024  08/21/2024  STAFF TRANSPORTATION                                                                 $428.36
+                                                                                  HARTFORD TO MIDDLEBURY AND RETURN                                                    $227.88
+DBLU20240444      09/09/2024  KATHLEEN G MCWILLIAMS       09/06/2024  09/06/2024  STAFF TRANSPORTATION
+DBLU20240446      09/24/2024  JOHN BAIROS                 07/18/2024  07/31/2024  HARTFORD TO SOUTHBURY AND RETURN                                                       $61.64
+                                                                                  STAFF TRANSPORTATION                                                                 $207.03
+DBLU20240448      09/24/2024  KEVIN T MULLANE             03/01/2024  03/18/2024  8/5 HARTFORD TO BALTIC AND RETURN; 8/7 HARTFORD TO WEST
+DBLU20240449      09/24/2024  KEVIN T MULLANE             03/23/2024  03/29/2024  HARTFORD TO MERIDEN; 8/15 MERIDEN TO MADISON TO HARTFORD; 8/26                       $804.00
+DBLU20240452      09/26/2024  KEVIN T MULLANE             04/01/2024  04/20/2024  MERIDEN TO MYSTIC AND RETURN                                                         $402.00
+DBLU20240453      09/26/2024  KEVIN T MULLANE             04/22/2024  04/29/2024  STAFF TRANSPORTATION                                                                 $804.00
+DBLU20240454      09/27/2024  JOHN BAIROS                 08/02/2024  09/03/2024  WATERFORD TO THE FOLLOWING AND RETURN TO HARTFORD: 7/16 ROCKY                        $482.40
+                                                                                  HILL; 7/17 SOUTH GLASTONBURY                                                         $345.72
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  STERLING VA TO WASHINGTON DC, HARTFORD, BRIDGEPORT, HARTFORD,
+                                                                                  WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  HARTFORD TO NEW HAVEN AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WATERFORD TO THE FOLLOWING AND RETURN: 7/18 STRATFORD,
+                                                                                  NEWTOWN; 7/31 MARLBOROUGH, WILLIMANTIC; HARTFORD TO THE
+                                                                                  FOLLOWING AND RETURN: 7/22 NORWICH; 7/24 INTERDEPARTMENTAL
+                                                                                  TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  3/1, 2, 4, 5, 8, 9, 11, 15, 16, 18 BRANFORD TO GREENWICH AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  3/23, 24, 25, 27, 29 BRANFORD TO GREENWICH AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  4/1, 2, 3, 5, 6, 8, 12, 13, 15, 20 BRANFORD TO GREENWICH AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  4/22, 24, 25, 27, 28, 29 BRANFORD TO GREENWICH AND RETURN
+                                                                                  STAFF TRANSPORTATION
+

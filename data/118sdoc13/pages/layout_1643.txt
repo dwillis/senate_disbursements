@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DLNK20241130                  QUINTON BRIER GRAY                                        STAFF TRANSPORTATION                                                             $33.50
+DLNK20241131      09/11/2024  QUINTON BRIER GRAY                START       END         TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $28.14
+DLNK20241132      09/11/2024  QUINTON BRIER GRAY                                        STAFF TRANSPORTATION                                                             $21.44
+DLNK20241133      09/11/2024  QUINTON BRIER GRAY                07/09/2024  07/09/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $12.06
+DLNK20241134      09/11/2024  QUINTON BRIER GRAY                                        STAFF TRANSPORTATION                                                             $18.76
+DLNK20241135      09/11/2024  QUINTON BRIER GRAY                07/10/2024  07/10/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $26.80
+DLNK20241136      09/11/2024  QUINTON BRIER GRAY                                        STAFF TRANSPORTATION                                                             $18.76
+DLNK20241137      09/11/2024  QUINTON BRIER GRAY                07/11/2024  07/11/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $14.74
+DLNK20241138      09/11/2024  QUINTON BRIER GRAY                                        STAFF TRANSPORTATION                                                             $26.80
+DLNK20241139      09/11/2024  SARAH MARGARET SHARUM             07/12/2024  07/12/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $18.47
+DLNK20241140      09/11/2024  MACKENZIE J SAVALA                                        STAFF TRANSPORTATION                                                             $13.91
+                  09/20/2024                                    07/15/2024  07/15/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $109.36
+                                                                                        STAFF TRANSPORTATION                                                             $24.64
+                                                                07/16/2024  07/16/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION                                                             $86.43
+                                                                07/17/2024  07/17/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $62.31
+                                                                                        STAFF TRANSPORTATION                                                             $54.37
+                                                                07/18/2024  07/18/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $17.42
+                                                                                        STAFF PER DIEM                                                                   $32.16
+                                                                07/19/2024  07/19/2024  TULSA TO OKLAHOMA CITY AND RETURN                                                $25.46
+                                                                                        STAFF INCIDENTALS                                                                $15.41
+                                                                08/23/2024  08/23/2024  STAFF PER DIEM                                                                   $26.80
+                                                                                        STAFF TRANSPORTATION                                                             $33.50
+                                                                08/22/2024  08/23/2024  TULSA TO SAPULPA, TAHLEQUAH, OKMULGEE, OKLAHOMA CITY, SAPULPA                    $24.79  B-1606
+                                                                                        AND RETURN                                                                       $34.84
+DLNK20241141      09/11/2024  MACKENZIE J SAVALA                08/19/2024  08/19/2024  STAFF TRANSPORTATION                                                             $14.74
+DLNK20241142      09/11/2024  MACKENZIE J SAVALA                08/21/2024  08/21/2024  TULSA TO CHANDLER AND RETURN                                                     $25.46
+DLNK20241143      09/12/2024  QUINTON BRIER GRAY                08/21/2024  08/21/2024  STAFF TRANSPORTATION
+DLNK20241144      09/11/2024  QUINTON BRIER GRAY                08/01/2024  08/01/2024  TULSA TO PRYOR AND RETURN
+DLNK20241145      09/11/2024  QUINTON BRIER GRAY                08/02/2024  08/02/2024  STAFF TRANSPORTATION
+DLNK20241146      09/11/2024  QUINTON BRIER GRAY                08/06/2024  08/06/2024  TULSA TO OKLAHOMA CITY, BROKEN ARROW AND RETURN
+DLNK20241147      09/11/2024  QUINTON BRIER GRAY                08/09/2024  08/09/2024  STAFF TRANSPORTATION
+DLNK20241148      09/11/2024  QUINTON BRIER GRAY                08/12/2024  08/12/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DLNK20241149      09/11/2024  QUINTON BRIER GRAY                08/13/2024  08/13/2024  STAFF TRANSPORTATION
+DLNK20241150      09/11/2024  QUINTON BRIER GRAY                08/15/2024  08/15/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DLNK20241151      09/11/2024  QUINTON BRIER GRAY                08/16/2024  08/16/2024  STAFF TRANSPORTATION
+DLNK20241152      09/11/2024  QUINTON BRIER GRAY                08/19/2024  08/19/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DLNK20241153      09/11/2024  QUINTON BRIER GRAY                08/23/2024  08/23/2024  STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+

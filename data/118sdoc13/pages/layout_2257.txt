@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                              DATES
+DSCM20240512                                                                       SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $5.89
+DSCM20240513                                               START       END         STAFF TRANSPORTATION                                                          $2.62
+DSCM20240517                                                                       SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $9.30
+DSCM20240520      04/05/2024  JORDAN T JOBES               03/21/2024  03/21/2024  STAFF TRANSPORTATION                                                         $64.78  B-2220
+DSCM20240521      04/05/2024  JORDAN T JOBES               03/27/2024  03/27/2024  SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $122.48
+DSCM20240522      04/09/2024  GEORGE PETER KNAPP           03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                       $181.43
+DSCM20240525      04/11/2024  MICHAEL E USSERY             04/02/2024  04/02/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $22.13
+DSCM20240526      04/16/2024  MORGAN S CORDER              04/02/2024  04/02/2024  STAFF TRANSPORTATION                                                          $9.30
+DSCM20240527      04/16/2024  JORDAN T JOBES               04/02/2024  04/02/2024  SPRINGFIELD TO BRANSON, OZARK AND RETURN                                      $9.30
+DSCM20240529      04/11/2024  MICHAEL E USSERY             04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                         $38.32
+                  04/11/2024  GEORGE PETER KNAPP           04/04/2024  04/04/2024  COLUMBIA TO ROLLA AND RETURN                                               $258.00
+DSCM20240530      04/11/2024  GEORGE PETER KNAPP           04/03/2024  04/03/2024  STAFF TRANSPORTATION                                                       $291.10
+                  04/22/2024  ASHLEY DAWN MORETTI SCHULTE  04/01/2024  04/03/2024  SPRINGFIELD TO JEFFERSON CITY AND RETURN                                      $9.08
+DSCM20240531                                                                       STAFF TRANSPORTATION                                                       $134.07
+DSCM20240532      04/18/2024  MICHAEL E USSERY             04/08/2024  04/08/2024  SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $75.98
+DSCM20240533                                                                       STAFF TRANSPORTATION                                                         $17.68
+DSCM20240534      04/12/2024  CHRISTOPHER LYNN WALKER      03/26/2024  03/26/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $45.19
+DSCM20240535      04/12/2024  CHRISTOPHER LYNN WALKER      03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                         $58.29
+DSCM20240536      04/12/2024  CHRISTOPHER LYNN WALKER      04/05/2024  04/05/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $74.01
+DSCM20240537      04/12/2024  CHRISTOPHER LYNN WALKER      04/04/2024  04/04/2024  STAFF INCIDENTALS                                                            $27.64
+DSCM20240538      04/12/2024  CHRISTOPHER LYNN WALKER      04/03/2024  04/03/2024  STAFF PER DIEM                                                               $21.61
+DSCM20240539      04/12/2024  GEORGE PETER KNAPP           04/08/2024  04/08/2024  STAFF TRANSPORTATION                                                         $51.74
+DSCM20240540      04/12/2024  CHRISTOPHER LYNN WALKER      04/02/2024  04/02/2024  KANSAS CITY TO JEFFERSON CITY AND RETURN                                   $138.86
+DSCM20240541      04/12/2024  CHRISTOPHER LYNN WALKER      03/28/2024  03/28/2024  STAFF PER DIEM                                                             $191.10
+DSCM20240543      04/18/2024  MORGAN S CORDER              04/08/2024  04/08/2024  STAFF TRANSPORTATION                                                         $48.14
+                  04/22/2024  ERIC S SCHMITT               04/08/2024  04/08/2024  SPRINGFIELD TO LICKING, HOUSTON, CABOOL AND RETURN                      $1,400.39
+                  04/19/2024  MICHAEL E USSERY             04/10/2024  04/10/2024  STAFF TRANSPORTATION
+                  04/26/2024  ANDREW C DZIEDZIC            03/26/2024  04/05/2024  ST LOUIS TO WARRENTON AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ST LOUIS TO MOSCOW MILLS, TROY AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ST LOUIS TO CLAYTON, CHESTERFIELD, MANCHESTER AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   COLUMBIA TO CLARKSVILLE AND RETURN
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   SAINT LOUIS TO WASHINGTON DC
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SPRINGFIELD TO STRAFFORD, MARSHFIELD, NIANGUA AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC TO KANSAS CITY AND RETURN
+

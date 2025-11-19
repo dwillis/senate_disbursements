@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                   POSTED                                                  DATES
+DMKY20240431                  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                        $48.10
+DMKY20240432      09/12/2024  CITIBANK - TRAVEL CBA CARD        START       END         AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC                                $94.21
+DMKY20240433      09/19/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                          $46.10
+DMKY20240434      09/12/2024  CITIBANK - TRAVEL CBA CARD        02/25/2024  02/25/2024  AIRFARE FOR A COHEN WASHINGTON DC TO BOSTON AND RETURN                        $48.10
+DMKY20240467      09/12/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                        $45.90
+DMKY20240468      09/23/2024  CITIBANK - TRAVEL CBA CARD        03/14/2024  03/16/2024  AIRFARE FOR SEN MARKEY WASHINGTON DC TO BOSTON                                $93.81
+DMKY20240469      09/26/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                        $93.81
+DMKY20240471      09/26/2024  CITIBANK - TRAVEL CBA CARD        03/26/2024  03/26/2024  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC                              $294.09
+DMKY20240472      09/23/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                        $328.70
+DMKY20240475      09/23/2024  CITIBANK - TRAVEL CBA CARD        04/07/2024  04/07/2024  AIRFARE FOR G FERNANDES BOSTON TO WASHINGTON DC                               $46.10
+DMKY20240479      09/22/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                          $96.10
+DMKY20240480      09/26/2024  CITIBANK - TRAVEL CBA CARD        11/28/2023  11/28/2023  AIRFARE FOR G BARRY WASHINGTON DC TO BOSTON AND RETURN                        $46.10
+DMKY20240481      09/26/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                          $46.10
+DMKY20240482      09/26/2024  CITIBANK - TRAVEL CBA CARD        11/26/2023  11/28/2023  AIRFARE FOR E CHIPPS WASHINGTON DC TO BOSTON AND RETURN                       $46.10
+DMKY20240483      09/26/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                        $96.21
+DMKY20240484      09/26/2024  CITIBANK - TRAVEL CBA CARD        11/27/2023  11/28/2023  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC                                $94.21
+DMKY20240486      09/26/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                        $48.10
+DMKY20240487      09/26/2024  CITIBANK - TRAVEL CBA CARD        01/15/2024  01/15/2024  AIRFARE FOR SEN MARKEY WASHINGTON DC TO BOSTON                                $94.21
+DMKY20240488      09/26/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                        $94.21
+DMKY20240490      09/26/2024  CITIBANK - TRAVEL CBA CARD        03/01/2024  03/01/2024  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC                                $94.21
+DMKY20240491      09/26/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                        $96.21
+DMKY20240492      09/26/2024  CITIBANK - TRAVEL CBA CARD        09/14/2024  09/14/2024  AIRFARE FOR SEN MARKEY WASHINGTON DC TO BOSTON                                $48.10
+DMKY20240493      09/26/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                        $96.21
+DMKY20240494      09/26/2024  CITIBANK - TRAVEL CBA CARD        09/19/2024  09/19/2024  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC                                $92.21  B-1717
+DMKY20240496      09/26/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                        $92.21
+                  09/26/2024                                    09/21/2024  09/21/2024  AIRFARE FOR SEN MARKEY WASHINGTON DC TO BOSTON
+                                                                                        SENATOR TRANSPORTATION
+                                                                09/12/2024  09/12/2024  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                09/06/2024  09/06/2024  AIRFARE FOR S BERK WASHINGTON DC TO BOSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                03/27/2024  03/28/2024  AIRFARE FOR T WILSON WASHINGTON DC TO BOSTON AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                03/26/2024  03/28/2024  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                03/30/2024  03/30/2024  AIRFARE FOR A GOLDRING WASHINGTON DC TO BOSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/02/2024  04/04/2024  AIRFARE FOR G BARRY WASHINGTON DC TO BOSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/12/2024  04/14/2024  AIRFARE FOR G FERNANDES WASHINGTON DC TO BOSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/02/2024  04/06/2024  AIRFARE FOR E NEYLAND WASHINGTON DC TO BOSTON AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                04/05/2024  04/06/2024  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                04/13/2024  04/13/2024  AIRFARE FOR A COHEN WASHINGTON DC TO BOSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/10/2024  05/12/2024  AIRFARE FOR A COHEN WASHINGTON DC TO BOSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                06/06/2024  06/07/2024  AIRFARE FOR M MASSIWER WASHINGTON DC TO BOSTON AND RETURN
+
+                                                                05/30/2024  05/30/2024
+

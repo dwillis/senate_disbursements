@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                      DATES
+DTES20240383                                                               BOZEMAN TO HELENA AND RETURN                                                 $54.00
+DTES20240384                                       START       END         STAFF PER DIEM                                                               $67.93
+                                                                           STAFF TRANSPORTATION
+DTES20240387      07/10/2024  ARTHUR SCOTT PETTIT  06/26/2024  06/26/2024  MISSOULA TO SEELEY LAKE AND RETURN                                           $19.00
+DTES20240390      07/15/2024  PETER R MATT                                 STAFF INCIDENTALS                                                          $303.05
+DTES20240391                                       06/25/2024  06/26/2024  STAFF PER DIEM                                                             $349.70
+DTES20240392                                                               STAFF TRANSPORTATION
+DTES20240393      07/17/2024  EMILY G HALE         06/26/2024  06/28/2024  MISSOULA TO BILLINGS AND RETURN                                            $289.42   B-2410
+DTES20240394                                                               STAFF PER DIEM                                                             $377.88
+                  07/22/2024  JESSE R ANDERSON     05/28/2024  05/29/2024  STAFF TRANSPORTATION
+DTES20240397      07/18/2024  TESTER,JON           06/20/2024  07/08/2024  BILLINGS TO GLASGOW AND RETURN                                             $544.04
+DTES20240398      07/18/2024  KATHLEEN MARIE HAHN  06/22/2024  06/22/2024  STAFF TRANSPORTATION
+DTES20240399      07/17/2024  SHIVA-NANDAN ARENS   07/08/2024  07/08/2024  HELENA TO MILES CITY AND RETURN                                         $1,035.24
+DTES20240400      07/22/2024  PAMELA R HAXBY-COTE  06/23/2024  06/24/2024  SENATOR TRANSPORTATION
+                                                                           WASHINGTON DC TO GREAT FALLS AND RETURN                                    $164.82
+DTES20240402      07/20/2024  CHERYL M ULMER       06/20/2024  06/20/2024  STAFF TRANSPORTATION
+DTES20240403      07/20/2024  CHERYL M ULMER       06/28/2024  06/28/2024  POTOMAC TO THOMPSON FALLS AND RETURN                                         $16.75
+DTES20240404      07/20/2024  CHERYL M ULMER       07/09/2024  07/09/2024  STAFF TRANSPORTATION
+                  07/23/2024  SHIVA-NANDAN ARENS   07/10/2024  07/11/2024  MISSOULA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $25.35
+DTES20240405                                                               STAFF INCIDENTALS                                                          $339.22
+DTES20240407      07/23/2024  ARTHUR SCOTT PETTIT  06/20/2024  06/20/2024  STAFF PER DIEM                                                             $120.61
+DTES20240408      07/23/2024  ARTHUR SCOTT PETTIT  07/02/2024  07/02/2024  STAFF TRANSPORTATION
+                  07/23/2024  KATHLEEN MARIE HAHN  06/25/2024  06/28/2024  BUTTE TO BOZEMAN AND RETURN                                                $134.67
+                                                                           STAFF TRANSPORTATION
+                  07/23/2024  KATHLEEN MARIE HAHN  07/13/2024  07/13/2024  GREAT FALLS TO MALTA AND RETURN                                            $107.87
+                  07/24/2024  CHAD L CAMPBELL      06/28/2024  06/28/2024  STAFF TRANSPORTATION
+                                                                           GREAT FALLS TO BABB AND RETURN                                             $134.67
+                  07/23/2024  SHIVA-NANDAN ARENS   07/16/2024  07/16/2024  STAFF TRANSPORTATION
+                                                                           GREAT FALLS TO MALTA AND RETURN                                              $16.94
+                                                                           STAFF INCIDENTALS                                                          $268.61
+                                                                           STAFF PER DIEM                                                             $163.30
+                                                                           STAFF TRANSPORTATION
+                                                                           MISSOULA TO HELENA AND RETURN                                                $25.00
+                                                                           STAFF INCIDENTALS                                                            $20.68
+                                                                           STAFF PER DIEM
+                                                                           MISSOULA TO SEELEY LAKE AND RETURN                                           $39.50
+                                                                           STAFF PER DIEM                                                               $77.72
+                                                                           STAFF TRANSPORTATION
+                                                                           MISSOULA TO SUPERIOR AND RETURN                                              $31.68
+                                                                           STAFF INCIDENTALS                                                          $444.07
+                                                                           STAFF PER DIEM                                                             $817.75
+                                                                           STAFF TRANSPORTATION
+                                                                           MISSOULA TO GLASGOW AND RETURN                                             $161.47
+                                                                           STAFF TRANSPORTATION
+                                                                           POTOMAC TO SULA AND RETURN                                                   $32.29
+                                                                           STAFF PER DIEM                                                             $125.36
+                                                                           STAFF TRANSPORTATION
+                                                                           KALISPELL TO POLSON AND RETURN                                                $9.78
+                                                                           STAFF PER DIEM                                                               $75.38
+                                                                           STAFF TRANSPORTATION
+

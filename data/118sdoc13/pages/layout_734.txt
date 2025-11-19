@@ -1,0 +1,58 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE      DESCRIPTION                                       AMOUNT ($)
+                   POSTED                                                  DATES
+DBRN20241211                  ERICA N KRAUSE                                                                                                                $36.18
+                  09/27/2024  ERICA N KRAUSE                    START       END
+DBRN20241213      09/27/2024  ERICA N KRAUSE                                                                                                                 $9.31
+                  09/27/2024  ERICA N KRAUSE                    09/11/2024   09/11/2024 STAFF TRANSPORTATION
+DBRN20241214      09/27/2024  ERICA N KRAUSE                                                      TOLEDO TO GIBSONBURG AND RETURN                            $4.95
+                  09/27/2024  ERICA N KRAUSE                    09/16/2024
+DBRN20241215      09/27/2024  ERICA N KRAUSE                                 09/16/2024 STAFF TRANSPORTATION                                                $87.10
+                  09/27/2024  ANTHONY L ELIOPOULOS              09/18/2024                        TOLEDO TO ROSSFORD AND RETURN
+DBRN20241216      09/27/2024  JORDAN T PENNELL                                                                                                              $24.52
+                  09/27/2024  EMMA MARIE SPEYER                 09/19/2024   09/18/2024 STAFF TRANSPORTATION
+DBRN20241217      09/30/2024                                                                      IN AND AROUND TOLEDO                                      $95.03
+                                                                09/20/2024
+DBRN20241218                                                                 09/19/2024 STAFF TRANSPORTATION                                                $22.44  B-716
+                                                                09/23/2024                        TOLEDO TO BRYAN, WAUSEON AND RETURN
+DBRN20241220                                                                                                                                                $85.02
+                                                                09/24/2024   09/20/2024 STAFF TRANSPORTATION
+DBRN20241223                                                                                      IN AND AROUND TOLEDO                                      $66.33
+                                                                09/24/2024
+DBRN20241226                                                                 09/23/2024 STAFF TRANSPORTATION                                                $30.82
+                                                                09/25/2024                        TOLEDO TO OAK HARBOR, MILAN AND RETURN
+0002852525                                                                                                                                          $112,156.94
+0002853710                                                      09/24/2024   09/24/2024 STAFF TRANSPORTATION                                              $177.55
+0002854414                                                                                        IN AND AROUND TOLEDO                                    $106.00
+0002855909                                                      02/01/2024                                                                                  $95.00
+0002857260                                                      03/01/2024   09/24/2024 STAFF TRANSPORTATION                                              $261.80
+0002858833                                                      04/01/2024                        COLUMBUS TO JACKSON, ATHENS AND RETURN                    $56.30
+0002859852                                                      05/01/2024                                                                                $126.85
+DBRN20240459                                                    06/01/2024   09/25/2024 STAFF TRANSPORTATION                                                $10.50
+DBRN20240542                                                    07/01/2024                        YOUNGSTOWN TO KENT AND RETURN                             $14.95
+DBRN20240574                                                    08/01/2024
+DBRN20240646                                                    03/15/2024   09/24/2024 STAFF TRANSPORTATION                                           $6,500.00
+DBRN20241206                                                    04/03/2024                        COLUMBUS TO NEW ALBANY AND RETURN                       $114.16
+                                                                04/11/2024                                                                                  $36.38
+DBRN20240576                                                    04/16/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                            $35.00
+DBRN20240729                                                    09/11/2024
+DBRN20241221      04/18/2024  SERGEANT AT ARMS                              02/29/2024  FEDERAL AUDIO, VISUAL RECORDNG                                 $7,534.49
+                  05/14/2024  SERGEANT AT ARMS                  02/16/2024  03/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                      $24.98
+                  05/23/2024  SERGEANT AT ARMS                  05/01/2024  04/30/2024  FEDERAL AUDIO, VISUAL RECORDNG                                      $11.39
+                  06/27/2024  SERGEANT AT ARMS                  09/20/2024  05/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                      $25.33
+                  08/07/2024  SERGEANT AT ARMS                              06/30/2024  FEDERAL AUDIO, VISUAL RECORDNG                                      $61.70
+                  09/13/2024  SERGEANT AT ARMS                              07/31/2024  FEDERAL AUDIO, VISUAL RECORDNG
+                  09/25/2024  SERGEANT AT ARMS                              08/31/2024  FEDERAL AUDIO, VISUAL RECORDNG
+                  04/04/2024  CITIBANK - PURCHASE CARD                      03/15/2024  FRAMING SERVICES
+                              CONGRESSIONAL MANAGEMENT
+                  04/26/2024  FOUNDATION                                    04/03/2024 TRAIN/ORIENT/CONFERENCE FEES
+                              CITIBANK - PURCHASE CARD
+                  05/03/2024  ERICA N KRAUSE                                 04/11/2024 FRAMING SERVICES
+                  05/14/2024  JOSEPH MICHAEL GILLIGAN                        04/16/2024 TRAIN/ORIENT/CONFERENCE FEES
+                  09/26/2024                                                 09/11/2024 TRAIN/ORIENT/CONFERENCE FEES
+                              CITIBANK - PURCHASE CARD                      OTHER CONTRACTUAL SERVICES
+                  04/26/2024  CITIBANK - PURCHASE CARD
+                  06/05/2024  CITIBANK - PURCHASE CARD                       02/16/2024 VOICE & DATA COMM EQUIPMENT
+                  09/26/2024                                                 05/01/2024 VOICE & DATA COMM EQUIPMENT
+                                                                             09/20/2024 VOICE & DATA COMM EQUIPMENT
+                                                                            ACQUISITION OF ASSETS
+

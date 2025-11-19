@@ -1,0 +1,58 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME     OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                              DATES
+DSAA24M53844       POSTED     CITIBANK - PURCHASE CARD                                     SOFTWARE LICENSE                                                           $195.00
+DSAA24M53847                  CITIBANK - PURCHASE CARD             START       END         SOFTWARE LICENSE                                                           $167.50
+DSAA24M53887      09/10/2024  CITIBANK - PURCHASE CARD                                     AUDIO, VISUAL EQUIPMENT                                                    $284.94
+DSAA24M53898      09/11/2024  CITIBANK - PURCHASE CARD             08/22/2024  08/22/2024  VOICE & DATA COMM EQUIPMENT                                                $378.00
+DSAA24M53934      09/12/2024  CITIBANK - PURCHASE CARD             08/21/2024  08/21/2024  VOICE & DATA COMM EQUIPMENT                                             $4,045.00
+DSAA24M54003      09/13/2024  CITIBANK - PURCHASE CARD             08/27/2024  08/27/2024  VOICE & DATA COMM EQUIPMENT                                             $1,199.99
+DSAA24M54011      09/14/2024  CITIBANK - PURCHASE CARD             08/07/2024  08/08/2024  AUDIO, VISUAL EQUIPMENT                                                    $370.20
+DSAA24M54046      09/17/2024  CITIBANK - PURCHASE CARD             08/01/2024  08/01/2024  IT EQUIPMENT
+DSAA24M54074      09/17/2024  CITIBANK - PURCHASE CARD             08/22/2024  08/22/2024  SOFTWARE LICENSE                                                             $54.33
+DSAA24M54102      09/15/2024  CITIBANK - PURCHASE CARD             08/07/2024  08/07/2024  FURNISHINGS                                                                $259.00
+DSAA24M54107      09/17/2024  CITIBANK - PURCHASE CARD             08/26/2024  08/29/2024  VOICE & DATA COMM EQUIPMENT                                             $1,782.16
+DSAA24M54113      09/20/2024  CITIBANK - PURCHASE CARD             09/02/2024  09/02/2024  AUDIO, VISUAL EQUIPMENT                                                    $239.99
+DSAA24M54129      09/24/2024  CITIBANK - PURCHASE CARD             08/20/2024  08/30/2024  SOFTWARE LICENSE                                                           $389.97
+DSAA24M54134      09/18/2024  CITIBANK - PURCHASE CARD             09/11/2024  09/11/2024  VOICE & DATA COMM EQUIPMENT                                             $1,183.00
+DSAA24M54168      09/20/2024  CITIBANK - PURCHASE CARD             08/16/2024  08/16/2024  FURNISHINGS                                                                $599.00
+                  09/24/2024                                       09/11/2024  09/11/2024  SOFTWARE LICENSE                                                           $900.77
+DSAA24M54181      09/24/2024  CITIBANK - PURCHASE CARD             08/14/2024  08/14/2024  SOFTWARE LICENSE                                                           $910.00
+DSAA24M54200                  CITIBANK - PURCHASE CARD             09/13/2024  09/13/2024  VOICE & DATA COMM EQUIPMENT                                                $149.00
+TDEP202400398     09/25/2024  FINANCIAL CLERK US SENATE                                    VOICE & DATA COMM EQUIPMENT                                                $199.99
+TDEP202400453     09/24/2024  FINANCIAL CLERK US SENATE            09/13/2024  09/13/2024  IT EQUIPMENT                                                           -$3,726.00    B-448
+TDEP202400527     04/15/2024  FINANCIAL CLERK US SENATE            09/16/2024  09/16/2024  VOICE & DATA COMM EQUIPMENT                                            -$8,745.00
+TDEP202400529     05/09/2024  FINANCIAL CLERK US SENATE            04/15/2024  04/15/2024  VOICE & DATA COMM EQUIPMENT                                           -$22,430.75
+TDEP202400742     06/10/2024  FINANCIAL CLERK US SENATE            05/08/2024  05/08/2024  VOICE & DATA COMM EQUIPMENT                                               -$150.00
+TDEP202400742A    06/10/2024  FINANCIAL CLERK US SENATE            06/10/2024  06/10/2024  VOICE & DATA COMM EQUIPMENT                                            -$1,151.66
+TDEP202400747     07/15/2024  FINANCIAL CLERK US SENATE            06/10/2024  06/10/2024  VOICE & DATA COMM EQUIPMENT                                               -$800.91
+TDEP202400748     07/15/2024  FINANCIAL CLERK US SENATE            07/15/2024  07/15/2024  VOICE & DATA COMM EQUIPMENT                                            -$5,216.73
+TDEP202400802     07/15/2024  FINANCIAL CLERK US SENATE            07/15/2024  07/15/2024  VOICE & DATA COMM EQUIPMENT                                            -$2,484.00
+TDEP202400847     07/15/2024  FINANCIAL CLERK US SENATE            07/15/2024  07/15/2024  VOICE & DATA COMM EQUIPMENT                                               -$162.50
+TDEP202400848     09/17/2024  FINANCIAL CLERK US SENATE            07/15/2024  07/15/2024  VOICE & DATA COMM EQUIPMENT                                            -$3,105.00
+TDEP202400850     08/30/2024  FINANCIAL CLERK US SENATE            09/17/2024  09/17/2024  VOICE & DATA COMM EQUIPMENT                                           -$16,820.00
+TDEP202400851     08/30/2024  FINANCIAL CLERK US SENATE            08/29/2024  08/29/2024  VOICE & DATA COMM EQUIPMENT                                            -$6,293.00
+TDEP202400871     08/30/2024  FINANCIAL CLERK US SENATE            08/29/2024  08/29/2024  FURNISHINGS                                                               -$250.00
+TDEP202400908     08/30/2024  FINANCIAL CLERK US SENATE            08/29/2024  08/29/2024  FURNISHINGS                                                               -$560.00
+VSAA22402740      09/27/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC   08/29/2024  08/29/2024  SOFTWARE LICENSE                                                          -$840.00
+VSAA22403677      09/16/2024  CREATIVENGINE CORPORATION            09/27/2024  09/27/2024  SOFTWARE LICENSE                                                     $121,260.58
+VSAA22403831      06/13/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC   09/16/2024  09/16/2024  VOICE & DATA COMM EQUIPMENT                                            $14,000.00
+VSAA22403845      04/09/2024  ECOLINE INDUSTRIAL SUPPLY INC        05/24/2024  05/24/2024  CARPETING                                                            $280,086.28
+VSAA22404047      04/04/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC   01/01/2024  01/31/2024  VOICE & DATA COMM EQUIPMENT                                             $2,993.03
+VSAA22404065      04/08/2024  SHUTTERSTOCK INC                     02/22/2024  02/22/2024  SOFTWARE LICENSE                                                           $215.94
+VSAA22404106      04/09/2024  MASLAND CARPETS                      03/11/2024  03/11/2024  CARPETING                                                               $5,000.00
+                  04/16/2024  KNIGHTSBRIDGE INTERIORS,             02/15/2024  02/15/2024                                                                             $721.81
+VSAA22404127      04/12/2024  INCORPORATED                         03/12/2024  03/12/2024  WINDOW TREATMENTS
+                              CARAHSOFT TECHNOLOGY CORPORATION     02/22/2024  02/22/2024                                                                          $2,775.00
+VSAA22404164      05/02/2024  RTK FLOORING                                                 SOFTWARE LICENSE
+VSAA22404187                  RTK FLOORING                         10/11/2023  10/11/2023  CARPETING                                                               $3,098.67
+VSAA22404188      04/08/2024  CARAHSOFT TECHNOLOGY CORPORATION                             CARPETING                                                               $3,392.50
+VSAA22404189      04/05/2024  GENERAL DYNAMICS INFORMATION TECH    03/07/2024  01/09/2025  SOFTWARE LICENSE
+                  04/08/2024  INC                                  03/12/2024  03/12/2024                                                                             $751.00
+VSAA22404222      04/02/2024  45PRESS INC                          03/08/2024  03/11/2024  VOICE & DATA COMM EQUIPMENT                                            $20,599.08
+                              DALET DIGITAL MEDIA SYSTEMS USA INC  02/01/2024  02/29/2024
+VSAA22404246      04/08/2024                                                               SOFTWARE CUSTOM DEVELOPED                                              $91,970.45
+VSAA22404292                                                       01/27/2024  02/23/2024  SOFTWARE LICENSE
+                  04/02/2024                                                                                                                                       $6,110.00
+                  04/10/2024                                       12/07/2023  12/07/2023                                                                       $138,492.63
+                                                                   03/14/2024  03/14/2024
+

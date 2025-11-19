@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                   POSTED                                                  DATES
+DGRL20240398                  CAROL D OLSON                                             STAFF PER DIEM                                                                 $12.62
+DGRL20240400      04/23/2024  RONALD J RANDAZZO                 START       END         STAFF TRANSPORTATION                                                         $183.58
+DGRL20240401                  MATTHEW C RECTOR                                          DES MOINES TO FOREST CITY AND RETURN                                         $115.91
+                  04/29/2024                                    04/03/2024  04/03/2024  STAFF TRANSPORTATION
+DGRL20240402      05/07/2024                                                            DES MOINES TO CENTERVILLE AND RETURN                                            $9.90
+DGRL20240403                                                    04/11/2024  04/11/2024  STAFF PER DIEM                                                               $148.81
+DGRL20240404                                                    04/07/2024  04/09/2024  STAFF TRANSPORTATION
+DGRL20240405                                                                            WATERLOO TO CLEAR LAKE, WATERLOO, CEDAR RAPIDS, MARION, LA                   $135.54
+DGRL20240406      04/30/2024  MATTHEW C RECTOR                  04/11/2024  04/11/2024  PORTE CITY AND RETURN                                                          $10.72  B-1253
+DGRL20240407      04/30/2024  AMBER NOELLE WESTERBERG           04/10/2024  04/10/2024  STAFF TRANSPORTATION
+DGRL20240408                                                                            WATERLOO TO AMES AND RETURN                                                  $146.36
+DGRL20240409      04/26/2024  ROCHELLE A FULLER                 04/15/2024  04/15/2024  STAFF PER DIEM                                                                 $61.03
+DGRL20240410      04/26/2024  JACOB I BOSSMAN                   04/06/2024  04/07/2024  STAFF TRANSPORTATION                                                           $18.76
+DGRL20240411      04/30/2024  ROCHELLE A FULLER                 04/16/2024  04/16/2024  SIOUX CITY TO DES MOINES TO CEDAR RAPIDS                                       $11.54
+DGRL20240412                                                                            STAFF TRANSPORTATION                                                           $95.81
+DGRL20240413      04/26/2024  ROCHELLE A FULLER                 04/12/2024  04/12/2024  SOLON TO ANAMOSA, WALKER TO CEDAR RAPIDS                                       $54.94
+DGRL20240416      05/02/2024  CAROL D OLSON                     04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                           $12.73
+DGRL20240417      04/30/2024  PENNY VACEK                       04/05/2024  04/05/2024  SIOUX CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DGRL20240418                                                                            STAFF PER DIEM                                                               $200.33
+DGRL20240421      04/30/2024  PENNY VACEK                       04/15/2024  04/15/2024  STAFF TRANSPORTATION
+                                                                                        SOLON TO TAMA, OXFORD AND RETURN                                             $154.77
+DGRL20240422      04/30/2024  PENNY VACEK                       04/16/2024  04/16/2024  STAFF TRANSPORTATION
+                  04/30/2024  PENNY VACEK                       04/17/2024  04/17/2024  CEDAR RAPIDS TO WASHINGTON AND RETURN                                        $172.19
+                  04/30/2024  NOAH A SCHRAD                     04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                         $119.93
+                                                                                        DES MOINES TO ANKENY AND RETURN
+                  05/07/2024  ROCHELLE A FULLER                 04/18/2024  04/19/2024  STAFF TRANSPORTATION                                                           $13.78
+                  05/01/2024  MATTHEW C RECTOR                  04/17/2024  04/17/2024  DAVENPORT TO DE WITT, MAQUOKETA, NEW HARTFORD TO OXFORD                      $146.73
+                  05/02/2024  JENNIFER HEINS DAVIS              04/08/2024  04/18/2024  JUNCTION                                                                     $128.55
+                  05/08/2024  GRASSLEY,CHARLES E                04/20/2024  04/23/2024  STAFF TRANSPORTATION                                                         $107.40
+                                                                                        OXFORD JUNCTION TO WILTON, COLUMBUS JUNCTION, DANVILLE,                      $634.98
+                  05/07/2024  MATTHEW C RECTOR                  04/19/2024  04/20/2024  BURLINGTON AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                           $62.99
+                                                                                        OXFORD JUNCTION TO FAIRFIELD AND RETURN                                      $322.20
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OXFORD JUNCTION TO MAQUOKETA, WAPELLO, MUSCATINE AND RETURN                    $63.64
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        GRIMES TO CHARITON, CORYDON, CENTERVILLE, ALBIA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CEDAR RAPIDS TO DUBUQUE, FARLEY, CEDAR RAPIDS TO SOLON
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DENVER TO CHARLES CITY, MASON CITY TO WATERLOO
+                                                                                        STAFF TRANSPORTATION
+                                                                                        DES MOINES TO WASHINGTON DC AND RETURN
+                                                                                        SENATOR PER DIEM
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO DES MOINES, NEW HARTFORD, CEDAR FALLS, NEW
+                                                                                        HARTFORD, DES MOINES AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WATERLOO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

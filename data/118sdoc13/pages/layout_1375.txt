@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                              DATES
+DHEI20240314                                                                       ALBUQUERQUE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $17.08
+DHEI20240315                                               START       END         STAFF TRANSPORTATION                                                         $79.06
+DHEI20240317                                                                       ALBUQUERQUE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $162.14
+DHEI20240318      05/15/2024  EDWARD A TABET-CUBERO        05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                       $262.64
+DHEI20240319      05/15/2024  EDWARD A TABET-CUBERO        05/06/2024  05/06/2024  RIO RANCHO TO BERNALILLO AND RETURN                                          $62.08
+                  05/21/2024  JAMES J DUMONT               05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                       $466.59
+DHEI20240320      05/21/2024  JASMINE K YEPA               05/03/2024  05/03/2024  FARMINGTON TO GALLUP AND RETURN                                              $79.43
+DHEI20240321      05/21/2024  RUSSELL M PAGE               04/25/2024  04/28/2024  STAFF TRANSPORTATION                                                         $38.86
+DHEI20240322                                                                       JEMEZ PUEBLO TO ZUNI AND RETURN
+DHEI20240323      05/22/2024  CRYSTAL M ROMERO             05/03/2024  05/03/2024  STAFF INCIDENTALS                                                             $8.04  B-1357
+DHEI20240324      05/22/2024  CRYSTAL M ROMERO             05/10/2024  05/10/2024  STAFF PER DIEM                                                             $630.98
+DHEI20240325      05/23/2024  CITIBANK - SENATOR IBA CARD  05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                       $326.60
+DHEI20240326      05/24/2024  CITIBANK - SENATOR IBA CARD  05/14/2024  05/14/2024  WASHINGTON DC TO ALBUQUERQUE AND RETURN
+DHEI20240327      05/23/2024  SYLVIA D ULLOA               04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                         $50.92
+DHEI20240328      05/23/2024  SYLVIA D ULLOA               05/13/2024  05/13/2024  ALBUQUERQUE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $5.36
+DHEI20240329      05/23/2024  SYLVIA D ULLOA               04/18/2024  04/18/2024  STAFF TRANSPORTATION                                                          $8.04
+DHEI20240330      05/23/2024  SYLVIA D ULLOA               04/26/2024  04/26/2024  ALBUQUERQUE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DHEI20240331      05/23/2024  NICOLE R LARRANAGA           05/10/2024  05/10/2024  SENATOR TRANSPORTATION                                                       $16.08
+DHEI20240333      05/23/2024  SYLVIA D ULLOA               05/08/2024  05/08/2024  AIRFARE FOR SEN HEINRICH WASHINGTON DC TO ALBUQUERQUE                         $9.31
+                  05/24/2024  CITIBANK - SENATOR IBA CARD  05/07/2024  05/07/2024  SENATOR TRANSPORTATION
+DHEI20240334      05/23/2024  EDWARD A TABET-CUBERO        05/14/2024  05/14/2024  AIRFARE FOR SEN HEINRICH ALBUQUERQUE TO WASHINGTON DC                        $60.30
+                  05/31/2024  DIANA HAZEL VENTURA          05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                       $280.60
+DHEI20240335                                                                       LAS CRUCES TO CHAPARRAL AND RETURN
+DHEI20240336      05/31/2024  DIANA HAZEL VENTURA          05/16/2024  05/16/2024  STAFF TRANSPORTATION                                                         $69.68
+DHEI20240337                                                                       LAS CRUCES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $19.72
+DHEI20240338      05/25/2024  JASON W JARVIS               04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                       $113.40
+                  05/25/2024  JASON W JARVIS               04/09/2024  04/09/2024  LAS CRUCES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $32.57
+                  05/25/2024  JASON W JARVIS               04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                       $118.23
+                  05/25/2024  JASON W JARVIS               04/26/2024  04/26/2024  LAS CRUCES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $93.46
+                                                                                   STAFF TRANSPORTATION                                                         $26.13
+                                                                                   ALBUQUERQUE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $26.13
+                                                                                   STAFF TRANSPORTATION                                                         $26.13
+                                                                                   LAS CRUCES TO SANTA TERESA AND RETURN
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN HEINRICH ALBUQUERQUE TO WASHINGTON DC
+                                                                                   STAFF TRANSPORTATION
+                                                                                   RIO RANCHO TO BELEN AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ROSWELL TO ELIDA, CLOVIS AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ROSWELL TO ELIDA, CLOVIS AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ALBUQUERQUE TO SANTA FE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ALBUQUERQUE TO BELEN AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ALBUQUERQUE TO BELEN AND RETURN
+                                                                                   STAFF TRANSPORTATION
+

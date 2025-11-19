@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DCRM20240511                  SANDRA R FEARING                                          STAFF TRANSPORTATION                                                            $146.73
+DCRM20240512      06/11/2024  REID D KEMP                       START       END         WILLISTON TO KENMARE AND RETURN                                                   $21.57
+DCRM20240513      06/10/2024                                                            STAFF PER DIEM
+DCRM20240514                  MICHAEL J KELSCH                  05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                            $107.87
+DCRM20240515      06/10/2024  RANDY J RICHARDS                                          FARGO TO GRAND FORKS AND RETURN                                                 $129.31
+DCRM20240517      06/10/2024                                    05/23/2024  05/23/2024  STAFF TRANSPORTATION
+DCRM20240518                  RANDY J RICHARDS                                          FARGO TO JAMESTOWN AND RETURN                                                      $7.72
+DCRM20240519      06/10/2024                                    05/28/2024  05/28/2024  STAFF PER DIEM                                                                  $117.38
+DCRM20240520                  RANDY J RICHARDS                  05/27/2024  05/27/2024  STAFF TRANSPORTATION
+DCRM20240521      06/13/2024                                                            GRAND FORKS TO FARGO AND RETURN                                                   $16.50
+DCRM20240522                  MICHAEL J KELSCH                  05/28/2024  05/28/2024  STAFF PER DIEM                                                                  $120.19
+DCRM20240523      06/10/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION
+DCRM20240524      06/10/2024  CITIBANK - TRAVEL CBA CARD        05/30/2024  05/30/2024  GRAND FORKS TO FARGO AND RETURN                                                   $13.34
+DCRM20240525      06/15/2024  CITIBANK - TRAVEL CBA CARD                                STAFF PER DIEM                                                                    $33.29
+DCRM20240526                  CITIBANK - TRAVEL CBA CARD        05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                            $268.67   B-1005
+DCRM20240527      06/10/2024  KAITLYN MARIE WEIDERT             05/10/2024  05/12/2024  GRAND FORKS TO FARGO AND RETURN                                                 $222.29
+DCRM20240528      06/11/2024                                    05/20/2024  05/21/2024  STAFF TRANSPORTATION                                                            $116.64
+DCRM20240529      06/10/2024  CITIBANK - TRAVEL CBA CARD                                FARGO TO BISMARCK AND RETURN
+                              CITIBANK - TRAVEL CBA CARD        05/23/2024  05/27/2024  STAFF TRANSPORTATION                                                            $306.86
+DCRM20240530      06/11/2024  CITIBANK - TRAVEL CBA CARD        05/24/2024  05/24/2024  RENTAL AUTO FOR L FETZER IN AND AROUND GRAND FORKS                              $797.60
+                  06/11/2024  CITIBANK - TRAVEL CBA CARD        05/30/2024  05/30/2024  STAFF TRANSPORTATION
+DCRM20240531      06/10/2024  MICHAEL J KELSCH                                          RENTAL AUTO FOR M BELZER BISMARCK TO MOHALL, MINOT, BURLINGTON                    $13.87
+                  06/11/2024  COLBY JESS KUHNS                  05/23/2024  05/23/2024  AND RETURN                                                                      $156.11
+                  06/11/2024                                    05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                            $631.60
+                  06/13/2024                                    05/27/2024  05/27/2024  RENTAL AUTO FOR L FETZER IN AND AROUND WILLISTON                                $608.60
+                                                                05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                            $394.60
+                                                                06/01/2024  06/02/2024  AIRFARE FOR R BUENING WASHINGTON DC TO GRAND FORKS                           $1,039.60
+                                                                05/30/2024  06/01/2024  STAFF PER DIEM                                                                  $265.99
+                                                                                        STAFF TRANSPORTATION
+                  06/11/2024  RACHEL N BUENING                  05/24/2024  06/02/2024  MINOT TO BISMARCK TO DES LACS                                                     $44.10
+                                                                                        SENATOR TRANSPORTATION                                                          $537.41
+                  06/11/2024  CRAMER,KEVIN J                    05/23/2024  06/03/2024  AIRFARE FOR SEN CRAMER WASHINGTON DC TO BISMARCK
+                                                                                        STAFF TRANSPORTATION                                                              $95.46
+                                                                                        AIRFARE FOR L FETZER WASHINGTON DC TO WILLISTON                                   $42.80
+                                                                                        STAFF TRANSPORTATION                                                            $122.89
+                                                                                        AIRFARE FOR L FETZER WILLISTON TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION                                                              $20.89
+                                                                                        AIRFARE FOR C KUHNS WASHINGTON DC TO FARGO                                      $273.77
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FARGO TO BISMARCK AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SPRINGFIELD VA TO FARGO AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ALEXANDRIA VA TO GRAND FORKS, HARWOOD, GRAND FORKS, FARGO,
+                                                                                        GRAND FORKS, FARGO, GRAND FORKS AND RETURN
+                                                                                        SENATOR INCIDENTALS
+                                                                                        SENATOR PER DIEM
+

@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                             DATES
+DSCH20240215                                                                      ROCHESTER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $20.50
+DSCH20240216                                              START       END         STAFF TRANSPORTATION                                                              $12.95
+                                                                                  ROCHESTER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $232.49
+DSCH20240217      04/25/2024  BERNARD ALEXANDER           04/02/2024  04/02/2024  STAFF PER DIEM                                                                  $243.00
+                  04/29/2024  AMANDA SPELLICY             03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                            $183.07
+DSCH20240227                                                                      BINGHAMTON TO CUBA, WELLSVILLE, ALFRED AND RETURN                                 $24.12
+DSCH20240229      05/15/2024  JAIME AYINDE COBHAM         02/16/2024  02/19/2024  STAFF PER DIEM                                                                  $538.20
+DSCH20240230                                                                      STAFF TRANSPORTATION                                                            $218.00
+DSCH20240231      04/30/2024  CHRISTOPHER S ZELTMANN      04/18/2024  04/18/2024  NEW YORK TO ALBANY TO ALBANY                                                    $218.00   B-2250
+DSCH20240232      05/15/2024  CITIBANK - TRAVEL CBA CARD  05/03/2024  05/03/2024  STAFF TRANSPORTATION                                                            $598.21
+DSCH20240233      05/15/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/04/2024  ROCHESTER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $299.10
+DSCH20240234      05/16/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/04/2024  STAFF TRANSPORTATION                                                            $538.20
+DSCH20240235      05/21/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/25/2024  AIRFARE FOR E MASLIN SYRACUSE TO WASHINGTON DC AND RETURN                       $607.20
+DSCH20240236      05/16/2024  CITIBANK - TRAVEL CBA CARD  04/23/2024  04/23/2024  STAFF TRANSPORTATION
+DSCH20240237      05/15/2024  CITIBANK - TRAVEL CBA CARD  05/01/2024  05/04/2024  TRAIN FARE FOR R WILLIAMS NEW YORK TO WASHINGTON DC AND RETURN               $1,016.42
+DSCH20240238      05/16/2024  CITIBANK - TRAVEL CBA CARD  04/21/2024  04/22/2024  STAFF TRANSPORTATION
+DSCH20240239                                                                      TRAIN FARE FOR B SILVA NEW YORK TO WASHINGTON DC AND RETURN                     $603.20
+DSCH20240240      05/17/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/05/2024  STAFF TRANSPORTATION
+DSCH20240241                                                                      AIRFARE FOR J CARDINAL WASHINGTON DC TO SYRACUSE AND RETURN                     $496.20
+DSCH20240242      05/15/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/04/2024  STAFF TRANSPORTATION                                                            $426.21
+DSCH20240243                                                                      AIRFARE FOR R MARTIN WASHINGTON DC TO SYRACUSE                                  $443.20
+DSCH20240244      05/21/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/04/2024  STAFF TRANSPORTATION
+DSCH20240245      05/15/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/04/2024  AIRFARE FOR A SPELLICY SYRACUSE TO WASHINGTON DC AND RETURN                     $527.20
+                  05/20/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/04/2024  STAFF TRANSPORTATION                                                            $188.00
+                                                                                  AIRFARE FOR Y ABDELHAQ AS FOLLOWS: 4/21 WASHINGTON DC TO NEW                 $1,128.00
+                  05/17/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/04/2024  YORK; 4/22 ALBANY TO WASHINGTON DC
+                  05/20/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/04/2024  STAFF TRANSPORTATION                                                              $79.00
+                  05/20/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/04/2024  AIRFARE FOR J LEARY, J PEARLMAN SYRACUSE TO WASHINGTON DC AND                   $200.00
+                                                                                  RETURN
+                  05/16/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/02/2024  STAFF TRANSPORTATION
+                  05/21/2024  CITIBANK - TRAVEL CBA CARD  05/03/2024  05/03/2024  AIRFARE FOR C ZELTMANN AS FOLLOWS: 5/2 ROCHESTER TO
+                                                                                  WASHINGTON DC; 5/4 WASHINGTON DC TO ROCHESTER
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR S MANN ALBANY TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR M WROBEL BUFFALO TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR B ALEXANDER ROCHESTER TO WASHINGTON DC AND
+                                                                                  RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR J SLYKE ALBANY TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TRAIN FARE FOR J COBHAM NEW YORK TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TRAIN FARE FOR J ALLBROOKS, M BRENNAN, E COHEN, A OBSTLER, A
+                                                                                  ROEFARO, P TEPKE NEW YORK TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TRAIN FARE FOR M VLASTO NEW YORK TO WASHINGTON DC
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TRAIN FARE FOR K VORPERIAN-GRILLO NEW YORK TO WASHINGTON DC
+                                                                                  AND RETURN
+

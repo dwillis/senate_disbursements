@@ -1,0 +1,57 @@
+DOCUMENT NO.    DATE      PAYEE NAME                      OBLIGATION/SERVICE      DESCRIPTION                                                               AMOUNT ($)
+              POSTED                                                 DATES
+                                                                                                                                                                            $814.79
+                                                          START       END
+                                                                                                                                                                              $66.04
+DCST20240177  09/19/2024  SARAH ELIZABETH WHITELEY        08/27/2024                        STAFF TRANSPORTATION                                                            $548.27
+                                                                                            WASHINGTON DC TO HOUSTON TX, COLLEGE STATION TX, HOUSTON AND                 $1,467.35
+DCST20240179  09/16/2024  CITIBANK - TRAVEL CBA CARD      08/07/2024                        RETURN
+                                                                       08/30/2024 STAFF INCIDENTALS                                                                         $642.70
+DCST20240184  09/16/2024  CITIBANK - TRAVEL CBA CARD      08/27/2024                        STAFF PER DIEM                                                                    $80.00
+                                                                                            STAFF TRANSPORTATION
+DCST20240186  09/26/2024  HANNAH E HAGEN                  08/27/2024                        WASHINGTON DC TO EL PASO TX, LAS CRUCES NM, VAN HORN TX,                        $870.20
+                                                                                            MIDLAND TX, DALLAS TX, VAN HORN, DALLAS AND RETURN                                $80.00
+DCST20240187  09/24/2024  MATTHEW WILLIAM SWINT           08/29/2024   08/09/2024 STAFF TRANSPORTATION                                                                                B-2-41
+                                                                                            TICKET FEES                                                                       $60.09
+DCST20240192  09/23/2024  DAVID ALLAN TURNER              08/28/2024                        AIRFARE FOR M DAVISSON AS FOLLOWS: 8/7 WASHINGTON DC TO                         $505.20
+                                                                                            PORTLAND OR; 8/9 PORTLAND OR TO WASHINGTON DC
+0002857268                                                06/01/2024   08/30/2024 STAFF TRANSPORTATION                                                                        $48.32
+0002858843                                                07/01/2024                        TICKET FEES
+DCST20240076                                              03/20/2024                        AIRFARE FOR H HAGEN WASHINGTON DC TO EL PASO TX, ODESSA TX AND                    $29.70
+DCST20240084                                              03/21/2024                        RETURN                                                                          $274.58
+DCST20240090                                              04/10/2024   08/30/2024 STAFF INCIDENTALS                                                                         $767.24
+DCST20240096                                              04/17/2024                        STAFF PER DIEM
+DCST20240102                                              05/01/2024                        STAFF TRANSPORTATION                                                            $172.19
+DCST20240103                                              05/02/2024                        ARLINGTON VA TO WASHINGTON, EL PASO, LAS CRUCES, VAN HORN,
+DCST20240104                                              05/07/2024                        MIDLAND, DALLAS, WASHINGTON AND RETURN                                      $36,938.56
+DCST20240105                                              05/08/2024   08/30/2024 STAFF INCIDENTALS
+DCST20240106                                              05/16/2024                        STAFF PER DIEM                                                                    $20.00
+DCST20240114                                              05/21/2024                        STAFF TRANSPORTATION                                                              $29.40
+DCST20240116                                              06/12/2024                        WASHINGTON DC TO DALLAS TX AND RETURN                                           $576.00
+DCST20240130                                              06/13/2024   08/28/2024 STAFF TRANSPORTATION                                                                      $909.00
+DCST20240131                                              06/18/2024                        WASHINGTON DC TO EXTON PA AND RETURN                                            $756.00
+DCST20240137                                              06/26/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                                  $756.00
+DCST20240152                                              07/11/2024                                                                                                        $200.00
+DCST20240160  08/07/2024  SERGEANT AT ARMS                07/23/2024  06/30/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                            $927.00
+DCST20240161  09/13/2024  SERGEANT AT ARMS                07/28/2024  07/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                            $648.00
+DCST20240165  04/09/2024  TRUSTPOINT INTERNATIONAL, LLC   07/31/2024  03/20/2024  STENOGRAPHIC SERVICES                                                                     $594.00
+DCST20240166  04/14/2024  TRUSTPOINT INTERNATIONAL, LLC   07/30/2024  03/21/2024  STENOGRAPHIC SERVICES                                                                     $200.00
+DCST20240182  04/29/2024  TRUSTPOINT COURT REPORTING LLC  08/28/2024  04/10/2024  STENOGRAPHIC SERVICES                                                                     $729.00
+              05/03/2024  TRUSTPOINT COURT REPORTING LLC              04/17/2024  STENOGRAPHIC SERVICES                                                                     $200.00
+              05/21/2024  TRUSTPOINT INTERNATIONAL, LLC               05/01/2024  STENOGRAPHIC SERVICES                                                                     $720.00
+              05/21/2024  TRUSTPOINT INTERNATIONAL, LLC               05/02/2024  STENOGRAPHIC SERVICES                                                                     $200.00
+              05/24/2024  TRUSTPOINT INTERNATIONAL, LLC               05/07/2024  STENOGRAPHIC SERVICES                                                                     $594.00
+              05/28/2024  TRUSTPOINT INTERNATIONAL, LLC               05/08/2024  STENOGRAPHIC SERVICES                                                                     $828.00
+              05/29/2024  TRUSTPOINT INTERNATIONAL, LLC               05/16/2024  STENOGRAPHIC SERVICES                                                                     $585.00
+              06/11/2024  TRUSTPOINT COURT REPORTING LLC              05/21/2024  STENOGRAPHIC SERVICES                                                                       $11.06
+              07/08/2024  TRUSTPOINT COURT REPORTING LLC              06/12/2024  STENOGRAPHIC SERVICES                                                                     $747.00
+              07/09/2024  TRUSTPOINT COURT REPORTING LLC              06/13/2024  STENOGRAPHIC SERVICES                                                                     $648.00
+              07/09/2024  TRUSTPOINT COURT REPORTING LLC              06/18/2024  STENOGRAPHIC SERVICES                                                                     $120.11
+              07/18/2024  TRUSTPOINT COURT REPORTING LLC              06/26/2024  STENOGRAPHIC SERVICES
+              07/29/2024  TRUSTPOINT COURT REPORTING LLC              07/11/2024  STENOGRAPHIC SERVICES
+              08/06/2024  TRUSTPOINT COURT REPORTING LLC              07/23/2024  STENOGRAPHIC SERVICES
+              08/06/2024  CITIBANK - PURCHASE CARD                    07/28/2024  RECORDS ARCHIVAL
+              08/19/2024  TRUSTPOINT COURT REPORTING LLC              07/31/2024  STENOGRAPHIC SERVICES
+              08/19/2024  TRUSTPOINT COURT REPORTING LLC              07/30/2024  STENOGRAPHIC SERVICES
+              09/16/2024  CITIBANK - PURCHASE CARD                    08/28/2024  RECORDS ARCHIVAL
+

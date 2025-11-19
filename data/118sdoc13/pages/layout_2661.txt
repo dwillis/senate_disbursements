@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DWEL20240499                  MILES S MCGURIMAN                                         STAFF TRANSPORTATION                                                            $56.61
+DWEL20240502      07/15/2024  CITIBANK - TRAVEL CBA CARD        START       END         WILLISTON TO HYDE PARK AND RETURN                                             $586.19
+DWEL20240503      07/29/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION
+DWEL20240506      07/16/2024  CITIBANK - SENATOR IBA CARD       06/28/2024  06/28/2024  AIRFARE FOR E ST ONGE WASHINGTON DC TO BURLINGTON AND RETURN                    $30.00
+DWEL20240507      07/19/2024  CITIBANK - SENATOR IBA CARD                               TICKET FEES                                                                   $293.10
+DWEL20240508      07/29/2024  ALEXANDRA S GOLDEN                06/27/2024  06/28/2024  SENATOR TRANSPORTATION                                                        $293.10
+                  07/29/2024                                                            AIRFARE FOR SEN WELCH WASHINGTON DC TO BURLINGTON                             $134.72
+DWEL20240509                  FAUNA S HURLEY                    06/24/2024  06/24/2024  SENATOR TRANSPORTATION
+                  07/29/2024                                    06/20/2024  06/20/2024  AIRFARE FOR SEN WELCH BURLINGTON TO WASHINGTON DC                                $3.28
+DWEL20240510                  CORA L SMITH                                              STAFF PER DIEM                                                                $205.02
+DWEL20240511      07/25/2024  ENA ZOE BACKUS                    07/08/2024  07/08/2024  ADDITONAL EXPENSE FOR TRIP WASHINGTON DC TO BURLINGTON AND
+DWEL20240512      07/25/2024  ENA ZOE BACKUS                                            RETURN                                                                           $8.04
+DWEL20240513      07/25/2024  ENA ZOE BACKUS                    04/23/2024  04/25/2024  STAFF PER DIEM                                                                  $91.12
+DWEL20240514      07/25/2024  ENA ZOE BACKUS                                            STAFF TRANSPORTATION                                                            $67.00
+DWEL20240515      07/25/2024  ENA ZOE BACKUS                    07/02/2024  07/02/2024  BURLINGTON TO LONDONDERRY AND RETURN                                            $40.20
+DWEL20240516      07/25/2024  ENA ZOE BACKUS                                            STAFF TRANSPORTATION                                                            $78.39
+DWEL20240517      07/25/2024  ENA ZOE BACKUS                    07/12/2024  07/12/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $42.88  B-2624
+                  08/22/2024                                    03/19/2024  03/19/2024  STAFF TRANSPORTATION                                                            $87.10
+                                                                04/25/2024  04/25/2024  MONTPELIER TO NEWPORT AND RETURN                                              $110.48
+                                                                06/04/2024  06/04/2024  STAFF TRANSPORTATION                                                          $647.00
+                                                                06/14/2024  06/14/2024  MONTPELIER TO SAINT JOHNSBURY AND RETURN                                      $495.81
+                                                                06/18/2024  06/18/2024  STAFF TRANSPORTATION
+                                                                07/10/2024  07/10/2024  MONTPELIER TO RANDOLPH AND RETURN                                               $91.79
+                                                                04/16/2024  04/18/2024  STAFF TRANSPORTATION                                                          $152.76
+                                                                                        MONTPELIER TO SOUTH ROYALTON, FAIRLEE AND RETURN                              $137.35
+DWEL20240518      07/25/2024  ENA ZOE BACKUS                    07/15/2024  07/15/2024  STAFF TRANSPORTATION                                                          $586.19
+DWEL20240519      07/29/2024  JAMES BENSON MCNERNEY             07/17/2024  07/17/2024  MONTPELIER TO MORRISVILLE AND RETURN
+DWEL20240521      07/29/2024  JAMES BENSON MCNERNEY             07/22/2024  07/22/2024  STAFF TRANSPORTATION                                                            $20.00
+DWEL20240529      07/29/2024  CITIBANK - TRAVEL CBA CARD        07/16/2024  07/19/2024  MONTPELIER TO SAINT ALBANS AND RETURN                                           $69.68
+DWEL20240530      07/25/2024  CITIBANK - TRAVEL CBA CARD        07/10/2024  07/10/2024  STAFF INCIDENTALS                                                               $61.37
+DWEL20240531      07/30/2024  MICHELLE M MONROE                 07/17/2024  07/17/2024  STAFF PER DIEM                                                                  $73.70
+DWEL20240532      07/30/2024  MICHELLE M MONROE                 07/22/2024  07/22/2024  STAFF TRANSPORTATION                                                            $53.05
+DWEL20240533      07/30/2024  MILES S MCGURIMAN                 07/12/2024  07/12/2024  MONTPELIER TO SOUTH BURLINGTON, WASHINGTON DC, SOUTH
+DWEL20240536      08/08/2024  PETER WELCH                       07/12/2024  07/22/2024  BURLINGTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MONTPELIER TO WINDSOR AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        COLCHESTER TO NORWICH, BARRE, HARDWICK AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        COLCHESTER TO DORSET AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR A GOLDEN WASHINGTON DC TO BURLINGTON AND RETURN
+                                                                                        TICKET FEES
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BURLINGTON TO MONTPELIER TO SAINT ALBANS
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BURLINGTON TO COLCHESTER, JOHNSON TO SAINT ALBANS
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BURLINGTON TO MORETOWN, PLAINFIELD, BARRE TO WILLISTON
+                                                                                        SENATOR PER DIEM
+

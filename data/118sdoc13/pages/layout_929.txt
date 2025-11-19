@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DCOL20240563                  CAROL H WOODCOCK                                          STAFF TRANSPORTATION                                                         $16.50
+DCOL20240565      06/06/2024  CAROL H WOODCOCK                  START       END         BANGOR TO ORRINGTON AND RETURN                                               $80.30
+DCOL20240588      06/06/2024  CHARLES L MAHALERIS                                       STAFF TRANSPORTATION                                                         $18.70
+DCOL20240589      06/11/2024  CHARLES L MAHALERIS               05/24/2024  05/24/2024  BANGOR TO AUGUSTA AND RETURN                                                 $25.30
+DCOL20240590      06/11/2024  HALSEY B FRANK                                            STAFF TRANSPORTATION                                                         $19.80
+DCOL20240591      06/11/2024  PAMELA D BUCK                     05/27/2024  05/27/2024  AUGUSTA TO VASSALBORO AND RETURN                                             $30.00
+                  06/12/2024                                                            STAFF TRANSPORTATION                                                         $94.75
+DCOL20240592                  ALLYSON M CAVARETTA               06/01/2024  06/01/2024  AUGUSTA TO WATERVILLE AND RETURN                                             $14.25
+DCOL20240593      07/08/2024  ALLYSON M CAVARETTA                                       STAFF TRANSPORTATION                                                         $11.00
+DCOL20240594      06/12/2024  ALLYSON M CAVARETTA               06/02/2024  06/02/2024  PORTLAND TO WINDHAM AND RETURN                                               $35.20
+DCOL20240595      06/12/2024  ALLYSON M CAVARETTA                                       STAFF PER DIEM                                                               $12.10
+DCOL20240596      06/12/2024  ALLYSON M CAVARETTA               05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                         $33.00
+DCOL20240597      06/12/2024  STEVEN W ABBOTT                                           BIDDEFORD TO BANGOR AND RETURN                                               $82.30
+                  06/25/2024                                    05/27/2024  05/27/2024  STAFF TRANSPORTATION                                                       $566.00
+                                                                                        AUGUSTA TO BIDDEFORD AND RETURN                                              $40.00
+                                                                05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                       $504.19   B-911
+                                                                05/27/2024  05/27/2024  AUGUSTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $25.30
+                                                                05/29/2024  05/29/2024  STAFF TRANSPORTATION                                                         $44.65
+                                                                06/03/2024  06/03/2024  AUGUSTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $19.80
+                                                                06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                         $18.00
+                                                                06/03/2024  06/05/2024  AUGUSTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $45.21
+                                                                                        STAFF TRANSPORTATION                                                         $73.81
+DCOL20240598      06/12/2024  CHARLES L MAHALERIS               06/06/2024  06/06/2024  AUGUSTA TO WATERVILLE AND RETURN                                             $27.72
+DCOL20240599      06/13/2024  ANDREA V. SARRIS                  06/06/2024  06/06/2024  STAFF INCIDENTALS                                                          $324.30
+DCOL20240600      06/13/2024  STEPHEN J FITZPATRICK IV          06/08/2024  06/08/2024  STAFF PER DIEM                                                               $29.26
+DCOL20240601      06/14/2024  KELLY HAMILTON COTIAUX            05/27/2024  05/27/2024  STAFF TICKET FEES                                                            $22.62
+                                                                                        STAFF TRANSPORTATION                                                         $16.02
+DCOL20240602      06/14/2024  KELLY HAMILTON COTIAUX            06/09/2024  06/09/2024  PORTLAND TO WASHINGTON DC AND RETURN                                         $10.92
+DCOL20240603      06/24/2024  PAMELA D BUCK                     06/11/2024  06/11/2024  STAFF TRANSPORTATION
+DCOL20240604      07/01/2024  PAMELA S GEROW                    06/08/2024  06/09/2024  AUGUSTA TO WATERVILLE AND RETURN
+DCOL20240605      06/22/2024  ANNA E SANDERS                    06/11/2024  06/11/2024  STAFF TRANSPORTATION
+DCOL20240606      06/24/2024  ANNA E SANDERS                    06/04/2024  06/04/2024  BIDDEFORD TO YORK AND RETURN
+DCOL20240607      06/24/2024  ANNA E SANDERS                    06/02/2024  06/02/2024  STAFF TRANSPORTATION
+DCOL20240608      06/24/2024  ANNA E SANDERS                    05/14/2024  05/14/2024  BIDDEFORD TO SOUTH PORTLAND AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BREWER TO MILO TO BANGOR
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BREWER TO MEDWAY, ENFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BIDDEFORD TO SPRINGVALE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CARIBOU TO PRESQUE ISLE, MEDWAY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+

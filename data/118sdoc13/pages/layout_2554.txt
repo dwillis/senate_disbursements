@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DVAN20240670                  DAKOTA WALKER BUSBY                                       STAFF TRANSPORTATION                                                             $83.08
+DVAN20240671      06/10/2024  AUDREY K SEVERN                   START       END         WASHINGTON DC TO BALTIMORE AND RETURN                                            $42.16
+DVAN20240672      06/11/2024  AUDREY K SEVERN                                           STAFF TRANSPORTATION
+DVAN20240673      06/11/2024  ALYSSA M HASTINGS                 05/20/2024  05/20/2024  ROCKVILLE TO ARLINGTON VA AND RETURN                                              $8.04
+DVAN20240674      06/11/2024  NAN SHERIDAN-MANN                                         STAFF TRANSPORTATION                                                             $50.92
+DVAN20240675      06/12/2024  JESSICA LAUREN KLAITMAN           05/28/2024  05/28/2024  CHEVY CHASE TO SILVER SPRING AND RETURN                                        $188.27
+DVAN20240676      06/12/2024  JESSICA LAUREN KLAITMAN                                   STAFF TRANSPORTATION                                                             $45.47
+DVAN20240677      06/12/2024  JESSICA LAUREN KLAITMAN           05/24/2024  05/24/2024  CAMBRIDGE TO SNOW HILL TO SALISBURY                                              $21.44
+DVAN20240678      06/12/2024  JESSICA LAUREN KLAITMAN                                   STAFF TRANSPORTATION                                                             $24.12
+DVAN20240679      06/12/2024  JESSICA LAUREN KLAITMAN           06/04/2024  06/04/2024  FREDERICK TO BETHESDA, EDGEWATER AND RETURN                                      $17.42
+DVAN20240680      06/12/2024  JESSICA LAUREN KLAITMAN                                   STAFF TRANSPORTATION                                                             $11.92
+DVAN20240681      06/12/2024  JESSICA LAUREN KLAITMAN           06/03/2024  06/03/2024  BALTIMORE TO ANNAPOLIS AND RETURN                                                $29.80
+DVAN20240682      06/12/2024  JESSICA LAUREN KLAITMAN                                   STAFF TRANSPORTATION                                                             $20.42
+DVAN20240683      06/12/2024  JESSICA LAUREN KLAITMAN           05/31/2024  05/31/2024  BALTIMORE TO OWINGS MILLS AND RETURN                                             $25.78
+DVAN20240689      06/12/2024  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION
+DVAN20240690      06/13/2024  ELONNA B.Q JONES                  05/15/2024  05/15/2024  BALTIMORE TO COLUMBIA AND RETURN                                                  $9.11
+DVAN20240691      06/13/2024  ELONNA B.Q JONES                                          STAFF TRANSPORTATION                                                             $26.13
+DVAN20240692      06/13/2024  ALYSSA M HASTINGS                 05/14/2024  05/14/2024  BALTIMORE TO SPARROWS POINT AND RETURN
+DVAN20240699      06/13/2024  SAVANNA R PETERSON                                        STAFF TRANSPORTATION                                                              $6.76
+DVAN20240700      06/15/2024  MIGUEL A TORRES                   05/23/2024  05/23/2024  BALTIMORE TO LUTHERVILLE TIMONIUM AND RETURN                                     $16.48
+DVAN20240701      06/15/2024  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION                                                             $58.29
+DVAN20240702      06/15/2024  DAKOTA WALKER BUSBY               05/28/2024  05/28/2024  BALTIMORE TO ODENTON AND RETURN                                                  $44.12
+                  06/18/2024                                                            STAFF TRANSPORTATION                                                             $11.68
+DVAN20240703                  TERI L WEATHERS                   05/24/2024  05/24/2024  BALTIMORE TO ELKRIDGE AND RETURN                                                 $26.13  B-2517
+DVAN20240704      06/18/2024  DAKOTA WALKER BUSBY                                       STAFF TRANSPORTATION                                                           $231.82
+DVAN20240705      06/15/2024  DAKOTA WALKER BUSBY               05/13/2024  05/13/2024  BALTIMORE TO ANNAPOLIS JUNCTION AND RETURN
+                  06/15/2024                                                            STAFF TRANSPORTATION                                                           $105.19
+                                                                05/10/2024  05/10/2024  BALTIMORE TO CATONSVILLE AND RETURN                                              $11.39
+                                                                                        STAFF TRANSPORTATION                                                             $26.13
+                                                                05/30/2024  05/30/2024  CAMBRIDGE TO SALISBURY TO SALISBURY
+                                                                                        STAFF TRANSPORTATION
+                                                                06/06/2024  06/06/2024  BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                06/07/2024  06/07/2024  BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                06/06/2024  06/06/2024  CAMBRIDGE TO STEVENSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                06/07/2024  06/07/2024  WASHINGTON DC TO LARGO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                06/11/2024  06/11/2024  WASHINGTON DC TO HUNT VALLEY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/30/2024  05/30/2024  CAMBRIDGE TO EASTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                06/11/2024  06/11/2024  WASHINGTON DC TO THE FOLLOWING AND RETURN: 6/6 BALTIMORE; 6/7
+                                                                                        ANNAPOLIS; 6/10 BURKITTSVILLE, COLUMBIA, FREDERICK
+                                                                06/06/2024  06/10/2024  STAFF TRANSPORTATION
+                                                                                        BOWIE TO BURKITTSVILLE, FREDERICK, COLUMBIA AND RETURN
+                                                                06/10/2024  06/10/2024  STAFF TRANSPORTATION
+                                                                06/08/2024  06/08/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                06/11/2024  06/11/2024  STAFF TRANSPORTATION
+

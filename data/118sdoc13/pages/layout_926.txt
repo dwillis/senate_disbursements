@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                   POSTED                                                  DATES
+DCOL20240488                  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                      $355.10
+DCOL20240489      05/15/2024  CITIBANK - TRAVEL CBA CARD        START       END         TICKET FEES                                                                   $40.00
+DCOL20240490                  CATHERINE K MCCONVILLE                                    AIRFARE FOR SEN COLLINS WASHINGTON DC TO PORTLAND
+DCOL20240491      05/21/2024  EVAN J BALZANO                    04/24/2024  04/24/2024  SENATOR TRANSPORTATION                                                      $466.09
+DCOL20240492                  JACQUELINE E MUNDRY                                       TICKET FEES                                                                   $40.00
+DCOL20240493      05/14/2024  VALENTINA KAPOTHANASIS            04/14/2024  04/14/2024  AIRFARE FOR SEN COLLINS BANGOR TO WASHINGTON DC
+DCOL20240494      05/14/2024  VALENTINA KAPOTHANASIS                                    STAFF TRANSPORTATION                                                           $9.82
+DCOL20240495      05/22/2024  CATHERINE K MCCONVILLE            05/01/2024  05/01/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCOL20240496                  STEVEN W ABBOTT                   05/03/2024  05/03/2024  STAFF TRANSPORTATION                                                          $13.20
+                  05/16/2024                                    04/03/2024  04/05/2024  BIDDEFORD TO ALFRED AND RETURN
+                  05/16/2024                                                            STAFF TRANSPORTATION                                                        $212.00
+                  05/23/2024                                    04/25/2024  04/25/2024  ADDITION EXPENSE TRIP FOR WASHINGTON DC TO NEW YORK NY AND
+                  05/24/2024                                    05/07/2024  05/07/2024  RETURN                                                                         $4.95
+                                                                05/07/2024  05/07/2024  STAFF TRANSPORTATION
+                                                                04/30/2024  05/03/2024  PORTLAND TO WESTBROOK AND RETURN                                               $7.70
+                                                                                        STAFF TRANSPORTATION
+DCOL20240497      05/23/2024  STEVEN W ABBOTT                   05/07/2024  05/09/2024  WESTBROOK TO PORTLAND AND RETURN                                              $13.98  B-908
+                                                                                        STAFF TRANSPORTATION
+DCOL20240498      05/24/2024  CHARLES L MAHALERIS               05/10/2024  05/10/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $82.30
+DCOL20240499      05/24/2024  PAMELA D BUCK                     05/05/2024  05/05/2024  STAFF INCIDENTALS                                                           $516.00
+DCOL20240500      05/25/2024  PAMELA D BUCK                     05/13/2024  05/13/2024  STAFF PER DIEM                                                              $120.00
+DCOL20240501      05/29/2024  KELLY HAMILTON COTIAUX            05/06/2024  05/06/2024  STAFF TICKET FEES                                                           $724.85
+                                                                                        STAFF TRANSPORTATION
+DCOL20240502      05/30/2024  ALLYSON M CAVARETTA               05/10/2024  05/10/2024  PORTLAND TO WASHINGTON DC AND RETURN                                          $82.30
+DCOL20240503      05/29/2024  MELISSA A.S LANDRY                05/15/2024  05/15/2024  STAFF INCIDENTALS                                                           $516.00
+                                                                                        STAFF PER DIEM
+DCOL20240504      05/29/2024  STEVEN W ABBOTT                   05/14/2024  05/16/2024  STAFF TICKET FEES                                                             $40.00
+                                                                                        STAFF TRANSPORTATION                                                        $724.26
+DCOL20240505      05/29/2024  ANDREA V. SARRIS                  05/15/2024  05/16/2024  PORTLAND TO WASHINGTON DC AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                          $28.21
+                                                                                        AUGUSTA TO ALBION AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                          $28.16
+                                                                                        BIDDEFORD TO LEBANON AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                          $23.10
+                                                                                        BIDDEFORD TO SANFORD AND RETURN
+                                                                                        STAFF PER DIEM                                                                $21.00
+                                                                                        STAFF TRANSPORTATION                                                        $127.38
+                                                                                        BANGOR TO EASTPORT AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                          $14.25
+                                                                                        AUGUSTA TO BIDDEFORD AND RETURN
+                                                                                        STAFF PER DIEM                                                                $28.38
+                                                                                        STAFF TRANSPORTATION                                                        $105.95
+                                                                                        LEWISTON TO PORTSMOUTH NH AND RETURN
+                                                                                        STAFF INCIDENTALS                                                           $143.50
+                                                                                        STAFF PER DIEM                                                              $983.84
+                                                                                        STAFF TICKET FEES
+                                                                                        STAFF TRANSPORTATION                                                          $40.00
+                                                                                        PORTLAND TO WASHINGTON DC AND RETURN                                        $597.20
+                                                                                        STAFF TRANSPORTATION
+                                                                                        5/15, 16 BIDDEFORD TO PORTSMOUTH NH AND RETURN                              $108.00
+

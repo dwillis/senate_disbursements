@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                      OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                                 DATES
+DFET20240629                                                                          AIRFARE FOR SEN FETTERMAN WASHINGTON DC TO PITTSBURGH                           $682.95
+DFET20240630                                                  START       END         STAFF TRANSPORTATION                                                              $40.00
+DFET20240631                                                                          TICKET FEES
+DFET20240632      09/17/2024  CITIBANK - TRAVEL CBA CARD      09/02/2024  09/05/2024  AIRFARE FOR T HUSSAIN PHILADELPHIA TO BURLINGTON VT AND RETURN                  $125.95
+                                                                                      STAFF TRANSPORTATION                                                              $72.47
+DFET20240633      08/19/2024  LAURA RESTREPO                  07/16/2024  07/19/2024  PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $38.08
+DFET20240634      08/19/2024  LAURA RESTREPO                  07/27/2024  07/27/2024  STAFF TRANSPORTATION
+DFET20240635      08/19/2024  KATHI BRUMBAUGH CABER           07/22/2024  07/24/2024  PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $315.98
+DFET20240636                                                                          STAFF INCIDENTALS                                                               $390.22
+DFET20240637      08/19/2024  CODY J FORGACH                  08/06/2024  08/06/2024  STAFF PER DIEM                                                                            B-1180
+DFET20240638      08/16/2024  LAURA RESTREPO                  07/30/2024  07/30/2024  STAFF TRANSPORTATION                                                              $35.64
+                  08/19/2024  LAURA RESTREPO                  08/02/2024  08/02/2024  LEBANON TO PITTSBURGH AND RETURN                                                  $63.55
+                  08/19/2024  MADELEINE M MARR                07/30/2024  07/30/2024  STAFF TRANSPORTATION                                                              $58.15
+                                                                                      WILKES BARRE TO NANTICOKE, SCRANTON AND RETURN
+                  08/19/2024  SELENA N KING                   08/06/2024  08/06/2024  STAFF TRANSPORTATION                                                               $6.86
+                  08/20/2024  MADELEINE M MARR                08/02/2024  08/08/2024  PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $54.57
+                                                                                      STAFF TRANSPORTATION                                                            $120.60
+DFET20240639      08/19/2024  CODY J FORGACH                  08/07/2024  08/07/2024  PHILADELPHIA TO ALLENTOWN AND RETURN                                              $23.54
+DFET20240640      08/19/2024  REBECCA K COUNTESS              08/05/2024  08/05/2024  STAFF PER DIEM                                                                  $310.12
+DFET20240641      08/19/2024  REBECCA K COUNTESS              08/06/2024  08/06/2024  STAFF TRANSPORTATION                                                            $394.85
+DFET20240642      08/28/2024  REBECCA K COUNTESS              08/01/2024  08/01/2024  WASHINGTON DC TO POTTSTOWN AND RETURN
+                                                                                      STAFF TRANSPORTATION                                                              $98.42
+DFET20240643      08/19/2024  MITCHEL J HENDERSON             08/06/2024  08/06/2024  ERIE TO SHARON AND RETURN                                                         $80.40
+                                                                                      STAFF INCIDENTALS                                                                 $80.40
+DFET20240644      08/19/2024  MITCHEL J HENDERSON             08/08/2024  08/08/2024  STAFF PER DIEM                                                                    $13.99
+DFET20240645      08/19/2024  SABRINA A MCLAUGHLIN-WILLINSKY  08/02/2024  08/07/2024  STAFF TRANSPORTATION                                                            $218.95
+DFET20240646      08/19/2024  SABRINA A MCLAUGHLIN-WILLINSKY  08/06/2024  08/08/2024  WASHINGTON DC TO PHILADELPHIA, ALLENTOWN, WILKES BARRE,                           $24.57
+                                                                                      PHILADELPHIA AND RETURN                                                           $99.83
+DFET20240648      08/27/2024  CODY J FORGACH                  08/14/2024  08/14/2024  STAFF TRANSPORTATION                                                              $67.67
+DFET20240649      08/27/2024  SABRINA A MCLAUGHLIN-WILLINSKY  08/14/2024  08/14/2024  WILKES BARRE TO STROUDSBURG, HONESDALE AND RETURN                                 $24.20
+                                                                                      STAFF TRANSPORTATION                                                            $121.94
+                                                                                      HARRISBURG TO CHAMBERSBURG AND RETURN
+                                                                                      STAFF TRANSPORTATION                                                              $26.26
+                                                                                      HARRISBURG TO CHAMBERSBURG AND RETURN                                             $53.99
+                                                                                      STAFF PER DIEM
+                                                                                      STAFF TRANSPORTATION
+                                                                                      MOUNT WOLF TO ALTOONA AND RETURN
+                                                                                      STAFF PER DIEM
+                                                                                      STAFF TRANSPORTATION
+                                                                                      BELLEVUE TO JOHNSTOWN AND RETURN
+                                                                                      STAFF TRANSPORTATION
+                                                                                      BELLEVUE TO PROSPERITY AND RETURN
+                                                                                      STAFF TRANSPORTATION
+                                                                                      ALLENTOWN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                      STAFF TRANSPORTATION
+                                                                                      MINERSVILLE TO THE FOLLOWING AND RETURN: 8/6, 8 READING; 8/8
+                                                                                      ORWIGSBURG
+                                                                                      STAFF TRANSPORTATION
+                                                                                      WILKES BARRE TO SCRANTON AND RETURN
+                                                                                      STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                           DATES
+DCAP20240570                                                                    CHARLESTON TO THURMOND, FAYETTEVILLE AND RETURN                              $20.53
+DCAP20240571                                            START       END         STAFF PER DIEM                                                             $149.41
+DCAP20240572                                                                    STAFF TRANSPORTATION
+DCAP20240573      08/16/2024  TODD A GUNTER             08/06/2024  08/06/2024  CHARLESTON TO LEWISBURG, BECKLEY AND RETURN                                $101.84
+DCAP20240574                                                                    STAFF TRANSPORTATION
+DCAP20240576      08/16/2024  TODD A GUNTER             08/07/2024  08/07/2024  CHARLESTON TO BEAVER AND RETURN                                            $296.14
+DCAP20240581      08/20/2024  JEFFREY T JEZIERSKI       08/10/2024  08/10/2024  STAFF TRANSPORTATION
+DCAP20240582      08/20/2024  JEFFREY T JEZIERSKI       08/07/2024  08/09/2024  ALEXANDRIA VA TO MORGANTOWN AND RETURN                                     $169.99
+DCAP20240583      08/22/2024  TODD A GUNTER             08/09/2024  08/09/2024  STAFF TRANSPORTATION
+DCAP20240585                                                                    ALEXANDRIA VA TO SOUTH SAN FRANCISCO CA AND RETURN                           $22.23
+DCAP20240586      08/23/2024  CAPITO,SHELLEY MOORE      08/01/2024  08/02/2024  STAFF PER DIEM                                                             $186.26
+DCAP20240587      08/26/2024  JEFFREY T JEZIERSKI       08/14/2024  08/14/2024  STAFF TRANSPORTATION
+                  09/10/2024  ANNE HOLLADAY RICHARDSON  08/13/2024  08/14/2024  CHARLESTON TO ELKINS, BUCKHANNON AND RETURN                                $134.40
+DCAP20240589                                                                    SENATOR TRANSPORTATION
+                  08/27/2024  LLOYD T SMITH             08/15/2024  08/15/2024  WASHINGTON DC TO CHARLESTON                                                $511.88   B-796
+DCAP20240590      08/29/2024  JENNIFER L PIERCY         08/07/2024  08/07/2024  STAFF TRANSPORTATION
+                  09/09/2024  JENNIFER L PIERCY         08/14/2024  08/15/2024  ALEXANDRIA VA TO CHARLESTON AND RETURN                                       $14.69
+DCAP20240591      09/11/2024  KELLEY C MOORE            08/12/2024  08/14/2024  STAFF INCIDENTALS                                                          $195.60
+DCAP20240592                                                                    STAFF PER DIEM
+DCAP20240594      09/10/2024  DANA R RICHTER            08/12/2024  08/15/2024  WASHINGTON DC TO CHARLESTON AND RETURN                                     $186.19
+                                                                                STAFF TRANSPORTATION
+DCAP20240595      09/11/2024  MARY C VANCE              08/12/2024  08/18/2024  HUNTINGTON TO LEWISBURG TO CHARLESTON                                        $69.68
+                                                                                STAFF TRANSPORTATION
+                  08/28/2024  TODD A GUNTER             08/16/2024  08/16/2024  CHARLESTON TO HUNTINGTON AND RETURN                                        $152.76
+                                                                                STAFF TRANSPORTATION
+                  08/29/2024  TODD A GUNTER             08/13/2024  08/13/2024  CHARLESTON TO FAIRLEA AND RETURN                                             $14.69
+                  09/06/2024  JOHN T MOORE              08/13/2024  08/16/2024  STAFF INCIDENTALS                                                          $200.98
+                                                                                STAFF PER DIEM                                                             $407.86
+                  09/05/2024  JOHN T MOORE              08/19/2024  08/20/2024  STAFF TRANSPORTATION
+                                                                                WASHINGTON DC TO CHARLESTON AND RETURN                                       $44.07
+                                                                                STAFF INCIDENTALS                                                          $499.32
+                                                                                STAFF PER DIEM                                                             $350.80
+                                                                                STAFF TRANSPORTATION
+                                                                                WASHINGTON DC TO CHARLESTON AND RETURN                                       $58.92
+                                                                                STAFF INCIDENTALS                                                          $600.67
+                                                                                STAFF PER DIEM                                                             $849.69
+                                                                                STAFF TRANSPORTATION
+                                                                                WASHINGTON DC TO CHARLESTON AND RETURN                                       $23.00
+                                                                                STAFF PER DIEM                                                             $154.10
+                                                                                STAFF TRANSPORTATION
+                                                                                CHARLESTON TO FAIRLEA AND RETURN                                           $192.96
+                                                                                STAFF TRANSPORTATION
+                                                                                CHARLESTON TO KERENS AND RETURN                                              $44.07
+                                                                                STAFF INCIDENTALS                                                          $339.00
+                                                                                STAFF PER DIEM                                                             $510.54
+                                                                                STAFF TRANSPORTATION
+                                                                                WASHINGTON DC TO HARPERS FERRY, CHARLESTON AND RETURN                        $19.40
+                                                                                STAFF INCIDENTALS                                                          $127.80
+                                                                                STAFF PER DIEM                                                             $404.68
+                                                                                STAFF TRANSPORTATION
+

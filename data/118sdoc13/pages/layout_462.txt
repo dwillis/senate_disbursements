@@ -1,0 +1,58 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                           DATES
+0002859180         POSTED     SERGEANT AT ARMS                                          SOFTWARE LICENSE                                                           $141.38
+0002859182                    SERGEANT AT ARMS                  START       END         IT EQUIPMENT                                                            $1,266.66
+0002859183        09/13/2024  SERGEANT AT ARMS                                          IT EQUIPMENT
+0002859184        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  IT EQUIPMENT                                                               $366.67  B-444
+0002859185        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  SOFTWARE LICENSE                                                       -$1,633.33
+0002859193        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  SOFTWARE LICENSE                                                        $1,889.58
+0002859209        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  SOFTWARE LICENSE
+0002859212        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  SOFTWARE LICENSE                                                          -$788.00
+0002859216        09/13/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  IT EQUIPMENT                                                           -$2,758.00
+0002859217        09/13/2024  SERGEANT AT ARMS                  03/01/2024  03/31/2024  IT EQUIPMENT
+0002859218        09/13/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  IT EQUIPMENT                                                              -$197.00
+0002859219        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  IT EQUIPMENT                                                          -$23,039.49
+0002859220        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  IT EQUIPMENT
+0002859221        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  IT EQUIPMENT                                                               $729.66
+0002859223        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  IT EQUIPMENT                                                           $11,875.97
+0002859224        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  IT EQUIPMENT
+0002859225        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  IT EQUIPMENT                                                               $163.05
+0002859226        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  IT EQUIPMENT                                                               $163.05
+0002859234        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  SOFTWARE LICENSE                                                        $1,064.12
+0002859235        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  SOFTWARE LICENSE                                                           $475.26
+0002859236        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  SOFTWARE LICENSE                                                           $497.61
+0002859237        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  SOFTWARE LICENSE                                                        $4,685.34
+0002859238        09/13/2024  SERGEANT AT ARMS                  09/01/2024  09/30/2024  SOFTWARE LICENSE                                                           $160.46
+0002859239        09/13/2024  SERGEANT AT ARMS                  09/01/2024  09/30/2024  SOFTWARE LICENSE                                                           $197.00
+0002859256        09/13/2024  SERGEANT AT ARMS                  09/01/2024  09/30/2024  IT EQUIPMENT                                                               $197.00
+0002859257        09/13/2024  SERGEANT AT ARMS                  09/01/2024  09/30/2024  IT EQUIPMENT                                                               $197.00
+0002859263        09/13/2024  SERGEANT AT ARMS                  09/01/2024  09/30/2024  VOICE & DATA COMM EQUIPMENT                                                $197.00
+0002859264        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  VOICE & DATA COMM EQUIPMENT                                                $197.00
+0002859265        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  VOICE & DATA COMM EQUIPMENT                                                $197.00
+0002859484        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  SOFTWARE LICENSE                                                           $400.00
+0002859486        09/13/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  SOFTWARE LICENSE                                                          -$400.00
+0002859487        09/19/2024  SERGEANT AT ARMS                  07/01/2024  07/31/2024  SOFTWARE LICENSE                                                       $29,588.93
+0002859488        09/19/2024  SERGEANT AT ARMS                  04/01/2024  04/30/2024  SOFTWARE LICENSE                                                        $1,769.96
+0002859489        09/19/2024  SERGEANT AT ARMS                  04/01/2024  04/30/2024  SOFTWARE LICENSE                                                      -$85,942.15
+0002859490        09/19/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  SOFTWARE LICENSE                                                           $394.00
+0002859491        09/19/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  SOFTWARE LICENSE                                                          -$394.00
+0002859492        09/19/2024  SERGEANT AT ARMS                  03/01/2024  03/31/2024  SOFTWARE LICENSE                                                           $788.00
+0002859590        09/19/2024  SERGEANT AT ARMS                  03/01/2024  03/31/2024  SOFTWARE LICENSE                                                          -$788.00
+0002859592        09/19/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  SOFTWARE LICENSE                                                        $2,758.00
+0002859593        09/20/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  SOFTWARE LICENSE                                                       -$2,758.00
+0002859594        09/20/2024  SERGEANT AT ARMS                  04/01/2024  04/30/2024  SOFTWARE LICENSE                                                           $197.00
+0002859595        09/20/2024  SERGEANT AT ARMS                  09/01/2024  09/30/2024  SOFTWARE LICENSE                                                          -$197.00
+0002859596        09/20/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  SOFTWARE LICENSE                                                           $394.00
+0002859597        09/20/2024  SERGEANT AT ARMS                  09/01/2024  09/30/2024  SOFTWARE LICENSE                                                           $394.00
+0002859598        09/20/2024  SERGEANT AT ARMS                  03/01/2024  03/31/2024  SOFTWARE LICENSE                                                           $788.00
+0002859962        09/20/2024  SERGEANT AT ARMS                  09/01/2024  09/30/2024  IT EQUIPMENT                                                               $788.00
+0002859972        09/20/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  IT EQUIPMENT                                                            $2,758.00
+0002859973        09/25/2024  SERGEANT AT ARMS                  09/01/2024  09/30/2024  IT EQUIPMENT                                                            $2,758.00
+0002859974        09/26/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  IT EQUIPMENT                                                               $197.00
+0002859975        09/25/2024  SERGEANT AT ARMS                  08/01/2024  08/31/2024  SOFTWARE LICENSE                                                           $197.00
+                  09/26/2024                                    08/01/2024  08/31/2024                                                                          $3,500.00
+                  09/25/2024                                    08/01/2024  08/31/2024                                                                          $3,862.82
+                                                                08/01/2024  08/31/2024                                                                         -$3,500.00
+                                                                                                                                                               -$3,862.82
+                                                                                                                                                                $1,898.68
+

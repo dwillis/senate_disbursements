@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+              POSTED                                          DATES
+                                                                           STAFF TRANSPORTATION                                                       $620.78
+                                                   START       END         MCALLEN TO AUSTIN AND RETURN                                                 $53.60
+                                                                           STAFF TRANSPORTATION                                                         $71.02
+DCRU20240621  05/06/2024  MICHAEL A FLUSCHE        04/22/2024  04/22/2024  DALLAS TO FORT WORTH TO DESOTO                                               $92.78  B-1044
+DCRU20240622  05/07/2024  BLAKE T VINEYARD         04/24/2024  04/24/2024  STAFF TRANSPORTATION
+DCRU20240623  05/14/2024  AARON FRANCIS REITZ      04/14/2024  04/19/2024  LUBBOCK TO PLAINVIEW AND RETURN                                         $1,954.46
+                                                                           STAFF PER DIEM                                                             $175.54
+DCRU20240624  05/08/2024  BLAKE T VINEYARD         04/26/2024  04/26/2024  STAFF TRANSPORTATION                                                       $100.50
+DCRU20240625  05/08/2024  GIOVANNI CATANZARO       04/29/2024  04/29/2024  AUSTIN TO WASHINGTON DC, HOUSTON AND RETURN                                  $31.47
+DCRU20240627  05/13/2024  AARON FRANCIS REITZ      04/08/2024  04/11/2024  STAFF TRANSPORTATION
+                                                                           LUBBOCK TO AMARILLO AND RETURN                                          $1,666.73
+DCRU20240630  05/14/2024  GIOVANNI CATANZARO       04/01/2024  04/30/2024  STAFF TRANSPORTATION                                                       $598.06
+DCRU20240635  05/14/2024  MICHAEL A FLUSCHE        04/01/2024  04/30/2024  FORT WORTH TO GLEN ROSE AND RETURN                                         $726.95
+DCRU20240636  05/13/2024  MATTHEW GRANT MURRAY     04/01/2024  04/30/2024  STAFF PER DIEM                                                             $298.15
+DCRU20240637  05/14/2024  RASUALI W BRAY           04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                       $341.89
+DCRU20240638  05/13/2024  RASUALI W BRAY           04/17/2024  04/17/2024  AUSTIN TO WASHINGTON DC AND RETURN                                         $350.60
+DCRU20240639  05/13/2024  RASUALI W BRAY           02/21/2024  02/21/2024  STAFF TRANSPORTATION                                                       $303.49
+DCRU20240644  05/07/2024  RASUALI W BRAY           02/06/2024  02/06/2024  DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $87.14
+DCRU20240645  05/07/2024  RASUALI W BRAY           02/12/2024  02/16/2024  STAFF TRANSPORTATION                                                         $23.63
+DCRU20240646  05/07/2024  RASUALI W BRAY           02/19/2024  02/23/2024  DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $6.82
+DCRU20240647  05/07/2024  RASUALI W BRAY           02/26/2024  03/01/2024  STAFF TRANSPORTATION                                                       $102.48
+DCRU20240650  05/07/2024  KELLY WHITMIRE WATERMAN  01/03/2024  01/03/2024  HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $30.28
+DCRU20240651  05/07/2024  KELLY WHITMIRE WATERMAN  01/10/2024  01/10/2024  STAFF TRANSPORTATION                                                         $36.18
+DCRU20240652  05/07/2024  KELLY WHITMIRE WATERMAN  01/12/2024  01/12/2024  HOUSTON TO DALLAS, WACO AND RETURN                                           $77.72
+DCRU20240653  05/07/2024  KELLY WHITMIRE WATERMAN  01/16/2024  01/16/2024  STAFF TRANSPORTATION                                                         $30.15
+DCRU20240654  05/14/2024  KELLY WHITMIRE WATERMAN  01/17/2024  01/17/2024  HOUSTON TO DALLAS AND RETURN                                               $109.88
+DCRU20240655  05/14/2024  KELLY WHITMIRE WATERMAN  01/18/2024  01/18/2024  STAFF TRANSPORTATION                                                       $142.04
+DCRU20240656  05/14/2024  KELLY WHITMIRE WATERMAN  01/19/2024  01/19/2024  HOUSTON TO AUSTIN, KILLEEN AND RETURN                                      $168.84
+                                                                           STAFF TRANSPORTATION
+                                                                           HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           HOUSTON TO NAVASOTA AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           HOUSTON TO GALVESTON AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HOUSTON TO BEAUMONT, SUGAR LAND AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HOUSTON TO PORT LAVACA AND RETURN
+

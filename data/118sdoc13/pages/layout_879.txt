@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+DCAS20241380      POSTED                                              DATES
+                                                                                   PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $49.56
+                                                           START       END         SENATOR INCIDENTALS                                                           $354.00
+                                                                                   SENATOR PER DIEM                                                              $480.00
+                  09/09/2024  CASEY JR,ROBERT P            10/19/2023  10/24/2023  SENATOR TRANSPORTATION
+                                                                                   WASHINGTON DC TO PHILADELPHIA, PITTSBURGH, PHILADELPHIA AND                   $164.00
+DCAS20241381      09/09/2024  CITIBANK - SENATOR IBA CARD  07/08/2024  07/08/2024  RETURN                                                                        $146.00
+DCAS20241382      09/09/2024  CITIBANK - SENATOR IBA CARD  07/25/2024  07/25/2024  SENATOR TRANSPORTATION
+DCAS20241383      09/09/2024  CITIBANK - SENATOR IBA CARD  08/01/2024  08/01/2024  TRAIN FARE FOR SEN CASEY PHILADELPHIA TO WASHINGTON DC                          $66.00
+DCAS20241384      09/11/2024  CASEY JR,ROBERT P            07/11/2024  07/23/2024  SENATOR TRANSPORTATION                                                          $40.46
+                                                                                   TRAIN FARE FOR SEN CASEY WASHINGTON DC TO PHILADELPHIA                        $289.00
+DCAS20241386      09/10/2024  ELIZABETH M COOPER           08/27/2024  08/27/2024  SENATOR TRANSPORTATION                                                                  B-861
+DCAS20241387      09/11/2024  TRACE J LEDGARD              08/27/2024  08/27/2024  TRAIN FARE FOR SEN CASEY WASHINGTON DC TO PHILADELPHIA                          $51.12
+DCAS20241388      09/11/2024  ELIZABETH M COOPER           08/22/2024  08/22/2024  SENATOR INCIDENTALS                                                             $23.23
+DCAS20241392      09/12/2024  MISHA SAMUEL LINNEHAN        08/13/2024  08/14/2024  SENATOR PER DIEM                                                                $89.11
+                                                                                   WASHINGTON DC TO PITTSBURGH, DARLINGTON, NEW CASTLE,                            $23.82
+DCAS20241393      09/10/2024  CALLIE R ANDERSON            08/28/2024  08/28/2024  PITTSBURGH, YORK, SCRANTON, BETHLEHEM, SCRANTON, HARRISBURG,                    $95.81
+DCAS20241394      09/10/2024  CALLIE R ANDERSON            08/27/2024  08/27/2024  ASPERS, GETTYSBURG, SCRANTON, JERSEY SHORE, BEAVER SPRINGS,                     $11.77
+DCAS20241396      09/12/2024  ELIZABETH M COOPER           08/26/2024  08/26/2024  SCRANTON AND RETURN                                                           $151.08
+DCAS20241400                                                                       STAFF TRANSPORTATION                                                          $233.83
+DCAS20241401      09/12/2024  ZOEY N KEELEY                08/28/2024  08/28/2024  STATE COLLEGE TO SNOW SHOE, PHILIPSBURG AND RETURN                              $21.17
+                                                                                   STAFF PER DIEM                                                                  $16.75
+DCAS20241403      09/14/2024  MISHA SAMUEL LINNEHAN        08/26/2024  08/27/2024  STAFF TRANSPORTATION                                                            $39.78
+                                                                                   PITTSBURGH TO NEW BETHLEHEM AND RETURN                                        $116.58
+DCAS20241404      09/13/2024  MISHA SAMUEL LINNEHAN        08/16/2024  08/23/2024  STAFF PER DIEM                                                                  $51.97
+                                                                                   STAFF TRANSPORTATION                                                          $108.00
+                  09/11/2024  TRACE J LEDGARD              08/29/2024  08/29/2024  STATE COLLEGE TO WILLIAMSPORT, TROUT RUN AND RETURN                             $11.77
+                                                                                   STAFF INCIDENTALS                                                             $169.75
+                                                                                   STAFF PER DIEM                                                                $341.70
+                                                                                   STAFF TRANSPORTATION                                                            $27.66
+                                                                                   WASHINGTON DC TO HUNTINGDON AND RETURN                                        $224.60
+                                                                                   STAFF TRANSPORTATION                                                          $174.97
+                                                                                   SCRANTON TO WILKES BARRE TO OLD FORGE                                           $32.83
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SCRANTON TO PITTSTON AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   STATE COLLEGE TO SAINT MARYS TO BOALSBURG
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC TO PHILADELPHIA AND RETURN
+                                                                                   STAFF INCIDENTALS
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC TO WILKES BARRE AND RETURN
+                                                                                   STAFF INCIDENTALS
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC TO PHILADELPHIA AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   PITTSBURGH TO CRANBERRY TWP AND RETURN
+

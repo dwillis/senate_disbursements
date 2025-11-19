@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DCAS20240953                  BENJAMIN K SOLTERO DE MARTIN                              STAFF TRANSPORTATION                                                         $72.36
+DCAS20240954      05/26/2024  BENJAMIN K SOLTERO DE MARTIN      START       END         HARRISBURG TO GETTYSBURG, SHIPPENSBURG AND RETURN                            $52.26
+DCAS20240955      05/26/2024  BENJAMIN K SOLTERO DE MARTIN                              STAFF TRANSPORTATION                                                         $10.98
+DCAS20240956      05/26/2024  HEATHER E WALTERS                 05/09/2024  05/09/2024  HARRISBURG TO LANCASTER AND RETURN                                           $25.80
+                  06/03/2024                                                            STAFF TRANSPORTATION                                                       $189.75
+DCAS20240957                  TRACE J LEDGARD                   05/13/2024  05/13/2024  HARRISBURG OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $15.90
+                  06/03/2024                                                            STAFF PER DIEM                                                               $89.78
+DCAS20240958                  ELIZABETH M COOPER                05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                         $29.85
+                  06/03/2024                                                            HARRISBURG TO MONTGOMERYVILLE, PHILADELPHIA AND RETURN                     $116.58
+DCAS20240959                  TERESA L DENNIS                   05/17/2024  05/18/2024  STAFF PER DIEM                                                               $85.23
+DCAS20240960      05/28/2024  TERESA L DENNIS                                           STAFF TRANSPORTATION                                                       $161.36
+DCAS20240962      06/03/2024  CALLIE R ANDERSON                 05/22/2024  05/22/2024  PITTSBURGH TO JOHNSTOWN AND RETURN                                         $101.17
+DCAS20240963      05/30/2024  CALLIE R ANDERSON                                         STAFF PER DIEM                                                               $63.44
+DCAS20240965      05/29/2024  IAN M FUTERFAS                    05/22/2024  05/22/2024  STAFF TRANSPORTATION
+DCAS20240966      05/29/2024  IAN F MADIGAN                                             STATE COLLEGE TO WILLIAMSPORT, DANVILLE AND RETURN                            $9.10
+DCAS20240967      05/29/2024  ETHAN MARC SELETSKY               05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                         $15.69  B-845
+DCAS20240968      05/29/2024  ETHAN MARC SELETSKY               05/13/2024  05/13/2024  HARRISBURG TO WYOMISSING AND RETURN                                          $30.82
+DCAS20240969      05/29/2024  BENJAMIN K SOLTERO DE MARTIN      04/26/2024  04/26/2024  STAFF TRANSPORTATION                                                         $27.39
+DCAS20240970      05/29/2024  BENJAMIN K SOLTERO DE MARTIN      04/17/2024  04/17/2024  HARRISBURG TO PHILADELPHIA AND RETURN                                        $33.76
+DCAS20240971      05/29/2024  ANDREA M GUSCOTT                  05/20/2024  05/20/2024  STAFF TRANSPORTATION                                                         $48.91
+DCAS20240977      05/29/2024  TRACE J LEDGARD                   05/23/2024  05/23/2024  SCRANTON TO WHITEHALL AND RETURN                                             $25.46
+DCAS20240979      05/30/2024  MAIREAD LYNN                      05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                         $40.20
+DCAS20240980      06/05/2024  ELIZABETH M COOPER                05/23/2024  05/23/2024  SCRANTON TO EAST STROUDSBURG AND RETURN                                    $190.95
+                  06/05/2024                                    05/22/2024  05/22/2024  STAFF PER DIEM                                                               $29.69
+DCAS20240981                  ELIZABETH M COOPER                05/23/2024  05/23/2024  WASHINGTON DC TO HARRISBURG AND RETURN                                     $120.60
+DCAS20240982      06/04/2024  ELIZABETH M COOPER                05/24/2024  05/24/2024  STAFF PER DIEM                                                               $56.14
+                  06/05/2024                                    05/24/2024  05/24/2024  SCRANTON TO PLYMOUTH MEETING AND RETURN                                      $15.10
+DCAS20240986                  KYLE L HANNON                     04/02/2024  04/02/2024  STAFF TRANSPORTATION                                                         $56.95
+                  06/06/2024                                    05/28/2024  05/28/2024  PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                      $131.32
+                                                                                        STAFF TRANSPORTATION
+                                                                05/23/2024  05/23/2024  PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                05/25/2024  05/25/2024  STAFF TRANSPORTATION
+                                                                                        HARRISBURG TO YORK AND RETURN
+                                                                05/29/2024  05/29/2024  STAFF TRANSPORTATION
+                                                                                        HARRISBURG TO LANCASTER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LITITZ TO LANCASTER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PITTSBURGH TO FREEPORT AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO PHILADELPHIA, CHESTER AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        STATE COLLEGE TO SAINT MARYS, FALLS CREEK AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        STATE COLLEGE TO MILLHEIM, LOCK HAVEN AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        STATE COLLEGE TO MOUNT UNION AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

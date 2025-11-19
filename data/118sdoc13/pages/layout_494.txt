@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+              POSTED                                             DATES
+                                                                              TICKET FEES                                                                     $40.00
+                                                      START       END         AIRFARE FOR B FARDELLA WASHINGTON DC TO MILWAUKEE AND RETURN                  $302.20
+                                                                              STAFF TRANSPORTATION
+DBAL20240283  05/10/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/26/2024  TICKET FEES                                                                     $30.00
+DBAL20240284  05/10/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/26/2024  AIRFARE FOR B HUTTERER WASHINGTON DC TO MILWAUKEE AND RETURN                  $302.20
+DBAL20240285  05/10/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/26/2024  STAFF TRANSPORTATION
+DBAL20240286  05/14/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/27/2024  TICKET FEES                                                                     $40.00
+DBAL20240287                                                                  AIRFARE FOR K MULLIGAN WASHINGTON DC TO MILWAUKEE AND RETURN                  $302.20
+DBAL20240288  05/14/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/28/2024  STAFF TRANSPORTATION
+DBAL20240289  05/14/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/28/2024  TICKET FEES                                                                     $40.00
+DBAL20240292                                                                  AIRFARE FOR A BROWN WASHINGTON DC TO MILWAUKEE AND RETURN                     $672.08
+DBAL20240293  05/14/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/28/2024  STAFF TRANSPORTATION                                                                    B-476
+DBAL20240294                                                                  TICKET FEES                                                                     $30.00
+DBAL20240295  05/14/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/26/2024  AIRFARE FOR C WALSER AS FOLLOWS: 4/24 WASHINGTON DC TO
+DBAL20240296                                                                  MILWAUKEE; 4/27 MILWAUKEE TO WASHINGTON DC                                    $302.20
+DBAL20240297  05/14/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/26/2024  STAFF TRANSPORTATION                                                            $40.00
+DBAL20240298                                                                  TICKET FEES
+              05/14/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/28/2024  AIRFARE FOR I ANDRESS WASHINGTON DC TO MILWAUKEE AND RETURN                   $604.40
+                                                                              STAFF TRANSPORTATION                                                            $60.00
+              05/15/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/27/2024  TICKET FEES
+                                                                              AIRFARE FOR A CONLEY, O BARRETT WASHINGTON DC TO MILWAUKEE                    $595.20
+              05/10/2024  CHRISTINE A RAHLF           04/24/2024  04/26/2024  AND RETURN                                                                      $30.00
+              05/13/2024  CITIBANK - TRAVEL CBA CARD  04/20/2024  04/28/2024  STAFF TRANSPORTATION
+                                                                              TICKET FEES                                                                   $453.30
+              05/13/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/26/2024  AIRFARE FOR A ALSTON AS FOLLOWS: 4/24 WASHINGTON DC TO                          $70.00
+                                                                              MILWAUKEE; 4/28 MILWAUKEE TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION                                                          $453.30
+                                                                              TICKET FEES                                                                   $100.00
+                                                                              AIRFARE FOR B THOMAS AS FOLLOWS: 4/24 WASHINGTON DC TO
+                                                                              MILWAUKEE; 4/26 MILWAUKEE TO WASHINGTON DC                                    $241.20
+                                                                              STAFF TRANSPORTATION                                                            $30.00
+                                                                              TICKET FEES
+                                                                              AIRFARE FOR J PERALTA AS FOLLOWS: 4/24 WASHINGTON DC TO                       $302.20
+                                                                              MILWAUKEE; 4/26 MILWAUKEE TO WASHINGTON DC                                      $60.00
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES                                                                     $59.72
+                                                                              AIRFARE FOR J ENRIQUEZ AS FOLLOWS: 4/24 WASHINGTON DC TO                      $573.20
+                                                                              MILWAUKEE; 4/28 MADISON TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION                                                            $30.00
+                                                                              TICKET FEES
+                                                                              AIRFARE FOR B NIELSON AS FOLLOWS: 4/24 WASHINGTON DC TO                       $595.20
+                                                                              MILWAUKEE; 4/27 MILWAUKEE TO WASHINGTON DC                                      $70.00
+                                                                              STAFF TRANSPORTATION
+                                                                              MILWAUKEE TO KENOSHA AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES
+                                                                              AIRFARE FOR J FLOROS AS FOLLOWS: 4/20 WASHINGTON DC TO
+                                                                              MILWAUKEE; 4/28 CHICAGO IL TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES
+                                                                              AIRFARE FOR E ROSEN WASHINGTON DC TO MILWAUKEE AND RETURN
+

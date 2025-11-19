@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                   POSTED                                                  DATES
+DTUB20240382                  JOHN D FERGUSON                                           STAFF TRANSPORTATION                                                          $37.38
+DTUB20240383      06/06/2024  JOHN D FERGUSON                   START       END         DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $49.49
+DTUB20240384      06/06/2024  JOHN D FERGUSON                                           STAFF TRANSPORTATION                                                          $56.39
+DTUB20240385      06/06/2024  JOHN D FERGUSON                   05/01/2024  05/01/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $38.84
+DTUB20240386      06/06/2024  JOHN D FERGUSON                                           STAFF TRANSPORTATION                                                          $25.56
+DTUB20240387      06/06/2024  JOHN D FERGUSON                   05/06/2024  05/06/2024  DOTHAN TO SLOCOMB, HARTFORD AND RETURN                                      $162.10
+DTUB20240388      06/07/2024  JOHN D FERGUSON                                           STAFF TRANSPORTATION                                                          $57.33
+DTUB20240389      06/06/2024  JOHN D FERGUSON                   05/08/2024  05/08/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $62.53
+DTUB20240390      06/06/2024  JOHN D FERGUSON                                           STAFF TRANSPORTATION                                                          $25.03
+DTUB20240391      06/06/2024  JOHN D FERGUSON                   05/09/2024  05/09/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $58.73
+DTUB20240392      06/06/2024  JOHN D FERGUSON                                           STAFF TRANSPORTATION                                                          $26.67
+DTUB20240393      06/06/2024  JOHN D FERGUSON                   05/10/2024  05/10/2024  DOTHAN TO AUBURN, OPELIKA AND RETURN                                          $56.04
+DTUB20240394      06/06/2024  JOHN D FERGUSON                                           STAFF TRANSPORTATION                                                          $84.53
+DTUB20240396      06/06/2024  CITIBANK - TRAVEL CBA CARD        05/13/2024  05/13/2024  DOTHAN TO ABBEVILLE AND RETURN                                              $160.10
+DTUB20240397      06/07/2024  ALAN B NAUGHER                                            STAFF TRANSPORTATION                                                          $28.08
+DTUB20240398      06/12/2024  ALAN B NAUGHER                    05/15/2024  05/15/2024  DOTHAN TO FORT RUCKER, DALEVILLE AND RETURN                                   $26.91
+DTUB20240399      06/12/2024  ALAN B NAUGHER                                            STAFF TRANSPORTATION                                                          $28.08
+DTUB20240400      06/12/2024  BRADLEY F HAYES                   05/16/2024  05/16/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $99.64
+                  06/11/2024                                                            STAFF TRANSPORTATION                                                     $1,071.97
+                                                                05/17/2024  05/17/2024  DOTHAN TO OZARK, ARITON AND RETURN                                       $1,191.29
+                                                                                        STAFF TRANSPORTATION
+                                                                05/20/2024  05/20/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $19.94
+                                                                                        STAFF TRANSPORTATION                                                          $31.85
+                                                                05/21/2024  05/21/2024  DOTHAN TO REHOBETH AND RETURN                                               $265.00   B-2470
+                                                                                        STAFF TRANSPORTATION                                                          $12.94
+                                                                05/22/2024  05/22/2024  DOTHAN TO ENTERPRISE, NEW BROCKTON, FORT RUCKER AND RETURN                    $74.88
+                                                                                        SENATOR TRANSPORTATION                                                        $15.16
+                                                                05/23/2024  05/23/2024  AIRFARE FOR SEN TUBERVILLE ATLANTA GA TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                05/20/2024  05/20/2024  GUNTERSVILLE TO HUNTSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/28/2024  05/28/2024  GUNTERSVILLE TO HUNTSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/29/2024  05/29/2024  GUNTERSVILLE TO HUNTSVILLE AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                05/30/2024  05/30/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                05/28/2024  06/02/2024  WASHINGTON DC TO BIRMINGHAM, SELMA, OPELIKA, MONTGOMERY,
+                                                                                        BIRMINGHAM AND RETURN
+DTUB20240401      06/11/2024  EMMA M JOHNSTON                   05/06/2024  05/06/2024  STAFF TRANSPORTATION
+DTUB20240402      07/10/2024  TOMMY TUBERVILLE                  05/31/2024  06/01/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        SENATOR INCIDENTALS
+DTUB20240403      06/10/2024  EMILY MCBRIDE                     06/03/2024  06/03/2024  SENATOR PER DIEM
+DTUB20240404      06/12/2024  ALAN B NAUGHER                    06/03/2024  06/03/2024  AUBURN TO HUNTSVILLE, FORT PAYNE TO WASHINGTON DC
+DTUB20240405      06/11/2024  EMILY MCBRIDE                     06/04/2024  06/04/2024  STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        GUNTERSVILLE TO HUNTSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

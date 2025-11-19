@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DBLA20241299                  MICHAEL L HENSLEY                                         STAFF TRANSPORTATION                                                            $149.41
+DBLA20241302      05/06/2024  CALEB ADDISON HASLETT             START       END         KNOXVILLE TO ERWIN, JOHNSON CITY AND RETURN                                       $44.22
+DBLA20241303      05/09/2024  CALEB ADDISON HASLETT                                     STAFF TRANSPORTATION
+DBLA20241304      05/14/2024  CALEB ADDISON HASLETT             04/24/2024  04/24/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $122.61
+DBLA20241305      05/09/2024  CALEB ADDISON HASLETT                                     STAFF TRANSPORTATION                                                              $21.44
+DBLA20241306      05/09/2024  CALEB ADDISON HASLETT             04/23/2024  04/23/2024  NASHVILLE TO SMITHVILLE, SPARTA AND RETURN                                        $38.86
+DBLA20241307      05/07/2024  CHELSEA M IVENS                                           STAFF TRANSPORTATION                                                              $36.85
+DBLA20241308      05/07/2024  CHELSEA M IVENS                   04/24/2024  04/24/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $42.21
+DBLA20241309      05/07/2024  CHELSEA M IVENS                                           STAFF TRANSPORTATION                                                              $73.70
+DBLA20241310      05/07/2024  CHELSEA M IVENS                   04/25/2024  04/25/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $31.49
+DBLA20241311      05/13/2024  CHELSEA M IVENS                                           STAFF TRANSPORTATION
+DBLA20241312      05/07/2024  NEELY, BLAKEMON L                 04/29/2024  04/29/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $249.91
+                  05/15/2024                                                            STAFF TRANSPORTATION                                                              $54.94
+                                                                04/30/2024  04/30/2024  KNOXVILLE TO OAK RIDGE AND RETURN                                                 $36.78
+                                                                                        STAFF TRANSPORTATION
+                                                                04/20/2024  04/20/2024  KNOXVILLE TO DANDRIDGE, CLINTON AND RETURN                                      $273.12
+                                                                                        STAFF TRANSPORTATION                                                            $379.95
+                                                                04/23/2024  04/23/2024  KNOXVILLE TO OAK RIDGE AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                            $234.56
+                                                                04/24/2024  04/24/2024  KNOXVILLE TO ONEIDA, ALCOA, KINGSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                              $22.11
+                                                                04/25/2024  04/25/2024  KNOXVILLE TO KINGSTON AND RETURN                                                  $27.00
+                                                                                        STAFF INCIDENTALS                                                               $176.59
+                                                                04/27/2024  04/27/2024  STAFF PER DIEM                                                                    $62.98  B-541
+                                                                                        STAFF TRANSPORTATION                                                              $30.15
+                                                                04/26/2024  04/27/2024  IUKA MS TO WINCHESTER, ALTAMONT, DUNLAP, SOUTH PITTSBURG,                         $22.78
+                                                                                        CHATTANOOGA, SOUTH PITTSBURG AND RETURN
+DBLA20241313      05/14/2024  NEELY, BLAKEMON L                 04/29/2024  04/29/2024  STAFF TRANSPORTATION                                                               $6.26
+DBLA20241314                                                                            IUKA MS TO SHELBYVILLE, LYNCHBURG, FAYETTEVILLE, LEWISBURG AND                  $211.72
+DBLA20241315      05/08/2024  NICHOLAS A KISTENMACHER           04/24/2024  04/24/2024  RETURN
+DBLA20241316      05/14/2024  NICHOLAS A KISTENMACHER           04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                              $15.97
+DBLA20241317                                                                            MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $157.04
+DBLA20241318      05/08/2024  NICHOLAS A KISTENMACHER           04/26/2024  04/26/2024  STAFF PER DIEM
+DBLA20241319      05/08/2024  PABLO A MARTINEZ                  04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                              $25.05
+                  05/08/2024  PABLO A MARTINEZ                  04/24/2024  04/24/2024  MEMPHIS TO BROWNSVILLE, UNION CITY, DYERSBURG AND RETURN
+DBLA20241320      05/14/2024  PABLO A MARTINEZ                  04/26/2024  04/26/2024  STAFF TRANSPORTATION
+                                                                                        MEMPHIS TO SOMERVILLE AND RETURN
+DBLA20241321      05/13/2024  PABLO A MARTINEZ                  04/29/2024  04/29/2024  STAFF TRANSPORTATION
+                                                                                        NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  05/08/2024  PABLO A MARTINEZ                  04/30/2024  04/30/2024  STAFF TRANSPORTATION
+                                                                                        NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NASHVILLE TO BRENTWOOD, MANCHESTER, DECHERD, ALTAMONT,
+                                                                                        DUNLAP AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NASHVILLE TO BRENTWOOD, NASHVILLE, MADISON, SHELBYVILLE,
+                                                                                        LYNCHBURG, FAYETTEVILLE, LEWISBURG, BRENTWOOD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

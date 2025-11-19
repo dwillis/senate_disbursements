@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DKNN20241026                  JAKE T BENOIT                                             STAFF TRANSPORTATION                                                             $85.09
+DKNN20241027      05/28/2024  JAKE T BENOIT                     START       END         NEW ORLEANS TO CONVENT, VACHERIE AND RETURN                                      $95.19
+                  05/28/2024                                                            STAFF TRANSPORTATION
+DKNN20241028                  CHRISTIAN P AMY                   05/15/2024  05/15/2024  NEW ORLEANS TO BELLE CHASSE, KENNER, MADISONVILLE, SAINT ROSE                     $6.70
+DKNN20241029      05/26/2024  CHRISTIAN P AMY                                           AND RETURN                                                                       $13.40
+DKNN20241030      05/26/2024  CHRISTIAN P AMY                   05/16/2024  05/16/2024  STAFF TRANSPORTATION                                                             $16.75
+DKNN20241031      05/26/2024  CAROLINE M THERIOT                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $16.31
+                  06/03/2024                                    05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                           $139.36
+DKNN20241042                  CITIBANK - TRAVEL CBA CARD        05/16/2024  05/16/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $327.10
+DKNN20241043      05/29/2024  CITIBANK - TRAVEL CBA CARD        05/20/2024  05/20/2024  STAFF TRANSPORTATION                                                           $454.98
+DKNN20241044      05/29/2024  CITIBANK - TRAVEL CBA CARD        05/20/2024  05/20/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $534.19
+                  05/30/2024                                                            STAFF PER DIEM
+DKNN20241045                  CITIBANK - TRAVEL CBA CARD        04/20/2024  04/20/2024  STAFF TRANSPORTATION                                                           $534.19
+DKNN20241046      06/03/2024  CITIBANK - TRAVEL CBA CARD        04/30/2024  04/30/2024  MANDEVILLE TO THIBODAUX AND RETURN                                             $694.98
+DKNN20241047      05/30/2024  CITIBANK - TRAVEL CBA CARD        05/08/2024  05/12/2024  SENATOR TRANSPORTATION                                                         $327.10
+DKNN20241048      05/30/2024  CITIBANK - TRAVEL CBA CARD                                AIRFARE FOR SEN KENNEDY WASHINGTON DC TO NEW ORLEANS                           $113.10
+DKNN20241049      05/30/2024  CITIBANK - TRAVEL CBA CARD        05/08/2024  05/12/2024  STAFF TRANSPORTATION                                                           $288.10   B-1514
+DKNN20241051      05/30/2024  CITIBANK - TRAVEL CBA CARD        05/07/2024  05/07/2024  AIRFARE FOR J BENOIT NEW ORLEANS TO WASHINGTON DC                              $669.98
+DKNN20241052      05/30/2024  CITIBANK - TRAVEL CBA CARD        05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                           $393.98
+DKNN20241053      05/31/2024  CITIBANK - TRAVEL CBA CARD        05/13/2024  05/13/2024  AIRFARE FOR E JARNAGIN WASHINGTON DC TO NEW ORLEANS AND                        $327.10
+DKNN20241054      05/31/2024  CAROLINE M THERIOT                05/14/2024  05/14/2024  RETURN
+                  05/30/2024                                    05/13/2024  05/13/2024  STAFF TRANSPORTATION                                                             $11.30
+DKNN20241057                  CITIBANK - TRAVEL CBA CARD        05/15/2024  05/15/2024  AIRFARE FOR P LOY WASHINGTON DC TO NEW ORLEANS AND RETURN                      $148.07
+DKNN20241058      05/30/2024  CITIBANK - TRAVEL CBA CARD        05/16/2024  05/16/2024  SENATOR TRANSPORTATION                                                         $694.98
+DKNN20241059      06/06/2024  CITIBANK - TRAVEL CBA CARD        05/21/2024  05/21/2024  AIRFARE FOR SEN KENNEDY NEW ORLEANS TO WASHINGTON DC                           $327.10
+DKNN20241060      06/05/2024  CHRISTY L TATE                                            STAFF TRANSPORTATION                                                           $425.20
+                  06/03/2024                                    05/20/2024  05/20/2024  AIRFARE FOR C AMY WASHINGTON DC TO NEW ORLEANS
+DKNN20241061                  ERIN JARNAGIN                     05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                             $17.07
+                  06/07/2024                                    05/13/2024  05/15/2024  AIRFARE FOR J ANDREWS WASHINGTON DC TO NEW YORK NY                             $121.38
+                                                                04/10/2024  04/11/2024  STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR J ANDREWS NEW YORK NY TO WASHINGTON DC                               $61.62
+                                                                05/08/2024  05/12/2024  STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR R WHITE NEW ORLEANS TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR R WHITE WASHINGTON DC TO NEW ORLEANS
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN KENNEDY WASHINGTON DC TO NEW ORLEANS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ABITA SPRINGS TO GRAY TO MANDEVILLE
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN KENNEDY NEW ORLEANS TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN KENNEDY WASHINGTON DC TO NEW ORLEANS
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR H LIVINGSTON MONROE TO WASHINGTON DC AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        SCOTT TO BATON ROUGE AND RETURN
+                                                                                        STAFF INCIDENTALS
+

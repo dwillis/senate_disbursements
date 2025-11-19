@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DBLA20242172                  PABLO A MARTINEZ                                          STAFF TRANSPORTATION                                                            $16.08
+DBLA20242176      09/20/2024  CALEB ADDISON HASLETT             START       END         NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $87.10
+DBLA20242177      09/20/2024  CALEB ADDISON HASLETT                                     STAFF TRANSPORTATION                                                            $65.66
+DBLA20242178      09/20/2024  CALEB ADDISON HASLETT             09/12/2024  09/12/2024  NASHVILLE TO RIDDLETON AND RETURN                                               $38.86
+DBLA20242179      09/20/2024  CALEB ADDISON HASLETT                                     STAFF TRANSPORTATION                                                            $36.85
+DBLA20242180      09/20/2024  WILLIAM R IRWIN                   09/14/2024  09/14/2024  NASHVILLE TO HARTSVILLE AND RETURN                                              $32.96
+DBLA20242181      09/21/2024  CALEB ADDISON HASLETT                                     STAFF TRANSPORTATION                                                            $30.15
+DBLA20242182      09/20/2024  PABLO A MARTINEZ                  09/10/2024  09/10/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $95.81
+DBLA20242183      09/21/2024  PABLO A MARTINEZ                                          STAFF TRANSPORTATION                                                            $58.96
+DBLA20242186      09/21/2024  CITIBANK - TRAVEL CBA CARD        09/12/2024  09/12/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $295.11
+DBLA20242188      09/24/2024                                                            STAFF TRANSPORTATION                                                            $40.00
+                              CITIBANK - TRAVEL CBA CARD        09/11/2024  09/11/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $551.21
+DBLA20242189      09/24/2024                                                            STAFF TRANSPORTATION                                                            $40.00
+                                                                09/17/2024  09/17/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DBLA20242190                                                                            STAFF TRANSPORTATION                                                          $351.57
+                                                                09/09/2024  09/09/2024  FRANKLIN TO MANCHESTER, SPRING HILL AND RETURN                                  $40.00
+DBLA20242191                                                                            STAFF TRANSPORTATION
+DBLA20242192                                                    09/17/2024  09/17/2024  FRANKLIN TO BRENTWOOD, NASHVILLE, MURFREESBORO TO NASHVILLE                   $184.20
+                                                                                        STAFF TRANSPORTATION                                                            $40.00
+DBLA20242193                                                    09/16/2024  09/16/2024  TICKET FEES
+DBLA20242194                                                                            AIRFARE FOR I PIGG WASHINGTON DC TO NASHVILLE                                 $294.20
+DBLA20242195                                                    08/12/2024  08/12/2024  STAFF TRANSPORTATION                                                            $40.00
+DBLA20242196                                                                            TICKET FEES
+                                                                08/12/2024  08/28/2024  AIRFARE FOR B BLACKMON AS FOLLOWS: 8/12 WASHINGTON DC TO                      $574.58   B-573
+                                                                                        NASHVILLE; 8/28 MEMPHIS TO WASHINGTON DC                                        $40.00
+                  09/26/2024  CITIBANK - TRAVEL CBA CARD        08/14/2024  08/21/2024  STAFF TRANSPORTATION
+                                                                                        TICKET FEES                                                                   $147.10
+                  09/30/2024  CITIBANK - TRAVEL CBA CARD        08/12/2024  08/19/2024  AIRFARE FOR A COOK WASHINGTON DC TO NASHVILLE, KNOXVILLE AND                    $40.00
+                                                                                        RETURN
+                  09/25/2024  CITIBANK - TRAVEL CBA CARD        08/09/2024  08/18/2024  STAFF TRANSPORTATION                                                          $295.11
+                  09/24/2024  CITIBANK - TRAVEL CBA CARD        08/18/2024  08/23/2024  TICKET FEES                                                                     $40.00
+                                                                                        AIRFARE FOR P ROWAN AS FOLLOWS: 8/12 WASHINGTON DC TO
+                  09/24/2024  CITIBANK - TRAVEL CBA CARD        08/18/2024  08/18/2024  NASHVILLE; 8/19 LEXINGTON KY TO WASHINGTON DC                                 $245.75
+                  09/24/2024  CITIBANK - TRAVEL CBA CARD        08/13/2024  08/13/2024  STAFF TRANSPORTATION                                                          $146.32
+                  09/28/2024  TYLER B PRIVETTE                  09/17/2024  09/17/2024  TICKET FEES
+                  09/27/2024  TYLER B PRIVETTE                  09/18/2024  09/18/2024  AIRFARE FOR W IRWIN WASHINGTON DC TO NASHVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR J DANEGGER AS FOLLOWS: 8/18 WASHINGTON DC TO
+                                                                                        NASHVILLE; 8/23 KNOXVILLE TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR E MCALINDON NASHVILLE TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR E MCALINDON WASHINGTON DC TO NASHVILLE
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHATTANOOGA TO WAYNESBORO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHATTANOOGA TO FAYETTEVILLE AND RETURN
+

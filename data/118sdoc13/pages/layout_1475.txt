@@ -1,0 +1,57 @@
+DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE      DESCRIPTION                                                                 AMOUNT ($)
+              POSTED                                               DATES
+                                                                                                                                                                              $20.31
+                                                        START       END                                                                                                     $131.00
+                                                                                                                                                                            $337.01
+DJOR20240561  09/18/2024  SCOTT D BOLSTAD               08/05/2024                        EAU CLAIRE TO MADISON, MILWAUKEE, MADISON, MILWAUKEE, MADISON,                    $415.40
+DJOR20240562                                                                              MILWAUKEE, MADISON, MILWAUKEE AND RETURN
+DJOR20240563  09/18/2024  SCOTT D BOLSTAD               08/15/2024   08/06/2024 STAFF INCIDENTALS                                                                             $13.23
+DJOR20240564  09/19/2024  MARK CHRISTOPHER NIELSEN      08/24/2024                        STAFF PER DIEM                                                                    $120.04
+                                                                                          STAFF TRANSPORTATION                                                              $239.26
+              09/24/2024  MARK CHRISTOPHER NIELSEN      09/04/2024                        EAU CLAIRE TO MADISON, MILWAUKEE AND RETURN
+                                                                     08/22/2024 STAFF TRANSPORTATION                                                                          $13.23
+DJOR20240569  09/26/2024  PAMELA TRAVIS                 09/09/2024                        EAU CLAIRE TO THE FOLLOWING AND RETURN: 8/15 PEWAUKEE; 8/22                       $129.87   B-1457
+DJOR20240570  09/18/2024  TAWSIF ANAM                   09/06/2024                        ONALASKA                                                                          $133.38
+DJOR20240571  09/18/2024  TAWSIF ANAM                   09/04/2024   08/26/2024 STAFF INCIDENTALS
+DJOR20240572  09/19/2024  JOHN J FOSS                   09/10/2024                        STAFF PER DIEM                                                                    $288.77
+DJOR20240576  09/27/2024  RON JOHNSON                   09/12/2024                        STAFF TRANSPORTATION
+DJOR20240577  09/18/2024  TAWSIF ANAM                   09/12/2024                        OSHKOSH TO ONALASKA, MAUSTON, MONTELLO AND RETURN                                   $10.23
+DJOR20240580  09/25/2024  TAWSIF ANAM                   09/23/2024   09/05/2024 STAFF INCIDENTALS                                                                             $83.75
+DJOR20240582  09/26/2024  JOHN J FOSS                   09/19/2024                        STAFF PER DIEM
+DJOR20240584  09/26/2024  TAWSIF ANAM                   09/18/2024                        STAFF TRANSPORTATION                                                                 $9.28
+DJOR20240627  09/27/2024  TAWSIF ANAM                   09/24/2024                        OSHKOSH TO STEVENS POINT, CHIPPEWA FALLS, SHELL LAKE, RICE LAKE,                    $85.09
+                                                                                          ABBOTSFORD AND RETURN                                                               $40.20
+                                                        02/01/2024   09/11/2024 STAFF TRANSPORTATION                                                                        $768.04
+                                                        03/01/2024                        ELKHORN TO THE FOLLOWING AND RETURN: 9/9 GRANTSBURG, MINONG,
+                                                        03/01/2024                        LAKE NEBAGAMON, CABLE; 9/11 WATERTOWN                                               $13.35
+                                                        04/01/2024   09/06/2024 STAFF PER DIEM                                                                                $81.74
+                                                                                          STAFF TRANSPORTATION                                                                $44.89
+                                                                                          MADISON TO PLATTEVILLE AND RETURN                                                   $53.60
+                                                                     09/04/2024 STAFF PER DIEM
+                                                                                          STAFF TRANSPORTATION                                                                 $9.92
+                                                                                          MADISON TO PLATTEVILLE AND RETURN                                                   $81.74
+                                                                     09/10/2024 STAFF TRANSPORTATION
+                                                                                          APPLETON TO GREEN BAY TO OSHKOSH                                                     $4.84
+                                                                     09/16/2024 SENATOR TRANSPORTATION                                                                        $54.27
+                                                                                          WASHINGTON DC TO MILWAUKEE, OSHKOSH, MUSKEGO, OSHKOSH,
+                                                                                          MILWAUKEE AND RETURN                                                          $49,950.44
+                                                                     09/12/2024 STAFF PER DIEM                                                                              $100.00
+                                                                                          STAFF TRANSPORTATION                                                              $350.00
+                                                                                          MADISON TO PLATTEVILLE AND RETURN                                                 $217.00
+                                                                     09/23/2024 STAFF TRANSPORTATION                                                                        $350.00
+                                                                                          MADISON TO BARABOO AND RETURN
+                                                                     09/19/2024 STAFF TRANSPORTATION
+                                                                                          APPLETON TO SAINT NAZIANZ AND RETURN
+                                                                     09/18/2024 STAFF PER DIEM
+                                                                                          STAFF TRANSPORTATION
+                                                                                          MADISON TO PLATTEVILLE AND RETURN
+                                                                     09/24/2024 STAFF PER DIEM
+                                                                                          STAFF TRANSPORTATION
+                                                                                          MADISON TO MONROE AND RETURN
+                                                                    TRAVEL AND TRANSPORTATION OF PERSONS
+
+0002852536    04/18/2024  SERGEANT AT ARMS                          02/29/2024  FEDERAL AUDIO, VISUAL RECORDNG
+DJOR20240365  05/14/2024  LEIDOS DIGITAL SOLUTIONS INC              03/31/2024  IT EQUIP MAINT
+DJOR20240366  05/15/2024  LEIDOS DIGITAL SOLUTIONS INC              03/31/2024  IT EQUIP MAINT
+DJOR20240406  06/10/2024  LEIDOS DIGITAL SOLUTIONS INC              04/30/2024  IT EQUIP MAINT
+

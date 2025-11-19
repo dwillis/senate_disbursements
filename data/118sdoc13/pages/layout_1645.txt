@@ -1,0 +1,55 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+              POSTED                                             DATES
+                                                                              AIRFARE FOR N IHRMAN WASHINGTON DC TO OKLAHOMA CITY AND                             $367.70
+                                                      START       END         RETURN                                                                              $188.60
+                                                                              STAFF TRANSPORTATION                                                                $150.10
+DLNK20241183  09/16/2024  CITIBANK - TRAVEL CBA CARD  09/03/2024  09/04/2024  AIRFARE FOR S SEITZ WASHINGTON DC TO OKLAHOMA CITY AND RETURN
+DLNK20241184  09/06/2024  CITIBANK - TRAVEL CBA CARD  09/03/2024  09/03/2024  STAFF TRANSPORTATION                                                                  $24.90
+DLNK20241185  09/16/2024  CITIBANK - TRAVEL CBA CARD  09/04/2024  09/04/2024  AIRFARE FOR S DESPAIN WASHINGTON DC TO OKLAHOMA CITY                                  $18.25
+DLNK20241186  09/15/2024  CITIBANK - TRAVEL CBA CARD  07/15/2024  07/16/2024  STAFF TRANSPORTATION
+DLNK20241187  09/15/2024  CITIBANK - TRAVEL CBA CARD  07/29/2024  08/02/2024  AIRFARE FOR S DESPAIN OKLAHOMA CITY TO WASHINGTON DC                                   $6.20
+                                                                              STAFF TRANSPORTATION
+DLNK20241188  09/15/2024  CITIBANK - TRAVEL CBA CARD  07/22/2024  07/25/2024  TOLLS FOR J SHARUM TULSA TO MIAMI, OKLAHOMA CITY AND RETURN                           $14.95
+                                                                              STAFF TRANSPORTATION                                                                   $9.30
+DLNK20241189  09/15/2024  CITIBANK - TRAVEL CBA CARD  07/31/2024  07/31/2024  TOLLS FOR J CARSON AS FOLLOWS: 7/29 YUKON TO OKLAHOMA CITY; 7/31                       $7.15  B-1608
+DLNK20241190  09/18/2024  CITIBANK - TRAVEL CBA CARD  07/23/2024  07/25/2024  YUKON TO ANADARK AND RETURN; 8/1 OKLAHOMA CITY TO LAWTON AND
+DLNK20241191  09/15/2024  CITIBANK - TRAVEL CBA CARD  07/16/2024  07/18/2024  RETURN; 8/2 OKLAHOMA CITY TO YUKON                                                     $8.65
+                                                                              STAFF TRANSPORTATION
+DLNK20241192  09/15/2024  CITIBANK - TRAVEL CBA CARD  07/08/2024  07/11/2024  TOLLS FOR J CARSON AS FOLLOWS: 7/22 YUKON TO OKLAHOMA CITY; 7/23                       $7.15
+                                                                              OKLAHOMA CITY TO DUNCAN AND RETURN; 7/24 OKLAHOMA CITY TO                              $9.35
+DLNK20241193  09/14/2024  CITIBANK - TRAVEL CBA CARD  07/23/2024  07/24/2024  PAULS VALLEY AND RETURN; 7/25 OKLAHOMA CITY TO YUKON
+DLNK20241194  09/14/2024  CITIBANK - TRAVEL CBA CARD  07/30/2024  08/02/2024  STAFF TRANSPORTATION                                                                  $15.98
+                                                                              TOLLS FOR E HERNANDEZ OKLAHOMA CITY TO TULSA AND RETURN                             $110.20
+DLNK20241195  09/25/2024  LARAMIE ANN COCHRAN         08/22/2024  08/28/2024  STAFF TRANSPORTATION
+                                                                              TOLLS FOR J SHARUM TULSA TO OKLAHOMA CITY, SHATTUCK AND RETURN                        $96.47
+DLNK20241205  09/19/2024  MACKENZIE J SAVALA          08/30/2024  08/30/2024  STAFF TRANSPORTATION
+DLNK20241206  09/14/2024  MACKENZIE J SAVALA          08/28/2024  08/28/2024  TOLLS FOR P BURNS AS FOLLOWS: 7/16 STILLWATER TO ENID, FAIRVIEW                     $131.99
+DLNK20241207  09/19/2024  MACKENZIE J SAVALA          09/05/2024  09/05/2024  TO OKLAHOMA CITY; 7/17 STILLWATER TO ALVA, BUFFALO AND RETURN; 7                      $77.72
+                                                                              /18 OKLAHOMA CITY TO PONCA CITY TO STILLWATER                                         $16.46
+DLNK20241208  09/18/2024  EAN SERVICES LLC            08/20/2024  08/22/2024  STAFF TRANSPORTATION
+                                                                              TOLLS FOR P BURNS STILLWATER TO THE FOLLOWING AND RETURN: 7/8                       $129.98
+                                                                              WOODWARD, SEILING; 7/9 GUTHRIE, OKLAHOMA CITY; 7/10 IN AND AROUND;                    $84.14
+                                                                              7/11 ENID, PERRY
+                                                                              STAFF TRANSPORTATION
+                                                                              TOLLS FOR P BURNS STILLWATER TO ENID, SHATTUCK, WOODWARD AND
+                                                                              RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              TOLLS FOR P BURNS STILLWATER TO THE FOLLOWING AND RETURN: 7/30
+                                                                              ENID, BLACKWELL; 8/1 LANGSTON, KINGFISHER, GUTHRIE, ENID; 8/2
+                                                                              OKLAHOMA CITY TO NORMAN TO STILLWATER
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              LANE TO MCALESTER, SULPHUR, LANE, NORMAN, OKLAHOMA CITY,
+                                                                              CHECOTAH, POTEAU, WILBURTON, STIGLER, OKLAHOMA CITY, NORMAN,
+                                                                              MCALESTER AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              TULSA TO OKLAHOMA CITY AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              TULSA TO NOWATA, BARTLESVILLE AND RETURN
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              TULSA TO MUSKOGEE, STILWELL, TAHLEQUAH AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              RENTAL AUTO FOR Q GRAY BROKEN ARROW TO TULSA AND RETURN
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                              DATES
+DSDR20240275                                                                       BARRE TO RANDOLPH AND RETURN                                                    $14.67
+DSDR20240276                                               START       END         STAFF TRANSPORTATION                                                            $61.37
+DSDR20240277                                                                       BARRE TO MONTPELIER AND RETURN                                                  $43.81
+DSDR20240278      05/02/2024  HALEY E PERO                 04/10/2024  04/10/2024  STAFF TRANSPORTATION                                                            $26.46
+DSDR20240279      05/02/2024  HALEY E PERO                 04/06/2024  04/06/2024  BARRE TO SOUTH BURLINGTON AND RETURN                                            $32.50
+                  05/02/2024  HALEY E PERO                 04/03/2024  04/03/2024  STAFF TRANSPORTATION                                                          $372.18
+                  05/02/2024  HALEY E PERO                 03/28/2024  03/28/2024  BURLINGTON TO CHARLOTTE TO BARRE                                              $198.48
+                  05/09/2024  NICOLAS BALLON LASERNA       04/19/2024  04/21/2024  STAFF TRANSPORTATION
+                                                                                   BARRE TO WATERBURY AND RETURN                                                 $293.10
+DSDR20240288      05/15/2024  CITIBANK - SENATOR IBA CARD  04/20/2024  04/20/2024  STAFF INCIDENTALS                                                               $96.10  B-2193
+DSDR20240289      05/08/2024  CITIBANK - SENATOR IBA CARD  04/11/2024  04/11/2024  STAFF PER DIEM
+DSDR20240291      05/15/2024  CITIBANK - SENATOR IBA CARD  04/21/2024  04/21/2024  STAFF TRANSPORTATION                                                          $531.10
+DSDR20240292      05/15/2024  CITIBANK - SENATOR IBA CARD  04/30/2024  04/30/2024  WASHINGTON DC TO SOUTH BURLINGTON, BURLINGTON, SOUTH                          $907.10
+DSDR20240293      05/15/2024  CITIBANK - SENATOR IBA CARD  04/24/2024  04/24/2024  BURLINGTON AND RETURN                                                         $293.10
+DSDR20240294      05/22/2024  ELIZABETH ALMA STERN         04/01/2024  05/07/2024  SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN SANDERS WASHINGTON DC TO BURLINGTON                             $86.43
+DSDR20240316      05/24/2024  ETHAN A LAWRENCE             03/20/2024  03/20/2024  SENATOR TRANSPORTATION
+DSDR20240317      05/24/2024  ETHAN A LAWRENCE             03/27/2024  03/27/2024  AIRFARE FOR SEN SANDERS WASHINGTON DC TO BOSTON MA                              $52.26
+DSDR20240318      05/24/2024  ETHAN A LAWRENCE             04/11/2024  04/11/2024  SENATOR TRANSPORTATION                                                          $62.98
+DSDR20240319      05/24/2024  ETHAN A LAWRENCE             04/20/2024  04/20/2024  AIRFARE FOR SEN SANDERS BURLINGTON TO WASHINGTON DC                             $64.32
+DSDR20240320      05/24/2024  ETHAN A LAWRENCE             05/03/2024  05/03/2024  SENATOR TRANSPORTATION                                                          $60.30
+DSDR20240321      05/24/2024  CITIBANK - SENATOR IBA CARD  05/14/2024  05/14/2024  AIRFARE FOR SEN SANDERS BURLINGTON TO WASHINGTON DC                             $79.06
+DSDR20240322      05/24/2024  CITIBANK - SENATOR IBA CARD  05/16/2024  05/16/2024  SENATOR TRANSPORTATION                                                        $293.10
+DSDR20240323      05/24/2024  CITIBANK - SENATOR IBA CARD  05/07/2024  05/07/2024  AIRFARE FOR SEN SANDERS WASHINGTON DC TO BURLINGTON                           $293.10
+DSDR20240324      05/24/2024  CITIBANK - SENATOR IBA CARD  05/09/2024  05/09/2024  STAFF TRANSPORTATION                                                          $364.10
+DSDR20240325      05/24/2024  CITIBANK - SENATOR IBA CARD  05/02/2024  05/02/2024  4/1 BURLINGTON TO SOUTH BURLINGTON AND RETURN; PLAINFIELD TO                  $293.10
+DSDR20240344      06/18/2024  CITIBANK - SENATOR IBA CARD  05/20/2024  05/20/2024  THE FOLLOWING AND RETURN: 4/30, 5/1 MONTPELIER; 5/7 FAIRLEE                   $293.10
+DSDR20240345      06/18/2024  CITIBANK - SENATOR IBA CARD  06/03/2024  06/03/2024  STAFF TRANSPORTATION                                                          $419.10
+                                                                                   BURLINGTON TO MONTPELIER AND RETURN                                           $293.10
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WINDSOR TO BRATTLEBORO AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WINDSOR TO NORTHFIELD AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WINDSOR TO RANDOLPH AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WINDSOR TO CASTLETON AND RETURN
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN SANDERS BURLINGTON TO WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN SANDERS WASHINGTON DC TO BURLINGTON
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN SANDERS BURLINGTON TO WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN SANDERS WASHINGTON DC TO BURLINGTON
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN SANDERS WASHINGTON DC TO BURLINGTON
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN SANDERS BURLINGTON TO WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+

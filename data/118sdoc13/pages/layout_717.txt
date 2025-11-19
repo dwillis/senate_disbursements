@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                             DATES
+DBRN20240739                                                                      CLEVELAND TO TOLEDO AND RETURN                                               $50.25
+DBRN20240740                                              START       END         SENATOR TRANSPORTATION                                                       $47.14
+DBRN20240741                                                                      CLEVELAND TO MANSFIELD                                                       $17.67
+                  06/06/2024  BROWN,SHERROD               04/24/2024  04/24/2024  SENATOR TRANSPORTATION                                                       $48.91
+DBRN20240742      06/06/2024  BROWN,SHERROD               04/29/2024  04/29/2024  CLEVELAND TO YOUNGSTOWN                                                      $10.79
+                  06/06/2024  ANN L ORR                   05/15/2024  05/15/2024  STAFF PER DIEM                                                               $49.58
+DBRN20240743                                                                      STAFF TRANSPORTATION
+                  06/10/2024  ANN L ORR                   05/22/2024  05/22/2024  OBERLIN TO CLEVELAND AND RETURN                                               $7.39
+DBRN20240744                                                                      STAFF PER DIEM                                                               $50.25
+                  06/10/2024  ANN L ORR                   05/24/2024  05/24/2024  STAFF TRANSPORTATION                                                         $16.80
+DBRN20240745                                                                      CINCINNATI TO CLEVELAND AND RETURN                                           $84.95
+DBRN20240746      06/11/2024  ANTHONY L ELIOPOULOS        06/01/2024  06/01/2024  STAFF PER DIEM
+DBRN20240747                                                                      STAFF TRANSPORTATION                                                          $8.04
+DBRN20240748      06/11/2024  JORDAN T PENNELL            05/31/2024  05/31/2024  OBERLIN TO CLEVELAND AND RETURN                                            $204.63   B-699
+DBRN20240749      06/11/2024  KALEB KNOWLTON              05/15/2024  05/15/2024  STAFF PER DIEM
+DBRN20240750      06/11/2024  KALEB KNOWLTON              05/21/2024  05/21/2024  STAFF TRANSPORTATION                                                         $61.64
+DBRN20240751      06/11/2024  KALEB KNOWLTON              05/22/2024  05/22/2024  COLUMBUS TO CHILLICOTHE AND RETURN                                         $204.63
+DBRN20240752      06/12/2024  KALEB KNOWLTON              05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                       $220.43
+DBRN20240753      06/11/2024  KALEB KNOWLTON              05/29/2024  05/29/2024  IN AND AROUND YOUNGSTOWN
+DBRN20240754      06/12/2024  KALEB KNOWLTON              05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                         $69.01
+                  06/12/2024  KALEB KNOWLTON              06/01/2024  06/01/2024  MINGO JUNCTION TO COLUMBUS AND RETURN                                      $270.68
+DBRN20240755      06/11/2024  CITIBANK - TRAVEL CBA CARD  06/03/2024  06/03/2024  STAFF TRANSPORTATION                                                       $244.55
+                  06/11/2024  CITIBANK - TRAVEL CBA CARD  05/12/2024  05/15/2024  MINGO JUNCTION TO DELLROY AND RETURN                                       $567.10
+DBRN20240756                                                                      STAFF TRANSPORTATION                                                       $908.20
+DBRN20240757      06/11/2024  CITIBANK - TRAVEL CBA CARD  05/22/2024  05/24/2024  MINGO JUNCTION TO COLUMBUS AND RETURN
+DBRN20240758                                                                      STAFF TRANSPORTATION                                                         $30.00
+                  06/11/2024  CITIBANK - TRAVEL CBA CARD  05/13/2024  05/13/2024  MINGO JUNCTION TO ATHENS AND RETURN                                        $436.21
+DBRN20240765      06/10/2024  CITIBANK - TRAVEL CBA CARD  05/12/2024  05/12/2024  STAFF TRANSPORTATION
+                  06/12/2024  CITIBANK - TRAVEL CBA CARD  05/01/2024  05/01/2024  MINGO JUNCTION TO COLUMBIANA AND RETURN                                      $30.00
+                                                                                  STAFF TRANSPORTATION                                                       $191.60
+                  06/12/2024  ELAINE N VILEM              05/28/2024  05/29/2024  MINGO JUNCTION TO JACKSON AND RETURN                                       $165.09
+                                                                                  STAFF TRANSPORTATION                                                       $200.10
+                                                                                  MINGO JUNCTION TO CHILLICOTHE AND RETURN
+                                                                                  SENATOR TRANSPORTATION                                                       $30.00
+                                                                                  AIRFARE FOR SEN BROWN CLEVELAND TO WASHINGTON DC                             $16.29
+                                                                                  STAFF TRANSPORTATION                                                       $120.28
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR K ANDERSON DAYTON TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR E VILEM CLEVELAND TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR S BENZING COLUMBUS TO WASHINGTON DC
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR S BENZING WASHINGTON DC TO COLUMBUS
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR S BENZING WASHINGTON DC TO DETROIT MI
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+

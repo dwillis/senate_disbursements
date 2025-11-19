@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DCAS20241192                  ETHAN MARC SELETSKY                                       STAFF TRANSPORTATION                                                            $40.46
+DCAS20241193      07/17/2024  ETHAN MARC SELETSKY               START       END         PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $62.84
+DCAS20241195      07/17/2024  TRACE J LEDGARD                                           STAFF TRANSPORTATION
+DCAS20241196      07/17/2024  ELIZABETH M COOPER                07/08/2024  07/08/2024  PHILADELPHIA TO COATESVILLE AND RETURN                                          $34.84
+                  07/19/2024                                                            STAFF TRANSPORTATION
+DCAS20241197                  ETHAN MARC SELETSKY               07/02/2024  07/02/2024  PITTSBURGH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $22.58
+DCAS20241198      07/17/2024  ELIZABETH M COOPER                                        STAFF PER DIEM                                                                $110.55
+DCAS20241199      07/18/2024  TRACE J LEDGARD                   07/10/2024  07/10/2024  STAFF TRANSPORTATION
+                  07/18/2024                                                            BOALSBURG TO BROOKVILLE TO STATE COLLEGE                                        $33.50
+DCAS20241200                  ANDREA M GUSCOTT                  07/11/2024  07/11/2024  STAFF TRANSPORTATION
+DCAS20241201      07/19/2024  LINDSAY M MARTIN                                          PHILADELPHIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $12.86
+DCAS20241202      07/19/2024  LINDSAY M MARTIN                  07/11/2024  07/11/2024  STAFF TRANSPORTATION
+                  07/23/2024                                    07/09/2024  07/09/2024  STATE COLLEGE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $23.00
+                                                                07/11/2024  07/11/2024  STAFF PER DIEM                                                                  $61.64
+                                                                                        STAFF TRANSPORTATION
+                                                                07/12/2024  07/12/2024  PITTSBURGH TO KITTANNING AND RETURN                                             $30.72  B-854
+                                                                07/03/2024  07/03/2024  STAFF TRANSPORTATION
+                                                                04/28/2024  04/30/2024  HARRISBURG OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $42.00
+                                                                                        STAFF TRANSPORTATION
+DCAS20241204      07/18/2024  TRACE J LEDGARD                   07/12/2024  07/12/2024  LANCASTER TO PHILADELPHIA AND RETURN                                            $21.56
+DCAS20241205                                                                            STAFF INCIDENTALS                                                             $196.00
+DCAS20241206      07/20/2024  KYLE L HANNON                     07/12/2024  07/12/2024  STAFF PER DIEM                                                                $498.89
+DCAS20241207      07/18/2024  BALL,JORDAN                       07/12/2024  07/12/2024  STAFF TRANSPORTATION
+DCAS20241208      07/19/2024  IAN F MADIGAN                     07/15/2024  07/15/2024  LANCASTER TO NEW CASTLE, HERMITAGE, NEW CASTLE, WORTHINGTON,                    $12.28
+DCAS20241209      07/19/2024  AMY E COZZE                       07/11/2024  07/11/2024  KITTANNING AND RETURN                                                           $78.39
+                  07/23/2024  MISHA SAMUEL LINNEHAN             06/13/2024  06/14/2024  STAFF PER DIEM
+DCAS20241210                                                                            STAFF TRANSPORTATION                                                          $105.86
+DCAS20241211      07/23/2024  MISHA SAMUEL LINNEHAN             06/21/2024  06/21/2024  PITTSBURGH TO DARLINGTON, NEW CASTLE AND RETURN
+DCAS20241213      07/29/2024  BENJAMIN X GILSDORF               06/24/2024  06/26/2024  STAFF TRANSPORTATION                                                            $10.72
+                  07/23/2024  MISHA SAMUEL LINNEHAN             06/22/2024  06/23/2024  ERIE TO SHARPSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                            $10.47
+                                                                                        PITTSBURGH TO WEST MIFFLIN AND RETURN
+                                                                                        STAFF PER DIEM                                                                  $96.48
+                                                                                        SCRANTON TO HELLERTOWN AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                            $10.92
+                                                                                        ALLENTOWN TO PHILADELPHIA AND RETURN                                          $170.80
+                                                                                        STAFF INCIDENTALS                                                             $192.18
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                             $7.06
+                                                                                        WASHINGTON DC TO BEDFORD AND RETURN                                           $172.86
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                            $24.60
+                                                                                        WASHINGTON DC TO HERSHEY AND RETURN                                           $307.29
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM                                                                  $33.46
+                                                                                        WASHINGTON DC TO BETHLEHEM AND RETURN                                         $285.17
+                                                                                        STAFF INCIDENTALS                                                             $360.92
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO PITTSBURGH AND RETURN
+

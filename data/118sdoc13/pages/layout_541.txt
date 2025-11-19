@@ -1,0 +1,30 @@
+DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE  DESCRIPTION                                                   AMOUNT ($)
+              POSTED                                              DATES
+                                                                                                                                                           $56.28
+                                                       START       END
+                                                                                                                                                           $20.29
+DBNN20240563  09/26/2024  JAMES A THOMPSON             09/10/2024                        STAFF TRANSPORTATION                                              $64.99
+                                                                                         FORT COLLINS TO ESTES PARK AND RETURN
+DBNN20240564  09/26/2024  JAMES A THOMPSON             09/16/2024   09/10/2024 STAFF PER DIEM                                                              $24.71
+                                                                                         STAFF TRANSPORTATION                                              $71.69
+DBNN20240572  09/27/2024  CITIBANK - SENATOR IBA CARD  09/05/2024                        FORT COLLINS TO FORT LUPTON AND RETURN
+DBNN20240574  09/27/2024  CITIBANK - SENATOR IBA CARD  09/19/2024   09/16/2024 STAFF PER DIEM                                                            $469.48
+DBNN20240575  09/27/2024  CITIBANK - SENATOR IBA CARD  09/23/2024                        STAFF TRANSPORTATION
+                                                                                         FORT COLLINS TO BROOMFIELD AND RETURN                           $293.10
+DBNN20240457  07/23/2024  CHASE TANNER CROMWELL        07/15/2024   09/05/2024 SENATOR TRANSPORTATION                                                              B-523
+DBNN20240523  09/24/2024  ERIN G MINKS                 08/20/2024                        AIRFARE FOR SEN BENNET GUNNISON TO DENVER                       $293.10
+                                                                    09/19/2024 SENATOR TRANSPORTATION
+0002857400    08/07/2024  SERGEANT AT ARMS             06/01/2024                        AIRFARE FOR SEN BENNET WASHINGTON DC TO DENVER              $90,600.32
+DBNN20240530  09/20/2024  CITIBANK - PURCHASE CARD     08/01/2024   09/23/2024 SENATOR TRANSPORTATION                                                      $53.80
+DBNN20240543  09/20/2024  CITIBANK - PURCHASE CARD     08/24/2024                        AIRFARE FOR SEN BENNET DENVER TO WASHINGTON DC                    $80.00
+                                                                   TRAVEL AND TRANSPORTATION OF PERSONS
+                                                                                                                                                         $133.80
+                                                                    07/18/2024 SERVICE CHARGES & OTHER FEES                                           $6,588.00
+                                                                    08/21/2024 TRAIN/ORIENT/CONFERENCE FEES
+                                                                   OTHER CONTRACTUAL SERVICES                                                              $18.22
+                                                                                                                                                           $12.74
+                                                                    06/30/2024 VOICE & DATA COMM EQUIPMENT                                            $6,618.96
+                                                                    08/01/2024 VOICE & DATA COMM EQUIPMENT
+                                                                    08/24/2024 VOICE & DATA COMM EQUIPMENT
+                                                                   ACQUISITION OF ASSETS
+

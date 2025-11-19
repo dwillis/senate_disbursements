@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME          OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+              POSTED                                     DATES
+                                                                      STAFF TRANSPORTATION                                                              $80.40
+                                              START       END         TOPEKA TO MANHATTAN AND RETURN
+                                                                      STAFF TRANSPORTATION                                                              $55.61
+DMRS20240534  08/19/2024  JOHN MUGLER         08/06/2024  08/06/2024  TOPEKA TO HOLTON AND RETURN
+DMRS20240535  08/29/2024  ROGER W MARSHALL    07/11/2024  07/22/2024  SENATOR INCIDENTALS                                                             $128.76
+                                                                      SENATOR PER DIEM                                                             $1,074.12
+DMRS20240538  09/15/2024  JOHN C MARTIN       08/14/2024  08/14/2024  SENATOR TRANSPORTATION                                                                    B-1740
+DMRS20240539  09/17/2024  VERONICA CONTRERAS  07/25/2024  07/25/2024  WASHINGTON DC TO KANSAS CITY MO, OVERLAND PARK, KANSAS CITY                     $991.60
+DMRS20240540                                                          MO, MILWAUKEE WI, KANSAS CITY MO, INDEPENDENCE, OVERLAND PARK,
+DMRS20240541  09/15/2024  VERONICA CONTRERAS  08/15/2024  08/15/2024  KANSAS CITY MO AND RETURN                                                         $70.35
+DMRS20240542  09/19/2024  JOHN MUGLER         08/14/2024  08/14/2024  STAFF TRANSPORTATION
+DMRS20240543                                                          OVERLAND PARK TO PLATTE CITY MO AND RETURN                                        $15.00
+DMRS20240544  09/20/2024  JOHN MUGLER         08/15/2024  08/15/2024  STAFF PER DIEM                                                                    $79.06
+DMRS20240545                                                          STAFF TRANSPORTATION
+DMRS20240546  09/15/2024  JOHN MUGLER         08/16/2024  08/16/2024  GARDEN CITY TO DODGE CITY AND RETURN                                              $60.30
+              09/19/2024  JOHN C MARTIN       08/19/2024  08/19/2024  STAFF TRANSPORTATION
+DMRS20240547  09/20/2024  JOHN MUGLER         08/20/2024  08/20/2024  GARDEN CITY TO SUBLETTE AND RETURN                                                $24.00
+DMRS20240548                                                          STAFF PER DIEM                                                                    $89.07
+DMRS20240549  09/11/2024  ROGER W MARSHALL    07/25/2024  07/29/2024  STAFF TRANSPORTATION
+DMRS20240550                                                          TOPEKA TO OVERLAND PARK AND RETURN                                                $31.00
+DMRS20240552  09/19/2024  REBECCA L SWENDER   08/16/2024  08/16/2024  STAFF PER DIEM                                                                    $90.45
+DMRS20240553  09/24/2024  REBECCA L SWENDER   08/17/2024  08/17/2024  STAFF TRANSPORTATION
+              09/15/2024  JOHN C MARTIN       08/21/2024  08/21/2024  TOPEKA TO MANHATTAN AND RETURN                                                    $88.44
+              09/20/2024  JOHN C MARTIN       08/22/2024  08/22/2024  STAFF TRANSPORTATION
+              09/20/2024  JOHN MUGLER         08/22/2024  08/22/2024  TOPEKA TO ALTA VISTA AND RETURN                                                 $100.80
+              09/12/2024  BRENT C ROBERTSON   08/19/2024  08/23/2024  STAFF TRANSPORTATION
+                                                                      OVERLAND PARK TO TOPEKA AND RETURN                                                $55.00
+                                                                      STAFF PER DIEM                                                                  $117.92
+                                                                      STAFF TRANSPORTATION
+                                                                      TOPEKA TO WATHENA AND RETURN                                                      $89.50
+                                                                      SENATOR INCIDENTALS                                                             $733.24
+                                                                      SENATOR PER DIEM                                                             $1,210.91
+                                                                      SENATOR TRANSPORTATION
+                                                                      WASHINGTON DC TO KANSAS CITY MO, LEAWOOD, WICHITA AND RETURN                      $76.50
+                                                                      STAFF PER DIEM                                                                  $182.24
+                                                                      STAFF TRANSPORTATION
+                                                                      GARDEN CITY TO SYRACUSE, ELKHART, HUGOTON, PLAINS AND RETURN                      $12.43
+                                                                      STAFF PER DIEM                                                                  $223.78
+                                                                      STAFF TRANSPORTATION
+                                                                      GARDEN CITY TO CIMARRON, ASHLAND, MEDICINE LODGE AND RETURN                       $97.15
+                                                                      STAFF TRANSPORTATION
+                                                                      OVERLAND PARK TO PLATTE CITY MO AND RETURN                                      $161.10
+                                                                      STAFF TRANSPORTATION
+                                                                      OVERLAND PARK TO LAWRENCE AND RETURN                                              $51.00
+                                                                      STAFF PER DIEM                                                                  $251.84
+                                                                      STAFF TRANSPORTATION
+                                                                      TOPEKA TO KANSAS CITY, SALINA AND RETURN                                          $98.31
+                                                                      STAFF INCIDENTALS                                                               $798.00
+                                                                      STAFF PER DIEM                                                               $1,730.85
+                                                                      STAFF TRANSPORTATION
+

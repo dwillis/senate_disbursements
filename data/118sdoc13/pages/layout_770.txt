@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+              POSTED                                              DATES
+                                                                               STAFF TRANSPORTATION                                                         $139.36
+                                                       START       END         FRESNO TO GUSTINE AND RETURN                                                   $49.31
+                                                                               STAFF TRANSPORTATION                                                           $15.74
+DBTL20240299  05/01/2024  NICHOLAS FIDENCIO HERNANDEZ  04/12/2024  04/12/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $89.32  B-752
+DBTL20240300  05/09/2024  NICHOLAS FIDENCIO HERNANDEZ  04/13/2024  04/13/2024  STAFF TRANSPORTATION
+DBTL20240301  05/01/2024  CHESNA A FOORD               04/17/2024  04/17/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $100.50
+DBTL20240318  05/07/2024  ABAJIAN,SHELLY H             04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                         $160.10
+DBTL20240323  07/01/2024  CITIBANK - TRAVEL CBA CARD   04/26/2024  04/26/2024  NEWPORT BEACH TO RIVERSIDE AND RETURN
+DBTL20240325  05/16/2024  ALBERTO SANCHEZ GONZALEZ     06/01/2024  06/01/2024  STAFF TRANSPORTATION                                                            $3.35
+DBTL20240326  05/16/2024  EDWIN A SEVILLA              05/06/2024  05/06/2024  FRESNO TO HUME AND RETURN                                                      $46.90
+DBTL20240328  05/16/2024  CHESNA A FOORD               05/02/2024  05/02/2024  SENATOR TRANSPORTATION                                                         $18.76
+DBTL20240330  05/16/2024  CHESNA A FOORD               04/29/2024  04/29/2024  AIRFARE FOR SEN BUTLER ATLANTA GA TO WASHINGTON DC                             $22.78
+DBTL20240331  05/16/2024  ALBERTO SANCHEZ GONZALEZ     04/26/2024  04/26/2024  STAFF TRANSPORTATION                                                           $20.43
+DBTL20240333  05/21/2024  EDWIN A SEVILLA              04/10/2024  04/10/2024  SAN DIEGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION                                                            $6.45
+DBTL20240336  06/04/2024  EDWIN A SEVILLA              05/03/2024  05/03/2024  SAN FRANCISCO TO FREMONT AND RETURN                                          $127.60
+                                                                               STAFF TRANSPORTATION
+DBTL20240341  05/30/2024  ALEXANDER H CHANG            03/31/2024  05/17/2024  NEWPORT BEACH TO ORANGE AND RETURN                                             $13.91
+DBTL20240342  05/29/2024  JOANNE M HAYES-WHITE         04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                         $130.28
+DBTL20240343  05/25/2024  CHESNA A FOORD               05/07/2024  05/07/2024  NEWPORT BEACH TO MISSION VIEJO AND RETURN                                    $288.63
+DBTL20240344  05/30/2024  CAMILLE J PON                05/08/2024  05/08/2024  STAFF TRANSPORTATION
+DBTL20240345  05/30/2024  CHESNA A FOORD               05/18/2024  05/18/2024  SAN DIEGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $26.58
+DBTL20240346  05/28/2024  CAMILLE J PON                05/16/2024  05/16/2024  STAFF PER DIEM                                                                 $20.77
+DBTL20240347  05/28/2024  CAMILLE J PON                05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                         $123.28
+DBTL20240348  05/28/2024  CAMILLE J PON                05/14/2024  05/14/2024  SAN FRANCISCO TO SACRAMENTO AND RETURN                                       $199.66
+DBTL20240349  08/06/2024  EDWIN A SEVILLA              05/09/2024  05/11/2024  STAFF PER DIEM                                                                 $45.56
+                                                                               STAFF TRANSPORTATION                                                           $48.24
+DBTL20240350  05/30/2024  JOANNE M HAYES-WHITE         05/10/2024  05/11/2024  SAN FRANCISCO TO SACRAMENTO AND RETURN                                         $71.02
+                                                                               STAFF TRANSPORTATION                                                           $12.41
+                                                                               WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $295.88
+                                                                               STAFF TRANSPORTATION
+                                                                               SAN FRANCISCO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $18.76
+                                                                               STAFF TRANSPORTATION
+                                                                               NEWPORT BEACH TO ANAHEIM AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               FAIRFAX TO BROOKS AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               NEWPORT BEACH TO MECCA AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               FAIRFAX TO VALLEJO AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               FAIRFAX TO ELDRIDGE AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               FAIRFAX TO FORESTVILLE AND RETURN
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               SAN FRANCISCO TO OAKLAND, MONTEREY, SACRAMENTO, OAKLAND AND
+                                                                               RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               SAN FRANCISCO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

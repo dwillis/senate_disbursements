@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE                   PAYEE NAME      OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                              DATES
+DCRU20240942                                                                       MCALLEN TO BROWNSVILLE AND RETURN                                            $32.41
+                                                           START       END         STAFF INCIDENTALS                                                          $184.00
+DCRU20240943                                                                       STAFF PER DIEM                                                             $553.94
+DCRU20240944      07/25/2024  ROJAS,JOSHUA                 12/14/2023  12/15/2023  STAFF TRANSPORTATION
+DCRU20240945                                                                       MCALLEN TO AUSTIN AND RETURN                                                 $16.90
+                  07/26/2024  ROJAS,JOSHUA                 03/24/2024  03/25/2024  STAFF PER DIEM                                                             $315.04
+DCRU20240946                                                                       STAFF TRANSPORTATION
+                  07/29/2024  CASANDRA L GARCIA            05/10/2024  05/19/2024  MCALLEN TO HARLINGEN, BROWNSVILLE AND RETURN                               $841.10
+DCRU20240952      07/29/2024  CASANDRA L GARCIA            05/29/2024  05/31/2024  STAFF TRANSPORTATION
+DCRU20240953                                                                       DEL RIO TO SAN ANTONIO, WASHINGTON DC, DALLAS AND RETURN                     $42.56
+                  07/29/2024  WINDSOR,PAUL M               05/23/2024  05/24/2024  STAFF INCIDENTALS                                                          $229.00
+DCRU20240954                                                                       STAFF PER DIEM                                                             $550.31
+DCRU20240955      08/06/2024  MATTHEW CHRISTOPHER WINGATE  07/13/2024  07/22/2024  STAFF TRANSPORTATION
+                                                                                   DEL RIO TO SAN ANTONIO, HOUSTON AND RETURN                                 $217.63
+DCRU20240956      08/05/2024  CARL B MICA                  07/21/2024  07/24/2024  STAFF INCIDENTALS                                                          $163.57   B-1054
+DCRU20240957                                                                       STAFF PER DIEM                                                          $1,415.98
+DCRU20240958      08/02/2024  MATTHEW GRANT MURRAY         07/01/2024  07/26/2024  STAFF TRANSPORTATION
+                  08/06/2024  AARON FRANCIS REITZ          07/07/2024  07/11/2024  WASHINGTON DC TO SAN ANTONIO AND RETURN                                    $196.71
+DCRU20240959                                                                       STAFF PER DIEM                                                             $243.43
+DCRU20240960      08/05/2024  CARL B MICA                  07/19/2024  07/19/2024  STAFF TRANSPORTATION
+DCRU20240961      08/02/2024  SAMUEL A GUEBARA             07/24/2024  07/24/2024  ALEXANDRIA VA TO WASHINGTON DC, COLLEGE STATION, BRYAN,                      $84.21
+DCRU20240963      08/06/2024  ROSA MARIA IBANEZ            04/17/2024  04/19/2024  HOUSTON, COLLEGE STATION, WASHINGTON DC AND RETURN                         $671.78
+                                                                                   STAFF INCIDENTALS                                                       $1,707.68
+                  08/22/2024  MACARENA MARTINEZ            06/24/2024  06/24/2024  STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION                                                       $157.45
+                  07/31/2024  GIOVANNI CATANZARO           07/23/2024  07/23/2024  AUSTIN TO WASHINGTON DC AND RETURN
+                  07/31/2024  BLAKE T VINEYARD             07/08/2024  07/08/2024  STAFF TRANSPORTATION                                                         $28.07
+                  08/02/2024  BLAKE T VINEYARD             07/23/2024  07/23/2024  HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $261.68
+                                                                                   STAFF INCIDENTALS                                                       $1,433.41
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION                                                         $36.44
+                                                                                   AUSTIN TO WASHINGTON DC AND RETURN                                         $770.08
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION                                                         $30.49
+                                                                                   AUSTIN TO DALLAS AND RETURN                                                $127.97
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION                                                         $59.88
+                                                                                   AUSTIN TO SAN ANTONIO AND RETURN                                           $340.00
+                                                                                   STAFF INCIDENTALS                                                          $578.00
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION                                                         $42.23
+                                                                                   MCALLEN TO AUSTIN AND RETURN                                               $223.11
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION                                                         $73.70
+                                                                                   HOUSTON TO AUSTIN AND RETURN
+                                                                                   STAFF TRANSPORTATION                                                         $95.14
+                                                                                   FORT WORTH TO GRANBURY AND RETURN
+                                                                                   STAFF TRANSPORTATION                                                       $183.58
+                                                                                   LUBBOCK TO MULESHOE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+

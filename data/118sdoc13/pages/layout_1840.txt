@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+                   POSTED                                                  DATES
+DMER20240438                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                                $307.59
+DMER20240439      08/28/2024  CITIBANK - TRAVEL CBA CARD        START       END         RENTAL AUTO FOR L SMITH REDMOND TO BEND, KLAMATH FALLS, SALEM
+DMER20240440                  CITIBANK - TRAVEL CBA CARD                                TO PORTLAND                                                                           $68.03
+DMER20240441      09/12/2024  CITIBANK - TRAVEL CBA CARD        07/14/2024  07/18/2024  STAFF TRANSPORTATION                                                                $536.20
+DMER20240445      08/27/2024  GAVIN R COBLE                                             RENTAL AUTO FOR S FRANCIA EUGENE TO NEWPORT AND RETURN                           $1,130.07
+                  08/27/2024                                    08/01/2024  08/02/2024  STAFF TRANSPORTATION
+DMER20240446                                                    08/11/2024  08/14/2024  AIRFARE FOR M ZWOLINSKI WASHINGTON DC TO PORTLAND AND RETURN                          $10.49
+DMER20240447      09/06/2024                                    08/11/2024  08/13/2024  STAFF TRANSPORTATION                                                                $125.20
+DMER20240448                                                                            AIRFARE FOR M SUNSTRUM AS FOLLOWS: 8/11 DETROIT MI TO PORTLAND; 8                   $179.47
+DMER20240449                                                    08/14/2024  08/15/2024  /13 PORTLAND TO DETROIT MI
+DMER20240450                                                                            STAFF INCIDENTALS                                                                     $10.09
+DMER20240451      09/05/2024  IRIS I GODFREY                    08/14/2024  08/14/2024  STAFF PER DIEM                                                                      $280.99   B-1803
+                                                                                        STAFF TRANSPORTATION
+DMER20240452      09/05/2024  ANDREW E JAUHIAINEN               08/12/2024  08/12/2024  BEND TO KLAMATH FALLS AND RETURN                                                      $41.13
+DMER20240459      09/05/2024  IRIS I GODFREY                    08/13/2024  08/13/2024  STAFF PER DIEM                                                                        $19.65
+DMER20240460      09/10/2024  IRIS I GODFREY                    07/16/2024  07/16/2024  STAFF TRANSPORTATION                                                                  $12.00
+DMER20240461      09/10/2024  ANDREW E JAUHIAINEN               08/14/2024  08/14/2024  BANKS TO SALEM, ROSEBURG AND RETURN
+DMER20240465      09/11/2024  MARGARET ROUSSEAU SUNSTRUM        08/11/2024  08/13/2024  STAFF TRANSPORTATION                                                                   $7.54
+                                                                                        PORTLAND OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                     $42.88
+                  09/11/2024  GUSTAVO A GUERRERO LANDEROS       08/12/2024  08/23/2024  STAFF TRANSPORTATION                                                                $355.84
+                                                                                        PORTLAND OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                     $60.16
+                  09/16/2024  JESSICA H KEYS                    07/17/2024  07/17/2024  STAFF TRANSPORTATION                                                                $305.23
+                  09/13/2024  SOPHIA W FRANCIA                  08/26/2024  08/26/2024  PORTLAND OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  09/13/2024  SOPHIA W FRANCIA                  08/27/2024  08/27/2024  STAFF PER DIEM                                                                      $113.97
+                  09/24/2024  MEREDITH M BOOKER                 08/25/2024  09/07/2024  PORTLAND TO SALEM AND RETURN                                                          $49.78
+                                                                                        STAFF INCIDENTALS                                                                     $49.78
+DMER20240466      09/19/2024  OLIVIA M WEISS                    09/09/2024  09/09/2024  STAFF PER DIEM                                                                        $59.78
+DMER20240467      09/26/2024  MITRA REBECCA ANOUSHIRAVANI       08/01/2024  08/30/2024  STAFF TRANSPORTATION
+DMER20240468      09/19/2024  MITRA REBECCA ANOUSHIRAVANI       08/27/2024  08/29/2024  WASHINGTON DC TO PORTLAND AND RETURN                                                $876.35
+DMER20240470      09/26/2024  JESSICA H KEYS                    07/14/2024  07/16/2024  STAFF TRANSPORTATION                                                                $789.46
+                                                                                        8/12 SALEM TO SHERWOOD, FAIRVIEW TO MCMINNVILLE; MCMINNVILLE TO
+                                                                                        THE FOLLOWING AND RETURN: 8/13 ASTORIA, SEASIDE; 8/23 SAINT HELENS                    $22.27
+                                                                                        STAFF TRANSPORTATION                                                                $184.32
+                                                                                        BAKER CITY TO VALE AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                                   $6.08
+                                                                                        EUGENE TO CORVALLIS AND RETURN                                                         $9.95
+                                                                                        STAFF TRANSPORTATION
+                                                                                        EUGENE TO CORVALLIS AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO REDMOND, CRATER LAKE, KLAMATH FALLS, BANDON,
+                                                                                        ASHLAND, MEDFORD, REDMOND AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PORTLAND OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PORTLAND OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        PORTLAND TO CORVALLIS AND RETURN
+                                                                                        STAFF INCIDENTALS
+

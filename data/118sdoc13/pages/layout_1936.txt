@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME         OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                    DATES
+DMRP20240880                                                             HARTFORD TO NEW HAVEN TO WATERBURY                                             $67.00
+DMRP20240881                                     START       END         STAFF TRANSPORTATION                                                           $20.10
+DMRP20240882                                                             HARTFORD TO PAWCATUCK AND RETURN                                               $44.22
+DMRP20240883      08/01/2024  CLAUDE CAMPBELL    07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                           $26.58
+DMRP20240884      07/31/2024  CLAUDE CAMPBELL    07/11/2024  07/11/2024  HARTFORD TO ELLINGTON AND RETURN                                               $19.95
+                  07/31/2024  CLAUDE CAMPBELL    07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                         $221.96
+                  08/02/2024  HARRY STEIN        07/25/2024  07/25/2024  HARTFORD TO MONTVILLE AND RETURN                                             $254.23
+                  08/06/2024  ALEXANDER E MUKAI  07/25/2024  07/26/2024  STAFF TRANSPORTATION
+                                                                         WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $50.92
+DMRP20240885      08/01/2024  CLAUDE CAMPBELL    07/26/2024  07/26/2024  STAFF INCIDENTALS                                                              $44.89  B-1899
+DMRP20240886      08/01/2024  CLAUDE CAMPBELL    07/24/2024  07/24/2024  STAFF PER DIEM                                                                 $17.42
+DMRP20240887      08/01/2024  CLAUDE CAMPBELL    07/16/2024  07/16/2024  STAFF TRANSPORTATION                                                           $67.00
+DMRP20240888      08/01/2024  CLAUDE CAMPBELL    07/15/2024  07/15/2024  WASHINGTON DC TO WINDSOR LOCKS, HARTFORD, WINDSOR LOCKS AND                    $54.94
+DMRP20240889      08/01/2024  CLAUDE CAMPBELL    07/12/2024  07/12/2024  RETURN                                                                         $50.92
+DMRP20240890      08/01/2024  CLAUDE CAMPBELL    07/09/2024  07/09/2024  STAFF TRANSPORTATION
+DMRP20240891      08/01/2024  CLAUDE CAMPBELL    07/08/2024  07/08/2024  HARTFORD TO SHELTON AND RETURN                                                  $9.38
+DMRP20240892      08/05/2024  ERIN E MCBRIDE     07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                         $101.17
+DMRP20240893      08/01/2024  ERIN E MCBRIDE     07/24/2024  07/24/2024  HARTFORD TO NEW HAVEN AND RETURN
+                                                                         STAFF TRANSPORTATION                                                           $22.57
+DMRP20240894      08/01/2024  ERIN E MCBRIDE     07/29/2024  07/29/2024  HARTFORD TO MIDDLETOWN AND RETURN                                              $48.91
+                                                                         STAFF TRANSPORTATION                                                           $25.06
+DMRP20240895      08/01/2024  ERIN E MCBRIDE     07/26/2024  07/26/2024  HARTFORD TO BRIDGEPORT AND RETURN                                              $24.79
+                                                                         STAFF TRANSPORTATION                                                           $22.76
+DMRP20240896      08/06/2024  KYLEE ANNE DOSTIE  07/26/2024  07/26/2024  HARTFORD TO GROTON AND RETURN                                                  $14.74
+                                                                         STAFF TRANSPORTATION
+DMRP20240900      08/13/2024  ERIN E MCBRIDE     07/30/2024  07/30/2024  HARTFORD TO WATERFORD AND RETURN                                                $8.67
+                                                                         STAFF TRANSPORTATION                                                           $56.28
+DMRP20240901      08/15/2024  ERIN E MCBRIDE     07/31/2024  07/31/2024  HARTFORD TO ROCKY HILL AND RETURN
+                                                                         STAFF TRANSPORTATION                                                            $9.58
+DMRP20240906      08/15/2024  ERIN E MCBRIDE     08/02/2024  08/02/2024  QUAKER HILL TO MADISON, WESTBROOK TO HARTFORD; HARTFORD TO                     $57.62
+                                                                         HADLYME TO QUAKER HILL                                                         $13.28
+                                                                         STAFF PER DIEM                                                                 $80.40
+                                                                         STAFF TRANSPORTATION                                                           $35.51
+                                                                         QUAKER HILL TO NORWICH, WINDHAM AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         QUAKER HILL TO STONINGTON AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         QUAKER HILL TO NORWICH AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         HARTFORD TO NORWICH AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         QUAKER HILL TO SCOTLAND, DANIELSON AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         QUAKER HILL TO VERNON, EAST LYME AND RETURN
+                                                                         STAFF TRANSPORTATION
+

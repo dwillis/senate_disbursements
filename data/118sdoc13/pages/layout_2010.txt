@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                             DATES
+DPAD20240395                                                                      BERKELEY TO HAYWARD AND RETURN                                               $36.44
+DPAD20240396                                              START       END         STAFF TRANSPORTATION                                                         $43.88
+DPAD20240398                                                                      BERKELEY TO DUBLIN AND RETURN
+DPAD20240399      05/24/2024  ROBERTO A ARTEAGA           05/01/2024  05/01/2024  STAFF TRANSPORTATION                                                          $6.83  B-1973
+DPAD20240400      05/24/2024  ROBERTO A ARTEAGA           05/02/2024  05/02/2024  BERKELEY TO SAN LEANDRO, NEWARK, UNION CITY AND RETURN                     $139.36
+DPAD20240401      05/24/2024  LAUREN ODETTE GALLANT       04/02/2024  04/02/2024  STAFF TRANSPORTATION
+DPAD20240402      05/29/2024  MARGARET ARECHIGA           05/07/2024  05/07/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $44.22
+DPAD20240403      05/24/2024  LAUREN ODETTE GALLANT       05/09/2024  05/09/2024  STAFF TRANSPORTATION                                                         $58.55
+DPAD20240404      05/24/2024  ROBERTO A ARTEAGA           05/08/2024  05/08/2024  FRESNO TO MODESTO AND RETURN                                                 $58.29
+DPAD20240411      05/24/2024  ADEN J OROZCO               05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                       $119.93
+DPAD20240412      05/29/2024  ADEN J OROZCO               05/11/2024  05/11/2024  LOS ANGELES TO AGOURA HILLS AND RETURN                                       $45.02
+DPAD20240413      05/24/2024  LAUREN ODETTE GALLANT       05/11/2024  05/11/2024  STAFF TRANSPORTATION                                                         $18.89
+DPAD20240414      05/24/2024  LAUREN ODETTE GALLANT       05/16/2024  05/16/2024  BERKELEY TO NAPA AND RETURN                                                  $60.97
+DPAD20240415      05/24/2024  ROBERTO J NEGRETE           05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                         $14.97
+DPAD20240417      05/28/2024  ANGELA R EBINER             03/20/2024  03/20/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $60.97
+DPAD20240418      05/28/2024  ROBERTO J NEGRETE           05/20/2024  05/20/2024  STAFF TRANSPORTATION                                                         $67.67
+DPAD20240419      05/24/2024  ADEN J OROZCO               05/18/2024  05/18/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $358.10
+DPAD20240420      05/31/2024  CITIBANK - TRAVEL CBA CARD  05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                       $358.10
+DPAD20240421      05/29/2024  CITIBANK - TRAVEL CBA CARD  05/09/2024  05/09/2024  ENCINO TO DUARTE AND RETURN                                                $109.10
+DPAD20240422      05/29/2024  CITIBANK - TRAVEL CBA CARD  05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                       $358.10
+DPAD20240426      05/30/2024  CITIBANK - TRAVEL CBA CARD  05/20/2024  05/20/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $473.10
+DPAD20240427      05/31/2024  CITIBANK - TRAVEL CBA CARD  05/16/2024  05/16/2024  STAFF TRANSPORTATION                                                       $129.98
+                  06/06/2024  ROBERTO A ARTEAGA           05/17/2024  05/17/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                    $2,339.04
+DPAD20240428      06/13/2024  CITIBANK - TRAVEL CBA CARD  05/12/2024  05/13/2024  STAFF TRANSPORTATION                                                         $25.04
+DPAD20240429      06/13/2024  CITIBANK - TRAVEL CBA CARD  05/13/2024  05/13/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $525.75
+                                                                                  STAFF TRANSPORTATION                                                         $25.72
+                  06/05/2024  LAUREN ODETTE GALLANT       05/28/2024  05/28/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $39.70
+                  06/13/2024  THERESA M NEVINS            05/12/2024  05/13/2024  STAFF TRANSPORTATION
+                                                                                  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN PADILLA LOS ANGELES TO WASHINGTON DC
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN PADILLA WASHINGTON DC TO LOS ANGELES
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN PADILLA LOS ANGELES TO WASHINGTON DC
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN PADILLA LOS ANGELES TO WASHINGTON DC
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN PADILLA WASHINGTON DC TO LOS ANGELES
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BERKELEY TO MOSS LANDING AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN LOS ANGELES
+                                                                                  SENATOR PER DIEM
+                                                                                  STAFF PER DIEM
+                                                                                  PER DIEM EXPENSES FOR STAFF RETREAT HELD IN LOS ANGELES
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LOS ANGELES TO CARSON AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  SAN FRANCISCO TO LOS ANGELES AND RETURN
+

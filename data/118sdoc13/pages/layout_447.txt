@@ -1,0 +1,64 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME   OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                   DATES
+VSAA22405725                  PERATON ENTERPRISE SOLUTIONS                               TECHNICAL SUPPORT                                                      $30,450.29
+VSAA22405760      06/21/2024  THIRDERA LLC                       START       END         APPLICATION SOFTWARE MAINT                                             $58,204.58
+VSAA22405762      05/31/2024  ALLIANCE MATERIAL HANDLING INC                             PRODUCTION EQUIP MAINT
+VSAA22405763      05/29/2024  ALLIANCE MATERIAL HANDLING INC     04/02/2024  04/02/2024  PRODUCTION EQUIP MAINT                                                     $100.00   B-429
+VSAA22405764      05/29/2024  ALLIANCE MATERIAL HANDLING INC     05/01/2024  05/31/2024  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405765      05/29/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405767      05/29/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405769      05/29/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405770      05/29/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405773      05/29/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405776      05/29/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405779      05/29/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405781      05/29/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405782      05/29/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405783      05/29/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405784      05/30/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405785      05/30/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405786      05/30/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405796      05/30/2024  LITHO TECH LLC                     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405835      05/31/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $918.50
+VSAA22405836      05/30/2024  ALLIANCE MATERIAL HANDLING INC     10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22405838      05/29/2024  GRAYBAR ELECTRIC CO INC            05/16/2024  05/16/2024  VOICE, DATA COMM EQP MAINT                                                 $100.00
+                  06/05/2024  SPECIAL AEROSPACE SECURITY         10/10/2023  10/10/2023                                                                          $6,692.50
+VSAA22405844                  SERVICES, INC                      10/10/2023  10/10/2023  IT SECURITY
+                  05/31/2024  SPECIAL AEROSPACE SECURITY         10/18/2023  10/18/2023                                                                         $32,343.76
+VSAA22405845                  SERVICES, INC                                              IT SECURITY
+                  06/12/2024  SPECIAL AEROSPACE SECURITY         04/11/2024  05/11/2024                                                                       $291,639.09
+VSAA22405849                  SERVICES, INC                                              IT SECURITY
+                  05/31/2024  PRESIDENT AND FELLOWS OF HARVARD   04/11/2024  05/12/2024                                                                         $26,975.67
+VSAA22405851                  COLLEGE                                                    TRAIN/ORIENT/CONFERENCE FEES
+                  05/28/2024  PRESIDENT AND FELLOWS OF HARVARD   04/09/2024  05/08/2024                                                                          $9,900.00
+VSAA22405852                  COLLEGE                                                    TRAIN/ORIENT/CONFERENCE FEES
+                  06/06/2024  FEDERAL RESERVE BANK OF ST. LOUIS  05/05/2024  05/10/2024                                                                          $4,300.00
+VSAA22405853                  SPECIAL AEROSPACE SECURITY                                 FED FEES - FIN, CONTRACT, ADM
+                  06/06/2024  SERVICES, INC                      04/30/2024  05/16/2024                                                                          $2,445.00
+VSAA22405854                  MASLOW MEDIA GROUP INC                                     MANAGEMENT CONSULTANTS
+                  06/10/2024  AXOSOFT LLC                        01/01/2024  03/31/2024                                                                         $83,189.36
+VSAA22405862                  LEIDOS DIGITAL SOLUTIONS INC                               TECHNICAL SUPPORT
+VSAA22405967      06/10/2024  LEIDOS DIGITAL SOLUTIONS INC       04/16/2024  05/15/2024  APPLICATION SOFTWARE MAINT                                              $2,295.56
+VSAA22405987      06/18/2024  JOHNSON CONTROLS                                           APPLICATION SOFTWARE MAINT                                              $7,437.50
+VSAA22405988      06/13/2024  SYMPLICITY CORPORATION             11/09/2023  11/09/2023  APPLICATION SOFTWARE MAINT
+VSAA22405994      06/12/2024  SYMPLICITY CORPORATION             05/29/2024  05/29/2024  PHYSICAL SECURITY                                                          $150.00
+VSAA22405995      06/12/2024  ASCENDANT APP, LLC                 04/01/2024  04/30/2024  APPLICATION SOFTWARE MAINT                                              $1,860.00
+VSAA22405996      07/09/2024  PAULA KYLE                         04/01/2024  04/30/2024  APPLICATION SOFTWARE MAINT                                             $69,009.42
+VSAA22405999      06/12/2024  SUPPRESSION SYSTEMS INC            04/01/2024  04/30/2024  APPLICATION SOFTWARE MAINT
+VSAA22406002      06/10/2024  SUPPRESSION SYSTEMS INC            05/01/2024  05/31/2024  TRAIN/ORIENT/CONFERENCE FEES                                               $201.00
+VSAA22406006      07/02/2024  LEIDOS DIGITAL SOLUTIONS INC       05/01/2024  05/31/2024  PRODUCTION EQUIP MAINT                                                 $33,728.00
+VSAA22406007      06/17/2024  LEIDOS DIGITAL SOLUTIONS INC       12/07/2023  12/07/2023  PRODUCTION EQUIP MAINT                                                 $21,215.00
+VSAA22406009      06/17/2024  LEIDOS DIGITAL SOLUTIONS INC       01/12/2024  05/24/2024  APPLICATION SOFTWARE MAINT
+VSAA22406010      07/08/2024  COMPUTERWORKS INC.                 10/23/2023  10/23/2023  APPLICATION SOFTWARE MAINT                                              $3,924.00
+VSAA22406013      06/11/2024  DLT SOLUTIONS LLC                  10/23/2023  10/23/2023  APPLICATION SOFTWARE MAINT                                              $1,955.00
+VSAA22406036      07/08/2024  KONICA MINOLTA BUSINESS SOLUTIONS  04/01/2024  04/30/2024  APPLICATION SOFTWARE MAINT
+VSAA22406038      06/10/2024                                     04/01/2024  04/30/2024  APPLICATION SOFTWARE MAINT                                                 $117.48
+VSAA22406040      06/11/2024                                     04/01/2024  04/30/2024  PRODUCTION EQUIP MAINT                                                       $62.00
+                  06/24/2024                                     12/07/2023  12/07/2023                                                                               $90.00
+                                                                 05/31/2024  05/30/2025
+                                                                 05/01/2024  05/31/2024                                                                             $248.00
+                                                                                                                                                                $39,713.00
+
+                                                                                                                                                                 $7,855.26
+                                                                                                                                                                 $5,784.00
+

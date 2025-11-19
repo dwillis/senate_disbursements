@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                      DATES
+DWRN20240523                                                               CHESAPEAKE TO PORTSMOUTH AND RETURN                                            $10.72
+DWRN20240524                                       START       END         STAFF TRANSPORTATION                                                           $49.58
+DWRN20240527                                                               CHESAPEAKE TO SUFFOLK AND RETURN                                               $45.13
+DWRN20240528      06/07/2024  GENE L GARLAND       05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                           $21.10  B-2541
+DWRN20240529      06/07/2024  GENE L GARLAND       05/31/2024  05/31/2024  CHESAPEAKE TO NEWPORT NEWS AND RETURN                                          $41.21
+DWRN20240530      06/11/2024  TANNIA TALENTO       11/01/2023  11/01/2023  STAFF TRANSPORTATION                                                           $13.10
+DWRN20240531      06/11/2024  TANNIA TALENTO       11/02/2023  11/02/2023  VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $13.42
+DWRN20240532      06/11/2024  TANNIA TALENTO       11/04/2023  11/04/2023  STAFF TRANSPORTATION                                                           $20.43
+DWRN20240533      06/10/2024  TANNIA TALENTO       11/06/2023  11/06/2023  VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DWRN20240534      06/10/2024  TANNIA TALENTO       11/09/2023  11/09/2023  STAFF TRANSPORTATION                                                            $5.30
+DWRN20240535      06/10/2024  TANNIA TALENTO       11/11/2023  11/11/2023  ARLINGTON TO CHANTILLY AND RETURN                                               $8.25
+DWRN20240536      06/10/2024  TANNIA TALENTO       11/14/2023  11/14/2023  STAFF TRANSPORTATION                                                           $18.27
+DWRN20240543      06/10/2024  TANNIA TALENTO       11/16/2023  11/16/2023  VIENNA TO ARLINGTON AND RETURN                                                 $31.83
+DWRN20240544      06/10/2024  TANNIA TALENTO       11/17/2023  11/17/2023  STAFF TRANSPORTATION                                                           $16.75
+DWRN20240545      06/10/2024  TANNIA TALENTO       11/30/2023  11/30/2023  VIENNA TO WASHINGTON DC TO ARLINGTON                                           $28.81
+DWRN20240546      06/12/2024  GENE L GARLAND       06/03/2024  06/03/2024  STAFF TRANSPORTATION                                                           $12.06
+DWRN20240547      06/12/2024  GENE L GARLAND       06/04/2024  06/04/2024  ARLINGTON TO SPRINGFIELD AND RETURN                                            $12.06
+DWRN20240548      06/11/2024  CAROLINE E BROOM     04/26/2024  04/26/2024  STAFF TRANSPORTATION                                                           $57.06
+                  06/11/2024  CAROLINE E BROOM     05/31/2024  05/31/2024  IN AND AROUND ARLINGTON                                                      $175.33
+DWRN20240549      06/12/2024  OLIVIA MARGARET LEE  05/17/2024  05/17/2024  STAFF TRANSPORTATION
+DWRN20240550      06/13/2024  JACLYN B MARMOL      05/08/2024  06/01/2024  VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $64.22
+DWRN20240551                                                               STAFF TRANSPORTATION                                                           $78.58
+                  07/05/2024  JACLYN B MARMOL      05/23/2024  05/23/2024  VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $40.00
+DWRN20240552      07/03/2024  JACLYN B MARMOL      06/03/2024  06/03/2024  STAFF TRANSPORTATION                                                         $394.35
+                  06/14/2024  VALERIA RIVADENEIRA  05/17/2024  05/19/2024  VIENNA TO MANASSAS TO ARLINGTON                                              $192.49
+                                                                           STAFF TRANSPORTATION                                                           $20.10
+                  06/13/2024  GENE L GARLAND       06/05/2024  06/05/2024  NORFOLK TO CHESAPEAKE AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           IN AND AROUND CHESAPEAKE
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO ALEXANDRIA AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO ALEXANDRIA AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           VIENNA TO THE FOLLOWING AND RETURN: 5/8, 17 LEESBURG; 5/30
+                                                                           ARLINGTON; FALLS CHURCH TO THE FOLLOWING AND RETURN: 5/18
+                                                                           VIENNA; 6/1 OCCOQUAN; VIENNA TO THE FOLLOWING AND RETURN TO
+                                                                           FALLS CHURCH: 5/22 LEESBURG; 5/31 ALEXANDRIA
+                                                                           STAFF TRANSPORTATION
+                                                                           VIENNA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           VIENNA TO WASHINGTON DC AND RETURN
+                                                                           STAFF INCIDENTALS
+                                                                           STAFF PER DIEM
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO VIRGINIA BEACH AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           CHESAPEAKE TO SUFFOLK AND RETURN
+

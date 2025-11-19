@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                              DATES
+DMRP20240626                                                                       AIRFARE FOR SEN MURPHY WASHINGTON DC TO SAN FRANCISCO CA                        $263.10
+DMRP20240627                                               START       END         SENATOR TRANSPORTATION                                                          $403.98
+DMRP20240628                                                                       AIRFARE FOR SEN MURPHY SALT LAKE CITY UT TO WASHINGTON DC
+DMRP20240629      05/21/2024  CITIBANK - TRAVEL CBA CARD   04/26/2024  04/26/2024  SENATOR TRANSPORTATION                                                            $89.45  B-1890
+DMRP20240630      05/21/2024  CITIBANK - SENATOR IBA CARD  04/22/2024  04/22/2024  AIRFARE FOR SEN MURPHY WASHINGTON DC TO WINDSOR LOCKS                             $63.79
+DMRP20240631      05/21/2024  CITIBANK - SENATOR IBA CARD  04/26/2024  04/26/2024  SENATOR TRANSPORTATION                                                            $48.91
+DMRP20240632      05/22/2024  CITIBANK - SENATOR IBA CARD  05/05/2024  05/05/2024  TAXI FARE FOR SEN MURPHY IN WASHINGTON DC                                         $64.99
+DMRP20240633      05/21/2024  ERIN E MCBRIDE               04/26/2024  04/26/2024  SENATOR TRANSPORTATION                                                            $51.59
+DMRP20240634      05/21/2024  ERIN E MCBRIDE               05/06/2024  05/06/2024  TAXI FARE FOR SEN MURPHY IN WASHINGTON DC                                         $45.56
+DMRP20240635      05/21/2024  ERIN E MCBRIDE               04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                              $67.67
+DMRP20240636      05/21/2024  ERIN E MCBRIDE               04/25/2024  04/25/2024  QUAKER HILL TO CANTERBURY, MYSTIC AND RETURN                                      $33.50
+DMRP20240637      05/21/2024  ERIN E MCBRIDE               04/24/2024  04/24/2024  STAFF TRANSPORTATION
+DMRP20240639      05/24/2024  JAMESON B FOULKE             05/05/2024  05/07/2024  HARTFORD TO NEW HAVEN TO QUAKER HILL                                              $34.55
+DMRP20240642                                                                       STAFF TRANSPORTATION                                                              $55.94
+                  05/21/2024  FARIAN E RABBANI             05/09/2024  05/09/2024  QUAKER HILL TO GALES FERRY, HEBRON, WINDHAM AND RETURN                            $41.54
+DMRP20240643      05/22/2024  FARIAN E RABBANI             05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                              $14.98
+DMRP20240645      05/22/2024  ERIN E MCBRIDE               05/10/2024  05/10/2024  QUAKER HILL TO WATERFORD, MADISON AND RETURN                                      $71.69
+                  05/22/2024  JAMESON B FOULKE             05/13/2024  05/13/2024  STAFF TRANSPORTATION                                                              $28.94
+DMRP20240647                                                                       QUAKER HILL TO EAST HARTFORD, HARTFORD AND RETURN
+                  05/22/2024  JAMESON B FOULKE             05/10/2024  05/11/2024  STAFF TRANSPORTATION                                                            $277.00
+DMRP20240648                                                                       WEST HARTFORD TO THE FOLLOWING AND RETURN: 5/5 WINDSOR LOCKS,                     $40.00
+DMRP20240650      05/21/2024  CITIBANK - TRAVEL CBA CARD   05/09/2024  05/13/2024  HARTFORD; 5/6, 7 HARTFORD
+DMRP20240653                                                                       STAFF TRANSPORTATION                                                              $19.95
+DMRP20240654      05/24/2024  ALLY R LIVINGSTON            05/09/2024  05/13/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $148.07
+                                                                                   STAFF TRANSPORTATION
+                  05/23/2024  JAMESON B FOULKE             05/14/2024  05/14/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $67.77
+                  05/24/2024  EMILY M SMITH                05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                              $67.00
+                  05/24/2024  ERIN E MCBRIDE               05/15/2024  05/15/2024  QUAKER HILL TO SCOTLAND, COLUMBIA AND RETURN                                      $38.99
+                  05/24/2024  JAMESON B FOULKE             05/16/2024  05/16/2024  STAFF PER DIEM                                                                    $26.13
+                                                                                   STAFF TRANSPORTATION                                                              $80.40
+                                                                                   WEST HARTFORD TO STRATFORD TO HARTFORD
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WEST HARTFORD TO THE FOLLOWING AND RETURN: 5/10 HARTFORD; 5/11
+                                                                                   HARTFORD, WINDSOR LOCKS
+                                                                                   STAFF TRANSPORTATION
+                                                                                   TICKET FEES
+                                                                                   TRAIN FARE FOR A LIVINGSTON WASHINGTON DC TO STAMFORD AND
+                                                                                   RETURN
+                                                                                   STAFF INCIDENTALS
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC TO STAMFORD, HARTFORD, STAMFORD AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WEST HARTFORD TO NEW HAVEN TO HARTFORD
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   QUAKER HILL TO NORWICH, WATERFORD, NEW LONDON AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WEST HARTFORD TO BRIDGEPORT TO HARTFORD
+

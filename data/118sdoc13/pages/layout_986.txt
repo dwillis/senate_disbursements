@@ -1,0 +1,56 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+              POSTED                                             DATES
+                                                                              STAFF TRANSPORTATION                                                       $108.27
+                                                      START       END         LAS VEGAS TO MESQUITE AND RETURN
+                                                                              STAFF INCIDENTALS                                                          $123.45
+DCTZ20240172  04/08/2024  VIVIAN JANET BANDA          03/11/2024  03/14/2024  STAFF PER DIEM                                                             $815.78
+                                                                              STAFF TRANSPORTATION
+DCTZ20240174  04/09/2024  CAROLINE R BOBO             01/25/2024  03/21/2024  RENO TO WASHINGTON DC AND RETURN                                             $82.62
+DCTZ20240175  04/09/2024  IAN DW GRAHAM               03/14/2024  03/19/2024  STAFF TRANSPORTATION
+DCTZ20240176  04/26/2024  KURT A LYNCH                02/19/2024  02/23/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $194.56
+DCTZ20240179                                                                  STAFF TRANSPORTATION
+              04/29/2024  ZACHARY D ZARAGOZA          04/03/2024  04/04/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $25.50
+DCTZ20240180                                                                  STAFF INCIDENTALS
+              04/19/2024  EDA CELINA GARCIA           04/03/2024  04/06/2024  STAFF PER DIEM                                                               $65.63
+DCTZ20240181                                                                  WASHINGTON DC TO LAS VEGAS AND RETURN                                      $799.66
+DCTZ20240182  04/24/2024  CANDACE FAYE LOPEZ          02/28/2024  03/01/2024  STAFF INCIDENTALS                                                                    B-968
+              06/06/2024  CANDACE FAYE LOPEZ          03/10/2024  03/14/2024  STAFF PER DIEM                                                               $47.14
+DCTZ20240183                                                                  STAFF TRANSPORTATION                                                       $212.75
+              04/25/2024  ALEX EDUARDO VELA           02/15/2024  02/18/2024  LAS VEGAS TO RENO AND RETURN                                               $592.58
+DCTZ20240197                                                                  STAFF INCIDENTALS
+DCTZ20240199  04/26/2024  CITIBANK - TRAVEL CBA CARD  03/25/2024  03/25/2024  STAFF PER DIEM                                                               $62.34
+DCTZ20240200  04/26/2024  CITIBANK - TRAVEL CBA CARD  03/31/2024  03/31/2024  STAFF TRANSPORTATION                                                       $531.35
+DCTZ20240208  04/29/2024  CITIBANK - TRAVEL CBA CARD  04/11/2024  04/11/2024  WASHINGTON DC TO NEW YORK NY AND RETURN                                    $295.00
+DCTZ20240209                                                                  STAFF PER DIEM
+DCTZ20240211  05/02/2024  CITIBANK - TRAVEL CBA CARD  04/21/2024  04/21/2024  RENO TO ELKO AND RETURN                                                      $80.81
+DCTZ20240212                                                                  STAFF INCIDENTALS
+DCTZ20240213  05/03/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/22/2024  STAFF PER DIEM                                                             $204.90
+                                                                              STAFF TRANSPORTATION                                                    $1,389.49
+              05/03/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/21/2024  RENO TO WASHINGTON DC AND RETURN
+                                                                              STAFF INCIDENTALS                                                            $28.98
+              05/03/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/21/2024  STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION                                                         $27.67
+              05/03/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/21/2024  WASHINGTON DC TO RENO AND RETURN                                           $243.56
+                                                                              TICKET FEES
+                                                                              TICKET FEES                                                                  $46.95
+                                                                              SENATOR TRANSPORTATION
+                                                                              TICKET FEES                                                                  $40.00
+                                                                              AIRFARE FOR SEN CORTEZ MASTO WASHINGTON DC TO LAS VEGAS                      $40.00
+                                                                              STAFF TRANSPORTATION                                                       $342.10
+                                                                              TICKET FEES                                                                  $40.00
+                                                                              AIRFARE FOR A TOLENTINO RENO TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION                                                       $371.60
+                                                                              TICKET FEES                                                                  $40.00
+                                                                              AIRFARE FOR A MARSHALL WASHINGTON DC TO RENO AND RETURN
+                                                                              STAFF TRANSPORTATION                                                       $578.20
+                                                                              TICKET FEES                                                                  $40.00
+                                                                              AIRFARE FOR S BEAS WASHINGTON DC TO RENO AND RETURN
+                                                                              STAFF TRANSPORTATION                                                       $743.20
+                                                                              TICKET FEES                                                                  $40.00
+                                                                              AIRFARE FOR M RODRIGUEZ-SOTO LAS VEGAS TO RENO AND RETURN
+                                                                              STAFF TRANSPORTATION                                                       $623.20
+                                                                              TICKET FEES                                                                  $40.00
+
+                                                                                                                                                         $623.20
+                                                                                                                                                           $40.00
+

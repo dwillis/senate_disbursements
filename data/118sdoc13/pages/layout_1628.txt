@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                   POSTED                                                  DATES
+DLNK20240721                  PEYTON G BURNS                                            STAFF TRANSPORTATION                                                                $40.32
+DLNK20240722      05/09/2024  PEYTON G BURNS                    START       END         STILLWATER TO ENID, ALVA, NEWKIRK AND RETURN                                        $88.44
+DLNK20240723      05/09/2024  PEYTON G BURNS                                            STAFF TRANSPORTATION                                                                $23.04
+DLNK20240724      05/09/2024  PEYTON G BURNS                    04/18/2024  04/19/2024  STILLWATER TO OKLAHOMA CITY AND RETURN                                              $13.11
+DLNK20240725      05/09/2024  VICKIE L MOORE                                            STAFF TRANSPORTATION                                                                $58.74
+                  05/16/2024                                    04/22/2024  04/22/2024  STILLWATER TO OKLAHOMA CITY AND RETURN                                            $455.85
+DLNK20240726                                                                            STAFF TRANSPORTATION                                                              $230.38
+                                                                04/24/2024  04/24/2024  STILLWATER TO YUKON, OKLAHOMA CITY AND RETURN                                  $1,769.47
+                                                                                        STAFF INCIDENTALS
+                                                                04/26/2024  04/26/2024  STAFF PER DIEM                                                                      $31.08
+                                                                                        STAFF TRANSPORTATION                                                              $385.16
+                                                                04/28/2024  04/30/2024  OKLAHOMA CITY TO DENVER CO, AURORA CO, DENVER CO AND RETURN                       $151.04
+                                                                                        STAFF TRANSPORTATION
+                  05/16/2024  LARAMIE ANN COCHRAN               04/16/2024  05/02/2024  LANE TO THE FOLLOWING AND RETURN: 4/16 TULSA; 4/18 ARDMORE,                         $55.99
+                                                                                        ANTLERS; 4/19 SHAWNEE; 4/23 CANEY, MADILL, TISHOMINGO; 4/24                         $20.00
+DLNK20240727      05/20/2024  MATTHEW GUSTAV PENNER             04/22/2024  04/26/2024  OKLAHOMA CITY, HUGO; 4/25-26 OKLAHOMA CITY, NORMAN, YUKON; 4/28                     $51.93
+                                                                                        SULPHUR; 4/29 MARIETTA, ARDMORE, SULPHUR; 4/30 EDMOND, MARIETTA,                  $365.20
+DLNK20240728      05/14/2024  JAMES S CARSON                    04/30/2024  04/30/2024  SULPHUR, EDMOND; 5/2 HOLDENVILLE                                                            B-1591
+DLNK20240729      05/14/2024  JAMES S CARSON                    05/01/2024  05/01/2024  STAFF INCIDENTALS                                                                 $156.00
+DLNK20240732      05/15/2024  CITIBANK - TRAVEL CBA CARD        04/22/2024  04/26/2024  STAFF PER DIEM
+DLNK20240733      05/17/2024  EAN SERVICES LLC                  04/23/2024  04/27/2024  STAFF TRANSPORTATION                                                                $42.07
+DLNK20240734      05/14/2024  EAN SERVICES LLC                  04/30/2024  05/01/2024  WASHINGTON DC TO TULSA, OKLAHOMA CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                              $231.29
+DLNK20240735      05/15/2024  EAN SERVICES LLC                  04/22/2024  04/27/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM                                                                    $436.40
+DLNK20240736      05/16/2024  EAN SERVICES LLC                  04/22/2024  04/26/2024  STAFF TRANSPORTATION                                                                $90.45
+DLNK20240737      05/14/2024  PEYTON G BURNS                    04/29/2024  04/29/2024  OKLAHOMA CITY TO CORDELL, HOBART AND RETURN                                         $13.80
+DLNK20240738      05/14/2024  PEYTON G BURNS                    04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                                $72.36
+DLNK20240739                                                                            AIRFARE FOR M PENNER AS FOLLOWS: 4/22 WASHINGTON DC TO TULSA; 4                     $33.53
+DLNK20240745      05/14/2024  PEYTON G BURNS                    05/01/2024  05/01/2024  /26 OKLAHOMA CITY TO WASHINGTON DC                                                   $9.77
+                  05/15/2024  SARAH MARGARET SHARUM             05/06/2024  05/06/2024  STAFF TRANSPORTATION
+                                                                                        RENTAL AUTO FOR P BURNS STILLWATER TO THE FOLLOWING AND
+                                                                                        RETURN: 4/24 OKLAHOMA CITY; 4/26 YUKON, OKLAHOMA CITY
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RENTAL AUTO FOR P BURNS AS FOLLOWS: 4/30 STILLWATER TO PONCA
+                                                                                        CITY, NEWKIRK AND RETURN; 5/1 STILLWATER TO WOODWARD, SEILING,
+                                                                                        FAIRVIEW AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RENTAL AUTO FOR J CARSON AS FOLLOWS: 4/22 YUKON TO OKLAHOMA
+                                                                                        CITY; 4/23-25 OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL
+                                                                                        TRANSPORTATION; 4/26 OKLAHOMA CITY TO CHICKASHA AND RETURN; 4/27
+                                                                                        OKLAHOMA CITY TO YUKON
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RENTAL AUTO FOR M PENNER TULSA TO OKLAHOMA CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        STILLWATER TO OKLAHOMA CITY AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        STILLWATER TO PONCA CITY, NEWKIRK AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        STILLWATER TO WOODWARD, SEILING, FAIRVIEW AND RETURN
+                                                                                        STAFF PER DIEM
+

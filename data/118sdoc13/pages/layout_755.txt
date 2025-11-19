@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                  POSTED                                        DATES
+DBDD20240693                                                                 SANFORD TO FAYETTEVILLE, HOPE MILLS AND RETURN                                       $43.55
+DBDD20240694                                         START       END         STAFF TRANSPORTATION                                                                 $16.76
+DBDD20240695                                                                 ADVANCE TO TOBACCOVILLE, WINSTON SALEM AND RETURN                                  $170.85
+DBDD20240696      09/10/2024  RICHARD LEE MOXLEY     08/20/2024  08/20/2024  STAFF PER DIEM                                                                     $178.48
+DBDD20240697      09/12/2024  RICHARD LEE MOXLEY     08/21/2024  08/21/2024  STAFF TRANSPORTATION                                                                 $56.28
+DBDD20240698                                                                 PFAFFTOWN TO RALEIGH AND RETURN                                                      $28.14
+DBDD20240699      09/11/2024  SAMUEL JOSEPH SHUMATE  08/21/2024  08/21/2024  STAFF TRANSPORTATION                                                                 $46.90
+DBDD20240700      09/10/2024  BAILEY B. HARTSELL     08/20/2024  08/20/2024  SANFORD TO KENANSVILLE, BEULAVILLE, COVE CITY AND RETURN                           $189.34
+DBDD20240701      09/10/2024  BAILEY B. HARTSELL     08/21/2024  08/21/2024  STAFF TRANSPORTATION                                                               $111.22
+DBDD20240703      09/10/2024  BAILEY B. HARTSELL     08/22/2024  08/22/2024  WILMINGTON TO HAMPSTEAD, TOPSAIL BEACH AND RETURN
+                  09/11/2024  SAMUEL JOSEPH SHUMATE  08/22/2024  08/22/2024  STAFF TRANSPORTATION                                                                 $20.79
+DBDD20240705      09/11/2024  RICHARD LEE MOXLEY     08/22/2024  08/22/2024  WILMINGTON TO CAROLINA BEACH AND RETURN                                              $78.45
+DBDD20240706                                                                 STAFF TRANSPORTATION                                                               $525.28
+DBDD20240707      09/10/2024  SAMUEL JOSEPH SHUMATE  08/23/2024  08/23/2024  WILMINGTON TO TOPSAIL BEACH AND RETURN
+DBDD20240708                                                                 STAFF TRANSPORTATION                                                               $290.78
+DBDD20240709      09/10/2024  JOHN M TAYLOE          08/20/2024  08/24/2024  SANFORD TO GOLDSBORO, FAIRMONT AND RETURN                                                    B-737
+DBDD20240712                                                                 STAFF TRANSPORTATION                                                               $136.01
+DBDD20240713      09/11/2024  JOHN M TAYLOE          08/12/2024  08/14/2024  PFAFFTOWN TO WALNUT COVE, WINSTON SALEM, KERNERSVILLE,
+                  09/09/2024  JOHN M TAYLOE          08/07/2024  08/09/2024  GRAHAM AND RETURN                                                                    $77.72
+DBDD20240714      09/23/2024  SAMUEL JOSEPH SHUMATE  08/26/2024  08/26/2024  STAFF PER DIEM                                                                       $38.86
+DBDD20240715      09/09/2024  RICHARD LEE MOXLEY     08/26/2024  08/26/2024  STAFF TRANSPORTATION
+                  09/09/2024  JOHN M TAYLOE          07/29/2024  07/30/2024  SANFORD TO GARNER, RALEIGH AND RETURN                                              $205.02
+                  09/12/2024  SAMUEL JOSEPH SHUMATE  08/27/2024  08/27/2024  STAFF TRANSPORTATION
+                  09/12/2024  RICHARD LEE MOXLEY     08/27/2024  08/27/2024  AULANDER TO THE FOLLOWING AND RETURN: 8/20 ROCKY MOUNT; 8/21, 24                     $15.07
+                                                                             HENDERSON; 8/22 SNOW HILL, HOOKERTON, GREENVILLE; 8/23                             $107.60
+                  09/11/2024  BAILEY B. HARTSELL     08/24/2024  08/24/2024  MURFREESBORO
+                  09/11/2024  BAILEY B. HARTSELL     08/27/2024  08/27/2024  STAFF TRANSPORTATION                                                                  $8.98
+                                                                             AULANDER TO THE FOLLOWING AND RETURN: 8/12 SNOW HILL, WILSON,                      $112.56
+                                                                             GREENVILLE; 8/13 EDENTON; 8/14 WILSON
+                                                                             STAFF TRANSPORTATION                                                                 $37.52
+                                                                             AULANDER TO THE FOLLOWING AND RETURN: 8/7 ROCKY MOUNT,                               $42.88
+                                                                             TARBORO; 8/9 TARBORO
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO ROCKINGHAM AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             PFAFFTOWN TO CLEMMONS, LEWISVILLE, TOBACCOVILLE, WINSTON
+                                                                             SALEM AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             AULANDER TO THE FOLLOWING AND RETURN: 7/29 HALIFAX, ENFIELD; 7/30
+                                                                             BAYBORO, ORIENTAL
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO SMITHFIELD, SELMA, HOLLY SPRINGS AND RETURN
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             PFAFFTOWN TO GREENSBORO, WENTWORTH, REIDSVILLE, EDEN,
+                                                                             MADISON AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             WILMINGTON TO BURGAW AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             WILMINGTON TO BOLIVIA AND RETURN
+

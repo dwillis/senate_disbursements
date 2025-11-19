@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                              DATES
+DMOR20241043                                                                       AIRFARE FOR SEN MORAN KANSAS CITY MO TO KNOXVILLE TN                         $56.80
+DMOR20241044                                               START       END         STAFF TRANSPORTATION                                                         $18.71
+DMOR20241045                                                                       OLATHE TO KANSAS CITY MO AND RETURN                                          $52.26
+DMOR20241046      09/22/2024  ALEXANDRE M RICHARD          09/17/2024  09/17/2024  STAFF PER DIEM                                                               $53.60
+DMOR20241047      09/23/2024  JASON L OSTERHAUS            05/21/2024  05/21/2024  STAFF TRANSPORTATION                                                         $13.42
+DMOR20241048                                                                       OLATHE TO OTTAWA AND RETURN                                                  $74.37
+DMOR20241049      09/22/2024  JASON L OSTERHAUS            05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                         $59.63
+DMOR20241050      09/22/2024  JASON L OSTERHAUS            05/28/2024  05/28/2024  OLATHE TO BALDWIN CITY, LOUISBURG AND RETURN
+DMOR20241051                                                                       STAFF PER DIEM                                                                $6.76
+DMOR20241052      09/22/2024  JASON L OSTERHAUS            06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                         $70.35
+DMOR20241053      09/22/2024  JASON L OSTERHAUS            06/13/2024  06/13/2024  OLATHE TO TOPEKA AND RETURN                                                  $16.16
+DMOR20241054                                                                       STAFF TRANSPORTATION                                                         $78.39
+DMOR20241055      09/22/2024  JASON L OSTERHAUS            06/20/2024  06/20/2024  OLATHE TO LAWRENCE, KANSAS CITY AND RETURN                                   $27.47
+DMOR20241056                                                                       STAFF PER DIEM                                                               $12.35
+                  09/22/2024  JASON L OSTERHAUS            06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                       $101.84   B-1834
+DMOR20241057      09/27/2024  JASON L OSTERHAUS            06/25/2024  06/25/2024  OLATHE TO TOPEKA AND RETURN                                                  $49.58
+DMOR20241058                                                                       STAFF PER DIEM                                                               $14.92
+DMOR20241059      09/22/2024  JASON L OSTERHAUS            06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                         $69.68
+DMOR20241060      09/22/2024  JASON L OSTERHAUS            07/02/2024  07/02/2024  OLATHE TO TOPEKA AND RETURN                                                  $26.80
+DMOR20241062                                                                       STAFF TRANSPORTATION                                                       $289.47
+DMOR20241063      09/22/2024  JASON L OSTERHAUS            07/11/2024  07/11/2024  OLATHE TO KANSAS CITY AND RETURN                                             $24.36
+                  09/23/2024  CITIBANK - SENATOR IBA CARD  09/19/2024  09/19/2024  STAFF PER DIEM                                                             $395.17
+                  09/28/2024  NATHANIEL R PAULBECK         09/13/2024  09/15/2024  STAFF TRANSPORTATION                                                       $103.37
+                                                                                   OLATHE TO MAYETTA, TOPEKA AND RETURN                                         $30.41
+                  09/22/2024  ALEXANDRE M RICHARD          05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                         $37.25
+                  09/22/2024  ALEXANDRE M RICHARD          06/04/2024  06/04/2024  OLATHE TO LAWRENCE, OVERLAND PARK AND RETURN                                 $10.56
+                  09/22/2024  JASON L OSTERHAUS            08/08/2024  08/08/2024  STAFF PER DIEM                                                               $71.69
+                                                                                   STAFF TRANSPORTATION                                                         $17.42
+                  09/22/2024  ALEXANDRE M RICHARD          09/13/2024  09/13/2024  OLATHE TO TOPEKA AND RETURN                                                  $12.59
+                  09/28/2024  JASON L OSTERHAUS            08/16/2024  08/16/2024  STAFF TRANSPORTATION                                                       $100.50
+                                                                                   OLATHE TO KANSAS CITY AND RETURN                                             $36.18
+                  09/22/2024  JASON L OSTERHAUS            09/04/2024  09/04/2024  SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN MORAN WASHINGTON DC TO KANSAS CITY MO
+                                                                                   STAFF INCIDENTALS
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC TO WICHITA, HUTCHINSON, WICHITA AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   OLATHE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   OLATHE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   OLATHE TO TOPEKA AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   OLATHE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   OLATHE TO WATHENA AND RETURN
+                                                                                   STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DROM20240300                  CHANDLER BEUTLER                                          STAFF TRANSPORTATION                                                               $73.03
+DROM20240301      04/30/2024  CHANDLER BEUTLER                  START       END         OGDEN TO LOGAN AND RETURN                                                          $97.15
+DROM20240302      04/30/2024  CHANDLER BEUTLER                                          STAFF TRANSPORTATION                                                               $72.36
+DROM20240303      04/30/2024  CHANDLER BEUTLER                  04/03/2024  04/04/2024  OGDEN TO TOOELE AND RETURN                                                         $19.43
+DROM20240304      04/30/2024  CHANDLER BEUTLER                                          STAFF TRANSPORTATION                                                               $20.32
+DROM20240305      04/30/2024  CHANDLER BEUTLER                  04/05/2024  04/05/2024  OGDEN TO LOGAN AND RETURN                                                          $59.63
+DROM20240306                  CHANDLER BEUTLER                                          STAFF TRANSPORTATION                                                               $40.32
+                  05/02/2024                                    04/08/2024  04/08/2024  OGDEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                     $75.71
+DROM20240308                                                                            STAFF PER DIEM                                                                     $29.35
+DROM20240309      05/14/2024                                    04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                             $390.10
+DROM20240310                                                                            OGDEN TO SALT LAKE CITY AND RETURN                                               $346.27
+DROM20240311                                                    04/11/2024  04/11/2024  STAFF PER DIEM                                                                     $28.81
+DROM20240312                                                                            STAFF TRANSPORTATION                                                               $26.13
+DROM20240313                                                    04/12/2024  04/12/2024  OGDEN TO LOGAN AND RETURN                                                          $16.17
+DROM20240314                                                                            STAFF INCIDENTALS                                                                  $75.04
+DROM20240315                                                    04/15/2024  04/20/2024  STAFF PER DIEM                                                                     $29.31
+DROM20240316                                                                            STAFF TRANSPORTATION                                                               $58.29
+                  04/30/2024  CHANDLER BEUTLER                  04/22/2024  04/22/2024  OGDEN TO WASHINGTON AND RETURN                                                     $54.94  B-2107
+DROM20240317      04/30/2024  CHANDLER BEUTLER                  04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                               $53.60
+DROM20240318      05/10/2024  CHANDLER BEUTLER                  04/24/2024  04/24/2024  OGDEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                     $61.64
+                                                                                        STAFF TRANSPORTATION                                                               $83.08
+                  04/30/2024  CHANDLER BEUTLER                  04/25/2024  04/25/2024  OGDEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                     $21.28
+                                                                                        STAFF PER DIEM                                                                   $204.98
+                  04/30/2024  CHANDLER BEUTLER                  04/26/2024  04/26/2024  STAFF TRANSPORTATION
+                  05/06/2024  BARRY J MCLERRAN                  03/01/2024  03/01/2024  OGDEN TO LOGAN AND RETURN                                                          $53.60
+                  05/06/2024  BARRY J MCLERRAN                  03/21/2024  03/21/2024  STAFF PER DIEM                                                                     $12.22
+                  05/06/2024  BARRY J MCLERRAN                  03/29/2024  03/29/2024  STAFF TRANSPORTATION                                                             $126.75
+                  05/13/2024  BARRY J MCLERRAN                  03/07/2024  03/09/2024  OGDEN TO SALT LAKE CITY AND RETURN                                               $450.24
+                                                                                        STAFF TRANSPORTATION
+                  05/06/2024  BARRY J MCLERRAN                  04/05/2024  04/05/2024  OGDEN TO SALT LAKE CITY AND RETURN                                                 $67.14
+                  05/14/2024  BARRY J MCLERRAN                  04/24/2024  04/25/2024  STAFF TRANSPORTATION                                                             $575.42
+                                                                                        SALT LAKE CITY TO OGDEN AND RETURN
+DROM20240319      05/22/2024  ROBERT CADE SLAUGHTER             05/02/2024  05/05/2024  STAFF TRANSPORTATION                                                               $40.00
+                                                                                        SALT LAKE CITY TO PROVO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        EAGLE MOUNTAIN TO LAYTON AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SALT LAKE CITY TO SARATOGA SPRINGS, ST GEORGE, SARATOGA
+                                                                                        SPRINGS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SALT LAKE CITY TO OGDEN AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        EAGLE MOUNTAIN TO SALT LAKE CITY, ST GEORGE, SALT LAKE CITY AND
+                                                                                        RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TICKET FEES
+

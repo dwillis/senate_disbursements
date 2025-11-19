@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+              POSTED                                        DATES
+                                                                         AULANDER TO THE FOLLOWING AND RETURN: 4/15 POWELLSVILLE,                            $588.26
+                                                 START       END         WINTON, MURFREESBORO; 4/16 AHOSKIE, PLYMOUTH, TYNER; 4/17
+                                                                         AHOSKIE, ROCKY MOUNT, WILSON; 4/18 WILLIAMSTON, JAMESVILLE,                           $18.78
+DBDD20240417  05/13/2024  JOHN M TAYLOE          04/22/2024  04/26/2024  WINFALL, ELIZABETH CITY, EDENTON; 4/19 HERTFORD, EDENTON                              $48.84
+                                                                         STAFF TRANSPORTATION                                                                  $10.62
+DBDD20240418  05/07/2024  SAMUEL JOSEPH SHUMATE  04/26/2024  04/26/2024  AULANDER TO THE FOLLOWING AND RETURN: 4/22 NAGS HEAD,                               $110.61
+              05/07/2024  SAMUEL JOSEPH SHUMATE  04/29/2024  04/29/2024  WANCHESE, MANTEO; 4/23 GREENVILLE; 4/24 WINTERVILLE, GREENVILLE; 4                  $105.72
+DBDD20240419  05/07/2024  SAMUEL JOSEPH SHUMATE  04/30/2024  04/30/2024  /25 WARRENTON, TARBORO, AHOSKIE; 4/26 GREENVILLE, EDENTON                             $13.91
+              05/20/2024  THEODORE BUDD          02/13/2024  02/26/2024  STAFF PER DIEM                                                                      $140.00
+DBDD20240420                                                             STAFF TRANSPORTATION
+DBDD20240423  05/22/2024  THEODORE BUDD          03/09/2024  03/11/2024  SANFORD TO FAYETTEVILLE AND RETURN                                                  $949.18   B-726
+                                                                         STAFF PER DIEM
+DBDD20240425  05/21/2024  THEODORE BUDD          04/20/2024  04/23/2024  STAFF TRANSPORTATION                                                                $933.84
+DBDD20240426  05/21/2024  THEODORE BUDD          03/05/2024  03/05/2024  SANFORD TO GOLDSBORO AND RETURN                                                     $540.86
+DBDD20240428  05/21/2024  THEODORE BUDD          04/08/2024  04/08/2024  STAFF TRANSPORTATION                                                                $488.60
+DBDD20240429  05/23/2024  THEODORE BUDD          03/23/2024  04/08/2024  SANFORD TO FAYETTEVILLE, LUMBERTON AND RETURN
+DBDD20240430                                                             SENATOR INCIDENTALS                                                                   $52.36
+              05/21/2024  THEODORE BUDD          03/19/2024  03/19/2024  SENATOR PER DIEM                                                                    $528.91
+DBDD20240431  05/16/2024  JERRY H LAUGHTER       04/26/2024  04/26/2024  ADDITIONAL EXPENSE FOR TRIP WASHINGTON DC TO ADVANCE, CLINTON,                      $488.60
+DBDD20240432  05/21/2024  SAMUEL JOSEPH SHUMATE  05/01/2024  05/01/2024  ADVANCE AND RETURN
+DBDD20240433  05/16/2024  MARCEL MILEWSKI        04/30/2024  05/01/2024  SENATOR TRANSPORTATION                                                                $71.02
+DBDD20240434  05/22/2024  SAMUEL JOSEPH SHUMATE  05/02/2024  05/02/2024  ADDITIONAL EXPENSE FOR TRIP WASHINGTON DC TO CHARLOTTE,                             $160.26
+DBDD20240436  05/22/2024  ERIN WALL              04/22/2024  05/03/2024  ADVANCE, CHARLOTTE
+DBDD20240437  05/22/2024  SAMUEL JOSEPH SHUMATE  05/03/2024  05/03/2024  SENATOR TRANSPORTATION                                                                $22.78
+DBDD20240438  05/22/2024  SAMUEL JOSEPH SHUMATE  05/06/2024  05/06/2024  WASHINGTON DC TO GREENSBORO, ADVANCE, GREENSBORO AND RETURN                           $99.96
+DBDD20240443                                                             SENATOR TRANSPORTATION                                                              $222.44
+              05/16/2024  MARCEL MILEWSKI        05/06/2024  05/08/2024  ADVANCE TO CHARLOTTE, WASHINGTON DC                                                 $217.75
+DBDD20240445                                                             SENATOR TRANSPORTATION                                                                $13.69
+                                                                         CHARLOTTE TO WASHINGTON DC                                                          $105.86
+                                                                         SENATOR INCIDENTALS                                                                   $13.40
+                                                                         SENATOR PER DIEM
+                                                                         WASHINGTON DC TO EDENTON, ELIZABETH CITY AND RETURN
+                                                                         SENATOR TRANSPORTATION
+                                                                         CHARLOTTE TO WASHINGTON DC
+                                                                         STAFF TRANSPORTATION
+                                                                         ASHEVILLE TO CULLOWHEE AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         SANFORD TO BURGAW AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                         STAFF TRANSPORTATION
+                                                                         SANFORD TO FAYETTEVILLE, WAGRAM, LAURINBURG AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         RALEIGH OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                         STAFF TRANSPORTATION
+                                                                         SANFORD TO HAVELOCK AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         SANFORD TO AUTRYVILLE, ROSEBORO, CLINTON, GARLAND AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

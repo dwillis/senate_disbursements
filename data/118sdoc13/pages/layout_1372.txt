@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+              POSTED                                              DATES
+                                                                               ALBUQUERQUE TO LAS CRUCES, ISLETA, LAS CRUCES, SANTA TERESA,                    $969.60
+                                                       START       END         LAS CRUCES TO RIO RANCHO                                                           $6.44
+                                                                               SENATOR TRANSPORTATION
+DHEI20240202  04/19/2024  CITIBANK - SENATOR IBA CARD  02/26/2024  02/26/2024  AIRFARE FOR SEN HEINRICH ALBUQUERQUE TO WASHINGTON DC                           $130.65
+DHEI20240219  04/01/2024  EDWARD A TABET-CUBERO        03/12/2024  03/12/2024  STAFF PER DIEM                                                                  $230.44
+                                                                               STAFF TRANSPORTATION                                                         $1,525.69
+DHEI20240222  04/02/2024  CRYSTAL M ROMERO             03/10/2024  03/15/2024  RIO RANCHO TO LOS ALAMOS AND RETURN                                             $236.43
+                                                                               STAFF INCIDENTALS                                                               $805.20
+DHEI20240225  04/22/2024  CITIBANK - TRAVEL CBA CARD   03/11/2024  03/15/2024  STAFF PER DIEM                                                                            B-1354
+                                                                               STAFF TRANSPORTATION                                                              $60.00
+DHEI20240229  04/03/2024  ASHLEY N BEYER               02/06/2024  02/07/2024  ALBUQUERQUE TO WASHINGTON DC AND RETURN                                           $20.32
+                                                                               STAFF TRANSPORTATION                                                            $198.33
+DHEI20240232  04/02/2024  JASMINE K YEPA               03/12/2024  03/12/2024  TICKET FEES                                                                       $98.49
+DHEI20240233  04/08/2024  JASMINE K YEPA               03/14/2024  03/14/2024  AIRFARE FOR J GABITZSCH EL PASO TX TO WASHINGTON DC AND RETURN                  $154.10
+DHEI20240234  04/02/2024  CHRISTINE RIGODON            03/23/2024  03/23/2024  STAFF INCIDENTALS                                                                 $49.58
+DHEI20240242  04/03/2024  RITA D O'CONNELL             03/22/2024  03/22/2024  STAFF PER DIEM                                                                    $12.73
+DHEI20240243  04/03/2024  RITA D O'CONNELL             03/27/2024  03/27/2024  LAS CRUCES TO ALBUQUERQUE AND RETURN                                              $16.75
+DHEI20240245  04/10/2024  DIANA HAZEL VENTURA          03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                              $16.28
+                                                                               JEMEZ PUEBLO TO LOS ALAMOS TO ALBUQUERQUE                                       $116.67
+DHEI20240246  04/24/2024  DIANA HAZEL VENTURA          03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                              $13.41
+                                                                               JEMEZ PUEBLO TO TAOS AND RETURN                                                 $117.11
+DHEI20240247  04/22/2024  CITIBANK - SENATOR IBA CARD  04/08/2024  04/08/2024  STAFF TRANSPORTATION                                                            $616.60
+DHEI20240248  04/23/2024  CRYSTAL M ROMERO             04/08/2024  04/08/2024  WASHINGTON DC TO DULLES VA AND RETURN                                             $13.40
+DHEI20240249  05/02/2024  DIANA HAZEL VENTURA          04/02/2024  04/03/2024  STAFF TRANSPORTATION                                                              $21.15
+                                                                               ARROYO SECO TO TAOS AND RETURN                                                    $84.51
+DHEI20240250  04/23/2024  JAMES J DUMONT               03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                              $60.30
+DHEI20240251  04/25/2024  JAMES J DUMONT               03/28/2024  03/28/2024  ARROYO SECO TO RANCHOS DE TAOS AND RETURN                                       $194.97
+DHEI20240252  04/23/2024  SYLVIA D ULLOA               03/06/2024  03/06/2024  STAFF PER DIEM                                                                    $58.29
+DHEI20240253  04/23/2024  SYLVIA D ULLOA               03/06/2024  03/06/2024  STAFF TRANSPORTATION                                                              $18.49
+DHEI20240254  04/23/2024  SYLVIA D ULLOA               03/15/2024  03/15/2024  ROSWELL TO ARTESIA, CARLSBAD AND RETURN
+                                                                               STAFF PER DIEM                                                                     $8.04
+                                                                               STAFF TRANSPORTATION
+                                                                               ROSWELL TO CARLSBAD AND RETURN
+                                                                               SENATOR TRANSPORTATION
+                                                                               AIRFARE FOR SEN HEINRICH ALBUQUERQUE TO WASHINGTON DC
+                                                                               STAFF TRANSPORTATION
+                                                                               ALBUQUERQUE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               ROSWELL TO CARLSBAD AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               FARMINGTON TO SHIPROCK AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               FARMINGTON TO GRANTS AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               LAS CRUCES TO SANTA TERESA AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               LAS CRUCES TO VADO AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               LAS CRUCES TO MESILLA AND RETURN
+

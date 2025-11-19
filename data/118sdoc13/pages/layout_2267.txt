@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                  POSTED                                              DATES
+DSCM20240816                                                                       MONROE CITY TO SAINT LOUIS AND RETURN                                       $231.10
+DSCM20240817                                               START       END         SENATOR TRANSPORTATION
+DSCM20240818                                                                       SAINT LOUIS TO WASHINGTON DC                                                $231.10
+DSCM20240819      07/02/2024  ERIC S SCHMITT               06/20/2024  06/20/2024  SENATOR TRANSPORTATION
+DSCM20240820      07/02/2024  ERIC S SCHMITT               06/20/2024  06/20/2024  WASHINGTON DC TO SAINT LOUIS                                                   $9.09
+                  07/05/2024  MICHAEL E USSERY             06/25/2024  06/25/2024  STAFF PER DIEM
+DSCM20240821      07/02/2024  JORDAN T JOBES               06/25/2024  06/25/2024  SPRINGFIELD TO BRANSON AND RETURN                                              $8.79
+DSCM20240822                                                                       STAFF PER DIEM                                                                $52.40
+DSCM20240823      07/29/2024  ASHLEY DAWN MORETTI SCHULTE  06/11/2024  06/14/2024  STAFF TRANSPORTATION
+DSCM20240824                                                                       SPRINGFIELD TO BRANSON AND RETURN                                           $123.45
+DSCM20240829      07/05/2024  MICHAEL E USSERY             06/26/2024  06/26/2024  STAFF INCIDENTALS                                                           $823.78   B-2230
+DSCM20240831      07/05/2024  JORDAN T JOBES               06/26/2024  06/26/2024  STAFF PER DIEM                                                              $653.56
+                  07/03/2024  LISA K SAYLOR                06/25/2024  06/25/2024  STAFF TRANSPORTATION
+DSCM20240832                                                                       KANSAS CITY TO WASHINGTON DC AND RETURN                                       $10.74
+DSCM20240834      07/05/2024  LISA K SAYLOR                06/20/2024  06/20/2024  STAFF TRANSPORTATION
+DSCM20240835      07/09/2024  MICHAEL E USSERY             06/27/2024  06/27/2024  SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $30.78
+DSCM20240836                                                                       STAFF TRANSPORTATION
+                  07/10/2024  ASHLEY DAWN MORETTI SCHULTE  06/24/2024  06/27/2024  SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $25.10
+DSCM20240837                                                                       STAFF PER DIEM                                                              $216.15
+DSCM20240838      07/09/2024  JORDAN T JOBES               06/27/2024  06/27/2024  STAFF TRANSPORTATION
+                  07/10/2024  MICHAEL E USSERY             06/28/2024  06/28/2024  SPRINGFIELD TO COLUMBIA AND RETURN                                            $45.85
+DSCM20240839      07/09/2024  ADAM J TIMMERMAN             06/20/2024  06/26/2024  STAFF TRANSPORTATION
+                  07/15/2024  PETER C DUDZIAK              06/24/2024  06/28/2024  SPRINGFIELD TO BRANSON AND RETURN                                              $8.94
+                                                                                   STAFF PER DIEM                                                              $108.46
+                  07/10/2024  STEPHEN B GREEN              06/25/2024  06/25/2024  STAFF TRANSPORTATION
+                  07/15/2024  EMMETT ROBERT JAMIESON       06/24/2024  06/28/2024  SPRINGFIELD TO JOPLIN, DUENWEG AND RETURN                                     $28.48
+                                                                                   STAFF INCIDENTALS                                                           $298.60
+                  07/10/2024  MORGAN S CORDER              07/01/2024  07/01/2024  STAFF PER DIEM                                                              $411.69
+                                                                                   STAFF TRANSPORTATION
+                                                                                   KANSAS CITY TO CAPE GIRARDEAU AND RETURN                                       $9.29
+                                                                                   STAFF PER DIEM
+                                                                                   SPRINGFIELD TO JOPLIN, DUENWEG AND RETURN                                      $8.67
+                                                                                   STAFF PER DIEM                                                              $128.77
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SPRINGFIELD TO DIXON, SAINT ROBERT AND RETURN                               $315.71
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SHAWNEE KS TO THE FOLLOWING AND RETURN: 6/20 LINNEUS; 6/25                  $107.60
+                                                                                   RICHMOND; 6/26 SAINT JOSEPH                                                 $620.45
+                                                                                   STAFF INCIDENTALS                                                           $168.53
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION                                                          $27.77
+                                                                                   WASHINGTON DC TO ST LOUIS AND RETURN
+                                                                                   STAFF TRANSPORTATION                                                        $101.60
+                                                                                   ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $696.16
+                                                                                   STAFF INCIDENTALS                                                           $104.15
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION                                                          $41.39
+                                                                                   WASHINGTON DC TO ST LOUIS AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   COLUMBIA TO JEFFERSON CITY AND RETURN
+

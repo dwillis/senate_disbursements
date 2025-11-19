@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DCRM20240875                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                            $780.07
+DCRM20240881      09/18/2024  CITIBANK - TRAVEL CBA CARD        START       END         RENTAL AUTO FOR L FETZER BISMARCK TO MINOT TO WILLISTON                      $1,009.48
+DCRM20240882      09/18/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION
+DCRM20240883      09/14/2024  CITIBANK - TRAVEL CBA CARD        08/22/2024  08/29/2024  AIRFARE FOR M CHAMBERS ATLANTA GA TO WASHINGTON DC                              $631.60
+DCRM20240884      09/14/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                            $593.97
+DCRM20240887      09/13/2024  CITIBANK - TRAVEL CBA CARD        08/30/2024  08/30/2024  AIRFARE FOR D RUD BISMARCK TO WASHINGTON DC                                     $318.48
+DCRM20240889      09/16/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                            $866.60
+DCRM20240894      09/16/2024  MICHAEL J KELSCH                  09/03/2024  09/03/2024  AIRFARE FOR M HELMER WILLISTON TO NEWARK NJ                                     $613.98
+                  09/25/2024                                                            STAFF TRANSPORTATION
+DCRM20240895                  CITIBANK - TRAVEL CBA CARD        08/30/2024  08/30/2024  AIRFARE FOR G SEIFERT MINNEAPOLIS MN TO WASHINGTON DC                             $77.63
+DCRM20240896      09/17/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                            $275.37
+                  09/17/2024                                    09/03/2024  09/03/2024  AIRFARE FOR M SILVERTHORN FARGO TO WASHINGTON DC                                $411.60
+DCRM20240906                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                         $1,364.90
+DCRM20240909      09/17/2024  RACHEL N BUENING                  09/04/2024  09/04/2024  AIRFARE FOR J LOTT FARGO TO WASHINGTON DC
+                  09/24/2024                                                            STAFF PER DIEM                                                                  $631.60
+                                                                09/02/2024  09/02/2024  STAFF TRANSPORTATION                                                              $21.40
+                                                                                        FARGO TO BISMARCK AND RETURN
+                                                                09/03/2024  09/05/2024  STAFF TRANSPORTATION                                                            $420.33
+                                                                                        AIRFARE FOR R BUENING GRAND FORKS TO WASHINGTON DC                              $284.70
+                                                                09/08/2024  09/08/2024  STAFF TRANSPORTATION                                                                      B-1016
+                                                                08/25/2024  09/04/2024  RENTAL AUTO FOR M SILVERTHORN BISMARCK TO NEW TOWN, MINOT,                   $1,137.41
+                                                                                        BEULAH, JAMESTOWN, FARGO AND RETURN
+                                                                09/09/2024  09/09/2024  SENATOR TRANSPORTATION                                                            $67.92
+                                                                08/02/2024  09/08/2024  AIRFARE FOR SEN CRAMER BISMARCK TO WASHINGTON DC                             $1,261.90
+                                                                                        STAFF INCIDENTALS
+DCRM20240913      09/18/2024  CITIBANK - TRAVEL CBA CARD        08/21/2024  09/03/2024  STAFF PER DIEM                                                                  $160.99
+DCRM20240914      09/27/2024  KATHERINE M GLADITSCH             08/03/2024  08/28/2024  STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO GRAND FORKS, FARGO, GRAND FORKS, BISMARCK,                  $1,205.99
+DCRM20240915      09/26/2024  GINA M SEIFERT                    08/21/2024  09/03/2024  GRAND FORKS, BISMARCK, GRAND FORKS, FARGO, GRAND FORKS, FARGO,                  $117.04
+DCRM20240916                                                                            GRAND FORKS AND RETURN
+                  09/24/2024  MICAH DAVID CHAMBERS              08/27/2024  08/30/2024  STAFF TRANSPORTATION                                                              $49.70
+DCRM20240917                                                                            RENTAL AUTO FOR D RUD WILLISTON TO WATFORD CITY, NEW SALEM,                     $489.37
+DCRM20240918      09/19/2024  CITIBANK - TRAVEL CBA CARD        08/26/2024  08/27/2024  ELLENDALE, JAMESTOWN, BISMARCK, FARGO, NEW SALEM TO BISMARCK                 $1,190.95
+                  09/18/2024  CITIBANK - TRAVEL CBA CARD        08/27/2024  08/30/2024  STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM                                                                  $283.08
+                                                                                        STAFF TRANSPORTATION                                                            $621.17
+                                                                                        WASHINGTON DC TO FARGO, GRAND FORKS, MINOT, WILLISTON,
+                                                                                        BISMARCK, FARGO, DICKINSON, FARGO, GRAND FORKS AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO MINOT, WILLISTON, MEDORA, BISMARCK, FARGO,
+                                                                                        GRAND FORKS AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO BISMARCK, WILLISTON, BISMARCK, WILLISTON AND
+                                                                                        RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RENTAL AUTO FOR R RICHARDS GRAND FORKS TO MINOT AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RENTAL AUTO FOR M CHAMBERS BISMARCK TO WILLISTON
+

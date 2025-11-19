@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                          DATES
+DRIS20240409                                                                   IDAHO FALLS TO ARCO AND RETURN                                                   $25.08
+DRIS20240410                                           START       END         STAFF PER DIEM
+DRIS20240411                                                                   BOISE TO GLENNS FERRY, MOUNTAIN HOME AND RETURN                                  $24.79
+DRIS20240412      07/17/2024  KEVIN M ARKOOSH          06/26/2024  06/26/2024  STAFF INCIDENTALS                                                              $224.76
+                  08/06/2024  DARREN T PARKER          06/10/2024  06/11/2024  STAFF PER DIEM                                                                 $554.28
+                                                                               STAFF TRANSPORTATION
+                  07/19/2024  CONNOR N LYNCH           06/25/2024  07/06/2024  BOISE TO SPOKANE WA, COEUR D ALENE, SPOKANE WA AND RETURN                         $8.56
+                                                                               STAFF INCIDENTALS                                                              $286.68
+                  07/20/2024  RISCH,JAMES E            06/18/2024  07/08/2024  STAFF PER DIEM                                                                 $709.02
+                                                                               STAFF TRANSPORTATION
+DRIS20240413      07/18/2024  MARK G CHAMANDY          06/01/2024  06/30/2024  WASHINGTON DC TO BOISE, TWIN FALLS, BOISE AND RETURN                             $80.17  B-2092
+DRIS20240414      07/19/2024  KYLE T WILSON            06/18/2024  06/18/2024  SENATOR INCIDENTALS                                                            $326.15
+DRIS20240415      07/19/2024  KYLE T WILSON            07/08/2024  07/08/2024  SENATOR PER DIEM                                                            $2,536.78
+DRIS20240416      07/20/2024  CLEMENCE,MATT J          05/23/2024  05/30/2024  SENATOR TRANSPORTATION
+                                                                               WASHINGTON DC TO BOISE, RENO NV, INCLINE VILLAGE NV, RENO NV,                    $87.10
+DRIS20240417      07/19/2024  SYDNEY ALLISON STERLING  06/03/2024  06/27/2024  BOISE AND RETURN
+DRIS20240418      07/18/2024  KYLE T WILSON            06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                             $41.40
+DRIS20240419                                                                   WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $217.75
+DRIS20240420      07/19/2024  KEVIN M ARKOOSH          05/02/2024  06/28/2024  STAFF PER DIEM
+DRIS20240421      07/21/2024  KACI LYNN R RALSTIN      06/01/2024  06/30/2024  STAFF TRANSPORTATION                                                             $24.64
+DRIS20240422      07/18/2024  KEVIN M ARKOOSH          06/18/2024  06/18/2024  IDAHO FALLS TO WEST YELLOWSTONE MT AND RETURN                                  $227.80
+DRIS20240430      07/18/2024  KEVIN M ARKOOSH          06/20/2024  06/20/2024  STAFF PER DIEM
+DRIS20240431      07/30/2024  MARC L KILMER            06/03/2024  06/28/2024  STAFF TRANSPORTATION                                                             $82.43
+DRIS20240432      08/13/2024  RISCH,JAMES E            07/11/2024  07/23/2024  IDAHO FALLS TO SALMON AND RETURN                                               $104.88
+DRIS20240433                                                                   STAFF PER DIEM                                                              $1,139.15
+                  07/29/2024  MARC L KILMER            06/05/2024  06/05/2024  STAFF TICKET FEES
+                                                                               STAFF TRANSPORTATION                                                           $370.04
+                  07/29/2024  MARC L KILMER            06/12/2024  06/12/2024  WASHINGTON DC TO BOISE AND RETURN
+                                                                               STAFF TRANSPORTATION                                                             $24.12
+                                                                               BOISE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $67.00
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION                                                           $621.89
+                                                                               IDAHO FALLS TO POCATELLO AND RETURN
+                                                                               STAFF TRANSPORTATION                                                           $475.70
+                                                                               BOISE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION                                                             $17.94
+                                                                               CRAIGMONT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF PER DIEM                                                                   $15.00
+                                                                               BOISE TO MOUNTAIN HOME AND RETURN
+                                                                               STAFF PER DIEM                                                                   $44.07
+                                                                               BOISE TO MOUNTAIN HOME A F B AND RETURN
+                                                                               STAFF TRANSPORTATION                                                             $90.90
+                                                                               COEUR D ALENE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                      $1,022.20
+                                                                               SENATOR PER DIEM
+                                                                               SENATOR TRANSPORTATION                                                           $17.50
+                                                                               WASHINGTON DC TO BOISE AND RETURN                                                $61.64
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION                                                             $10.01
+                                                                               COEUR D ALENE TO SANDPOINT AND RETURN
+                                                                               STAFF PER DIEM
+

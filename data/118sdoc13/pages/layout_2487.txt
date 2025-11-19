@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                  POSTED                                             DATES
+DTIL20240801                                                                      WASHINGTON DC TO CHARLOTTE AND RETURN                                         $12.00
+DTIL20240802                                              START       END         STAFF TRANSPORTATION                                                          $18.00
+DTIL20240807                                                                      IN AND AROUND WILMINGTON                                                      $49.68
+                  07/29/2024  GRAYSON COLE OVERHOLT       07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                        $390.50
+                  07/29/2024  GRAYSON COLE OVERHOLT       07/24/2024  07/24/2024  IN AND AROUND WILMINGTON                                                    $429.07
+                  08/15/2024  RYAN M ADAM                 07/16/2024  07/19/2024  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM                                                                $18.29
+DTIL20240817      08/07/2024  GRAYSON COLE OVERHOLT       07/30/2024  07/30/2024  STAFF TRANSPORTATION                                                        $150.00
+                  08/08/2024  RYAN M ADAM                 07/25/2024  07/27/2024  WASHINGTON DC TO RALEIGH, MORRISVILLE, GREENSBORO, WINSTON                  $110.41
+DTIL20240818                                                                      SALEM, RALEIGH AND RETURN                                                   $420.00
+                  08/12/2024  JACOB ALEXANDER BAUM        07/31/2024  07/31/2024  STAFF PER DIEM                                                              $735.97   B-2450
+DTIL20240820      08/19/2024  KATHERINE ELIZABETH WALKER  07/31/2024  07/31/2024  STAFF TRANSPORTATION
+DTIL20240821      08/19/2024  GRAYSON COLE OVERHOLT       08/01/2024  08/01/2024  WILMINGTON TO FAYETTEVILLE AND RETURN                                         $38.69
+DTIL20240822      08/19/2024  GRAYSON COLE OVERHOLT       08/02/2024  08/02/2024  STAFF INCIDENTALS                                                             $30.30
+DTIL20240823      08/19/2024  JACOB ALEXANDER BAUM        07/08/2024  07/08/2024  STAFF PER DIEM                                                                $33.00
+DTIL20240824      08/19/2024  JACOB ALEXANDER BAUM        07/11/2024  07/11/2024  STAFF TRANSPORTATION                                                          $61.20
+DTIL20240825      08/19/2024  JACOB ALEXANDER BAUM        07/23/2024  07/23/2024  WASHINGTON DC TO NASHVILLE TN AND RETURN                                      $50.25
+DTIL20240826      08/19/2024  JACOB ALEXANDER BAUM        07/29/2024  07/29/2024  STAFF PER DIEM                                                                $55.70
+DTIL20240827      08/19/2024  GRAYSON COLE OVERHOLT       08/06/2024  08/06/2024  CHARLOTTE TO GREENSBORO AND RETURN                                            $40.15
+DTIL20240828      08/19/2024  GRAYSON COLE OVERHOLT       08/07/2024  08/07/2024  STAFF PER DIEM                                                                $42.35
+DTIL20240829      08/19/2024  KATHERINE E KOUBA           08/06/2024  08/06/2024  CHARLOTTE TO GREENSBORO AND RETURN                                            $18.00
+DTIL20240830                                                                      STAFF TRANSPORTATION                                                          $12.00
+                  08/19/2024  KAREN A RAMIREZ             08/01/2024  08/01/2024  WILMINGTON TO BURGAW AND RETURN
+DTIL20240831      08/19/2024  KAREN A RAMIREZ             07/31/2024  07/31/2024  STAFF TRANSPORTATION                                                           $8.40
+DTIL20240832                                                                      WILMINGTON TO JACKSONVILLE AND RETURN                                       $162.60
+                  08/19/2024  JAMES T ESTES               07/31/2024  07/31/2024  STAFF TRANSPORTATION
+DTIL20240833                                                                      CHARLOTTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $20.04
+                  08/23/2024  JOHN ADAM WEBB              08/06/2024  08/07/2024  STAFF TRANSPORTATION                                                           $7.37
+DTIL20240834                                                                      CHARLOTTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION                                                        $100.80
+                                                                                  CHARLOTTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $36.81
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHARLOTTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $105.00
+                                                                                  STAFF TRANSPORTATION                                                          $17.29
+                                                                                  IN AND AROUND WILMINGTON
+                                                                                  STAFF TRANSPORTATION                                                        $153.14
+                                                                                  IN AND AROUND WILMINGTON
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  RALEIGH TO WILMINGTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHARLOTTE TO CONCORD AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHARLOTTE TO GREENSBORO AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHARLOTTE TO GREENSBORO AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+

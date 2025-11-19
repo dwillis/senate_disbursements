@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                   POSTED                                                  DATES
+DROS20240318                  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                    $1,007.20
+                  06/04/2024                                    START       END         AIRFARE FOR SEN ROSEN AS FOLLOWS: 5/16 WASHINGTON DC TO LAS
+DROS20240322                  LEONIE M MOWAT                                            VEGAS; 5/20 LAS VEGAS TO WASHINGTON DC                                       $166.49
+DROS20240324      06/04/2024  CITIBANK - TRAVEL CBA CARD        05/16/2024  05/20/2024  STAFF TRANSPORTATION                                                         $342.10
+DROS20240327      06/06/2024  CITIBANK - TRAVEL CBA CARD                                LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $586.95
+DROS20240328      06/07/2024  EMILY E.W. LANDE-ROSE             05/03/2024  05/23/2024  SENATOR TRANSPORTATION                                                                 B-2127
+DROS20240331      06/05/2024  TAYLOR N MURDOCK                  05/23/2024  05/23/2024  AIRFARE FOR SEN ROSEN WASHINGTON DC TO LAS VEGAS                               $54.33
+DROS20240332      06/06/2024  ABBEY LYNN PIKE                   05/27/2024  05/29/2024  SENATOR TRANSPORTATION                                                         $17.68
+DROS20240333      06/10/2024  CHRISTIAN X JONES                 05/27/2024  05/27/2024  AIRFARE FOR SEN ROSEN LAS VEGAS TO RENO AND RETURN                           $325.15
+DROS20240334      06/10/2024  CITIBANK - TRAVEL CBA CARD        05/20/2024  05/20/2024  STAFF TRANSPORTATION                                                         $287.02
+DROS20240340      06/10/2024  NETHMINI S HAPPAWANA              05/01/2024  05/30/2024  RENO TO FERNLEY AND RETURN                                                   $342.10
+DROS20240341      06/11/2024  CANDACE A WELLS                   05/02/2024  05/31/2024  STAFF TRANSPORTATION                                                         $169.17
+DROS20240342      06/11/2024  ELYSSA S GOLDMAN                  06/03/2024  06/03/2024  LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $21.70
+DROS20240344      06/11/2024  ALEXANDER N GOFF                  05/01/2024  05/23/2024  STAFF TRANSPORTATION                                                         $127.03
+DROS20240347      06/12/2024  ERIC A CARDONA                    05/22/2024  05/22/2024  RENO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $133.59
+DROS20240349      06/13/2024  CITIBANK - TRAVEL CBA CARD        05/01/2024  05/23/2024  STAFF TRANSPORTATION                                                         $520.18
+DROS20240350      06/17/2024  MOLLY R LEWIS                     05/24/2024  05/24/2024  LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $230.99
+DROS20240365      06/14/2024  EMILY E.W. LANDE-ROSE             05/01/2024  05/31/2024  SENATOR TRANSPORTATION                                                       $200.59
+DROS20240372      06/25/2024  CITIBANK - TRAVEL CBA CARD        05/28/2024  05/28/2024  AIRFARE FOR SEN ROSEN LAS VEGAS TO WASHINGTON DC                               $70.41
+                  06/27/2024                                    05/01/2024  05/31/2024  STAFF TRANSPORTATION                                                         $657.20
+DROS20240373                  CITIBANK - TRAVEL CBA CARD        06/12/2024  06/12/2024  LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DROS20240374      06/25/2024  MOLLY R LEWIS                     06/14/2024  06/17/2024  STAFF TRANSPORTATION                                                         $664.96
+DROS20240375      06/28/2024  MOLLY R LEWIS                                             LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $77.72
+DROS20240376      06/28/2024  MOLLY R LEWIS                     06/12/2024  06/14/2024  STAFF TRANSPORTATION                                                           $77.72
+DROS20240380      06/28/2024  CITIBANK - TRAVEL CBA CARD        06/10/2024  06/10/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $65.05
+DROS20240383      07/01/2024  JOHN D FOSSUM                     06/11/2024  06/11/2024  STAFF TRANSPORTATION
+                  07/01/2024                                    06/14/2024  06/14/2024  RENO TO MINDEN AND RETURN                                                    $490.20
+                                                                06/16/2024  06/19/2024  STAFF TRANSPORTATION                                                         $197.12
+                                                                06/16/2024  06/19/2024  LAS VEGAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $594.69
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR J BUSH LAS VEGAS TO RENO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RENO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RENO TO GARDNERVILLE, CARSON CITY AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN ROSEN AS FOLLOWS: 6/14 WASHINGTON DC TO LAS
+                                                                                        VEGAS; 6/17 LAS VEGAS TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR D BOIRE RENO TO LAS VEGAS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RENO TO STATELINE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RENO TO STATELINE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RENO TO GARDNERVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR J FOSSUM WASHINGTON DC TO LAS VEGAS AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+

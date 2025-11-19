@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DMUY20240337                  JOSE A MARISCAL CRUZ                                      STAFF TRANSPORTATION                                                         $16.61
+DMUY20240338      04/09/2024  ANGELES MARTINEZ                  START       END         SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $10.00
+DMUY20240339      04/09/2024  ANGELES MARTINEZ                                          STAFF TRANSPORTATION
+DMUY20240346      04/10/2024  CAITLIN E HARRINGTON              03/29/2024  03/29/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $53.52
+DMUY20240350      04/11/2024  MELINDA D LINQUIST                                        STAFF TRANSPORTATION
+DMUY20240355      04/19/2024                                    03/27/2024  03/27/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $53.60
+DMUY20240356                  NICOLE MARIE REES                                         STAFF TRANSPORTATION
+DMUY20240357      04/22/2024                                    04/02/2024  04/02/2024  VANCOUVER TO KALAMA, LONGVIEW AND RETURN                                      $8.00
+DMUY20240358                  HAYDEN LEE JENKINS                                        STAFF INCIDENTALS                                                       $1,137.72
+                  04/15/2024  CAITLIN E HARRINGTON              04/02/2024  04/02/2024  STAFF TRANSPORTATION
+DMUY20240359      04/15/2024  NICOLE MARIE REES                                         WASHINGTON DC TO SEATTLE AND RETURN                                          $14.66
+                  04/22/2024                                    04/04/2024  04/07/2024  STAFF PER DIEM                                                             $233.16
+DMUY20240360                                                                            STAFF TRANSPORTATION
+DMUY20240361                                                    04/02/2024  04/02/2024  SPOKANE TO PASCO, PULLMAN AND RETURN                                         $53.60
+                                                                                        STAFF TRANSPORTATION
+DMUY20240364                                                    03/30/2024  03/30/2024  SEATTLE TO LYNNWOOD AND RETURN                                               $54.94
+DMUY20240365                                                    04/03/2024  04/03/2024  STAFF TRANSPORTATION
+DMUY20240366                                                    04/05/2024  04/06/2024  VANCOUVER TO LONGVIEW AND RETURN                                             $25.54
+DMUY20240367                                                                            STAFF INCIDENTALS                                                          $194.62
+DMUY20240368      04/22/2024  SHAWN L BILLS                     03/27/2024  04/02/2024  STAFF PER DIEM                                                             $235.84   B-1915
+DMUY20240369                                                                            STAFF TRANSPORTATION
+DMUY20240370      04/23/2024  SHAWN L BILLS                     04/03/2024  04/03/2024  SPOKANE TO WENATCHEE AND RETURN                                            $246.90
+DMUY20240371      05/10/2024  NAOMI C SAVIN                     04/03/2024  04/07/2024  STAFF INCIDENTALS                                                       $1,633.55
+                                                                                        STAFF PER DIEM
+                  04/23/2024  HAYDEN LEE JENKINS                04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                       $550.45
+                  04/26/2024  HAYDEN LEE JENKINS                04/05/2024  04/05/2024  SEATTLE TO WASHINGTON DC AND RETURN
+                                                                                        STAFF PER DIEM                                                               $46.08
+                  04/23/2024  CAITLIN E HARRINGTON              04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                       $283.41
+                  04/23/2024  CAITLIN E HARRINGTON              04/11/2024  04/11/2024  CLE ELUM TO PULLMAN AND RETURN
+                  04/23/2024  JOSE A MARISCAL CRUZ              04/11/2024  04/11/2024  STAFF INCIDENTALS                                                             $8.00
+                  04/25/2024  NICOLE MARIE REES                 04/11/2024  04/11/2024  STAFF PER DIEM                                                             $449.34
+                                                                                        STAFF TRANSPORTATION                                                       $233.00
+                  04/12/2024  MURRAY,PATTY                      03/01/2024  03/05/2024  WASHINGTON DC TO NEW YORK NY AND RETURN
+                  04/16/2024  MURRAY,PATTY                      04/04/2024  04/08/2024  STAFF TRANSPORTATION                                                         $20.10
+                                                                                        EVERETT TO MONROE AND RETURN
+                                                                                        STAFF PER DIEM                                                               $13.97
+                                                                                        STAFF TRANSPORTATION                                                       $103.18
+                                                                                        EVERETT TO NOOKSACK AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $87.10
+                                                                                        VANCOUVER TO CATHLAMET AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $53.60
+                                                                                        VANCOUVER TO LONGVIEW AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $14.33
+                                                                                        SEATTLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM                                                               $18.82
+                                                                                        STAFF TRANSPORTATION                                                       $243.88
+                                                                                        SPOKANE TO WALLA WALLA AND RETURN
+                                                                                        SENATOR TRANSPORTATION                                                  $3,031.20
+                                                                                        WASHINGTON DC TO SEATTLE AND RETURN
+                                                                                        SENATOR TRANSPORTATION                                                  $2,801.19
+

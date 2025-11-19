@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE                        PAYEE NAME  OBLIGATION/SERVICE                                                DESCRIPTION  AMOUNT ($)
+              POSTED                                               DATES
+                      CARRINGTON, TABATHA                                   SYSTEMS & DATA PRODUCTION SPECIALIST TO AUG. 16                        $34,653.30
+                      BAYLOR, CHRISTAL D.               START  END          CUSTOMER SERVICE SPECIALIST TO JUN. 15                                 $14,388.60
+                      CHAISE, ABIGAIL                                       TECHNICAL MANAGER                                                      $75,983.26
+                      EDMONDS, CHARLES W                                    TECHNOLOGY SOLUTIONS SPECIALIST TO JUN. 6                              $22,992.43  B-118
+                      VARKEY, ANJU C                                        RECORDS AND SYSTEMS ADMINISTRATION SUPERVISOR TO AUG. 21               $52,112.21
+                      HUGGINS, PORSCHE JOY                                  RECORDS & SYSTEMS SPECIALIST FROM APR. 22                              $27,069.75
+                      MCINTIRE, RICHARD B II                                GRAPHICS DESIGNER                                                      $54,604.69
+                      CARRELLO, JAMES A                                     GRAPHICS DESIGNER TO AUG. 31                                           $51,730.59
+                      ROGERS, RENATO M                                      PRINTING & REPROGRAPHICS GENERALIST                                    $54,871.44
+                      HERNANDEZ, ALEX B                                     PRINTING & REPROGRAPHICS GENERALIST                                    $45,408.57
+                      BENITEZ, JULIO H                                      PRINTING & REPROGRAPHICS GENERALIST                                    $43,942.02
+                      BARKSDALE, DESMOND L                                  PRINTING & REPROGRAPHICS GENERALIST                                    $41,626.81
+                      WHITTAKER, DANIEL L                                   REPROGRAPHICS SUPERVISOR                                               $63,465.99
+                      MAYRANT, JAMES A C                                    PRINTING & REPROGRAPHICS SPECIALIST                                    $40,410.45
+                      NICHOLSON, ANDRE R                                    PRINTING & REPROGRAPHICS SPECIALIST                                    $41,478.26
+                      ZUPKO, JOHN                                           LEAD REPROGRAPHICS SPECIALIST                                          $54,238.21
+                      AMMANN, JOHN V JR                                     PRINTING & REPROGRAPHICS SPECIALIST                                    $40,236.85
+                      WILSON, SCOTT M                                       DIGITAL AND GRAPHIC DESIGNER                                           $49,298.15
+                      FITZHUGH, THOMAS L JR                                 LEAD REPROGRAPHICS SPECIALIST                                          $49,729.14
+                      FREDRICKSON, LARA M                                   GRAPHICS DESIGNER                                                      $40,003.73
+                      KIM, SUNNY                                            GRAPHICS DESIGNER                                                      $40,467.77
+                      HACKLEY, KIARA I                                      PRINTING & REPROGRAPHICS SPECIALIST                                    $34,795.53
+                      LITTLE, RODNEY                                        LEAD DIGITAL AND GRAPHIC DESIGNER                                      $46,803.12
+                      YANG, EURIE UNICE                                     LEAD DIGITAL AND GRAPHIC DESIGNER                                      $46,364.44
+                      FINCKEN, KRISTIN MICHELLE                             DIGITAL AND GRAPHIC DESIGNER                                           $42,074.55
+                      GILMORE, JAY R.                                       PRINTING & REPROGRAPHICS SPECIALIST TO JUL. 12                         $17,431.48
+                      DUNN III, JESSE J.                                    PRINTING & REPROGRAPHICS SPECIALIST                                    $31,117.42
+                      WALTERS, BENJAMIN D.                                  PRINTING & REPROGRAPHICS SPECIALIST                                    $30,941.23
+                      MALDONADO, ANA CHRISTINA                              DIGITAL AND GRAPHIC DESIGNER FROM APR. 22                              $31,814.09
+                      MILLER, KEVIN                                         PRINTING & REPROGRAPHICS GENERALIST TO MAY 22                          $15,542.43
+                      EYLER, CHARLES L JR                                   REPROGRAPHICS SUPERVISOR                                               $59,014.31
+                      BRISCOE, MARLON G                                     LEAD REPROGRAPHICS SPECIALIST                                          $63,749.21
+                      LYONS, AYESHA R                                       SAFETY AND MAINTENANCE COORDINATOR TO JUL. 31                          $33,002.05
+                      VILLATORO, WALTER E                                   PRINTING & REPROGRAPHICS SPECIALIST                                    $45,753.05
+                      LOPP, MICHAEL G                                       PRINTING & REPROGRAPHICS GENERALIST                                    $48,186.87
+                      RAAFT, AHMED M                                        LEAD REPROGRAPHICS SPECIALIST                                          $53,667.74
+                      BOWLDING, CARLTON M                                   PRINTING & REPROGRAPHICS SPECIALIST                                    $49,886.40
+                      HERNANDEZ, LUIS A                                     PRINTING & REPROGRAPHICS SPECIALIST                                    $39,741.55
+                      MOYER, LLOYD W                                        PRINTING & REPROGRAPHICS GENERALIST                                    $43,553.14
+                      MILORO, SAMUEL J III                                  PRINTING & REPROGRAPHICS GENERALIST                                    $42,134.13
+                      NOOR, NOORAJAN                                        PRINTING & REPROGRAPHICS GENERALIST                                    $41,463.72
+                      GREEN, WILLARD LORENZO                                PRINTING & REPROGRAPHICS SPECIALIST                                    $37,280.72
+                      GLAUB, BRIAN W                                        PRINTING & REPROGRAPHICS SPECIALIST TO JUN. 14                         $15,938.06
+                      SCHARER, PAUL H                                       LEAD REPROGRAPHICS SPECIALIST                                          $41,699.62
+                      WILKINSON, JAMES D JR                                 PRINTING & REPROGRAPHICS SPECIALIST                                    $34,829.07
+                      NGUYEN, TUNG T                                        PRINTING & REPROGRAPHICS SPECIALIST                                    $33,808.19
+                      NGUYEN, DANH VIET                                     PRINTING & REPROGRAPHICS SPECIALIST TO JUL. 27                         $24,020.66
+                      GREEN, LOWELL E.                                      PRINTING & REPROGRAPHICS SPECIALIST                                    $30,941.23
+                      DOUGLAS, CEMANINO L                                   DATA PRODUCTION SPECIALIST                                             $48,489.48
+                      HOLLIDAY, GEORGE A                                    REPROGRAPHICS SUPERVISOR                                               $63,889.23
+

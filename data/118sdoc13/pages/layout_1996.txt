@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                   POSTED                                                  DATES
+DOSS20241031                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                        $465.20
+                  09/10/2024  SHIBANI CHAKRABARTY               START       END         TICKET FEES                                                                   $40.00
+DOSS20241033                  SHIBANI CHAKRABARTY                                       AIRFARE FOR S LUCAS WASHINGTON DC TO ATLANTA AND RETURN                       $20.92
+                  09/12/2024  SHIBANI CHAKRABARTY               08/26/2024  08/28/2024  STAFF PER DIEM
+DOSS20241034                  SAMANTHA D LUCAS                                          STAFF TRANSPORTATION                                                        $137.35
+DOSS20241035      09/12/2024                                    08/27/2024  08/27/2024  ATLANTA TO PERRY AND RETURN                                                 $134.00
+DOSS20241036      09/10/2024                                                            STAFF TRANSPORTATION
+                  09/15/2024                                    07/09/2024  07/09/2024  ATLANTA TO COLUMBUS AND RETURN                                                $31.89
+DOSS20241038                                                    08/14/2024  08/14/2024  STAFF TRANSPORTATION                                                          $68.48
+                                                                08/26/2024  08/28/2024  ATLANTA TO FAYETTEVILLE AND RETURN                                          $580.24
+DOSS20241039                                                                            STAFF INCIDENTALS                                                             $59.45
+DOSS20241040      09/16/2024  KENYA CASSANDRA GARCIA            08/22/2024  08/25/2024  STAFF PER DIEM                                                                $40.00  B-1959
+DOSS20241046                                                                            STAFF TRANSPORTATION                                                        $320.19
+DOSS20241047      09/12/2024  CHANDRA R HARRIS                  08/26/2024  08/26/2024  WASHINGTON DC TO ATLANTA AND RETURN                                         $154.10
+DOSS20241050      09/12/2024  CHANDRA R HARRIS                  08/27/2024  08/27/2024  STAFF TICKET FEES                                                           $123.28
+DOSS20241051      09/12/2024  CITIBANK - TRAVEL CBA CARD        08/28/2024  08/28/2024  STAFF TRANSPORTATION                                                          $40.00
+DOSS20241052      09/13/2024  CITIBANK - TRAVEL CBA CARD        09/02/2024  09/02/2024  WASHINGTON DC TO ATLANTA, ATHENS, ATLANTA AND RETURN                        $379.60
+DOSS20241056      09/16/2024  CITIBANK - TRAVEL CBA CARD        08/22/2024  09/02/2024  STAFF TRANSPORTATION                                                        $320.19
+DOSS20241057      09/13/2024  CITIBANK - TRAVEL CBA CARD        09/05/2024  09/05/2024  ATLANTA TO DUBLIN AND RETURN                                                $314.10
+DOSS20241058      09/13/2024  CITIBANK - TRAVEL CBA CARD        08/30/2024  08/30/2024  STAFF TRANSPORTATION                                                        $166.11
+DOSS20241059      09/20/2024  REGINALD G COFER                  08/13/2024  08/13/2024  ATLANTA TO ROME AND RETURN                                                  $249.24
+DOSS20241061      09/20/2024  REGINALD G COFER                  09/03/2024  09/03/2024  TICKET FEES                                                                 $123.28
+                  09/20/2024  REGINALD G COFER                  09/04/2024  09/04/2024  STAFF TRANSPORTATION                                                        $113.90
+DOSS20241062      09/16/2024  REGINALD G COFER                  09/09/2024  09/09/2024  AIRFARE FOR D JONES ATLANTA TO BURLINGTON VT                                  $20.68
+                  09/25/2024  ANNA L CULLEN                     08/05/2024  08/07/2024  STAFF TRANSPORTATION                                                          $19.18
+DOSS20241063                                                                            AIRFARE FOR C MURPHY WASHINGTON DC TO ATLANTA AND RETURN                    $150.36
+DOSS20241067      09/24/2024  ANNA L CULLEN                     08/22/2024  08/26/2024  STAFF TRANSPORTATION                                                          $12.58
+                                                                                        AIRFARE FOR D JONES BURLINGTON VT TO ATLANTA                                $104.09
+DOSS20241068      09/17/2024  CITIBANK - SENATOR IBA CARD       09/05/2024  09/05/2024  STAFF TRANSPORTATION                                                        $160.10
+                  09/19/2024  CITIBANK - TRAVEL CBA CARD        09/11/2024  09/15/2024  AIRFARE FOR O BRIER ATLANTA TO PHILADELPHIA PA                              $465.20
+                                                                                        STAFF TRANSPORTATION                                                          $40.00
+                  09/19/2024  CITIBANK - TRAVEL CBA CARD        09/11/2024  09/14/2024  AUGUSTA TO METTER, LYONS AND RETURN                                         $320.19
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AUGUSTA TO DUBLIN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AUGUSTA TO METTER AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        AUGUSTA TO ATLANTA AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO ATLANTA, COLLEGE PARK, ATLANTA AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO ATLANTA AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN OSSOFF WASHINGTON DC TO ATLANTA
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR A JOHNSON ATLANTA TO WASHINGTON DC AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

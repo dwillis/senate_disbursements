@@ -1,0 +1,60 @@
+DOCUMENT NO.    DATE                            PAYEE NAME  OBLIGATION/SERVICE      DESCRIPTION                                 AMOUNT ($)
+              POSTED                                                   DATES
+                          CANNON, GRIFFIN B                                                                                                 $34,866.54
+                          DAVIS, JENNY W                    START       END                                                                 $91,999.96
+                          KAMALI, SOFIA                                                                                                     $44,833.28
+                          SCOTT, ANDREW W                                                     RESEARCH ASSISTANT TO JUN. 15                 $99,722.48    B-2-17
+                          STEVENS, COLE R                                                     PROFESSIONAL STAFF MEMBER                     $73,499.92
+                          GATES, KEVIN M                                                      RESEARCH ASSISTANT                          $101,500.00
+                          JOHNSON, CHAD W                                                     COUNSEL                                       $76,999.96
+                          PICCIOTTI, ISABELLE DANEEN                                          PRESS SECRETARY AND SPEECHWRITER              $44,833.28
+                          WERNER, MEREDITH STEINGOLD                                          PROFESSIONAL STAFF MEMBER                   $101,500.00
+                          LILLY, GREGORY R                                                    PROFESSIONAL STAFF MEMBER                   $102,915.00
+                          BARKER, ADAM J                                                      SPECIAL ASSISTANT                           $102,915.00
+                          PATOUT, BRADLEY M                                                   COUNSEL                                     $102,915.00
+                          MAGNUS, KATELYN                                                     CHIEF CLERK                                 $101,248.32
+                          MAZOL, JAMES G                                                      PROFESSIONAL STAFF MEMBER                   $107,974.98
+                          TRUSTY, OLIVIA B                                                    PROFESSIONAL STAFF MEMBER                   $102,915.00
+                          BERGER, RICK J                                                      PROFESSIONAL STAFF MEMBER                   $107,974.98
+                          O'KEEFE, SEAN D                                                     POLICY DIRECTOR                             $102,915.00
+                          BARNETT, ZACHARY J                                                  PROFESSIONAL STAFF MEMBER                     $11,999.94
+                          TRAGER, ERIC R                                                      PROFESSIONAL STAFF MEMBER                   $102,915.00
+                          KEAST, JOHN P                                                       PROFESSIONAL STAFF MEMBER                   $110,949.96
+                          THOMPSON, PATRICK D                                                 COMMUNICATIONS DIRECTOR                     $102,915.00
+                          TRULL, ADAM LEE                                                     PROFESSIONAL STAFF MEMBER                   $102,915.00
+                          JALKANEN, ISAAC J                                                   MINORITY STAFF DIRECTOR                       $92,817.28
+                          BEYRER, JOHN W                                                      PROFESSIONAL STAFF MEMBER                     $47,499.96
+                          BELCOURT, KRISTINA M                                                PROFESSIONAL STAFF MEMBER                   $102,915.00
+                          MOORE, JONATHAN D                                                   DEPUTY GENERAL COUNSEL                        $11,999.94
+                          KIM, YEOUK                                                          PRESS SECRETARY                             $102,915.00
+                          GAVIN, BRENDAN T                                                    PROFESSIONAL STAFF MEMBER                   $107,974.98
+                          LOFGREN, ERIC M                                                     SPEECHWRITER                                $102,915.00
+                          ROMAINE, KAITLYN R                                                  PROFESSIONAL STAFF MEMBER                     $46,248.28
+                          BRUNDRETT, TRAVIS K                                                 GENERAL COUNSEL                               $32,319.40
+                                                                                              PROFESSIONAL STAFF MEMBER
+                                                                                              RESEARCH ASSISTANT                        $4,259,523.31
+                                                                                              RESEARCH ASSISTANT TO SEP. 29
+                                                                                                                                             $6,543.75
+                                                                        PERSONNEL COMP. FULL-TIME PERMANENT
+                                                                                                                                        $4,266,067.06
+                                                                        PERSONNEL BENEFITS
+                                                                                                                                                  $23.23
+                                                                        Net Payroll Expenses
+                                                                                                                                                  $23.23
+DASR20240045  05/14/2024  SOFIA KAMALI                      03/08/2024   03/08/2024 STAFF TRANSPORTATION
+                                                                                              INTERDEPARTMENTAL TRANSPORTATION                  $712.00
+DASR20240042                                                02/01/2024                                                                          $856.00
+DASR20240043                                                04/18/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                    $648.00
+DASR20240044                                                04/17/2024                                                                          $768.00
+DASR20240046  04/24/2024  TRUSTPOINT INTERNATIONAL, LLC     04/16/2024   02/01/2024 TRANSCRIPTS, STUDIES, OFF DOC                               $744.00
+DASR20240047  05/09/2024  TRUSTPOINT COURT REPORTING LLC    04/11/2024   04/18/2024 TRANSCRIPTS, STUDIES, OFF DOC                               $976.00
+DASR20240048  05/07/2024  TRUSTPOINT COURT REPORTING LLC    04/09/2024   04/17/2024 TRANSCRIPTS, STUDIES, OFF DOC                            $4,704.00
+              05/07/2024  TRUSTPOINT COURT REPORTING LLC                 04/16/2024 TRANSCRIPTS, STUDIES, OFF DOC
+0002853968    05/07/2024  TRUSTPOINT COURT REPORTING LLC    03/01/2024   04/11/2024 TRANSCRIPTS, STUDIES, OFF DOC                           $14,548.00
+0002854007    05/07/2024  TRUSTPOINT COURT REPORTING LLC    03/01/2024   04/09/2024 TRANSCRIPTS, STUDIES, OFF DOC                            $8,028.00
+DASR20240041                                                02/01/2024  OTHER CONTRACTUAL SERVICES
+              05/15/2024  SERGEANT AT ARMS                                                                                                  $11,295.00
+              05/14/2024  SERGEANT AT ARMS                              03/31/2024  IT EQUIPMENT
+              04/22/2024  DEXTERANET LLC                                03/31/2024  SOFTWARE LICENSE
+                                                                        03/31/2024  SOFTWARE CUSTOM DEVELOPED
+

@@ -1,0 +1,59 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME    OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                             DATES
+DSEC24M50222       POSTED     CITIBANK - PURCHASE CARD                                    TRAIN/ORIENT/CONFERENCE FEES                                               $200.00
+DSEC24M50223                  CITIBANK - PURCHASE CARD            START       END         TRAIN/ORIENT/CONFERENCE FEES                                               $500.00
+DSEC24M50224      05/24/2024  CITIBANK - PURCHASE CARD                                    TRAIN/ORIENT/CONFERENCE FEES                                               $149.00
+DSEC24M50229      05/24/2024  KERI A MYERS                        05/08/2024  05/08/2024  TRAIN/ORIENT/CONFERENCE FEES                                               $200.00   B-326
+DSEC24M50230      05/23/2024  READYREFRESH                        05/07/2024  05/07/2024  VOICE, DATA COMM EQP MAINT                                                 $104.98
+DSEC24M50236      05/30/2024  CITIBANK - PURCHASE CARD            04/23/2024  04/23/2024  EDUCATION PROVIDERS                                                        $725.00
+DSEC24M50239      06/11/2024  READYREFRESH                        05/15/2024  05/17/2024  VOICE, DATA COMM EQP MAINT
+DSEC24M50242      06/04/2024  NATIONAL ARCHIVES & RECORDS ADMIN   04/01/2024  04/30/2024  RECORDS ARCHIVAL                                                             $98.00
+DSEC24M50245      06/05/2024  ELISABETH B SEELINGER               05/19/2024  05/19/2024  TRAIN/ORIENT/CONFERENCE FEES                                               $135.19
+DSEC24M50246      06/04/2024  CITIBANK - PURCHASE CARD            05/15/2024  05/15/2024  EDUCATION PROVIDERS                                                        $250.00
+DSEC24M50254      06/07/2024  CITIBANK - PURCHASE CARD            05/01/2024  05/31/2024  TRAIN/ORIENT/CONFERENCE FEES
+DSEC24M50255      06/06/2024  CITIBANK - PURCHASE CARD            05/15/2024  05/17/2024  TRAIN/ORIENT/CONFERENCE FEES                                                 $10.00
+DSEC24M50256      06/25/2024  NETDOCUMENTS SOFTWARE, INC          05/17/2024  05/17/2024  SOFTWARE MAINT                                                             $200.00
+DSEC24M50260      06/12/2024  JASON P DEESE                       05/14/2024  05/14/2024  TRAIN/ORIENT/CONFERENCE FEES                                               $150.00
+DSEC24M50262      07/23/2024  CITIBANK - PURCHASE CARD            05/25/2024  05/25/2024  SERVICE CHARGES & OTHER FEES                                            $1,974.12
+DSEC24M50263      06/12/2024  CITIBANK - PURCHASE CARD            06/01/2024  05/31/2025  SERVICE CHARGES & OTHER FEES
+DSEC24M50265      06/11/2024  WIPFLI LLP                          05/18/2024  05/18/2024  SOFTWARE MAINT                                                               $55.00
+DSEC24M50271      06/11/2024  COLLEGE BOARD                       05/20/2024  05/20/2024  EDUCATION PROVIDERS                                                          $26.70
+DSEC24M50272      06/25/2024  READYREFRESH                        04/23/2024  04/23/2024  VOICE, DATA COMM EQP MAINT                                                   $21.60
+DSEC24M50277      06/25/2024  NATIONAL ARCHIVES & RECORDS ADMIN   05/22/2024  05/30/2024  RECORDS ARCHIVAL                                                        $2,090.00
+DSEC24M50285      06/26/2024  FURST BROTHERS COMPANY              05/22/2024  05/22/2024  FRAMING SERVICES                                                        $4,840.00
+DSEC24M50286      06/28/2024  DANIEL HOLT                         05/01/2024  05/31/2024  TRAIN/ORIENT/CONFERENCE FEES                                               $104.98
+DSEC24M50298      07/18/2024  WIPFLI LLP                          06/01/2024  06/30/2024  SOFTWARE MAINT                                                             $135.19
+DSEC24M50299      07/20/2024  CITIBANK - PURCHASE CARD            06/24/2024  06/24/2024  SERVICE CHARGES & OTHER FEES                                           $10,690.54
+DSEC24M50301      07/23/2024  NATIONAL ARCHIVES & RECORDS ADMIN   06/07/2024  06/09/2024  RECORDS ARCHIVAL                                                             $90.00
+DSEC24M50311      07/21/2024  DANIEL HOLT                         06/14/2024  07/02/2024  TRAIN/ORIENT/CONFERENCE FEES                                            $1,595.00
+                  07/23/2024  NATIONAL EMPLOYMENT LAW INSTITUTE,  06/25/2024  06/25/2024                                                                               $26.63
+DSEC24M50320      07/25/2024  INC                                 07/01/2024  07/31/2024  TRAIN/ORIENT/CONFERENCE FEES                                               $152.23
+                              CITIBANK - PURCHASE CARD            05/30/2024  05/31/2024                                                                               $85.00
+DSEC24M50323      08/19/2024  WIPFLI LLP                                                  SERVICE CHARGES & OTHER FEES
+DSEC24M50336                  CITIBANK - PURCHASE CARD            05/14/2024  05/16/2024  SOFTWARE MAINT                                                             $633.75
+DSEC24M50338      08/19/2024  CITIBANK - PURCHASE CARD                                    TRAIN/ORIENT/CONFERENCE FEES
+DSEC24M50340      08/29/2024  NATIONAL ARCHIVES & RECORDS ADMIN   07/18/2024  07/18/2024  EDUCATION PROVIDERS                                                          $24.08
+DSEC24M50343      08/29/2024  CITIBANK - PURCHASE CARD            07/23/2024  07/23/2024  RECORDS ARCHIVAL                                                           $104.50
+DSEC24M50349      09/03/2024  READYREFRESH                        08/06/2024  08/06/2024  SERVICE CHARGES & OTHER FEES                                               $349.00
+DSEC24M50354      09/13/2024  DINA I MAZINA                       07/31/2024  07/31/2024  VOICE, DATA COMM EQP MAINT                                              $1,055.00
+DSEC24M50355      09/11/2024  CITIBANK - PURCHASE CARD            08/01/2024  08/31/2024  TRAIN/ORIENT/CONFERENCE FEES                                               $156.63
+DSEC24M50357      09/17/2024  WIPFLI LLP                          08/22/2024  08/22/2024  FRAMING SERVICES
+DSEC24M50365      09/24/2024  CITIBANK - PURCHASE CARD            03/13/2024  03/13/2024  SOFTWARE MAINT                                                               $26.93
+DSEC24M50368      09/17/2024  CITIBANK - PURCHASE CARD            07/16/2024  07/21/2024  EDUCATION PROVIDERS                                                          $78.01
+DSEC24M50370      09/25/2024  READYREFRESH                        05/24/2024  05/29/2024  EDUCATION PROVIDERS                                                        $599.00
+DSEC24M50371      09/20/2024  CITIBANK - PURCHASE CARD            08/14/2024  08/14/2024  VOICE, DATA COMM EQP MAINT                                              $1,634.60
+DSEC24M50372      09/20/2024  RESTAURANT ASSOCIATES               07/31/2024  07/31/2024  TRAIN/ORIENT/CONFERENCE FEES                                               $225.50
+DSEC24M50373      09/26/2024  GIOVANNA GALLETTA                   09/06/2024  09/10/2024  ORIENTATION FEES                                                             $46.72
+VSEC22400103      09/23/2024  XIAOFU DING                         08/01/2024  08/31/2024  EDUCATION PROVIDERS                                                        $565.50
+VSEC22400117      09/26/2024  GIOVANNA GALLETTA                   09/03/2024  09/03/2024  EDUCATION PROVIDERS
+VSEC22400118      04/04/2024  GIOVANNA GALLETTA                   09/09/2024  09/09/2024  EDUCATION PROVIDERS                                                           $9.99
+VSEC22400123      04/23/2024  CONNIE D BINDER                     03/17/2024  03/17/2024  EDUCATION PROVIDERS                                                        $119.00
+VSEC22400124      04/18/2024  XIAOFU DING                         04/07/2024  04/07/2024  ADMINISTRATIVE SUPPORT                                                     $129.20
+VSEC22400127      04/23/2024  GIOVANNA GALLETTA                   04/07/2024  04/07/2024  EDUCATION PROVIDERS                                                        $100.00
+VSEC22400128      05/13/2024                                      04/14/2024  04/14/2024  EDUCATION PROVIDERS                                                        $150.00
+                  05/08/2024                                      03/18/2024  04/17/2024                                                                             $100.00
+                  05/02/2024                                      04/21/2024  04/21/2024                                                                             $150.00
+                                                                  04/21/2024  04/21/2024                                                                             $976.00
+                                                                                                                                                                     $150.00
+                                                                                                                                                                     $100.00
+

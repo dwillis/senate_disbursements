@@ -1,0 +1,58 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                           DATES
+0002855998         POSTED     SERGEANT AT ARMS                                          VOICE & DATA COMM EQUIPMENT                                             $1,368.97
+0002855999                    SERGEANT AT ARMS                  START       END         VOICE & DATA COMM EQUIPMENT                                                $148.70
+0002856000        06/28/2024  SERGEANT AT ARMS                                          VOICE & DATA COMM EQUIPMENT
+0002856001        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT                                           -$60,528.53    B-442
+0002856002        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT                                                  $89.98
+0002856004        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT
+0002856005        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT                                                $189.99
+0002856006        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT                                                  $14.99
+0002856007        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT                                                  $39.99
+0002856008        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT
+0002856009        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT                                                $849.99
+0002856010        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT                                                $649.99
+0002856011        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT
+0002856012        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT                                                  $33.74
+0002856013        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT                                                $136.26
+0002856015        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT
+0002856016        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  VOICE & DATA COMM EQUIPMENT                                                  $30.65
+0002856018        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  IT EQUIPMENT                                                                 $30.65
+0002856019        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  IT EQUIPMENT                                                            $2,178.62
+0002856020        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  IT EQUIPMENT                                                                 $59.94
+0002856021        06/28/2024  SERGEANT AT ARMS                  03/01/2024  03/31/2024  IT EQUIPMENT                                                            $2,439.82
+0002856022        06/28/2024  SERGEANT AT ARMS                  03/01/2024  03/31/2024  IT EQUIPMENT                                                                 $39.99
+0002856023        06/28/2024  SERGEANT AT ARMS                  03/01/2024  03/31/2024  IT EQUIPMENT                                                            $1,932.00
+0002857282        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  IT EQUIPMENT                                                            $4,832.00
+0002857283        06/28/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  SOFTWARE LICENSE                                                       -$1,932.00
+0002857294        08/07/2024  SERGEANT AT ARMS                  05/01/2024  05/31/2024  SOFTWARE LICENSE                                                        $1,666.64
+0002857305        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  SOFTWARE LICENSE                                                        $1,466.62
+0002857316        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  SOFTWARE LICENSE                                                       -$3,133.26
+0002857327        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  SOFTWARE LICENSE                                                           $624.13
+0002857338        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  SOFTWARE LICENSE                                                             $82.47
+0002857349        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  SOFTWARE LICENSE                                                       -$1,817.61
+0002857360        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  SOFTWARE LICENSE                                                             $82.47
+0002857380        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  IT EQUIPMENT                                                                 $82.47
+0002857381        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  IT EQUIPMENT                                                                 $82.47
+0002857383        08/08/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  IT EQUIPMENT                                                               $164.94
+0002857384        08/08/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  IT EQUIPMENT                                                               $314.93
+0002857387        08/08/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  SOFTWARE LICENSE                                                             $54.92
+0002857388        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  IT EQUIPMENT                                                            $2,166.68
+0002857389        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  IT EQUIPMENT                                                               $233.33
+0002857390        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  IT EQUIPMENT                                                           -$2,400.01
+0002857391        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  IT EQUIPMENT                                                              -$624.13
+0002857392        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  IT EQUIPMENT                                                           -$6,704.02
+0002857393        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  IT EQUIPMENT                                                               $729.66
+0002857394        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  IT EQUIPMENT                                                               $475.26
+0002857395        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  SOFTWARE LICENSE                                                           $233.35
+0002857397        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  IT EQUIPMENT                                                               $466.70
+0002857406        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  SOFTWARE LICENSE                                                          -$700.05
+0002857408        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  VOICE & DATA COMM EQUIPMENT                                                $233.33
+0002857409        08/07/2024  SERGEANT AT ARMS                  03/01/2024  03/31/2024  VOICE & DATA COMM EQUIPMENT                                               -$233.33
+0002857410        08/07/2024  SERGEANT AT ARMS                  06/01/2024  06/30/2024  VOICE & DATA COMM EQUIPMENT                                                  $40.00
+                  08/07/2024                                    06/01/2024  06/30/2024                                                                          $4,500.00
+                  08/07/2024                                    06/01/2024  06/30/2024                                                                            -$120.00
+                                                                06/01/2024  06/30/2024                                                                         $42,613.64
+                                                                                                                                                                   $849.97
+                                                                                                                                                                   $549.99
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DMRK20240702                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $304.20
+                  08/14/2024                                    START       END         AIRFARE FOR J DAVIS ANCHORAGE TO WASHINGTON DC
+DMRK20240703                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                           $305.70
+                  08/13/2024                                    08/04/2024  08/05/2024  AIRFARE FOR J COLVER WASHINGTON DC TO ANCHORAGE
+DMRK20240704                  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                      $40.00
+DMRK20240705      08/13/2024  CITIBANK - TRAVEL CBA CARD        08/01/2024  08/01/2024  TICKET FEES                                                                      $40.00
+DMRK20240706      08/13/2024  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                      $40.00
+DMRK20240707      08/13/2024  CITIBANK - TRAVEL CBA CARD        07/23/2024  07/23/2024  TICKET FEES                                                                      $40.00
+DMRK20240708      08/13/2024  CITIBANK - TRAVEL CBA CARD        07/23/2024  07/23/2024  TICKET FEES                                                                      $40.00
+DMRK20240709      08/13/2024  CITIBANK - TRAVEL CBA CARD        07/23/2024  07/23/2024  TICKET FEES                                                                      $40.00
+DMRK20240710      08/13/2024  CITIBANK - TRAVEL CBA CARD        07/23/2024  07/23/2024  TICKET FEES                                                                      $40.00
+DMRK20240711      08/13/2024  CITIBANK - TRAVEL CBA CARD        07/23/2024  07/23/2024  TICKET FEES                                                                      $40.00
+DMRK20240712      08/13/2024  CITIBANK - TRAVEL CBA CARD        07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                           $917.17
+                  08/15/2024                                    07/23/2024  07/23/2024  AIRFARE FOR J DAVIS WASHINGTON DC TO JUNEAU, KETCHIKAN,
+DMRK20240713                  CITIBANK - TRAVEL CBA CARD        07/23/2024  07/23/2024  ANCHORAGE AND RETURN                                                           $705.70
+                  08/13/2024                                    07/28/2024  08/05/2024  SENATOR TRANSPORTATION
+DMRK20240714                  CITIBANK - TRAVEL CBA CARD                                AIRFARE FOR SEN MURKOWSKI WASHINGTON DC TO JUNEAU                                $40.00
+DMRK20240715      08/13/2024  CITIBANK - TRAVEL CBA CARD        08/02/2024  08/02/2024  TICKET FEES                                                                    $510.33   B-1870
+                  08/13/2024                                                            STAFF TRANSPORTATION
+DMRK20240716                  CITIBANK - TRAVEL CBA CARD        07/17/2024  07/17/2024  AIRFARE FOR K NOTHDURFT WASHINGTON DC TO ANCHORAGE                               $40.00
+DMRK20240717      08/13/2024  CITIBANK - TRAVEL CBA CARD        08/02/2024  08/02/2024  TICKET FEES                                                                      $40.00
+DMRK20240718      08/13/2024  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                    $922.26
+                  08/13/2024                                    07/17/2024  07/17/2024  STAFF TRANSPORTATION
+DMRK20240719                  CITIBANK - TRAVEL CBA CARD        07/04/2024  07/04/2024  AIRFARE FOR H NOTHDURFT WASHINGTON DC TO JUNEAU, KETCHIKAN TO                  $701.99
+                  08/13/2024                                    07/28/2024  08/02/2024  ANCHORAGE
+DMRK20240721                  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                         $390.00
+                  08/13/2024                                    06/06/2024  06/06/2024  AIRFARE FOR SEN MURKOWSKI WASHINGTON DC TO ANCHORAGE
+DMRK20240722                  CITIBANK - TRAVEL CBA CARD        07/28/2024  07/28/2024  STAFF TRANSPORTATION                                                           $481.20
+                  08/13/2024                                    08/05/2024  08/06/2024  AIRFARE FOR G CRABTREE HAINES TO JUNEAU
+DMRK20240723                  CITIBANK - TRAVEL CBA CARD        06/27/2024  06/28/2024  SENATOR TRANSPORTATION                                                         $615.20
+                  08/13/2024                                                            AIRFARE FOR SEN MURKOWSKI JUNEAU TO YAKUTAT TO ANCHORAGE                         $40.00
+DMRK20240724                  CITIBANK - TRAVEL CBA CARD        07/12/2024  07/12/2024  STAFF TRANSPORTATION
+                  08/19/2024                                                            TICKET FEES                                                                    $471.92
+DMRK20240725                  CITIBANK - TRAVEL CBA CARD        08/03/2024  08/03/2024  AIRFARE FOR D HERNDON JUNEAU TO CORDOVA AND RETURN
+                  08/13/2024                                                            SENATOR TRANSPORTATION                                                         $478.00
+DMRK20240727                  CITIBANK - TRAVEL CBA CARD        08/06/2024  08/06/2024  AIRFARE FOR SEN MURKOWSKI WASHINGTON DC TO HONOLULU HI
+                  08/13/2024                                                            SENATOR TRANSPORTATION                                                         $559.87
+DMRK20240728                  CITIBANK - TRAVEL CBA CARD        07/23/2024  07/23/2024  AIRFARE FOR SEN MURKOWSKI JUNEAU TO KAKE AND RETURN
+DMRK20240729      08/15/2024  CITIBANK - TRAVEL CBA CARD        07/12/2024  07/12/2024  STAFF TRANSPORTATION                                                             $40.00
+DMRK20240730      08/14/2024  MATTHEW J ROBINSON                06/23/2024  06/29/2024  AIRFARE FOR K LESSARD WASHINGTON DC TO ANCHORAGE                                 $40.00
+                  09/12/2024                                                            TICKET FEES                                                                      $33.48
+                                                                                        TICKET FEES                                                                    $513.88
+DMRK20240731      08/14/2024  CITIBANK - TRAVEL CBA CARD        06/27/2024  06/27/2024  STAFF INCIDENTALS                                                           $3,261.95
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                           $360.00
+                                                                                        ARLINGTON VA TO WASHINGTON DC, ANCHORAGE, SAND POINT, FALSE
+                                                                                        PASS, KING COVE, ANCHORAGE, KING SALMON WASHINGTON DC AND
+                                                                                        RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR G SUMPTER RED DEVIL TO ANCHORAGE
+

@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                   POSTED                                                  DATES
+DRUB20240715                  ANDREW R METANTE                                          STAFF TRANSPORTATION                                                                $80.42
+DRUB20240719      06/11/2024  CITIBANK - SENATOR IBA CARD       START       END         ORLANDO TO CAPE CANAVERAL AND RETURN                                              $380.09
+DRUB20240720      06/11/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                            $380.09
+DRUB20240721      06/11/2024  CITIBANK - SENATOR IBA CARD       05/23/2024  05/23/2024  AIRFARE FOR SEN RUBIO MIAMI TO WASHINGTON DC                                      $380.09
+DRUB20240722      06/11/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                            $380.09
+DRUB20240723      06/12/2024  CITIBANK - SENATOR IBA CARD       05/07/2024  05/07/2024  AIRFARE FOR SEN RUBIO WASHINGTON DC TO MIAMI                                      $380.09
+DRUB20240727      06/12/2024  LONDON ROTUNDO                                            SENATOR TRANSPORTATION                                                            $544.17
+                  06/14/2024                                    05/10/2024  05/10/2024  AIRFARE FOR SEN RUBIO WASHINGTON DC TO MIAMI
+                                                                                        SENATOR TRANSPORTATION                                                            $172.52
+                                                                05/16/2024  05/16/2024  AIRFARE FOR SEN RUBIO WASHINGTON DC TO MIAMI
+                                                                                        SENATOR TRANSPORTATION                                                              $97.15
+                                                                05/23/2024  05/23/2024  AIRFARE FOR SEN RUBIO MIAMI TO WASHINGTON DC                                        $17.18
+                                                                                        STAFF TRANSPORTATION                                                                $82.00
+                                                                05/21/2024  05/21/2024  FORT MYERS TO THE FOLLOWING AND RETURN TO NAPLES: 5/3                               $95.14
+                                                                                        EVERGLADES CITY; 5/9 PUNTA GORDA; 5/29 NAPLES; FORT MYERS TO THE                    $18.93
+                                                                05/03/2024  05/29/2024  FOLLOWING AND RETURN: 5/10 FORT MYERS BEACH; 5/22, 24 NAPLES;                       $47.36
+                                                                                        NAPLES TO THE FOLLOWING AND RETURN TO FORT MYERS: 5/14                              $13.63
+DRUB20240728      06/13/2024  LONDON ROTUNDO                    04/27/2024  05/02/2024  CLEWESTON; 5/22 CAPE CORAL; 5/17, 27 NAPLES TO FORT MYERS AND                       $78.39  B-2174
+                                                                                        RETURN                                                                              $43.95
+DRUB20240729      06/11/2024  MARY E BARROWS                    04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                                $20.43
+DRUB20240730      06/11/2024  LONDON ROTUNDO                    05/03/2024  05/03/2024  4/27 IN AND AROUND NAPLES; 4/27, 5/1 NAPLES TO FORT MYERS AND                       $77.05
+                                                                                        RETURN; 5/2 FORT MYERS TO ESTERO TO NAPLES                                          $22.82
+DRUB20240731      06/11/2024  MARY E BARROWS                    05/09/2024  05/09/2024  STAFF TRANSPORTATION                                                                $74.37
+DRUB20240732      06/11/2024  LONDON ROTUNDO                    04/26/2024  04/26/2024  PENSACOLA TO DEFUNIAK SPRINGS AND RETURN                                            $63.65
+                                                                                        STAFF PER DIEM                                                                      $11.65
+DRUB20240733      06/11/2024  DANIEL R PAASCH                   05/21/2024  05/21/2024  STAFF TRANSPORTATION
+                                                                                        FORT MYERS TO CLEWISTON AND RETURN                                                   $5.69
+DRUB20240734      06/11/2024  DANIEL R PAASCH                   05/27/2024  05/27/2024  STAFF TRANSPORTATION                                                                $35.24
+DRUB20240735      06/12/2024  DANIEL R PAASCH                   05/26/2024  05/26/2024  PENSACOLA TO DEFUNIAK SPRINGS AND RETURN
+DRUB20240736      06/11/2024  MARY E BARROWS                    05/22/2024  05/22/2024  STAFF PER DIEM
+DRUB20240737      06/10/2024  DANIEL R PAASCH                   05/20/2024  05/20/2024  STAFF TRANSPORTATION
+                                                                                        FORT MYERS TO NAPLES AND RETURN
+DRUB20240738      06/11/2024  MARY E BARROWS                    05/16/2024  05/16/2024  STAFF PER DIEM
+DRUB20240739      06/12/2024  DANIEL R PAASCH                   05/16/2024  05/16/2024  STAFF TRANSPORTATION
+DRUB20240740      06/11/2024  DANIEL R PAASCH                   05/14/2024  05/14/2024  TALLAHASSEE TO MADISON AND RETURN
+DRUB20240741      06/11/2024  LONDON ROTUNDO                    04/25/2024  04/25/2024  STAFF TRANSPORTATION
+                                                                                        TALLAHASSEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TALLAHASSEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PENSACOLA TO NICEVILLE AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TALLAHASSEE TO MADISON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PENSACOLA TO JAY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TALLAHASSEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TALLAHASSEE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+

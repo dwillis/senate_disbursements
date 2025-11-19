@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                   POSTED                                                  DATES
+DBRS20240367                  PAM BULINE                                                STAFF PER DIEM                                                                 $10.90
+DBRS20240368      05/07/2024  PAM BULINE                        START       END         STAFF TRANSPORTATION                                                         $206.63
+DBRS20240369                  PAM BULINE                                                RIVERTON TO JACKSON AND RETURN
+                  05/07/2024                                    04/23/2024  04/25/2024  STAFF TRANSPORTATION                                                         $137.23
+DBRS20240370      05/07/2024                                                            RIVERTON TO POWELL AND RETURN
+DBRS20240371                                                    03/18/2024  03/19/2024  STAFF INCIDENTALS                                                              $11.58
+DBRS20240372                                                    02/20/2024  02/21/2024  STAFF PER DIEM                                                               $120.27
+DBRS20240373                                                                            STAFF TRANSPORTATION                                                         $105.57
+DBRS20240374      05/07/2024  PAM BULINE                        03/01/2024  03/02/2024  RIVERTON TO THERMOPOLIS AND RETURN                                                     B-494
+DBRS20240375      05/03/2024  PAM BULINE                        03/08/2024  03/08/2024  STAFF TRANSPORTATION                                                         $132.31
+DBRS20240376      05/07/2024  PAM BULINE                        02/01/2024  02/01/2024  RIVERTON TO BIG PINEY AND RETURN
+DBRS20240377      05/07/2024  PAM BULINE                        02/08/2024  02/09/2024  STAFF TRANSPORTATION                                                           $36.18
+DBRS20240380                                                                            RIVERTON TO LANDER AND RETURN
+DBRS20240381      05/03/2024  PAM BULINE                        03/06/2024  03/06/2024  STAFF TRANSPORTATION                                                         $194.30
+                  05/03/2024  PAM BULINE                        02/14/2024  02/14/2024  RIVERTON TO CODY AND RETURN
+DBRS20240382      05/07/2024  PAM BULINE                        03/12/2024  03/12/2024  STAFF PER DIEM                                                                 $60.00
+                  05/13/2024  CITIBANK - TRAVEL CBA CARD        04/28/2024  04/29/2024  STAFF TRANSPORTATION                                                         $194.30
+DBRS20240383                                                                            RIVERTON TO CODY AND RETURN
+DBRS20240386      05/08/2024  KYLIE R ANDERSON                  04/25/2024  04/26/2024  STAFF TRANSPORTATION                                                           $48.24
+                                                                                        RIVERTON TO LANDER TO CROWHEART
+DBRS20240389      05/09/2024  KYLIE R ANDERSON                  04/15/2024  04/16/2024  STAFF TRANSPORTATION                                                           $42.88
+                                                                                        CROWHEART TO DUBOIS AND RETURN
+DBRS20240390      05/16/2024  CHOICE AVIATION LLC               04/27/2024  04/27/2024  STAFF TRANSPORTATION                                                           $48.24
+                                                                                        CROWHEART TO LANDER TO RIVERTON
+                  05/14/2024  BARRASSO,JOHN                     04/25/2024  04/29/2024  STAFF TRANSPORTATION                                                         $458.20
+                  05/14/2024  KIEFER CODY MCLEMORE              04/26/2024  04/27/2024  TICKET FEES                                                                    $30.00
+                                                                                        AIRFARE FOR S BROWN ROCK SPRINGS TO DENVER CO AND RETURN
+                  05/09/2024  SIERRA A BROWN                    04/28/2024  04/29/2024  STAFF PER DIEM                                                                  $4.78
+                                                                                        STAFF TRANSPORTATION                                                         $126.40
+                  05/09/2024  SIERRA A BROWN                    04/27/2024  04/27/2024  SHERIDAN TO GILLETTE AND RETURN
+                                                                                        STAFF INCIDENTALS                                                              $13.26
+                                                                                        STAFF PER DIEM                                                               $148.91
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SHERIDAN TO HULETT, GILLETTE AND RETURN                                        $50.25
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION                                                      $5,458.32
+                                                                                        AIRFARE FOR SEN BARRASSO, B GOODELL CASPER TO RAWLINS, FORT               $5,458.31
+                                                                                        BRIDGER AND RETURN
+                                                                                        SENATOR TRANSPORTATION                                                       $550.60
+                                                                                        WASHINGTON DC TO CASPER, GILLETTE, RAWLINS, FORT BRIDGER,
+                                                                                        CASPER AND RETURN                                                              $19.11
+                                                                                        STAFF INCIDENTALS                                                            $165.14
+                                                                                        STAFF PER DIEM                                                               $116.50
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CASPER TO RAWLINS AND RETURN                                                   $14.43
+                                                                                        STAFF INCIDENTALS                                                            $176.59
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                           $40.00
+                                                                                        ROCK SPRINGS TO DENVER CO, AURORA CO, DENVER CO AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $115.24
+

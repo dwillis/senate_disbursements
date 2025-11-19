@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE                     PAYEE NAME   OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+              POSTED                                             DATES
+                                                                              WASHINGTON DC TO BOSTON MA, PORTSMOUTH NH, DURHAM NH, BOSTON                      $67.91
+                                                      START       END         AND RETURN
+                                                                              STAFF TRANSPORTATION                                                              $27.45
+DSBU20240172  07/16/2024  JUSTIN M WITT               06/17/2024  06/18/2024  INTERDEPARTMENTAL TRANSPORTATION                                                $317.17
+DSBU20240173  07/31/2024  NIKHIL P MALHOTRA           07/16/2024  07/18/2024  STAFF INCIDENTALS                                                               $253.92
+                                                                              STAFF PER DIEM
+DSBU20240180  07/29/2024  EMMA G HALL                 07/16/2024  07/18/2024  STAFF TRANSPORTATION                                                              $27.45
+                                                                              WASHINGTON DC TO OMAHA NE, SIOUX CITY IA, COUNCIL BLUFFS IA,                    $292.06
+DSBU20240181  07/25/2024  CITIBANK - TRAVEL CBA CARD  07/16/2024  07/18/2024  OMAHA AND RETURN                                                                          B-2-152
+DSBU20240182  07/29/2024  CITIBANK - TRAVEL CBA CARD  07/16/2024  07/18/2024  STAFF INCIDENTALS                                                                 $87.00
+DSBU20240183  08/06/2024  MEREDITH D WEST             07/12/2024  07/19/2024  STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION                                                            $206.20
+DSBU20240184  07/25/2024  SAMANTHA DANIELLE SCOCA     07/14/2024  07/18/2024  WASHINGTON DC TO OMAHA NE, SIOUX CITY IA, COUNCIL BLUFFS IA,                      $30.00
+DSBU20240187                                                                  OMAHA AND RETURN
+DSBU20240189  07/29/2024  CITIBANK - TRAVEL CBA CARD  07/16/2024  07/18/2024  STAFF TRANSPORTATION                                                            $206.20
+DSBU20240190  08/05/2024  COREY E COOKE               07/16/2024  07/18/2024  TICKET FEES                                                                       $30.00
+DSBU20240191                                                                  AIRFARE FOR E HALL WASHINGTON DC TO OMAHA NE AND RETURN
+DSBU20240193  08/09/2024  JUSTIN M WITT               07/15/2024  07/21/2024  STAFF TRANSPORTATION                                                            $263.63
+                                                                              TICKET FEES                                                                  $2,144.00
+              08/08/2024  CITIBANK - TRAVEL CBA CARD  07/15/2024  07/21/2024  AIRFARE FOR N MALHOTRA WASHINGTON DC TO OMAHA NE AND RETURN                  $1,549.84
+                                                                              STAFF INCIDENTALS
+              08/09/2024  MEREDITH D WEST             07/26/2024  07/28/2024  STAFF PER DIEM                                                                  $180.32
+                                                                              STAFF TRANSPORTATION                                                         $1,335.34
+                                                                              WASHINGTON DC TO NORTH CHARLESTON SC, EAST BOSTON MA, BOSTON
+                                                                              MA, CAMBRIDGE MA, BOSTON, CAMBRIDGE, BOSTON, CAMBRIDGE, EAST                    $210.41
+                                                                              BOSTON AND RETURN
+                                                                              STAFF INCIDENTALS                                                               $206.20
+                                                                              STAFF PER DIEM                                                                    $30.00
+                                                                              STAFF TRANSPORTATION
+                                                                              BARTLETT NH TO BOSTON MA, CHARLESTOWN MA, BOSTON AND RETURN                       $27.45
+                                                                              STAFF TRANSPORTATION                                                            $346.93
+                                                                              TICKET FEES                                                                     $219.98
+                                                                              AIRFARE FOR C COOKE WASHINGTON DC TO OMAHA NE AND RETURN
+                                                                              STAFF INCIDENTALS                                                               $217.25
+                                                                              STAFF PER DIEM                                                               $1,176.97
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO OMAHA NE, SIOUX CITY IA, COUNCIL BLUFFS IA,                    $293.74
+                                                                              OMAHA AND RETURN
+                                                                              STAFF INCIDENTALS                                                            $1,732.18
+                                                                              STAFF PER DIEM                                                                    $30.00
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO BOSTON MA, CAMBRIDGE MA, BOSTON, MILWAUKEE                        $8.00
+                                                                              WI, MADISON WI, MILWAUKEE AND RETURN                                            $255.00
+                                                                              STAFF TRANSPORTATION                                                            $333.57
+                                                                              TICKET FEES
+                                                                              AIRFARE FOR J WITT WASHINGTON DC TO BOSTON MA, MILWAUKEE WI
+                                                                              AND RETURN
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO LOUISVILLE KY, WASHINGTON DC TO ALEXANDRIA VA
+

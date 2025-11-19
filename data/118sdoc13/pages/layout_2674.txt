@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                             DATES
+DWHI20240260                                                                      AIRFARE FOR SEN WHITEHOUSE PROVIDENCE TO WASHINGTON DC                       $118.59
+DWHI20240261                                              START       END         STAFF TRANSPORTATION
+DWHI20240263                                                                      WARREN TO MIDDLETOWN, NEWPORT, JOHNSTON, PROVIDENCE,                           $28.14
+DWHI20240264      04/26/2024  ANDREW E SZALA              04/05/2024  04/05/2024  CRANSTON, PAWTUCKET, MIDDLETOWN AND RETURN                                   $373.10
+                                                                                  STAFF TRANSPORTATION                                                         $235.10
+DWHI20240265      04/24/2024  ANDREW E SZALA              04/12/2024  04/12/2024  WARREN TO CRANSTON, WARWICK TO PROVIDENCE
+DWHI20240268      04/29/2024  CITIBANK - TRAVEL CBA CARD  04/15/2024  04/15/2024  SENATOR TRANSPORTATION                                                         $40.00
+                  04/29/2024  CITIBANK - TRAVEL CBA CARD  04/12/2024  04/12/2024  AIRFARE FOR SEN WHITEHOUSE PROVIDENCE TO WASHINGTON DC                       $254.82
+DWHI20240269                                                                      SENATOR TRANSPORTATION
+DWHI20240270      04/29/2024  CITIBANK - TRAVEL CBA CARD  03/27/2024  03/30/2024  TICKET FEES                                                                    $23.25
+DWHI20240273      05/03/2024  STEPHEN N DELEO             04/18/2024  04/19/2024  AIRFARE FOR SEN WHITEHOUSE WASHINGTON DC TO PROVIDENCE                       $191.55
+DWHI20240279                                                                      STAFF TRANSPORTATION
+                  05/01/2024  CITIBANK - TRAVEL CBA CARD  03/25/2024  03/25/2024  RENTAL AUTO FOR M MCCABE IN PROVIDENCE                                         $73.72  B-2637
+DWHI20240280      05/01/2024  ANDREW E SZALA              04/18/2024  04/18/2024  STAFF INCIDENTALS                                                              $40.00
+                  05/02/2024  KATIE L TSIMIKAS            04/18/2024  04/18/2024  STAFF PER DIEM                                                                 $47.70
+DWHI20240281      05/21/2024  CITIBANK - TRAVEL CBA CARD  05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                           $35.51
+DWHI20240282                                                                      WASHINGTON DC TO WARWICK, PROVIDENCE, WARWICK AND RETURN                     $235.10
+DWHI20240283      05/21/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/05/2024  TICKET FEES                                                                    $40.00
+DWHI20240284                                                                      STAFF TRANSPORTATION                                                         $659.20
+DWHI20240285      05/16/2024  HOLLIE L MELLEN             04/05/2024  04/05/2024  PROVIDENCE TO MIDDLETOWN AND RETURN                                            $80.00
+DWHI20240286      05/16/2024  HOLLIE L MELLEN             04/29/2024  04/29/2024  STAFF TRANSPORTATION
+DWHI20240287      05/16/2024  HOLLIE L MELLEN             04/25/2024  04/25/2024  PROVIDENCE TO NORTH KINGSTOWN AND RETURN                                       $10.92
+DWHI20240288      05/16/2024  HOLLIE L MELLEN             04/27/2024  04/27/2024  SENATOR TRANSPORTATION                                                          $8.37
+                  05/28/2024  KATIE L TSIMIKAS            04/29/2024  04/29/2024  TICKET FEES
+DWHI20240289      05/28/2024  KATIE L TSIMIKAS            05/03/2024  05/03/2024  AIRFARE FOR SEN WHITEHOUSE PROVIDENCE TO WASHINGTON DC                         $22.71
+DWHI20240290      05/28/2024  KATIE L TSIMIKAS            05/06/2024  05/06/2024  SENATOR TRANSPORTATION                                                         $22.71
+                  05/21/2024  CITIBANK - TRAVEL CBA CARD  04/23/2024  04/23/2024  TICKET FEES                                                                    $10.72
+                                                                                  AIRFARE FOR SEN WHITEHOUSE AS FOLLOWS: 5/2 WASHINGTON DC TO                    $35.51
+                  05/21/2024  CITIBANK - TRAVEL CBA CARD  04/18/2024  04/19/2024  PHOENIX AZ; 5/5 PHOENIX AZ TO BOSTON MA                                        $40.20
+                                                                                  STAFF TRANSPORTATION                                                      $1,701.10
+                  05/21/2024  CITIBANK - TRAVEL CBA CARD  04/25/2024  04/26/2024  PROVIDENCE TO JOHNSTON AND RETURN                                              $40.00
+                                                                                  STAFF TRANSPORTATION                                                         $589.07
+                                                                                  PROVIDENCE TO CENTRAL FALLS AND RETURN
+                                                                                  STAFF TRANSPORTATION                                                         $608.20
+                                                                                  PROVIDENCE TO CRANSTON TO LINCOLN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LINCOLN TO CRANSTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PROVIDENCE TO CRANSTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PROVIDENCE TO NARRAGANSETT AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PROVIDENCE TO NARRAGANSETT AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR SEN WHITEHOUSE WASHINGTON DC TO PROVIDENCE
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR S DELEO AS FOLLOWS: 4/18 WASHINGTON DC TO
+                                                                                  PROVIDENCE; 4/19 PROVIDENCE TO WASHINGTON DC
+                                                                                  STAFF TRANSPORTATION
+

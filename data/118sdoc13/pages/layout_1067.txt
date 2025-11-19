@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+              POSTED                                             DATES
+                                                                              ALEXANDRIA VA TO WASHINGTON DC, SAN ANTONIO, WASHINGTON DC                          $45.56
+                                                      START       END         AND RETURN                                                                          $65.66
+                                                                              STAFF TRANSPORTATION                                                                $78.39
+DCRU20240773  05/30/2024  CHESTER T LOTT III          05/14/2024  05/17/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $28.81  B-1049
+DCRU20240774  05/30/2024  CHESTER T LOTT III          05/07/2024  05/10/2024  STAFF TRANSPORTATION                                                                $34.84
+DCRU20240775  05/30/2024  CHESTER T LOTT III          05/20/2024  05/24/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $887.04
+DCRU20240776  06/03/2024  CHESTER T LOTT III          04/15/2024  04/19/2024  STAFF TRANSPORTATION                                                              $562.95
+DCRU20240777  06/04/2024  CHESTER T LOTT III          04/29/2024  05/02/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $1,223.44
+DCRU20240781  07/24/2024  CITIBANK - TRAVEL CBA CARD  05/20/2024  05/20/2024  STAFF TRANSPORTATION                                                           $1,602.97
+DCRU20240782  06/07/2024  CITIBANK - TRAVEL CBA CARD  05/24/2024  05/24/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $377.21
+DCRU20240783  06/10/2024  AARON FRANCIS REITZ         05/19/2024  05/23/2024  STAFF TRANSPORTATION
+DCRU20240784  06/10/2024  AARON FRANCIS REITZ         05/12/2024  05/17/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $367.83
+DCRU20240785  06/07/2024  WRIGHT,JASON F              04/29/2024  05/03/2024  STAFF TRANSPORTATION
+                                                                              AIRFARE FOR C LOTT, M CLIFFORD NEWARK NJ TO WASHINGTON DC                         $410.71
+DCRU20240786  06/07/2024  WRIGHT,JASON F              05/07/2024  05/10/2024  STAFF TRANSPORTATION
+                                                                              AIRFARE FOR P WINDSOR SAN ANTONIO TO WASHINGTON DC                                $194.97
+DCRU20240787  06/07/2024  WRIGHT,JASON F              05/13/2024  05/17/2024  STAFF TRANSPORTATION
+                                                                              AUSTIN TO WASHINGTON DC AND RETURN                                                  $14.38
+DCRU20240788  06/07/2024  WRIGHT,JASON F              05/28/2024  05/30/2024  STAFF TRANSPORTATION                                                              $383.24
+                                                                              AUSTIN TO WASHINGTON DC AND RETURN                                                $409.37
+DCRU20240789  06/10/2024  MATTHEW GRANT MURRAY        05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                              $770.82
+                                                                              TYLER TO THE FOLLOWING AND RETURN: 4/29 VAN, CANTON; 5/2
+DCRU20240790  06/07/2024  MATTHEW GRANT MURRAY        05/01/2024  05/29/2024  NACOGDOCHES, LONGVIEW; 5/3 LIVINGSTON                                               $28.34
+DCRU20240791  06/10/2024  GIOVANNI CATANZARO          05/01/2024  05/31/2024  STAFF TRANSPORTATION                                                              $284.75
+DCRU20240795  06/10/2024  CARL B MICA                 05/30/2024  05/30/2024  TYLER TO THE FOLLOWING AND RETURN: 5/7 GROVETON, LIVINGSTON; 5/8                  $132.66
+                                                                              JACKSONVILLE; 5/9 HENDERSON; 5/10 MOUNT PLEASANT, OVERTON
+DCRU20240799  06/11/2024  BLAKE T VINEYARD            05/01/2024  05/31/2024  STAFF TRANSPORTATION                                                                $69.64
+DCRU20240802  06/11/2024  CASANDRA L GARCIA           04/24/2024  04/26/2024  TYLER TO THE FOLLOWING AND RETURN: 5/13 CENTER, CARTHAGE; 5/14                    $359.00
+                                                                              SULPHUR SPRINGS; 5/16 EMORY; 5/17 NACOGDOCHES                                     $460.02
+DCRU20240803  06/11/2024  CASANDRA L GARCIA           03/18/2024  03/22/2024  STAFF TRANSPORTATION                                                              $184.92
+DCRU20240804  06/11/2024  CASANDRA L GARCIA           04/08/2024  04/12/2024  TYLER TO THE FOLLOWING AND RETURN: 5/28 PALESTINE, BULLARD; 5/30                  $292.79
+                                                                              MOUNT VERNON, MOUNT PLEASANT
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              HOUSTON TO DALLAS AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              AUSTIN TO DALLAS AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              LUBBOCK OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              DEL RIO TO AUSTIN AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              DEL RIO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+

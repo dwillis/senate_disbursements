@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                              DATES
+DSCM20240691                                                                       WASHINGTON DC TO SAINT LOUIS                                               $131.10
+DSCM20240692                                               START       END         SENATOR TRANSPORTATION                                                       $50.44
+                                                                                   SAINT LOUIS TO WASHINGTON DC
+DSCM20240694      06/12/2024  ERIC S SCHMITT               06/03/2024  06/03/2024  STAFF INCIDENTALS                                                          $358.07
+DSCM20240695      06/24/2024  LISA K SAYLOR                05/21/2024  05/23/2024  STAFF PER DIEM                                                             $281.65
+DSCM20240696                                                                       STAFF TRANSPORTATION
+DSCM20240697      06/12/2024  CHRISTOPHER LYNN WALKER      05/15/2024  05/15/2024  SPRINGFIELD TO SAINT LOUIS AND RETURN                                        $17.68  B-2226
+DSCM20240698      06/12/2024  CHRISTOPHER LYNN WALKER      05/20/2024  05/20/2024  STAFF TRANSPORTATION                                                         $34.06
+DSCM20240699      06/12/2024  CHRISTOPHER LYNN WALKER      05/22/2024  05/22/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $19.65
+DSCM20240700      06/12/2024  CHRISTOPHER LYNN WALKER      05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                         $77.94
+DSCM20240701      06/12/2024  CHRISTOPHER LYNN WALKER      05/24/2024  05/24/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $34.71
+DSCM20240702      06/12/2024  MEGAN KAYLEE WERDEHAUSEN     04/02/2024  04/02/2024  STAFF TRANSPORTATION                                                         $28.82
+DSCM20240703      06/12/2024  MEGAN KAYLEE WERDEHAUSEN     04/05/2024  04/05/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $59.34
+DSCM20240704      06/12/2024  MICHAEL E USSERY             05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                         $97.66
+DSCM20240705      06/12/2024  JORDAN T JOBES               05/15/2024  05/15/2024  ST LOUIS TO BONNE TERRE AND RETURN                                           $10.48
+DSCM20240706      06/13/2024  JORDAN T JOBES               05/16/2024  05/16/2024  STAFF TRANSPORTATION                                                       $129.03
+DSCM20240707      06/12/2024  JORDAN T JOBES               05/29/2024  05/29/2024  ST LOUIS TO SAINT CHARLES AND RETURN                                         $22.92
+DSCM20240708      06/12/2024  MEGAN KAYLEE WERDEHAUSEN     04/10/2024  04/10/2024  STAFF TRANSPORTATION
+                  06/12/2024  MEGAN KAYLEE WERDEHAUSEN     04/11/2024  04/11/2024  FULTON TO JEFFERSON CITY AND RETURN                                           $1.96
+DSCM20240709      06/12/2024  MEGAN KAYLEE WERDEHAUSEN     04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                         $80.56
+                  06/13/2024  ASHLEY DAWN MORETTI SCHULTE  05/02/2024  05/03/2024  FULTON TO CENTRALIA, MEXICO AND RETURN
+DSCM20240710                                                                       STAFF TRANSPORTATION                                                          $5.24
+DSCM20240711      06/13/2024  ASHLEY DAWN MORETTI SCHULTE  05/28/2024  05/30/2024  SPRINGFIELD TO WILLARD, WALNUT GROVE, BRANSON AND RETURN                     $23.58
+DSCM20240712                                                                       STAFF TRANSPORTATION                                                       $143.00
+                  06/12/2024  JOSEPH NASH DEHMER           05/20/2024  05/20/2024  SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $327.50
+                  06/12/2024  JOSEPH NASH DEHMER           05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                         $15.24
+                  06/12/2024  MICHAEL E USSERY             05/31/2024  05/31/2024  SPRINGFIELD TO CLINTON AND RETURN                                          $219.41
+                                                                                   STAFF TRANSPORTATION                                                       $238.42
+                                                                                   SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $15.72
+                                                                                   STAFF TRANSPORTATION                                                         $11.79
+                                                                                   COLUMBIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION                                                          $9.09
+                                                                                   FULTON TO JEFFERSON CITY, VERSAILLES AND RETURN                              $63.40
+                                                                                   STAFF TRANSPORTATION
+                                                                                   COLUMBIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF INCIDENTALS
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   KANSAS CITY TO SAINT LOUIS AND RETURN
+                                                                                   STAFF INCIDENTALS
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   KANSAS CITY TO SPRINGFIELD AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SPRINGFIELD TO MONETT AND RETURN
+

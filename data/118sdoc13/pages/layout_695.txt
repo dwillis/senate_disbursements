@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+              POSTED                                             DATES
+                                                                              STAFF TRANSPORTATION                                                       $106.00
+                                                      START       END         HARVEST TO BIRMINGHAM TO HUNTSVILLE                                          $13.50
+                                                                              STAFF TRANSPORTATION                                                         $90.00
+DBRI20240626  08/19/2024  MELANIE KAY HILL            08/06/2024  08/06/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $34.00
+DBRI20240627  08/16/2024  MELANIE KAY HILL            07/29/2024  07/29/2024  STAFF TRANSPORTATION                                                         $69.00
+DBRI20240628  08/16/2024  MELANIE KAY HILL            07/26/2024  07/26/2024  DOTHAN TO LUVERNE AND RETURN                                                  $6.66
+DBRI20240629  08/16/2024  MELANIE KAY HILL            07/25/2024  07/25/2024  STAFF TRANSPORTATION
+DBRI20240630  08/20/2024  KELLI R WOLFE               08/01/2024  08/01/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $128.00
+                                                                              STAFF TRANSPORTATION                                                         $20.10
+DBRI20240631  08/19/2024  JOHN H WOODS                08/01/2024  08/02/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF PER DIEM                                                             $128.34
+DBRI20240632  08/19/2024  MELANIE KAY HILL            08/05/2024  08/05/2024  STAFF TRANSPORTATION                                                         $40.00  B-677
+DBRI20240633  08/20/2024  KELLI R WOLFE               08/08/2024  08/08/2024  TUSCALOOSA TO MONTGOMERY TO COTTONDALE
+                                                                              STAFF INCIDENTALS                                                          $629.95
+DBRI20240634  08/29/2024  SHANDERLA DIONNE MCMILLIAN  08/14/2024  08/14/2024  STAFF PER DIEM                                                               $22.50
+DBRI20240635  08/28/2024  MELANIE KAY HILL            08/11/2024  08/12/2024  STAFF TICKET FEES                                                            $20.23
+DBRI20240636  08/28/2024  MELANIE KAY HILL            08/13/2024  08/13/2024  STAFF TRANSPORTATION                                                         $86.00
+DBRI20240637  08/27/2024  MELANIE KAY HILL            08/14/2024  08/14/2024  WASHINGTON DC TO MONTGOMERY AND RETURN                                       $50.20
+DBRI20240638  08/27/2024  MELANIE KAY HILL            08/15/2024  08/15/2024  STAFF TRANSPORTATION
+DBRI20240639  08/29/2024  KELLI R WOLFE               08/13/2024  08/13/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $122.00
+                                                                              STAFF PER DIEM                                                               $25.00
+DBRI20240640  08/29/2024  DANIEL J HILLENBRAND        08/06/2024  08/13/2024  STAFF TRANSPORTATION                                                         $27.00
+                                                                              COTTONDALE TO COTTONDALE, DEMOPOLIS TO TUSCALOOSA                            $39.00
+DBRI20240655  09/09/2024  DANIEL J HILLENBRAND        08/15/2024  08/15/2024  STAFF TRANSPORTATION                                                         $19.87
+DBRI20240658  09/05/2024  SHANDERLA DIONNE MCMILLIAN  08/20/2024  08/20/2024  HARVEST TO GUNTERSVILLE TO HUNTSVILLE                                        $65.00
+DBRI20240660  09/05/2024  KELLI R WOLFE               08/20/2024  08/20/2024  STAFF TRANSPORTATION                                                         $91.90
+DBRI20240661  09/05/2024  KELLI R WOLFE               08/20/2024  08/20/2024  DOTHAN TO MONTGOMERY AND RETURN
+DBRI20240662  09/05/2024  KELLI R WOLFE               08/12/2024  08/21/2024  STAFF TRANSPORTATION                                                    $1,006.00
+                                                                              DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $1,075.45
+                                                                              STAFF TRANSPORTATION
+                                                                              DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $60.25
+                                                                              STAFF TRANSPORTATION                                                         $55.30
+                                                                              DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $48.50
+                                                                              STAFF PER DIEM                                                             $147.00
+                                                                              STAFF TRANSPORTATION                                                         $37.50
+                                                                              TUSCALOOSA TO VERNON TO COTTONDALE
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO BIRMINGHAM, BESSEMER, MOBILE, FAIRHOPE,
+                                                                              SPANISH FORT, MOBILE AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO LEESBURG VA, FALLS CHURCH VA AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              HARVEST TO GUNTERSVILLE TO HUNTSVILLE
+                                                                              STAFF TRANSPORTATION
+                                                                              TUSCALOOSA TO FAYETTE AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              TUSCALOOSA TO GUNTERSVILLE AND RETURN
+                                                                              STAFF TRANSPORTATION
+

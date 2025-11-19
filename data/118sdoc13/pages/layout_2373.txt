@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                             DATES
+DSEM20240601                                                                      PHOENIX TO MARICOPA AND RETURN                                               $77.39
+                                                          START       END         STAFF INCIDENTALS                                                          $456.56
+DSEM20240604                                                                      STAFF PER DIEM
+DSEM20240605      06/05/2024  BRENDAN M DUFF              05/03/2024  05/06/2024  WASHINGTON DC TO SEDONA, PHOENIX AND RETURN                                   $8.04
+DSEM20240607                                                                      STAFF TRANSPORTATION                                                       $127.97
+DSEM20240608      05/30/2024  VICTORIA OKULA              05/23/2024  05/23/2024  PHOENIX OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $101.28   B-2336
+DSEM20240611      06/04/2024  JOSEPH M HARO               05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                       $644.20
+DSEM20240612      06/06/2024  CITIBANK - TRAVEL CBA CARD  05/21/2024  05/23/2024  TUCSON TO BISBEE AND RETURN
+DSEM20240613      06/07/2024  CITIBANK - TRAVEL CBA CARD  05/23/2024  05/29/2024  STAFF TRANSPORTATION                                                          $7.37
+DSEM20240614      06/11/2024  VICTORIA OKULA              05/29/2024  05/29/2024  RENTAL AUTO FOR A WILLIAMS TUCSON TO YUMA AND RETURN                       $644.20
+DSEM20240615      06/12/2024  CITIBANK - TRAVEL CBA CARD  05/22/2024  06/02/2024  STAFF TRANSPORTATION
+DSEM20240618      06/11/2024  VICTORIA OKULA              05/31/2024  05/31/2024  AIRFARE FOR G GARVIN WASHINGTON DC TO PHOENIX AND RETURN                     $22.78
+DSEM20240619      06/11/2024  LAURA M GREENE              05/29/2024  05/29/2024  STAFF TRANSPORTATION                                                         $27.47
+DSEM20240621      06/11/2024  VICTORIA OKULA              05/30/2024  05/30/2024  PHOENIX OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $30.15
+DSEM20240622      06/13/2024  CITIBANK - TRAVEL CBA CARD  05/23/2024  06/03/2024  STAFF TRANSPORTATION                                                       $820.20
+DSEM20240623                                                                      AIRFARE FOR T CANUEL WASHINGTON DC TO PHOENIX AND RETURN
+DSEM20240624      06/11/2024  CITIBANK - TRAVEL CBA CARD  05/28/2024  05/29/2024  STAFF TRANSPORTATION                                                         $52.39
+DSEM20240626      06/12/2024  CITIBANK - TRAVEL CBA CARD  04/22/2024  04/22/2024  PHOENIX TO TEMPE AND RETURN                                                $410.10
+DSEM20240627      06/12/2024  CITIBANK - TRAVEL CBA CARD  05/27/2024  06/04/2024  STAFF TRANSPORTATION                                                       $644.20
+                                                                                  PHOENIX OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DSEM20240628      06/11/2024  LINDA L PRADO               05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                         $75.04
+DSEM20240629      06/12/2024  LINDA L PRADO               04/24/2024  04/24/2024  PHOENIX TO CHANDLER AND RETURN                                               $16.00
+                  06/16/2024  VICTORIA OKULA              06/07/2024  06/07/2024  SENATOR TRANSPORTATION                                                       $48.24
+DSEM20240630      06/24/2024  VICTORIA OKULA              06/06/2024  06/06/2024  AIRFARE FOR SEN SINEMA AS FOLLOWS: 5/23 WASHINGTON DC TO                     $20.73
+                                                                                  PHOENIX; 6/3 PHOENIX TO WASHINGTON DC                                      $166.80
+                  06/16/2024  VICTORIA OKULA              06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                         $20.06
+                  06/26/2024  CRYSTAL MARIE JEAN STATEN   05/06/2024  05/11/2024  RENTAL AUTO FOR A WILLIAMS TUCSON TO PHOENIX AND RETURN                    $261.27
+                                                                                  STAFF TRANSPORTATION                                                    $1,940.31
+                  06/27/2024  FLANNIGAN, LAURA K          05/06/2024  05/11/2024  AIRFARE FOR D WINKLER PHOENIX TO WASHINGTON DC                             $162.28
+                                                                                  STAFF TRANSPORTATION                                                       $261.27
+                                                                                  AIRFARE FOR D WINKLER AS FOLLOWS: 5/27 WASHINGTON DC TO                 $1,907.45
+                                                                                  PHOENIX; 6/4 PHOENIX TO WASHINGTON DC                                      $310.13
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PHOENIX TO BUCKEYE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PHOENIX OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PHOENIX TO CHANDLER AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PHOENIX TO TUCSON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PHOENIX OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+

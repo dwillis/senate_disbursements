@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+              POSTED                                             DATES
+                                                                              WASHINGTON DC TO BLOUNTVILLE, KNOXVILLE, CHATTANOOGA,                                 $20.59
+                                                      START       END         COOKEVILLE, NASHVILLE, JACKSON, MEMPHIS, NASHVILLE AND RETURN                       $104.52
+                                                                              STAFF PER DIEM                                                                      $100.50
+DHGT20240350  06/05/2024  MELISSA L STOOKSBURY        05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                                          B-1282
+                                                                              NASHVILLE TO COOKEVILLE AND RETURN                                                    $50.92
+DHGT20240351  06/03/2024  ZACHARY T BROOKS            05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                                  $30.57
+DHGT20240352  05/26/2024  ZACHARY T BROOKS            05/20/2024  05/20/2024  CHATTANOOGA TO TULLAHOMA AND RETURN                                                 $357.78
+DHGT20240353  06/03/2024  MELISSA L STOOKSBURY        05/17/2024  05/20/2024  STAFF TRANSPORTATION                                                                $476.10
+                                                                              CHATTANOOGA TO DAYTON AND RETURN                                                    $325.10
+DHGT20240356  05/29/2024  CITIBANK - TRAVEL CBA CARD  03/23/2024  03/23/2024  STAFF PER DIEM                                                                      $147.10
+DHGT20240357  05/31/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                                $512.21
+DHGT20240358  05/29/2024  CITIBANK - TRAVEL CBA CARD  04/15/2024  04/15/2024  NASHVILLE TO KNOXVILLE AND RETURN                                                   $504.98
+DHGT20240359  05/29/2024  CITIBANK - TRAVEL CBA CARD  04/15/2024  04/16/2024  SENATOR TRANSPORTATION                                                              $294.20
+DHGT20240360  05/29/2024  CITIBANK - TRAVEL CBA CARD  04/04/2024  04/04/2024  AIRFARE FOR SEN HAGERTY WASHINGTON DC TO NASHVILLE                                  $642.98
+DHGT20240361  05/29/2024  CITIBANK - TRAVEL CBA CARD  04/03/2024  04/07/2024  SENATOR TRANSPORTATION                                                                $30.00
+DHGT20240362  05/29/2024  CITIBANK - TRAVEL CBA CARD  04/02/2024  04/05/2024  AIRFARE FOR SEN HAGERTY WASHINGTON DC TO NASHVILLE
+                                                                              SENATOR TRANSPORTATION                                                              $512.21
+DHGT20240363  05/31/2024  CITIBANK - TRAVEL CBA CARD  05/20/2024  05/22/2024  AIRFARE FOR SEN HAGERTY NASHVILLE TO WASHINGTON DC                                  $279.10
+DHGT20240365  05/29/2024  CITIBANK - TRAVEL CBA CARD  04/11/2024  04/11/2024  STAFF TRANSPORTATION                                                                $919.96
+DHGT20240366  06/05/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/21/2024  AIRFARE FOR M VARINO MEMPHIS TO WASHINGTON DC AND RETURN
+DHGT20240367  05/28/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/19/2024  SENATOR TRANSPORTATION                                                                $96.10
+DHGT20240368  05/31/2024  CITIBANK - TRAVEL CBA CARD  05/09/2024  05/09/2024  AIRFARE FOR SEN HAGERTY NEW YORK NY TO NASHVILLE                                    $318.10
+DHGT20240370  05/31/2024  CITIBANK - TRAVEL CBA CARD  05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                                $147.10
+DHGT20240371  05/29/2024  CITIBANK - TRAVEL CBA CARD  04/30/2024  04/30/2024  AIRFARE FOR A HOGIN WASHINGTON DC TO NASHVILLE AND RETURN                           $147.10
+DHGT20240372  05/30/2024  CITIBANK - TRAVEL CBA CARD  05/09/2024  05/09/2024  STAFF TRANSPORTATION                                                                $147.10
+DHGT20240373  05/29/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/24/2024  TICKET FEES                                                                         $107.10
+DHGT20240374  05/31/2024  CITIBANK - TRAVEL CBA CARD  05/14/2024  05/17/2024  AIRFARE FOR L PETTIT AS FOLLOWS: 4/4 NEW YORK NY TO NASHVILLE; 4/5                  $262.20
+DHGT20240375  06/07/2024  CITIBANK - TRAVEL CBA CARD  05/14/2024  05/17/2024  NASHVILLE TO WASHINGTON DC; 4/2 TRAIN FARE FOR L PETTIT                             $262.20
+                                                                              WASHINGTON DC TO NEW YORK NY
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR J WHITE MEMPHIS TO WASHINGTON DC AND RETURN
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN HAGERTY WASHINGTON DC TO NASHVILLE
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR J DURRETT WASHINGTON DC TO NASHVILLE AND RETURN
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN HAGERTY BOSTON MA TO WASHINGTON DC
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN HAGERTY WASHINGTON DC TO NASHVILLE
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN HAGERTY NASHVILLE TO WASHINGTON DC
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN HAGERTY NASHVILLE TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR A TELLE WASHINGTON DC TO NASHVILLE
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN HAGERTY WASHINGTON DC TO NASHVILLE
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR L BALL NASHVILLE TO BOSTON MA AND RETURN
+                                                                              STAFF TRANSPORTATION
+

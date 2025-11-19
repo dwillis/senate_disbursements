@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DMCN20241214                  EMILY E LOUDEN                                            STAFF TRANSPORTATION                                                       $106.11
+DMCN20241215      09/28/2024  EMILY E LOUDEN                    START       END         LOUISVILLE TO WILMORE AND RETURN                                           $125.76
+DMCN20241216      09/28/2024  EMILY E LOUDEN                                            STAFF TRANSPORTATION                                                       $198.46
+DMCN20241217      09/28/2024  EMILY E LOUDEN                    03/27/2024  03/27/2024  LOUISVILLE TO FORT WRIGHT AND RETURN                                       $360.25
+DMCN20241218      09/28/2024  EMILY E LOUDEN                                            STAFF TRANSPORTATION                                                       $424.76
+DMCN20241220      09/28/2024  STEPHANIE H NELSON                07/29/2024  07/29/2024  LOUISVILLE TO LEXINGTON, LONDON AND RETURN
+DMCN20241221      09/25/2024  STEPHANIE H NELSON                                        STAFF TRANSPORTATION                                                         $20.96
+DMCN20241222      09/25/2024  HALEY E TIPTON                    07/30/2024  07/30/2024  LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $36.68
+DMCN20241226      09/25/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                         $12.18
+DMCN20241227      09/26/2024  MORGAN ALVEY                      01/04/2024  03/26/2024  LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $53.05
+DMCN20241228      09/26/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION
+DMCN20241229      09/26/2024  MORGAN ALVEY                      03/28/2024  07/26/2024  IN AND AROUND RICHMOND                                                        $7.86
+DMCN20241230      09/26/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                         $68.77
+DMCN20241231      09/26/2024  MORGAN ALVEY                      09/19/2024  09/19/2024  LEXINGTON TO FRANKFORT AND RETURN                                            $28.82
+DMCN20241232      09/26/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                         $68.12
+DMCN20241233      09/26/2024  MORGAN ALVEY                      09/20/2024  09/20/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $38.64
+DMCN20241235      09/26/2024  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION                                                         $68.12
+DMCN20241236      09/26/2024  ELIZABETH HUNTER WHITAKER         09/19/2024  09/19/2024  PADUCAH TO EDDYVILLE AND RETURN                                              $38.64
+DMCN20241237      09/26/2024  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION                                                         $47.81
+DMCN20241238      09/26/2024  ELIZABETH HUNTER WHITAKER         09/04/2024  09/04/2024  PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $43.23
+DMCN20241239      09/26/2024  ELIZABETH HUNTER WHITAKER                                 STAFF TRANSPORTATION                                                         $14.41
+DMCN20241244      09/26/2024  MORGAN ALVEY                      09/05/2024  09/05/2024  PADUCAH TO PRINCETON AND RETURN                                              $11.13
+DMCN20241245      09/27/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                         $48.47
+DMCN20241246      09/27/2024  MORGAN ALVEY                      09/06/2024  09/06/2024  PADUCAH TO LA CENTER AND RETURN                                              $43.23  B-1775
+DMCN20241247      09/27/2024  MORGAN ALVEY                                              STAFF TRANSPORTATION                                                         $38.64
+                  09/27/2024                                    09/10/2024  09/10/2024  PADUCAH TO MURRAY AND RETURN                                                 $64.84
+                                                                                        STAFF TRANSPORTATION                                                         $10.48
+                                                                09/12/2024  09/12/2024  PADUCAH TO MAYFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/13/2024  09/13/2024  PADUCAH TO MURRAY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/16/2024  09/16/2024  PADUCAH TO MAYFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/17/2024  09/17/2024  BOWLING GREEN TO MORGANTOWN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/10/2024  09/10/2024  BOWLING GREEN TO BROWNSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/12/2024  09/12/2024  BOWLING GREEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                09/13/2024  09/13/2024  BOWLING GREEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                09/16/2024  09/16/2024  BOWLING GREEN TO SCOTTSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/18/2024  09/18/2024  PADUCAH TO BENTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/20/2024  09/20/2024  PADUCAH TO MAYFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/23/2024  09/23/2024  PADUCAH TO CADIZ AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/24/2024  09/24/2024  PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+
+                                                                09/25/2024  09/25/2024
+

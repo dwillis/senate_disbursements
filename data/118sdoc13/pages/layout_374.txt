@@ -1,0 +1,61 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME       OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                                DATES
+00572732           POSTED     CFO SOLUTIONS LLC                                              TECHNICAL SUPPORT                                                     -$77,506.00
+00572752                      CFO SOLUTIONS LLC                      START       END         TECHNICAL SUPPORT                                                      -$5,000.00
+00574220          09/23/2024  CFO SOLUTIONS LLC                                              TECHNICAL SUPPORT
+00575444          09/23/2024  CFO SOLUTIONS LLC                      09/23/2024  09/23/2024  TECHNICAL SUPPORT                                                     -$47,967.00    B-356
+DSAA23M54351      09/25/2024  CITIBANK - PURCHASE CARD               09/23/2024  09/23/2024  TRAIN/ORIENT/CONFERENCE FEES                                           -$5,000.00
+DSAA23M54353      09/27/2024  CITIBANK - PURCHASE CARD               09/25/2024  09/25/2024  TRAIN/ORIENT/CONFERENCE FEES                                            $2,397.00
+DSAA23M54354      04/05/2024  CITIBANK - PURCHASE CARD               09/27/2024  09/27/2024  TRAIN/ORIENT/CONFERENCE FEES                                            $1,500.00
+DSAA23M54355      04/18/2024  CITIBANK - PURCHASE CARD               03/20/2024  03/20/2024  TRAIN/ORIENT/CONFERENCE FEES                                            $2,395.00
+DSAA23M54356      04/24/2024  CITIBANK - PURCHASE CARD               03/28/2024  03/28/2024  TRAIN/ORIENT/CONFERENCE FEES                                            $2,395.00
+DSAA23M54357      04/24/2024  CITIBANK - PURCHASE CARD               03/26/2024  03/26/2024  TRAIN/ORIENT/CONFERENCE FEES                                            $2,395.00
+DSAA23M54358      04/24/2024  CITIBANK - PURCHASE CARD               03/26/2024  03/26/2024  TRAIN/ORIENT/CONFERENCE FEES                                            $2,395.00
+DSAA23M54359      04/24/2024  CITIBANK - PURCHASE CARD               03/25/2024  03/25/2024  TRAIN/ORIENT/CONFERENCE FEES                                            $2,395.00
+DSAA23M54360      04/24/2024  CITIBANK - PURCHASE CARD               03/25/2024  03/25/2024  TRAIN/ORIENT/CONFERENCE FEES                                            $2,395.00
+DSAA23M54361      04/24/2024  CITIBANK - PURCHASE CARD               03/25/2024  03/25/2024  TRAIN/ORIENT/CONFERENCE FEES                                            $2,395.00
+DSAA23M54362      04/24/2024  JENNIFER CROWE CLARK                   03/25/2024  03/25/2024  SERVICE CHARGES & OTHER FEES                                            $1,595.00
+DSAA23M54363      04/18/2024  CITIBANK - PURCHASE CARD               03/25/2024  03/25/2024  TRAIN/ORIENT/CONFERENCE FEES                                                 $87.68
+DSAA23M54373      05/14/2024  CITIBANK - PURCHASE CARD               03/27/2024  03/27/2024  TRAIN/ORIENT/CONFERENCE FEES                                            $1,595.00
+DSAA23M54374      04/26/2024  CITIBANK - PURCHASE CARD               08/10/2023  08/25/2023  TRAIN/ORIENT/CONFERENCE FEES                                            $2,285.00
+TDEP202400505     07/08/2024  FINANCIAL CLERK US SENATE              04/11/2024  04/11/2024  TECHNICAL SUPPORT                                                       $1,695.00
+TDEP202400872C    07/08/2024  FINANCIAL CLERK US SENATE              06/17/2024  06/17/2024  TECHNICAL SUPPORT
+VSAA22403537      05/29/2024  PERATON INC.                           06/17/2024  06/17/2024  TECHNICAL SUPPORT                                                   -$344,112.72
+VSAA22403837      09/27/2024  ATLANTIC GRAPHIC SYSTEMS INC           05/29/2024  05/29/2024  PRODUCTION EQUIP MAINT                                                -$38,670.72
+VSAA22404027      04/09/2024  NATIONAL CAPTIONING INSTITUTE, INC.    09/27/2024  09/27/2024  TECHNICAL SUPPORT                                                      $52,881.40
+VSAA22404030      04/10/2024  FCN INC                                09/28/2023  09/28/2023  APPLICATION SOFTWARE MAINT                                              $5,150.00
+                  04/17/2024                                         01/01/2024  03/31/2024  VOICE, DATA COMM EQP MAINT                                              $3,663.75
+VSAA22404156      04/02/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC     02/01/2024  02/29/2024  TECHNICAL SUPPORT                                                    $252,622.95
+VSAA22404165                  CFO SOLUTIONS LLC                      03/03/2024  03/02/2025  TECHNICAL SUPPORT                                                      $10,096.74
+                  04/09/2024  SPECIAL AEROSPACE SECURITY                                                                                                             $4,807.88
+VSAA22404210      04/14/2024  SERVICES, INC                          09/08/2023  09/08/2023  MANAGEMENT CONSULTANTS                                                 $47,831.50
+                              SPECIAL AEROSPACE SECURITY             02/01/2024  02/29/2024
+VSAA22404211      04/10/2024  SERVICES, INC                                                  IT SECURITY                                                            $30,925.92
+                              PERATON INC.                           02/11/2024  03/10/2024
+VSAA22404274      04/02/2024  BLUEGRASS BUILDING CONSULTANTS                                 TECHNICAL SUPPORT                                                      $52,029.52
+VSAA22404358                  MOTOROLA SOLUTIONS INC                 02/13/2024  03/12/2024  NON-FEDERAL FAC MAINT, REPAIR
+VSAA22404411      04/09/2024  UNIVERSITY OF MICHIGAN - FLINT                                 STUDIES, ANALYSES, & EVALS                                             $55,839.80
+VSAA22404412      04/11/2024  CHYRONHEGO CORPORATION                 09/28/2023  09/28/2023  NON-FEDERAL FAC MAINT, REPAIR                                          $66,604.91
+VSAA22404419      04/10/2024  CHRISTOPHER LAW                        03/25/2024  03/25/2024  AUDIO, VISUAL EQUIP MAINT                                              $48,419.00
+VSAA22404522      04/26/2024  ALTERION INC                           10/18/2023  10/18/2023  MONITORING & GUARD SERVICES                                            $40,969.06
+VSAA22404546      04/23/2024  SPECIAL AEROSPACE SECURITY             12/21/2022  07/18/2023  MANAGEMENT CONSULTANTS                                                 $34,509.76
+                  04/16/2024  SERVICES, INC                          04/01/2024  09/30/2024
+VSAA22404578      04/18/2024  KONICA MINOLTA BUSINESS SOLUTIONS U.   03/01/2024  03/31/2024  MANAGEMENT CONSULTANTS                                                  $6,667.00
+                              S.A.                                   03/01/2024  03/31/2024                                                                          $5,630.48
+VSAA22404592      04/24/2024  THE EDUCE GROUP, INC.                                          PRODUCTION EQUIP MAINT
+                              NATIONAL CAPTIONING INSTITUTE, INC.    01/11/2024  02/10/2024                                                                         $30,925.92
+VSAA22404601      04/24/2024  NATIONAL CAPTIONING INSTITUTE, INC.                            TECHNICAL SUPPORT
+VSAA22404621                  CFO SOLUTIONS LLC                      01/01/2024  03/31/2024  TECHNICAL SUPPORT                                                       $8,737.48
+VSAA22404622      05/07/2024  U S CAPITOL POLICE                                             TECHNICAL SUPPORT
+VSAA22404742      05/09/2024  BY LIGHT PROFESSIONAL IT SERVICES LLC  01/28/2024  03/02/2024  TECHNICAL SUPPORT                                                      $32,027.44
+VSAA22404823      05/29/2024  RICOH USA INC                          03/06/2024  03/20/2024  PHYSICAL SECURITY                                                       $2,961.75
+VSAA22404828      05/03/2024  RICOH USA INC                          03/01/2024  03/21/2024  VOICE, DATA COMM EQP MAINT
+VSAA22404831      04/26/2024  FCN INC                                03/01/2024  03/31/2024  NON-IT OFFICE EQUIP MAINT                                              $19,923.25
+VSAA22404832      04/26/2024                                         08/14/2023  08/28/2023  NON-IT OFFICE EQUIP MAINT                                              $77,506.00
+VSAA22404833      04/26/2024                                         02/08/2024  02/08/2024  VOICE, DATA COMM EQP MAINT
+                  04/30/2024                                         01/01/2024  03/31/2024                                                                          $3,846.43
+                  04/24/2024                                         01/01/2024  03/31/2024                                                                         $17,514.70
+                                                                     04/04/2024  09/30/2024                                                                         $41,880.00
+                                                                                                                                                                    $10,400.00
+                                                                                                                                                                    $47,729.02
+

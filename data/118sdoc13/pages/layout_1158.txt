@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DERN20240449                  MICHELE A BECK                                            STAFF TRANSPORTATION                                                          $119.26
+DERN20240450      05/17/2024  MICHELE A BECK                    START       END         DAVENPORT TO MOUNT PLEASANT AND RETURN                                        $183.58
+DERN20240451      05/17/2024  MICHELE A BECK                                            STAFF TRANSPORTATION                                                          $166.16
+DERN20240452      05/17/2024  MICHELE A BECK                    03/30/2024  03/30/2024  DAVENPORT TO OTTUMWA AND RETURN                                               $147.40
+DERN20240453      05/17/2024  MICHELE A BECK                                            STAFF TRANSPORTATION
+DERN20240454      05/15/2024  DUSTIN C VANDE HOEF               04/29/2024  04/29/2024  DAVENPORT TO WILTON, CEDAR RAPIDS AND RETURN                                    $85.76
+                  05/14/2024                                                            STAFF TRANSPORTATION                                                            $15.50
+DERN20240455                  DUSTIN C VANDE HOEF               03/28/2024  03/28/2024  DAVENPORT TO FAIRFIELD AND RETURN                                             $228.47
+DERN20240456      05/13/2024  DUSTIN C VANDE HOEF                                       STAFF TRANSPORTATION                                                            $48.64
+DERN20240457      05/13/2024  KOLBY RYAN DEWITT                 03/26/2024  03/26/2024  DAVENPORT TO MEDIAPOLIS AND RETURN                                              $39.53
+                  05/10/2024                                                            STAFF PER DIEM
+DERN20240461                  KIMBERLY A REEM                   03/20/2024  03/20/2024  STAFF TRANSPORTATION                                                             $9.70
+DERN20240462      05/14/2024  KIMBERLY A REEM                                           DES MOINES TO ELDRIDGE, DAVENPORT AND RETURN                                    $26.13
+DERN20240463      05/14/2024  KOLBY RYAN DEWITT                 04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                          $109.21
+DERN20240469      05/10/2024  JUSTIN L JENSEN                                           DES MOINES TO AMES AND RETURN                                                 $101.17
+                  05/15/2024                                    04/29/2024  04/29/2024  STAFF TRANSPORTATION                                                            $34.84
+DERN20240470                                                    04/01/2024  04/30/2024  DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $10.89
+DERN20240471                                                    05/01/2024  05/01/2024  STAFF PER DIEM                                                                $109.88
+                                                                                        STAFF TRANSPORTATION
+DERN20240478                                                    05/01/2024  05/01/2024  SIOUX CITY TO HINTON, ONAWA, MOORHEAD AND RETURN                                $79.06  B-1140
+DERN20240479                                                    05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                            $16.93
+DERN20240480                                                    05/03/2024  05/03/2024  CEDAR RAPIDS TO BELLEVUE AND RETURN                                           $108.54
+DERN20240481                                                    04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                          $163.48
+                                                                                        CEDAR RAPIDS TO DUBUQUE AND RETURN                                              $54.47
+DERN20240482      05/10/2024  JUSTIN L JENSEN                   04/01/2024  04/30/2024  STAFF TRANSPORTATION                                                            $78.39
+                  05/21/2024  KOLBY RYAN DEWITT                 05/07/2024  05/07/2024  SIOUX CITY TO LE MARS AND RETURN                                                $10.96
+DERN20240483                                                                            STAFF PER DIEM                                                                $186.93
+                  05/29/2024  KIMBERLY A REEM                   05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                            $16.31
+                  05/25/2024  KIMBERLY A REEM                   05/08/2024  05/08/2024  CEDAR FALLS TO MASON CITY, SHEFFIELD, ROCKWELL, HAMPTON AND                     $81.74
+                  05/25/2024  KIMBERLY A REEM                   05/09/2024  05/09/2024  RETURN
+                  05/29/2024  KOLBY RYAN DEWITT                 05/09/2024  05/09/2024  STAFF TRANSPORTATION                                                            $22.00
+                                                                                        CEDAR RAPIDS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $128.64
+                  05/25/2024  JUSTIN L JENSEN                   05/07/2024  05/07/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                  05/29/2024  JUSTIN L JENSEN                   05/08/2024  05/08/2024  SIOUX CITY TO SIBLEY, GEORGE, SIOUX CENTER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CEDAR RAPIDS TO LANSING, ELKADER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CEDAR RAPIDS TO INDEPENDENCE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CEDAR RAPIDS TO DYERSVILLE, MANCHESTER AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SIOUX CITY TO HUMBOLDT, FORT DODGE, ROCKWELL CITY AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CEDAR FALLS TO NEW HAMPTON, FREDERICKSBURG, CHARLES CITY AND
+                                                                                        RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+

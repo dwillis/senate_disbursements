@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                      DATES
+DKNN20240928                                                               ABITA SPRINGS TO BATON ROUGE TO MANDEVILLE                                    $6.70
+DKNN20240929                                       START       END         STAFF TRANSPORTATION                                                         $16.75
+DKNN20240931                                                               WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $27.04
+DKNN20240932      05/15/2024  CHRISTIAN P AMY      05/01/2024  05/01/2024  STAFF TRANSPORTATION                                                         $56.95
+DKNN20240933      05/16/2024  CHRISTIAN P AMY      05/02/2024  05/02/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $32.61
+DKNN20240934      05/16/2024  WOODROW J DAIGLE II  04/01/2024  04/01/2024  STAFF PER DIEM                                                             $119.26
+DKNN20240935                                                               STAFF TRANSPORTATION                                                         $16.64
+DKNN20240936      05/21/2024  WOODROW J DAIGLE II  04/02/2024  04/02/2024  LAKE CHARLES TO JENNINGS AND RETURN                                          $54.94
+DKNN20240937                                                               STAFF PER DIEM                                                               $48.24
+DKNN20240938      05/16/2024  WOODROW J DAIGLE II  04/03/2024  04/03/2024  STAFF TRANSPORTATION                                                         $25.46
+DKNN20240939                                                               LAKE CHARLES TO JENNINGS, LAFAYETTE AND RETURN                               $79.06
+DKNN20240940      05/16/2024  WOODROW J DAIGLE II  04/04/2024  04/04/2024  STAFF PER DIEM                                                               $32.83  B-1510
+DKNN20240941      05/16/2024  WOODROW J DAIGLE II  04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                         $32.82
+DKNN20240942      05/16/2024  WOODROW J DAIGLE II  04/09/2024  04/09/2024  LAKE CHARLES TO KINDER AND RETURN                                            $77.72
+DKNN20240943      05/16/2024  WOODROW J DAIGLE II  04/11/2024  04/11/2024  STAFF TRANSPORTATION                                                         $25.31
+DKNN20240944      05/21/2024  WOODROW J DAIGLE II  04/12/2024  04/12/2024  LAKE CHARLES TO RAGLEY, DEQUINCY AND RETURN                                  $58.96
+DKNN20240945                                                               STAFF TRANSPORTATION                                                         $38.86
+DKNN20240946      05/16/2024  WOODROW J DAIGLE II  04/15/2024  04/15/2024  LAKE CHARLES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $36.31
+DKNN20240947                                                               STAFF TRANSPORTATION                                                         $82.41
+DKNN20240948      05/16/2024  WOODROW J DAIGLE II  04/16/2024  04/16/2024  LAKE CHARLES TO DERIDDER AND RETURN                                          $41.54
+                  05/21/2024  WOODROW J DAIGLE II  04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                         $24.18
+                                                                           LAKE CHARLES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $60.97
+                  05/16/2024  WOODROW J DAIGLE II  04/18/2024  04/18/2024  STAFF PER DIEM                                                               $28.74
+                  05/16/2024  WOODROW J DAIGLE II  04/19/2024  04/19/2024  STAFF TRANSPORTATION                                                         $92.46
+                                                                           LAKE CHARLES TO DERIDDER AND RETURN                                          $25.46
+                  05/21/2024  WOODROW J DAIGLE II  04/22/2024  04/22/2024  STAFF PER DIEM                                                               $28.81
+                                                                           STAFF TRANSPORTATION                                                         $28.92
+                  05/21/2024  WOODROW J DAIGLE II  04/23/2024  04/23/2024  LAKE CHARLES TO JENNINGS AND RETURN                                          $99.83
+                  05/16/2024  WOODROW J DAIGLE II  04/24/2024  04/24/2024  STAFF TRANSPORTATION                                                         $25.46
+                  05/21/2024  WOODROW J DAIGLE II  04/25/2024  04/25/2024  LAKE CHARLES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF PER DIEM
+                  05/16/2024  WOODROW J DAIGLE II  04/26/2024  04/26/2024  STAFF TRANSPORTATION
+                                                                           LAKE CHARLES TO SULPHUR, DERIDDER AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           LAKE CHARLES TO HACKBERRY AND RETURN
+                                                                           STAFF PER DIEM
+                                                                           STAFF TRANSPORTATION
+                                                                           LAKE CHARLES TO JENNINGS, SULPHUR, WESTLAKE AND RETURN
+                                                                           STAFF PER DIEM
+                                                                           STAFF TRANSPORTATION
+                                                                           LAKE CHARLES TO OAKDALE AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           LAKE CHARLES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           LAKE CHARLES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF PER DIEM
+                                                                           STAFF TRANSPORTATION
+                                                                           LAKE CHARLES TO DERIDDER, KINDER AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           LAKE CHARLES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

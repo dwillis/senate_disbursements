@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME          OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                     DATES
+DPAU20241101                                                              LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $32.75
+DPAU20241102                                      START       END         STAFF TRANSPORTATION                                                         $49.12
+DPAU20241103                                                              LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $19.65
+DPAU20241104      08/07/2024  MICA N SIMS         06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                         $16.37
+DPAU20241105      08/07/2024  MICA N SIMS         07/03/2024  07/03/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $32.75
+DPAU20241106      08/07/2024  MICA N SIMS         07/08/2024  07/08/2024  STAFF TRANSPORTATION                                                         $20.00
+                  08/07/2024  MICA N SIMS         07/09/2024  07/09/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $98.25
+DPAU20241107      08/07/2024  MICA N SIMS         07/10/2024  07/10/2024  STAFF TRANSPORTATION                                                         $52.40
+DPAU20241108      08/09/2024  MICA N SIMS         07/12/2024  07/12/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $32.75
+DPAU20241109                                                              STAFF TRANSPORTATION                                                         $19.65
+DPAU20241110      08/07/2024  MICA N SIMS         07/16/2024  07/16/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $19.65  B-2011
+DPAU20241111      08/07/2024  MICA N SIMS         07/17/2024  07/17/2024  STAFF PER DIEM                                                               $32.75
+DPAU20241112      08/07/2024  MICA N SIMS         07/18/2024  07/18/2024  STAFF TRANSPORTATION                                                         $36.02
+DPAU20241113      08/07/2024  MICA N SIMS         07/19/2024  07/19/2024  LEXINGTON TO LOUISVILLE AND RETURN                                           $16.37
+DPAU20241114      08/07/2024  MICA N SIMS         07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                         $24.72
+DPAU20241115      08/07/2024  MICA N SIMS         07/24/2024  07/24/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $279.03
+DPAU20241116      08/06/2024  MICA N SIMS         07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                       $112.00
+DPAU20241117      08/12/2024  REBECCA S SEIDEL    07/29/2024  07/29/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $53.71
+DPAU20241118      08/09/2024  REGENA T JONES      07/29/2024  07/29/2024  STAFF TRANSPORTATION                                                         $36.68
+DPAU20241119      08/09/2024  REGENA T JONES      07/26/2024  07/26/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $17.23
+                  08/07/2024  REGENA T JONES      07/30/2024  07/30/2024  STAFF TRANSPORTATION                                                       $161.78
+DPAU20241120      08/12/2024  LAWRENCE C ARNOLD   07/22/2024  07/22/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $14.67
+                  08/09/2024  LAWRENCE C ARNOLD   07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                       $150.65
+DPAU20241121                                                              LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $37.99
+DPAU20241122      08/09/2024  LAWRENCE C ARNOLD   07/29/2024  07/29/2024  STAFF TRANSPORTATION                                                         $37.99
+DPAU20241124                                                              LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $150.00
+                  08/08/2024  LAWRENCE C ARNOLD   07/30/2024  07/30/2024  STAFF TRANSPORTATION
+                  08/12/2024  WILLIAM S MATTHEWS  08/01/2024  08/01/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  08/14/2024  JOHN BRYCE          07/11/2024  07/11/2024  STAFF TRANSPORTATION
+                                                                          LOUISVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                          STAFF TRANSPORTATION
+                                                                          PIKEVILLE TO LOUISVILLE AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          PIKEVILLE TO HAZARD AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          PIKEVILLE TO PRESTONSBURG AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          BOWLING GREEN TO MAMMOTH CAVE AND RETURN
+                                                                          STAFF PER DIEM
+                                                                          STAFF TRANSPORTATION
+                                                                          BOWLING GREEN TO LOUISVILLE AND RETURN
+                                                                          STAFF PER DIEM
+                                                                          STAFF TRANSPORTATION
+                                                                          BOWLING GREEN TO LOUISVILLE AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          BOWLING GREEN TO MORGANTOWN AND RETURN
+                                                                          STAFF TRANSPORTATION
+                                                                          BUTLER TO BELLEVUE, NEWPORT AND RETURN
+                                                                          SENATOR TRANSPORTATION
+                                                                          CAR SERVICE FOR SEN PAUL NASHVILLE TN TO BOWLING GREEN
+

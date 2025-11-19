@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                             DATES
+DFIS20240371                                                                      AIRFARE FOR L BURKETT WASHINGTON DC TO OMAHA                                    $219.10
+DFIS20240372                                              START       END         STAFF TRANSPORTATION                                                            $198.98
+DFIS20240374                                                                      AIRFARE FOR L BURKETT DENVER CO TO WASHINGTON DC                                $197.71
+DFIS20240375      09/06/2024  CITIBANK - TRAVEL CBA CARD  08/16/2024  08/16/2024  STAFF TRANSPORTATION
+DFIS20240376      09/06/2024  CITIBANK - TRAVEL CBA CARD  08/16/2024  08/16/2024  AIRFARE FOR J ARNOLD DENVER CO TO WASHINGTON DC                                   $42.21
+DFIS20240377      09/09/2024  RINGLEIN,RAY M              08/22/2024  08/22/2024  STAFF TRANSPORTATION                                                              $19.90
+                  09/09/2024  DENISE M BARRETT            08/22/2024  08/22/2024  LINCOLN TO HASTINGS, RED CLOUD, HEBRON AND RETURN                               $193.63
+                  09/09/2024  JOSHUA W JELDEN             08/22/2024  08/22/2024  STAFF TRANSPORTATION                                                            $101.71
+                                                                                  OMAHA TO ARLINGTON AND RETURN                                                $2,459.78
+                  09/11/2024  EMILY E LEVINER             08/07/2024  08/16/2024  STAFF PER DIEM                                                               $2,672.93
+                                                                                  STAFF TRANSPORTATION
+DFIS20240378      09/11/2024  KEVIN D HUEBERT             08/27/2024  08/27/2024  KEARNEY TO HASTINGS, RED CLOUD, HEBRON AND RETURN                                 $21.44  B-1198
+DFIS20240379      09/11/2024  DENISE M BARRETT            08/27/2024  08/27/2024  STAFF INCIDENTALS                                                                 $13.40
+DFIS20240380      09/12/2024  DENISE M BARRETT            08/26/2024  08/26/2024  STAFF PER DIEM                                                                    $27.25
+DFIS20240381                                                                      STAFF TRANSPORTATION                                                              $76.02
+                  09/19/2024  LAURA LEE BURKETT           08/13/2024  08/16/2024  WASHINGTON DC TO JACKSON HOLE WY, YELLOWSTONE NATIONAL PARK                       $17.64
+DFIS20240382                                                                      WY, JACKSON HOLE, OMAHA, LINCOLN, VALENTINE, SCOTTSBLUFF,                       $507.67
+DFIS20240383      09/11/2024  DENISE M BARRETT            08/23/2024  08/23/2024  SIDNEY, KIMBALL, DENVER CO AND RETURN                                           $733.57
+                  09/27/2024  NEIL P MOSEMAN              08/13/2024  08/21/2024  STAFF TRANSPORTATION
+                                                                                  OMAHA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                     $3.08
+DFIS20240392      09/12/2024  RINGLEIN,RAY M              08/28/2024  08/28/2024  STAFF TRANSPORTATION                                                              $86.07
+DFIS20240393      09/12/2024  RINGLEIN,RAY M              08/29/2024  08/29/2024  OMAHA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $744.35
+DFIS20240394      09/14/2024  JOSHUA W JELDEN             08/30/2024  08/30/2024  STAFF PER DIEM                                                                  $823.03
+                                                                                  STAFF TRANSPORTATION
+DFIS20240396      09/18/2024  JOSHUA W JELDEN             09/03/2024  09/03/2024  OMAHA TO LINCOLN AND RETURN                                                       $39.93
+                                                                                  STAFF INCIDENTALS                                                                 $40.46
+DFIS20240397      09/24/2024  MEGAN E KENNEY              08/26/2024  08/30/2024  STAFF PER DIEM                                                                    $15.00
+                                                                                  STAFF TRANSPORTATION                                                              $66.33
+                                                                                  WASHINGTON DC TO OMAHA, VALENTINE, OMAHA, SCOTTSBLUFF, SIDNEY,                    $40.51
+                                                                                  DENVER CO AND RETURN                                                              $88.69
+                                                                                  STAFF TRANSPORTATION                                                              $12.83
+                                                                                  OMAHA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $480.36
+                                                                                  STAFF INCIDENTALS                                                               $864.14
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  OMAHA TO YORK, SIDNEY, SCOTTSBLUFF, ALLIANCE, SCOTTSBLUFF,
+                                                                                  GERING, SCOTTSBLUFF, OGALLALA, MCCOOK, LINCOLN, FIRTH, LINCOLN
+                                                                                  AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LINCOLN TO ASHLAND AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LINCOLN TO ASHLAND, GREENWOOD AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  KEARNEY TO GRAND ISLAND AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  KEARNEY TO COLUMBUS AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+

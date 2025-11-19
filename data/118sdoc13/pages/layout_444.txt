@@ -1,0 +1,57 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME     OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                              DATES
+VSAA22404292       POSTED     DALET DIGITAL MEDIA SYSTEMS USA INC                          AUDIO, VISUAL EQUIP MAINT                                              $36,672.00
+VSAA22404293                  IRON MOUNTAIN DBA CROZIER FINE ARTS  START       END         SERVICE CHARGES & OTHER FEES                                            $2,077.59
+VSAA22404294      04/10/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS                          SERVICE CHARGES & OTHER FEES                                            $2,688.19
+VSAA22404295      04/04/2024  IRON MOUNTAIN DBA CROZIER FINE ARTS  03/14/2024  03/14/2024  SERVICE CHARGES & OTHER FEES                                            $3,697.50
+                  04/09/2024                                       12/22/2023  12/22/2023  STUDIES, ANALYSES, & EVALS
+VSAA22404317      04/09/2024  LITHO TECH LLC                       01/24/2024  01/24/2024  PRODUCTION EQUIP MAINT                                                 $24,650.00
+VSAA22404320                  WIZARD INTERNATIONAL                 01/19/2024  01/19/2024  PRODUCTION EQUIP MAINT                                                     $835.00
+VSAA22404343      04/10/2024  CREATIVENGINE CORPORATION                                    APPLICATION SOFTWARE MAINT
+VSAA22404361      04/16/2024  CONVEYOR HANDLING CO INC             02/27/2024  02/27/2024  PRODUCTION EQUIP MAINT                                                  $3,000.00    B-426
+VSAA22404373      04/11/2024  ALLIANCE MATERIAL HANDLING INC       03/18/2024  03/18/2024  PRODUCTION EQUIP MAINT                                                  $1,800.00
+VSAA22404374      04/17/2024  ALLIANCE MATERIAL HANDLING INC       03/18/2024  03/18/2024  PRODUCTION EQUIP MAINT                                                  $1,600.00
+VSAA22404375      04/09/2024  ALLIANCE MATERIAL HANDLING INC       11/06/2023  11/06/2023  PRODUCTION EQUIP MAINT
+VSAA22404376      04/09/2024  ALLIANCE MATERIAL HANDLING INC       10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22404377      04/09/2024  ALLIANCE MATERIAL HANDLING INC       10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22404378      04/09/2024  ALLIANCE MATERIAL HANDLING INC       10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22404379      04/09/2024  ALLIANCE MATERIAL HANDLING INC       10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22404380      04/09/2024  ALLIANCE MATERIAL HANDLING INC       10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22404382      04/09/2024  ALLIANCE MATERIAL HANDLING INC       10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22404383      04/26/2024  ALLIANCE MATERIAL HANDLING INC       10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22404384      04/09/2024  ALLIANCE MATERIAL HANDLING INC       10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22404385      04/09/2024  ALLIANCE MATERIAL HANDLING INC       10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22404392      04/09/2024  LEIDOS DIGITAL SOLUTIONS INC         10/10/2023  10/10/2023  APPLICATION SOFTWARE MAINT                                                 $100.00
+VSAA22404393      04/17/2024  LEIDOS DIGITAL SOLUTIONS INC         10/10/2023  10/10/2023  APPLICATION SOFTWARE MAINT                                                 $100.00
+VSAA22404394      04/09/2024  LEIDOS DIGITAL SOLUTIONS INC         10/10/2023  10/10/2023  APPLICATION SOFTWARE MAINT                                                 $106.50
+VSAA22404395      04/09/2024  LEIDOS DIGITAL SOLUTIONS INC         02/01/2024  02/29/2024  APPLICATION SOFTWARE MAINT
+VSAA22404396      04/25/2024  LEIDOS DIGITAL SOLUTIONS INC         02/01/2024  02/29/2024  APPLICATION SOFTWARE MAINT                                                   $30.00
+VSAA22404397      04/09/2024  LEIDOS DIGITAL SOLUTIONS INC         01/01/2024  01/31/2024  APPLICATION SOFTWARE MAINT                                                   $62.00
+VSAA22404398      04/09/2024  LEIDOS DIGITAL SOLUTIONS INC         01/01/2024  01/31/2024  APPLICATION SOFTWARE MAINT                                                   $62.00
+VSAA22404399      04/12/2024  LITHO TECH LLC                       02/01/2024  02/29/2024  PRODUCTION EQUIP MAINT                                                       $31.00
+VSAA22404407      04/09/2024  THE GLASGOW GROUP LLC                02/01/2024  02/29/2024  TRAIN/ORIENT/CONFERENCE FEES                                                 $62.00
+VSAA22404439      04/14/2024  SPIEL ASSOCIATES INC                 02/01/2024  02/29/2024  PRODUCTION EQUIP MAINT                                                     $270.00
+VSAA22404440      04/16/2024  LEIDOS DIGITAL SOLUTIONS INC         03/26/2024  03/26/2024  APPLICATION SOFTWARE MAINT                                                   $62.00
+VSAA22404441      04/24/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC   03/18/2024  03/18/2024  APPLICATION SOFTWARE MAINT                                              $4,478.00
+VSAA22404470      04/25/2024  MASLOW MEDIA GROUP INC               03/27/2024  03/27/2024  TECHNICAL SUPPORT                                                       $5,000.00
+VSAA22404471      04/10/2024  CREATIVENGINE CORPORATION            02/01/2024  02/29/2024  APPLICATION SOFTWARE MAINT                                              $1,097.23
+VSAA22404480      04/17/2024  DEPARTMENT OF HOMELAND SECURITY      10/06/2023  10/06/2023  PHYSICAL SECURITY                                                            $31.00
+VSAA22404483      04/14/2024  RICOH USA INC                        11/09/2023  11/09/2023  PRODUCTION EQUIP MAINT                                                  $7,232.21
+VSAA22404487      05/24/2024  ASCENDANT APP, LLC                   03/18/2024  03/31/2024  APPLICATION SOFTWARE MAINT                                              $2,200.00
+VSAA22404495      04/23/2024  ALLIANCE MATERIAL HANDLING INC       03/01/2024  03/01/2024  PRODUCTION EQUIP MAINT                                                  $4,950.00
+VSAA22404500      04/11/2024  COMPUTERWORKS INC.                   01/01/2024  03/31/2024  APPLICATION SOFTWARE MAINT                                              $1,150.00
+VSAA22404506      04/23/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC   03/01/2024  03/31/2024  TECHNICAL SUPPORT                                                            $81.00
+VSAA22404509      04/22/2024  ALLIANCE MATERIAL HANDLING INC       10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                 $21,215.00
+VSAA22404514      04/24/2024  SYMPLICITY CORPORATION               03/01/2024  03/31/2024  APPLICATION SOFTWARE MAINT                                                 $100.00
+VSAA22404515      04/23/2024  SYMPLICITY CORPORATION               04/02/2024  04/02/2024  APPLICATION SOFTWARE MAINT                                             $39,713.00
+VSAA22404523      04/17/2024  BART & ASSOCIATES, LLC               10/10/2023  10/10/2023  TECHNICAL SUPPORT                                                    $565,175.76
+VSAA22404529      04/22/2024  ALTERION INC                         03/01/2024  03/31/2024  MANAGEMENT CONSULTANTS                                                     $100.00
+VSAA22404533      04/16/2024  DEPARTMENT OF HOMELAND SECURITY      03/01/2024  03/31/2024  FEDERAL - MONITOR, GUARD SVC                                               $201.00
+VSAA22404581      04/18/2024  ASCENDANT APP, LLC                   03/01/2024  03/31/2024  APPLICATION SOFTWARE MAINT                                             $33,728.00
+VSAA22404603      04/17/2024  DYNAMIC SYSTEMS INC                  03/01/2024  03/31/2024  APPLICATION SOFTWARE MAINT                                           $127,014.06
+VSAA22404604      04/11/2024  KAESER COMPRESSORS, INC.             11/10/2023  11/10/2023  PRODUCTION EQUIP MAINT                                                  $3,411.36
+                  04/23/2024                                       02/01/2024  02/29/2024                                                                             $270.05
+                  04/17/2024                                       01/01/2024  12/31/2024                                                                         $21,215.00
+                                                                   03/22/2024  03/22/2024                                                                          $6,443.00
+                                                                                                                                                                   $4,263.91
+

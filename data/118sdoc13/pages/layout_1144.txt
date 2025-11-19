@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+DDUR20240302       POSTED     DURBIN,RICHARD J                             DATES
+DDUR20240303                                                                            SENATOR INCIDENTALS                                                                 $13.00
+DDUR20240304      09/24/2024                                    START       END         SENATOR TRANSPORTATION                                                            $320.20
+DDUR20240305                                                                            WASHINGTON DC TO SAINT LOUIS MO, SPRINGFIELD, CHICAGO AND
+DDUR20240306                                                    04/20/2024  04/23/2024  RETURN                                                                               $9.70
+                                                                                        SENATOR INCIDENTALS                                                               $382.20
+                  09/24/2024  DURBIN,RICHARD J                  04/24/2024  04/30/2024  SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO SAINT LOUIS MO, SPRINGFIELD, SAINT LOUIS MO AND                     $9.00
+                  09/24/2024  DURBIN,RICHARD J                  05/02/2024  05/07/2024  RETURN                                                                            $288.20
+                  09/24/2024  DURBIN,RICHARD J                  05/11/2024  05/14/2024  SENATOR INCIDENTALS
+                  09/24/2024  DURBIN,RICHARD J                  05/16/2024  05/20/2024  SENATOR TRANSPORTATION                                                              $19.03
+                                                                                        WASHINGTON DC TO CHICAGO, SPRINGFIELD, CHICAGO AND RETURN                         $350.20
+DDUR20240307      09/24/2024  DURBIN,RICHARD J                  06/05/2024  06/11/2024  SENATOR PER DIEM                                                                            B-1126
+DDUR20240308      09/24/2024  DURBIN,RICHARD J                  06/13/2024  06/19/2024  SENATOR TRANSPORTATION                                                               $3.00
+                                                                                        WASHINGTON DC TO CHICAGO AND RETURN                                                 $17.45
+DDUR20240309      09/24/2024  DURBIN,RICHARD J                  06/20/2024  07/08/2024  SENATOR INCIDENTALS                                                               $554.58
+DDUR20240310                                                                            SENATOR PER DIEM
+DDUR20240311      09/24/2024  DURBIN,RICHARD J                  07/11/2024  07/23/2024  SENATOR TRANSPORTATION                                                              $10.00
+DDUR20240312                                                                            WASHINGTON DC TO CHICAGO, SPRINGFIELD, SAINT LOUIS MO AND                         $258.20
+DDUR20240313      09/24/2024  DURBIN,RICHARD J                  07/25/2024  07/29/2024  RETURN
+                                                                                        SENATOR INCIDENTALS                                                                  $3.00
+                  09/24/2024  DURBIN,RICHARD J                  09/20/2024  09/23/2024  SENATOR TRANSPORTATION                                                              $14.23
+                                                                                        WASHINGTON DC TO CHICAGO, SPRINGFIELD, CHICAGO AND RETURN                         $663.08
+                  09/27/2024  DURBIN,RICHARD J                  08/01/2024  08/16/2024  SENATOR INCIDENTALS
+                                                                                        SENATOR PER DIEM                                                                     $6.00
+DDUR20240314      09/27/2024  DURBIN,RICHARD J                  08/16/2024  09/09/2024  SENATOR TRANSPORTATION                                                            $580.58
+                                                                                        WASHINGTON DC TO CHICAGO, SPRINGFIELD, SAINT LOUIS MO AND
+                                                                                        RETURN                                                                               $4.00
+                                                                                        SENATOR INCIDENTALS                                                               $258.20
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO SAINT LOUIS MO, SPRINGFIELD, CHICAGO AND                            $4.31
+                                                                                        RETURN                                                                            $578.58
+                                                                                        SENATOR INCIDENTALS
+                                                                                        SENATOR TRANSPORTATION                                                              $12.38
+                                                                                        WASHINGTON DC TO CHICAGO, SPRINGFIELD, CHICAGO, SPRINGFIELD,                        $18.98
+                                                                                        CHICAGO AND RETURN                                                                $353.20
+                                                                                        SENATOR INCIDENTALS
+                                                                                        SENATOR TRANSPORTATION                                                              $57.70
+                                                                                        WASHINGTON DC TO CHICAGO, SPRINGFIELD, SAINT LOUIS MO AND                         $194.00
+                                                                                        RETURN                                                                            $300.20
+                                                                                        SENATOR INCIDENTALS
+                                                                                        SENATOR PER DIEM                                                                    $42.15
+                                                                                        SENATOR TRANSPORTATION                                                            $382.20
+                                                                                        WASHINGTON DC TO CHICAGO AND RETURN
+                                                                                        SENATOR INCIDENTALS
+                                                                                        SENATOR PER DIEM
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO CHICAGO, SPRINGFIELD, CHICAGO, SPRINGFIELD,
+                                                                                        COLLINSVILLE, SAINT LOUIS AND RETURN
+                                                                                        SENATOR INCIDENTALS
+                                                                                        SENATOR TRANSPORTATION
+

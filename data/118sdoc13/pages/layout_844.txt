@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                  POSTED                                              DATES
+DCRT20240473                                                                       TRAIN FARE FOR SEN CARPER WILMINGTON TO WASHINGTON DC                              $36.85
+DCRT20240474                                               START       END         STAFF TRANSPORTATION                                                               $14.74
+DCRT20240475                                                                       WILMINGTON TO PHILADELPHIA PA AND RETURN                                           $48.91
+DCRT20240476      07/31/2024  RACHEL R SPRUILL             07/17/2024  07/17/2024  STAFF TRANSPORTATION                                                               $96.48
+DCRT20240477      07/31/2024  RACHEL R SPRUILL             07/22/2024  07/22/2024  WILMINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $118.35
+DCRT20240478      07/31/2024  RACHEL R SPRUILL             07/28/2024  07/28/2024  STAFF TRANSPORTATION                                                               $18.52
+DCRT20240479      07/31/2024  MACKENZIE E STAMP            07/25/2024  07/25/2024  WILMINGTON TO PHILADELPHIA PA AND RETURN                                         $105.84
+DCRT20240480      08/05/2024  LAYNE E TAYLOR               07/20/2024  07/20/2024  STAFF TRANSPORTATION                                                               $22.21
+DCRT20240481      08/05/2024  JOHN C GENTILE               07/26/2024  07/26/2024  WILMINGTON TO HARRINGTON AND RETURN                                              $170.00
+DCRT20240484                                                                       STAFF TRANSPORTATION                                                             $104.50
+DCRT20240485      08/05/2024  KATHERINE L GRASSO           07/25/2024  07/25/2024  COATESVILLE PA TO HARRINGTON AND RETURN                                          $105.80
+                                                                                   STAFF PER DIEM
+                  08/05/2024  KATHERINE L GRASSO           07/26/2024  07/26/2024  STAFF TRANSPORTATION                                                                $8.69  B-826
+                  08/05/2024  KATHERINE L GRASSO           07/27/2024  07/27/2024  WILMINGTON TO MILFORD AND RETURN                                                 $183.50
+                  08/06/2024  MICHAEL J SANTORA            07/22/2024  07/22/2024  STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION                                                               $24.20
+                  08/07/2024  CARPER,THOMAS R              07/25/2024  07/29/2024  WILMINGTON TO WASHINGTON DC AND RETURN                                           $198.92
+                                                                                   STAFF TRANSPORTATION                                                             $464.07
+DCRT20240486      08/06/2024  CARPER,THOMAS R              07/17/2024  07/29/2024  WILMINGTON TO MILFORD, HARRINGTON AND RETURN
+DCRT20240487      08/06/2024  JOHN C GENTILE               07/30/2024  07/30/2024  STAFF TRANSPORTATION                                                                $4.02
+                                                                                   WILMINGTON TO HARRINGTON AND RETURN                                                 $8.00
+DCRT20240488      08/08/2024  LUCY DI XIAO                 07/16/2024  07/16/2024  STAFF PER DIEM                                                                   $121.25
+                                                                                   STAFF TRANSPORTATION                                                                $8.05
+DCRT20240489      08/07/2024  KATHERINE L GRASSO           07/31/2024  07/31/2024  WASHINGTON DC TO WILMINGTON AND RETURN                                           $118.00
+DCRT20240491      08/08/2024  KAREN L MCGRATH              07/04/2024  07/31/2024  SENATOR INCIDENTALS                                                                $73.68
+DCRT20240493      08/07/2024  KIRTI KAUR                   07/20/2024  07/20/2024  SENATOR PER DIEM                                                                 $169.51
+DCRT20240495      08/14/2024  LAYNE E TAYLOR               08/05/2024  08/05/2024  SENATOR TRANSPORTATION                                                             $80.66
+DCRT20240498      08/15/2024  CITIBANK - SENATOR IBA CARD  08/01/2024  08/01/2024  WASHINGTON DC TO ANNAPOLIS MD, HARRINGTON, WILMINGTON,                             $80.64
+DCRT20240499      08/15/2024  EMILY A MOORE                08/06/2024  08/06/2024  MILFORD, HARRINGTON, WILMINGTON, PHILADELPHIA PA, LOUISVILLE KY                  $114.00
+                                                                                   AND RETURN                                                                         $96.00
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   IN AND AROUND WILMINGTON
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WILMINGTON TO LAUREL AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC TO WILMINGTON AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WILMINGTON TO DOVER AFB AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   GEORGETOWN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   MIDDLETOWN TO HARRINGTON AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WILMINGTON TO DOVER AND RETURN
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   TRAIN FARE FOR SEN CARPER WASHINGTON DC TO WILMINGTON
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC TO WILMINGTON AND RETURN
+

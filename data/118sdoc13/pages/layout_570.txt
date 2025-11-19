@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                              DATES
+DBLA20241602                                                                       NASHVILLE TO CELINA AND RETURN                                                  $37.52
+DBLA20241603                                               START       END         STAFF TRANSPORTATION                                                          $389.50
+DBLA20241604                                                                       NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $374.47
+DBLA20241606      06/12/2024  CALEB ADDISON HASLETT        06/05/2024  06/05/2024  SENATOR TRANSPORTATION                                                        $147.41
+                  06/13/2024  CITIBANK - SENATOR IBA CARD  05/23/2024  05/23/2024  AIRFARE FOR SEN BLACKBURN WASHINGTON DC TO NASHVILLE                          $988.30
+                  06/13/2024  CITIBANK - TRAVEL CBA CARD   06/03/2024  06/03/2024  SENATOR TRANSPORTATION                                                        $201.90
+                  06/14/2024  JAMIE N SUSSKIND             05/28/2024  06/01/2024  AIRFARE FOR SEN BLACKBURN NASHVILLE TO WASHINGTON DC
+                                                                                   STAFF INCIDENTALS                                                             $119.93
+DBLA20241607      06/13/2024  NICHOLAS A KISTENMACHER      06/04/2024  06/04/2024  STAFF PER DIEM                                                                  $35.18  B-552
+DBLA20241608      06/12/2024  BRIGID MARY K MCDONNELL      06/05/2024  06/05/2024  STAFF TRANSPORTATION
+DBLA20241609      06/14/2024  NEELY, BLAKEMON L            06/06/2024  06/06/2024  ROCKVILLE MD TO WASHINGTON DC, SAN FRANCISCO CA, ATLANTA GA,                  $190.07
+DBLA20241610      06/13/2024  NEELY, BLAKEMON L            06/04/2024  06/04/2024  WASHINGTON DC AND RETURN                                                      $119.93
+DBLA20241611      06/13/2024  NICHOLAS A KISTENMACHER      06/06/2024  06/06/2024  STAFF TRANSPORTATION
+DBLA20241612      06/13/2024  JOHN M CLEMENT               05/28/2024  05/28/2024  MEMPHIS TO HENDERSON AND RETURN                                                 $28.14
+DBLA20241613      06/13/2024  JOHN M CLEMENT               05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                            $81.20
+DBLA20241614      06/13/2024  JOHN M CLEMENT               06/04/2024  06/04/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $97.82
+DBLA20241615      06/13/2024  NICHOLAS A KISTENMACHER      06/07/2024  06/07/2024  STAFF TRANSPORTATION                                                            $83.75
+DBLA20241616      06/13/2024  PABLO A MARTINEZ             06/03/2024  06/03/2024  IUKA MS TO FAYETTEVILLE, PULASKI, LAWRENCEBURG AND RETURN                       $16.75
+DBLA20241617      06/13/2024  PABLO A MARTINEZ             06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                            $23.45
+DBLA20241618      06/13/2024  PABLO A MARTINEZ             06/06/2024  06/06/2024  IUKA MS TO LAWRENCEBURG AND RETURN                                              $66.33
+DBLA20241619      06/13/2024  PABLO A MARTINEZ             06/09/2024  06/09/2024  STAFF TRANSPORTATION                                                            $67.00
+DBLA20241624      06/24/2024  SPENCER HURWITZ              06/05/2024  06/05/2024  MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $34.84
+DBLA20241625      06/18/2024  WILLIAM A GUFFEE             06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                            $51.89
+DBLA20241626      06/25/2024  JON M ADAME                  05/28/2024  05/30/2024  NASHVILLE TO OAK GROVE KY AND RETURN                                          $179.56
+                                                                                   STAFF TRANSPORTATION                                                            $92.46
+DBLA20241629      06/24/2024  CALEB ADDISON HASLETT        06/07/2024  06/07/2024  NASHVILLE TO FORT CAMPBELL KY AND RETURN                                      $748.00
+DBLA20241630      06/24/2024  CALEB ADDISON HASLETT        06/10/2024  06/10/2024  STAFF TRANSPORTATION                                                          $686.10
+                                                                                   NASHVILLE TO CLARKSVILLE AND RETURN                                             $40.87
+                                                                                   STAFF TRANSPORTATION                                                            $36.18
+                                                                                   MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   FRANKLIN TO BRENTWOOD, NASHVILLE, MURFREESBORO TO NASHVILLE
+                                                                                   STAFF TRANSPORTATION
+                                                                                   NASHVILLE TO LEBANON, SPRING HILL TO FRANKLIN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   CHATTANOOGA TO NASHVILLE AND RETURN
+                                                                                   STAFF INCIDENTALS
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC TO NASHVILLE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

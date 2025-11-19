@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                   POSTED                                                  DATES
+DWRR20240737                  CALEB R WHITE                                             STAFF TRANSPORTATION                                                          $62.77
+DWRR20240738      09/03/2024  CALEB R WHITE                     START       END         BOSTON TO CARVER TO SOMERVILLE                                                $88.03
+DWRR20240739      09/03/2024  CALEB R WHITE                                             STAFF TRANSPORTATION                                                          $68.67
+DWRR20240745      09/03/2024  ELIZABETH ROSARIO                 08/01/2024  08/01/2024  SOMERVILLE TO FALL RIVER, ATTLEBORO AND RETURN                                $43.99
+DWRR20240747      09/19/2024  ELIZABETH ROSARIO                                         STAFF TRANSPORTATION                                                        $165.89
+DWRR20240748      09/11/2024  CALEB R WHITE                     08/06/2024  08/06/2024  SOMERVILLE TO FALL RIVER TO BOSTON                                            $71.75
+DWRR20240749      09/11/2024  CALEB R WHITE                                             STAFF TRANSPORTATION                                                          $57.08
+DWRR20240761      09/11/2024  CAROLINE B FREEDMAN               08/07/2024  08/07/2024  LYNN TO BOSTON AND RETURN                                                     $42.61
+DWRR20240762      09/12/2024  CAROLINE B FREEDMAN                                       STAFF TRANSPORTATION                                                          $42.61
+DWRR20240763      09/12/2024  CAROLINE B FREEDMAN               07/29/2024  07/29/2024  LYNN TO SPRINGFIELD AND RETURN                                                $29.21
+DWRR20240784      09/12/2024  ELIZABETH ROSARIO                                         STAFF TRANSPORTATION                                                          $87.36
+DWRR20240791      09/11/2024  MARK ANTONIO WILLIAMS             08/09/2024  08/09/2024  SOMERVILLE TO CARVER TO BOSTON                                                $50.92
+DWRR20240792      09/15/2024  MARK ANTONIO WILLIAMS                                     STAFF TRANSPORTATION                                                        $121.53
+DWRR20240793      09/19/2024  MARK ANTONIO WILLIAMS             08/21/2024  08/21/2024  BOSTON TO MIDDLEBORO TO SOMERVILLE                                            $50.92
+DWRR20240801      09/15/2024  ELLEN F SCIALES                                           STAFF TRANSPORTATION                                                          $23.75
+DWRR20240802      09/16/2024  WILKINSON,KARISSA R               08/26/2024  08/26/2024  JAMAICA PLAIN TO LAWRENCE TO BOSTON                                         $121.91
+DWRR20240810      09/23/2024  YEJI LEE                                                  STAFF TRANSPORTATION                                                          $32.49
+DWRR20240813      09/19/2024  MARK ANTONIO WILLIAMS             07/26/2024  07/26/2024  BOSTON TO LAWRENCE TO JAMAICA PLAIN                                           $71.02
+DWRR20240814      09/19/2024  MARK ANTONIO WILLIAMS                                     STAFF TRANSPORTATION                                                          $50.92
+DWRR20240815      09/19/2024  MARK ANTONIO WILLIAMS             08/07/2024  08/07/2024  JAMAICA PLAIN TO SALEM AND RETURN                                             $33.50
+DWRR20240816      09/19/2024  MARK ANTONIO WILLIAMS                                     STAFF TRANSPORTATION                                                          $50.92
+DWRR20240817      09/19/2024  JILLIAN M HAGBOURNE APPLING       08/08/2024  08/08/2024  BOSTON TO WEST BOYLSTON TO LYNN                                               $52.26
+DWRR20240818      09/19/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                          $46.10
+DWRR20240819      09/19/2024  CITIBANK - TRAVEL CBA CARD        08/30/2024  08/30/2024  SPRINGFIELD TO GREENFIELD AND RETURN                                        $184.10   B-2608
+DWRR20240820      09/23/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                        $578.37
+                  09/23/2024                                    08/30/2024  08/30/2024  SPRINGFIELD TO BOSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/03/2024  09/03/2024  SPRINGFIELD TO GREENFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/05/2024  09/05/2024  WASHINGTON DC TO BOSTON, CAMBRIDGE, BOSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                08/18/2024  08/18/2024  WASHINGTON DC TO BOSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/06/2024  09/06/2024  BOSTON TO LEXINGTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/10/2024  09/10/2024  SPRINGFIELD TO NORTHFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/09/2024  09/09/2024  SPRINGFIELD TO GREENFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/10/2024  09/10/2024  SPRINGFIELD TO HATFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/12/2024  09/12/2024  SPRINGFIELD TO GREENFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/13/2024  09/13/2024  SPRINGFIELD TO GREENFIELD AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                09/10/2024  09/10/2024  AIRFARE FOR SEN WARREN WASHINGTON DC TO BOSTON
+                                                                                        SENATOR TRANSPORTATION
+                                                                09/12/2024  09/12/2024  AIRFARE FOR SEN WARREN BOSTON TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                09/16/2024  09/16/2024  AIRFARE FOR K WILKINSON WASHINGTON DC TO BOSTON AND RETURN
+
+                                                                09/06/2024  09/06/2024
+

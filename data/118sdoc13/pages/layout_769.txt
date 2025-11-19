@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+              POSTED                                              DATES
+                                                                               STAFF TRANSPORTATION                                                            $1,138.55
+                                                       START       END         WASHINGTON DC TO LOS ANGELES AND RETURN                                               $4.87
+                                                                               STAFF PER DIEM
+DBTL20240265  04/10/2024  EDWIN A SEVILLA              03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                                 $69.68
+DBTL20240266                                                                   SAN FRANCISCO TO SAN JOSE, REDWOOD CITY AND RETURN                                   $17.63
+DBTL20240267  04/10/2024  EDWIN A SEVILLA              03/25/2024  03/25/2024  STAFF PER DIEM                                                                       $48.24
+DBTL20240268                                                                   STAFF TRANSPORTATION                                                                 $58.08
+DBTL20240277  04/10/2024  ALEXANDER H CHANG            03/17/2024  03/30/2024  SAN FRANCISCO TO NEWARK AND RETURN                                                   $46.90
+              04/10/2024  ALBERTO SANCHEZ GONZALEZ     03/16/2024  03/16/2024  STAFF TRANSPORTATION                                                               $368.04
+DBTL20240280  04/19/2024  SANDRA GONZALES              03/01/2024  03/21/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DBTL20240284                                                                   STAFF TRANSPORTATION                                                                 $59.63
+DBTL20240285  04/11/2024  SANDRA GONZALES              02/01/2024  02/02/2024  SAN DIEGO TO CARLSBAD AND RETURN                                                             B-751
+DBTL20240286                                                                   STAFF TRANSPORTATION                                                                 $12.32
+DBTL20240287  04/16/2024  NICHOLAS FIDENCIO HERNANDEZ  03/14/2024  03/14/2024  3/1, 8, 21 LOS ANGELES TO TORRANCE AND RETURN; TORRANCE TO THE                       $54.80
+DBTL20240288  04/16/2024  NICHOLAS FIDENCIO HERNANDEZ  03/15/2024  03/15/2024  FOLLOWING AND RETURN: 3/5 LOS ANGELES; 3/15 LOS ANGELES, LONG                        $17.68
+              04/16/2024  NICHOLAS FIDENCIO HERNANDEZ  03/17/2024  03/17/2024  BEACH; 3/16 PLAYA DEL REY, SAN DIEGO, SAN YSIDRO, CARLSBAD, PLAYA                    $19.34
+              04/16/2024  EDWIN A SEVILLA              04/05/2024  04/05/2024  DEL REY                                                                              $75.04
+                                                                               STAFF TRANSPORTATION                                                                 $69.79
+              04/30/2024  LAPHONZA R BUTLER            01/19/2024  01/21/2024  2/1 LOS ANGELES TO CARSON, LOS ANGELES TO TORRANCE; 2/2                            $799.20
+                                                                               TORRANCE TO LOS ANGELES AND RETURN                                                 $370.00
+DBTL20240289  04/24/2024  CHESNA A FOORD               04/11/2024  04/11/2024  STAFF TRANSPORTATION
+DBTL20240290  04/26/2024  ABAJIAN,SHELLY H             01/18/2024  01/18/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $25.42
+DBTL20240291  04/30/2024  ABAJIAN,SHELLY H             02/08/2024  02/08/2024  STAFF TRANSPORTATION                                                                 $50.25
+DBTL20240292  04/26/2024  ABAJIAN,SHELLY H             02/13/2024  02/13/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $214.40
+DBTL20240293  04/26/2024  ABAJIAN,SHELLY H             02/14/2024  02/14/2024  STAFF TRANSPORTATION                                                                 $71.02
+DBTL20240294  04/30/2024  ABAJIAN,SHELLY H             03/14/2024  03/14/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $71.02
+DBTL20240295  04/30/2024  ABAJIAN,SHELLY H             03/26/2024  03/27/2024  STAFF PER DIEM                                                                     $190.95
+                                                                               STAFF TRANSPORTATION                                                                 $29.56
+DBTL20240296  04/30/2024  ABAJIAN,SHELLY H             04/04/2024  04/04/2024  SAN FRANCISCO TO SAN JOSE AND RETURN                                               $282.44
+                                                                               SENATOR INCIDENTALS                                                                $482.40
+                                                                               SENATOR PER DIEM                                                                     $40.13
+                                                                               SENATOR TRANSPORTATION
+                                                                               WASHINGTON DC TO SALT LAKE CITY UT, PARK CITY UT, SALT LAKE CITY
+                                                                               UT AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               NEWPORT BEACH TO SANTA ANA AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               FRESNO TO HANFORD AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               FRESNO TO SAN LUIS OBISPO AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               FRESNO TO TULARE AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               FRESNO TO TULARE AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               FRESNO TO SONORA AND RETURN
+                                                                               STAFF INCIDENTALS
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               FRESNO TO BISHOP AND RETURN
+                                                                               STAFF PER DIEM
+

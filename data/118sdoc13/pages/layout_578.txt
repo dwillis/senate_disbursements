@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                          DATES
+DBLA20241835                                                                   IUKA MS TO SELMER, SAVANNAH AND RETURN                                              $56.28
+DBLA20241836                                           START       END         STAFF TRANSPORTATION                                                                $71.02
+DBLA20241837                                                                   IUKA MS TO LINDEN AND RETURN                                                      $115.24
+DBLA20241838      07/25/2024  NEELY, BLAKEMON L        07/22/2024  07/22/2024  STAFF TRANSPORTATION                                                              $170.18
+DBLA20241839      07/29/2024  CALEB ADDISON HASLETT    07/15/2024  07/15/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $123.28
+                  07/30/2024  CALEB ADDISON HASLETT    07/16/2024  07/16/2024  STAFF TRANSPORTATION
+DBLA20241840      07/30/2024  CALEB ADDISON HASLETT    07/17/2024  07/17/2024  NASHVILLE TO SMITHVILLE, COOKEVILLE AND RETURN                                    $108.54
+                  07/30/2024  CALEB ADDISON HASLETT    07/18/2024  07/18/2024  STAFF TRANSPORTATION
+DBLA20241841                                                                   NASHVILLE TO JAMESTOWN AND RETURN                                                 $304.38
+DBLA20241842      07/31/2024  PABLO A MARTINEZ         07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                              $102.51
+DBLA20241846                                                                   NASHVILLE TO COOKEVILLE, GOODLETTSVILLE, HENDERSONVILLE AND                       $119.59
+DBLA20241847      07/29/2024  NEELY, BLAKEMON L        07/23/2024  07/23/2024  RETURN                                                                                      B-560
+DBLA20241848      07/30/2024  CALEB ADDISON HASLETT    07/24/2024  07/24/2024  STAFF TRANSPORTATION                                                                $92.32
+DBLA20241849      08/06/2024  TYLER B PRIVETTE         07/24/2024  07/24/2024  FRANKLIN TO BRENTWOOD, NASHVILLE, TULLAHOMA, FRANKLIN AND                           $24.12
+DBLA20241850      08/06/2024  TYLER B PRIVETTE         07/23/2024  07/23/2024  RETURN                                                                              $14.74
+DBLA20241851      08/06/2024  NICHOLAS A KISTENMACHER  07/24/2024  07/24/2024  STAFF TRANSPORTATION                                                              $174.87
+DBLA20241852      08/06/2024  NICHOLAS A KISTENMACHER  07/25/2024  07/25/2024  IUKA MS TO SOUTH PITTSBURG, CHATTANOOGA, ALTAMONT AND RETURN                        $36.85
+                  08/06/2024  CALEB ADDISON HASLETT    07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                              $245.01
+DBLA20241853      08/06/2024  CALEB ADDISON HASLETT    07/26/2024  07/26/2024  NASHVILLE TO BAXTER, COOKEVILLE AND RETURN
+DBLA20241854      08/06/2024  NEELY, BLAKEMON L        07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                              $183.24
+DBLA20241855                                                                   CHATTANOOGA TO SPARTA AND RETURN                                                  $184.25
+DBLA20241856      08/06/2024  NEELY, BLAKEMON L        07/26/2024  07/26/2024  STAFF TRANSPORTATION                                                              $137.81
+DBLA20241857      08/06/2024  NEELY, BLAKEMON L        07/29/2024  07/29/2024  CHATTANOOGA TO PIKEVILLE, JASPER AND RETURN
+DBLA20241858      08/06/2024  TYLER B PRIVETTE         07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                                $81.60
+DBLA20241862      08/06/2024  TYLER B PRIVETTE         07/30/2024  07/30/2024  MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $237.18
+DBLA20241863      08/07/2024  WILLIAM A GUFFEE         07/25/2024  07/29/2024  STAFF TRANSPORTATION
+                  08/06/2024  WILLIAM A GUFFEE         07/30/2024  07/30/2024  MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                    $42.88
+                  08/09/2024  PAULINA A MADARIS        07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                              $190.95
+                  08/09/2024  NICHOLAS A KISTENMACHER  07/30/2024  07/30/2024  NASHVILLE TO BYRDSTOWN, LIVINGSTON, GALLATIN AND RETURN                           $107.20
+                                                                               STAFF TRANSPORTATION
+                                                                               NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               IUKA MS TO MOUNT PLEASANT, CHAPEL HILL, FAYETTEVILLE, WINCHESTER
+                                                                               AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               IUKA MS TO HOHENWALD, LEWISBURG AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               IUKA MS TO PARSONS, WAYNESBORO, SAVANNAH AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               CHATTANOOGA TO SHELBYVILLE AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               CHATTANOOGA TO ATHENS AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               CHATTANOOGA TO FRANKLIN, BRENTWOOD, NASHVILLE AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               CHATTANOOGA TO CLEVELAND AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               CHATTANOOGA TO NASHVILLE AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               MEMPHIS TO MIDDLETON AND RETURN
+

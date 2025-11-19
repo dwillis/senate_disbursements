@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                   POSTED     CITIBANK - TRAVEL CBA CARD                   DATES
+DERN20240812                                                                            STAFF TRANSPORTATION                                                               $372.70
+                  09/17/2024                                    START       END         TICKET FEES                                                                          $30.00
+DERN20240813                                                                            AIRFARE FOR T HOEKSTRA WASHINGTON DC TO CEDAR RAPIDS, SIOUX
+DERN20240814                                                    08/02/2024  08/19/2024  FALLS SD AND RETURN                                                                  $10.05
+DERN20240815                                                                            STAFF PER DIEM                                                                     $116.58
+DERN20240816      09/24/2024  BRENDA RHEA SAFRANSKI             09/09/2024  09/09/2024  STAFF TRANSPORTATION                                                               $277.69
+                  09/25/2024  KOLBY RYAN DEWITT                 09/10/2024  09/10/2024  DES MOINES TO OTTUMWA AND RETURN                                                   $159.00
+DERN20240817      09/27/2024  EMMA F KEISER                     08/02/2024  08/08/2024  STAFF TRANSPORTATION
+DERN20240818      09/18/2024  CITIBANK - TRAVEL CBA CARD        08/02/2024  08/08/2024  SIOUX CITY TO DES MOINES AND RETURN                                                $236.20
+DERN20240819                                                                            STAFF PER DIEM                                                                       $30.00
+DERN20240820      09/19/2024  CITIBANK - TRAVEL CBA CARD        07/16/2024  07/18/2024  ADDITIONAL EXPENSE FOR TRIP WASHINGTON TO DUBUQUE, CHICAGO,                                  B-1157
+DERN20240821                                                                            DES MOINES AND RETURN                                                              $284.20
+DERN20240823      09/18/2024  CITIBANK - TRAVEL CBA CARD        07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                                 $30.00
+DERN20240824      09/19/2024  CITIBANK - TRAVEL CBA CARD        07/21/2024  07/21/2024  TICKET FEES
+DERN20240825      09/18/2024  CITIBANK - TRAVEL CBA CARD        09/08/2024  09/08/2024  AIRFARE FOR E KEISER AS FOLLOWS: 8/2 WASHINGTON DC TO CHICAGO IL;                  $103.10
+DERN20240826      09/19/2024  CITIBANK - TRAVEL CBA CARD        08/01/2024  08/01/2024  8/8 DES MOINES TO WASHINGTON DC                                                    $374.60
+DERN20240827      09/19/2024  CITIBANK - TRAVEL CBA CARD        05/24/2024  05/24/2024  STAFF TRANSPORTATION                                                               $191.10
+DERN20240828                                                                            TICKET FEES                                                                        $142.10
+DERN20240829      09/18/2024  CITIBANK - TRAVEL CBA CARD        06/25/2024  07/01/2024  AIRFARE FOR K BAKER WASHINGTON DC TO CEDAR RAPIDS AND RETURN                       $107.10
+DERN20240830                                                                            SENATOR TRANSPORTATION
+DERN20240831      09/18/2024  CITIBANK - TRAVEL CBA CARD        03/26/2024  03/26/2024  AIRFARE FOR SEN ERNST OMAHA NE TO WASHINGTON DC                                      $30.00
+DERN20240832      09/19/2024  CITIBANK - TRAVEL CBA CARD        03/25/2024  03/25/2024  SENATOR TRANSPORTATION                                                             $565.20
+                                                                                        AIRFARE FOR SEN ERNST BOZEMAN MT TO OMAHA NE
+                  09/19/2024  CITIBANK - TRAVEL CBA CARD        03/25/2024  03/25/2024  SENATOR TRANSPORTATION                                                               $30.00
+                                                                                        AIRFARE FOR SEN ERNST OMAHA NE TO WASHINGTON DC                                    $590.98
+                  09/18/2024  CITIBANK - TRAVEL CBA CARD        07/11/2024  07/11/2024  SENATOR TRANSPORTATION                                                             $458.10
+                  09/18/2024  CITIBANK - TRAVEL CBA CARD        07/18/2024  07/18/2024  AIRFARE FOR SEN ERNST WASHINGTON DC TO CEDAR RAPIDS
+                  09/18/2024  CITIBANK - TRAVEL CBA CARD        07/08/2024  07/08/2024  STAFF TRANSPORTATION                                                                 $30.00
+                  09/19/2024  CITIBANK - TRAVEL CBA CARD        03/27/2024  03/27/2024  TICKET FEES                                                                        $458.10
+                  09/19/2024  CITIBANK - TRAVEL CBA CARD        03/27/2024  03/27/2024  AIRFARE FOR G LONG WASHINGTON DC TO DES MOINES
+                                                                                        STAFF TRANSPORTATION                                                                 $30.00
+                                                                                        TICKET FEES                                                                        $595.46
+                                                                                        AIRFARE FOR G LONG WASHINGTON DC TO DES MOINES AND RETURN                          $505.10
+                                                                                        SENATOR TRANSPORTATION                                                             $191.10
+                                                                                        AIRFARE FOR SEN ERNST WASHINGTON DC TO OMAHA NE                                    $116.60
+                                                                                        STAFF TRANSPORTATION                                                               $116.60
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR L GREENWOOD WASHINGTON DC TO DES MOINES
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR K WOOD WASHINGTON DC TO DES MOINES
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN ERNST WASHINGTON DC TO OMAHA NE
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN ERNST CHICAGO IL TO BOZEMAN MT
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN ERNST OMAHA NE TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR L GREENWOOD DES MOINES TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+

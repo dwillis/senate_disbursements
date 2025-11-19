@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                          DATES
+DBLA20241093                                                                   KNOXVILLE TO BRISTOL AND RETURN                                                $32.73
+                                                       START       END         STAFF PER DIEM                                                                 $67.00
+DBLA20241094                                                                   STAFF TRANSPORTATION                                                           $36.85
+DBLA20241095      04/12/2024  JAMES M WYATT            03/21/2024  03/21/2024  JACKSON TO MARTIN AND RETURN                                                   $69.68
+DBLA20241096                                                                   STAFF TRANSPORTATION                                                           $77.72
+DBLA20241097      04/12/2024  CALEB ADDISON HASLETT    04/01/2024  04/01/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $53.60  B-534
+DBLA20241098      04/12/2024  JAMES M WYATT            03/22/2024  03/22/2024  STAFF TRANSPORTATION                                                           $85.76
+DBLA20241099      04/12/2024  JAMES M WYATT            03/26/2024  03/26/2024  JACKSON TO MARTIN AND RETURN                                                   $29.48
+DBLA20241100      04/12/2024  JAMES M WYATT            03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                           $75.04
+DBLA20241101      04/12/2024  JAMES M WYATT            03/27/2024  03/27/2024  JACKSON TO PARIS AND RETURN                                                  $139.36
+DBLA20241102      04/12/2024  JAMES M WYATT            04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                           $16.48
+                  04/12/2024  JAMES M WYATT            04/08/2024  04/08/2024  JACKSON TO BOLIVAR AND RETURN                                                  $95.67
+DBLA20241103      04/23/2024  MICHAEL L HENSLEY        04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                           $40.00
+                  04/23/2024  NEELY, BLAKEMON L        03/26/2024  03/26/2024  JACKSON TO CAMDEN AND RETURN                                                 $292.72
+DBLA20241104                                                                   STAFF TRANSPORTATION                                                         $243.94
+DBLA20241105      04/23/2024  NEELY, BLAKEMON L        03/28/2024  03/28/2024  JACKSON TO ALAMO AND RETURN                                                    $15.78
+                                                                               STAFF TRANSPORTATION                                                         $153.39
+                  04/23/2024  NEELY, BLAKEMON L        04/04/2024  04/04/2024  JACKSON TO PARIS AND RETURN                                                  $353.62
+                  04/23/2024  NEELY, BLAKEMON L        04/05/2024  04/06/2024  STAFF TRANSPORTATION
+                                                                               KNOXVILLE TO BLOUNTVILLE AND RETURN                                            $21.76
+DBLA20241106      04/12/2024  NICHOLAS A KISTENMACHER  03/27/2024  03/27/2024  STAFF PER DIEM                                                                 $24.79
+DBLA20241107      04/16/2024  NICHOLAS A KISTENMACHER  03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                           $27.85
+DBLA20241108      04/23/2024  NICHOLAS A KISTENMACHER  04/02/2024  04/02/2024  IUKA MS TO SAVANNAH, CLIFTON, LINDEN AND RETURN                              $146.06
+                                                                               STAFF PER DIEM
+DBLA20241109      04/16/2024  NICHOLAS A KISTENMACHER  04/03/2024  04/03/2024  STAFF TRANSPORTATION                                                           $22.11
+DBLA20241110      04/16/2024  PABLO A MARTINEZ         03/27/2024  03/27/2024  IUKA MS TO JASPER, PELHAM, MCMINNVILLE AND RETURN                              $38.65
+DBLA20241111      04/16/2024  PABLO A MARTINEZ         03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                           $56.95
+DBLA20241112      04/16/2024  PABLO A MARTINEZ         04/01/2024  04/01/2024  IUKA MS TO LAWRENCEBURG, FAYETTEVILLE, TULLAHOMA AND RETURN                    $24.12
+DBLA20241113      04/23/2024  SAVANNAH R NEWHOUSE      03/25/2024  04/05/2024  STAFF INCIDENTALS                                                              $47.28
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               IUKA MS TO SAINT JOSEPH, SELMER, SAVANNAH, WAYNESBORO,
+                                                                               BRENTWOOD, PULASKI, COLUMBIA AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               MEMPHIS TO COVINGTON, BROWNSVILLE, BOLIVAR, SELMER, HORNSBY
+                                                                               AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF TRANSPORTATION
+                                                                               NASHVILLE TO BRENTWOOD, MURFREESBORO AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF INCIDENTALS
+

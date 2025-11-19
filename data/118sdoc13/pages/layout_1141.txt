@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                             DATES
+DDUR20240174                                                                      CHICAGO TO SPRINGFIELD, JACKSONVILLE AND RETURN                              $17.02
+                                                          START       END         STAFF PER DIEM                                                               $63.65
+DDUR20240175                                                                      STAFF TRANSPORTATION                                                       $235.58
+DDUR20240176      06/14/2024  DANIEL C BIEN               05/29/2024  05/29/2024  SPRINGFIELD TO DECATUR AND RETURN                                            $41.34
+                                                                                  STAFF TRANSPORTATION                                                       $256.88
+DDUR20240178      06/17/2024  TRAN D NGUYEN               04/01/2024  04/30/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $717.29
+DDUR20240179      07/03/2024  PATRICK JOHN SOUDERS        05/05/2024  05/06/2024  STAFF INCIDENTALS                                                          $142.31
+DDUR20240180                                                                      STAFF PER DIEM                                                               $60.03
+DDUR20240181      06/17/2024  CLARISOL A DUQUE            03/01/2024  03/27/2024  STAFF TRANSPORTATION                                                         $22.98  B-1123
+DDUR20240187      06/14/2024  CLARISOL A DUQUE            03/28/2024  03/28/2024  ARLINGTON VA TO CHICAGO AND RETURN                                         $210.54
+                  06/14/2024  CLARISOL A DUQUE            04/10/2024  04/29/2024  STAFF TRANSPORTATION                                                         $10.19
+DDUR20240188      06/27/2024  YASMEEN OLANREWAJU BANKOLE  12/04/2023  12/15/2023  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $121.94
+DDUR20240189      06/15/2024  KAYLEE A GHOLSON            05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                       $120.60
+DDUR20240190                                                                      CHICAGO TO JOLIET AND RETURN                                               $121.94
+DDUR20240191      06/15/2024  KAYLEE A GHOLSON            05/29/2024  05/29/2024  STAFF TRANSPORTATION                                                         $56.99
+DDUR20240192      06/15/2024  KAYLEE A GHOLSON            05/30/2024  05/30/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $40.87
+DDUR20240193      06/18/2024  CLARISOL A DUQUE            04/03/2024  04/03/2024  STAFF TRANSPORTATION                                                       $111.22
+DDUR20240194      06/18/2024  CLARISOL A DUQUE            05/03/2024  05/24/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $138.02
+DDUR20240195      06/24/2024  CLARISOL A DUQUE            05/10/2024  05/10/2024  STAFF PER DIEM                                                             $279.39
+DDUR20240196      06/25/2024  CLARISOL A DUQUE            05/13/2024  05/13/2024  STAFF TRANSPORTATION                                                         $36.00
+                  06/24/2024  CLARISOL A DUQUE            05/16/2024  05/17/2024  SPRINGFIELD TO PONTOON BEACH AND RETURN
+DDUR20240197      06/18/2024  AMY C SWANSON               03/12/2024  03/13/2024  STAFF TRANSPORTATION                                                          $7.94
+DDUR20240198      06/17/2024  JOHN A NORMOYLE             05/29/2024  05/29/2024  SPRINGFIELD TO URBANA, DECATUR AND RETURN                                  $239.52
+                                                                                  STAFF TRANSPORTATION                                                       $703.18
+DDUR20240202      06/18/2024  MARGARITA ANGEL             04/20/2024  04/24/2024  SPRINGFIELD TO ALTON AND RETURN
+                  06/17/2024  JESSICA N GARBER            04/20/2024  04/23/2024  STAFF TRANSPORTATION                                                         $29.39
+DDUR20240205                                                                      CHICAGO TO CHICAGO HEIGHTS AND RETURN                                      $300.20
+                  06/25/2024  JOHN A NORMOYLE             06/07/2024  06/07/2024  STAFF TRANSPORTATION
+                  06/27/2024  KAYLEE MULGREW              06/12/2024  06/14/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $9.56
+                                                                                  STAFF TRANSPORTATION                                                       $260.69
+                                                                                  CHICAGO TO PEORIA AND RETURN
+                                                                                  STAFF TRANSPORTATION                                                         $75.81
+                                                                                  CHICAGO TO ROCKFORD AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHICAGO TO SPRINGFIELD, CHAMPAIGN AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  ROCK ISLAND TO CHICAGO AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHICAGO TO URBANA, DECATUR AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO CHICAGO AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ARLINGTON VA TO WASHINGTON DC, CHICAGO, WASHINGTON DC AND
+                                                                                  RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHICAGO TO SPRINGFIELD AND RETURN
+                                                                                  STAFF INCIDENTALS
+

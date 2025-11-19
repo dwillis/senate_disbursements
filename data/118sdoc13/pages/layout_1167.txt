@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+              POSTED                                        DATES
+                                                                         DES MOINES TO CLARION, FOREST CITY, ALGONA, FORT DODGE, AURELIA                     $9.54
+                                                 START       END         TO URBANDALE                                                                     $195.64
+                                                                         STAFF PER DIEM
+DERN20240650  07/23/2024  DUSTIN C VANDE HOEF    06/07/2024  06/07/2024  STAFF TRANSPORTATION                                                               $56.07
+                                                                         CLIVE TO WEST BEND, KLEMME TO DES MOINES                                           $96.48
+DERN20240651  07/20/2024  DUSTIN C VANDE HOEF    06/11/2024  06/11/2024  STAFF TRANSPORTATION                                                               $44.89
+DERN20240652  07/20/2024  DUSTIN C VANDE HOEF    06/13/2024  06/13/2024  CLIVE TO AMES TO DES MOINES                                                        $53.33
+DERN20240653  07/20/2024  DUSTIN C VANDE HOEF    06/14/2024  06/14/2024  STAFF TRANSPORTATION                                                               $12.84
+DERN20240654  07/20/2024  DUSTIN C VANDE HOEF    06/17/2024  06/17/2024  CLIVE TO BOONE, PATON TO DES MOINES                                              $134.24
+DERN20240655  07/23/2024  DUSTIN C VANDE HOEF    06/26/2024  06/27/2024  STAFF TRANSPORTATION                                                             $432.15
+                                                                         CLIVE TO WINTERSET TO DES MOINES
+DERN20240656  07/20/2024  DUSTIN C VANDE HOEF    06/01/2024  06/30/2024  STAFF TRANSPORTATION                                                               $37.52  B-1149
+DERN20240657  07/23/2024  DUSTIN C VANDE HOEF    07/01/2024  07/01/2024  DES MOINES TO AMES TO CLIVE                                                      $116.58
+DERN20240658  07/20/2024  DUSTIN C VANDE HOEF    07/02/2024  07/02/2024  STAFF INCIDENTALS
+DERN20240659  07/20/2024  KIMBERLY A REEM        07/06/2024  07/06/2024  STAFF PER DIEM                                                                     $65.66
+DERN20240661  07/23/2024  BRENDA RHEA SAFRANSKI  07/10/2024  07/10/2024  STAFF TRANSPORTATION                                                               $83.08
+                                                                         CLIVE TO ALDEN, SHEFFIELD, GALT, FOREST CITY, WATERLOO, NEW                        $15.29
+DERN20240662  07/23/2024  CADEN J WATERSTRADT    06/24/2024  06/27/2024  HAMPTON, CHARLES CITY, WAVERLY, BRITT AND RETURN                                 $219.09
+                                                                         STAFF TRANSPORTATION                                                               $43.86
+DERN20240663  07/23/2024  KOLBY RYAN DEWITT      07/11/2024  07/11/2024  DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $516.59
+                                                                         STAFF TRANSPORTATION                                                             $490.61
+DERN20240664  07/20/2024  MICHELE A BECK         06/10/2024  06/10/2024  DES MOINES TO OTTUMWA, LEIGHTON AND RETURN
+DERN20240665  07/20/2024  MICHELE A BECK         06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                               $10.96
+DERN20240666  07/20/2024  MICHELE A BECK         06/18/2024  06/18/2024  DES MOINES TO PELLA AND RETURN                                                   $176.88
+DERN20240667  07/20/2024  MICHELE A BECK         06/19/2024  06/19/2024  STAFF TRANSPORTATION
+DERN20240668  07/20/2024  MICHELE A BECK         06/25/2024  06/25/2024  CEDAR RAPIDS TO DYERSVILLE AND RETURN                                              $54.94
+DERN20240669  07/20/2024  MICHELE A BECK         06/27/2024  06/27/2024  STAFF PER DIEM                                                                     $54.94
+DERN20240670  07/23/2024  MICHELE A BECK         06/28/2024  06/28/2024  STAFF TRANSPORTATION                                                               $54.94
+                                                                         DES MOINES TO CEDAR RAPIDS, OTTUMWA AND RETURN                                     $34.84
+                                                                         STAFF INCIDENTALS                                                                  $54.94
+                                                                         STAFF PER DIEM                                                                     $54.94
+                                                                         STAFF TRANSPORTATION                                                             $160.80
+                                                                         WASHINGTON DC TO DES MOINES, CEDAR RAPIDS, DES MOINES AND
+                                                                         RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         SIOUX CITY TO GOWRIE, FORT DODGE AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DAVENPORT TO CLINTON AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DAVENPORT TO CLINTON AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DAVENPORT TO CLINTON AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DAVENPORT TO DE WITT AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DAVENPORT TO CLINTON AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DAVENPORT TO CLINTON AND RETURN
+                                                                         STAFF TRANSPORTATION
+

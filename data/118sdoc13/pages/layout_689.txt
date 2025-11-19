@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DBRI20240442                  KATIE BOYD BRITT                                          SENATOR INCIDENTALS                                                           $8.00
+DBRI20240443      05/21/2024  KATIE BOYD BRITT                  START       END         WASHINGTON DC TO MONTGOMERY AND RETURN
+                  05/22/2024                                                            SENATOR INCIDENTALS                                                          $10.88
+                                                                04/24/2024  04/28/2024  SENATOR PER DIEM                                                           $209.03
+                                                                                        SENATOR TRANSPORTATION                                                     $221.70
+                                                                05/02/2024  05/07/2024  WASHINGTON DC TO FAIRHOPE, GULF SHORES, MONTGOMERY AND
+                                                                                        RETURN                                                                     $290.10
+DBRI20240444      05/21/2024  CITIBANK - SENATOR IBA CARD       05/07/2024  05/07/2024  SENATOR TRANSPORTATION                                                       $40.00  B-671
+                                                                                        TICKET FEES
+DBRI20240445      05/17/2024  CITIBANK - SENATOR IBA CARD       04/18/2024  04/18/2024  AIRFARE FOR SEN BRITT BIRMINGHAM TO WASHINGTON DC                            $40.00
+DBRI20240446      05/21/2024  CITIBANK - SENATOR IBA CARD       04/23/2024  04/23/2024  TICKET FEES                                                                $290.10
+DBRI20240447      05/21/2024  CITIBANK - SENATOR IBA CARD       05/02/2024  05/02/2024  SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BRITT BIRMINGHAM TO WASHINGTON DC                          $232.10
+DBRI20240448      05/21/2024  CITIBANK - SENATOR IBA CARD       04/28/2024  04/28/2024  SENATOR TRANSPORTATION                                                       $40.00
+                                                                                        TICKET FEES
+DBRI20240449      05/22/2024  CITIBANK - SENATOR IBA CARD       04/17/2024  04/17/2024  AIRFARE FOR SEN BRITT WASHINGTON DC TO PENSACOLA FL                        $780.60
+DBRI20240450      05/24/2024  CITIBANK - SENATOR IBA CARD       04/12/2024  04/12/2024  SENATOR TRANSPORTATION                                                       $40.00
+DBRI20240451      05/29/2024  JOHN YARBROUGH                    03/30/2024  04/05/2024  TICKET FEES
+                                                                                        AIRFARE FOR SEN BRITT MONTGOMERY TO WASHINGTON DC                            $40.00
+DBRI20240452      05/23/2024  MELANIE KAY HILL                  04/30/2024  04/30/2024  TICKET FEES                                                                  $40.00
+DBRI20240453      05/23/2024  MELANIE KAY HILL                  05/01/2024  05/01/2024  TICKET FEES                                                                  $95.97
+DBRI20240454      05/23/2024  MELANIE KAY HILL                  05/08/2024  05/08/2024  STAFF INCIDENTALS                                                          $972.81
+DBRI20240455      05/23/2024  MELANIE KAY HILL                  05/09/2024  05/09/2024  STAFF PER DIEM                                                               $40.00
+DBRI20240456      05/23/2024  MELANIE KAY HILL                  05/10/2024  05/10/2024  STAFF TICKET FEES                                                       $1,301.62
+DBRI20240457      05/23/2024  CITIBANK - SENATOR IBA CARD       04/23/2024  04/23/2024  STAFF TRANSPORTATION
+DBRI20240458      05/23/2024  KELLI R WOLFE                     04/30/2024  05/09/2024  WASHINGTON DC TO BIRMINGHAM, HUNTSVILLE, MUSCLE SHOALS,                      $13.00
+DBRI20240459      05/24/2024  KELLI R WOLFE                     05/08/2024  05/08/2024  FLORENCE, HUNTSVILLE, BIRMINGHAM AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $16.50
+DBRI20240460      05/23/2024  KELLI R WOLFE                     05/10/2024  05/10/2024  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DBRI20240461      05/23/2024  KELLI R WOLFE                     05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                         $12.50
+                                                                                        DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DBRI20240462      05/24/2024  KELLI R WOLFE                     05/13/2024  05/13/2024  STAFF TRANSPORTATION                                                         $60.00
+                                                                                        DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION                                                         $64.00
+                                                                                        DOTHAN TO TROY AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $40.00
+                                                                                        DOTHAN TO EUFAULA AND RETURN                                                 $65.00
+                                                                                        TICKET FEES
+                                                                                        STAFF TRANSPORTATION                                                         $20.73
+                                                                                        TUSCALOOSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $106.00
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                         $59.50
+                                                                                        TUSCALOOSA TO CULLMAN AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $20.23
+                                                                                        COTTONDALE TO FORKLAND TO TUSCALOOSA                                         $63.50
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                         $17.16
+                                                                                        COTTONDALE TO DEMOPOLIS TO TUSCALOOSA                                        $91.50
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+

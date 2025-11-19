@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                             DATES
+DCTZ20240214                                                                      AIRFARE FOR D DULATRE-GALIMIDI LAS VEGAS TO RENO AND RETURN                         $64.14
+                                                          START       END         STAFF INCIDENTALS                                                                 $447.30
+DCTZ20240215                                                                      STAFF PER DIEM                                                                    $235.05
+DCTZ20240216      05/10/2024  ALEX EDUARDO VELA           04/18/2024  04/21/2024  STAFF TRANSPORTATION
+DCTZ20240217                                                                      WASHINGTON DC TO RENO AND RETURN                                                  $743.20
+DCTZ20240218      05/03/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/21/2024  STAFF TRANSPORTATION                                                                $40.00  B-969
+DCTZ20240219      05/03/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/21/2024  TICKET FEES
+DCTZ20240221      05/28/2024  CAROLINE R BOBO             04/19/2024  04/21/2024  AIRFARE FOR C BOBO WASHINGTON DC TO RENO AND RETURN                               $506.20
+                  05/20/2024  ZACHARY D ZARAGOZA          04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                                $40.00
+DCTZ20240224      05/14/2024  ZACHARY D ZARAGOZA          04/24/2024  04/24/2024  TICKET FEES
+DCTZ20240225      06/10/2024  ZACHARY D ZARAGOZA          04/19/2024  04/21/2024  AIRFARE FOR A HERNANDEZ WASHINGTON DC TO RENO AND RETURN                          $166.82
+DCTZ20240226                                                                      STAFF INCIDENTALS                                                                 $654.09
+DCTZ20240227      05/13/2024  CITIBANK - TRAVEL CBA CARD  04/20/2024  04/21/2024  STAFF PER DIEM
+DCTZ20240228      05/14/2024  CITIBANK - TRAVEL CBA CARD  04/08/2024  04/21/2024  WASHINGTON DC TO RENO AND RETURN                                                    $28.91
+DCTZ20240229                                                                      STAFF PER DIEM                                                                    $487.70
+DCTZ20240234      05/14/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/21/2024  STAFF TRANSPORTATION
+DCTZ20240235      05/14/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/22/2024  LAS VEGAS TO RENO, SPARKS, SILVER SPRINGS, RENO AND RETURN                          $13.43
+DCTZ20240236      05/14/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/21/2024  STAFF PER DIEM                                                                    $177.36
+                  05/14/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/25/2024  STAFF TRANSPORTATION
+                                                                                  LAS VEGAS TO PAHRUMP AND RETURN                                                   $166.82
+                  05/14/2024  SCOTT M FAIRCHILD           04/08/2024  04/21/2024  STAFF INCIDENTALS                                                                 $665.60
+                  05/23/2024  SETH J BEAS                 04/19/2024  04/21/2024  STAFF PER DIEM                                                                    $735.55
+                                                                                  STAFF TRANSPORTATION
+                  05/22/2024  JOSHUA A YEARSLEY           04/19/2024  04/21/2024  LAS VEGAS TO RENO AND RETURN                                                      $600.21
+                                                                                  STAFF TRANSPORTATION                                                                $40.00
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR N MARISCAL LAS VEGAS TO RENO AND RETURN                               $839.20
+                                                                                  STAFF TRANSPORTATION                                                                $80.00
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR S FAIRCHILD AS FOLLOWS: 4/8 WASHINGTON DC TO RENO; 4                  $743.20
+                                                                                  /21 RENO TO WASHINGTON DC                                                           $40.00
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES                                                                       $269.21
+                                                                                  AIRFARE FOR M IBARRA WASHINGTON DC TO RENO AND RETURN                               $40.00
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES                                                                       $371.60
+                                                                                  AIRFARE FOR K LYNCH WASHINGTON DC TO RENO AND RETURN                                $40.00
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES                                                                       $986.80
+                                                                                  AIRFARE FOR J YEARSLEY WASHINGTON DC TO RENO                                        $40.00
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES                                                                       $815.84
+                                                                                  AIRFARE FOR K CHAPMAN AS FOLLOWS: 4/19 WASHINGTON DC TO RENO; 4
+                                                                                  /25 LAS VEGAS TO WASHINGTON DC                                                    $166.82
+                                                                                  STAFF TRANSPORTATION                                                              $561.98
+                                                                                  WASHINGTON DC TO RENO AND RETURN
+                                                                                  STAFF INCIDENTALS                                                                 $145.78
+                                                                                  STAFF PER DIEM
+                                                                                  WASHINGTON DC TO RENO AND RETURN
+                                                                                  STAFF INCIDENTALS
+

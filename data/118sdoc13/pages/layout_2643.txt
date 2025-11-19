@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DWRR20240627                  CAROLINE B FREEDMAN                                       STAFF TRANSPORTATION                                                              $30.82
+DWRR20240628      08/12/2024  CAROLINE B FREEDMAN               START       END         BOSTON TO LINCOLN AND RETURN                                                      $18.76
+DWRR20240629      08/12/2024  CAROLINE B FREEDMAN                                       STAFF TRANSPORTATION                                                              $20.77
+DWRR20240630      08/12/2024  CAROLINE B FREEDMAN               05/08/2024  05/08/2024  JAMAICA PLAIN TO BOSTON AND RETURN                                                $27.47
+DWRR20240631      08/12/2024  CAROLINE B FREEDMAN                                       STAFF TRANSPORTATION                                                              $14.07
+DWRR20240632      08/12/2024  CAROLINE B FREEDMAN               05/10/2024  05/10/2024  BOSTON TO LYNN TO JAMAICA PLAIN                                                   $40.20
+DWRR20240633      08/12/2024  CAROLINE B FREEDMAN                                       STAFF TRANSPORTATION                                                              $44.22
+DWRR20240638      08/12/2024  CAROLINE B FREEDMAN               05/14/2024  05/14/2024  JAMAICA PLAIN TO LYNN TO BOSTON                                                   $20.77
+DWRR20240639      08/12/2024  CAROLINE B FREEDMAN                                       STAFF TRANSPORTATION                                                              $48.24
+DWRR20240640      08/12/2024  CAROLINE B FREEDMAN               05/17/2024  05/17/2024  JAMAICA PLAIN TO MALDEN TO BOSTON                                                 $50.25
+DWRR20240641      08/12/2024  YEJI LEE                                                  STAFF TRANSPORTATION                                                              $72.02
+DWRR20240642      08/13/2024  YEJI LEE                          05/20/2024  05/20/2024  JAMAICA PLAIN TO MANCHESTER TO BOSTON
+DWRR20240644      08/12/2024  OLIVIA J TEIXEIRA                                         STAFF TRANSPORTATION                                                               $7.43
+DWRR20240645      08/12/2024  MARK ANTONIO WILLIAMS             06/14/2024  06/14/2024  JAMAICA PLAIN TO LYNN, BURLINGTON AND RETURN                                      $93.80
+DWRR20240646      08/12/2024  MARK ANTONIO WILLIAMS                                     STAFF TRANSPORTATION                                                              $44.22
+DWRR20240647      08/12/2024  MARK ANTONIO WILLIAMS             06/25/2024  06/25/2024  BOSTON TO LYNN TO JAMAICA PLAIN                                                   $73.70
+DWRR20240648      08/12/2024  MARK ANTONIO WILLIAMS                                     STAFF TRANSPORTATION                                                              $73.70
+DWRR20240649      08/12/2024  BELTRE, RANDY J                   07/01/2024  07/01/2024  JAMAICA PLAIN TO ESSEX TO BOSTON                                                  $73.70
+DWRR20240650      08/12/2024  JILLIAN M HAGBOURNE APPLING                               STAFF TRANSPORTATION                                                              $65.66
+DWRR20240651      08/12/2024  JOHNATHAN CREQUE                  07/02/2024  07/02/2024  JAMAICA PLAIN TO GLOUCESTER TO BOSTON                                             $71.02
+DWRR20240652      08/12/2024  JOHNATHAN CREQUE                                          STAFF TRANSPORTATION                                                              $12.19
+DWRR20240654      08/29/2024  MARK ANTONIO WILLIAMS             07/03/2024  07/03/2024  CAMBRIDGE TO AYER, WORCESTER AND RETURN                                           $93.80
+DWRR20240684      08/12/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                              $69.68
+                  08/09/2024                                    07/30/2024  07/30/2024  CAMBRIDGE TO WEST ROXBURY AND RETURN                                            $446.73   B-2606
+DWRR20240685                                                                            STAFF TRANSPORTATION
+                                                                07/29/2024  07/29/2024  6/4, 7 ATTLEBORO TO QUINCY AND RETURN                                           $359.71
+                                                                                        STAFF TRANSPORTATION
+                                                                06/04/2024  06/07/2024  SPRINGFIELD TO DEERFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/19/2024  07/19/2024  SPRINGFIELD TO PITTSFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/18/2024  07/18/2024  SPRINGFIELD TO PITTSFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/16/2024  07/16/2024  SPRINGFIELD TO PITTSFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/15/2024  07/15/2024  BOSTON TO LEOMINSTER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/18/2024  07/18/2024  SPRINGFIELD TO PITTSFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/15/2024  07/15/2024  QUINCY TO WEST ROXBURY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/29/2024  07/29/2024  QUINCY TO AYER, WORCESTER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/30/2024  07/30/2024  SPRINGFIELD TO BECKET AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/12/2024  07/12/2024  AIRFARE FOR M BODY AS FOLLOWS: 6/28 WASHINGTON DC TO BOSTON; 6
+                                                                                        /28 BOSTON TO WASHINGTON DC; RENTAL AUTO FOR M BODY EAST
+                                                                06/28/2024  06/28/2024  BOSTON TO HYDE PARK, ROSLINDALE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                  08/09/2024  CITIBANK - TRAVEL CBA CARD        06/19/2024  06/22/2024
+

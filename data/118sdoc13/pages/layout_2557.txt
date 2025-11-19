@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DVAN20240783                  CASSANDRA E WEST                                          STAFF TRANSPORTATION                                                            $138.16
+DVAN20240784      07/17/2024  CASSANDRA E WEST                  START       END         WASHINGTON DC TO BURKITTSVILLE, FREDERICK, COLUMBIA AND RETURN                    $40.91
+DVAN20240785      07/16/2024  LEO H. CONFALONE                                          STAFF TRANSPORTATION                                                              $63.65
+DVAN20240786      07/16/2024  LEO H. CONFALONE                  06/10/2024  06/10/2024  WASHINGTON DC TO ANNAPOLIS AND RETURN
+DVAN20240787      07/17/2024  LEO H. CONFALONE                                          STAFF TRANSPORTATION                                                            $102.51
+DVAN20240788      07/16/2024  LEO H. CONFALONE                  06/14/2024  06/14/2024  WASHINGTON DC TO KENSINGTON, BALTIMORE AND RETURN                                 $33.50
+DVAN20240789      07/17/2024  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION                                                              $42.21
+DVAN20240790      07/17/2024  NAN SHERIDAN-MANN                 04/05/2024  04/05/2024  WASHINGTON DC TO BALTIMORE AND RETURN                                             $46.23
+DVAN20240792      07/17/2024  DAKOTA WALKER BUSBY                                       STAFF TRANSPORTATION                                                              $67.00
+DVAN20240793      07/18/2024  SUNG EUN CHUNG                    04/04/2024  04/04/2024  WASHINGTON DC TO KENSINGTON AND RETURN                                            $69.68
+DVAN20240795      07/18/2024  WILLIAM B KENNEDY                                         STAFF TRANSPORTATION                                                              $42.34
+DVAN20240796      07/18/2024  PATRICIA RUSSELL                  04/09/2024  04/09/2024  WASHINGTON DC TO KENSINGTON AND RETURN                                            $48.24
+DVAN20240798      07/23/2024  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION                                                              $90.45
+DVAN20240799      07/18/2024  ALYSSA M HASTINGS                 04/08/2024  04/08/2024  CAMBRIDGE TO DENTON AND RETURN                                                    $52.26
+DVAN20240800      07/19/2024  NAN SHERIDAN-MANN                                         STAFF TRANSPORTATION                                                              $44.22
+DVAN20240801      07/20/2024  ALYSSA M HASTINGS                 07/09/2024  07/09/2024  FREDERICK TO BALTIMORE AND RETURN                                                 $52.93
+DVAN20240804      07/21/2024  ALYSSA M HASTINGS                                         STAFF TRANSPORTATION                                                              $25.46
+DVAN20240805      07/23/2024  ALYSSA M HASTINGS                 07/09/2024  07/09/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $45.56
+DVAN20240806      07/23/2024  SUNG EUN CHUNG                                            STAFF TRANSPORTATION                                                              $60.30
+                  07/30/2024                                    07/07/2024  07/10/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $35.96
+DVAN20240807                                                                            STAFF TRANSPORTATION
+DVAN20240808                                                    07/10/2024  07/10/2024  BALTIMORE TO LARGO AND RETURN                                                   $262.28
+DVAN20240809                                                                            STAFF TRANSPORTATION                                                              $37.38
+DVAN20240810                                                    07/09/2024  07/09/2024  WASHINGTON DC TO BALTIMORE, LARGO AND RETURN                                      $26.13  B-2520
+DVAN20240811                                                                            STAFF TRANSPORTATION
+                                                                07/02/2024  07/02/2024  SALISBURY TO CRISFIELD, MARION STATION AND RETURN                               $140.17
+                                                                                        STAFF TRANSPORTATION                                                            $146.23
+                                                                07/11/2024  07/11/2024  SALISBURY TO OCEAN CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                              $18.76
+                                                                07/12/2024  07/12/2024  FREDERICK TO WESTMINSTER AND RETURN                                                $9.17
+                                                                                        STAFF TRANSPORTATION
+                                                                07/11/2024  07/11/2024  CAMBRIDGE TO SALISBURY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/16/2024  07/16/2024  SALISBURY TO OCEAN CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/17/2024  07/17/2024  CAMBRIDGE TO STEVENSVILLE AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                07/18/2024  07/18/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                07/17/2024  07/18/2024  WASHINGTON DC TO NEW YORK NY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                  07/23/2024  ALYSSA M HASTINGS                 07/19/2024  07/19/2024  SALISBURY TO CAMBRIDGE AND RETURN
+                  07/29/2024  NAN SHERIDAN-MANN                 07/19/2024  07/19/2024  STAFF TRANSPORTATION
+                  07/29/2024  NAN SHERIDAN-MANN                 07/17/2024  07/17/2024  FREDERICK TO HAVRE DE GRACE AND RETURN
+                  07/25/2024  ELONNA B.Q JONES                  07/19/2024  07/19/2024  STAFF TRANSPORTATION
+                  07/25/2024  ELONNA B.Q JONES                  07/16/2024  07/16/2024  FREDERICK TO NORTH EAST AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BALTIMORE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DBRN20241162                  KAMERON W ANDERSON                                        STAFF TRANSPORTATION                                                         $63.65
+DBRN20241163      09/24/2024  KAMERON W ANDERSON                START       END         DAYTON TO VAN WERT AND RETURN                                                $18.76
+DBRN20241164      09/24/2024  KAMERON W ANDERSON                                        STAFF TRANSPORTATION                                                         $45.56
+DBRN20241165      09/24/2024  JORDAN T PENNELL                  09/11/2024  09/11/2024  DAYTON TO SPRINGFIELD AND RETURN                                             $89.78
+DBRN20241166      09/24/2024  BROWN,SHERROD                                             STAFF TRANSPORTATION                                                         $46.90
+DBRN20241167      09/24/2024  BROWN,SHERROD                     09/14/2024  09/14/2024  DAYTON TO CINCINNATI AND RETURN                                              $71.02
+DBRN20241168      09/24/2024  BROWN,SHERROD                                             STAFF TRANSPORTATION                                                         $97.47
+DBRN20241172      09/24/2024  JAMES T HUFFER-COLE               09/17/2024  09/17/2024  YOUNGSTOWN TO CANTON AND RETURN                                              $37.52
+DBRN20241173      09/24/2024  JAMES T HUFFER-COLE                                       SENATOR TRANSPORTATION                                                       $99.16
+DBRN20241175      09/24/2024  JAMES T HUFFER-COLE               09/19/2024  09/19/2024  CLEVELAND TO AKRON AND RETURN                                                $36.18
+DBRN20241177      09/24/2024  JAMES T HUFFER-COLE                                       SENATOR TRANSPORTATION                                                       $63.65
+DBRN20241178      09/24/2024  ANTHONY L ELIOPOULOS              06/06/2024  06/06/2024  CLEVELAND TO NORTH CANTON AND RETURN                                       $212.59
+DBRN20241179      09/30/2024  JAMES T HUFFER-COLE                                       SENATOR TRANSPORTATION                                                     $112.56
+DBRN20241180      09/30/2024  JAMES T HUFFER-COLE               06/26/2024  06/26/2024  CLEVELAND TO VIENNA AND RETURN                                             $325.62
+DBRN20241184      09/30/2024  KALEB KNOWLTON                                            STAFF TRANSPORTATION                                                         $85.76
+DBRN20241186      09/24/2024  KALEB KNOWLTON                    07/16/2024  07/16/2024  LOUISVILLE TO AKRON AND RETURN                                               $95.14
+DBRN20241188      09/24/2024  JAMES T HUFFER-COLE                                       STAFF TRANSPORTATION                                                         $99.16
+DBRN20241190      09/24/2024  ANN L ORR                         09/05/2024  09/05/2024  LOUISVILLE TO MANSFIELD AND RETURN                                           $69.62
+DBRN20241198      09/25/2024  JOYCE M FRAZIER-POWDRILL                                  STAFF TRANSPORTATION                                                         $42.88
+DBRN20241199      09/26/2024  JOYCE M FRAZIER-POWDRILL          09/06/2024  09/06/2024  LOUISVILLE TO AKRON AND RETURN                                               $72.36
+DBRN20241200      09/26/2024  JOYCE M FRAZIER-POWDRILL                                  STAFF TRANSPORTATION                                                         $92.46
+DBRN20241201      09/26/2024  JOYCE M FRAZIER-POWDRILL          09/11/2024  09/11/2024  LOUISVILLE TO MEDINA AND RETURN                                              $77.72
+DBRN20241204      09/26/2024  JOYCE M FRAZIER-POWDRILL                                  STAFF TRANSPORTATION                                                         $81.74
+DBRN20241209      09/26/2024  ERICA N KRAUSE                    09/13/2024  09/13/2024  COLUMBUS TO BRYAN, WAUSEON AND RETURN                                        $65.92  B-715
+DBRN20241210      09/27/2024  ERICA N KRAUSE                                            STAFF TRANSPORTATION
+                  09/27/2024                                    09/19/2024  09/19/2024  LOUISVILLE TO MOUNT VERNON AND RETURN                                         $7.10
+                                                                                        STAFF TRANSPORTATION
+                                                                09/16/2024  09/16/2024  LOUISVILLE TO CINCINNATI AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/17/2024  09/17/2024  MINGO JUNCTION TO WOODSFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/06/2024  09/06/2024  MINGO JUNCTION TO CAMBRIDGE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/17/2024  09/17/2024  LOUISVILLE TO MANSFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/19/2024  09/19/2024  OBERLIN TO CLEVELAND AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/19/2024  09/19/2024  CINCINNATI TO FRANKLIN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                04/18/2024  04/18/2024  CINCINNATI TO DAYTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/23/2024  05/23/2024  CINCINNATI TO WEST UNION AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                06/10/2024  06/10/2024  CINCINNATI TO RIPLEY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/25/2024  07/25/2024  CINCINNATI TO EATON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/04/2024  09/04/2024  TOLEDO TO FINDLAY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                09/09/2024  09/09/2024  IN AND AROUND TOLEDO
+
+                                                                09/10/2024  09/10/2024
+

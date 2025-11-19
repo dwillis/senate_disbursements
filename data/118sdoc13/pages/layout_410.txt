@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE                    PAYEE NAME    OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+              POSTED                                             DATES
+                                                                              TRAIN FARE FOR L EAGAN WASHINGTON DC TO WILMINGTON DE AND                      $30.00
+                                                      START       END         RETURN                                                                       $683.20
+                                                                              TICKET FEES
+DSAA24M52855  06/27/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                           $40.00
+DSAA24M52856  06/27/2024  CITIBANK - TRAVEL CBA CARD  05/05/2024  05/09/2024  AIRFARE FOR J ROCKELL WASHINGTON DC TO ASHEVILLE NC,                         $329.20
+                                                                              WILMINGTON NC AND RETURN
+DSAA24M52857  06/27/2024  CITIBANK - TRAVEL CBA CARD  05/03/2024  05/03/2024  TICKET FEES                                                                    $30.00
+DSAA24M52858  06/27/2024  CITIBANK - TRAVEL CBA CARD  05/07/2024  05/09/2024  STAFF TRANSPORTATION                                                         $783.21
+                                                                              AIRFARE FOR M WILLIS WASHINGTON DC TO CHICAGO IL AND RETURN
+DSAA24M52859  06/27/2024  CITIBANK - TRAVEL CBA CARD  05/10/2024  05/10/2024  TICKET FEES                                                                    $30.00
+DSAA24M52860  06/27/2024  CITIBANK - TRAVEL CBA CARD  05/14/2024  05/17/2024  STAFF TRANSPORTATION                                                         $163.10
+                                                                              AIRFARE FOR F THOMPSON WASHINGTON DC TO MINNEAPOLIS MN AND
+DSAA24M52861  06/27/2024  CITIBANK - TRAVEL CBA CARD  04/18/2024  04/18/2024  RETURN                                                                         $61.15
+DSAA24M52862  06/27/2024  CITIBANK - TRAVEL CBA CARD  04/18/2024  04/18/2024  TICKET FEES                                                                  $658.68
+                                                                              STAFF TRANSPORTATION                                                         $392.38
+DSAA24M52873  07/02/2024  JERROD L WILLIAMS           06/11/2024  06/14/2024  TRAIN FARE FOR R WOELLER WASHINGTON DC TO TRENTON NJ
+                                                                              STAFF INCIDENTALS                                                              $64.24
+DSAA24M52877  06/28/2024  STEVEN B RYE                06/10/2024  06/14/2024  STAFF PER DIEM                                                               $854.73   B-392
+                                                                              STAFF TRANSPORTATION                                                         $485.59
+DSAA24M52878  07/03/2024  DOMINIC P GALLO             06/10/2024  06/14/2024  COLUMBIA TO WASHINGTON DC, LAS VEGAS NV, WASHINGTON DC AND
+                                                                              RETURN                                                                       $168.44
+DSAA24M52879  06/27/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/02/2024  STAFF INCIDENTALS                                                         $1,238.28
+DSAA24M52880  06/28/2024  CITIBANK - TRAVEL CBA CARD  05/05/2024  05/09/2024  STAFF PER DIEM
+DSAA24M52883                                                                  STAFF TRANSPORTATION                                                         $791.26
+DSAA24M52884  06/28/2024  CITIBANK - TRAVEL CBA CARD  05/06/2024  05/06/2024  MECHANICSVILLE TO LAS VEGAS NV AND RETURN
+DSAA24M52885  06/28/2024  CITIBANK - TRAVEL CBA CARD  05/03/2024  05/03/2024  STAFF INCIDENTALS                                                              $30.00
+              07/01/2024  STEPHANIE BAGANDOV          05/14/2024  05/18/2024  STAFF PER DIEM                                                               $710.20
+DSAA24M52886                                                                  STAFF TRANSPORTATION
+DSAA24M52887  07/01/2024  CITIBANK - TRAVEL CBA CARD  05/10/2024  05/10/2024  GAMBRILLS TO PORTLAND OR, SEATAC WA AND RETURN                                 $30.00
+DSAA24M52888                                                                  TICKET FEES                                                                    $30.00
+DSAA24M52889  07/01/2024  CITIBANK - TRAVEL CBA CARD  05/06/2024  05/06/2024  STAFF TRANSPORTATION                                                           $86.14
+                                                                              AIRFARE FOR D GALLO WASHINGTON DC TO PORTLAND ME AND RETURN                  $831.40
+DSAA24M52890  06/28/2024  CITIBANK - TRAVEL CBA CARD  05/14/2024  05/14/2024  TICKET FEES                                                                  $741.63
+              06/28/2024  RICHARD MONZON              06/10/2024  06/14/2024  TICKET FEES
+                                                                              STAFF INCIDENTALS                                                            $610.10
+              07/09/2024  KATHLEEN F SUMMERS          06/02/2024  06/08/2024  STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION                                                         $610.10
+                                                                              LITTLE ROCK TO NEW ORLEANS LA AND RETURN
+                                                                              STAFF TRANSPORTATION                                                           $30.00
+                                                                              AIRFARE FOR K BATEMAN LAS VEGAS NV TO ST LOUIS                                 $64.24
+                                                                              STAFF TRANSPORTATION                                                         $790.57
+                                                                              AIRFARE FOR K BATEMAN ST LOUIS TO LAS VEGAS NV                               $175.93
+                                                                              TICKET FEES
+                                                                              STAFF INCIDENTALS                                                              $22.24
+                                                                              STAFF PER DIEM                                                               $400.56
+                                                                              STAFF TRANSPORTATION                                                         $589.43
+                                                                              BURTONSVILLE TO LAS VEGAS NV AND RETURN
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+

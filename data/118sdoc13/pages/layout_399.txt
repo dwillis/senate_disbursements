@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DSAA24M52070                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                          $382.20
+                  05/02/2024                                    START       END         AIRFARE FOR F THOMPSON WASHINGTON DC TO JACKSON MS AND
+DSAA24M52071                  CITIBANK - TRAVEL CBA CARD                                RETURN                                                                          $30.00
+DSAA24M52072      05/02/2024  CITIBANK - TRAVEL CBA CARD        03/03/2024  03/09/2024  TICKET FEES                                                                     $30.00
+DSAA24M52073      04/29/2024  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                   $144.10
+DSAA24M52074      05/03/2024  CITIBANK - TRAVEL CBA CARD        02/29/2024  02/29/2024  STAFF TRANSPORTATION
+DSAA24M52075                  CITIBANK - TRAVEL CBA CARD        03/21/2024  03/21/2024  AIRFARE FOR E BELL WASHINGTON DC TO ORLANDO FL                                  $30.00
+DSAA24M52076      04/29/2024  CITIBANK - TRAVEL CBA CARD        03/24/2024  03/24/2024  TICKET FEES                                                                   $292.20
+DSAA24M52077      05/02/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION
+DSAA24M52078                  CITIBANK - TRAVEL CBA CARD        03/22/2024  03/22/2024  AIRFARE FOR N COMFORT WASHINGTON DC TO ORLANDO FL AND RETURN                    $30.00
+DSAA24M52079      04/29/2024  CITIBANK - TRAVEL CBA CARD        04/09/2024  04/12/2024  TICKET FEES                                                                   $224.10
+DSAA24M52081      05/02/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION
+DSAA24M52115                  KATHLEEN F SUMMERS                03/21/2024  03/21/2024  AIRFARE FOR I CLICK WASHINGTON DC TO CHICAGO IL                                 $30.00
+                  04/29/2024                                    03/24/2024  03/24/2024  TICKET FEES                                                                   $151.10
+                  05/02/2024                                                            STAFF TRANSPORTATION
+                                                                03/25/2024  03/25/2024  AIRFARE FOR I CLICK MILWAUKEE WI TO WASHINGTON DC                               $60.00
+                  04/29/2024                                    03/27/2024  03/27/2024  TICKET FEES                                                                     $16.25
+                  05/16/2024                                                            STAFF INCIDENTALS                                                             $189.00
+                                                                03/12/2024  03/12/2024  STAFF PER DIEM                                                                $134.79
+                                                                04/17/2024  04/18/2024  STAFF TRANSPORTATION
+                                                                                        ARLINGTON VA TO WASHINGTON DC, BURLINGTON VT, WASHINGTON DC                     $33.55
+DSAA24M52116      05/07/2024  JASON M ROCKELL                   04/18/2024  04/19/2024  AND RETURN                                                                    $263.23   B-381
+                                                                                        STAFF INCIDENTALS                                                             $198.25
+DSAA24M52117      05/07/2024  BRIAN F CRAFT                     04/16/2024  04/17/2024  STAFF PER DIEM
+DSAA24M52118      05/02/2024  RYAN PHILIPS DONNELL              04/08/2024  04/08/2024  STAFF TRANSPORTATION                                                          $137.38
+DSAA24M52119      05/03/2024  ROBERT G HAMBRIGHT                04/16/2024  04/17/2024  WOODBRIDGE VA TO WASHINGTON DC, ATLANTA GA, WASHINGTON DC                     $431.42
+DSAA24M52120      05/14/2024  CHRISTOPHER P WILDE               04/13/2024  04/15/2024  AND RETURN
+                                                                                        STAFF PER DIEM                                                                  $22.45
+DSAA24M52127      05/07/2024  LYNDEN C ARMSTRONG                04/18/2024  04/18/2024  STAFF TRANSPORTATION
+DSAA24M52130      05/09/2024  RAYMOND WOELLER                   04/15/2024  04/18/2024  WARRENTON VA TO SLIPPERY ROCK PA AND RETURN                                   $144.86
+                                                                                        STAFF TRANSPORTATION                                                          $361.74
+DSAA24M52131      05/14/2024  LAUREN M MIKEAL                   04/18/2024  04/19/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM                                                                $123.25
+                                                                                        STAFF TRANSPORTATION                                                          $492.32
+                                                                                        WAYNESBORO TO SLIPPERY ROCK AND RETURN                                        $326.96
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM                                                                  $26.00
+                                                                                        STAFF TRANSPORTATION
+                                                                                        GERMANTOWN MD TO WASHINGTON DC, LAS VEGAS NV, WASHINGTON DC                   $110.31
+                                                                                        AND RETURN                                                                    $979.00
+                                                                                        STAFF TRANSPORTATION                                                          $366.42
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF INCIDENTALS                                                               $45.38
+                                                                                        STAFF PER DIEM                                                                $414.49
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PERKASIE TO TRENTON NJ, WASHINGTON DC, ARLINGTON VA,                            $18.00
+                                                                                        WASHINGTON DC, TRENTON NJ AND RETURN                                          $481.44
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TICKET FEES
+                                                                                        STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                             DATES
+DBRN20240942                                                                      TOLEDO TO DEFIANCE AND RETURN                                                  $87.10
+DBRN20240943                                              START       END         STAFF TRANSPORTATION                                                           $37.58
+DBRN20240944                                                                      TOLEDO TO OTTAWA AND RETURN                                                    $36.24
+DBRN20240945      07/24/2024  ERICA N KRAUSE              06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                           $25.59  B-707
+DBRN20240946      07/24/2024  ERICA N KRAUSE              06/25/2024  06/25/2024  TOLEDO TO PORT CLINTON AND RETURN                                              $58.69
+DBRN20240947      07/24/2024  ERICA N KRAUSE              07/02/2024  07/02/2024  STAFF TRANSPORTATION
+DBRN20240948      07/24/2024  ERICA N KRAUSE              07/03/2024  07/03/2024  TOLEDO TO OAK HARBOR AND RETURN                                                 $9.04
+DBRN20240949      07/24/2024  ERICA N KRAUSE              07/04/2024  07/04/2024  STAFF TRANSPORTATION                                                            $9.04
+DBRN20240950      07/24/2024  ERICA N KRAUSE              07/10/2024  07/10/2024  TOLEDO TO OREGON, TOLEDO, PERRYSBURG AND RETURN                                 $9.31
+DBRN20240951      07/24/2024  ERICA N KRAUSE              07/15/2024  07/15/2024  STAFF TRANSPORTATION                                                            $9.04
+DBRN20240952      07/24/2024  ERICA N KRAUSE              07/17/2024  07/17/2024  TOLEDO TO ARCHBOLD AND RETURN                                                  $62.92
+                  07/24/2024  ERICA N KRAUSE              07/19/2024  07/19/2024  STAFF TRANSPORTATION                                                           $21.35
+DBRN20240953      07/31/2024  ANN L ORR                   07/10/2024  07/10/2024  TOLEDO TO PERRYSBURG AND RETURN                                              $137.23
+                  08/07/2024  ANN L ORR                   07/12/2024  07/13/2024  STAFF TRANSPORTATION                                                         $166.09
+DBRN20240954                                                                      TOLEDO TO PERRYSBURG AND RETURN                                                $12.58
+                  07/31/2024  ANN L ORR                   07/16/2024  07/16/2024  STAFF TRANSPORTATION                                                           $54.27
+DBRN20240955      07/31/2024  ANN L ORR                   07/17/2024  07/17/2024  TOLEDO TO PERRYSBURG AND RETURN                                                $16.87
+                  08/05/2024  ANN L ORR                   07/19/2024  07/19/2024  STAFF TRANSPORTATION                                                           $60.30
+DBRN20240959      07/25/2024  KAMERON W ANDERSON          07/18/2024  07/18/2024  TOLEDO TO PERRYSBURG AND RETURN                                                $10.85
+DBRN20240960      07/25/2024  KAMERON W ANDERSON          07/19/2024  07/19/2024  STAFF TRANSPORTATION                                                           $48.91
+DBRN20240961      07/29/2024  CITIBANK - TRAVEL CBA CARD  07/17/2024  07/17/2024  OBERLIN TO CLEVELAND AND RETURN                                                $48.24
+                                                                                  STAFF INCIDENTALS                                                              $20.10
+DBRN20240962      07/29/2024  CITIBANK - TRAVEL CBA CARD  07/17/2024  07/17/2024  STAFF PER DIEM                                                               $397.96
+DBRN20240968      07/29/2024  CITIBANK - TRAVEL CBA CARD  07/22/2024  07/22/2024  STAFF TRANSPORTATION                                                           $30.00
+DBRN20240969      07/30/2024  CITIBANK - TRAVEL CBA CARD  07/15/2024  07/16/2024  OBERLIN TO COLUMBUS AND RETURN
+                                                                                  STAFF PER DIEM                                                               $165.09
+DBRN20240970      07/25/2024  EMMA MARIE SPEYER           07/19/2024  07/19/2024  STAFF TRANSPORTATION                                                           $30.00
+                                                                                  OBERLIN TO CLEVELAND AND RETURN
+                                                                                  STAFF PER DIEM                                                               $436.21
+                                                                                  STAFF TRANSPORTATION                                                           $30.00
+                                                                                  OBERLIN TO MANSFIELD AND RETURN                                                $37.52
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  OBERLIN TO CLEVELAND AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DAYTON TO LIMA AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DAYTON TO GREENVILLE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR A DUGGAN WASHINGTON DC TO DAYTON, COLUMBUS AND
+                                                                                  RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR A DUGGAN COLUMBUS TO WASHINGTON DC
+                                                                                  TICKET FEES
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR K DONOHOE WASHINGTON DC TO CLEVELAND AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  COLUMBUS TO CARROLL AND RETURN
+

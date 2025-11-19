@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+              POSTED                                             DATES
+                                                                              BOSTON TO THE FOLLOWING AND RETURN: 4/25 WORCESTER,                                  $52.26
+                                                      START       END         CAMBRIDGE; 5/30 ATTLEBORO, CANTON; 6/7 BOURNE, SANDWICH; 7/16                         $8.04
+                                                                              BOURNE; 7/18 MONTAGUE, GARDNER, LEOMINSTER
+DMKY20240385  09/11/2024  MARK M LANNIGAN             07/15/2024  07/15/2024  STAFF TRANSPORTATION                                                                 $17.59  B-1715
+DMKY20240387  09/11/2024  MARK M LANNIGAN             07/16/2024  07/16/2024  MEDWAY TO LEOMINSTER TO BOSTON                                                     $142.71
+DMKY20240388  09/11/2024  MARK M LANNIGAN             07/17/2024  07/17/2024  STAFF TRANSPORTATION
+DMKY20240389                                                                  BOSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      $56.28
+DMKY20240390  09/11/2024  MARK M LANNIGAN             07/18/2024  07/18/2024  STAFF PER DIEM                                                                     $120.60
+DMKY20240391  09/12/2024  KATHERINE A MORFILL         07/18/2024  07/18/2024  STAFF TRANSPORTATION                                                               $365.80
+DMKY20240392  09/13/2024  JESSE LEVI LEDERMAN         06/07/2024  07/19/2024  BOSTON TO MALDEN, SPRINGFIELD AND RETURN
+DMKY20240393  09/12/2024  MARK M LANNIGAN             07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                                 $13.15
+DMKY20240396                                                                  BOSTON TO LEOMINSTER AND RETURN                                                    $156.78
+DMKY20240397  09/12/2024  MARK M LANNIGAN             07/31/2024  07/31/2024  STAFF TRANSPORTATION
+DMKY20240398                                                                  BOSTON TO MONTAGUE AND RETURN                                                        $22.00
+              09/11/2024  MARK M LANNIGAN             08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                               $123.28
+DMKY20240399                                                                  SPRINGFIELD TO THE FOLLOWING AND RETURN: 6/7, 17, 7/17 WORCESTER;
+              09/11/2024  MARK M LANNIGAN             08/08/2024  08/08/2024  7/18 MONTAGUE, LEOMINSTER; 7/19 SOUTH DEERFIELD                                       $9.02
+DMKY20240400  09/15/2024  DANIEL R VINIK              07/16/2024  07/17/2024  STAFF PER DIEM                                                                       $79.73
+DMKY20240401                                                                  STAFF TRANSPORTATION                                                                 $42.88
+              09/13/2024  MELISSA AW OLESEN           07/16/2024  07/22/2024  BOSTON TO GREENFIELD, PLAINFIELD AND RETURN                                          $43.43
+DMKY20240402                                                                  STAFF PER DIEM                                                                     $334.47
+              09/13/2024  MATTHEW C REYNOLDS          07/01/2024  07/31/2024  STAFF TRANSPORTATION                                                                 $99.78
+DMKY20240404  09/03/2024  KATHERINE A MORFILL         08/05/2024  08/07/2024  BOSTON TO MARION, WOODS HOLE AND RETURN
+                                                                              STAFF PER DIEM                                                                     $242.11
+              09/03/2024  ISABELLE A COMERFORD        08/05/2024  08/07/2024  STAFF TRANSPORTATION
+                                                                              BOSTON TO FALL RIVER AND RETURN                                                    $246.62
+              08/30/2024  CITIBANK - TRAVEL CBA CARD  02/29/2024  02/29/2024  STAFF TRANSPORTATION                                                                 $22.97
+                                                                              BOSTON TO SALEM AND RETURN
+                                                                              STAFF INCIDENTALS                                                                  $264.99
+                                                                              STAFF PER DIEM                                                                     $235.19
+                                                                              STAFF TRANSPORTATION
+                                                                              ALEXANDRIA VA TO WASHINGTON DC, BOSTON, MALDEN, BOSTON,                              $22.96
+                                                                              WASHINGTON DC AND RETURN                                                           $249.35
+                                                                              STAFF TRANSPORTATION                                                               $276.47
+                                                                              BOSTON TO THE FOLLOWING AND RETURN: 7/16 SAGAMORE BEACH; 7/17
+                                                                              WORCESTER; 7/18 BOSTON TO GARDNER, LEOMINSTER TO MILTON; 7/22                      $338.10
+                                                                              MILTON TO DORCHESTER, CAMBRIDGE TO BOSTON
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              BOSTON TO FALMOUTH, EDGARTOWN, WEST DENNIS, FALMOUTH, FALL
+                                                                              RIVER, FALMOUTH AND RETURN
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              BOSTON TO FALMOUTH, EDGARTOWN, MARSHFIELD, DORCHESTER,
+                                                                              DENNIS, FALMOUTH, FALL RIVER AND RETURN
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN MARKEY WASHINGTON DC TO BOSTON
+

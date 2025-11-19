@@ -1,0 +1,56 @@
+DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION            AMOUNT ($)
+              POSTED                                        DATES
+                                                                         YADKINVILLE TO THE FOLLOWING AND RETURN: 2/5 SALISBURY; 2/6                            $19.59
+                                                 START       END         ADVANCE, STATESVILLE; 2/7 BOONE, BANNER ELK, NORTH WILKESBORO,                         $30.21
+                                                                         MOUNT AIRY; 2/8, 15 CHARLOTTE; 2/9 WINSTON SALEM, KERNERSVILLE; 2                      $26.79
+DBDD20240347  04/10/2024  SAMUEL JOSEPH SHUMATE  03/25/2024  03/25/2024  /12 LENOIR; 2/13 MOORESVILLE; 2/14 LEXINGTON, SPARTA; 2/20                           $141.06
+DBDD20240348  04/16/2024  SAMUEL JOSEPH SHUMATE  03/26/2024  03/26/2024  GREENSBORO, SPARTA                                                                   $392.62
+DBDD20240350                                                             STAFF PER DIEM
+DBDD20240351  04/16/2024  JOHN M TAYLOE          03/25/2024  03/28/2024  STAFF TRANSPORTATION                                                              $1,214.30
+                                                                         SANFORD TO WILMINGTON AND RETURN
+              04/16/2024  WILLIAM J SOMERS       02/21/2024  03/06/2024  STAFF PER DIEM                                                                       $893.00
+                                                                         STAFF TRANSPORTATION
+DBDD20240352  04/16/2024  WILLIAM J SOMERS       03/07/2024  03/20/2024  SANFORD TO KURE BEACH, SOUTHPORT, OAK ISLAND, SUNSET BEACH,                          $582.48   B-723
+                                                                         OCEAN ISLE BEACH, CALABASH AND RETURN
+DBDD20240353  04/16/2024  WILLIAM J SOMERS       03/21/2024  03/28/2024  STAFF TRANSPORTATION                                                                 $252.59
+                                                                         AULANDER TO THE FOLLOWING AND RETURN: 3/25 HENDERSON, RALEIGH,                         $12.60
+DBDD20240354  04/16/2024  WILLIAM J SOMERS       03/04/2024  03/04/2024  CASTALIA; 3/26 MURFREESBORO; 3/27 WINTON, MURFREESBORO,
+DBDD20240356  04/22/2024  SAMUEL JOSEPH SHUMATE  03/27/2024  03/27/2024  JACKSON, WELDON; 3/28 OAK CITY, GREENVILLE                                           $140.90
+DBDD20240357                                                             STAFF TRANSPORTATION                                                                   $94.40
+DBDD20240358  04/12/2024  SAMUEL JOSEPH SHUMATE  03/28/2024  03/28/2024  YADKINVILLE TO THE FOLLOWING AND RETURN: 2/21 BOONVILLE, EAST
+DBDD20240359  04/22/2024  SAMUEL JOSEPH SHUMATE  04/01/2024  04/01/2024  BEND, LEWISVILLE, CLEMMONS, STATESVILLE; 2/22 MOCKSVILLE,                            $192.75
+DBDD20240363  04/12/2024  SAMUEL JOSEPH SHUMATE  04/02/2024  04/02/2024  YANCEYVILLE, LEXINGTON; 2/23 HICKORY; 2/26 ADVANCE; 2/27                               $19.66
+                                                                         GREENSBORO, KERNERSVILLE, HICKORY; 2/28 THOMASVILLE,                                   $57.28
+DBDD20240364  04/19/2024  SAMUEL JOSEPH SHUMATE  04/03/2024  04/03/2024  BURLINGTON, GRAHAM, HAMPTONVILLE; 2/29 THOMASVILLE, RALEIGH; 3/1                       $17.33
+                                                                         CHARLOTTE; 3/5 HICKORY, SPRUCE PINE, NEWLAND; 3/6 WINSTON SALEM,
+              04/22/2024  SAMUEL JOSEPH SHUMATE  04/04/2024  04/04/2024  BETHANIA, TOBACCOVILLE, RURAL HALL, WALKERTOWN                                       $112.62
+                                                                         STAFF TRANSPORTATION                                                                 $138.02
+                                                                         YADKINVILLE TO THE FOLLOWING AND RETURN: 3/7 MOCKSVILLE,
+                                                                         LEXINGTON; 3/8 SALISBURY, CONCORD; 3/11 JEFFERSON, WEST
+                                                                         JEFFERSON; 3/12 THOMASVILLE, WALLBURG, WINSTON SALEM, SALISBURY;
+                                                                         3/13 LEXINGTON, WINSTON SALEM; 3/14 ELKIN, DOBSON, MOUNT AIRY; 3/15
+                                                                         KING, DANBURY, WALNUT COVE, LEXINGTON, STATESVILLE; 3/18
+                                                                         MOCKSVILLE; 3/19 SALISBURY, ADVANCE; 3/20 RALEIGH
+                                                                         STAFF TRANSPORTATION
+                                                                         YADKINVILLE TO THE FOLLOWING AND RETURN: 3/21 SALISBURY,
+                                                                         MOORESVILLE, CHINA GROVE; 3/22 ADVANCE, MOCKSVILLE; 3/24
+                                                                         MOCKSVILLE; 3/25 ADVANCE, STATESVILLE, HARMONY; 3/26 SALISBURY,
+                                                                         COOLEEMEE; 3/27 BOONE, MOORESVILLE; 3/28 CHARLOTTE, MONROE
+                                                                         STAFF TRANSPORTATION
+                                                                         YADKINVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         SANFORD TO WHITEVILLE, CERRO GORDO, FAIR BLUFF AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         SANFORD TO FAYETTEVILLE, SALEMBURG, CLINTON AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         SANFORD TO LILLINGTON, WILMINGTON AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         SANFORD TO FAYETTEVILLE AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         SANFORD TO PARKTON, RED SPRINGS, PEMBROKE, LUMBERTON AND
+                                                                         RETURN
+                                                                         STAFF TRANSPORTATION
+

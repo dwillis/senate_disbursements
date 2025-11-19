@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                  POSTED                                             DATES
+DKLO20240396                                                                      MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $57.16
+DKLO20240397                                              START       END         STAFF TRANSPORTATION                                                                 $24.00
+                                                                                  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $145.39
+DKLO20240398      05/26/2024  ANDREA A HERNANDEZ DELGADO  05/18/2024  05/18/2024  STAFF PER DIEM                                                                       $60.97
+DKLO20240411      05/30/2024  BENJAMIN J LIEN             05/17/2024  05/17/2024  STAFF TRANSPORTATION                                                                 $34.17
+DKLO20240412                                                                      MOORHEAD TO MORRIS AND RETURN                                                        $39.53
+DKLO20240413      05/26/2024  CHARLES R ACKMAN            05/17/2024  05/17/2024  STAFF TRANSPORTATION
+DKLO20240414      06/11/2024  ERIKA NELSON                05/22/2024  05/22/2024  FARIBAULT TO SAINT PETER AND RETURN                                                   $3.88
+DKLO20240415      06/11/2024  ERIKA NELSON                05/28/2024  05/28/2024  STAFF TRANSPORTATION                                                               $192.96
+DKLO20240416      06/11/2024  ROMMEL WONG LEE             05/29/2024  05/29/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $116.58
+                  06/11/2024  CHARLES R ACKMAN            05/29/2024  05/29/2024  STAFF TRANSPORTATION
+DKLO20240417      06/11/2024  JOSHUA L ORTIZ              02/20/2024  05/26/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $9.37
+                                                                                  STAFF TRANSPORTATION                                                               $133.33
+DKLO20240418      06/11/2024  JOSHUA L ORTIZ              04/25/2024  04/25/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DKLO20240419                                                                      STAFF TRANSPORTATION                                                                 $18.27
+DKLO20240420      06/11/2024  JOSHUA L ORTIZ              05/27/2024  05/27/2024  ROCHESTER TO JACKSON TO FARIBAULT                                                  $116.58   B-1566
+DKLO20240421                                                                      STAFF TRANSPORTATION
+DKLO20240423      06/11/2024  JOSHUA L ORTIZ              05/04/2024  05/04/2024  MINNEAPOLIS TO THE FOLLOWING AND RETURN: 2/20 SOUTH SAINT PAUL; 4                    $16.00
+                  06/11/2024  CHARLES R ACKMAN            05/30/2024  05/30/2024  /2 CHASKA; 5/26 BIG LAKE                                                           $141.37
+DKLO20240424      06/11/2024  ROMMEL WONG LEE             06/01/2024  06/01/2024  STAFF PER DIEM
+DKLO20240425      06/11/2024  CLARA A G HAYCRAFT          05/17/2024  05/17/2024  STAFF TRANSPORTATION                                                                 $21.70
+                  06/11/2024  BENJAMIN J LIEN             06/01/2024  06/01/2024  MINNEAPOLIS TO AUSTIN AND RETURN                                                     $92.46
+DKLO20240426                                                                      STAFF PER DIEM                                                                       $18.00
+                  06/11/2024  CHARLES R ACKMAN            06/03/2024  06/03/2024  STAFF TRANSPORTATION                                                               $242.54
+DKLO20240427      06/11/2024  CHARLES R ACKMAN            05/22/2024  05/22/2024  MINNEAPOLIS TO ROCHESTER AND RETURN                                                  $71.02
+DKLO20240428                                                                      STAFF TRANSPORTATION
+DKLO20240429      06/11/2024  BENJAMIN J LIEN             05/23/2024  05/23/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $6.63
+                                                                                  STAFF TRANSPORTATION                                                               $109.21
+                  06/11/2024  CHARLES R ACKMAN            05/27/2024  05/27/2024  FARIBAULT TO HOWARD LAKE, CANNON FALLS AND RETURN
+                  06/11/2024  ROMMEL WONG LEE             05/27/2024  05/27/2024  STAFF TRANSPORTATION                                                                 $10.12
+                  06/11/2024  PATRICK D KELLIHER          05/23/2024  05/23/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $74.37
+                                                                                  STAFF TRANSPORTATION                                                                 $77.72
+                                                                                  MINNEAPOLIS TO SAINT PETER AND RETURN                                                $29.07
+                                                                                  STAFF PER DIEM                                                                     $144.72
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MOORHEAD TO GRANITE FALLS AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  FARIBAULT TO MINNEAPOLIS AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  FARIBAULT TO FOREST LAKE AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MOORHEAD TO FERGUS FALLS AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  FARIBAULT TO ROCHESTER AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MINNEAPOLIS TO MORTON AND RETURN
+

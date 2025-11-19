@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+DWRN20240584       POSTED     COLLEEN R NGUYEN                             DATES
+                                                                                        STAFF INCIDENTALS                                                                  $20.22
+                  07/05/2024                                    START       END         STAFF PER DIEM                                                                   $213.13
+                                                                                        STAFF TRANSPORTATION                                                             $263.93
+                                                                06/24/2024  06/25/2024  WASHINGTON DC TO GLOUCESTER, WILLIAMSBURG, CHESTERFIELD AND
+                                                                                        RETURN                                                                             $15.59
+DWRN20240585      07/03/2024  ZACHARY R LEWIS                   06/25/2024  06/25/2024  STAFF PER DIEM                                                                     $87.10
+                                                                                        STAFF TRANSPORTATION                                                               $26.13
+DWRN20240587      07/05/2024  NICHOLAS R KAWUGULE               06/07/2024  06/07/2024  WASHINGTON DC TO SPOTSYLVANIA AND RETURN                                           $28.14
+DWRN20240588      07/05/2024  NICHOLAS R KAWUGULE               06/14/2024  06/14/2024  STAFF TRANSPORTATION                                                             $125.29
+DWRN20240589      07/08/2024  NICHOLAS R KAWUGULE               06/27/2024  06/27/2024  RICHMOND OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $26.80
+DWRN20240590      07/05/2024  NICHOLAS R KAWUGULE               06/25/2024  06/25/2024  STAFF TRANSPORTATION                                                             $362.89
+DWRN20240591      07/09/2024  SYDNEY M LIVINGSTON               06/11/2024  06/18/2024  RICHMOND OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION                                                               $42.26
+DWRN20240592      07/16/2024  WARNER,MARK R                     05/09/2024  05/14/2024  RICHMOND TO LANCASTER AND RETURN                                                 $222.42
+                                                                                        STAFF TRANSPORTATION                                                             $192.22
+DWRN20240593      07/08/2024  ROBERT S CLEM                     06/06/2024  06/06/2024  RICHMOND OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                          B-2543
+DWRN20240594      07/08/2024  ROBERT S CLEM                     05/06/2024  05/06/2024  STAFF TRANSPORTATION                                                               $88.44
+DWRN20240595      07/08/2024  ROBERT S CLEM                     05/09/2024  05/09/2024  ROANOKE TO THE FOLLOWING AND RETURN: 6/11-13 ANNANDALE; 6/17-18                    $88.44
+DWRN20240596      07/08/2024  ROBERT S CLEM                     05/10/2024  05/10/2024  RICHMOND                                                                           $57.62
+DWRN20240597      07/08/2024  ROBERT S CLEM                     05/13/2024  05/13/2024  SENATOR INCIDENTALS                                                                $60.97
+DWRN20240598      07/08/2024  ROBERT S CLEM                     05/14/2024  05/14/2024  SENATOR PER DIEM                                                                   $76.38
+DWRN20240599      07/08/2024  ROBERT S CLEM                     05/15/2024  05/15/2024  SENATOR TRANSPORTATION                                                             $56.28
+DWRN20240600      07/08/2024  ROBERT S CLEM                     05/17/2024  05/17/2024  WASHINGTON DC TO PITTSBURGH PA, NEW YORK NY AND RETURN                             $36.18
+DWRN20240601      07/08/2024  ROBERT S CLEM                     05/28/2024  05/28/2024  STAFF TRANSPORTATION                                                               $36.18
+DWRN20240602      07/09/2024  ROBERT S CLEM                     05/29/2024  05/29/2024  ABINGDON TO BLUEFIELD TO POUNDING MILL                                             $41.54
+DWRN20240603      07/09/2024  ROBERT S CLEM                     06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                             $124.62
+DWRN20240604      07/09/2024  GENE L GARLAND                    06/25/2024  06/25/2024  ABINGDON TO BLUEFIELD TO POUNDING MILL                                           $198.32
+DWRN20240605      07/09/2024  GENE L GARLAND                    06/26/2024  06/26/2024  STAFF TRANSPORTATION                                                               $18.09
+DWRN20240606      07/09/2024  GENE L GARLAND                    06/27/2024  06/27/2024  ABINGDON TO BRISTOL TO POUNDING MILL                                               $20.10
+                                                                                        STAFF TRANSPORTATION                                                               $15.41
+                                                                                        ABINGDON TO TAZEWELL TO POUNDING MILL
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ABINGDON TO MARION TO POUNDING MILL
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ABINGDON TO BRISTOL TO POUNDING MILL
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ABINGDON TO LEBANON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ABINGDON TO LEBANON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ABINGDON TO MARION AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ABINGDON TO HILLSVILLE TO POUNDING MILL
+                                                                                        STAFF TRANSPORTATION
+                                                                                        POUNDING MILL TO ROANOKE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NORFOLK TO VIRGINIA BEACH AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHESAPEAKE TO PORTSMOUTH AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

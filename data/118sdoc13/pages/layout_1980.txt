@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                   POSTED                                                  DATES
+DOSS20240623                  BROOKE L GORHAM                                           STAFF TRANSPORTATION                                                          $21.64
+DOSS20240624      05/07/2024  LAURA A PANTOJA                   START       END         ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $15.00
+DOSS20240625      05/07/2024  LAURA A PANTOJA                                           STAFF TRANSPORTATION                                                          $35.04
+DOSS20240626      05/07/2024  CITIBANK - TRAVEL CBA CARD        04/27/2024  04/27/2024  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $610.21
+DOSS20240628      05/15/2024  ALYSE K GURAK                                             STAFF TRANSPORTATION                                                          $23.77
+                  05/13/2024                                    04/24/2024  04/24/2024  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $162.74
+DOSS20240629                  ALYSE K GURAK                                             STAFF TRANSPORTATION                                                        $123.28
+DOSS20240630      05/10/2024  ALYSE K GURAK                     04/27/2024  04/27/2024  AIRFARE FOR S LUCAS WASHINGTON DC TO ATLANTA AND RETURN                     $113.23
+DOSS20240631      05/10/2024  ALYSE K GURAK                                             STAFF PER DIEM                                                                $15.00
+                  05/13/2024                                    04/25/2024  04/26/2024  STAFF TRANSPORTATION                                                        $138.69
+DOSS20240632                  ALYSE K GURAK                                             COLUMBUS TO ATLANTA AND RETURN                                              $127.30
+DOSS20240633      05/10/2024  ALYSE K GURAK                     04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                        $120.60
+DOSS20240634      05/10/2024  ALYSE K GURAK                                             COLUMBUS TO VIENNA AND RETURN                                                 $20.48
+                  05/14/2024                                    04/10/2024  04/10/2024  STAFF TRANSPORTATION                                                        $134.00
+DOSS20240635                  ALYSE K GURAK                     04/12/2024  04/12/2024  COLUMBUS TO WARNER ROBINS AND RETURN                                        $127.30
+DOSS20240636      05/14/2024  ALYSE K GURAK                     04/16/2024  04/16/2024  STAFF PER DIEM                                                              $150.75
+DOSS20240637      05/14/2024  ALYSE K GURAK                                             STAFF TRANSPORTATION                                                        $147.40
+DOSS20240638      05/14/2024  CITIBANK - TRAVEL CBA CARD        04/17/2024  04/17/2024  COLUMBUS TO WARNER ROBINS AND RETURN                                          $41.50  B-1943
+DOSS20240639      05/07/2024  CITIBANK - TRAVEL CBA CARD        04/19/2024  04/19/2024  STAFF TRANSPORTATION                                                        $320.19
+DOSS20240640      05/14/2024  CITIBANK - TRAVEL CBA CARD        04/22/2024  04/22/2024  COLUMBUS TO MACON AND RETURN                                                $423.70
+                  05/14/2024                                                            STAFF TRANSPORTATION
+DOSS20240641                  CHANDRA R HARRIS                  04/23/2024  04/23/2024  COLUMBUS TO MACON AND RETURN                                                $100.50
+DOSS20240642      05/14/2024  TERESA M DUKES                    04/24/2024  04/24/2024  STAFF PER DIEM                                                                $68.34
+DOSS20240643      05/09/2024  TERESA M DUKES                    04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                          $40.20
+DOSS20240644      05/14/2024  CITIBANK - SENATOR IBA CARD       04/24/2024  04/24/2024  COLUMBUS TO MACON AND RETURN
+DOSS20240645      05/15/2024  NICHOLAS GEORGE SAVAS             04/26/2024  04/27/2024  STAFF TRANSPORTATION                                                        $160.10
+                  05/14/2024                                    04/22/2024  04/27/2024  COLUMBUS TO MACON AND RETURN                                                  $26.30
+DOSS20240646                  NICHOLAS GEORGE SAVAS                                     STAFF TRANSPORTATION
+                  05/14/2024                                    04/22/2024  04/22/2024  COLUMBUS TO SYLVESTER AND RETURN                                            $104.52
+                                                                04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                          $25.75
+                                                                04/30/2024  04/30/2024  COLUMBUS TO MACON, JACKSON AND RETURN
+                                                                04/30/2024  04/30/2024  TICKET FEES                                                                 $121.94
+                                                                04/25/2024  04/25/2024  STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR C GONZALEZ WASHINGTON DC TO ATLANTA AND RETURN
+                                                                05/01/2024  05/01/2024  STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR D LOPEZ WASHINGTON DC TO SAVANNAH, ATLANTA AND
+                                                                                        RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ATLANTA TO MACON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CONYERS TO AUSTELL AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CONYERS TO LITHONIA AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN OSSOFF ATLANTA TO WASHINGTON DC
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SAVANNAH TO GLYNCO AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+

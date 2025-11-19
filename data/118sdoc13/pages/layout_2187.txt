@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION              AMOUNT ($)
+                  POSTED                                               DATES
+DROU20240779                                                                        AIRFARE FOR L HEITKAMP WASHINGTON DC TO SIOUX FALLS                                      $30.00
+DROU20240780                                                START       END         TICKET FEES                                                                              $14.14
+                                                                                    STAFF INCIDENTALS                                                                      $195.75
+DROU20240781      07/05/2024  CITIBANK - TRAVEL CBA CARD    06/20/2024  06/20/2024  STAFF PER DIEM                                                                         $270.68
+DROU20240782      07/05/2024  ADAM L KAEMINGK               06/25/2024  06/26/2024  STAFF TRANSPORTATION                                                                     $20.10
+DROU20240786                                                                        RAPID CITY TO PIERRE AND RETURN                                                     $5,865.70
+DROU20240788      07/05/2024  REBECCA JO HERMAN             06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                                   $153.43
+                  07/08/2024  CAPITAL CITY AIR CARRIER INC  06/20/2024  06/20/2024  RUTLAND TO FLANDREAU AND RETURN                                                          $12.48
+DROU20240791      07/08/2024  GRALING PETE CARMICHAEL       06/26/2024  06/26/2024  SENATOR TRANSPORTATION                                                                 $151.71
+DROU20240793      07/10/2024  LORRAINE POLAK                06/26/2024  06/27/2024  AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN                            $309.54
+                                                                                    STAFF TRANSPORTATION                                                                   $305.52
+DROU20240794      07/09/2024  LUCAS W HEITKAMP              06/03/2024  06/21/2024  RAPID CITY TO PINE RIDGE AND RETURN                                                    $780.55
+DROU20240795      07/15/2024  ADAM L KAEMINGK               04/25/2024  06/28/2024  STAFF INCIDENTALS
+DROU20240796                                                                        STAFF PER DIEM                                                                           $93.80
+DROU20240797      07/10/2024  JORDYN L MCPHERSON            06/28/2024  06/28/2024  STAFF TRANSPORTATION                                                                     $56.95  B-2150
+DROU20240798      07/10/2024  JAMES STEVEN SELCHERT         06/19/2024  06/19/2024  PIERRE TO SIOUX FALLS AND RETURN                                                         $56.95
+DROU20240804      07/10/2024  JAMES STEVEN SELCHERT         06/20/2024  06/20/2024  STAFF TRANSPORTATION                                                                     $56.95
+DROU20240805      07/10/2024  JAMES STEVEN SELCHERT         06/21/2024  06/21/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $263.98
+DROU20240806      07/11/2024  JAMES STEVEN SELCHERT         06/26/2024  06/27/2024  STAFF TRANSPORTATION                                                                     $34.17
+DROU20240807      07/15/2024  CHAD P KRIER                  06/01/2024  06/30/2024  RAPID CITY TO THE FOLLOWING AND RETURN: 4/25, 5/21 SPEARFISH; 5/10, 6                    $30.00
+DROU20240808      07/16/2024  CITIBANK - TRAVEL CBA CARD    07/03/2024  07/03/2024  /18 LEAD; 6/5 DEADWOOD; 6/6 BELLE FOURCHE; 6/7 ELLSWORTH AFB; 6/13                     $276.60
+                  07/15/2024  CITIBANK - TRAVEL CBA CARD    07/07/2024  07/07/2024  HOT SPRINGS; 6/28 MARTIN                                                            $1,052.69
+DROU20240809      07/18/2024  ARDEN GRACE KOENECKE          06/27/2024  07/08/2024  STAFF TRANSPORTATION
+                                                                                    RAPID CITY TO HOT SPRINGS AND RETURN                                                     $59.60
+DROU20240810      07/18/2024  KEITH OWEN MOORE              06/25/2024  06/27/2024  STAFF TRANSPORTATION                                                                   $451.13
+DROU20240811                                                                        RAPID CITY TO DEADWOOD AND RETURN                                                      $484.41
+                  07/19/2024  JENNIFER ANN HIEB             06/12/2024  06/12/2024  STAFF TRANSPORTATION
+                                                                                    RAPID CITY TO DEADWOOD AND RETURN                                                         $4.00
+                  07/17/2024  JENNIFER ANN HIEB             06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                                   $119.26
+                  07/19/2024  JENNIFER ANN HIEB             06/26/2024  06/26/2024  RAPID CITY TO DEADWOOD AND RETURN
+                                                                                    STAFF TRANSPORTATION                                                                     $41.54
+                                                                                    RAPID CITY TO PIERRE AND RETURN                                                        $134.00
+                                                                                    STAFF TRANSPORTATION
+                                                                                    SIOUX FALLS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                    TICKET FEES
+                                                                                    STAFF TRANSPORTATION
+                                                                                    AIRFARE FOR L HEITKAMP SIOUX FALLS TO WASHINGTON DC
+                                                                                    STAFF TRANSPORTATION
+                                                                                    WASHINGTON DC TO RAPID CITY, PIERRE, EDEN PRAIRIE MN, MINNEAPOLIS
+                                                                                    MN AND RETURN
+                                                                                    STAFF INCIDENTALS
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    SIOUX FALLS TO RAPID CITY, BOX ELDER AND RETURN
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    ABERDEEN TO MILLER AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    ABERDEEN TO IPSWICH AND RETURN
+                                                                                    STAFF TRANSPORTATION
+

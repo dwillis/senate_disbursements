@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+              POSTED                                             DATES
+                                                                              STAFF TRANSPORTATION                                                         $498.53
+                                                      START       END         WASHINGTON DC TO BURLINGTON, STOWE, BURLINGTON AND RETURN                      $30.00
+                                                                              TICKET FEES
+DWEL20240575  08/30/2024  CITIBANK - TRAVEL CBA CARD  08/02/2024  08/02/2024  STAFF TRANSPORTATION                                                         $586.19
+DWEL20240576  09/04/2024  CITIBANK - TRAVEL CBA CARD  08/06/2024  08/11/2024  AIRFARE FOR L WAGNER OVESON WASHINGTON DC TO BURLINGTON AND
+                                                                              RETURN                                                                         $30.00
+DWEL20240577  08/30/2024  CITIBANK - TRAVEL CBA CARD  08/02/2024  08/02/2024  TICKET FEES                                                                  $680.20
+DWEL20240578  09/13/2024  CITIBANK - TRAVEL CBA CARD  08/05/2024  08/31/2024  STAFF TRANSPORTATION
+DWEL20240579  09/10/2024  FAUNA S HURLEY              08/05/2024  08/05/2024  AIRFARE FOR A WHITE WASHINGTON DC TO ALBANY NY AND RETURN                      $12.73
+DWEL20240580  09/10/2024  AMY M LEE                   08/15/2024  08/15/2024  STAFF TRANSPORTATION                                                           $92.46
+DWEL20240581  09/11/2024  FAUNA S HURLEY              08/15/2024  08/15/2024  BURLINGTON TO ESSEX JUNCTION AND RETURN                                        $20.98
+                                                                              STAFF TRANSPORTATION                                                         $109.88
+DWEL20240582  09/10/2024  JAMES BENSON MCNERNEY       08/21/2024  08/21/2024  MONTPELIER TO PLYMOUTH AND RETURN                                              $60.56
+DWEL20240583  09/26/2024  ALEXANDRA S GOLDEN          07/16/2024  07/19/2024  STAFF PER DIEM                                                               $143.07
+                                                                              STAFF TRANSPORTATION                                                      $1,433.08
+DWEL20240584  09/26/2024  JOHN R FERGUSON             08/14/2024  08/19/2024  BURLINGTON TO ROCHESTER AND RETURN                                           $284.36   B-2626
+                                                                              STAFF TRANSPORTATION                                                         $101.81
+DWEL20240590  09/16/2024  AMY M LEE                   07/30/2024  07/30/2024  BURLINGTON TO BARRE AND RETURN                                            $1,132.16
+                                                                              STAFF INCIDENTALS                                                            $863.17
+DWEL20240591  09/12/2024  MICHELLE M MONROE           08/07/2024  08/07/2024  STAFF PER DIEM                                                                 $11.00
+DWEL20240592  09/12/2024  MICHELLE M MONROE           08/16/2024  08/16/2024  STAFF TRANSPORTATION                                                           $99.96
+DWEL20240593  09/14/2024  MICHELLE M MONROE           08/21/2024  08/21/2024  WASHINGTON DC TO BURLINGTON, BETHEL, BURLINGTON AND RETURN
+                                                                              STAFF INCIDENTALS                                                               $8.97
+DWEL20240594  09/12/2024  JAMES BENSON MCNERNEY       08/22/2024  08/22/2024  STAFF PER DIEM                                                                 $14.74
+DWEL20240595  09/12/2024  JAMES BENSON MCNERNEY       08/23/2024  08/23/2024  STAFF TRANSPORTATION                                                           $12.66
+DWEL20240596  09/14/2024  JAMES BENSON MCNERNEY       08/29/2024  08/29/2024  WASHINGTON DC TO BURLINGTON AND RETURN                                       $109.88
+DWEL20240598  09/12/2024  MICHELLE M MONROE           08/28/2024  08/28/2024  STAFF PER DIEM                                                                 $34.50
+DWEL20240601  09/18/2024  MICHELLE M MONROE           08/06/2024  08/06/2024  STAFF TRANSPORTATION                                                           $65.19
+DWEL20240604  09/18/2024  MILES S MCGURIMAN           07/17/2024  07/17/2024  MONTPELIER TO RUTLAND AND RETURN                                             $174.20
+DWEL20240605  09/18/2024  MILES S MCGURIMAN           07/26/2024  07/26/2024  STAFF TRANSPORTATION
+                                                                              BURLINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $8.71
+                                                                              STAFF TRANSPORTATION                                                         $115.91
+                                                                              SAINT ALBANS TO FAIRFIELD AND RETURN
+                                                                              STAFF PER DIEM                                                                 $39.26
+                                                                              STAFF TRANSPORTATION                                                           $51.99
+                                                                              BURLINGTON TO RUTLAND TO SAINT ALBANS
+                                                                              STAFF TRANSPORTATION
+                                                                              COLCHESTER TO VERGENNES TO BURLINGTON
+                                                                              STAFF TRANSPORTATION
+                                                                              COLCHESTER TO WOLCOTT AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              COLCHESTER TO BENNINGTON AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              BURLINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              SAINT ALBANS TO RANDOLPH AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              BURLINGTON TO SAINT ALBANS AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              BURLINGTON TO MONTPELIER AND RETURN
+

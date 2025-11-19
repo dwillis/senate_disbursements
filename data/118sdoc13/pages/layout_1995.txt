@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                   POSTED                                                  DATES
+DOSS20240998                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                         $320.19
+DOSS20240999      08/28/2024  CITIBANK - TRAVEL CBA CARD        START       END         TICKET FEES                                                                    $40.00
+DOSS20241000                  CITIBANK - TRAVEL CBA CARD                                AIRFARE FOR S KENDRICK WASHINGTON DC TO ATLANTA AND RETURN
+DOSS20241006      08/28/2024  KENYA CASSANDRA GARCIA            08/13/2024  08/14/2024  STAFF TRANSPORTATION                                                         $465.20
+DOSS20241007                  TERESA M DUKES                                            TICKET FEES                                                                    $40.00
+DOSS20241008      08/29/2024  REYNALDO BENITEZ                  08/12/2024  08/14/2024  AIRFARE FOR S LUCAS WASHINGTON DC TO ATLANTA AND RETURN
+                  08/29/2024                                                            STAFF TRANSPORTATION                                                         $465.20
+                                                                08/04/2024  08/07/2024  AIRFARE FOR S LUCAS WASHINGTON DC TO ATLANTA AND RETURN
+                  08/30/2024                                    08/11/2024  08/12/2024  STAFF TICKET FEES                                                              $40.00
+                  09/10/2024                                                            STAFF TRANSPORTATION                                                         $610.21
+                                                                08/08/2024  08/08/2024  WASHINGTON DC TO ATLANTA AND RETURN
+                                                                07/15/2024  07/21/2024  STAFF TRANSPORTATION                                                           $41.54
+                                                                                        CONYERS TO ATLANTA AND RETURN
+DOSS20241009      09/09/2024  REYNALDO BENITEZ                  08/05/2024  08/07/2024  STAFF INCIDENTALS                                                            $123.11
+                                                                                        STAFF PER DIEM                                                               $963.94
+DOSS20241012      09/09/2024  CITIBANK - TRAVEL CBA CARD        08/15/2024  08/19/2024  STAFF TICKET FEES                                                                      B-1958
+DOSS20241013      09/09/2024  CITIBANK - TRAVEL CBA CARD        08/22/2024  08/26/2024  STAFF TRANSPORTATION                                                           $40.00
+DOSS20241014      09/09/2024  CITIBANK - TRAVEL CBA CARD        08/22/2024  08/23/2024  ALEXANDRIA VA TO WASHINGTON DC, ATLANTA, SAVANNAH, AUGUSTA,               $1,326.78
+                                                                                        SAVANNAH, COLLEGE PARK, ATLANTA AND RETURN
+DOSS20241015      09/09/2024  CITIBANK - TRAVEL CBA CARD        08/09/2024  08/09/2024  STAFF INCIDENTALS                                                              $66.09
+DOSS20241016      09/06/2024  CITIBANK - TRAVEL CBA CARD        08/22/2024  08/22/2024  STAFF PER DIEM                                                               $484.71
+DOSS20241024      09/09/2024  CITIBANK - TRAVEL CBA CARD        08/22/2024  08/22/2024  STAFF TICKET FEES
+DOSS20241026      09/09/2024  CITIBANK - TRAVEL CBA CARD        08/20/2024  08/20/2024  STAFF TRANSPORTATION                                                           $40.00
+DOSS20241027      09/09/2024  STEVEN J KENDRICK                 08/13/2024  08/14/2024  ALEXANDRIA VA TO WASHINGTON DC, ATLANTA, ATHENS, ATLANTA TO                  $779.00
+                                                                                        WASHINGTON DC
+DOSS20241028      09/10/2024  CITIBANK - TRAVEL CBA CARD        08/26/2024  08/28/2024  TICKET FEES                                                                  $160.00
+                                                                                        STAFF TRANSPORTATION                                                         $465.20
+DOSS20241029      09/10/2024  CITIBANK - TRAVEL CBA CARD        08/26/2024  08/28/2024  AIRFARE FOR A CULLEN WASHINGTON DC TO ATLANTA AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                         $320.19
+DOSS20241030      09/10/2024  CITIBANK - TRAVEL CBA CARD        08/25/2024  08/25/2024  AIRFARE FOR A QUINONES SCHOENE WASHINGTON DC TO ATLANTA AND
+                                                                                        RETURN                                                                         $40.00
+                                                                                        TICKET FEES                                                                  $160.10
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR O BRIER WASHINGTON DC TO ATLANTA                                 $147.10
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR O BRIER ATLANTA TO NEW YORK NY                                     $40.00
+                                                                                        TICKET FEES                                                                    $34.24
+                                                                                        STAFF INCIDENTALS                                                            $196.97
+                                                                                        STAFF PER DIEM
+                                                                                        WASHINGTON DC TO ATLANTA AND RETURN                                          $465.20
+                                                                                        STAFF TRANSPORTATION                                                           $40.00
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR S EISEMANN WASHINGTON DC TO ATLANTA AND RETURN                   $465.20
+                                                                                        STAFF TRANSPORTATION                                                           $40.00
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR A QUINONES SCHOENE WASHINGTON DC TO ATLANTA AND                  $305.10
+                                                                                        RETURN                                                                         $40.00
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TICKET FEES
+                                                                                        AIRFARE FOR O BRIER WASHINGTON DC TO ATLANTA
+

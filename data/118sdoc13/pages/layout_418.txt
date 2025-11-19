@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+              POSTED                                             DATES
+                                                                              STAFF PER DIEM                                                                   $655.11
+                                                      START       END         STAFF TRANSPORTATION                                                               $50.53
+                                                                              WASHINGTON DC TO AUSTIN TX, ROUND ROCK TX, AUSTIN TX AND RETURN
+DSAA24M53627  09/10/2024  ANDRES ROBERT AQUINO        08/03/2024  08/07/2024  STAFF INCIDENTALS                                                                  $92.60
+                                                                              STAFF PER DIEM                                                                   $876.61
+DSAA24M53628  08/22/2024  CHRISTOPHER MICHAEL KAEMKE  08/04/2024  08/09/2024  STAFF TRANSPORTATION                                                             $683.58
+                                                                              HUNTERSVILLE TO WASHINGTON DC AND RETURN
+DSAA24M53629  09/12/2024  NELSON J ALVAREZ            08/04/2024  08/06/2024  STAFF INCIDENTALS                                                                $147.24
+                                                                              STAFF PER DIEM                                                                   $982.00
+DSAA24M53650  08/27/2024  DAVID C ALANIZ              08/07/2024  08/09/2024  STAFF TRANSPORTATION                                                             $750.06
+                                                                              ALEXANDRIA TO WASHINGTON DC, MEMPHIS TN, WASHINGTON DC AND
+DSAA24M53663  08/26/2024  CITIBANK - TRAVEL CBA CARD  06/27/2024  06/27/2024  RETURN                                                                             $56.14  B-400
+DSAA24M53664  08/26/2024  CITIBANK - TRAVEL CBA CARD  07/29/2024  08/02/2024  STAFF INCIDENTALS                                                                $512.14
+DSAA24M53665                                                                  STAFF PER DIEM
+DSAA24M53666  08/26/2024  CITIBANK - TRAVEL CBA CARD  06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                               $88.90
+DSAA24M53667  08/27/2024  CITIBANK - TRAVEL CBA CARD  06/30/2024  07/01/2024  OWENS CROSS ROADS TO WASHINGTON DC AND RETURN
+DSAA24M53668                                                                  STAFF INCIDENTALS                                                                  $11.77
+DSAA24M53669  08/26/2024  CITIBANK - TRAVEL CBA CARD  07/05/2024  07/05/2024  STAFF PER DIEM                                                                   $320.70
+DSAA24M53670  08/28/2024  CITIBANK - TRAVEL CBA CARD  07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                             $341.56
+DSAA24M53671                                                                  CROSS JUNCTION TO SLIPPERY ROCK PA, MERCER PA AND RETURN
+DSAA24M53672  08/26/2024  CITIBANK - TRAVEL CBA CARD  07/05/2024  07/05/2024  TICKET FEES                                                                        $30.00
+              08/28/2024  CITIBANK - TRAVEL CBA CARD  07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                             $443.20
+DSAA24M53673                                                                  AIRFARE FOR M KUHL WASHINGTON DC TO AUSTIN TX AND RETURN
+DSAA24M53674  08/27/2024  CITIBANK - TRAVEL CBA CARD  07/08/2024  07/08/2024  TICKET FEES                                                                        $30.00
+              08/28/2024  CITIBANK - TRAVEL CBA CARD  07/12/2024  07/19/2024  STAFF TRANSPORTATION                                                             $302.20
+DSAA24M53675                                                                  AIRFARE FOR R HARRY WASHINGTON DC TO MILWAUKEE WI AND RETURN
+DSAA24M53676  08/27/2024  CITIBANK - TRAVEL CBA CARD  07/08/2024  07/08/2024  TICKET FEES                                                                        $30.00
+              08/28/2024  CITIBANK - TRAVEL CBA CARD  07/11/2024  07/20/2024  STAFF TRANSPORTATION                                                             $206.61
+DSAA24M53677                                                                  AIRFARE FOR K BAKER WASHINGTON DC TO SOUTH BEND IN
+DSAA24M53678  08/27/2024  CITIBANK - TRAVEL CBA CARD  07/08/2024  07/08/2024  TICKET FEES                                                                        $30.00
+DSAA24M53679  08/28/2024  CITIBANK - TRAVEL CBA CARD  07/12/2024  07/19/2024  STAFF TRANSPORTATION                                                             $206.61
+DSAA24M53681                                                                  AIRFARE FOR T WILSON WASHINGTON DC TO SOUTH BEND IN
+              08/27/2024  CITIBANK - TRAVEL CBA CARD  07/08/2024  07/08/2024  TICKET FEES                                                                        $30.00
+              08/28/2024  CITIBANK - TRAVEL CBA CARD  07/12/2024  07/19/2024  STAFF TRANSPORTATION                                                          $1,003.71
+                                                                              AIRFARE FOR J BURROWES WASHINGTON DC TO MILWAUKEE WI AND
+              08/27/2024  CITIBANK - TRAVEL CBA CARD  07/08/2024  07/08/2024  RETURN                                                                             $30.00
+              08/28/2024  CITIBANK - TRAVEL CBA CARD  07/12/2024  07/19/2024  TICKET FEES                                                                      $595.20
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR R STEWART WASHINGTON DC TO MILWAUKEE WI AND                            $40.00
+                                                                              RETURN                                                                           $888.20
+                                                                              TICKET FEES
+                                                                              STAFF TRANSPORTATION                                                               $40.00
+                                                                              AIRFARE FOR W COLMORE WASHINGTON DC TO MILWAUKEE WI AND                          $792.71
+                                                                              RETURN
+                                                                              TICKET FEES                                                                        $40.00
+                                                                              STAFF TRANSPORTATION                                                             $792.71
+                                                                              AIRFARE FOR A SMITH WASHINGTON DC TO MILWAUKEE WI AND RETURN
+                                                                              TICKET FEES
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR R BOCIANOSKI WASHINGTON DC TO MILWAUKEE WI AND
+                                                                              RETURN
+

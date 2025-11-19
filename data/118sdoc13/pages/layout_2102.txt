@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                      OBLIGATION/SERVICE                                                    DESCRIPTION            AMOUNT ($)
+                  POSTED                                                 DATES
+DRCK20240363                                                                          LINCOLN TO OMAHA AND RETURN                                                          $128.64
+DRCK20240364                                                  START       END         STAFF TRANSPORTATION                                                                 $153.63
+DRCK20240365                                                                          LINCOLN TO HEBRON AND RETURN                                                         $312.22
+DRCK20240366      05/20/2024  TIMOTHY EDWARD SCHROEDER        05/01/2024  05/01/2024  STAFF TRANSPORTATION                                                                 $220.28
+DRCK20240367      05/20/2024  ERIC T MAHER                    04/30/2024  04/30/2024  OMAHA TO FULLERTON AND RETURN                                                        $124.84
+DRCK20240368      05/20/2024  CASSANDRA A NICHOLS             04/28/2024  04/30/2024  STAFF TRANSPORTATION                                                                 $421.23
+DRCK20240370      05/24/2024  AMELIA J BREINIG                04/25/2024  04/29/2024  SCOTTSBLUFF TO AURORA CO AND RETURN                                                  $456.27
+                  05/20/2024  MATTHEW S. MILTENBERGER         04/15/2024  04/19/2024  STAFF TRANSPORTATION
+DRCK20240372      05/21/2024  JOANNA M RODRIGUEZ              04/03/2024  04/06/2024  WASHINGTON DC TO OMAHA AND RETURN                                                    $590.98
+DRCK20240373      05/20/2024  SARAH CHRISTINE CATHCART-MILLS  03/27/2024  04/30/2024  STAFF TRANSPORTATION                                                                 $434.61
+DRCK20240374                                                                          GRETNA TO WASHINGTON DC AND RETURN                                                   $191.10
+DRCK20240375      05/24/2024  CITIBANK - TRAVEL CBA CARD      05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                                 $103.10   B-2065
+DRCK20240376      05/23/2024  CITIBANK - TRAVEL CBA CARD      04/20/2024  04/20/2024  WASHINGTON DC TO NEW YORK NY AND RETURN                                              $103.10
+DRCK20240377      05/23/2024  CITIBANK - TRAVEL CBA CARD      04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                                 $103.10
+DRCK20240378      05/23/2024  CITIBANK - TRAVEL CBA CARD      04/24/2024  04/24/2024  KEARNEY TO THE FOLLOWING AND RETURN: 3/27, 4/4 HASTINGS; 3/28                        $103.10
+DRCK20240379      05/23/2024  CITIBANK - TRAVEL CBA CARD      04/30/2024  04/30/2024  NORTH PLATTE; 4/30 BURWELL                                                           $191.10
+DRCK20240381      05/24/2024  CITIBANK - TRAVEL CBA CARD      05/10/2024  05/10/2024  SENATOR TRANSPORTATION                                                               $382.20
+DRCK20240382      05/24/2024  CITIBANK - TRAVEL CBA CARD      05/07/2024  05/07/2024  AIRFARE FOR SEN RICKETTS WASHINGTON DC TO OMAHA                                      $694.08
+DRCK20240383      05/24/2024  CITIBANK - TRAVEL CBA CARD      05/15/2024  05/15/2024  SENATOR TRANSPORTATION                                                               $623.10
+                  05/23/2024  CITIBANK - TRAVEL CBA CARD      04/15/2024  04/19/2024  AIRFARE FOR SEN RICKETTS WASHINGTON DC TO OMAHA
+DRCK20240384      06/17/2024  CITIBANK - TRAVEL CBA CARD      04/30/2024  05/09/2024  SENATOR TRANSPORTATION                                                                 $40.00
+                  06/07/2024  BRADLEY JAMES STEVENS           04/11/2024  05/07/2024  AIRFARE FOR SEN RICKETTS OMAHA TO WASHINGTON DC                                   $1,055.13
+DRCK20240385                                                                          SENATOR TRANSPORTATION
+                  05/28/2024  IAN MICHAEL SWANSON             03/26/2024  04/02/2024  AIRFARE FOR SEN RICKETTS WASHINGTON DC TO OMAHA                                      $622.43
+DRCK20240386                                                                          SENATOR TRANSPORTATION
+                  06/05/2024  DEBORAH J BORG                  05/06/2024  05/10/2024  AIRFARE FOR SEN RICKETTS OMAHA TO WASHINGTON DC                                        $85.86
+DRCK20240387      05/29/2024  ASHLYNNE N BENINGA              05/09/2024  05/12/2024  SENATOR TRANSPORTATION                                                               $890.81
+                  05/28/2024  BRADLEY JAMES STEVENS           05/09/2024  05/14/2024  AIRFARE FOR SEN RICKETTS WASHINGTON DC TO OMAHA                                      $305.52
+                                                                                      SENATOR TRANSPORTATION
+                                                                                      AIRFARE FOR SEN RICKETTS OMAHA TO WASHINGTON DC
+                                                                                      SENATOR TRANSPORTATION
+                                                                                      AIRFARE FOR SEN RICKETTS OMAHA TO WASHINGTON DC
+                                                                                      STAFF TRANSPORTATION
+                                                                                      AIRFARE FOR M MILTENBERGER OMAHA TO WASHINGTON DC AND RETURN
+                                                                                      STAFF TRANSPORTATION
+                                                                                      AIRFARE FOR M MILTENBERGER OMAHA TO WASHINGTON DC AND RETURN
+                                                                                      STAFF TRANSPORTATION
+                                                                                      LINCOLN TO THE FOLLOWING AND RETURN: 4/11 NEBRASKA CITY; 4/17
+                                                                                      CRAB ORCHARD; 4/19, 5/6, 7 OMAHA; 5/2 OMAHA, YORK, KEARNEY
+                                                                                      STAFF TICKET FEES
+                                                                                      STAFF TRANSPORTATION
+                                                                                      CHEVERLY MD TO WASHINGTON DC, OMAHA, SIOUX CITY IA, NORFOLK,
+                                                                                      OMAHA, SIOUX CITY IA, OMAHA TO WASHINGTON DC
+                                                                                      STAFF TRANSPORTATION
+                                                                                      ALLEN TO THE FOLLOWING AND RETURN: 5/6, 7 LINCOLN; 5/9 AINSWORTH; 5
+                                                                                      /10 OMAHA
+                                                                                      STAFF TICKET FEES
+                                                                                      STAFF TRANSPORTATION
+                                                                                      WASHINGTON DC TO OMAHA AND RETURN
+                                                                                      STAFF TRANSPORTATION
+

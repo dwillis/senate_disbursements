@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DMCN20241099                  LYNNELL FIELDS                                            STAFF TRANSPORTATION                                                               $32.88
+DMCN20241100      09/12/2024  CITIBANK - TRAVEL CBA CARD        START       END         LONDON TO BARBOURVILLE AND RETURN                                                $496.95
+DMCN20241101      09/13/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                             $423.95
+DMCN20241102      09/13/2024  CITIBANK - TRAVEL CBA CARD        08/27/2024  08/27/2024  AIRFARE FOR W CLARK WASHINGTON DC TO LOUISVILLE AND RETURN                       $417.97
+DMCN20241103      09/12/2024  SCOTT G DUFF                                              STAFF TRANSPORTATION                                                             $156.28
+                  09/24/2024                                    08/19/2024  08/25/2024  AIRFARE FOR A FISHER WASHINGTON DC TO LOUISVILLE AND RETURN                      $995.98
+                                                                                        STAFF TRANSPORTATION                                                          $1,264.40
+                                                                08/18/2024  08/24/2024  AIRFARE FOR L REUSS LEXINGTON TO WASHINGTON DC
+                                                                                        STAFF INCIDENTALS                                                             $4,593.00
+                                                                08/20/2024  08/20/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION                                                               $40.61
+                                                                08/14/2024  08/20/2024  WASHINGTON DC TO PADUCAH, LOUISVILLE, LEXINGTON, LOUISVILLE AND                  $108.73
+                                                                                        RETURN
+DMCN20241104      09/16/2024  K S AIR INC                       08/27/2024  08/27/2024  SENATOR TRANSPORTATION                                                             $27.51  B-1771
+                                                                                        AIRFARE FOR SEN MCCONNELL LOUISVILLE TO CLARKSVILLE TN, FORT                  $3,943.00
+DMCN20241107      09/12/2024  STEPHANIE H NELSON                08/29/2024  08/29/2024  CAMPBELL, HOPKINSVILLE AND RETURN
+DMCN20241108      09/16/2024  STEPHANIE H NELSON                08/30/2024  08/30/2024  STAFF TRANSPORTATION                                                               $52.40
+DMCN20241109      09/12/2024  HALEY E TIPTON                    08/28/2024  08/28/2024  LEXINGTON TO RICHMOND AND RETURN                                                   $52.40
+DMCN20241110      09/17/2024  K S AIR INC                       08/29/2024  08/29/2024  STAFF TRANSPORTATION                                                               $45.85
+                                                                                        LEXINGTON TO FRENCHBURG AND RETURN                                                 $57.64
+DMCN20241111      09/12/2024  JOSIE A HAMMON                    07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                               $56.33
+DMCN20241112      09/12/2024  JOSIE A HAMMON                    07/12/2024  07/12/2024  LEXINGTON TO GEORGETOWN AND RETURN                                                 $57.64
+DMCN20241113      09/12/2024  JOSIE A HAMMON                    07/16/2024  07/16/2024  SENATOR TRANSPORTATION                                                             $56.33
+DMCN20241114      09/12/2024  JOSIE A HAMMON                    07/17/2024  07/17/2024  AIRFARE FOR SEN MCCONNELL LOUISVILLE TO OWENSBORO, CADIZ AND                       $52.40
+DMCN20241115      09/12/2024  JOSIE A HAMMON                    07/18/2024  07/18/2024  RETURN                                                                             $57.64
+DMCN20241116      09/12/2024  JOSIE A HAMMON                    07/19/2024  07/19/2024  STAFF TRANSPORTATION                                                               $45.85
+DMCN20241117      09/12/2024  JOSIE A HAMMON                    07/23/2024  07/23/2024  LOUISVILLE TO FORT KNOX AND RETURN                                                 $72.05
+DMCN20241118      09/12/2024  JOSIE A HAMMON                    07/24/2024  07/24/2024  STAFF TRANSPORTATION                                                               $90.39
+DMCN20241119      09/12/2024  JOSIE A HAMMON                    07/30/2024  07/30/2024  LOUISVILLE TO FORT KNOX AND RETURN                                                 $26.20
+DMCN20241120      09/12/2024  JOSIE A HAMMON                    07/31/2024  07/31/2024  STAFF TRANSPORTATION
+DMCN20241121      09/12/2024  JOSIE A HAMMON                    08/01/2024  08/01/2024  LOUISVILLE TO SHELBYVILLE AND RETURN
+DMCN20241122      09/12/2024  JOSIE A HAMMON                    08/06/2024  08/06/2024  STAFF TRANSPORTATION
+DMCN20241123      09/12/2024  JOSIE A HAMMON                    08/13/2024  08/13/2024  LOUISVILLE TO ELIZABETHTOWN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LOUISVILLE TO BRANDENBURG AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LOUISVILLE TO ELIZABETHTOWN IN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LOUISVILLE TO NEW CASTLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LOUISVILLE TO FORT KNOX AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LOUISVILLE TO ELIZABETHTOWN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LOUISVILLE TO SHELBYVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LOUISVILLE TO HODGENVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LOUISVILLE TO HARDINSBURG AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

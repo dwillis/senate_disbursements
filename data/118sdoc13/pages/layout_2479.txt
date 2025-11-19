@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION            AMOUNT ($)
+                  POSTED                                        DATES
+DTIL20240609                                                                 WILMINGTON TO NEW BERN AND RETURN                                                      $28.90
+DTIL20240611                                         START       END         STAFF PER DIEM                                                                       $168.00
+DTIL20240613                                                                 STAFF TRANSPORTATION
+DTIL20240619      05/07/2024  ELIZABETH MAE EDWARDS  04/23/2024  04/23/2024  CHINA GROVE TO RALEIGH AND RETURN                                                      $25.00
+                  05/08/2024  GRAYSON COLE OVERHOLT                          STAFF PER DIEM                                                                       $111.60
+DTIL20240620      05/06/2024  GRAYSON COLE OVERHOLT  04/26/2024  04/26/2024  STAFF TRANSPORTATION
+                  05/13/2024  ROBIN WILSON RAMSEY                            WILMINGTON TO GOLDSBORO AND RETURN                                                      $4.75
+DTIL20240621                                         04/25/2024  04/25/2024  STAFF PER DIEM                                                                          $7.20
+DTIL20240622                                                                 STAFF TRANSPORTATION                                                                 $356.40
+DTIL20240623                                         02/01/2024  02/20/2024  IN AND AROUND WILMINGTON
+                                                                             STAFF TRANSPORTATION                                                                 $357.60
+DTIL20240624      05/13/2024  ROBIN WILSON RAMSEY    02/21/2024  02/29/2024  FAIRVIEW TO THE FOLLOWING AND RETURN: 2/1 ASHEVILLE, CANDLER; 2/2,
+DTIL20240625                                                                 5 ASHEVILLE; 2/8 LENOIR, HUDSON; 2/15 ASHEVILLE, LENOIR, MORGANTON,                    $15.60
+DTIL20240626      05/09/2024  GRAYSON COLE OVERHOLT  04/30/2024  04/30/2024  OLD FORT; 2/16 ASHEVILLE, FLETCHER; 2/20 FLETCHER, ASHEVILLE                         $124.80   B-2442
+DTIL20240627      05/08/2024  GRAYSON COLE OVERHOLT  05/01/2024  05/01/2024  STAFF TRANSPORTATION
+DTIL20240628      05/07/2024  CALEB S MOORE          05/01/2024  05/01/2024  FAIRVIEW TO THE FOLLOWING AND RETURN: 2/21 CONOVER; 2/23, 28                           $11.45
+DTIL20240629                                                                 ASHEVILLE; 2/26 SPRUCE PINE; 2/29 LENOIR, ASHEVILLE; 2/22                              $63.00
+DTIL20240630      05/14/2024  JACOB ALEXANDER BAUM   04/08/2024  04/08/2024  HENDERSONVILLE TO ASHEVILLE, MARION AND RETURN                                         $53.40
+DTIL20240631      05/14/2024  JACOB ALEXANDER BAUM   04/11/2024  04/11/2024  STAFF PER DIEM                                                                       $109.08
+DTIL20240632      05/14/2024  JACOB ALEXANDER BAUM   04/15/2024  04/15/2024  STAFF TRANSPORTATION
+DTIL20240633      05/14/2024  JACOB ALEXANDER BAUM   04/18/2024  04/18/2024  WILMINGTON TO FAYETTEVILLE AND RETURN                                                  $43.35
+DTIL20240634      05/14/2024  JACOB ALEXANDER BAUM   04/23/2024  04/23/2024  STAFF PER DIEM                                                                         $45.75
+DTIL20240635      05/14/2024  JACOB ALEXANDER BAUM   04/24/2024  04/24/2024  STAFF TRANSPORTATION                                                                   $43.35
+                  05/14/2024  STEPHANIE MARIE BLAIR  04/15/2024  04/15/2024  WILMINGTON TO BOLIVIA AND RETURN                                                       $54.20
+                  05/14/2024  STEPHANIE MARIE BLAIR  04/16/2024  04/16/2024  STAFF PER DIEM                                                                         $55.30
+                  05/14/2024  STEPHANIE MARIE BLAIR  04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                                   $43.95
+                  05/14/2024  STEPHANIE MARIE BLAIR  04/18/2024  04/18/2024  ODENTON MD TO BALTIMORE MD, RALEIGH, CHARLOTTE, BALTIMORE MD                           $50.76
+                  05/14/2024  STEPHANIE MARIE BLAIR  04/19/2024  04/19/2024  AND RETURN                                                                             $29.76
+                  05/14/2024  STEPHANIE MARIE BLAIR  04/22/2024  04/22/2024  STAFF TRANSPORTATION                                                                   $44.16
+                                                                             CHARLOTTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $118.56
+                                                                             STAFF TRANSPORTATION                                                                   $83.52
+                                                                             CHARLOTTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $190.86
+                                                                             STAFF TRANSPORTATION
+                                                                             CHARLOTTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                             STAFF TRANSPORTATION
+                                                                             CHARLOTTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                             STAFF TRANSPORTATION
+                                                                             CHARLOTTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                             STAFF TRANSPORTATION
+                                                                             CHARLOTTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                             STAFF TRANSPORTATION
+                                                                             GREENSBORO TO YANCEYVILLE AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             GREENSBORO TO BURLINGTON AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             GREENSBORO TO WINSTON SALEM AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             GREENSBORO TO HIGH POINT, VASS, PINEHURST AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             GREENSBORO TO RESEARCH TRIANGLE PARK AND RETURN
+                                                                             STAFF TRANSPORTATION
+

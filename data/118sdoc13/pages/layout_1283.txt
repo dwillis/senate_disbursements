@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME         OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                    DATES
+DGRL20240687                                                             DENVER TO WATERLOO, SPILLVILLE, ELGIN, FAIRBANK TO WATERLOO                       $68.80
+DGRL20240688                                     START       END         STAFF TRANSPORTATION                                                               $9.16
+                                                                         WATERLOO TO CEDAR FALLS, REINBECK, MARBLE ROCK AND RETURN
+DGRL20240689      09/09/2024  MATTHEW C RECTOR   07/30/2024  07/30/2024  STAFF PER DIEM                                                                    $86.72
+DGRL20240690      09/09/2024  MATTHEW C RECTOR   07/25/2024  07/26/2024  STAFF TRANSPORTATION                                                              $99.16
+DGRL20240691                                                             WATERLOO TO MINNEAPOLIS MN, NEW HARTFORD AND RETURN                               $59.63
+DGRL20240692      09/09/2024  MATTHEW C RECTOR   07/27/2024  07/27/2024  STAFF TRANSPORTATION                                                              $50.92  B-1265
+DGRL20240693      09/09/2024  NOAH A SCHRAD      07/25/2024  07/25/2024  DENVER TO NEW HARTFORD, HUBBARD AND RETURN                                        $53.60
+DGRL20240694      09/09/2024  NOAH A SCHRAD      07/29/2024  07/29/2024  STAFF TRANSPORTATION                                                              $22.11
+DGRL20240695      09/09/2024  NOAH A SCHRAD      07/30/2024  07/30/2024  DES MOINES TO HUXLEY, DES MOINES, BONDURANT TO GRIMES                           $146.06
+DGRL20240696      09/06/2024  NOAH A SCHRAD      08/05/2024  08/05/2024  STAFF TRANSPORTATION                                                              $18.09
+DGRL20240697      09/09/2024  NOAH A SCHRAD      08/06/2024  08/06/2024  DES MOINES TO KNOXVILLE AND RETURN                                                $77.72
+DGRL20240698      08/22/2024  ROCHELLE A FULLER  07/30/2024  07/30/2024  STAFF TRANSPORTATION                                                              $85.76
+DGRL20240699      09/09/2024  RONALD J RANDAZZO  08/06/2024  08/06/2024  GRIMES TO BOONE TO DES MOINES                                                   $107.87
+                  09/09/2024  PENNY VACEK        08/01/2024  08/01/2024  STAFF TRANSPORTATION
+                  09/06/2024  JACOB I BOSSMAN    07/26/2024  07/26/2024  DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $9.60
+                  09/09/2024  JACOB I BOSSMAN    07/30/2024  07/31/2024  STAFF TRANSPORTATION                                                            $121.40
+                                                                         GRIMES TO AMES, LEON TO DES MOINES                                              $267.33
+DGRL20240700      09/09/2024  PENNY VACEK        07/31/2024  07/31/2024  STAFF TRANSPORTATION
+                                                                         SOLON TO HIAWATHA TO CEDAR RAPIDS                                               $192.96
+DGRL20240701      09/06/2024  NOAH A SCHRAD      08/07/2024  08/07/2024  STAFF TRANSPORTATION
+DGRL20240703      09/09/2024  JACOB I BOSSMAN    08/05/2024  08/05/2024  DES MOINES TO GREENFIELD AND RETURN                                               $32.16
+DGRL20240704      09/09/2024  JACOB I BOSSMAN    08/08/2024  08/08/2024  STAFF TRANSPORTATION                                                              $89.78
+DGRL20240705      09/09/2024  MATTHEW C RECTOR   08/06/2024  08/07/2024  OXFORD JUNCTION TO WAPELLO TO DAVENPORT                                           $60.30
+DGRL20240706      08/27/2024  ROCHELLE A FULLER  08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                              $50.40
+                                                                         SIOUX CITY TO SIBLEY AND RETURN
+DGRL20240707      09/09/2024  RONALD J RANDAZZO  08/08/2024  08/08/2024  STAFF INCIDENTALS                                                                  $6.49
+DGRL20240708      09/13/2024  MATTHEW C RECTOR   08/08/2024  08/08/2024  STAFF PER DIEM                                                                  $132.66
+DGRL20240709      09/09/2024  NOAH A SCHRAD      08/07/2024  08/10/2024  STAFF TRANSPORTATION
+                                                                         SIOUX CITY TO SIOUX CENTER, FORT DODGE, ALGONA, WHITTEMORE AND                    $76.38
+                                                                         RETURN                                                                          $103.50
+                                                                         STAFF TRANSPORTATION
+                                                                         OXFORD JUNCTION TO MOUNT PLEASANT, KEOKUK, BURLINGTON AND                         $18.86
+                                                                         RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES TO COLFAX AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         SIOUX CITY TO STORM LAKE AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         SIOUX CITY TO DANBURY AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DENVER TO WATERLOO, ELDORA, COLFAX, ALBION TO WATERLOO
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         SOLON TO MANCHESTER, IOWA CITY, KALONA, WELLMAN AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DES MOINES TO GUTHRIE CENTER AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DENVER TO AMES TO WATERLOO
+                                                                         STAFF PER DIEM
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                  POSTED                                              DATES
+DBLA20241346                                                                       NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $83.81
+DBLA20241347                                               START       END         STAFF TRANSPORTATION                                                               $77.25
+DBLA20241349                                                                       CHATTANOOGA TO DECATUR AND RETURN                                                  $68.74
+DBLA20241351      05/16/2024  TYLER B PRIVETTE             05/01/2024  05/01/2024  STAFF TRANSPORTATION                                                               $62.19
+DBLA20241353      05/15/2024  JAY C STROBINO               04/23/2024  04/23/2024  NASHVILLE TO COLUMBIA AND RETURN                                                   $49.64
+DBLA20241354      05/15/2024  JOHN M CLEMENT               05/01/2024  05/01/2024  STAFF TRANSPORTATION                                                               $44.42
+DBLA20241355      05/15/2024  JAY C STROBINO               05/01/2024  05/01/2024  NASHVILLE TO CLARKSVILLE AND RETURN                                                $35.44
+DBLA20241356      05/15/2024  JAY C STROBINO               04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                               $28.67
+DBLA20241357      05/15/2024  JAY C STROBINO               05/02/2024  05/02/2024  NASHVILLE TO FRANKLIN AND RETURN                                                   $91.98
+                  05/15/2024  JAY C STROBINO               04/24/2024  04/24/2024  STAFF TRANSPORTATION                                                             $754.27
+                  05/15/2024  PABLO A MARTINEZ             05/02/2024  05/02/2024  NASHVILLE TO SPRING HILL AND RETURN                                              $746.70
+                  05/21/2024  COLE THOMAS CARNICK          03/26/2024  04/02/2024  STAFF TRANSPORTATION
+                                                                                   NASHVILLE TO MURFREESBORO AND RETURN                                             $226.92
+DBLA20241358      05/30/2024  NEELY, BLAKEMON L            05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                             $512.21   B-543
+DBLA20241361      05/20/2024  CITIBANK - TRAVEL CBA CARD   04/24/2024  04/28/2024  NASHVILLE TO FRANKLIN, BRENTWOOD AND RETURN
+DBLA20241362                                                                       STAFF TRANSPORTATION                                                               $80.00
+DBLA20241363      05/28/2024  CITIBANK - TRAVEL CBA CARD   04/24/2024  04/28/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $512.21
+DBLA20241374                                                                       STAFF INCIDENTALS
+DBLA20241375      05/21/2024  CITIBANK - TRAVEL CBA CARD   04/30/2024  04/30/2024  STAFF PER DIEM                                                                     $80.00
+DBLA20241376      05/22/2024  CITIBANK - SENATOR IBA CARD  05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                             $107.10
+                  05/22/2024  NEELY, BLAKEMON L            05/09/2024  05/09/2024  ARLINGTON VA TO WASHINGTON DC, NEW YORK NY, BROOKLYN NY, NEW                     $107.10
+DBLA20241377                                                                       YORK TO WASHINGTON DC
+DBLA20241378      05/22/2024  NEELY, BLAKEMON L            05/08/2024  05/08/2024  STAFF TRANSPORTATION                                                               $11.45
+DBLA20241379                                                                       IUKA MS TO LAWRENCEBURG, SHELBYVILLE, FAYETTEVILLE TO NASHVILLE                  $231.28
+DBLA20241380      05/22/2024  CALEB ADDISON HASLETT        05/08/2024  05/08/2024  STAFF TRANSPORTATION
+                                                                                   TICKET FEES                                                                        $11.52
+                  05/22/2024  TYLER B PRIVETTE             05/07/2024  05/07/2024  AIRFARE FOR B BLACKMON WASHINGTON DC TO MEMPHIS AND RETURN                       $175.87
+                  05/22/2024  PABLO A MARTINEZ             05/09/2024  05/09/2024  STAFF TRANSPORTATION
+                  05/22/2024  TYLER B PRIVETTE             05/08/2024  05/08/2024  TICKET FEES                                                                        $20.00
+                                                                                   AIRFARE FOR I PIGG WASHINGTON DC TO MEMPHIS AND RETURN                           $103.18
+                                                                                   STAFF TRANSPORTATION
+                                                                                   AIRFARE FOR J STROBINO WASHINGTON DC TO NASHVILLE                                  $79.46
+                                                                                   SENATOR TRANSPORTATION                                                             $54.94
+                                                                                   AIRFARE FOR SEN BLACKBURN NASHVILLE TO WASHINGTON DC                               $52.99
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   IUKA MS TO TULLAHOMA AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   IUKA MS TO PULASKI, HOHENWALD, WAYNESBORO, SAVANNAH AND
+                                                                                   RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   NASHVILLE TO COOKEVILLE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   CHATTANOOGA TO PIKEVILLE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF TRANSPORTATION
+                                                                                   CHATTANOOGA TO SOUTH PITTSBURG AND RETURN
+

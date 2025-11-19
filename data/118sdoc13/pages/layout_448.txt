@@ -1,0 +1,62 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME    OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                             DATES
+VSAA22406043       POSTED     ACCU TECH CORPORATION                                       VOICE, DATA COMM EQP MAINT                                             $13,872.60
+VSAA22406047                  PERATON ENTERPRISE SOLUTIONS        START       END         TECHNICAL SUPPORT                                                    $565,175.76
+VSAA22406048      06/12/2024  PERATON ENTERPRISE SOLUTIONS                                APPLICATION SOFTWARE MAINT
+VSAA22406054      06/18/2024  AXOSOFT LLC                         10/18/2023  10/18/2023  APPLICATION SOFTWARE MAINT                                              $3,584.71
+VSAA22406055      06/24/2024  CREATIVENGINE CORPORATION           04/02/2024  04/02/2024  APPLICATION SOFTWARE MAINT                                              $1,750.00
+VSAA22406071      06/27/2024  SCLOGIC LLC                         10/06/2023  10/06/2023  VOICE, DATA COMM EQP MAINT                                              $2,025.00
+VSAA22406072      07/08/2024  SCLOGIC LLC                         05/29/2024  05/29/2024  APPLICATION SOFTWARE MAINT                                              $1,375.00
+                  07/09/2024                                      05/21/2024  05/21/2024  VOICE, DATA COMM EQP MAINT                                             $17,826.00
+VSAA22406078      07/09/2024  BART & ASSOCIATES, LLC              05/22/2024  05/22/2024  TECHNICAL SUPPORT                                                       $4,533.00
+VSAA22406079                  ACME PAPER & SUPPLY CO INC          05/24/2024  05/24/2024  VOICE, DATA COMM EQP MAINT                                           $245,419.29
+                  06/18/2024  VIRGINIA HOSPITAL CENTER ARLINGTON
+VSAA22406100      06/25/2024  HEALT                               05/01/2024  05/31/2024  TRAIN/ORIENT/CONFERENCE FEES                                               $195.00
+                              BART & ASSOCIATES, LLC              10/11/2023  10/11/2023
+VSAA22406107      06/14/2024  ANIXTER INC                                                 TECHNICAL SUPPORT                                                          $585.00
+VSAA22406141                  FOXHEDGE LTD.                       05/06/2024  05/10/2024  VOICE, DATA COMM EQP MAINT
+VSAA22406184      06/13/2024  EMERGENT, LLC                                               TRAIN/ORIENT/CONFERENCE FEES                                         $127,014.06
+VSAA22406191      06/18/2024                                      05/01/2024  05/31/2024  APPLICATION SOFTWARE MAINT                                                 $480.00
+                  06/14/2024  OMNI BUSINESS SYSTEMS, INC          10/23/2023  10/23/2023  VOICE, DATA COMM EQP MAINT
+VSAA22406196      06/18/2024  DEPARTMENT OF HOMELAND SECURITY     04/01/2024  05/31/2024  PRODUCTION EQUIP MAINT                                                  $4,875.00
+VSAA22406222                  PERATON INC.                        05/01/2024  01/31/2025  FEDERAL - MONITOR, GUARD SVC                                            $8,525.00
+VSAA22406237      06/27/2024  ATLANTIC TAPE & PACKAGING                                   TECHNICAL SUPPORT                                                      $11,983.00
+VSAA22406240      06/18/2024  THE UNIVERSITY OF MICHIGAN          05/07/2024  05/07/2024  PRODUCTION EQUIP MAINT                                                               B-430
+VSAA22406285      06/25/2024  ACCU TECH CORPORATION               06/01/2024  06/30/2024  TRAIN/ORIENT/CONFERENCE FEES                                               $588.00
+VSAA22406286      06/28/2024  ANIXTER INC                         10/13/2023  10/13/2023  VOICE, DATA COMM EQP MAINT                                             $32,557.31
+VSAA22406322      07/01/2024  LEIDOS DIGITAL SOLUTIONS INC        10/11/2023  10/11/2023  VOICE, DATA COMM EQP MAINT                                           $152,505.56
+VSAA22406335      07/08/2024  MARYLAND ENVIRONMENTAL SERVICE      06/03/2024  06/06/2024  APPLICATION SOFTWARE MAINT
+VSAA22406356      07/08/2024  LEIDOS DIGITAL SOLUTIONS INC        10/18/2023  10/18/2023  SERVICE CHARGES & OTHER FEES                                            $1,350.00
+VSAA22406362      06/17/2024  LEIDOS DIGITAL SOLUTIONS INC        10/23/2023  10/23/2023  APPLICATION SOFTWARE MAINT                                              $6,765.00
+VSAA22406363      06/28/2024  EMERGENT, LLC                       05/01/2024  05/31/2024  APPLICATION SOFTWARE MAINT
+VSAA22406386      07/08/2024  POWER TECH INC                      05/13/2024  05/13/2024  MANAGEMENT CONSULTANTS                                                     $629.50
+VSAA22406413      07/25/2024  CHESAPEAKE NETCRAFTSMEN, LLC        04/24/2024  04/24/2024  STUDIES, ANALYSES, & EVALS                                                 $145.26
+VSAA22406422      07/03/2024  ACME PAPER & SUPPLY CO INC          04/01/2024  04/30/2024  MANAGEMENT CONSULTANTS                                               $345,048.00
+VSAA22406443      07/09/2024  LITHO TECH LLC                      05/01/2024  05/31/2024  VOICE, DATA COMM EQP MAINT
+VSAA22406498      06/28/2024  DEPARTMENT OF HOMELAND SECURITY     05/01/2024  05/01/2024  PRODUCTION EQUIP MAINT                                                       $10.00
+VSAA22406508      07/10/2024  DEPARTMENT OF HOMELAND SECURITY     05/01/2024  05/31/2024  PHYSICAL SECURITY                                                            $80.00
+VSAA22406515      07/08/2024  METRO PRINTING EQUIPMENT INC        10/11/2023  10/11/2023  PHYSICAL SECURITY                                                            $40.00
+VSAA22406520      07/19/2024  METRO PRINTING EQUIPMENT INC        06/10/2024  06/10/2024  PRODUCTION EQUIP MAINT                                                 $31,665.17
+VSAA22406523      07/19/2024  THIRDERA LLC                        10/19/2023  10/19/2023  PRODUCTION EQUIP MAINT                                                  $8,150.00
+VSAA22406528      07/08/2024  GUIDEPOINT SECURITY GOVT SOLUTIONS  10/19/2023  10/19/2023  APPLICATION SOFTWARE MAINT                                           $114,066.76
+                  07/08/2024  LLC                                 06/17/2024  06/17/2024                                                                             $320.35
+VSAA22406529      07/15/2024  ALLIANCE MATERIAL HANDLING INC      06/20/2024  06/20/2024  VOICE, DATA COMM EQP MAINT                                              $1,466.96
+                              ALLIANCE MATERIAL HANDLING INC      06/01/2024  06/30/2024                                                                         $11,059.87
+VSAA22406534      07/22/2024  ALLIANCE MATERIAL HANDLING INC                              PRODUCTION EQUIP MAINT                                                 $18,355.65
+VSAA22406535                  ALLIANCE MATERIAL HANDLING INC      06/12/2024  06/11/2025  PRODUCTION EQUIP MAINT                                                     $435.00
+VSAA22406536      07/03/2024  ALLIANCE MATERIAL HANDLING INC                              PRODUCTION EQUIP MAINT                                                  $1,680.00
+VSAA22406537      07/03/2024  ALLIANCE MATERIAL HANDLING INC      10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                 $58,204.58
+VSAA22406538      07/03/2024  ALLIANCE MATERIAL HANDLING INC      10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT
+VSAA22406539      07/09/2024  ALLIANCE MATERIAL HANDLING INC      10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                 $39,648.38
+VSAA22406540      07/03/2024  ALLIANCE MATERIAL HANDLING INC      10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT
+VSAA22406541      07/03/2024  ALLIANCE MATERIAL HANDLING INC      10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22406542      07/03/2024                                      10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+VSAA22406543      07/15/2024                                      10/10/2023  10/10/2023  PRODUCTION EQUIP MAINT                                                     $100.00
+                  07/03/2024                                      10/10/2023  10/10/2023                                                                             $100.00
+                  07/03/2024                                      10/10/2023  10/10/2023                                                                             $100.00
+                                                                  10/10/2023  10/10/2023                                                                             $100.00
+                                                                                                                                                                     $100.00
+                                                                                                                                                                     $100.00
+                                                                                                                                                                     $100.00
+                                                                                                                                                                     $100.00
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DKNG20240525                  JORDYN B MADORE                                           STAFF TRANSPORTATION                                                          $381.90
+DKNG20240528      07/19/2024  CITIBANK - SENATOR IBA CARD       START       END         PRESQUE ISLE TO AUGUSTA AND RETURN                                            $350.10
+DKNG20240530      09/23/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                        $350.10
+DKNG20240531      09/17/2024  CITIBANK - SENATOR IBA CARD       07/10/2024  07/10/2024  AIRFARE FOR SEN KING PORTLAND TO WASHINGTON DC                                $350.10
+DKNG20240532      09/23/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                        $350.10
+DKNG20240533      09/19/2024  CITIBANK - SENATOR IBA CARD       09/23/2024  09/23/2024  AIRFARE FOR SEN KING PORTLAND TO WASHINGTON DC
+DKNG20240534      09/15/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                          $30.00
+DKNG20240535      09/20/2024  CITIBANK - SENATOR IBA CARD       09/09/2024  09/09/2024  AIRFARE FOR SEN KING WASHINGTON DC TO PORTLAND                                  $30.00
+DKNG20240536      09/21/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                          $30.00
+DKNG20240537      09/21/2024  CITIBANK - SENATOR IBA CARD       09/19/2024  09/19/2024  AIRFARE FOR SEN KING PORTLAND TO WASHINGTON DC                                  $30.00
+DKNG20240538      09/23/2024  CITIBANK - SENATOR IBA CARD                               TICKET FEES                                                                     $30.00
+DKNG20240539      09/28/2024  TUCKER III,BENJAMIN               09/16/2024  09/16/2024  TICKET FEES                                                                     $30.00
+                  07/20/2024                                                            TICKET FEES                                                                   $130.34
+DKNG20240540                  TUCKER III,BENJAMIN               07/10/2024  07/10/2024  TICKET FEES                                                                   $156.78
+DKNG20240541      07/23/2024  TUCKER III,BENJAMIN               07/10/2024  07/10/2024  TICKET FEES                                                                   $152.76
+DKNG20240542      07/20/2024  CHRISTINA VALAR BREEN             07/10/2024  07/10/2024  TICKET FEES                                                                   $144.72
+DKNG20240544      07/20/2024  EDITH A SMITH                     07/10/2024  07/10/2024  STAFF PER DIEM                                                                  $46.90
+                  07/23/2024                                    07/10/2024  07/10/2024  STAFF TRANSPORTATION                                                          $223.11
+DKNG20240545                  EDITH A SMITH                     07/10/2024  07/10/2024  AUGUSTA TO CARRABASSETT VALLEY AND RETURN
+                  07/23/2024                                    06/27/2024  06/28/2024  STAFF TRANSPORTATION                                                             $9.63
+DKNG20240546                                                                            6/5, 17, 26 AUGUSTA TO FARMINGTON AND RETURN                                  $119.52
+DKNG20240547                                                    06/05/2024  06/26/2024  STAFF TRANSPORTATION                                                          $114.57   B-1550
+DKNG20240548                                                    06/03/2024  06/24/2024  6/3, 11, 12, 24 NORWAY TO LEWISTON AND RETURN
+                                                                07/15/2024  07/15/2024  STAFF TRANSPORTATION                                                            $74.10
+DKNG20240549                                                    07/02/2024  07/10/2024  BANGOR TO BELFAST AND RETURN                                                  $196.98
+DKNG20240556                                                                            STAFF TRANSPORTATION
+DKNG20240557                                                    07/11/2024  07/11/2024  BANGOR TO THE FOLLOWING AND RETURN: 7/2 DOVER FOXCROFT; 7/10                    $89.11
+DKNG20240558                                                                            DOVER FOXCROFT, ISLAND FALLS
+DKNG20240560      07/21/2024  ADAM D LACHMAN                    05/28/2024  05/28/2024  STAFF INCIDENTALS                                                             $104.52
+DKNG20240561      07/24/2024  ADAM D LACHMAN                    06/18/2024  06/18/2024  STAFF PER DIEM                                                                  $45.56
+                  07/21/2024  SCOTT F WILKINSON                 07/09/2024  07/11/2024  STAFF TRANSPORTATION                                                            $93.13
+                                                                                        BANGOR TO ELLSWORTH, MACHIAS AND RETURN
+                  07/24/2024  TAYLOR M CROSBY                   07/10/2024  07/10/2024  STAFF TRANSPORTATION                                                          $131.04
+                  07/30/2024  SCOTT F WILKINSON                 07/16/2024  07/16/2024  AUGUSTA TO PORTLAND AND RETURN                                                  $14.74
+                  07/30/2024  CHRISTINA VALAR BREEN             07/24/2024  07/24/2024  STAFF TRANSPORTATION
+                  08/02/2024  CHRISTINA VALAR BREEN             07/23/2024  07/23/2024  AUGUSTA TO MILLINOCKET AND RETURN                                             $458.28
+                  07/31/2024  CHRISTINA VALAR BREEN             07/25/2024  07/25/2024  STAFF TRANSPORTATION
+                  08/06/2024  SHARON T CAMPBELL                 07/23/2024  07/26/2024  AUGUSTA TO THE FOLLOWING AND RETURN: 7/9 WISCASSET; 7/11
+                                                                                        NEWCASTLE, BOOTHBAY HARBOR
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BIDDEFORD TO AUGUSTA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AUGUSTA TO DAMARISCOTTA AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HOLDEN TO CAMDEN, ELLSWORTH AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        HOLDEN TO STONINGTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BANGOR TO ORONO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

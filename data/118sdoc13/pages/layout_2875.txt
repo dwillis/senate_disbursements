@@ -1,0 +1,70 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE      DESCRIPTION                                                                   AMOUNT ($)
+                   POSTED                                                  DATES
+DFRE20240354      09/24/2024  CITIBANK - TRAVEL CBA CARD                                                                                                                              $349.60
+DFRE20240355      09/24/2024  CITIBANK - TRAVEL CBA CARD        START       END                                                                                                         $40.00
+DFRE20240356      09/24/2024  CITIBANK - TRAVEL CBA CARD
+DFRE20240357      09/24/2024  CITIBANK - TRAVEL CBA CARD        09/06/2024   09/06/2024 STAFF TRANSPORTATION                                                                          $560.20   B-2-84
+DFRE20240358      09/24/2024  CITIBANK - TRAVEL CBA CARD        09/03/2024                        TICKET FEES                                                                           $40.00
+DFRE20240359      09/24/2024  CITIBANK - TRAVEL CBA CARD        09/03/2024                        AIRFARE FOR E CHEN BOISE ID TO WASHINGTON DC
+DFRE20240360      09/24/2024  CITIBANK - TRAVEL CBA CARD        09/03/2024                                                                                                            $504.19
+DFRE20240361      09/24/2024  CITIBANK - TRAVEL CBA CARD        09/03/2024   09/07/2024 STAFF TRANSPORTATION                                                                            $40.00
+DFRE20240362      09/24/2024  CITIBANK - TRAVEL CBA CARD        09/03/2024                        TICKET FEES
+DFRE20240364      09/24/2024  CITIBANK - TRAVEL CBA CARD        09/03/2024                        AIRFARE FOR M DOUGHERTY WASHINGTON DC TO BOISE ID AND RETURN                        $699.21
+                                                                09/03/2024                                                                                                              $40.00
+DFRE20240365      09/24/2024  CITIBANK - TRAVEL CBA CARD        09/03/2024   09/07/2024 STAFF TRANSPORTATION
+                                                                09/03/2024                        TICKET FEES                                                                         $688.20
+DFRE20240366      09/24/2024  CITIBANK - TRAVEL CBA CARD                                          AIRFARE FOR K CHAUDOIN WASHINGTON DC TO BOISE ID AND RETURN                           $40.00
+DFRE20240367      09/24/2024  CITIBANK - TRAVEL CBA CARD        09/03/2024
+DFRE20240369      09/24/2024  CITIBANK - TRAVEL CBA CARD                     09/06/2024 STAFF TRANSPORTATION                                                                          $688.20
+                                                                09/03/2024                        TICKET FEES                                                                           $40.00
+                                                                08/12/2024                        AIRFARE FOR E BOYLE WASHINGTON DC TO BOISE ID AND RETURN
+                                                                09/03/2024                                                                                                            $592.20
+                                                                             09/07/2024 STAFF TRANSPORTATION                                                                            $40.00
+                                                                02/01/2024                        TICKET FEES
+                                                                03/01/2024                        AIRFARE FOR N MANN WASHINGTON DC TO BOISE ID AND RETURN                             $699.21
+                                                                04/01/2024                                                                                                              $40.00
+                                                                05/01/2024   09/06/2024 STAFF TRANSPORTATION
+                                                                                                  TICKET FEES                                                                         $699.21
+                                                                                                  AIRFARE FOR A DEVANNY WASHINGTON DC TO BOISE ID AND RETURN                            $40.00
+
+                                                                             09/07/2024 STAFF TRANSPORTATION                                                                          $750.20
+                                                                                                  TICKET FEES                                                                         $197.00
+                                                                                                  AIRFARE FOR M SULLIVAN WASHINGTON DC TO BOISE ID AND RETURN
+                                                                                                                                                                                      $552.20
+                                                                             09/06/2024 STAFF TRANSPORTATION                                                                            $80.00
+                                                                                                  TICKET FEES
+                                                                                                  AIRFARE FOR M HAYDAR WASHINGTON DC TO BOISE ID AND RETURN                           $688.20
+                                                                                                                                                                                        $80.00
+                                                                             09/06/2024 STAFF TRANSPORTATION
+                                                                                                  TICKET FEES                                                                         $997.20
+                                                                                                  AIRFARE FOR H THOBURN WASHINGTON DC TO BOISE ID AND RETURN                            $40.00
+
+                                                                             09/06/2024 STAFF TRANSPORTATION                                                                          $699.21
+                                                                                                  TICKET FEES                                                                           $40.00
+                                                                                                  AIRFARE FOR T BRACE AS FOLLOWS: 9/3 WASHINGTON DC TO BOISE ID; 9/6
+                                                                                                  BOISE ID TO WASHINGTON DC                                                       $38,325.69
+                                                                                                                                                                                        $60.10
+                                                                             09/07/2024 STAFF TRANSPORTATION                                                                            $37.00
+                                                                                                  TICKET FEES                                                                           $23.30
+                                                                                                  AIRFARE FOR K KELLEHER AS FOLLOWS: 9/3 WASHINGTON DC TO BOISE ID;
+                                                                                                  9/7 BOISE ID TO WASHINGTON DC                                                       $100.50
+
+                                                                             09/06/2024 STAFF TRANSPORTATION
+                                                                                                  TICKET FEES
+                                                                                                  AIRFARE FOR C SOCHA WASHINGTON DC TO BOISE ID AND RETURN
+
+                                                                             08/15/2024 STAFF TRANSPORTATION
+                                                                                                  TICKET FEES
+                                                                                                  AIRFARE FOR C SOCHA WASHINGTON DC TO HAILEY ID AND RETURN
+
+                                                                             09/06/2024 STAFF TRANSPORTATION
+                                                                                                  TICKET FEES
+                                                                                                  AIRFARE FOR J TOMASZEWSKI WASHINGTON DC TO BOISE ID AND RETURN
+
+                                                                            TRAVEL AND TRANSPORTATION OF PERSONS
+
+0002852534        04/18/2024  SERGEANT AT ARMS                              02/29/2024  FEDERAL AUDIO, VISUAL RECORDNG
+0002853728        05/14/2024  SERGEANT AT ARMS                              03/31/2024  FEDERAL AUDIO, VISUAL RECORDNG
+0002854426        05/23/2024  SERGEANT AT ARMS                              04/30/2024  FEDERAL AUDIO, VISUAL RECORDNG
+0002855921        06/27/2024  SERGEANT AT ARMS                              05/31/2024  FEDERAL AUDIO, VISUAL RECORDNG
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DCRT20240407                  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                       $68.00
+DCRT20240409      06/05/2024  CITIBANK - SENATOR IBA CARD       START       END         TRAIN FARE FOR SEN CARPER WILMINGTON TO WASHINGTON DC                      $138.00
+DCRT20240411      06/11/2024  HEATHER K GUERKE                                          SENATOR TRANSPORTATION
+                  06/11/2024                                    05/31/2024  05/31/2024  TRAIN FARE FOR SEN CARPER WASHINGTON DC TO WILMINGTON                         $8.19
+DCRT20240413                  CITIBANK - SENATOR IBA CARD                               STAFF PER DIEM                                                               $71.00
+DCRT20240415      06/12/2024  KATHERINE L GRASSO                05/31/2024  05/31/2024  STAFF TRANSPORTATION                                                         $86.00
+                  06/13/2024                                                            WILMINGTON TO DOVER AND RETURN
+DCRT20240416                  LAYNE E TAYLOR                    06/05/2024  06/05/2024  SENATOR TRANSPORTATION                                                        $8.65
+DCRT20240417      06/13/2024  KATHERINE L GRASSO                                        TRAIN FARE FOR SEN CARPER WILMINGTON TO WASHINGTON DC                      $182.00
+                  06/15/2024                                    06/03/2024  06/03/2024  STAFF PER DIEM
+DCRT20240418                  JOHN C GENTILE                    06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                         $66.24
+DCRT20240421      06/13/2024  CITIBANK - SENATOR IBA CARD                               WILMINGTON TO WASHINGTON DC AND RETURN                                        $8.00
+DCRT20240423      06/18/2024  CARPER,THOMAS R                   05/30/2024  05/30/2024  STAFF TRANSPORTATION
+DCRT20240424      06/24/2024  MACKENZIE E STAMP                 06/07/2024  06/07/2024  WILMINGTON TO DOVER AND RETURN                                             $124.60
+                  06/25/2024                                                            STAFF PER DIEM                                                               $74.35
+DCRT20240425                  CITIBANK - SENATOR IBA CARD       06/07/2024  06/07/2024  STAFF TRANSPORTATION                                                                 B-824
+DCRT20240426      06/25/2024  JAIDA PATRICE RODRIQUES           06/06/2024  06/06/2024  WILMINGTON TO REHOBOTH BEACH, DOVER AND RETURN                             $164.00
+                  07/01/2024                                    06/07/2024  06/07/2024  STAFF TRANSPORTATION                                                       $135.15
+DCRT20240428                                                    06/12/2024  06/12/2024  WILMINGTON TO DOVER AND RETURN
+DCRT20240429                                                                            SENATOR TRANSPORTATION                                                       $50.25
+DCRT20240432                                                    06/11/2024  06/11/2024  TRAIN FARE FOR SEN CARPER WASHINGTON DC TO WILMINGTON                      $229.00
+DCRT20240434                                                    06/13/2024  06/14/2024  SENATOR TRANSPORTATION                                                     $124.20
+DCRT20240435                                                                            WILMINGTON TO REHOBOTH BEACH, DOVER AND RETURN
+                  07/01/2024  CITIBANK - SENATOR IBA CARD       06/13/2024  06/13/2024  STAFF PER DIEM                                                               $34.80
+DCRT20240436      07/01/2024  CITIBANK - SENATOR IBA CARD       06/17/2024  06/17/2024  STAFF TRANSPORTATION                                                       $218.21
+DCRT20240437      07/03/2024  LAYNE E TAYLOR                    06/24/2024  06/24/2024  WILMINGTON TO WASHINGTON DC AND RETURN                                     $198.03
+DCRT20240438      07/05/2024  CITIBANK - SENATOR IBA CARD       06/20/2024  06/20/2024  SENATOR TRANSPORTATION                                                     $109.00
+DCRT20240439      07/03/2024  BROOKE C MEADOWCROFT              06/25/2024  06/25/2024  TRAIN FARE FOR SEN CARPER WILMINGTON TO WASHINGTON DC
+                                                                                        STAFF INCIDENTALS                                                            $91.00
+                  07/05/2024  LAYNE E TAYLOR                    06/26/2024  06/26/2024  STAFF PER DIEM                                                               $72.13
+                  07/09/2024  CARPER,THOMAS R                   06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                       $138.00
+                  07/09/2024  CARPER,THOMAS R                   06/26/2024  06/26/2024  DOVER TO WASHINGTON DC AND RETURN
+                  07/09/2024  JONAS A MUNSON                    06/25/2024  06/26/2024  SENATOR TRANSPORTATION                                                        $5.15
+                                                                                        TRAIN FARE FOR SEN CARPER WASHINGTON DC TO WILMINGTON                      $150.08
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        TRAIN FARE FOR SEN CARPER WILMINGTON TO WASHINGTON DC                        $51.78
+                                                                                        STAFF TRANSPORTATION                                                       $116.50
+                                                                                        WILMINGTON TO DOVER AND RETURN
+                                                                                        SENATOR TRANSPORTATION                                                       $81.97
+                                                                                        TRAIN FARE FOR SEN CARPER WASHINGTON DC TO WILMINGTON                        $13.10
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO DOVER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WILMINGTON TO SMYRNA AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WILMINGTON TO BALTIMORE MD AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WILMINGTON TO DOVER, DOVER AFB, DOVER, SMYRNA AND RETURN
+                                                                                        STAFF INCIDENTALS
+

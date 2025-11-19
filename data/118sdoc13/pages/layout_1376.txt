@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                              DATES
+DHEI20240339                                                                       ALBUQUERQUE TO BELEN AND RETURN                                                   $38.32
+DHEI20240340                                               START       END         STAFF TRANSPORTATION                                                              $69.27
+DHEI20240341                                                                       ALBUQUERQUE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $13.40
+DHEI20240342      05/25/2024  JASON W JARVIS               04/01/2024  04/30/2024  STAFF TRANSPORTATION                                                            $117.92
+DHEI20240343      05/25/2024  JASON W JARVIS               05/01/2024  05/17/2024  ALBUQUERQUE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $379.60
+DHEI20240344      05/25/2024  CRYSTAL M ROMERO             05/13/2024  05/13/2024  STAFF TRANSPORTATION                                                            $607.20
+                  05/30/2024  JAMES J DUMONT               04/23/2024  04/23/2024  ALBUQUERQUE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $30.00
+DHEI20240345      05/24/2024  CITIBANK - SENATOR IBA CARD  05/16/2024  05/16/2024  STAFF TRANSPORTATION
+DHEI20240346      05/24/2024  CITIBANK - TRAVEL CBA CARD   05/12/2024  05/17/2024  FARMINGTON TO CROWNPOINT AND RETURN                                               $46.09
+                                                                                   SENATOR TRANSPORTATION                                                            $87.77
+DHEI20240347      05/28/2024  EDWARD A TABET-CUBERO        04/26/2024  04/26/2024  AIRFARE FOR SEN HEINRICH WASHINGTON DC TO ALBUQUERQUE                           $269.66
+DHEI20240348      06/03/2024  RITA D O'CONNELL             05/12/2024  05/17/2024  STAFF TRANSPORTATION
+DHEI20240349                                                                       TICKET FEES                                                                       $24.70
+DHEI20240350      05/26/2024  IRIS J KARGES                05/16/2024  05/16/2024  AIRFARE FOR R O'CONNELL ALBUQUERQUE TO WASHINGTON DC AND                          $26.12  B-1358
+DHEI20240351      05/26/2024  SYLVIA D ULLOA               05/17/2024  05/17/2024  RETURN                                                                            $54.94
+                                                                                   STAFF TRANSPORTATION                                                            $110.14
+DHEI20240356      05/31/2024  AURORA VIRGINIA VALDEZ       05/13/2024  05/13/2024  ALBUQUERQUE TO BELEN AND RETURN                                                 $230.48
+DHEI20240357      06/03/2024  JUANITA DELIRA GABITZSCH     05/21/2024  05/21/2024  STAFF PER DIEM                                                                    $83.31
+DHEI20240358      06/03/2024  CAITLYN E PAYETTE            05/05/2024  05/08/2024  STAFF TRANSPORTATION                                                            $622.37
+DHEI20240359                                                                       ARROYO SECO TO ALBUQUERQUE, WASHINGTON DC, ALBUQUERQUE AND                      $332.49
+DHEI20240360      07/09/2024  JUANITA DELIRA GABITZSCH     03/10/2024  03/15/2024  RETURN                                                                          $197.94
+DHEI20240362                                                                       STAFF PER DIEM                                                               $1,433.54
+DHEI20240363      06/05/2024  JAMES J DUMONT               05/25/2024  05/25/2024  ROSWELL TO CLOVIS AND RETURN                                                    $172.86
+                  06/03/2024  AURORA VIRGINIA VALDEZ       05/27/2024  05/27/2024  STAFF PER DIEM                                                                    $67.93
+                  06/03/2024  AURORA VIRGINIA VALDEZ       05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                              $96.07
+                  06/05/2024  AURORA VIRGINIA VALDEZ       05/23/2024  05/23/2024  LAS CRUCES TO SUNLAND PARK AND RETURN                                           $108.94
+                  06/06/2024  RITA D O'CONNELL             05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                            $115.91
+                  06/06/2024  RITA D O'CONNELL             05/28/2024  05/28/2024  EL PRADO TO LAS VEGAS AND RETURN                                                  $12.85
+                                                                                   STAFF TRANSPORTATION                                                            $101.17
+                                                                                   LAS CRUCES TO GLENWOOD AND RETURN
+                                                                                   STAFF INCIDENTALS
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC TO ALBUQUERQUE AND RETURN
+                                                                                   STAFF INCIDENTALS
+                                                                                   STAFF PER DIEM
+                                                                                   LAS CRUCES TO EL PASO TX, WASHINGTON DC, EL PASO TX AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   FARMINGTON TO FORT WINGATE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   EL PRADO TO ESPANOLA AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SANTA FE TO ABIQUIU TO EL PRADO
+                                                                                   STAFF TRANSPORTATION
+                                                                                   EL PRADO TO ABIQUIU AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ARROYO SECO TO LAS VEGAS AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   ARROYO SECO TO CIMARRON AND RETURN
+

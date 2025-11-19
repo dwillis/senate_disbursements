@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME         OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+              POSTED                                    DATES
+                                                                     STAFF TRANSPORTATION                                                             $83.75
+                                             START       END         QUAKER HILL TO VERNON, CHAPLIN, NEW LONDON AND RETURN                            $78.39
+                                                                     STAFF TRANSPORTATION
+DMRP20240563  04/23/2024  ERIN E MCBRIDE     04/10/2024  04/10/2024  QUAKER HILL TO NORWICH, WINDHAM, VERNON TO HARTFORD; HARTFORD                    $73.03  B-1888
+                                                                     TO NEW LONDON TO QUAKER HILL                                                     $24.42
+DMRP20240564  04/23/2024  ERIN E MCBRIDE     04/11/2024  04/11/2024  STAFF TRANSPORTATION
+DMRP20240565  04/24/2024  EMILY M SMITH      04/09/2024  04/09/2024  HARTFORD TO HADLYME, WATERFORD, OLD SAYBROOK TO QUAKER HILL                       $5.96
+DMRP20240568  04/26/2024  FARIAN E RABBANI   03/20/2024  03/20/2024  STAFF TRANSPORTATION                                                             $18.89
+DMRP20240569  04/26/2024  FARIAN E RABBANI   03/27/2024  03/27/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $47.83
+DMRP20240570  04/26/2024  FARIAN E RABBANI   04/09/2024  04/09/2024  STAFF TRANSPORTATION
+DMRP20240571  04/26/2024  FARIAN E RABBANI   04/02/2024  04/02/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $6.96
+DMRP20240572  04/26/2024  FARIAN E RABBANI   03/22/2024  03/22/2024  STAFF TRANSPORTATION                                                             $12.18
+DMRP20240573  04/26/2024  FARIAN E RABBANI   04/15/2024  04/15/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DMRP20240574  04/26/2024  FARIAN E RABBANI   04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                              $5.68
+DMRP20240575  04/26/2024  FARIAN E RABBANI   04/03/2024  04/03/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $63.31
+DMRP20240577  04/29/2024  KYLEE ANNE DOSTIE  04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                             $75.03
+DMRP20240578  04/26/2024  ALEXANDER E MUKAI  04/09/2024  04/09/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $38.86
+DMRP20240579  04/29/2024  CLAUDE CAMPBELL    04/03/2024  04/03/2024  STAFF TRANSPORTATION                                                             $20.99
+DMRP20240580  04/30/2024  CLAUDE CAMPBELL    04/17/2024  04/17/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $53.60
+DMRP20240581  04/29/2024  CLAUDE CAMPBELL    04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                             $45.56
+DMRP20240582  04/29/2024  CLAUDE CAMPBELL    04/16/2024  04/16/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $53.60
+DMRP20240583  04/29/2024  CLAUDE CAMPBELL    04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                             $56.28
+DMRP20240584  04/29/2024  CLAUDE CAMPBELL    04/11/2024  04/11/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DMRP20240585  04/29/2024  CLAUDE CAMPBELL    04/10/2024  04/10/2024  STAFF TRANSPORTATION                                                              $8.71
+DMRP20240586  04/29/2024  CLAUDE CAMPBELL    04/09/2024  04/09/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $52.26
+DMRP20240587  04/29/2024  CLAUDE CAMPBELL    04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                             $45.56
+DMRP20240589  04/30/2024  EMILY M SMITH      04/20/2024  04/20/2024  MANCHESTER TO MIDDLETOWN AND RETURN                                              $67.00
+DMRP20240593  05/01/2024  FARIAN E RABBANI   04/22/2024  04/22/2024  STAFF TRANSPORTATION                                                             $61.64
+                                                                     WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $26.93
+                                                                     STAFF TRANSPORTATION                                                             $64.23
+                                                                     HARTFORD TO LEDYARD AND RETURN
+                                                                     STAFF TRANSPORTATION
+                                                                     HARTFORD TO NEW HAVEN AND RETURN
+                                                                     STAFF TRANSPORTATION
+                                                                     HARTFORD TO GRISWOLD AND RETURN
+                                                                     STAFF TRANSPORTATION
+                                                                     HARTFORD TO PUTNAM TO MANCHESTER
+                                                                     STAFF TRANSPORTATION
+                                                                     HARTFORD TO WINDSOR AND RETURN
+                                                                     STAFF TRANSPORTATION
+                                                                     HARTFORD TO PLAINFIELD AND RETURN
+                                                                     STAFF TRANSPORTATION
+                                                                     HARTFORD TO NEW HAVEN AND RETURN
+                                                                     STAFF TRANSPORTATION
+                                                                     HARTFORD TO PAWCATUCK AND RETURN
+                                                                     STAFF TRANSPORTATION
+                                                                     HARTFORD TO MYSTIC AND RETURN
+                                                                     STAFF TRANSPORTATION
+                                                                     WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                     STAFF TRANSPORTATION
+

@@ -1,0 +1,52 @@
+    DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                          DATES
+DBLA20241522                                                                   FRANKLIN TO BRENTWOOD, SPRING HILL, BRENTWOOD TO NASHVILLE                       $30.98
+DBLA20241523                                           START       END         STAFF TRANSPORTATION                                                             $27.47
+DBLA20241524                                                                   WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $25.52
+DBLA20241525      06/06/2024  BRIGID MARY K MCDONNELL  05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                             $24.79
+DBLA20241526      06/05/2024  NICHOLAS A KISTENMACHER  05/28/2024  05/28/2024  MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $24.12
+DBLA20241527      06/06/2024  BRIGID MARY K MCDONNELL  05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                             $14.07
+DBLA20241530      06/06/2024  CALEB ADDISON HASLETT    05/21/2024  05/21/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $25.00
+DBLA20241531      06/05/2024  PABLO A MARTINEZ         05/20/2024  05/20/2024  STAFF TRANSPORTATION                                                             $87.10
+DBLA20241532      06/06/2024  NICHOLAS A KISTENMACHER  05/24/2024  05/24/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $21.99
+DBLA20241533      06/06/2024  NICHOLAS A KISTENMACHER  05/29/2024  05/29/2024  STAFF TRANSPORTATION                                                             $83.08
+                                                                               NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $25.00
+DBLA20241534      06/06/2024  WILLIAM A GUFFEE         05/29/2024  05/29/2024  STAFF TRANSPORTATION                                                           $133.33
+DBLA20241535                                                                   MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $20.00
+DBLA20241536      06/10/2024  CALEB ADDISON HASLETT    05/29/2024  05/29/2024  STAFF PER DIEM                                                                 $179.56
+DBLA20241537                                                                   STAFF TRANSPORTATION
+DBLA20241538      06/10/2024  CALEB ADDISON HASLETT    05/30/2024  05/30/2024  MEMPHIS TO BROWNSVILLE, COVINGTON AND RETURN                                   $139.36   B-549
+DBLA20241539                                                                   STAFF PER DIEM                                                                   $24.79
+DBLA20241540      06/10/2024  CALEB ADDISON HASLETT    05/31/2024  05/31/2024  STAFF TRANSPORTATION                                                             $32.00
+DBLA20241541      06/10/2024  CALEB ADDISON HASLETT    06/01/2024  06/01/2024  CHATTANOOGA TO PIKEVILLE AND RETURN
+                  06/11/2024  NICHOLAS A KISTENMACHER  05/31/2024  05/31/2024  STAFF PER DIEM                                                                 $141.37
+DBLA20241542                                                                   STAFF TRANSPORTATION                                                             $20.05
+                  06/10/2024  NICHOLAS A KISTENMACHER  05/30/2024  05/30/2024  NASHVILLE TO CELINA AND RETURN                                                   $18.02
+                  06/11/2024  TYLER B PRIVETTE         05/24/2024  05/24/2024  STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION                                                           $199.52
+                  06/10/2024  PABLO A MARTINEZ         05/29/2024  05/29/2024  NASHVILLE TO COOKEVILLE, LIVINGSTON, BYRDSTOWN, JAMESTOWN AND                    $76.38
+                  06/10/2024  TYLER B PRIVETTE         05/28/2024  05/28/2024  RETURN                                                                           $31.57
+                                                                               STAFF TRANSPORTATION
+                  06/10/2024  TYLER B PRIVETTE         05/29/2024  05/29/2024  NASHVILLE TO LIVINGSTON, HENDERSONVILLE AND RETURN                             $201.87
+                                                                               STAFF TRANSPORTATION                                                             $30.43
+                  06/10/2024  TYLER B PRIVETTE         05/30/2024  05/30/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF PER DIEM                                                                 $274.29
+                                                                               STAFF TRANSPORTATION
+                                                                               MEMPHIS TO BOLIVAR, SELMER, ADAMSVILLE AND RETURN                                $34.13
+                                                                               STAFF TRANSPORTATION                                                           $309.13
+                                                                               MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               CHATTANOOGA TO SPRING HILL AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               NASHVILLE TO ANTIOCH, LEBANON, MURFREESBORO TO FRANKLIN
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               CHATTANOOGA TO FRANKLIN, SMYRNA, MURFREESBORO AND RETURN
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               CHATTANOOGA TO FRANKLIN, SPRING HILL, MURFREESBORO, NASHVILLE
+                                                                               AND RETURN
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+

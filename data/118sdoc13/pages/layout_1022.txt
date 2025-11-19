@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DCRM20240472                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                              $70.20
+DCRM20240476      05/21/2024  CITIBANK - TRAVEL CBA CARD        START       END         RENTAL AUTO FOR R RICHARDS GRAND FORKS TO MINOT AND RETURN                      $808.81
+DCRM20240479      05/24/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                            $631.60
+DCRM20240480      05/24/2024  KAITLYN MARIE WEIDERT             05/03/2024  05/04/2024  RENTAL AUTO FOR C KUHNS SAN DIEGO CA TO PALMDALE CA AND RETURN                  $163.48
+DCRM20240481      05/30/2024  RANDY J RICHARDS                                          SENATOR TRANSPORTATION                                                          $369.84
+DCRM20240482      05/29/2024  SONJA G MURRAY                    04/20/2024  04/22/2024  AIRFARE FOR SEN CRAMER BISMARCK TO WASHINGTON DC
+DCRM20240483      05/26/2024  MICHAEL J KELSCH                                          STAFF TRANSPORTATION                                                              $56.72
+DCRM20240484      05/29/2024  MICHAEL J KELSCH                  04/30/2024  04/30/2024  DES LACS TO BISMARCK AND RETURN                                                 $265.99
+DCRM20240485      06/05/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                            $265.99
+DCRM20240486      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/13/2024  05/13/2024  GRAND FORKS TO BISMARCK AND RETURN                                              $631.60
+DCRM20240487      05/24/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                            $620.60
+DCRM20240488      05/24/2024  CITIBANK - TRAVEL CBA CARD        05/13/2024  05/13/2024  BISMARCK TO DICKINSON, GARRISON AND RETURN                                      $503.60
+DCRM20240489      05/24/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                            $797.60
+DCRM20240490      05/24/2024  CITIBANK - TRAVEL CBA CARD        04/30/2024  05/01/2024  FARGO TO BISMARCK AND RETURN                                                    $588.60
+DCRM20240491      05/24/2024  REID D KEMP                                               STAFF TRANSPORTATION                                                            $328.60
+DCRM20240492      06/04/2024  REID D KEMP                       05/13/2024  05/13/2024  FARGO TO BISMARCK AND RETURN                                                    $107.87
+DCRM20240500      06/04/2024  LISA BECKSTROM GIBBENS                                    SENATOR TRANSPORTATION                                                          $123.95
+DCRM20240503      06/04/2024  RANDY J RICHARDS                  05/11/2024  05/12/2024  AIRFARE FOR SEN CRAMER WASHINGTON DC TO BISMARCK                                $268.00
+DCRM20240504      06/04/2024  MICHAEL J KELSCH                                          SENATOR TRANSPORTATION                                                          $103.18
+DCRM20240505      06/05/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/09/2024  AIRFARE FOR SEN CRAMER BISMARCK TO WASHINGTON DC                                $344.38
+DCRM20240506      06/04/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                          $675.00
+DCRM20240507      06/04/2024  CITIBANK - TRAVEL CBA CARD        05/12/2024  05/12/2024  AIRFARE FOR SEN CRAMER WASHINGTON DC TO BISMARCK                                $750.30
+DCRM20240508      06/04/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                            $631.60
+DCRM20240509      06/03/2024  CITIBANK - TRAVEL CBA CARD        05/13/2024  05/13/2024  AIRFARE FOR L FETZER WASHINGTON DC TO GRAND FORKS                               $631.60   B-1004
+DCRM20240510      05/30/2024  SONJA G MURRAY                                            STAFF TRANSPORTATION                                                            $328.60
+                  06/10/2024                                    05/09/2024  05/09/2024  AIRFARE FOR L FETZER GRAND FORKS TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION                                                            $82.41
+                                                                05/12/2024  05/12/2024  AIRFARE FOR SEN CRAMER BISMARCK TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                05/14/2024  05/14/2024  FARGO TO GRAND FORKS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/09/2024  05/09/2024  FARGO TO NORTHWOOD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/14/2024  05/14/2024  FARGO TO BISMARCK AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/13/2024  05/13/2024  GRAND FORKS TO FARGO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                05/18/2024  05/18/2024  FARGO TO DUNSEITH AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                05/17/2024  05/17/2024  RENTAL AUTO FOR SEN CRAMER IN AND AROUND BISMARCK
+                                                                                        SENATOR TRANSPORTATION
+                                                                04/25/2024  04/29/2024  RENTAL AUTO FOR SEN CRAMER IN AND AROUND BISMARCK
+                                                                                        SENATOR TRANSPORTATION
+                                                                05/09/2024  05/14/2024  AIRFARE FOR SEN CRAMER WASHINGTON DC TO BISMARCK
+                                                                                        SENATOR TRANSPORTATION
+                                                                05/16/2024  05/16/2024  AIRFARE FOR SEN CRAMER BISMARCK TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                05/20/2024  05/20/2024  AIRFARE FOR SEN CRAMER BISMARCK TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                05/07/2024  05/07/2024  BISMARCK TO TURTLE LAKE AND RETURN
+
+                                                                05/19/2024  05/19/2024
+

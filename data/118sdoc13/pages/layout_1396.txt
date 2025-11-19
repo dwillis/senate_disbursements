@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                             DATES
+DHIC20240305                                                                      JOHNSTOWN TO FORT MORGAN AND RETURN                                               $12.73
+                                                          START       END         STAFF INCIDENTALS                                                               $107.00
+DHIC20240307                                                                      STAFF PER DIEM                                                                  $238.52
+DHIC20240308      04/22/2024  ALONSO CHAVEZ GASCA         04/02/2024  04/03/2024  STAFF TRANSPORTATION
+DHIC20240309                                                                      FORT COLLINS TO PUEBLO AND RETURN                                                 $96.61
+DHIC20240310      04/23/2024  LISA D POOL                 03/27/2024  03/28/2024  STAFF TRANSPORTATION                                                              $12.73
+DHIC20240313      04/25/2024  MADELEINE R HUGHES          04/03/2024  04/04/2024  DURANGO TO THE FOLLOWING AND RETURN: 3/27 IGNACIO; 3/28 CORTEZ                  $177.41
+DHIC20240323                                                                      STAFF INCIDENTALS                                                                 $29.54
+DHIC20240324      04/23/2024  MADELEINE R HUGHES          03/28/2024  03/29/2024  STAFF PER DIEM                                                                  $293.10
+                  04/26/2024  CITIBANK - TRAVEL CBA CARD  04/11/2024  04/11/2024  DENVER TO LA JUNTA, ROCKY FORD, PUEBLO AND RETURN                               $293.10
+DHIC20240325      04/29/2024  CITIBANK - TRAVEL CBA CARD  04/08/2024  04/08/2024  STAFF TRANSPORTATION                                                            $293.10
+DHIC20240326      05/02/2024  CITIBANK - TRAVEL CBA CARD  04/15/2024  04/15/2024  DENVER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $12.73
+DHIC20240331      04/30/2024  ANTONIO C HUERTA            04/03/2024  04/04/2024  SENATOR TRANSPORTATION                                                          $107.00
+DHIC20240332                                                                      AIRFARE FOR SEN HICKENLOOPER WASHINGTON DC TO DENVER                            $195.64
+DHIC20240338      05/01/2024  ANTONIO C HUERTA            03/22/2024  03/22/2024  SENATOR TRANSPORTATION                                                            $22.79  B-1378
+DHIC20240339                                                                      AIRFARE FOR SEN HICKENLOOPER DENVER TO WASHINGTON DC                            $202.34
+DHIC20240342      05/01/2024  ANTONIO C HUERTA            03/21/2024  03/29/2024  SENATOR TRANSPORTATION                                                          $206.36
+                  05/03/2024  ANTONIO C HUERTA            04/08/2024  04/11/2024  AIRFARE FOR SEN HICKENLOOPER DENVER TO WASHINGTON DC
+                  05/03/2024  SALLY A BOCCELLA            04/17/2024  04/17/2024  STAFF INCIDENTALS                                                               $160.00
+                                                                                  STAFF PER DIEM                                                                     $5.37
+                  05/10/2024  CITIBANK - TRAVEL CBA CARD  04/29/2024  04/29/2024  STAFF TRANSPORTATION
+                  05/07/2024  QUINN E EGAN                04/26/2024  04/27/2024  COLORADO SPRINGS TO LA JUNTA, ROCKY FORD, PUEBLO AND RETURN                     $104.52
+                  06/07/2024  JACOB M NEMMERS             04/25/2024  04/27/2024  STAFF PER DIEM                                                                  $293.10
+                                                                                  STAFF TRANSPORTATION
+DHIC20240343      05/15/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/02/2024  COLORADO SPRINGS TO TRINIDAD AND RETURN                                           $57.28
+DHIC20240347      05/17/2024  MADELEINE R HUGHES          04/25/2024  04/27/2024  STAFF TRANSPORTATION                                                              $73.62
+                                                                                  COLORADO SPRINGS TO THE FOLLOWING AND RETURN: 3/21 HOLLY; 3/29                  $629.38
+DHIC20240348      06/04/2024  JUDSON, MICHAEL A           04/25/2024  04/27/2024  PUEBLO                                                                            $23.16
+                                                                                  STAFF TRANSPORTATION
+                                                                                  COLORADO SPRINGS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $293.10
+                                                                                  STAFF PER DIEM                                                                    $73.63
+                                                                                  STAFF TRANSPORTATION
+                                                                                  JOHNSTOWN TO FORT MORGAN AND RETURN                                             $660.84
+                                                                                  SENATOR TRANSPORTATION                                                            $23.16
+                                                                                  AIRFARE FOR SEN HICKENLOOPER DENVER TO WASHINGTON DC
+                                                                                  STAFF TRANSPORTATION                                                              $81.63
+                                                                                  DENVER OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO GRAND JUNCTION, NATURITA, NUCLA, GRAND
+                                                                                  JUNCTION AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN HICKENLOOPER WASHINGTON DC TO DENVER
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DENVER TO GRAND JUNCTION, NATURITA, GRAND JUNCTION, NUCLA AND
+                                                                                  RETURN
+                                                                                  STAFF INCIDENTALS
+

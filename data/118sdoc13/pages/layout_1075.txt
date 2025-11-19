@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                          DATES
+DCRU20241029                                                                   SAN ANTONIO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $11.39
+DCRU20241030                                           START       END         STAFF TRANSPORTATION                                                            $20.10
+DCRU20241031                                                                   HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCRU20241032      08/29/2024  KELLY WHITMIRE WATERMAN  05/17/2024  05/17/2024  STAFF TRANSPORTATION                                                             $2.41
+DCRU20241033      08/29/2024  KELLY WHITMIRE WATERMAN  05/18/2024  05/18/2024  HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $26.80
+DCRU20241034      08/29/2024  KELLY WHITMIRE WATERMAN  05/20/2024  05/20/2024  STAFF TRANSPORTATION                                                          $207.70
+DCRU20241035      08/29/2024  KELLY WHITMIRE WATERMAN  05/21/2024  05/21/2024  HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $67.00
+DCRU20241036      08/29/2024  KELLY WHITMIRE WATERMAN  05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                            $34.84
+DCRU20241037      08/29/2024  KELLY WHITMIRE WATERMAN  05/23/2024  05/23/2024  HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $24.41
+                  08/29/2024  KELLY WHITMIRE WATERMAN  05/28/2024  05/28/2024  STAFF TRANSPORTATION                                                            $14.01
+DCRU20241038      08/29/2024  KELLY WHITMIRE WATERMAN  05/29/2024  05/29/2024  HOUSTON TO POINT COMFORT, PORT O CONNOR, BAY CITY AND RETURN                  $124.62
+                  08/29/2024  KELLY WHITMIRE WATERMAN  05/03/2024  05/03/2024  STAFF TRANSPORTATION                                                            $17.21
+DCRU20241039                                                                   HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $214.00
+DCRU20241040      08/29/2024  CASANDRA L GARCIA        06/11/2024  06/13/2024  STAFF TRANSPORTATION                                                          $385.25   B-1057
+DCRU20241041                                                                   HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $20.10
+DCRU20241042      08/29/2024  KELLY WHITMIRE WATERMAN  05/05/2024  05/05/2024  STAFF TRANSPORTATION                                                            $17.21
+DCRU20241043      08/29/2024  KELLY WHITMIRE WATERMAN  05/06/2024  05/06/2024  HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $82.41
+DCRU20241044      08/29/2024  KELLY WHITMIRE WATERMAN  05/08/2024  05/08/2024  STAFF PER DIEM                                                                  $60.30
+DCRU20241045      08/29/2024  KELLY WHITMIRE WATERMAN  05/09/2024  05/09/2024  STAFF TRANSPORTATION                                                            $69.01
+DCRU20241046      08/29/2024  KELLY WHITMIRE WATERMAN  05/10/2024  05/10/2024  HOUSTON TO CONROE, HUNTSVILLE, COLDSPRING AND RETURN                            $52.93
+DCRU20241047      08/29/2024  KELLY WHITMIRE WATERMAN  05/16/2024  05/16/2024  STAFF INCIDENTALS                                                             $745.98
+DCRU20241048      08/30/2024  TED CRUZ                 07/10/2024  07/10/2024  STAFF PER DIEM                                                                $409.47
+DCRU20241049      08/30/2024  TED CRUZ                 07/11/2024  07/12/2024  STAFF TRANSPORTATION                                                          $300.73
+DCRU20241050      08/30/2024  TED CRUZ                 07/25/2024  07/25/2024  DEL RIO TO ABILENE, LUBBOCK AND RETURN                                        $242.10
+                  08/30/2024  TED CRUZ                 07/29/2024  07/29/2024  STAFF TRANSPORTATION                                                          $268.48
+                  08/30/2024  TED CRUZ                 08/01/2024  08/01/2024  HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $112.28
+                  08/30/2024  CARL B MICA              07/28/2024  08/01/2024  STAFF TRANSPORTATION                                                          $797.90
+                                                                               HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $1,471.51
+                                                                               STAFF TRANSPORTATION
+                                                                               HOUSTON TO GALVESTON AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               HOUSTON TO WALLER AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               HOUSTON TO GALVESTON AND RETURN
+                                                                               STAFF TRANSPORTATION
+                                                                               HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               SENATOR TRANSPORTATION
+                                                                               HOUSTON TO WASHINGTON DC
+                                                                               SENATOR TRANSPORTATION
+                                                                               WASHINGTON DC TO HOUSTON
+                                                                               SENATOR TRANSPORTATION
+                                                                               WASHINGTON DC TO HOUSTON
+                                                                               SENATOR TRANSPORTATION
+                                                                               HOUSTON TO WASHINGTON DC
+                                                                               SENATOR TRANSPORTATION
+                                                                               WASHINGTON DC TO HOUSTON
+                                                                               STAFF INCIDENTALS
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               AUSTIN TO WASHINGTON DC AND RETURN
+

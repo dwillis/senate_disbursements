@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DMKY20240405                  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                     $264.10
+DMKY20240406      08/30/2024  CITIBANK - TRAVEL CBA CARD        START       END         AIRFARE FOR SEN MARKEY WASHINGTON DC TO BOSTON                             $348.10
+DMKY20240407      08/30/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                     $318.10
+DMKY20240408      08/29/2024  CITIBANK - TRAVEL CBA CARD        04/01/2024  04/01/2024  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC                             $259.48
+DMKY20240409      08/30/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                     $209.48
+DMKY20240411      08/30/2024  CITIBANK - TRAVEL CBA CARD        03/30/2024  03/30/2024  AIRFARE FOR SEN MARKEY WASHINGTON DC TO BOSTON                             $258.48
+DMKY20240412      08/30/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                     $279.47
+DMKY20240414      08/30/2024  CITIBANK - TRAVEL CBA CARD        05/09/2024  05/09/2024  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC                             $338.48
+DMKY20240415      08/29/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION
+DMKY20240416      08/30/2024  CITIBANK - TRAVEL CBA CARD        06/09/2024  06/09/2024  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC                               $92.21
+DMKY20240417      08/30/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                     $209.90
+DMKY20240418      08/30/2024  CITIBANK - TRAVEL CBA CARD        06/17/2024  06/17/2024  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC                             $340.71
+DMKY20240419      08/30/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                     $346.71
+DMKY20240420      08/30/2024  CITIBANK - TRAVEL CBA CARD        07/22/2024  07/22/2024  AIRFARE FOR SEN MARKEY WASHINGTON DC TO BOSTON                             $305.90
+DMKY20240422      08/30/2024  GISELLE L BARRY                                           SENATOR TRANSPORTATION                                                     $412.70
+                  09/15/2024                                    08/14/2024  08/14/2024  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC                             $131.94
+DMKY20240425                                                                            STAFF TRANSPORTATION                                                       $852.00
+                                                                08/10/2024  08/10/2024  AIRFARE FOR G BARRY WASHINGTON DC TO BOSTON AND RETURN
+DMKY20240426                                                                            SENATOR TRANSPORTATION                                                       $49.00
+                                                                08/24/2024  08/27/2024  AIRFARE FOR SEN MARKEY WASHINGTON DC TO BOSTON                               $44.07
+                                                                                        SENATOR TRANSPORTATION
+                                                                07/15/2024  07/15/2024  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC                               $90.16
+                                                                                        SENATOR TRANSPORTATION                                                     $673.05
+                                                                06/24/2024  06/24/2024  AIRFARE FOR SEN MARKEY WASHINGTON DC TO BOSTON                                       B-1716
+                                                                                        SENATOR TRANSPORTATION                                                       $86.94
+                                                                06/20/2024  06/20/2024  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION                                                       $14.01
+                                                                05/11/2024  05/11/2024  AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC                               $59.63
+                                                                                        STAFF INCIDENTALS                                                            $22.11
+                                                                04/07/2024  04/07/2024  STAFF PER DIEM                                                               $11.44
+                                                                                        STAFF TRANSPORTATION                                                       $131.99
+                                                                08/24/2024  08/27/2024  WASHINGTON DC TO BOSTON AND RETURN                                           $24.79
+                                                                                        STAFF TRANSPORTATION
+                  09/11/2024  ISABELLE A COMERFORD              08/08/2024  08/09/2024  BOSTON TO THE FOLLOWING AND RETURN: 8/8 LYNN, SALEM; 8/9
+                  09/26/2024  ABIGAIL S GOLDRING                07/16/2024  07/18/2024  DORCHESTER, EAST BOSTON
+                                                                                        STAFF INCIDENTALS
+DMKY20240427      09/11/2024  MARK M LANNIGAN                   08/15/2024  08/15/2024  STAFF PER DIEM
+DMKY20240428      09/11/2024  MARK M LANNIGAN                   08/16/2024  08/16/2024  STAFF TRANSPORTATION
+DMKY20240429      09/11/2024  MARK M LANNIGAN                   08/22/2024  08/22/2024  WASHINGTON DC TO BOSTON, SAGAMORE, MALDEN, SPRINGFIELD,
+DMKY20240430      09/11/2024  MARK M LANNIGAN                   08/21/2024  08/21/2024  BOSTON, MONTAGUE, LEOMINSTER, BOSTON AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BOSTON TO AYER, SOMERVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BOSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BOSTON TO HOLYOKE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BOSTON TO BEDFORD AND RETURN
+

@@ -1,0 +1,52 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                             DATES
+DLEE20240309                                                                      SALT LAKE CITY TO OGDEN AND RETURN                                                $334.10
+DLEE20240310                                              START       END         SENATOR TRANSPORTATION                                                              $49.17
+DLEE20240311                                                                      AIRFARE FOR SEN LEE SALT LAKE CITY TO WASHINGTON DC
+DLEE20240312      05/21/2024  CITIBANK - TRAVEL CBA CARD  04/30/2024  04/30/2024  STAFF TRANSPORTATION                                                              $101.97
+                  05/23/2024  GARY S. WEBSTER             05/02/2024  05/02/2024  WASHINGTON TO SPRINGDALE AND RETURN                                                 $16.00
+DLEE20240313      05/23/2024  GARY S. WEBSTER             05/03/2024  05/03/2024  STAFF TRANSPORTATION                                                                $55.61
+DLEE20240314      05/23/2024  COLBY JAMES WALKER          05/13/2024  05/13/2024  ST GEORGE TO CEDAR CITY, HURRICANE AND RETURN                                       $20.00
+DLEE20240315                                                                      STAFF PER DIEM                                                                      $21.44
+DLEE20240316      05/23/2024  DEVIN C SMITH               05/08/2024  05/08/2024  STAFF TRANSPORTATION                                                                $40.00
+DLEE20240317      05/23/2024  COLBY JAMES WALKER          04/25/2024  04/25/2024  SALT LAKE CITY TO OREM AND RETURN                                                   $28.14
+                  05/23/2024  COLBY JAMES WALKER          04/26/2024  04/26/2024  STAFF PER DIEM                                                                      $26.00
+DLEE20240318      05/23/2024  COLBY JAMES WALKER          04/11/2024  04/11/2024  LEHI TO TABIONA, ROOSEVELT AND RETURN
+DLEE20240319      05/23/2024  COLBY JAMES WALKER          05/08/2024  05/08/2024  STAFF TRANSPORTATION                                                              $239.86
+                                                                                  SALT LAKE CITY TO SOUTH JORDAN AND RETURN                                         $203.68
+DLEE20240320      05/23/2024  COLBY JAMES WALKER          05/09/2024  05/09/2024  STAFF PER DIEM                                                                              B-1628
+                  05/24/2024  DEVIN C SMITH               05/10/2024  05/10/2024  SALT LAKE CITY TO LOGAN AND RETURN                                                  $20.00
+DLEE20240321                                                                      STAFF TRANSPORTATION                                                              $165.49
+DLEE20240322      05/23/2024  DEVIN C SMITH               04/26/2024  04/26/2024  CLEARFIELD TO HOOPER TO SALT LAKE CITY
+                                                                                  STAFF PER DIEM                                                                      $20.00
+DLEE20240323      05/23/2024  TAEYA A DICKAMORE           05/09/2024  05/09/2024  STAFF TRANSPORTATION                                                              $111.22
+DLEE20240324      05/28/2024  MARK R WELCKER              05/04/2024  05/10/2024  SALT LAKE CITY TO DUCHESNE, TABIONA AND RETURN
+DLEE20240325                                                                      STAFF TRANSPORTATION                                                                $19.56
+DLEE20240326      05/29/2024  EMILY JOY ACTON             05/15/2024  05/15/2024  SALT LAKE CITY TO MANTI TO CLEARFIELD                                             $246.90
+DLEE20240327      05/25/2024  EMILY JOY ACTON             05/10/2024  05/10/2024  STAFF PER DIEM                                                                 $1,617.05
+                  05/29/2024  STEPHEN J HANSEN            04/24/2024  05/17/2024  STAFF TRANSPORTATION                                                           $1,008.68
+DLEE20240328      05/25/2024  GARY S. WEBSTER             05/10/2024  05/10/2024  LEHI TO CASTLE DALE, PRICE AND RETURN                                             $109.88
+DLEE20240329      05/29/2024  GARY S. WEBSTER             05/13/2024  05/14/2024  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION                                                                $31.49
+                  05/24/2024  CITIBANK - TRAVEL CBA CARD  05/10/2024  05/10/2024  SALT LAKE CITY TO NORTH LOGAN, HYRUM AND RETURN                                   $234.50
+                  05/28/2024  MICHAEL S LEE               03/14/2024  03/19/2024  STAFF TRANSPORTATION
+                                                                                  SALT LAKE CITY TO EAGLE MOUNTAIN AND RETURN                                         $73.70
+                                                                                  STAFF INCIDENTALS                                                                   $19.50
+                                                                                  STAFF PER DIEM                                                                    $115.45
+                                                                                  STAFF TRANSPORTATION                                                              $479.10
+                                                                                  LEHI TO SALT LAKE CITY, WASHINGTON DC, SALT LAKE CITY AND RETURN                    $89.40
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SALT LAKE CITY TO NEPHI AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SALT LAKE CITY TO LEHI AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ST GEORGE TO CEDAR CITY AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON TO SAINT GEORGE, BICKNELL, SAINT GEORGE AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN LEE WASHINGTON DC TO SALT LAKE CITY
+                                                                                  SENATOR TRANSPORTATION
+

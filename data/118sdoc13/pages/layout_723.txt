@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                             DATES
+DBRN20240891                                                                      LOUISVILLE TO MANSFIELD, ASHLAND AND RETURN                                     $21.35
+                                                          START       END         STAFF INCIDENTALS                                                             $186.32
+DBRN20240892                                                                      STAFF PER DIEM
+DBRN20240894      07/18/2024  SARAH R BENZING             07/01/2024  07/02/2024  STAFF TRANSPORTATION                                                            $44.68
+DBRN20240896                                                                      WASHINGTON DC TO COLUMBUS, PATASKALA, COLUMBUS AND RETURN                     $279.10
+DBRN20240897      07/16/2024  CITIBANK - TRAVEL CBA CARD  07/08/2024  07/08/2024  SENATOR TRANSPORTATION                                                                  B-705
+DBRN20240898      07/17/2024  JOSEPH MICHAEL GILLIGAN     06/06/2024  06/26/2024  AIRFARE FOR SEN BROWN CLEVELAND TO WASHINGTON DC                                $40.67
+DBRN20240899      07/17/2024  ANN L ORR                   07/08/2024  07/08/2024  STAFF TRANSPORTATION                                                             $8.60
+DBRN20240902                                                                      COLUMBUS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DBRN20240903      07/18/2024  JORDAN T PENNELL            07/09/2024  07/09/2024  STAFF PER DIEM                                                                  $64.27
+DBRN20240909      08/09/2024  CITIBANK - TRAVEL CBA CARD  07/07/2024  07/08/2024  STAFF TRANSPORTATION                                                          $247.18
+                                                                                  OBERLIN TO CLEVELAND AND RETURN                                               $558.20
+                  07/18/2024  JORDAN T PENNELL            07/10/2024  07/10/2024  STAFF TRANSPORTATION
+                  07/20/2024  JORDAN T PENNELL            07/11/2024  07/11/2024  YOUNGSTOWN TO COLUMBUS AND RETURN                                               $30.00
+                                                                                  STAFF TRANSPORTATION                                                            $84.42
+                  07/19/2024  ANTHONY L ELIOPOULOS        07/10/2024  07/10/2024  TICKET FEES
+                                                                                  AIRFARE FOR K DONOHOE WASHINGTON DC TO CLEVELAND AND RETURN                      $9.76
+                  07/18/2024  MARY C TOPOLINSKI           07/02/2024  07/14/2024  STAFF TRANSPORTATION                                                          $108.54
+                                                                                  YOUNGSTOWN TO ASHTABULA AND RETURN
+DBRN20240911      09/12/2024  CITIBANK - TRAVEL CBA CARD  07/11/2024  07/11/2024  STAFF PER DIEM                                                                  $11.63
+DBRN20240912      07/23/2024  CITIBANK - TRAVEL CBA CARD  07/12/2024  07/14/2024  STAFF TRANSPORTATION                                                          $102.37
+                                                                                  YOUNGSTOWN TO MENTOR AND RETURN                                               $208.31
+DBRN20240914      07/24/2024  CITIBANK - TRAVEL CBA CARD  07/07/2024  07/13/2024  STAFF PER DIEM                                                             $1,575.91
+                                                                                  STAFF TRANSPORTATION                                                       $1,050.72
+DBRN20240915      07/24/2024  CITIBANK - TRAVEL CBA CARD  07/12/2024  07/13/2024  COLUMBUS TO DAYTON AND RETURN
+DBRN20240916      07/26/2024  DIANA B BARON               07/12/2024  07/13/2024  STAFF INCIDENTALS                                                               $30.00
+                                                                                  STAFF PER DIEM                                                                $289.20
+DBRN20240918      07/20/2024  KAMERON W ANDERSON          06/26/2024  06/26/2024  STAFF TRANSPORTATION
+DBRN20240919      07/20/2024  KAMERON W ANDERSON          07/08/2024  07/08/2024  WASHINGTON DC TO CLEVELAND, COLUMBUS, CINCINNATI, NORWOOD,                      $30.00
+DBRN20240920      07/20/2024  KAMERON W ANDERSON          07/09/2024  07/09/2024  CINCINNATI AND RETURN
+                                                                                  TICKET FEES                                                                   $403.21
+                                                                                  STAFF TRANSPORTATION                                                            $30.00
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR K QUINTELA WASHINGTON DC TO CINCINNATI, COLUMBUS                  $358.20
+                                                                                  AND RETURN                                                                      $30.11
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES                                                                   $156.00
+                                                                                  AIRFARE FOR N RICHARDSON AS FOLLOWS: 7/7 WASHINGTON DC TO                     $122.44
+                                                                                  CLEVELAND; 7/13 CINCINNATI TO WASHINGTON DC
+                                                                                  STAFF TRANSPORTATION                                                            $56.28
+                                                                                  AIRFARE FOR D BARON WASHINGTON DC TO CINCINNATI AND RETURN                      $20.10
+                                                                                  STAFF INCIDENTALS                                                               $42.88
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO CINCINNATI AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DAYTON TO VAN WERT, LIMA AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DAYTON TO SPRINGFIELD AND RETURN
+                                                                                  STAFF TRANSPORTATION
+

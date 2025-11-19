@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE                   PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                          DATES
+DCSS20240505                                                                   METAIRIE TO GRAY AND RETURN                                                     $70.20
+DCSS20240506                                           START       END         STAFF TRANSPORTATION                                                            $68.90
+DCSS20240507                                                                   METAIRIE TO HAMMOND AND RETURN                                                  $68.25
+DCSS20240508      07/01/2024  KATHRYN M STUART         02/15/2024  02/15/2024  STAFF TRANSPORTATION                                                            $67.60
+DCSS20240509      07/01/2024  KATHRYN M STUART         06/06/2024  06/06/2024  METAIRIE TO HAMMOND AND RETURN                                                  $63.70
+DCSS20240510      07/01/2024  KATHRYN M STUART         05/08/2024  05/08/2024  STAFF TRANSPORTATION                                                            $63.70
+                  07/01/2024  KATHRYN M STUART         05/02/2024  05/02/2024  METAIRIE TO BOGALUSA, COVINGTON AND RETURN
+DCSS20240511      07/01/2024  KATHRYN M STUART         04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                            $61.75
+DCSS20240512      07/01/2024  KATHRYN M STUART         03/20/2024  03/20/2024  METAIRIE TO HAMMOND AND RETURN                                                  $58.50
+DCSS20240513                                                                   STAFF TRANSPORTATION                                                            $57.20
+DCSS20240514      07/01/2024  KATHRYN M STUART         06/12/2024  06/12/2024  METAIRIE TO FOLSOM, KENNER AND RETURN                                           $53.30  B-887
+DCSS20240515      07/01/2024  KATHRYN M STUART         03/06/2024  03/06/2024  STAFF TRANSPORTATION                                                            $45.50
+DCSS20240516      07/01/2024  KATHRYN M STUART         05/24/2024  05/24/2024  METAIRIE TO HAMMOND, INDEPENDENCE, HAMMOND, MADISONVILLE AND                    $44.20
+DCSS20240517      07/01/2024  KATHRYN M STUART         06/04/2024  06/04/2024  RETURN                                                                          $39.65
+DCSS20240519      07/01/2024  KATHRYN M STUART         04/03/2024  04/03/2024  STAFF TRANSPORTATION                                                            $22.75
+DCSS20240520      07/01/2024  KATHRYN M STUART         06/10/2024  06/10/2024  METAIRIE TO BOGALUSA AND RETURN                                                 $20.80
+DCSS20240521      07/01/2024  KATHRYN M STUART         03/15/2024  03/15/2024  STAFF TRANSPORTATION
+DCSS20240526      07/01/2024  KATHRYN M STUART         02/07/2024  02/07/2024  METAIRIE TO PONCHATOULA AND RETURN                                               $4.20
+                  07/01/2024  KATHRYN M STUART         01/10/2024  01/10/2024  STAFF TRANSPORTATION                                                            $26.64
+DCSS20240527      07/01/2024  WILLIAM CASSIDY          06/19/2024  06/19/2024  METAIRIE TO SLIDELL AND RETURN                                                $243.08
+                  07/03/2024  LEE K. TURNER            06/12/2024  06/14/2024  STAFF TRANSPORTATION                                                          $247.00
+DCSS20240528                                                                   METAIRIE TO PEARL RIVER AND RETURN                                              $47.59
+DCSS20240529      07/03/2024  WILLIAM CASSIDY          06/13/2024  06/17/2024  STAFF TRANSPORTATION                                                          $328.80
+                                                                               METAIRIE TO SLIDELL AND RETURN                                                  $31.94
+                  07/03/2024  WILLIAM CASSIDY          06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                            $82.43
+                  07/09/2024  MOLLY E BLOCK            06/26/2024  06/27/2024  METAIRIE TO COVINGTON AND RETURN                                              $483.10
+                                                                               STAFF TRANSPORTATION                                                            $20.00
+DCSS20240530      07/09/2024  MARK MALONE              06/27/2024  06/27/2024  METAIRIE TO MANDEVILLE, NEW ORLEANS AND RETURN                                $166.51
+                                                                               STAFF TRANSPORTATION
+                                                                               METAIRIE TO ABITA SPRINGS AND RETURN                                            $36.24
+                                                                               STAFF TRANSPORTATION
+                                                                               METAIRIE TO COVINGTON AND RETURN
+                                                                               SENATOR TRANSPORTATION
+                                                                               WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF INCIDENTALS
+                                                                               STAFF PER DIEM
+                                                                               STAFF TRANSPORTATION
+                                                                               ANACOCO TO LAFAYETTE AND RETURN
+                                                                               SENATOR PER DIEM
+                                                                               SENATOR TRANSPORTATION
+                                                                               WASHINGTON DC TO NEW ORLEANS, BATON ROUGE AND RETURN
+                                                                               SENATOR TRANSPORTATION
+                                                                               WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                               STAFF INCIDENTALS
+                                                                               STAFF PER DIEM
+                                                                               STAFF TICKET FEES
+                                                                               STAFF TRANSPORTATION
+                                                                               ARLINGTON VA TO WASHINGTON DC, EAST BOSTON MA, BOSTON MA,
+                                                                               CAMBRIDGE MA, EAST BOSTON MA, WASHINGTON DC AND RETURN
+                                                                               STAFF TRANSPORTATION
+

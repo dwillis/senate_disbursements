@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE                   PAYEE NAME     OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+              POSTED                                             DATES
+                                                                              JASPER TO NOBLESVILLE, KOKOMO, WESTFIELD, CARMEL, INDIANAPOLIS                     $247.10
+                                                      START       END         AND RETURN                                                                         $247.10
+                                                                              SENATOR TRANSPORTATION                                                             $373.10
+DBRU20240327  06/03/2024  CITIBANK - TRAVEL CBA CARD  04/24/2024  04/24/2024  AIRFARE FOR SEN BRAUN WASHINGTON DC TO INDIANAPOLIS                                $247.10   B-652
+DBRU20240328  06/03/2024  CITIBANK - TRAVEL CBA CARD  04/23/2024  04/23/2024  SENATOR TRANSPORTATION                                                             $247.10
+DBRU20240329  06/06/2024  CITIBANK - TRAVEL CBA CARD  04/30/2024  04/30/2024  AIRFARE FOR SEN BRAUN INDIANAPOLIS TO WASHINGTON DC                                $247.10
+DBRU20240330  06/03/2024  CITIBANK - TRAVEL CBA CARD  05/20/2024  05/20/2024  SENATOR TRANSPORTATION                                                             $357.10
+DBRU20240331  06/05/2024  CITIBANK - TRAVEL CBA CARD  05/23/2024  05/23/2024  AIRFARE FOR SEN BRAUN LOUISVILLE KY TO WASHINGTON DC                               $215.10
+DBRU20240332  06/06/2024  CITIBANK - TRAVEL CBA CARD  05/21/2024  05/21/2024  SENATOR TRANSPORTATION                                                             $357.10
+DBRU20240333  06/06/2024  CITIBANK - TRAVEL CBA CARD  05/23/2024  05/23/2024  AIRFARE FOR SEN BRAUN INDIANAPOLIS TO WASHINGTON DC                                $247.10
+DBRU20240334  06/06/2024  CITIBANK - TRAVEL CBA CARD  04/20/2024  04/20/2024  SENATOR TRANSPORTATION                                                             $357.10
+DBRU20240335  06/06/2024  CITIBANK - TRAVEL CBA CARD  05/16/2024  05/16/2024  AIRFARE FOR SEN BRAUN WASHINGTON DC TO INDIANAPOLIS                                $120.93
+DBRU20240336  06/06/2024  CITIBANK - TRAVEL CBA CARD  05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                               $401.33
+DBRU20240337  06/05/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/02/2024  AIRFARE FOR J KELLEY INDIANAPOLIS TO WASHINGTON DC                                 $138.69
+DBRU20240338  06/04/2024  KARLEE G HIDEMAN            05/27/2024  05/27/2024  STAFF TRANSPORTATION                                                               $412.72
+DBRU20240339  06/06/2024  BRADLEY PIERCE              05/10/2024  05/26/2024  AIRFARE FOR J KELLEY WASHINGTON DC TO INDIANAPOLIS                                 $392.48
+                                                                              SENATOR TRANSPORTATION                                                             $313.42
+DBRU20240340  06/05/2024  BRADLEY PIERCE              05/01/2024  05/31/2024  AIRFARE FOR SEN BRAUN WASHINGTON DC TO LOUISVILLE KY                               $250.44
+DBRU20240341  06/06/2024  JERROLD D ALEXANDER         04/03/2024  04/23/2024  SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN BRAUN WASHINGTON DC TO INDIANAPOLIS                                  $73.70
+DBRU20240342  06/06/2024  JERROLD D ALEXANDER         04/01/2024  04/30/2024  SENATOR TRANSPORTATION                                                          $1,030.46
+DBRU20240345  06/11/2024  JERROLD D ALEXANDER         05/09/2024  05/30/2024  AIRFARE FOR SEN BRAUN INDIANAPOLIS TO WASHINGTON DC
+                                                                              SENATOR TRANSPORTATION                                                               $83.75
+DBRU20240346  06/07/2024  JERROLD D ALEXANDER         05/01/2024  05/31/2024  AIRFARE FOR SEN BRAUN WASHINGTON DC TO INDIANAPOLIS
+DBRU20240347  06/07/2024  TERRY R SEITZ               05/01/2024  05/30/2024  STAFF TRANSPORTATION
+DBRU20240351  06/11/2024  MARK D DOUD                 04/23/2024  05/14/2024  INDIANAPOLIS TO WABASH AND RETURN
+                                                                              STAFF TRANSPORTATION
+DBRU20240352  06/10/2024  MARK D DOUD                 04/22/2024  04/25/2024  PLAINFIELD TO THE FOLLOWING AND RETURN: 5/10 PLYMOUTH; 5/26 SOUTH
+                                                                              BEND
+                                                                              STAFF TRANSPORTATION
+                                                                              INDIANAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              ANDERSON TO THE FOLLOWING AND RETURN: 4/3 WINCHESTER; 4/9, 22
+                                                                              INDIANAPOLIS; 4/10 HUNTINGTON; 4/16 HARTFORD CITY; 4/23 KOKOMO
+                                                                              STAFF TRANSPORTATION
+                                                                              ANDERSON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              ANDERSON TO THE FOLLOWING AND RETURN: 5/9, 27 MARION; 5/16 NEW
+                                                                              CASTLE; 5/21 KOKOMO; 5/30 FORT WAYNE
+                                                                              STAFF TRANSPORTATION
+                                                                              ANDERSON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              JASPER OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              ZIONSVILLE TO THE FOLLOWING AND RETURN: 4/23 CRAWFORDSVILLE,
+                                                                              WINAMAC; 4/25 MONTICELLO; 4/29 INDIANAPOLIS, PERU, MONTICELLO,
+                                                                              WINAMAC; 4/30 WEST LEBANON, WILLIAMSPORT; 5/1 GREENCASTLE; 5/1, 9
+                                                                              WEST LAFAYETTE; 5/3 LOGANSPORT; 5/6 GRISSOM ARB; 5/14 CARMEL,
+                                                                              WEST LAFAYETTE
+                                                                              STAFF TRANSPORTATION
+                                                                              ZIONSVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

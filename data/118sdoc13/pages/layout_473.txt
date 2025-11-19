@@ -1,0 +1,36 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME     OBLIGATION/SERVICE  DESCRIPTION                                AMOUNT ($)
+                   POSTED                                                     DATES
+VSAA22408237                  PERATON ENTERPRISE SOLUTIONS                                                                                  $280,086.28
+VSAA22408251      09/17/2024  LEIDOS DIGITAL SOLUTIONS INC         START       END                                                            $48,600.00
+VSAA22408253      09/17/2024  LEIDOS DIGITAL SOLUTIONS INC                                                                                        $144.00
+VSAA22408262      09/20/2024  SYMPLICITY CORPORATION               04/02/2024   04/02/2024 VOICE & DATA COMM EQUIPMENT                        $16,480.00    B-455
+VSAA22408263      09/19/2024  SYMPLICITY CORPORATION               08/01/2024   08/31/2024 SOFTWARE LICENSE                                       $235.00
+VSAA22408265      09/20/2024  PERATON INC.                         08/01/2024   08/31/2024 SOFTWARE LICENSE                                   $93,362.80
+VSAA22408333      09/19/2024  BCC SOFTWARE LLC                     08/01/2024   08/31/2024 SOFTWARE LICENSE                                       $381.00
+VSAA22408340      09/27/2024  PAGEFLEX INC                         08/01/2024   08/31/2024 SOFTWARE LICENSE                                   $11,000.00
+VSAA22408341      09/27/2024  PAGEFLEX INC                         12/28/2023   12/28/2023 VOICE & DATA COMM EQUIPMENT                         $3,500.00
+VSAA22408359      09/26/2024  PERATON INC.                         09/05/2024   09/05/2024 SOFTWARE LICENSE                                    $2,705.40
+                  09/24/2024                                       05/06/2024   09/30/2024 SOFTWARE CUSTOM DEVELOPED                          $47,503.60
+VSAA22408375                  WASHINGTON PROFESSIONAL SYSTEMS      09/04/2024   09/04/2024 SOFTWARE CUSTOM DEVELOPED                          $53,568.00
+VSAA22408469      09/21/2024  VERIZON WIRELESS                     08/27/2024   08/27/2024 SOFTWARE LICENSE                                         $44.99
+VSAA22408494      09/26/2024  CARAHSOFT TECHNOLOGY CORPORATION                                                                                $20,599.08
+VSAA22408523      09/19/2024  BCC SOFTWARE LLC                     07/16/2024                        VOICE & DATA COMM EQUIPMENT              $17,062.00
+VSAA22408539      09/27/2024  BLUEALLY TECHNOLOGY SOLUTIONS LLC    09/02/2024   07/16/2024 AUDIO, VISUAL EQUIPMENT                            $16,884.00
+                  09/27/2024                                       08/01/2024   09/02/2024 VOICE & DATA COMM EQUIPMENT                        $76,899.36
+VSAA22408582                  RTK FLOORING                         09/09/2024   08/31/2024 SOFTWARE LICENSE                                       $732.06
+VSAA22408583      09/27/2024  RTK FLOORING                         07/31/2024   09/09/2024 SOFTWARE LICENSE                                       $745.56
+VSAA22408584      09/27/2024  RTK FLOORING                                      07/31/2024 SOFTWARE LICENSE                                    $1,058.73
+VSAA22408585      09/27/2024  RTK FLOORING                         08/23/2024                                                                     $910.89
+VSAA22408595      09/27/2024  DOCPOINT SOLUTIONS LLC               08/23/2024                        VOICE & DATA COMM EQUIPMENT
+VSAA22408602      09/27/2024  VERIZON WIRELESS                     08/23/2024   08/23/2024 CARPETING                                        $427,571.87
+VSAA22408603      09/26/2024  VERIZON WIRELESS                     08/16/2024   08/23/2024 CARPETING                                                $37.48
+VSAA22408642      09/26/2024  DLT SOLUTIONS LLC                    08/15/2024   08/23/2024 CARPETING                                                $44.99
+VSAA22408646      09/27/2024  HARTING ASSOCIATES INC               09/09/2024   08/16/2024 CARPETING
+VSAA22408681      09/27/2024  GE RICHARDS GRAPHIC SUPPLIES CO INC  09/09/2024   08/14/2025 SOFTWARE LICENSE                                   $11,375.04
+                  09/27/2024                                       08/19/2024   09/09/2024 VOICE & DATA COMM EQUIPMENT                         $1,238.58
+                                                                   09/18/2024   09/09/2024 VOICE & DATA COMM EQUIPMENT                              $49.00
+                                                                   04/04/2024   08/18/2025 SOFTWARE LICENSE
+                                                                                09/18/2024 SOFTWARE LICENSE                               $9,949,809.37
+                                                                                04/04/2024 PRODUCTION EQUIPMENT
+                                                                               ACQUISITION OF ASSETS
+

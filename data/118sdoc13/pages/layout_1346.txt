@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                   POSTED                                                  DATES
+DHAW20240650                  MADELEINE CASTLE                                          STAFF TRANSPORTATION                                                           $48.91
+DHAW20240651      05/26/2024  MADELEINE CASTLE                  START       END         ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $37.52
+DHAW20240653      05/26/2024  MADELEINE CASTLE                                          STAFF TRANSPORTATION                                                           $18.09
+DHAW20240654      05/26/2024  MADELEINE CASTLE                  05/06/2024  05/06/2024  SAINT CHARLES TO LAKE SAINT LOUIS TO ST LOUIS                                  $29.48
+DHAW20240655      05/28/2024  MADELEINE CASTLE                                          STAFF TRANSPORTATION                                                           $18.76
+DHAW20240656      05/28/2024  J MATTHEW BAIN                    05/07/2024  05/07/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $130.11
+DHAW20240657      05/30/2024  J MATTHEW BAIN                                            STAFF TRANSPORTATION                                                           $23.58
+DHAW20240658      05/26/2024  J MATTHEW BAIN                    05/09/2024  05/09/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DHAW20240659      05/25/2024  J MATTHEW BAIN                                            STAFF TRANSPORTATION                                                            $5.36
+DHAW20240660      05/25/2024  J MATTHEW BAIN                    05/10/2024  05/10/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $52.39
+DHAW20240661      05/26/2024  J MATTHEW BAIN                                            STAFF TRANSPORTATION
+                  05/31/2024                                    05/13/2024  05/13/2024  SIKESTON TO POPLAR BLUFF, MALDEN, KENNETT, HAYTI AND RETURN                     $4.48
+DHAW20240662                  TANNER L WALLACE                                          STAFF TRANSPORTATION                                                           $22.66
+DHAW20240664      06/03/2024  TANNER L WALLACE                  05/07/2024  05/07/2024  CAPE GIRARDEAU OFFICE: INTERDEPARTMENTAL TRANSPORTATION                      $185.59
+                  05/29/2024                                                            STAFF TRANSPORTATION                                                         $127.30
+DHAW20240665                  TANNER L WALLACE                  05/06/2024  05/06/2024  CAPE GIRARDEAU OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $14.58
+DHAW20240666      05/29/2024  TANNER L WALLACE                                          STAFF TRANSPORTATION                                                           $63.65
+DHAW20240667      06/03/2024  TANNER L WALLACE                  05/09/2024  05/09/2024  CAPE GIRARDEAU TO MARBLE HILL TO SIKESTON                                      $36.85
+DHAW20240668      05/30/2024  TANNER L WALLACE                                          STAFF TRANSPORTATION                                                         $171.52
+DHAW20240669      05/26/2024  NICOLE E REEVES                   05/10/2024  05/10/2024  CAPE GIRARDEAU OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $55.61
+DHAW20240670      05/26/2024  HUNTER R KELLY                                            STAFF PER DIEM                                                                 $26.80
+DHAW20240671      05/28/2024  HUNTER R KELLY                    05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                           $15.41
+DHAW20240672      05/28/2024  HUNTER R KELLY                                            SIKESTON TO DONIPHAN, VAN BUREN, EMINENCE AND RETURN                           $31.49
+DHAW20240673      05/25/2024  ERIN M ENGELMEYER                 05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                           $19.56  B-1328
+                  05/30/2024                                                            SPRINGFIELD TO SAINT ROBERT, CROCKER AND RETURN                                $61.64
+DHAW20240674                  TANNER L WALLACE                  05/03/2024  05/03/2024  STAFF PER DIEM                                                                 $14.58
+                  06/06/2024                                    05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                         $102.51
+                                                                                        SPRINGFIELD TO BRANSON TO REPUBLIC                                             $19.90
+                                                                05/08/2024  05/08/2024  STAFF TRANSPORTATION                                                         $142.71
+                                                                05/10/2024  05/10/2024  REPUBLIC TO GALENA AND RETURN
+                                                                05/15/2024  05/15/2024  STAFF TRANSPORTATION
+                                                                05/14/2024  05/14/2024  REPUBLIC TO WEST PLAINS, HOUSTON, CABOOL TO SPRINGFIELD
+                                                                05/15/2024  05/15/2024  STAFF TRANSPORTATION
+                                                                05/02/2024  05/02/2024  REPUBLIC TO GREENFIELD AND RETURN
+                                                                05/03/2024  05/03/2024  STAFF TRANSPORTATION
+                                                                05/09/2024  05/09/2024  SPRINGFIELD TO ROGERSVILLE AND RETURN
+                                                                05/06/2024  05/06/2024  STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO VIENNA AND RETURN
+                                                                05/16/2024  05/16/2024  STAFF TRANSPORTATION
+                                                                                        KANSAS CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        KANSAS CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        KANSAS CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SPRINGFIELD TO CABOOL AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        REPUBLIC TO CLINTON, WARSAW TO SPRINGFIELD
+

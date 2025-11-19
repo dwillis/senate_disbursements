@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME              OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                  POSTED                                         DATES
+DCOL20240667                                                                  LEWISTON TO PARIS AND RETURN                                                  $28.65
+                                                      START       END         STAFF PER DIEM                                                                $55.00
+DCOL20240668                                                                  STAFF TRANSPORTATION                                                          $18.65
+                  07/15/2024  CARLENE TREMBLAY        05/30/2024  05/30/2024  LEWISTON TO FRYEBURG AND RETURN                                               $56.65
+DCOL20240669                                                                  STAFF PER DIEM                                                                $13.20
+DCOL20240670      07/12/2024  CARLENE TREMBLAY        06/07/2024  06/07/2024  STAFF TRANSPORTATION                                                          $22.00
+DCOL20240671                                                                  WATERFORD TO NEW SHARON TO LEWISTON                                           $15.70
+                  07/11/2024  CARLENE TREMBLAY        06/20/2024  06/20/2024  STAFF TRANSPORTATION                                                        $178.88
+DCOL20240672      07/15/2024  CARLENE TREMBLAY        06/25/2024  06/25/2024  LEWISTON TO POLAND AND RETURN                                               $133.10
+                  07/17/2024  CARLENE TREMBLAY        06/27/2024  06/28/2024  STAFF TRANSPORTATION                                                          $79.20
+DCOL20240673                                                                  LEWISTON TO OXFORD AND RETURN
+DCOL20240674      07/16/2024  ALLYSON M CAVARETTA     06/27/2024  06/27/2024  STAFF INCIDENTALS                                                             $61.60  B-914
+DCOL20240675                                                                  STAFF PER DIEM                                                                $30.91
+DCOL20240676      07/11/2024  KELLY HAMILTON COTIAUX  06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                        $154.07
+DCOL20240677      07/11/2024  KELLY HAMILTON COTIAUX  06/14/2024  06/14/2024  LEWISTON TO CARRABASSETT VALLEY AND RETURN                                  $111.22
+DCOL20240678      07/15/2024  KELLY HAMILTON COTIAUX  06/30/2024  06/30/2024  STAFF TRANSPORTATION                                                          $46.75
+DCOL20240679      07/17/2024  PAMELA D BUCK           07/01/2024  07/01/2024  AUGUSTA TO BELGRADE, MOUNT VERNON, READFIELD, WINTHROP,                       $35.75
+DCOL20240680      07/16/2024  CAROL H WOODCOCK        06/18/2024  06/18/2024  MONMOUTH AND RETURN
+DCOL20240681      07/16/2024  CAROL H WOODCOCK        06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                           $8.80
+DCOL20240682      07/16/2024  CAROL H WOODCOCK        07/04/2024  07/04/2024  BANGOR TO GUILFORD AND RETURN                                                 $27.17
+DCOL20240683      07/18/2024  PAMELA D BUCK           07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                          $44.00
+                  07/18/2024  HALSEY B FRANK          07/09/2024  07/09/2024  BANGOR TO ELLSWORTH AND RETURN                                                $14.30
+DCOL20240684      07/18/2024  COLLINS,SUSAN M         06/13/2024  06/16/2024  STAFF TRANSPORTATION                                                          $16.02
+DCOL20240685      07/25/2024  COLLINS,SUSAN M         06/20/2024  07/07/2024  BANGOR TO SOUTH PORTLAND, PORTLAND AND RETURN                               $210.14
+DCOL20240686                                                                  STAFF TRANSPORTATION                                                          $79.20
+DCOL20240687      07/18/2024  ALLYSON M CAVARETTA     07/02/2024  07/02/2024  BIDDEFORD TO SACO, WESTBROOK, PORTLAND, AUGUSTA AND RETURN                    $18.00
+DCOL20240688      07/23/2024  ALLYSON M CAVARETTA     07/03/2024  07/03/2024  STAFF TRANSPORTATION                                                          $18.00
+                  07/23/2024  ALLYSON M CAVARETTA     07/05/2024  07/05/2024  BANGOR TO BELFAST, WINTERPORT AND RETURN                                      $49.50
+                  07/18/2024  ALLYSON M CAVARETTA     07/11/2024  07/11/2024  STAFF TRANSPORTATION                                                          $84.21
+                  07/23/2024  STEVEN W ABBOTT         07/08/2024  07/11/2024  BANGOR TO WINTERPORT, ORONO, BREWER AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              BANGOR TO BREWER AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              BIDDEFORD TO LIMERICK AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              PORTLAND TO BRIDGTON AND RETURN
+                                                                              SENATOR PER DIEM
+                                                                              WASHINGTON DC TO BANGOR, WATERVILLE, PORTLAND AND RETURN
+                                                                              SENATOR INCIDENTALS
+                                                                              SENATOR PER DIEM
+                                                                              WASHINGTON DC TO BANGOR, PORTLAND, BANGOR AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AUGUSTA TO BINGHAM, SOLON, FAIRFIELD, SIDNEY AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AUGUSTA TO BIDDEFORD AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AUGUSTA TO BIDDEFORD AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              AUGUSTA TO BOOTHBAY, BOOTHBAY HARBOR AND RETURN
+                                                                              STAFF INCIDENTALS
+

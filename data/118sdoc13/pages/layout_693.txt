@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE                   PAYEE NAME      OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+              POSTED                                              DATES
+                                                                               STAFF PER DIEM                                                               $569.12
+                                                       START       END         STAFF TICKET FEES                                                              $40.00
+                                                                               STAFF TRANSPORTATION
+DBRI20240551  07/16/2024  SEAN P ROSS                  06/29/2024  07/02/2024  WASHINGTON DC TO MONTGOMERY, DOTHAN, MONTGOMERY AND RETURN                   $894.68
+                                                                               STAFF INCIDENTALS
+DBRI20240552  07/16/2024  JOHN H WOODS                 06/18/2024  06/22/2024  STAFF PER DIEM                                                                 $62.73
+                                                                               STAFF TICKET FEES                                                            $572.00
+DBRI20240553  07/17/2024  KATIE BOYD BRITT             05/10/2024  05/14/2024  STAFF TRANSPORTATION                                                                   B-675
+DBRI20240554  07/15/2024  KELLI R WOLFE                06/27/2024  07/07/2024  WASHINGTON DC TO BIRMINGHAM AND RETURN                                         $40.00
+DBRI20240555  07/17/2024  KATIE BOYD BRITT             05/16/2024  05/20/2024  STAFF INCIDENTALS                                                            $580.19
+DBRI20240556                                                                   STAFF PER DIEM
+DBRI20240557  07/16/2024  KATIE BOYD BRITT             05/23/2024  06/04/2024  STAFF TICKET FEES                                                              $63.42
+DBRI20240558                                                                   STAFF TRANSPORTATION                                                         $434.26
+DBRI20240559  07/17/2024  CITIBANK - SENATOR IBA CARD  07/07/2024  07/07/2024  WASHINGTON DC TO BIRMINGHAM, MONTGOMERY AND RETURN
+DBRI20240560                                                                   SENATOR PER DIEM                                                               $40.00
+DBRI20240561  07/17/2024  CITIBANK - SENATOR IBA CARD  06/18/2024  06/18/2024  WASHINGTON DC TO MONTGOMERY AND RETURN                                    $1,580.89
+DBRI20240571                                                                   STAFF TRANSPORTATION
+DBRI20240572  07/16/2024  CITIBANK - SENATOR IBA CARD  06/06/2024  06/06/2024  TUSCALOOSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $30.92
+DBRI20240573  07/16/2024  CITIBANK - SENATOR IBA CARD  05/30/2024  05/30/2024  SENATOR INCIDENTALS
+DBRI20240575  07/17/2024  CITIBANK - SENATOR IBA CARD  06/03/2024  06/03/2024  SENATOR PER DIEM                                                               $39.50
+DBRI20240576                                                                   WASHINGTON DC TO MONTGOMERY, NEW YORK NY AND RETURN
+DBRI20240577  07/17/2024  CITIBANK - SENATOR IBA CARD  06/17/2024  06/17/2024  SENATOR INCIDENTALS                                                            $41.56
+              07/17/2024  CITIBANK - SENATOR IBA CARD  06/13/2024  06/13/2024  SENATOR PER DIEM                                                             $334.52
+              07/17/2024  CITIBANK - SENATOR IBA CARD  05/20/2024  05/20/2024  WASHINGTON DC TO MONTGOMERY AND RETURN
+              07/18/2024  CITIBANK - SENATOR IBA CARD  05/23/2024  05/23/2024  SENATOR TRANSPORTATION                                                         $13.00
+              07/19/2024  KELLI R WOLFE                07/11/2024  07/11/2024  TICKET FEES                                                                    $22.55
+              07/29/2024  KATIE BOYD BRITT             06/18/2024  07/07/2024  AIRFARE FOR SEN BRITT MONTGOMERY TO WASHINGTON DC
+                                                                               SENATOR TRANSPORTATION                                                       $283.10
+                                                                               TICKET FEES                                                                    $40.00
+                                                                               AIRFARE FOR SEN BRITT WASHINGTON DC TO BIRMINGHAM
+                                                                               TICKET FEES                                                                  $290.10
+                                                                               TICKET FEES                                                                    $40.00
+                                                                               SENATOR TRANSPORTATION
+                                                                               TICKET FEES                                                                    $40.00
+                                                                               AIRFARE FOR SEN BRITT BIRMINGHAM TO WASHINGTON DC                              $40.00
+                                                                               SENATOR TRANSPORTATION                                                       $290.10
+                                                                               AIRFARE FOR SEN BRITT BIRMINGHAM TO WASHINGTON DC                              $40.00
+                                                                               SENATOR TRANSPORTATION
+                                                                               AIRFARE FOR SEN BRITT WASHINGTON DC TO MONTGOMERY                            $290.10
+                                                                               SENATOR TRANSPORTATION
+                                                                               AIRFARE FOR SEN BRITT NEWARK NJ TO WASHINGTON DC                             $283.10
+                                                                               SENATOR TRANSPORTATION
+                                                                               AIRFARE FOR SEN BRITT WASHINGTON DC TO MONTGOMERY                            $235.10
+                                                                               STAFF TRANSPORTATION
+                                                                               COTTONDALE TO CENTREVILLE, EUTAW TO TUSCALOOSA                               $283.10
+                                                                               SENATOR INCIDENTALS
+                                                                               SENATOR PER DIEM                                                               $69.00
+                                                                               SENATOR TRANSPORTATION
+                                                                               WASHINGTON DC TO BIRMINGHAM, DOTHAN, ENTERPRISE, BIRMINGHAM                    $96.67
+                                                                               AND RETURN                                                                   $641.61
+                                                                                                                                                            $210.00
+

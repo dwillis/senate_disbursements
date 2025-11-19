@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                             DATES
+DTUB20240504                                                                      GUNTERSVILLE TO MADISON AND RETURN                                              $45.63
+DTUB20240505                                              START       END         STAFF TRANSPORTATION                                                            $90.35
+                                                                                  GUNTERSVILLE TO HUNTSVILLE AND RETURN                                         $231.29
+DTUB20240506      08/27/2024  ALAN B NAUGHER              07/24/2024  07/24/2024  STAFF PER DIEM                                                                  $34.38
+DTUB20240507      08/22/2024  BRADLEY F HAYES             07/26/2024  07/26/2024  STAFF TRANSPORTATION                                                            $32.30
+DTUB20240508                                                                      WASHINGTON DC TO NASHVILLE TN AND RETURN                                        $49.96
+DTUB20240509      08/06/2024  EMMA M JOHNSTON             07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                          $828.48
+DTUB20240512      08/26/2024  EMMA M JOHNSTON             07/09/2024  07/09/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $114.66
+DTUB20240513      08/06/2024  EMMA M JOHNSTON             07/10/2024  07/10/2024  STAFF TRANSPORTATION                                                            $50.31
+DTUB20240519      08/06/2024  CITIBANK - TRAVEL CBA CARD  07/22/2024  07/22/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $294.20
+                  08/28/2024  ALAN B NAUGHER              07/29/2024  07/29/2024  STAFF TRANSPORTATION                                                            $40.00
+DTUB20240520      08/27/2024  ALAN B NAUGHER              07/31/2024  07/31/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $294.20
+                  08/08/2024  CITIBANK - TRAVEL CBA CARD  07/26/2024  07/26/2024  SENATOR TRANSPORTATION                                                          $40.00
+DTUB20240523                                                                      AIRFARE FOR SEN TUBERVILLE ATLANTA GA TO WASHINGTON DC                        $124.83
+DTUB20240531      08/09/2024  CITIBANK - TRAVEL CBA CARD  07/26/2024  07/26/2024  STAFF TRANSPORTATION                                                            $75.97  B-2474
+DTUB20240532                                                                      GUNTERSVILLE TO FLORENCE AND RETURN                                             $49.11
+DTUB20240533      08/29/2024  EMMA M JOHNSTON             08/06/2024  08/11/2024  STAFF TRANSPORTATION                                                            $52.52
+DTUB20240534      08/27/2024  JOHN D FERGUSON             06/27/2024  06/27/2024  GUNTERSVILLE TO HUNTSVILLE AND RETURN                                           $44.89
+DTUB20240535      08/27/2024  JOHN D FERGUSON             06/28/2024  06/28/2024  STAFF TRANSPORTATION                                                            $71.62
+DTUB20240536      08/27/2024  JOHN D FERGUSON             07/01/2024  07/01/2024  TICKET FEES                                                                     $28.00
+DTUB20240537      08/27/2024  JOHN D FERGUSON             07/02/2024  07/02/2024  AIRFARE FOR B HAYES WASHINGTON DC TO NASHVILLE TN AND RETURN                    $62.31
+DTUB20240538      08/27/2024  JOHN D FERGUSON             07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                            $35.17
+DTUB20240539      08/27/2024  JOHN D FERGUSON             07/10/2024  07/10/2024  TICKET FEES                                                                     $84.08
+DTUB20240540      08/27/2024  JOHN D FERGUSON             07/11/2024  07/11/2024  AIRFARE FOR R COX WASHINGTON DC TO NASHVILLE TN AND RETURN                      $71.28
+DTUB20240541      08/27/2024  JOHN D FERGUSON             07/12/2024  07/12/2024  STAFF TRANSPORTATION                                                            $55.87
+DTUB20240542      08/27/2024  JOHN D FERGUSON             07/15/2024  07/15/2024  WASHINGTON DC TO KNOXVILLE TN AND RETURN                                        $42.27
+                  08/27/2024  JOHN D FERGUSON             07/16/2024  07/16/2024  STAFF TRANSPORTATION
+                  08/27/2024  JOHN D FERGUSON             07/18/2024  07/18/2024  DOTHAN TO ENTERPRISE AND RETURN
+                  08/27/2024  JOHN D FERGUSON             07/19/2024  07/19/2024  STAFF TRANSPORTATION
+                                                                                  DOTHAN TO OZARK AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DOTHAN TO HEADLAND, ABBEVILLE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DOTHAN TO SLOCOMB, HARTFORD AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DOTHAN TO DALEVILLE, LEVEL PLAINS AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DOTHAN TO FORT RUCKER AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DOTHAN TO GENEVA AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

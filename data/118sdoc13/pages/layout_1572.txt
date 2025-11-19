@@ -1,0 +1,68 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                 DESCRIPTION                            AMOUNT ($)
+                   POSTED                                                  DATES
+DKNN20241699                  CHRISTIAN P AMY                                                                                                                               $13.40
+                  09/24/2024  CITIBANK - TRAVEL CBA CARD        START       END
+DKNN20241700      09/24/2024  CAROLINE M THERIOT                                                                                                                          $207.10
+                  09/27/2024  CHRISTIAN P AMY                   09/23/2024   09/23/2024 STAFF TRANSPORTATION
+DKNN20241704      09/27/2024  CITIBANK - TRAVEL CBA CARD                                          WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                    $64.32
+                  09/27/2024  CAROLINE M THERIOT                09/19/2024
+DKNN20241705      09/29/2024                                                 09/19/2024 SENATOR TRANSPORTATION                                                              $16.75
+                              CHRISTIAN P AMY                   09/24/2024                        AIRFARE FOR SEN KENNEDY WASHINGTON DC TO KENNER
+DKNN20241710      09/29/2024  JOHN S BARR                                                                                                                                 $684.98
+                  09/29/2024  JOHN S BARR                       09/24/2024   09/24/2024 STAFF TRANSPORTATION
+DKNN20241713      09/29/2024  JOHN S BARR                                                         MANDEVILLE TO BOGALUSA, LACOMBE AND RETURN                                $77.72
+                  09/29/2024                                    09/23/2024
+DKNN20241714                                                                 09/24/2024 STAFF TRANSPORTATION                                                                $16.75
+                                                                09/25/2024                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            B-1535
+DKNN20241716                                                                                                                                                                $13.40
+                                                                09/26/2024   09/23/2024 SENATOR TRANSPORTATION
+DKNN20241718                                                                                      AIRFARE FOR SEN KENNEDY NEW ORLEANS TO WASHINGTON DC                      $14.74
+                                                                09/19/2024
+DKNN20241719                                                                 09/25/2024 STAFF TRANSPORTATION                                                                $16.08
+                                                                09/24/2024                        MANDEVILLE TO FRANKLINTON AND RETURN; ABITA SPRINGS TO
+DKNN20240745                                                                                      MANDEVILLE AND RETURN                                             $110,482.40
+DKNN20240997                                                    09/25/2024
+DKNN20241176                                                                 09/26/2024 STAFF TRANSPORTATION                                                              $250.00
+DKNN20241280                                                    02/22/2024                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION               $1,440.00
+DKNN20241301                                                    05/10/2024
+DKNN20241321                                                    04/23/2024   09/19/2024 STAFF TRANSPORTATION                                                              $157.50
+DKNN20241477                                                    06/13/2024                        SHREVEPORT TO BOSSIER CITY AND RETURN                                     $80.00
+                                                                04/04/2024                                                                                                  $80.00
+0002857439                                                      08/28/2024   09/24/2024 STAFF TRANSPORTATION
+0002859190                                                      07/11/2024                        SHREVEPORT TO BOSSIER CITY AND RETURN                                $1,636.00
+DKNN20240814                                                                                                                                                           $1,155.00
+DKNN20241196                                                    06/01/2024   09/25/2024 STAFF TRANSPORTATION                                                           $4,798.50
+DKNN20241344                                                    06/01/2024                        SHREVEPORT TO BOSSIER CITY AND RETURN
+DKNN20241458                                                    04/03/2024                                                                                                $197.00
+DKNN20241482                                                    06/17/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                         -$197.00
+DKNN20241484                                                    07/23/2024                                                                                                $119.98
+DKNN20241494      04/05/2024  ALLIANCE FOR AUDITED MEDIA        08/11/2024  02/22/2024  AUDIO, VISUAL EQUIP MAINT
+DKNN20241534      05/23/2024  CITIBANK - PURCHASE CARD          08/16/2024  05/10/2024  LICENSING FEES                                                                      $43.98
+DKNN20241572      06/27/2024  DICKINSON WRIGHT PLLC             08/20/2024  04/23/2024  FINANCIAL DISCLOSURE PREP                                                         $119.99
+DKNN20241573      07/26/2024  MATTHEW CARLTON TURNER            08/20/2024  06/14/2024  TRAIN/ORIENT/CONFERENCE FEES                                                      $141.96
+DKNN20241578      07/29/2024  WAYNE GILBERT WICKMAN             08/28/2024  04/05/2024  TRAIN/ORIENT/CONFERENCE FEES
+DKNN20241582                  HUNTINGTON T BLOCK INSURANCE      09/04/2024                                                                                                  $64.80
+DKNN20241584      08/06/2024  AGENCY INC                        09/04/2024  08/28/2025 SERVICE CHARGES & OTHER FEES                                                       $159.95
+DKNN20241647                  DICKINSON WRIGHT PLLC             09/07/2024
+DKNN20241649      09/03/2024                                    09/09/2024   07/31/2024 FINANCIAL DISCLOSURE PREP                                                           $84.78
+DKNN20241688                  SERGEANT AT ARMS                  09/08/2024  OTHER CONTRACTUAL SERVICES                                                                      $14.99
+                  08/07/2024  SERGEANT AT ARMS                  09/12/2024                                                                                                $419.97
+                  09/13/2024  CITIBANK - PURCHASE CARD          09/15/2024  06/30/2024  SOFTWARE LICENSE                                                                  $434.99
+                  04/23/2024  CITIBANK - PURCHASE CARD          09/18/2024  06/30/2024  SOFTWARE LICENSE                                                                  $166.42
+                  07/01/2024  CITIBANK - PURCHASE CARD                      04/03/2024  IT EQUIPMENT                                                                        $11.99
+                  08/09/2024  CITIBANK - PURCHASE CARD                      06/17/2024  VOICE & DATA COMM EQUIPMENT
+                  08/29/2024  CITIBANK - PURCHASE CARD                      07/23/2024  IT EQUIPMENT                                                                         $8.99
+                  09/03/2024  CITIBANK - PURCHASE CARD                      08/11/2024  VOICE & DATA COMM EQUIPMENT                                                         $29.99
+                  09/06/2024  CITIBANK - PURCHASE CARD                      08/16/2024  VOICE & DATA COMM EQUIPMENT
+                  09/12/2024  CITIBANK - PURCHASE CARD                      08/20/2024  AUDIO, VISUAL EQUIPMENT                                                              $8.99
+                  09/12/2024  CITIBANK - PURCHASE CARD                      08/20/2024  VOICE & DATA COMM EQUIPMENT                                                         $29.98
+                  09/19/2024  CITIBANK - PURCHASE CARD                      08/28/2024  VOICE & DATA COMM EQUIPMENT
+                  09/19/2024  CITIBANK - PURCHASE CARD                      09/04/2024  VOICE & DATA COMM EQUIPMENT
+                  09/24/2024  CITIBANK - PURCHASE CARD                      09/04/2024  AUDIO, VISUAL EQUIPMENT
+                  09/18/2024  CITIBANK - PURCHASE CARD                      09/07/2024  IT EQUIPMENT
+                  09/18/2024  CITIBANK - PURCHASE CARD                      09/09/2024  VOICE & DATA COMM EQUIPMENT
+                  09/21/2024  CITIBANK - PURCHASE CARD                      09/08/2024  VOICE & DATA COMM EQUIPMENT
+                  09/24/2024  CITIBANK - PURCHASE CARD                      09/12/2024  VOICE & DATA COMM EQUIPMENT
+                  09/24/2024                                                09/15/2024  VOICE & DATA COMM EQUIPMENT
+                                                                            09/18/2024  VOICE & DATA COMM EQUIPMENT
+

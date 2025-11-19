@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+                   POSTED                                                  DATES
+DSCT20240409                  BARRY S COTTON                                            STAFF TRANSPORTATION                                                                  $38.93
+DSCT20240410      06/04/2024  BARRY S COTTON                    START       END         ORLANDO TO TITUSVILLE AND RETURN                                                      $36.73
+DSCT20240411      06/04/2024  BARRY S COTTON                                            STAFF TRANSPORTATION                                                                  $25.33
+                  06/04/2024                                    05/18/2024  05/18/2024  ORLANDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      $61.26
+DSCT20240412                  BARRY S COTTON                                            STAFF PER DIEM                                                                        $25.84
+DSCT20240413      06/04/2024  BARRY S COTTON                    05/19/2024  05/20/2024  STAFF TRANSPORTATION
+                  06/04/2024                                                            ORLANDO TO MELBOURNE AND RETURN                                                        $6.25
+DSCT20240414                  BARRY S COTTON                    05/21/2024  05/21/2024  STAFF TRANSPORTATION                                                                  $32.69
+DSCT20240415      06/04/2024  BARRY S COTTON                                            ORLANDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      $42.66
+                  06/04/2024                                    05/22/2024  05/22/2024  STAFF PER DIEM
+DSCT20240416                  BARRY S COTTON                    05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                                   $7.48
+DSCT20240422      06/04/2024  LUKE E JOHNSON                                            ORLANDO TO DELAND AND RETURN                                                          $58.59
+DSCT20240423      09/12/2024  LUKE E JOHNSON                    05/24/2024  05/24/2024  STAFF TRANSPORTATION                                                                  $19.44
+DSCT20240425      09/12/2024  KATHRYN E O'HALLORAN              05/27/2024  05/27/2024  ORLANDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      $34.40
+DSCT20240428      09/28/2024  LUIS R LARACUENTE                                         STAFF PER DIEM
+DSCT20240429      09/27/2024  LUIS R LARACUENTE                 05/27/2024  05/27/2024  STAFF TRANSPORTATION                                                                   $5.36  B-2271
+DSCT20240430      09/28/2024  LUIS R LARACUENTE                 05/28/2024  05/28/2024  ORLANDO TO BUSHNELL AND RETURN                                                        $24.80
+DSCT20240431      09/28/2024  LUIS R LARACUENTE                 05/26/2024  05/26/2024  STAFF TRANSPORTATION                                                                  $21.24
+DSCT20240432      09/28/2024  LUIS R LARACUENTE                 05/28/2024  05/28/2024  ORLANDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      $57.20
+DSCT20240433      09/28/2024  ERIN ANNE DEVER                   05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                                  $24.92
+                  09/16/2024                                    05/14/2024  05/14/2024  RIVERVIEW TO SEMINOLE AND RETURN                                                      $24.92
+DSCT20240434                                                    05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                                  $27.92
+                                                                05/28/2024  05/28/2024  RIVERVIEW TO TAMPA AND RETURN                                                       $393.60
+DSCT20240435                                                    05/30/2024  05/30/2024  STAFF TRANSPORTATION
+DSCT20240437                                                    03/21/2024  04/24/2024  TAMPA TO SAINT PETERSBURG AND RETURN                                                $408.00
+                                                                                        STAFF TRANSPORTATION
+DSCT20240438      09/16/2024  ERIN ANNE DEVER                   04/25/2024  05/23/2024  PALMETTO TO BRANDON TO TAMPA                                                          $98.80
+                                                                                        STAFF TRANSPORTATION
+                  09/12/2024  ERIN ANNE DEVER                   05/28/2024  05/30/2024  TAMPA TO HOMOSASSA AND RETURN                                                         $39.10
+                  09/16/2024  BARRY S COTTON                    05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                                  $61.87
+                  09/12/2024  BARRY S COTTON                    05/31/2024  05/31/2024  TAMPA TO SAINT PETERSBURG AND RETURN                                                  $19.88
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TAMPA TO SAINT PETERSBURG AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TAMPA TO LAKELAND AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NAPLES TO THE FOLLOWING AND RETURN: 3/21, 27, 28, 4/4, 16, 24 FORT
+                                                                                        MYERS; 4/1 BONITA SPRINGS; 4/11 FORT MYERS, PUNTA GORDA; 4/17 BOCA
+                                                                                        GRANDE; 4/22 FORT MYERS BEACH, BONITA SPRINGS
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NAPLES TO THE FOLLOWING AND RETURN: 4/25 MARCO ISLAND; 5/3, 21, 23
+                                                                                        FORT MYERS; 5/4 SARASOTA; 5/6 FORT MYERS BEACH; 5/9 ARCADIA; 5/10
+                                                                                        EVERGLADES CITY; 5/15 CAPE CORAL; 5/17 PUNTA GORDA
+                                                                                        STAFF TRANSPORTATION
+                                                                                        NAPLES TO THE FOLLOWING AND RETURN: 5/28 BONITA SPRINGS, FORT
+                                                                                        MYERS; 5/29 FORT MYERS; 5/30 FORT MYERS BEACH
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ORLANDO TO MELBOURNE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ORLANDO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

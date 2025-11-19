@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                               DATES
+DCAS20241158                                                                        PITTSBURGH TO KITTANNING AND RETURN                                             $28.43
+                                                            START       END         STAFF PER DIEM                                                                $270.00
+DCAS20241159                                                                        STAFF TRANSPORTATION
+DCAS20241160      07/15/2024  CAMERON G THOMPSON            07/03/2024  07/03/2024  WASHINGTON DC TO PHILADELPHIA AND RETURN                                        $13.47
+DCAS20241161                                                                        STAFF PER DIEM                                                                  $32.16
+                  07/15/2024  IAN F MADIGAN                 07/02/2024  07/02/2024  SCRANTON TO EASTON AND RETURN                                                   $34.37
+DCAS20241166      07/15/2024  ANDREA M GUSCOTT              06/20/2024  06/20/2024  STAFF TRANSPORTATION                                                          $288.35
+DCAS20241170      07/16/2024  ZOEY N KEELEY                 06/25/2024  06/26/2024  HARRISBURG TO YORK AND RETURN                                                 $130.73
+DCAS20241171                                                                        STAFF INCIDENTALS                                                             $124.62
+DCAS20241172      07/15/2024  KYLE L HANNON                 07/03/2024  07/03/2024  STAFF PER DIEM                                                                  $87.00  B-853
+DCAS20241173      07/15/2024  CITIBANK - SENATOR IBA CARD   05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                          $184.00
+DCAS20241175      07/15/2024  CITIBANK - SENATOR IBA CARD   05/16/2024  05/16/2024  WASHINGTON DC TO PHILADELPHIA AND RETURN                                      $146.00
+                  07/15/2024  CITIBANK - SENATOR IBA CARD   06/17/2024  06/17/2024  STAFF TRANSPORTATION                                                            $15.25
+DCAS20241176      07/16/2024  IAN F MADIGAN                 07/03/2024  07/03/2024  ERIE TO SHARON AND RETURN                                                       $14.28
+DCAS20241177      07/16/2024  TRACE J LEDGARD               07/03/2024  07/03/2024  SENATOR TRANSPORTATION                                                          $61.64
+DCAS20241178                                                                        TRAIN FARE FOR SEN CASEY PHILADELPHIA TO WASHINGTON DC                          $12.58
+DCAS20241179      07/16/2024  IAN F MADIGAN                 07/08/2024  07/08/2024  SENATOR TRANSPORTATION                                                        $113.00
+DCAS20241180      07/17/2024  CITIBANK - SENATOR IBA CARD   04/30/2024  04/30/2024  TRAIN FARE FOR SEN CASEY WASHINGTON DC TO PHILADELPHIA                        $230.00
+DCAS20241181      07/17/2024  CITIBANK - SENATOR IBA CARD   05/23/2024  05/23/2024  SENATOR TRANSPORTATION                                                        $190.00
+DCAS20241182      07/17/2024  CITIBANK - SENATOR IBA CARD   06/05/2024  06/05/2024  TRAIN FARE FOR SEN CASEY PHILADELPHIA TO WASHINGTON DC                        $184.00
+DCAS20241183      07/17/2024  CITIBANK - SENATOR IBA CARD   06/13/2024  06/13/2024  STAFF PER DIEM                                                                $164.00
+                  07/17/2024  CITIBANK - SENATOR IBA CARD   06/20/2024  06/20/2024  SCRANTON TO HARRISBURG AND RETURN                                             $132.66
+                  07/16/2024  KYLE L HANNON                 07/08/2024  07/08/2024  STAFF PER DIEM                                                                  $49.02
+                  08/06/2024  KENNEDY E O'DELL              06/23/2024  06/27/2024  STAFF TRANSPORTATION                                                          $487.70
+                                                                                    PITTSBURGH TO KITTANNING AND RETURN                                           $394.90
+DCAS20241184      07/16/2024  BENJAMIN K SOLTERO DE MARTIN  06/27/2024  06/27/2024  STAFF PER DIEM
+DCAS20241185      07/16/2024  BENJAMIN K SOLTERO DE MARTIN  06/26/2024  06/26/2024  SCRANTON TO PHILADELPHIA AND RETURN                                             $46.23
+DCAS20241186      07/17/2024  KYLE L HANNON                 07/09/2024  07/09/2024  SENATOR TRANSPORTATION                                                          $36.18
+                                                                                    TRAIN FARE FOR SEN CASEY PHILADELPHIA TO WASHINGTON DC                          $80.40
+                                                                                    SENATOR TRANSPORTATION
+                                                                                    TRAIN FARE FOR SEN CASEY WASHINGTON DC TO PHILADELPHIA
+                                                                                    SENATOR TRANSPORTATION
+                                                                                    TRAIN FARE FOR SEN CASEY WASHINGTON DC TO PHILADELPHIA
+                                                                                    SENATOR TRANSPORTATION
+                                                                                    TRAIN FARE FOR SEN CASEY WASHINGTON DC TO PHILADELPHIA
+                                                                                    SENATOR TRANSPORTATION
+                                                                                    TRAIN FARE FOR SEN CASEY WASHINGTON DC TO PHILADELPHIA
+                                                                                    STAFF TRANSPORTATION
+                                                                                    ERIE TO SHARON, HERMITAGE AND RETURN
+                                                                                    STAFF INCIDENTALS
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    WASHINGTON DC TO READING, ALLENTOWN, BETHLEHEM, PHILADELPHIA
+                                                                                    AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    HARRISBURG TO BIGLERVILLE AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    HARRISBURG TO NEWPORT AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    ERIE TO OIL CITY AND RETURN
+

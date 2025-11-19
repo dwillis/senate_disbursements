@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+              POSTED                                      DATES
+                                                                       STAFF TRANSPORTATION                                                        $250.11
+                                               START       END         RICHMOND TO WINCHESTER, HARRISONBURG, WEYERS CAVE, BUENA
+                                                                       VISTA, LYNCHBURG TO ROANOKE                                                   $34.84
+DWRN20240320  04/05/2024  ROBERT S CLEM        02/07/2024  02/07/2024  STAFF TRANSPORTATION                                                          $31.49  B-2533
+DWRN20240321  04/05/2024  ROBERT S CLEM        02/09/2024  02/09/2024  ABINGDON TO LEBANON TO POUNDING MILL                                          $54.27
+DWRN20240322  04/08/2024  ROBERT S CLEM        02/15/2024  02/15/2024  STAFF TRANSPORTATION                                                        $117.25
+DWRN20240323  04/10/2024  ROBERT S CLEM        02/20/2024  02/20/2024  ABINGDON TO SALTVILLE AND RETURN                                            $134.67
+DWRN20240324  04/10/2024  ROBERT S CLEM        02/23/2024  02/23/2024  STAFF TRANSPORTATION                                                          $56.28
+DWRN20240325  04/08/2024  ROBERT S CLEM        02/29/2024  02/29/2024  POUNDING MILL TO DAMASCUS TO ABINGDON                                         $77.72
+DWRN20240326  04/08/2024  ROBERT S CLEM        03/11/2024  03/11/2024  STAFF TRANSPORTATION                                                          $28.81
+DWRN20240327  04/05/2024  ROBERT S CLEM        03/13/2024  03/13/2024  POUNDING MILL TO PULASKI TO ABINGDON                                          $49.58
+DWRN20240328  04/08/2024  ROBERT S CLEM        03/19/2024  03/19/2024  STAFF TRANSPORTATION                                                        $188.94
+DWRN20240329  04/11/2024  ROBERT S CLEM        03/20/2024  03/20/2024  POUNDING MILL TO HILLSVILLE TO ABINGDON                                     $136.68
+DWRN20240330  04/10/2024  ROBERT S CLEM        03/22/2024  03/22/2024  STAFF TRANSPORTATION                                                          $43.55
+DWRN20240331  04/05/2024  ROBERT S CLEM        03/25/2024  03/25/2024  ABINGDON TO BRISTOL TO POUNDING MILL                                          $96.48
+DWRN20240332  04/05/2024  ROBERT S CLEM        03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                          $60.97
+DWRN20240333  04/05/2024  ROBERT S CLEM        03/27/2024  03/27/2024  ABINGDON TO WISE TO POUNDING MILL                                             $28.10
+DWRN20240334  04/11/2024  SPENCER K GILBERT    03/25/2024  03/27/2024  STAFF TRANSPORTATION                                                        $266.67
+                                                                       ABINGDON TO LEBANON AND RETURN                                                $17.00
+DWRN20240338  04/09/2024  GENE L GARLAND       03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                          $38.19
+DWRN20240339  04/11/2024  LAURA K DACY         02/10/2024  02/10/2024  ABINGDON TO TAZEWELL TO POUNDING MILL                                         $20.02
+DWRN20240340  04/11/2024  LAURA K DACY         03/11/2024  03/11/2024  STAFF TRANSPORTATION                                                          $42.47
+DWRN20240341  04/11/2024  VALERIA RIVADENEIRA  03/05/2024  03/05/2024  POUNDING MILL TO MIDDLESBORO KY AND RETURN                                    $51.40
+DWRN20240342  05/07/2024  VALERIA RIVADENEIRA  03/11/2024  03/11/2024  STAFF TRANSPORTATION                                                          $45.81
+DWRN20240343  04/22/2024  VALERIA RIVADENEIRA  03/25/2024  03/27/2024  POUNDING MILL TO GALAX TO ABINGDON                                            $28.10
+                                                                       STAFF TRANSPORTATION                                                        $321.04
+DWRN20240344  04/11/2024  VALERIA RIVADENEIRA  04/02/2024  04/02/2024  ABINGDON TO MARION AND RETURN                                               $535.55
+                                                                       STAFF TRANSPORTATION                                                          $82.29
+                                                                       ABINGDON TO BREAKS TO POUNDING MILL
+                                                                       STAFF TRANSPORTATION
+                                                                       ABINGDON TO TAZEWELL TO POUNDING MILL
+                                                                       STAFF INCIDENTALS
+                                                                       STAFF PER DIEM
+                                                                       STAFF TRANSPORTATION
+                                                                       WASHINGTON DC TO WINCHESTER, LYNCHBURG AND RETURN
+                                                                       STAFF TRANSPORTATION
+                                                                       CHESAPEAKE TO NEWPORT NEWS AND RETURN
+                                                                       STAFF TRANSPORTATION
+                                                                       WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                       STAFF TRANSPORTATION
+                                                                       WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                       STAFF TRANSPORTATION
+                                                                       WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                       STAFF TRANSPORTATION
+                                                                       WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                       STAFF INCIDENTALS
+                                                                       STAFF PER DIEM
+                                                                       STAFF TRANSPORTATION
+                                                                       WASHINGTON DC TO WINCHESTER, LYNCHBURG, ROANOKE AND RETURN
+                                                                       STAFF TRANSPORTATION
+

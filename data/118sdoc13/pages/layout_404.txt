@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE                    PAYEE NAME    OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                             DATES
+DSAA24M52411                                                                      AIRFARE FOR M PEARL WASHINGTON DC TO CHARLOTTE NC AND RETURN                      $30.00
+DSAA24M52412                                              START       END         TICKET FEES                                                                       $30.00
+DSAA24M52413                                                                      TICKET FEES                                                                     $212.60
+DSAA24M52414      05/28/2024  CITIBANK - TRAVEL CBA CARD  04/03/2024  04/03/2024  STAFF TRANSPORTATION
+DSAA24M52415      05/28/2024  CITIBANK - TRAVEL CBA CARD  04/04/2024  04/04/2024  AIRFARE FOR D MORGAN WASHINGTON DC TO LAS VEGAS NV                                $30.00
+DSAA24M52416      05/29/2024  CITIBANK - TRAVEL CBA CARD  04/08/2024  04/08/2024  TICKET FEES                                                                     $258.21
+DSAA24M52417                                                                      STAFF TRANSPORTATION
+DSAA24M52418      05/28/2024  CITIBANK - TRAVEL CBA CARD  04/19/2024  04/19/2024  AIRFARE FOR C CARROLL WASHINGTON DC TO CHICAGO IL AND RETURN                      $18.75
+                  05/29/2024  CITIBANK - TRAVEL CBA CARD  04/22/2024  04/27/2024  TICKET FEES                                                                     $359.71
+                                                                                  STAFF TRANSPORTATION
+                  05/28/2024  CITIBANK - TRAVEL CBA CARD  04/10/2024  04/10/2024  AIRFARE FOR G KINNEY WASHINGTON DC TO LAS VEGAS NV AND RETURN                     $66.72
+                  05/29/2024  CITIBANK - TRAVEL CBA CARD  04/13/2024  04/17/2024  STAFF INCIDENTALS                                                               $738.00
+                                                                                  STAFF PER DIEM                                                                  $426.39
+                  06/04/2024  FREDRICK FLOYD THOMPSON     05/14/2024  05/17/2024  STAFF TRANSPORTATION
+                                                                                  ARLINGTON TO SAINT PAUL MN, MINNEAPOLIS MN, SAINT PAUL MN AND                     $94.98
+DSAA24M52419      06/07/2024  FENG LING                   05/06/2024  05/09/2024  RETURN                                                                          $683.00
+                                                                                  STAFF INCIDENTALS                                                               $210.24
+DSAA24M52420      07/08/2024  ERIK S MOORE                05/06/2024  05/09/2024  STAFF PER DIEM                                                                            B-386
+                                                                                  STAFF TRANSPORTATION                                                            $200.05
+DSAA24M52433      06/11/2024  JASON B BLUM                05/14/2024  05/19/2024  WILLIAMSBURG TO RICHMOND, DENVER CO, RICHMOND AND RETURN                        $512.06
+DSAA24M52437      06/04/2024  CHRISTOPHER MICHAEL KAEMKE  05/13/2024  05/14/2024  STAFF INCIDENTALS                                                               $207.05
+DSAA24M52438                                                                      STAFF PER DIEM
+                  06/05/2024  CHRISTOPHER MICHAEL KAEMKE  05/15/2024  05/17/2024  STAFF TRANSPORTATION                                                            $816.00
+                                                                                  WARRENTON TO LAS VEGAS NV AND RETURN
+DSAA24M52439      06/07/2024  BRIAN M ROBERT              05/06/2024  05/10/2024  STAFF PER DIEM                                                                  $333.00
+DSAA24M52440                                                                      WASHINGTON DC TO PITTSBURGH PA AND RETURN                                       $316.64
+DSAA24M52443      06/06/2024  RAYMOND WOELLER             05/13/2024  05/15/2024  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION                                                              $40.67
+                  06/11/2024  BRANDON S CULPEPPER         05/14/2024  05/17/2024  ALEXANDRIA TO CHARLESTON WV AND RETURN                                          $322.00
+                                                                                  STAFF INCIDENTALS                                                               $315.08
+DSAA24M52484      06/17/2024  MARY ANN SIFFORD            05/17/2024  05/23/2024  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION                                                            $272.94
+                                                                                  ALEXANDRIA TO WASHINGTON DC, JACKSON MS, PEARL MS, JACKSON MS,                  $633.46
+                                                                                  WASHINGTON DC AND RETURN                                                        $235.60
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM                                                                    $66.18
+                                                                                  STAFF TRANSPORTATION                                                            $623.40
+                                                                                  FARMINGTON TO LAS VEGAS NV AND RETURN                                           $301.94
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM                                                                    $85.14
+                                                                                  STAFF TRANSPORTATION                                                            $662.00
+                                                                                  PERKASIE TO TRENTON NJ, WASHINGTON DC, TRENTON NJ AND RETURN                    $158.40
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM                                                                  $110.31
+                                                                                  STAFF TRANSPORTATION                                                            $961.93
+                                                                                  BELLA VISTA TO BENTONVILLE, NEW ORLEANS LA, BENTONVILLE AND                     $219.39
+                                                                                  RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+

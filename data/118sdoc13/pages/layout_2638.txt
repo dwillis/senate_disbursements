@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DWRR20240366                  CALEB R WHITE                                             STAFF TRANSPORTATION                                                         $97.41
+DWRR20240367      04/03/2024  MARK ANTONIO WILLIAMS             START       END         SOMERVILLE TO BARNSTABLE TO BOSTON                                         $121.53
+DWRR20240373      04/09/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION
+DWRR20240374      05/06/2024  CITIBANK - TRAVEL CBA CARD        03/21/2024  03/21/2024  SPRINGFIELD TO BOSTON AND RETURN                                             $96.10
+DWRR20240375      04/10/2024  BRIAN A COHEN                                             SENATOR TRANSPORTATION                                                       $46.10
+                  04/22/2024                                    03/19/2024  03/19/2024  AIRFARE FOR SEN WARREN BOSTON TO WASHINGTON DC                               $85.02
+DWRR20240376                                                                            SENATOR TRANSPORTATION                                                     $396.85
+DWRR20240379                                                    03/19/2024  03/19/2024  AIRFARE FOR SEN WARREN WASHINGTON DC TO BOSTON                             $189.41
+DWRR20240380                                                                            STAFF INCIDENTALS                                                            $46.83
+DWRR20240381                                                    03/14/2024  03/14/2024  STAFF PER DIEM                                                               $22.84
+DWRR20240382                                                                            STAFF TRANSPORTATION                                                         $20.30
+DWRR20240383                                                    04/03/2024  04/04/2024  WASHINGTON DC TO BOSTON AND RETURN                                           $60.63
+DWRR20240384                                                                            STAFF TRANSPORTATION                                                         $74.50
+                  04/17/2024  CALEB R WHITE                     04/03/2024  04/03/2024  BOSTON TO MANSFIELD TO SOMERVILLE                                          $103.18   B-2601
+DWRR20240385      04/17/2024  YEJI LEE                          04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                         $53.93
+DWRR20240386      04/17/2024  YEJI LEE                          04/05/2024  04/05/2024  CAMBRIDGE TO WAYLAND TO BOSTON                                             $123.18
+DWRR20240387      04/17/2024  YEJI LEE                          03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                       $110.55
+DWRR20240405      04/17/2024  YEJI LEE                          04/02/2024  04/02/2024  CAMBRIDGE TO WAYLAND AND RETURN                                            $159.46
+DWRR20240407      04/23/2024  OLIVIA J TEIXEIRA                 04/02/2024  04/02/2024  STAFF TRANSPORTATION                                                         $17.42
+DWRR20240408      04/23/2024  DANIEL R. KI                      03/17/2024  03/18/2024  CAMBRIDGE TO FITCHBURG AND RETURN                                            $96.10
+DWRR20240412                                                                            STAFF TRANSPORTATION                                                         $92.21
+                  04/23/2024  ELIZABETH ROSARIO                 04/02/2024  04/02/2024  CAMBRIDGE TO GARDNER, DEVENS AND RETURN                                      $79.66
+DWRR20240413      04/23/2024  ELIZABETH ROSARIO                 03/29/2024  03/29/2024  STAFF TRANSPORTATION                                                       $133.18
+DWRR20240423      04/22/2024  ELIZABETH ROSARIO                 03/19/2024  03/19/2024  ATTLEBORO TO GARDNER AND RETURN                                            $173.55
+DWRR20240424      05/06/2024  CITIBANK - TRAVEL CBA CARD        04/03/2024  04/03/2024  STAFF PER DIEM
+DWRR20240425      04/23/2024  CITIBANK - TRAVEL CBA CARD        04/06/2024  04/09/2024  STAFF TRANSPORTATION                                                         $94.21
+                  04/24/2024  CALEB R WHITE                     04/09/2024  04/09/2024  WASHINGTON DC TO BOSTON, CAMBRIDGE, BOSTON AND RETURN                        $53.60
+                  05/21/2024  ELLEN F SCIALES                   04/02/2024  04/07/2024  STAFF TRANSPORTATION                                                         $76.38
+                                                                                        LYNN TO GARDNER, DEVENS AND RETURN                                           $73.70
+                  04/30/2024  CITIBANK - TRAVEL CBA CARD        04/02/2024  04/07/2024  STAFF TRANSPORTATION
+                  05/03/2024  MARK ANTONIO WILLIAMS             04/18/2024  04/18/2024  LYNN TO SPRINGFIELD AND RETURN
+                  05/03/2024  MARK ANTONIO WILLIAMS             04/19/2024  04/19/2024  STAFF TRANSPORTATION
+                  05/03/2024  MARK ANTONIO WILLIAMS             04/17/2024  04/17/2024  BOSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR B COHEN WASHINGTON DC TO BOSTON
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR I FRANKLIN WASHINGTON DC TO BOSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BOSTON TO BOURNE TO SOMERVILLE
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO BOSTON, CAMBRIDGE, DORCHESTER, LYNN,
+                                                                                        CAMBRIDGE, BOSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR E SCIALES WASHINGTON DC TO BOSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SPRINGFIELD TO SOUTHBRIDGE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SPRINGFIELD TO PITTSFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

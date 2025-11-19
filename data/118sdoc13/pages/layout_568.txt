@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+              POSTED                                        DATES
+                                                                         CHATTANOOGA TO BRENTWOOD, COOKEVILLE, LIVINGSTON, BYRDSTOWN,                    $59.93
+                                                 START       END         JAMESTOWN, CROSSVILLE AND RETURN                                              $375.03
+                                                                         STAFF INCIDENTALS                                                             $404.81
+DBLA20241543  06/11/2024  NEELY, BLAKEMON L      05/28/2024  05/30/2024  STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION                                                          $140.57
+DBLA20241544  06/13/2024  ELIZABETH M MCALINDON  05/28/2024  06/01/2024  IUKA MS TO LENOIR CITY, VONORE, TULLAHOMA, WINCHESTER AND                  $1,107.85
+                                                                         RETURN
+DBLA20241549  06/11/2024  MICHAEL L HENSLEY      05/24/2024  05/24/2024  STAFF INCIDENTALS                                                             $659.94   B-550
+DBLA20241550  06/11/2024  MICHAEL L HENSLEY      05/14/2024  05/14/2024  STAFF PER DIEM                                                                $192.96
+DBLA20241551  06/11/2024  MICHAEL L HENSLEY      05/17/2024  05/17/2024  STAFF TRANSPORTATION                                                          $154.10
+                                                                         WASHINGTON DC TO NASHVILLE, KNOXVILLE, NASHVILLE AND RETURN
+DBLA20241552  06/11/2024  MICHAEL L HENSLEY      05/31/2024  05/31/2024  STAFF TRANSPORTATION                                                            $13.38
+DBLA20241553  06/11/2024  MICHAEL L HENSLEY      05/16/2024  05/16/2024  KNOXVILLE TO BUTLER AND RETURN                                                $135.34
+DBLA20241554  06/11/2024  MICHAEL L HENSLEY      05/21/2024  05/21/2024  STAFF TRANSPORTATION                                                          $146.06
+DBLA20241555  06/11/2024  MICHAEL L HENSLEY      05/29/2024  05/29/2024  KNOXVILLE TO ELIZABETHTON AND RETURN                                          $142.04
+DBLA20241556  06/11/2024  MICHAEL L HENSLEY      05/28/2024  05/28/2024  STAFF PER DIEM                                                                $142.04
+DBLA20241557  06/11/2024  NEELY, BLAKEMON L      06/03/2024  06/03/2024  STAFF TRANSPORTATION                                                          $142.04
+DBLA20241558  06/11/2024  MICHAEL L HENSLEY      05/15/2024  05/15/2024  KNOXVILLE TO ERWIN AND RETURN                                                 $139.36
+DBLA20241559  06/11/2024  MICHAEL L HENSLEY      05/13/2024  05/13/2024  STAFF TRANSPORTATION                                                          $137.95
+DBLA20241560  06/12/2024  MICHAEL L HENSLEY      05/22/2024  05/22/2024  KNOXVILLE TO PINEY FLATS AND RETURN                                           $137.35
+DBLA20241561  06/12/2024  JAY C STROBINO         05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                          $124.62
+                                                                         KNOXVILLE TO JOHNSON CITY AND RETURN                                          $124.62
+DBLA20241562  06/13/2024  JAY C STROBINO         05/29/2024  05/29/2024  STAFF TRANSPORTATION
+                                                                         KNOXVILLE TO JOHNSON CITY AND RETURN                                            $12.50
+DBLA20241563  06/11/2024  MICHAEL L HENSLEY      05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                          $107.13
+DBLA20241565  06/11/2024  MICHAEL L HENSLEY      05/20/2024  05/20/2024  KNOXVILLE TO JOHNSON CITY AND RETURN
+DBLA20241566  06/11/2024  MICHAEL L HENSLEY      05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                            $82.27
+DBLA20241567  06/11/2024  JAY C STROBINO         05/22/2024  05/22/2024  KNOXVILLE TO BLOUNTVILLE AND RETURN
+                                                                         STAFF TRANSPORTATION                                                            $81.07
+                                                                         IUKA MS TO HOHENWALD, CRUMP AND RETURN                                          $64.72
+                                                                         STAFF TRANSPORTATION                                                            $63.78
+                                                                         KNOXVILLE TO JOHNSON CITY AND RETURN                                            $59.89
+                                                                         STAFF TRANSPORTATION
+                                                                         KNOXVILLE TO JOHNSON CITY AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         KNOXVILLE TO JONESBOROUGH AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         NASHVILLE TO ARNOLD AFB, TULLAHOMA AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         NASHVILLE TO BRENTWOOD, FRANKLIN, SPRING HILL, MURFREESBORO,
+                                                                         SMYRNA, NASHVILLE, BRENTWOOD AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         KNOXVILLE TO HARROGATE AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         KNOXVILLE TO MORRISTOWN AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         KNOXVILLE TO BEAN STATION AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         NASHVILLE TO FRANKLIN, COLUMBIA AND RETURN
+

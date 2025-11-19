@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                             DATES
+DDUR20240128                                                                      CHICAGO TO EVANSTON, LIBERTYVILLE TO HANOVER PARK                             $153.37
+DDUR20240129                                              START       END         STAFF TRANSPORTATION                                                            $75.24
+DDUR20240130                                                                      CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $20.10
+DDUR20240131      05/01/2024  YASMEEN OLANREWAJU BANKOLE  01/12/2024  01/26/2024  STAFF TRANSPORTATION                                                            $26.06  B-1121
+DDUR20240132      04/30/2024  YASMEEN OLANREWAJU BANKOLE  12/07/2023  12/07/2023  HANOVER PARK TO WARRENVILLE, BURR RIDGE, EVANSTON AND RETURN                    $45.05
+DDUR20240133      04/30/2024  CLARISOL A DUQUE            02/16/2024  02/16/2024  STAFF TRANSPORTATION
+DDUR20240134      04/30/2024  CLARISOL A DUQUE            02/12/2024  02/12/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $126.22
+DDUR20240135      04/30/2024  CLARISOL A DUQUE            02/17/2024  02/17/2024  STAFF TRANSPORTATION                                                          $159.43
+DDUR20240136      05/01/2024  CLARISOL A DUQUE            02/14/2024  02/14/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DDUR20240137      05/08/2024  CLARISOL A DUQUE            02/01/2024  02/08/2024  STAFF TRANSPORTATION                                                            $95.56
+DDUR20240138      04/30/2024  CHRISTIAN HUERTA            11/01/2023  11/30/2023  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $53.57
+DDUR20240139      04/30/2024  CHRISTIAN HUERTA            12/01/2023  12/31/2023  STAFF TRANSPORTATION                                                          $132.32
+DDUR20240140      05/01/2024  CHRISTIAN HUERTA            01/01/2024  01/31/2024  CHICAGO TO OTTAWA AND RETURN                                                  $260.89
+DDUR20240141      05/01/2024  CHRISTIAN HUERTA            02/01/2024  02/29/2024  STAFF TRANSPORTATION                                                            $52.71
+                  04/30/2024  YASMEEN OLANREWAJU BANKOLE  12/06/2023  12/06/2023  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $71.03
+DDUR20240142      04/30/2024  YASMEEN OLANREWAJU BANKOLE  11/10/2023  11/10/2023  STAFF TRANSPORTATION                                                            $22.15
+DDUR20240143      05/01/2024  DANIEL C BIEN               03/26/2024  03/26/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $100.56
+DDUR20240146                                                                      STAFF TRANSPORTATION                                                            $63.96
+DDUR20240147      04/30/2024  YASMEEN OLANREWAJU BANKOLE  10/06/2023  10/06/2023  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $58.16
+DDUR20240148      04/30/2024  YASMEEN OLANREWAJU BANKOLE  10/17/2023  10/17/2023  STAFF TRANSPORTATION                                                          $221.77
+                  05/01/2024  EMILY H POTOMA              04/03/2024  04/03/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $69.68
+DDUR20240149      04/30/2024  LAUREN A. LEONATTI          03/25/2024  03/25/2024  STAFF TRANSPORTATION                                                          $613.54
+                  05/08/2024  PATRICK JOHN SOUDERS        04/01/2024  04/03/2024  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DDUR20240150                                                                      STAFF TRANSPORTATION                                                            $78.72
+DDUR20240151      05/03/2024  EMILY H POTOMA              03/04/2024  04/03/2024  HANOVER PARK TO NILES, OAK BROOK AND RETURN
+                                                                                  STAFF TRANSPORTATION                                                            $44.00
+                  05/03/2024  EMILY H POTOMA              03/18/2024  03/18/2024  HANOVER PARK TO ALGONQUIN, CHICAGO AND RETURN                                   $30.78
+                  05/06/2024  CLARISOL A DUQUE            02/08/2024  02/09/2024  STAFF PER DIEM                                                                $219.13
+                                                                                  STAFF TRANSPORTATION                                                          $347.57
+                                                                                  SPRINGFIELD TO PEORIA AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  HANOVER PARK TO CHICAGO AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  HANOVER PARK TO PLAINFIELD AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHICAGO TO MOLINE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHAMPAIGN TO NORMAL AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ARLINGTON VA TO WASHINGTON DC, CHICAGO, WASHINGTON DC AND
+                                                                                  RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHICAGO TO THE FOLLOWING AND RETURN: 3/4 RIVER FOREST; 3/25
+                                                                                  DOWNERS GROVE; 4/3 MATTESON
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHICAGO TO WASHINGTON DC AND RETURN
+

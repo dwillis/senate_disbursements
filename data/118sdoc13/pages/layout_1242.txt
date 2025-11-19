@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DGIL20240763                  COURTNEY P BALL                                           STAFF TRANSPORTATION                                                         $59.63
+DGIL20240764      08/19/2024  COURTNEY P BALL                   START       END         BUFFALO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $10.05
+DGIL20240765      08/19/2024  COURTNEY P BALL                                           STAFF TRANSPORTATION                                                         $10.49
+                  08/20/2024                                    06/27/2024  07/02/2024  BUFFALO TO ORCHARD PARK TO CHEEKTOWAGA                                     $109.88
+DGIL20240766                  JACINTA YUAN SZE CHEN                                     STAFF PER DIEM                                                               $35.54
+DGIL20240767      08/20/2024  JACINTA YUAN SZE CHEN             07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                         $14.74
+DGIL20240768      08/20/2024  COURTNEY P BALL                                           BUFFALO TO LAKEWOOD AND RETURN                                               $17.42
+DGIL20240769      08/20/2024  JACINTA YUAN SZE CHEN             07/19/2024  07/19/2024  STAFF TRANSPORTATION                                                         $26.50
+DGIL20240770      08/20/2024  JACINTA YUAN SZE CHEN                                     YONKERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $26.50
+DGIL20240771      08/20/2024  JACINTA YUAN SZE CHEN             07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                         $26.50  B-1224
+DGIL20240772      08/20/2024  JACINTA YUAN SZE CHEN             07/24/2024  07/24/2024  SCARSDALE TO VALHALLA AND RETURN                                             $26.50
+DGIL20240773      08/20/2024  JACINTA YUAN SZE CHEN             07/17/2024  07/17/2024  STAFF TRANSPORTATION                                                         $26.50
+DGIL20240774      08/20/2024  JACINTA YUAN SZE CHEN             07/15/2024  07/15/2024  BUFFALO TO ORCHARD PARK AND RETURN                                           $26.50
+DGIL20240775      08/20/2024  JACINTA YUAN SZE CHEN             07/17/2024  07/17/2024  STAFF TRANSPORTATION                                                         $53.00
+DGIL20240776      08/22/2024  JACINTA YUAN SZE CHEN             07/26/2024  07/26/2024  YONKERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $26.50
+DGIL20240777      08/20/2024  JACINTA YUAN SZE CHEN             07/30/2024  07/30/2024  STAFF TRANSPORTATION                                                         $79.50
+DGIL20240778      08/20/2024  JACINTA YUAN SZE CHEN             07/31/2024  07/31/2024  YONKERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $32.96
+DGIL20240779      08/20/2024  COURTNEY P BALL                   07/01/2024  07/01/2024  STAFF TRANSPORTATION                                                       $171.52
+DGIL20240780      08/19/2024  COURTNEY P BALL                   06/11/2024  06/12/2024  YONKERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  08/27/2024                                    06/14/2024  06/14/2024  STAFF TRANSPORTATION                                                          $8.44
+DGIL20240781                  JAMIE S FUESS                     06/17/2024  06/19/2024  YONKERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $143.38
+DGIL20240782      08/27/2024  JAMIE S FUESS                     06/26/2024  06/27/2024  STAFF TRANSPORTATION
+                  08/27/2024                                    07/25/2024  08/07/2024  YONKERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $12.06
+DGIL20240783                  JAMIE S FUESS                     08/08/2024  08/08/2024  STAFF TRANSPORTATION                                                         $75.02
+DGIL20240784      08/27/2024  JAMIE S FUESS                                             YONKERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $67.67
+DGIL20240785      08/27/2024  JAMIE S FUESS                     08/13/2024  08/13/2024  STAFF TRANSPORTATION                                                         $32.16
+                  08/27/2024                                    08/12/2024  08/12/2024  YONKERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $50.25
+                                                                                        STAFF TRANSPORTATION                                                         $27.04
+                                                                08/01/2024  08/01/2024  YONKERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $129.98
+                                                                07/25/2024  07/26/2024  STAFF TRANSPORTATION
+                                                                07/22/2024  07/22/2024  YONKERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        YONKERS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BUFFALO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BUFFALO TO NIAGARA FALLS, JAMESTOWN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SYRACUSE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SYRACUSE TO ROME AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SYRACUSE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SYRACUSE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SYRACUSE TO HERKIMER AND RETURN
+

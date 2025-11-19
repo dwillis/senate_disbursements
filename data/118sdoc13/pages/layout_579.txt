@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DBLA20241864                  NICHOLAS A KISTENMACHER                                   STAFF TRANSPORTATION                                                              $22.78
+DBLA20241865      08/08/2024  NEELY, BLAKEMON L                 START       END         MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $160.93
+DBLA20241866      08/09/2024  JAY C STROBINO                                            STAFF TRANSPORTATION                                                            $113.43
+DBLA20241867      08/08/2024  JAY C STROBINO                    07/31/2024  07/31/2024  IUKA MS TO PULASKI AND RETURN                                                   $124.88
+DBLA20241868      08/09/2024  JAY C STROBINO                                            STAFF TRANSPORTATION
+DBLA20241869      08/07/2024  JAY C STROBINO                    07/30/2024  07/30/2024  NASHVILLE TO COOKEVILLE AND RETURN                                                $74.30
+DBLA20241870      08/07/2024  JAY C STROBINO                                            STAFF TRANSPORTATION                                                              $41.33
+DBLA20241871      08/07/2024  JAY C STROBINO                    07/08/2024  07/08/2024  NASHVILLE TO TULLAHOMA, FRANKLIN AND RETURN                                       $64.65
+DBLA20241872      08/07/2024  PABLO A MARTINEZ                                          STAFF TRANSPORTATION                                                              $63.38
+DBLA20241873      08/12/2024  PABLO A MARTINEZ                  07/09/2024  07/09/2024  NASHVILLE TO COLUMBIA, ARRINGTON, FRANKLIN AND RETURN                             $56.95
+DBLA20241874      08/12/2024  NICHOLAS A KISTENMACHER                                   STAFF TRANSPORTATION                                                              $73.03
+DBLA20241875      08/08/2024  JAY C STROBINO                    07/10/2024  07/10/2024  NASHVILLE TO SMYRNA, FRANKLIN AND RETURN                                          $14.07
+DBLA20241876      08/07/2024  JAY C STROBINO                                            STAFF TRANSPORTATION                                                              $40.46
+DBLA20241877      08/07/2024  JAY C STROBINO                    07/11/2024  07/11/2024  NASHVILLE TO COLUMBIA, SPRING HILL AND RETURN                                     $76.51
+DBLA20241878      08/09/2024  JAY C STROBINO                                            STAFF TRANSPORTATION                                                            $107.58
+DBLA20241879      08/07/2024  JAY C STROBINO                    07/12/2024  07/12/2024  NASHVILLE TO SPRING HILL, COLUMBIA AND RETURN                                     $73.83
+DBLA20241880      08/07/2024  JAY C STROBINO                                            STAFF TRANSPORTATION                                                              $41.47
+DBLA20241881      08/09/2024  JAY C STROBINO                    07/15/2024  07/15/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $107.78
+DBLA20241882      08/07/2024  JAY C STROBINO                                            STAFF TRANSPORTATION                                                              $62.64
+DBLA20241883      08/07/2024  JAY C STROBINO                    08/01/2024  08/01/2024  NASHVILLE TO ASHLAND CITY, LEBANON AND RETURN                                     $89.56
+DBLA20241884      08/07/2024  JAY C STROBINO                                            STAFF TRANSPORTATION                                                              $69.94
+DBLA20241885      08/07/2024  JAY C STROBINO                    07/31/2024  07/31/2024  MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $17.28
+DBLA20241886      08/09/2024  JAY C STROBINO                                            STAFF TRANSPORTATION                                                            $119.66
+                  08/07/2024                                    08/01/2024  08/01/2024  NASHVILLE TO LEBANON AND RETURN                                                   $86.89  B-561
+DBLA20241887                  JAMES M WYATT                                             STAFF TRANSPORTATION
+DBLA20241888      08/07/2024  JAMES M WYATT                     07/16/2024  07/16/2024  NASHVILLE TO MOUNT JULIET, SPRING HILL AND RETURN                                 $76.38
+                  08/07/2024                                                            STAFF TRANSPORTATION                                                              $24.12
+                                                                07/17/2024  07/17/2024  NASHVILLE TO SPRING HILL, NASHVILLE, HENDERSONVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/18/2024  07/18/2024  NASHVILLE TO MOUNT JULIET, FAIRVIEW AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/19/2024  07/19/2024  NASHVILLE TO FRANKLIN, SPRING HILL AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/22/2024  07/22/2024  NASHVILLE TO COLUMBIA, SPRING HILL AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/23/2024  07/23/2024  NASHVILLE TO THOMPSONS STATION, MURFREESBORO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/24/2024  07/24/2024  NASHVILLE TO DICKSON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/25/2024  07/25/2024  NASHVILLE TO LEWISBURG AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/26/2024  07/26/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                07/29/2024  07/29/2024  NASHVILLE TO SMYRNA, MANCHESTER, SPRING HILL AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/30/2024  07/30/2024  NASHVILLE TO SMYRNA, MOUNT JULIET, THOMPSONS STATION AND
+                                                                                        RETURN
+                                                                07/31/2024  07/31/2024  STAFF TRANSPORTATION
+                                                                                        JACKSON TO UNION CITY AND RETURN
+                                                                07/16/2024  07/16/2024  STAFF TRANSPORTATION
+                                                                07/17/2024  07/17/2024
+

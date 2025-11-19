@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION            AMOUNT ($)
+                   POSTED                                                  DATES
+DBDD20240448                  SAMUEL JOSEPH SHUMATE                                     STAFF TRANSPORTATION                                                                 $219.15
+DBDD20240449      05/31/2024  SAMUEL JOSEPH SHUMATE             START       END         SANFORD TO EMERALD ISLE AND RETURN                                                     $68.34
+DBDD20240450      05/26/2024  SAMUEL JOSEPH SHUMATE                                     STAFF TRANSPORTATION
+DBDD20240453      05/31/2024  DAVID M HELSLEY                   05/09/2024  05/09/2024  SANFORD TO RALEIGH AND RETURN                                                        $102.37
+DBDD20240454      05/30/2024  DAVID M HELSLEY                                           STAFF TRANSPORTATION                                                                 $115.91
+DBDD20240455      05/25/2024  DAVID M HELSLEY                   05/08/2024  05/08/2024  SANFORD TO FAYETTEVILLE, DUNN, BENSON, CLAYTON AND RETURN
+DBDD20240456      05/30/2024  SAMUEL JOSEPH SHUMATE                                     STAFF TRANSPORTATION                                                                   $58.29
+                  05/31/2024                                    05/07/2024  05/07/2024  ADVANCE TO CHARLOTTE AND RETURN                                                      $158.17
+DBDD20240457                  SAMUEL JOSEPH SHUMATE                                     STAFF TRANSPORTATION
+DBDD20240458      06/10/2024  SAMUEL JOSEPH SHUMATE             03/21/2024  03/21/2024  ADVANCE TO GREENSBORO AND RETURN                                                       $19.28
+                  05/31/2024                                                            STAFF TRANSPORTATION                                                                 $150.01
+DBDD20240459                                                    04/25/2024  04/25/2024  ADVANCE TO CHARLOTTE AND RETURN                                                      $181.57
+DBDD20240460                                                                            STAFF PER DIEM
+DBDD20240462                                                    04/05/2024  04/05/2024  STAFF TRANSPORTATION                                                                   $11.09
+DBDD20240463                                                                            SANFORD TO WHITEVILLE, CHADBOURN, TABOR CITY AND RETURN                              $251.85
+                                                                05/10/2024  05/10/2024  STAFF TRANSPORTATION
+                                                                                        SANFORD TO JACKSONVILLE, SNEADS FERRY AND RETURN                                     $101.10
+                                                                05/11/2024  05/11/2024  STAFF PER DIEM                                                                         $18.76
+                                                                05/13/2024  05/13/2024  STAFF TRANSPORTATION
+                                                                                        SANFORD TO ATLANTIC BEACH, MOREHEAD CITY, BEAUFORT, NEW BERN                         $381.90
+                  05/31/2024  SAMUEL JOSEPH SHUMATE             05/14/2024  05/14/2024  AND RETURN                                                                           $964.93   B-727
+                  05/28/2024  MARCEL MILEWSKI                   05/13/2024  05/15/2024  STAFF TRANSPORTATION
+                  06/03/2024  JOSEPH TUCKER KNOTT               05/12/2024  05/15/2024  SANFORD TO ELIZABETHTOWN, FAYETTEVILLE AND RETURN                                    $946.04
+                  05/31/2024  WILLIAM J SOMERS                  04/01/2024  04/17/2024  STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $171.52
+DBDD20240464      05/31/2024  WILLIAM J SOMERS                  04/18/2024  05/01/2024  STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC TO RALEIGH AND RETURN                                                  $202.34
+DBDD20240465      05/31/2024  WILLIAM J SOMERS                  05/02/2024  05/03/2024  STAFF TRANSPORTATION                                                                   $60.30
+                                                                                        YADKINVILLE TO THE FOLLOWING AND RETURN: 4/1 KERNERSVILLE,
+DBDD20240466      05/31/2024  WILLIAM J SOMERS                  04/10/2024  04/12/2024  WINSTON SALEM; 4/2 GREENSBORO; 4/3 RALEIGH; 4/4 WILKESBORO; 4/5                      $237.64
+DBDD20240467      05/28/2024  JOSEPH TUCKER KNOTT               05/16/2024  05/16/2024  ASHEVILLE; 4/8 GASTONIA, BELMONT, MOUNT HOLLY; 4/9 MOCKSVILLE,                         $67.20
+DBDD20240468      06/03/2024  SAMUEL JOSEPH SHUMATE             05/21/2024  05/21/2024  ADVANCE; 4/15 ADVANCE, MOCKSVILLE; 4/16 THOMASVILLE; 4/17 DALLAS,
+DBDD20240469      05/28/2024  SAMUEL JOSEPH SHUMATE             05/20/2024  05/20/2024  DENVER                                                                               $627.79
+DBDD20240470      05/31/2024  JOHN M TAYLOE                     04/29/2024  05/04/2024  STAFF TRANSPORTATION
+                                                                                        YADKINVILLE TO THE FOLLOWING AND RETURN: 4/18 MOCKSVILLE, BEECH
+                                                                                        MOUNTAIN; 4/19 SALISBURY, ADVANCE; 4/22 CONCORD; 4/23 HICKORY; 4/24
+                                                                                        GREENSBORO, THOMASVILLE, CLEMMONS, ADVANCE; 4/25 MOCKSVILLE,
+                                                                                        CONCORD; 4/26 HIGH POINT, THOMASVILLE; 4/29 LINCOLNTON; 4/30
+                                                                                        GREENSBORO; 5/1 WINSTON SALEM, GREENSBORO
+                                                                                        STAFF TRANSPORTATION
+                                                                                        YADKINVILLE TO THE FOLLOWING AND RETURN: 5/2 SPRUCE PINE; 5/3
+                                                                                        ADVANCE, MOCKSVILLE
+                                                                                        STAFF TRANSPORTATION
+                                                                                        YADKINVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SANFORD TO JACKSONVILLE, CAMP LEJEUNE, ROSE HILL AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SANFORD TO FAYETTEVILLE, PARKTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE                     PAYEE NAME   OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+                  POSTED                                             DATES
+DSBU20240094                                                                      AIRFARE FOR J WITT WASHINGTON DC TO BOSTON MA AND RETURN                            $338.21
+DSBU20240095                                              START       END         STAFF TRANSPORTATION                                                                  $60.00
+DSBU20240096                                                                      TICKET FEES
+DSBU20240099      04/08/2024  CITIBANK - TRAVEL CBA CARD  03/20/2024  03/21/2024  AIRFARE FOR M WEST WASHINGTON DC TO BOSTON MA AND RETURN                              $46.10
+                  04/01/2024  CITIBANK - TRAVEL CBA CARD                          STAFF TRANSPORTATION                                                                  $20.00
+                  04/09/2024  CITIBANK - TRAVEL CBA CARD  03/20/2024  03/20/2024  TICKET FEES
+                  04/22/2024  DEVON A REDFIELD                                    AIRFARE FOR S SCOCA WASHINGTON DC TO BOSTON MA                                   $1,716.21
+                                                          03/07/2024  03/09/2024  STAFF TRANSPORTATION                                                                  $60.00
+                                                                                  TICKET FEES
+                                                          02/20/2024  02/23/2024  AIRFARE FOR M WEST WASHINGTON DC TO AUSTIN TX AND RETURN                              $43.28
+                                                                                  STAFF INCIDENTALS                                                                   $559.08
+DSBU20240100      04/09/2024  JUSTIN M WITT               03/20/2024  03/21/2024  STAFF PER DIEM                                                                      $826.42
+DSBU20240101                                                                      STAFF TRANSPORTATION
+DSBU20240105      04/09/2024  MEREDITH D WEST             03/25/2024  03/27/2024  WASHINGTON DC TO DES MOINES IA, MASON CITY IA, FORT DODGE IA,                         $46.24  B-2-149
+DSBU20240106                                                                      CHEROKEE IA, LE MARS IA, SIOUX CITY IA, COUNCIL BLUFFS IA, CRESTON                  $354.39
+DSBU20240112      05/21/2024  VIVIAN LING                 05/06/2024  05/06/2024  IA, DES MOINES AND RETURN
+DSBU20240113      05/20/2024  SAMANTHA DANIELLE SCOCA     05/05/2024  05/09/2024  STAFF INCIDENTALS                                                                     $51.88
+DSBU20240115                                                                      STAFF PER DIEM
+DSBU20240116      05/29/2024  MEREDITH D WEST             05/17/2024  05/17/2024  STAFF TRANSPORTATION                                                                  $52.49
+                                                                                  WASHINGTON DC TO BOSTON MA AND RETURN                                               $562.73
+DSBU20240117      05/26/2024  MEREDITH D WEST             05/13/2024  05/13/2024  STAFF INCIDENTALS                                                                   $160.80
+DSBU20240118      06/03/2024  SAMANTHA DANIELLE SCOCA     05/19/2024  05/23/2024  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION                                                                $109.64
+                  06/05/2024  MEREDITH D WEST             05/23/2024  05/25/2024  WASHINGTON DC TO CHARLOTTESVILLE VA AND RETURN
+                                                                                  STAFF TRANSPORTATION                                                                $147.08
+                  06/07/2024  JUSTIN M WITT               05/28/2024  05/29/2024  INTERDEPARTMENTAL TRANSPORTATION                                                 $1,213.86
+                                                                                  STAFF INCIDENTALS
+                  06/10/2024  JACOB D PRESS               05/28/2024  05/29/2024  STAFF PER DIEM                                                                      $897.48
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BARTLETT NH TO WASHINGTON DC AND RETURN                                               $75.00
+                                                                                  STAFF PER DIEM                                                                      $187.60
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO PHILADELPHIA PA AND RETURN                                           $20.00
+                                                                                  STAFF TRANSPORTATION
+                                                                                  INTERDEPARTMENTAL TRANSPORTATION                                                    $164.96
+                                                                                  STAFF INCIDENTALS                                                                $1,248.03
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION                                                                $224.80
+                                                                                  BARTLETT NH TO WASHINGTON DC, BOSTON MA AND RETURN
+                                                                                  STAFF INCIDENTALS                                                                     $79.74
+                                                                                  STAFF PER DIEM                                                                      $544.75
+                                                                                  STAFF TRANSPORTATION                                                             $1,044.20
+                                                                                  ALEXANDRIA VA TO WASHINGTON DC, SAN FRANCISCO CA, PALO ALTO CA,
+                                                                                  WASHINGTON AND RETURN                                                                 $49.21
+                                                                                  STAFF INCIDENTALS                                                                   $366.63
+                                                                                  STAFF PER DIEM                                                                      $241.67
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO BOSTON MA, DURHAM NH, BOSTON AND RETURN                              $10.63
+                                                                                  STAFF INCIDENTALS                                                                   $172.36
+                                                                                  STAFF PER DIEM
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DBOO20240397                  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                        $179.10
+DBOO20240398      06/06/2024  CITIBANK - TRAVEL CBA CARD        START       END         AIRFARE FOR SEN BOOZMAN WASHINGTON DC TO OKLAHOMA CITY OK                     $264.10
+DBOO20240399      06/06/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION
+DBOO20240400      06/06/2024  CHASE A EMERSON                   05/16/2024  05/16/2024  AIRFARE FOR SEN BOOZMAN FAYETTEVILLE TO WASHINGTON DC                         $264.10
+                  06/03/2024                                                            SENATOR TRANSPORTATION
+DBOO20240401                  CHASE A EMERSON                   05/20/2024  05/20/2024  AIRFARE FOR SEN BOOZMAN WASHINGTON DC TO FAYETTEVILLE                           $19.10
+DBOO20240402      06/03/2024  BOOZMAN,JOHN                                              STAFF PER DIEM                                                                $147.42
+                  06/07/2024                                    05/23/2024  05/23/2024  STAFF TRANSPORTATION
+                                                                                        EL DORADO TO HOT SPRINGS AND RETURN                                           $146.83
+                                                                05/21/2024  05/21/2024  STAFF TRANSPORTATION
+                                                                                        EL DORADO TO HOT SPRINGS AND RETURN                                             $28.96
+                                                                05/22/2024  05/22/2024  SENATOR INCIDENTALS                                                           $293.72
+                                                                05/16/2024  05/20/2024  SENATOR PER DIEM
+                                                                                        SENATOR TRANSPORTATION                                                          $11.70
+DBOO20240407      05/29/2024  CHASE A EMERSON                   05/23/2024  05/23/2024  WASHINGTON DC TO OKLAHOMA CITY OK, STILLWATER OK, ROGERS,                               B-628
+DBOO20240408      06/05/2024  JOSHUA WILLIAM MULLINAX           05/21/2024  05/22/2024  FAYETTEVILLE AND RETURN                                                         $74.88
+DBOO20240409      05/29/2024  JOSHUA WILLIAM MULLINAX           05/23/2024  05/23/2024  STAFF TRANSPORTATION
+DBOO20240410      06/04/2024  JESSICA LAUREN SOLLEY             05/15/2024  05/15/2024  EL DORADO TO CROSSETT, HAMBURG AND RETURN                                       $54.98
+DBOO20240411      06/05/2024  JESSICA LAUREN SOLLEY             05/21/2024  05/22/2024  STAFF PER DIEM                                                                $218.20
+DBOO20240414      06/05/2024  KATHY J WATSON                    04/04/2024  04/04/2024  STAFF TRANSPORTATION
+DBOO20240415      06/04/2024  KATHY J WATSON                    03/20/2024  03/20/2024  JONESBORO TO HOT SPRINGS AND RETURN                                             $46.80
+DBOO20240416      06/05/2024  CHASE A EMERSON                   05/28/2024  05/28/2024  STAFF TRANSPORTATION
+DBOO20240417      06/04/2024  MATTHEW T MYERS                   05/21/2024  05/21/2024  JONESBORO TO POCAHONTAS AND RETURN                                              $18.28
+DBOO20240418      06/07/2024  MATTHEW T MYERS                   05/22/2024  05/23/2024  STAFF PER DIEM                                                                $181.35
+                                                                                        STAFF TRANSPORTATION
+DBOO20240420      06/06/2024  JESSICA LAUREN SOLLEY             05/28/2024  05/28/2024  FORT SMITH TO LITTLE ROCK AND RETURN                                            $55.28
+DBOO20240421      06/06/2024  MATTHEW T MYERS                   05/28/2024  05/28/2024  STAFF PER DIEM                                                                $171.99
+DBOO20240422      06/06/2024  JOSHUA WILLIAM MULLINAX           05/30/2024  05/30/2024  STAFF TRANSPORTATION
+                                                                                        FORT SMITH TO HOT SPRINGS AND RETURN                                            $19.77
+                                                                                        STAFF PER DIEM                                                                $189.54
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FORT SMITH TO LITTLE ROCK AND RETURN                                             $8.75
+                                                                                        STAFF PER DIEM                                                                  $88.92
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FORT SMITH TO LOWELL AND RETURN                                               $142.74
+                                                                                        STAFF TRANSPORTATION
+                                                                                        EL DORADO TO HAZEN AND RETURN                                                   $98.86
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MOUNTAIN HOME TO BATESVILLE, CAVE CITY, MELBOURNE AND RETURN                    $14.35
+                                                                                        STAFF INCIDENTALS                                                               $98.99
+                                                                                        STAFF PER DIEM                                                                $235.17
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MOUNTAIN HOME TO HOT SPRINGS AND RETURN                                       $232.83
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FORT SMITH TO HAZEN AND RETURN                                                  $64.35
+                                                                                        STAFF TRANSPORTATION
+                                                                                        MOUNTAIN HOME TO HARRISON AND RETURN                                            $13.79
+                                                                                        STAFF PER DIEM                                                                  $78.97
+                                                                                        STAFF TRANSPORTATION
+                                                                                        JONESBORO TO WYNNE, FORREST CITY AND RETURN
+

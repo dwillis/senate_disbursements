@@ -1,0 +1,61 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME       OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                                DATES
+VSAA22405257       POSTED     JOHNSON CONTROLS                                               AUDIO, VISUAL EQUIP MAINT                                               $1,004.03
+VSAA22405258                  JOHNSON CONTROLS                       START       END         AUDIO, VISUAL EQUIP MAINT                                               $3,051.27
+VSAA22405259      06/12/2024  JOHNSON CONTROLS                                               AUDIO, VISUAL EQUIP MAINT
+VSAA22405260      06/12/2024  JOHNSON CONTROLS                       01/31/2023  01/31/2023  AUDIO, VISUAL EQUIP MAINT                                                  $585.05   B-358
+VSAA22405261      06/12/2024  JOHNSON CONTROLS                       01/23/2023  01/23/2023  AUDIO, VISUAL EQUIP MAINT                                                  $255.01
+VSAA22405262      06/12/2024  JOHNSON CONTROLS                       01/19/2023  01/19/2023  AUDIO, VISUAL EQUIP MAINT                                                  $188.27
+VSAA22405263      06/11/2024  JOHNSON CONTROLS                       01/06/2023  01/06/2023  AUDIO, VISUAL EQUIP MAINT                                                  $373.67
+VSAA22405264      06/11/2024  JOHNSON CONTROLS                       01/05/2023  01/05/2023  AUDIO, VISUAL EQUIP MAINT                                                  $213.17
+VSAA22405265      06/12/2024  JOHNSON CONTROLS                       01/11/2023  01/11/2023  AUDIO, VISUAL EQUIP MAINT                                                  $279.03
+VSAA22405266      06/12/2024  PERATON ENTERPRISE SOLUTIONS           01/11/2023  01/11/2023  TECHNICAL SUPPORT                                                          $241.95
+VSAA22405291      06/11/2024  PERATON ENTERPRISE SOLUTIONS           01/17/2023  01/17/2023  TECHNICAL SUPPORT                                                      $61,597.76
+VSAA22405310      05/24/2024  CHRISTOPHER LAW                        01/06/2023  01/06/2023  MONITORING & GUARD SERVICES                                            $44,795.10
+VSAA22405416      05/24/2024  FCN INC                                12/12/2023  12/12/2023  VOICE, DATA COMM EQP MAINT                                              $6,667.00
+VSAA22405419      05/13/2024  CFO SOLUTIONS LLC                      12/13/2023  12/13/2023  TECHNICAL SUPPORT                                                       $7,514.78
+VSAA22405435      05/21/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC     04/01/2024  04/30/2024  TECHNICAL SUPPORT                                                       $2,800.00
+VSAA22405493      05/17/2024  NATIONAL CAPTIONING INSTITUTE, INC.    04/29/2024  09/30/2024  TECHNICAL SUPPORT                                                       $9,366.00
+VSAA22405494      05/28/2024  NATIONAL CAPTIONING INSTITUTE, INC.    05/01/2024  05/31/2024  TECHNICAL SUPPORT                                                       $3,415.00
+                  06/11/2024  GENERAL DYNAMICS INFORMATION TECH      03/30/2024  04/26/2024                                                                         $20,575.16
+VSAA22405549      06/11/2024  INC                                    04/09/2024  04/18/2024  APPLICATION SOFTWARE MAINT
+                              CANON U.S.A., INC.                     04/03/2024  04/30/2024                                                                       $100,697.14
+VSAA22405637      05/29/2024  CFO SOLUTIONS LLC                                              PRODUCTION EQUIP MAINT
+VSAA22405644                  CFO SOLUTIONS LLC                      03/30/2024  04/26/2024  TECHNICAL SUPPORT                                                          $140.88
+VSAA22405665      05/31/2024  BLACK CREEK BUILDERS LLC                                       TECHNICAL SUPPORT                                                      $98,915.00
+VSAA22405695      05/29/2024  FCN INC                                04/01/2024  04/30/2024  NON-FEDERAL FAC MAINT, REPAIR
+VSAA22405698      06/10/2024  BARTON ROGERS GROUP LLC                04/01/2024  04/30/2024  VOICE, DATA COMM EQP MAINT                                              $2,800.00
+VSAA22405720      05/29/2024  THE EDUCE GROUP, INC.                  04/01/2024  04/30/2024  TECHNICAL SUPPORT                                                      $50,470.58
+VSAA22405721      06/06/2024  CHESAPEAKE NETCRAFTSMEN, LLC           05/15/2024  05/15/2024  TECHNICAL SUPPORT
+VSAA22405722      05/30/2024  PERATON INC.                           05/13/2024  09/30/2024  APPLICATION SOFTWARE MAINT                                                 $962.65
+VSAA22405726      06/14/2024  DLT SOLUTIONS LLC                      12/01/2023  05/31/2024  TECHNICAL SUPPORT                                                      $10,560.00
+VSAA22405750      06/10/2024  PFINIX LLC                             03/31/2024  05/04/2024  TRAIN/ORIENT/CONFERENCE FEES                                           $17,075.12
+VSAA22405827      05/30/2024  SPECIAL AEROSPACE SECURITY             01/30/2024  01/30/2024  VOICE, DATA COMM EQP MAINT                                             $42,300.00
+                  06/24/2024  SERVICES, INC                          09/28/2023  09/28/2023                                                                         $56,579.40
+VSAA22405843      06/13/2024  BY LIGHT PROFESSIONAL IT SERVICES LLC  04/17/2024  04/17/2025  IT SECURITY                                                            $25,371.84
+                              TBI CONSTRUCTION COMPANY               06/01/2024  05/31/2025                                                                         $30,371.00
+VSAA22405847      05/31/2024  MYTHICS INC                                                    VOICE, DATA COMM EQP MAINT
+VSAA22405909                  MYTHICS INC                            04/13/2024  05/12/2024  NON-FEDERAL FAC MAINT, REPAIR                                          $52,029.52
+VSAA22405919      06/11/2024  KONICA MINOLTA BUSINESS SOLUTIONS U.                           APPLICATION SOFTWARE MAINT
+VSAA22405927      06/12/2024  S.A.                                   04/10/2024  04/10/2024  VOICE, DATA COMM EQP MAINT                                             $14,011.76
+                  07/08/2024  KONICA MINOLTA BUSINESS SOLUTIONS U.   03/15/2024  05/15/2024                                                                          $7,229.00
+VSAA22405981      06/10/2024  S.A.                                   11/30/2023  02/28/2024  PRODUCTION EQUIP MAINT
+                              LEIDOS DIGITAL SOLUTIONS INC           05/31/2023  05/31/2023                                                                         $89,235.09
+VSAA22405982      06/24/2024  K INTERIORS INC                                                PRODUCTION EQUIP MAINT                                                 $14,605.12
+                              ATLANTIC GRAPHIC SYSTEMS INC           10/01/2023  12/31/2023
+VSAA22405991      06/25/2024  CHRISTOPHER LAW                                                APPLICATION SOFTWARE MAINT                                                 $202.22
+VSAA22406001                  REFFETT & ASSOCIATES LTD               01/01/2024  03/31/2024  FEDERAL FAC MAINT, REPAIR
+VSAA22406042      07/08/2024  CANON SOLUTIONS AMERICA INC                                    PRODUCTION EQUIP MAINT                                                     $202.15
+VSAA22406044      06/12/2024  CFO SOLUTIONS LLC                      04/01/2024  04/30/2024  MONITORING & GUARD SERVICES
+VSAA22406045      06/18/2024  TOTAL SECURITY SOLUTIONS INC           05/14/2024  05/14/2024  MANAGEMENT CONSULTANTS                                                       $31.00
+VSAA22406051      06/12/2024  THE EDUCE GROUP, INC.                  04/01/2024  06/30/2024  PRODUCTION EQUIP MAINT                                                  $1,540.00
+VSAA22406119      06/06/2024  GLOBAL INFORMATION PARTNERS LLC        05/01/2024  05/31/2024  TECHNICAL SUPPORT                                                       $5,150.00
+VSAA22406160      06/24/2024  OMNI BUSINESS SYSTEMS, INC             04/14/2023  04/14/2023  NON-FEDERAL FAC MAINT, REPAIR                                           $6,667.00
+VSAA22406185      06/25/2024                                         03/01/2024  05/31/2024  TECHNICAL SUPPORT                                                      $22,987.24
+VSAA22406187      06/18/2024                                         06/01/2024  06/30/2024  STUDIES, ANALYSES, & EVALS                                              $3,870.00
+VSAA22406197      06/18/2024                                         04/11/2024  04/11/2024  PRODUCTION EQUIP MAINT                                                  $2,800.00
+                  06/18/2024                                         02/25/2024  03/30/2024                                                                          $9,848.00
+                  06/28/2024                                         05/30/2024  05/30/2024                                                                         $29,807.04
+                                                                     09/11/2023  09/11/2023                                                                         $48,250.00
+                                                                                                                                                                     $1,445.23
+

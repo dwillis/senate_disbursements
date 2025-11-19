@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME    OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                                                                             DATES
+VSAA22404301       POSTED     GRAPHX, INC.                                                SOFTWARE CUSTOM DEVELOPED                                               $1,750.00
+VSAA22404323                  REVA SOLUTIONS INC                  START       END         SOFTWARE LICENSE                                                        $6,904.80
+VSAA22404326      04/09/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC                          AUDIO, VISUAL EQUIPMENT
+VSAA22404389      04/09/2024  LEIDOS DIGITAL SOLUTIONS INC        03/21/2024  03/21/2024  SOFTWARE LICENSE                                                           $170.82
+VSAA22404441      04/09/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC  01/03/2024  01/02/2025  AUDIO, VISUAL EQUIPMENT                                                 $4,900.00
+                  04/18/2024                                      02/29/2024  02/29/2024  IT SUPPORTIVE EQUIPMENT                                                $17,067.88
+VSAA22404442      04/10/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC  02/01/2024  02/29/2024  VOICE & DATA COMM EQUIPMENT                                            $12,576.44
+VSAA22404446                  PERATON ENTERPRISE SOLUTIONS        10/06/2023  10/06/2023  VOICE & DATA COMM EQUIPMENT                                          $262,104.86
+VSAA22404450      04/10/2024  PERATON ENTERPRISE SOLUTIONS                                VOICE & DATA COMM EQUIPMENT
+VSAA22404452      04/17/2024  PERATON ENTERPRISE SOLUTIONS        03/01/2024  03/01/2024  VOICE & DATA COMM EQUIPMENT                                                $373.74  B-449
+VSAA22404454      05/01/2024  PERATON ENTERPRISE SOLUTIONS        02/26/2024  02/26/2024  VOICE & DATA COMM EQUIPMENT                                                $177.99
+VSAA22404474      05/06/2024  CREATIVENGINE CORPORATION           02/26/2024  02/26/2024  VOICE & DATA COMM EQUIPMENT                                             $1,024.37
+VSAA22404476      04/16/2024  CREATIVENGINE CORPORATION           03/11/2024  03/11/2024  SOFTWARE LICENSE                                                        $3,605.84
+VSAA22404477      04/18/2024  CREATIVENGINE CORPORATION           02/05/2024  02/05/2024  SOFTWARE LICENSE                                                        $7,990.59
+VSAA22404478      04/26/2024  CREATIVENGINE CORPORATION           03/01/2024  03/31/2024  SOFTWARE LICENSE                                                        $4,000.00
+VSAA22404487      04/12/2024  ASCENDANT APP, LLC                  03/01/2024  03/31/2024  SOFTWARE LICENSE                                                           $500.00
+VSAA22404489      04/12/2024  CREATIVENGINE CORPORATION           03/01/2024  03/31/2024  SOFTWARE LICENSE                                                           $500.00
+VSAA22404490      04/11/2024  CREATIVENGINE CORPORATION           03/01/2024  03/31/2024  SOFTWARE LICENSE                                                           $500.00
+VSAA22404491      04/16/2024  CREATIVENGINE CORPORATION           03/01/2024  03/31/2024  SOFTWARE LICENSE                                                        $2,735.00
+VSAA22404492      04/12/2024  CREATIVENGINE CORPORATION           03/01/2024  03/31/2024  SOFTWARE LICENSE                                                           $500.00
+VSAA22404498      04/26/2024  CREATIVENGINE CORPORATION           03/01/2024  03/31/2024  SOFTWARE LICENSE                                                           $500.00
+VSAA22404500      04/12/2024  COMPUTERWORKS INC.                  03/01/2024  03/31/2024  SOFTWARE LICENSE                                                           $500.00
+VSAA22404506      04/18/2024  PERSPECTA ENTERPRISE SOLUTIONS LLC  03/01/2024  03/31/2024  SOFTWARE LICENSE                                                           $500.00
+VSAA22404507      04/22/2024  RTK FLOORING                        03/01/2024  03/31/2024  VOICE & DATA COMM EQUIPMENT                                            $14,000.00
+VSAA22404508      04/24/2024  RTK FLOORING                        03/01/2024  03/31/2024  CARPETING                                                               $3,881.00
+VSAA22404514      04/17/2024  SYMPLICITY CORPORATION              04/02/2024  04/02/2024  CARPETING                                                            $280,086.28
+VSAA22404515      04/17/2024  SYMPLICITY CORPORATION              03/27/2024  03/27/2024  SOFTWARE LICENSE                                                           $538.65
+VSAA22404576      04/17/2024  PERATON ENTERPRISE SOLUTIONS        03/27/2024  03/27/2024  SOFTWARE LICENSE                                                           $938.85
+VSAA22404577      04/22/2024  PERATON ENTERPRISE SOLUTIONS        03/01/2024  03/31/2024  VOICE & DATA COMM EQUIPMENT                                                $235.00
+VSAA22404581      04/24/2024  ASCENDANT APP, LLC                  03/01/2024  03/31/2024  VOICE & DATA COMM EQUIPMENT                                            $16,480.00
+VSAA22404642      04/16/2024  TRANSMEDIA DYNAMICS INC             03/26/2024  03/26/2024  SOFTWARE LICENSE                                                        $7,268.40
+VSAA22404647      04/11/2024  PERATON INC.                        02/02/2024  02/02/2024  SOFTWARE CUSTOM DEVELOPED                                               $9,126.66
+VSAA22404743      05/13/2024  LEIDOS DIGITAL SOLUTIONS INC        02/01/2024  02/29/2024  VOICE & DATA COMM EQUIPMENT                                             $2,735.00
+VSAA22404822      04/22/2024  FABRICA                             10/18/2023  10/18/2023  SOFTWARE LICENSE                                                       $20,000.00
+VSAA22404825      04/23/2024  INSIGHT PUBLIC SECTOR INC           12/28/2023  12/28/2023  CARPETING                                                              $93,362.80
+VSAA22404886      04/25/2024  POPL CO                             03/01/2024  03/31/2024  SOFTWARE LICENSE                                                       $48,600.00
+VSAA22404890      05/02/2024  RTK FLOORING                        03/14/2024  03/14/2024  SOFTWARE LICENSE                                                        $2,189.66
+VSAA22404901      04/26/2024  GENERAL SERVICES ADMINISTRATION     03/28/2024  03/28/2024  CARPETING                                                               $1,890.00
+VSAA22404935      04/26/2024  POPL CO                             04/15/2024  04/15/2024  FURNISHINGS                                                                $419.40
+VSAA22404961      04/22/2024  CHESAPEAKE NETCRAFTSMEN, LLC        04/03/2024  04/03/2024  SOFTWARE LICENSE                                                        $1,484.15
+                  04/30/2024                                      04/11/2024  04/11/2024  SOFTWARE LICENSE                                                        $6,718.52
+VSAA22404977      05/15/2024  PERATON ENTERPRISE SOLUTIONS        04/15/2024  04/15/2024  VOICE & DATA COMM EQUIPMENT                                             $2,013.12
+VSAA22404978                  PERATON ENTERPRISE SOLUTIONS        04/04/2024  04/04/2024  SOFTWARE LICENSE                                                           $418.52
+VSAA22404979      04/29/2024  PERATON ENTERPRISE SOLUTIONS                                VOICE & DATA COMM EQUIPMENT                                             $2,592.96
+VSAA22404981      04/30/2024  PERATON ENTERPRISE SOLUTIONS        03/19/2024  03/19/2024  VOICE & DATA COMM EQUIPMENT                                                $556.68
+VSAA22405017      05/06/2024  SAFCO PRODUCTS COMPANY              03/14/2024  03/14/2024  VOICE & DATA COMM EQUIPMENT                                             $2,827.29
+VSAA22405028      06/06/2024  GRAINGER                            04/02/2024  04/02/2024  FURNISHINGS                                                                $339.50
+VSAA22405045      05/02/2024  REVA SOLUTIONS INC                  04/02/2024  04/02/2024  VOICE & DATA COMM EQUIPMENT                                             $4,021.12
+VSAA22405056      05/02/2024  CARAHSOFT TECHNOLOGY CORPORATION    03/14/2024  03/14/2024  SOFTWARE LICENSE                                                           $528.75
+                  04/30/2024                                      04/18/2024  04/18/2024  SOFTWARE LICENSE                                                           $295.40
+                  05/03/2024                                      06/01/2024  05/31/2025                                                                         $18,433.80
+                                                                  03/01/2024  03/31/2024                                                                         $20,599.08
+

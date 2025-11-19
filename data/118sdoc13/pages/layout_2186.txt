@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                               DATES
+DROU20240746                                                                        PIERRE TO SIOUX FALLS AND RETURN                                                $117.09
+                                                            START       END         STAFF INCIDENTALS                                                            $1,176.00
+DROU20240747                                                                        STAFF PER DIEM                                                               $1,552.56
+DROU20240748      06/24/2024  KIMBERLY J OLSON              05/21/2024  05/24/2024  STAFF TRANSPORTATION
+DROU20240749                                                                        PIERRE TO ABERDEEN, WASHINGTON DC, SIOUX FALLS AND RETURN                         $80.40
+DROU20240750      06/14/2024  SHELBY R LINKE                06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                         $1,146.90    B-2149
+DROU20240755      06/24/2024  ARDEN GRACE KOENECKE          05/23/2024  06/03/2024  SIOUX FALLS TO BROOKINGS AND RETURN
+DROU20240756      06/24/2024  M MICHAEL ROUNDS              06/07/2024  06/10/2024  STAFF TRANSPORTATION                                                            $475.10
+DROU20240757      06/24/2024  REBECCA JO HERMAN             06/12/2024  06/12/2024  WASHINGTON DC TO MINNEAPOLIS MN, EDEN PRAIRIE MN, PIERRE, EDEN
+DROU20240760      06/25/2024  LORRAINE POLAK                06/10/2024  06/10/2024  PRAIRIE MN, MINNEAPOLIS MN AND RETURN                                           $158.38
+DROU20240762                                                                        SENATOR TRANSPORTATION                                                             $5.31
+DROU20240763      06/24/2024  GRALING PETE CARMICHAEL       06/03/2024  06/03/2024  WASHINGTON DC TO MINNEAPOLIS MN, EDEN PRAIRIE MN, PIERRE, EDEN
+DROU20240764      06/25/2024  NELSON, MARY L                06/12/2024  06/12/2024  PRAIRIE MN, MINNEAPOLIS MN AND RETURN                                           $254.60
+DROU20240766                                                                        STAFF TRANSPORTATION                                                              $56.28
+                  06/27/2024  ANDREW S JENSEN               05/23/2024  06/02/2024  RUTLAND TO HURON, CASTLEWOOD AND RETURN                                            $9.83
+DROU20240768      06/27/2024  CAPITAL CITY AIR CARRIER INC  06/09/2024  06/09/2024  STAFF PER DIEM                                                                    $96.48
+DROU20240773      06/27/2024  CAPITAL CITY AIR CARRIER INC  06/10/2024  06/10/2024  STAFF TRANSPORTATION
+DROU20240774      07/01/2024  M MICHAEL ROUNDS              06/14/2024  06/17/2024  PIERRE TO RAPID CITY AND RETURN                                              $1,425.58
+DROU20240775      06/28/2024  JAMES STEVEN SELCHERT         06/11/2024  06/14/2024  STAFF TRANSPORTATION
+DROU20240776                                                                        RAPID CITY TO SPEARFISH AND RETURN                                           $2,932.85
+DROU20240777      06/28/2024  REBECCA JO HERMAN             06/18/2024  06/18/2024  STAFF PER DIEM                                                               $5,865.70
+DROU20240778      07/01/2024  CAPITAL CITY AIR CARRIER INC  06/14/2024  06/14/2024  STAFF TRANSPORTATION                                                         $1,065.20
+                  07/03/2024  CAPITAL CITY AIR CARRIER INC  06/17/2024  06/17/2024  PIERRE TO MILLER AND RETURN
+                  07/01/2024  M MICHAEL ROUNDS              06/20/2024  06/20/2024  STAFF TRANSPORTATION                                                              $22.62
+                  07/05/2024  SHELBY R LINKE                06/20/2024  06/20/2024  WASHINGTON DC TO MINNEAPOLIS MN, PIERRE, SIOUX FALLS, PIERRE,                   $206.98
+                  07/05/2024  REBECCA JO HERMAN             06/26/2024  06/26/2024  MARTIN, PIERRE, SIOUX FALLS, OMAHA NE AND RETURN                                $542.70
+                  07/03/2024  CITIBANK - TRAVEL CBA CARD    06/21/2024  06/21/2024  SENATOR TRANSPORTATION
+                                                                                    AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN                       $23.18
+                                                                                    SENATOR TRANSPORTATION                                                       $5,865.70
+                                                                                    AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN                  $5,865.70
+                                                                                    SENATOR TRANSPORTATION
+                                                                                    WASHINGTON DC TO MINNEAPOLIS MN, EDEN PRAIRIE MN, PIERRE, EDEN                  $402.10
+                                                                                    PRAIRIE MN, MINNEAPOLIS MN AND RETURN                                             $41.54
+                                                                                    STAFF INCIDENTALS                                                                 $34.84
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION                                                            $111.60
+                                                                                    RAPID CITY TO HURON, VOLIN AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    RUTLAND TO MADISON AND RETURN
+                                                                                    SENATOR TRANSPORTATION
+                                                                                    AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN
+                                                                                    SENATOR TRANSPORTATION
+                                                                                    AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN
+                                                                                    SENATOR TRANSPORTATION
+                                                                                    WASHINGTON DC TO MINNEAPOLIS MN, EDEN PRAIRIE MN, PIERRE
+                                                                                    STAFF TRANSPORTATION
+                                                                                    SIOUX FALLS TO PARKER AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    RUTLAND TO BROOKINGS AND RETURN
+                                                                                    STAFF TRANSPORTATION
+

@@ -1,0 +1,58 @@
+DOCUMENT NO.    DATE      PAYEE NAME                      OBLIGATION/SERVICE      DESCRIPTION                                                              AMOUNT ($)
+              POSTED                                                 DATES
+                                                                                                                                                                           $525.88
+                                                          START       END                                                                                               $1,164.80
+
+DGAF20240267  09/16/2024  CITIBANK - TRAVEL CBA CARD      08/07/2024                        STAFF PER DIEM                                                                   $60.00
+                                                                                            STAFF TRANSPORTATION                                                           $454.21
+DGAF20240268  09/24/2024  MEGAN M KRYNEN                  08/21/2024                        GREENUP KY TO LEXINGTON KY, WASHINGTON DC, LEXINGTON AND
+              09/27/2024  KEVIN G MCALOON                                                   RETURN                                                                           $24.40
+DGAF20240273                                              08/21/2024   08/08/2024 TICKET FEES                                                                                $91.33
+              09/27/2024  PAUL H HURTON                                                     WITNESS TRANSPORTATION
+DGAF20240279  09/26/2024  CITIBANK - TRAVEL CBA CARD      08/07/2024                        AIRFARE FOR C VAN DEN HEUVEL SANTA ANA CA TO HARTFORD CT AND                     $39.61
+                                                                                            RETURN                                                                         $111.88
+DGAF20240291                                              08/12/2024   08/21/2024 STAFF PER DIEM                                                                                     B-2-101
+                                                                                            STAFF TRANSPORTATION                                                             $79.63
+0002852542                                                02/01/2024                        WASHINGTON DC TO PITTSBURGH PA AND RETURN
+0002853729                                                03/01/2024   08/21/2024 STAFF PER DIEM                                                                           $329.70
+0002854427                                                04/01/2024                        STAFF TRANSPORTATION                                                             $90.00
+0002855923                                                05/01/2024                        FAIRFAX VA TO WASHINGTON DC, PITTSBURGH PA, WASHINGTON DC AND
+0002857281                                                06/01/2024                        RETURN                                                                     $96,019.29
+0002858846                                                07/01/2024   08/10/2024 STAFF TRANSPORTATION
+0002859866                                                08/01/2024                        ADDITIONAL EXPENSE FOR TRIP WASHINGTON DC TO GROTON CT AND                       $32.10
+DGAF20240073                                              03/14/2024                        RETURN                                                                         $108.30
+DGAF20240074                                              03/20/2024   08/14/2024 STAFF TRANSPORTATION                                                                     $191.70
+DGAF20240075                                              03/20/2024                        TICKET FEES                                                                    $120.90
+DGAF20240080                                              04/10/2024                        AIRFARE FOR S ROSENBERG WASHINGTON DC TO TRAVERSE CITY MI AND                  $159.60
+DGAF20240083                                              04/10/2024                        RETURN                                                                         $290.70
+DGAF20240089                                              04/16/2024
+DGAF20240091                                              04/17/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                                   $46.80
+DGAF20240092                                              04/17/2024                                                                                                       $801.00
+DGAF20240093  04/18/2024  SERGEANT AT ARMS                04/18/2024  02/29/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                           $423.00
+DGAF20240104  05/14/2024  SERGEANT AT ARMS                05/01/2024  03/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                           $603.00
+DGAF20240107  05/23/2024  SERGEANT AT ARMS                05/15/2024  04/30/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                           $216.00
+DGAF20240108  06/27/2024  SERGEANT AT ARMS                05/15/2024  05/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                           $648.00
+DGAF20240110  08/07/2024  SERGEANT AT ARMS                05/21/2024  06/30/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                        $1,062.00
+DGAF20240111  09/13/2024  SERGEANT AT ARMS                05/22/2024  07/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                           $387.00
+DGAF20240119  09/25/2024  SERGEANT AT ARMS                06/04/2024  08/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                           $684.00
+DGAF20240120  04/04/2024  TRUSTPOINT COURT REPORTING LLC  06/05/2024  03/14/2024  STENOGRAPHIC SERVICES                                                                    $873.00
+DGAF20240127  04/08/2024  TRUSTPOINT COURT REPORTING LLC  05/05/2024  03/20/2024  STENOGRAPHIC SERVICES                                                                    $200.00
+DGAF20240129  04/09/2024  TRUSTPOINT COURT REPORTING LLC  06/11/2024  03/20/2024  STENOGRAPHIC SERVICES                                                                    $270.00
+DGAF20240134  04/25/2024  TRUSTPOINT COURT REPORTING LLC  06/18/2024  04/10/2024  STENOGRAPHIC SERVICES                                                                    $405.00
+DGAF20240135  04/29/2024  TRUSTPOINT COURT REPORTING LLC  06/18/2024  04/10/2024  STENOGRAPHIC SERVICES                                                                    $720.00
+              05/03/2024  TRUSTPOINT COURT REPORTING LLC              04/16/2024  STENOGRAPHIC SERVICES                                                                    $612.00
+              05/03/2024  TRUSTPOINT COURT REPORTING LLC              04/17/2024  STENOGRAPHIC SERVICES                                                                    $567.00
+              05/03/2024  TRUSTPOINT COURT REPORTING LLC              04/17/2024  STENOGRAPHIC SERVICES                                                                    $459.00
+              05/03/2024  TRUSTPOINT COURT REPORTING LLC              04/18/2024  STENOGRAPHIC SERVICES                                                                 $1,780.00
+              05/16/2024  TRUSTPOINT COURT REPORTING LLC              05/01/2024  STENOGRAPHIC SERVICES                                                                    $576.00
+              05/29/2024  TRUSTPOINT COURT REPORTING LLC              05/15/2024  STENOGRAPHIC SERVICES                                                                    $972.00
+              05/29/2024  TRUSTPOINT COURT REPORTING LLC              05/15/2024  STENOGRAPHIC SERVICES                                                                    $711.00
+              05/29/2024  TRUSTPOINT COURT REPORTING LLC              05/21/2024  STENOGRAPHIC SERVICES
+              06/07/2024  TRUSTPOINT COURT REPORTING LLC              05/22/2024  STENOGRAPHIC SERVICES
+              06/13/2024  TRUSTPOINT COURT REPORTING LLC              06/04/2024  STENOGRAPHIC SERVICES
+              06/14/2024  TRUSTPOINT COURT REPORTING LLC              06/05/2024  STENOGRAPHIC SERVICES
+              07/22/2024  EMILY A FERGUSON                            05/10/2024  TRAIN/ORIENT/CONFERENCE FEES
+              07/01/2024  TRUSTPOINT COURT REPORTING LLC              06/11/2024  STENOGRAPHIC SERVICES
+              07/05/2024  TRUSTPOINT COURT REPORTING LLC              06/18/2024  STENOGRAPHIC SERVICES
+              07/05/2024  TRUSTPOINT COURT REPORTING LLC              06/18/2024  STENOGRAPHIC SERVICES
+

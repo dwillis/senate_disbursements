@@ -1,0 +1,27 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE  DESCRIPTION                      AMOUNT ($)
+                                                                           DATES
+0002857402         POSTED     SERGEANT AT ARMS                                                                                       $574.93
+0002857450                    SERGEANT AT ARMS                  START       END                                                      $197.00
+0002859191        08/07/2024  SERGEANT AT ARMS                                                                                      -$197.00
+0002859996        08/07/2024  SERGEANT AT ARMS                  06/01/2024   06/30/2024 VOICE & DATA COMM EQUIPMENT                  $112.44   B-2241
+DSCM20240490      09/13/2024  CITIBANK - PURCHASE CARD          06/01/2024   06/30/2024 SOFTWARE LICENSE
+DSCM20240500      09/25/2024  CITIBANK - PURCHASE CARD          06/01/2024   06/30/2024 SOFTWARE LICENSE                               $55.50
+DSCM20240640      04/03/2024  PERATON ENTERPRISE SOLUTIONS      08/01/2024   08/31/2024 VOICE & DATA COMM EQUIPMENT                  $104.95
+DSCM20240648      04/09/2024  CITIBANK - PURCHASE CARD          03/20/2024   03/20/2024 IT SUPPORTIVE EQUIPMENT                      $669.30
+DSCM20240649      05/21/2024  CITIBANK - PURCHASE CARD          03/25/2024   03/25/2024 AUDIO, VISUAL EQUIPMENT                      $458.00
+DSCM20240650      05/24/2024  CITIBANK - PURCHASE CARD          04/04/2024   04/04/2024 IT EQUIPMENT                                 $413.37
+DSCM20240797      05/24/2024  PERATON ENTERPRISE SOLUTIONS      05/07/2024   05/07/2024 AUDIO, VISUAL EQUIPMENT                      $125.00
+DSCM20240798      05/24/2024  KATHERINE ROSSI                   05/07/2024   05/07/2024 AUDIO, VISUAL EQUIPMENT                   $6,311.91
+DSCM20240964      06/28/2024  CITIBANK - PURCHASE CARD          05/07/2024   05/07/2024 AUDIO, VISUAL EQUIPMENT                      $286.20
+DSCM20240975      07/01/2024  CITIBANK - PURCHASE CARD          05/08/2024   05/08/2024 IT EQUIPMENT
+DSCM20240976      08/29/2024  CITIBANK - PURCHASE CARD          06/21/2024   06/21/2024 VOICE & DATA COMM EQUIPMENT                    $88.77
+DSCM20240977      09/04/2024  CITIBANK - PURCHASE CARD          08/03/2024   08/03/2024 AUDIO, VISUAL EQUIPMENT                      $284.89
+DSCM20241032      09/06/2024  CITIBANK - PURCHASE CARD          07/31/2024   07/31/2024 AUDIO, VISUAL EQUIPMENT                      $631.75
+DSCM20241068      09/06/2024  CITIBANK - PURCHASE CARD          07/31/2024   07/31/2024 AUDIO, VISUAL EQUIPMENT                      $215.00
+DSCM20241109      09/11/2024  CITIBANK - PURCHASE CARD          08/02/2024   08/02/2024 AUDIO, VISUAL EQUIPMENT                      $249.99
+DSCM20241137      09/19/2024  CITIBANK - PURCHASE CARD          08/24/2024   08/24/2024 PHOTOCOPY EQUIPMENT                          $149.00
+                  09/23/2024                                    09/09/2024   09/09/2024 AUDIO, VISUAL EQUIPMENT                      $244.98
+                  09/27/2024                                    09/18/2024   09/18/2024 AUDIO, VISUAL EQUIPMENT                   $2,499.00
+                                                                09/19/2024   09/19/2024 AUDIO, VISUAL EQUIPMENT                  $15,723.98
+                                                                            ACQUISITION OF ASSETS
+

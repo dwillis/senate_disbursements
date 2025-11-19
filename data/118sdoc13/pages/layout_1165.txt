@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                  POSTED                                             DATES
+DERN20240594                                                                      UNDERWOOD TO DES MOINES AND RETURN                                                   $16.67
+DERN20240595                                              START       END         STAFF PER DIEM                                                                     $478.58
+DERN20240596                                                                      STAFF TRANSPORTATION
+DERN20240597      07/03/2024  BAILEY KAY BECKMAN          05/24/2024  05/31/2024  WASHINGTON DC TO CEDAR RAPIDS, SIOUX CITY, CEDAR RAPIDS AND                          $14.81
+DERN20240598                                                                      RETURN                                                                             $190.95
+                  07/11/2024  KOLBY RYAN DEWITT           06/24/2024  06/24/2024  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION                                                                  $6.93
+                  07/23/2024  KOLBY RYAN DEWITT           06/25/2024  06/25/2024  SIOUX CITY TO HAWARDEN, ROCK VALLEY, ROCK RAPIDS, SPENCER,                         $190.95
+                                                                                  CHEROKEE, LE MARS AND RETURN
+                  07/20/2024  KOLBY RYAN DEWITT           06/26/2024  06/26/2024  STAFF PER DIEM                                                                       $71.69
+                  07/24/2024  CLARKE SCANLON              06/25/2024  06/26/2024  STAFF TRANSPORTATION                                                                 $11.76
+                                                                                  SIOUX CITY TO ROCK VALLEY, CHEROKEE, SPENCER AND RETURN                              $98.00
+DERN20240603      07/20/2024  EMILY B MCKERN              04/20/2024  04/20/2024  STAFF TRANSPORTATION                                                               $471.01   B-1147
+DERN20240607      07/23/2024  EMILY B MCKERN              01/03/2024  02/07/2024  SIOUX CITY TO CORRECTIONVILLE, ANTHON, SMITHLAND AND RETURN
+DERN20240615                                                                      STAFF INCIDENTALS                                                                    $92.46
+DERN20240624      07/23/2024  KOLBY RYAN DEWITT           06/27/2024  06/27/2024  STAFF PER DIEM                                                                     $510.54
+DERN20240625                                                                      STAFF TRANSPORTATION
+DERN20240626      07/22/2024  CLARKE SCANLON              06/01/2024  06/28/2024  DES MOINES TO RED OAK, ATLANTIC, SIOUX CITY, ROCK VALLEY,                             $9.72
+                  07/20/2024  KOLBY RYAN DEWITT           06/01/2024  06/28/2024  CHEROKEE, SPENCER, FORT DODGE, ALDEN AND RETURN                                    $136.68
+DERN20240627      07/09/2024  CITIBANK - TRAVEL CBA CARD  06/24/2024  06/27/2024  STAFF TRANSPORTATION
+DERN20240628                                                                      UNDERWOOD TO OMAHA NE, RED OAK AND RETURN                                            $58.96
+DERN20240629      07/09/2024  CITIBANK - TRAVEL CBA CARD  06/24/2024  06/27/2024  STAFF TRANSPORTATION                                                                 $38.86
+DERN20240630      07/10/2024  CITIBANK - TRAVEL CBA CARD  06/24/2024  06/27/2024  COUNCIL BLUFFS TO THE FOLLOWING AND RETURN: 1/3, 4, 5, 2/6, 7 RED                  $758.21
+DERN20240631      07/10/2024  CITIBANK - TRAVEL CBA CARD  06/24/2024  06/27/2024  OAK; UNDERWOOD TO THE FOLLOWING AND RETURN: 1/6, 15 RED OAK                          $30.00
+DERN20240632      07/09/2024  CITIBANK - TRAVEL CBA CARD  06/12/2024  06/14/2024  STAFF PER DIEM
+                  07/10/2024  CITIBANK - TRAVEL CBA CARD  06/23/2024  06/23/2024  STAFF TRANSPORTATION                                                               $758.21
+                  07/17/2024  CITIBANK - TRAVEL CBA CARD  05/28/2024  05/31/2024  SIOUX CITY TO CHEROKEE, SPENCER AND RETURN                                           $30.00
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DES MOINES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $813.20
+                                                                                  STAFF TRANSPORTATION                                                                 $30.00
+                                                                                  SIOUX CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION                                                               $813.20
+                                                                                  TICKET FEES                                                                          $30.00
+                                                                                  AIRFARE FOR C WATERSTRADT WASHINGTON DC TO DES MOINES AND
+                                                                                  RETURN                                                                             $284.20
+                                                                                  STAFF TRANSPORTATION                                                                 $30.00
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR S VOLINE WASHINGTON DC TO DES MOINES AND RETURN                        $103.10
+                                                                                  STAFF TRANSPORTATION                                                               $388.20
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR Y KAKUTANI WASHINGTON DC TO DES MOINES AND RETURN                        $30.00
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR K DEHNEL WASHINGTON DC TO DES MOINES AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR K REEM CEDAR RAPIDS TO WASHINGTON DC AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN ERNST WASHINGTON DC TO OMAHA NE
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES
+

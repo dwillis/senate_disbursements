@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                  POSTED                                              DATES
+DHAW20240557                                                                       WASHINGTON DC TO VIENNA VA AND RETURN                                                $15.41
+DHAW20240558                                               START       END         STAFF TRANSPORTATION                                                                 $15.41
+DHAW20240559                                                                       WASHINGTON DC TO VIENNA VA AND RETURN                                                $15.41
+DHAW20240560      04/29/2024  NICOLE E REEVES              02/12/2024  02/12/2024  STAFF TRANSPORTATION                                                                 $64.08
+DHAW20240561      04/29/2024  NICOLE E REEVES              04/17/2024  04/17/2024  WASHINGTON DC TO VIENNA VA AND RETURN                                              $501.06
+                  04/29/2024  NICOLE E REEVES              04/18/2024  04/18/2024  STAFF TRANSPORTATION                                                                 $46.99
+DHAW20240562      05/02/2024  THOMAS FRANCIS TEEPELL       04/11/2024  04/14/2024  WASHINGTON DC TO VIENNA VA AND RETURN                                              $474.36
+DHAW20240563                                                                       STAFF INCIDENTALS                                                                    $32.30
+DHAW20240564      05/06/2024  CHRISTOPHER G WEIHS          04/11/2024  04/14/2024  STAFF PER DIEM                                                                  $1,888.70
+DHAW20240569                                                                       WASHINGTON DC TO ST LOUIS, SPRINGFIELD AND RETURN
+DHAW20240570      05/03/2024  CITIBANK - TRAVEL CBA CARD   04/11/2024  04/14/2024  STAFF INCIDENTALS                                                                  $191.10   B-1324
+                  05/15/2024  CITIBANK - SENATOR IBA CARD  04/11/2024  04/11/2024  STAFF PER DIEM                                                                     $528.60
+DHAW20240571      05/03/2024  CITIBANK - TRAVEL CBA CARD   04/14/2024  04/14/2024  STAFF TRANSPORTATION
+DHAW20240572      05/06/2024  SAMUEL J SAFFA               04/22/2024  04/22/2024  WASHINGTON DC TO SAINT LOUIS, SPRINGFIELD AND RETURN                                 $53.21
+DHAW20240573                                                                       STAFF TRANSPORTATION                                                               $168.97
+DHAW20240574      05/03/2024  VIJAY K MENON                04/11/2024  04/14/2024  AIRFARE FOR T TEEPELL AS FOLLOWS: 4/11 WASHINGTON DC TO ST LOUIS;
+DHAW20240575                                                                       4/14 SPRINGFIELD TO WASHINGTON DC                                                    $47.98
+DHAW20240576      05/09/2024  SAMUEL J SAFFA               04/23/2024  04/23/2024  SENATOR TRANSPORTATION                                                             $468.05
+DHAW20240577                                                                       AIRFARE FOR SEN HAWLEY WASHINGTON DC TO ST LOUIS
+DHAW20240578      05/07/2024  MADELEINE CASTLE             04/16/2024  04/16/2024  SENATOR TRANSPORTATION                                                               $62.97
+DHAW20240579      05/07/2024  MADELEINE CASTLE             04/19/2024  04/19/2024  AIRFARE FOR SEN HAWLEY SPRINGFIELD TO WASHINGTON DC                                  $33.64
+                  05/07/2024  J MATTHEW BAIN               04/18/2024  04/18/2024  STAFF PER DIEM                                                                     $122.87
+                  05/08/2024  ERIN M ENGELMEYER            04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                                 $66.33
+                                                                                   ST LOUIS TO CAPE GIRARDEAU TO WENTZVILLE                                             $28.14
+                  05/07/2024  MADELEINE CASTLE             04/17/2024  04/17/2024  STAFF INCIDENTALS                                                                    $48.10
+                                                                                   STAFF PER DIEM                                                                       $13.59
+                  05/07/2024  J MATTHEW BAIN               04/22/2024  04/22/2024  STAFF TRANSPORTATION                                                                 $89.11
+                  05/08/2024  TAYLOR ELIZABETH BLACKWELL   04/17/2024  04/17/2024  WASHINGTON DC TO SPRINGFIELD AND RETURN                                              $22.57
+                                                                                   STAFF PER DIEM                                                                       $34.17
+                  05/08/2024  SAMUEL J SAFFA               04/25/2024  04/25/2024  STAFF TRANSPORTATION
+                                                                                   WENTZVILLE TO JEFFERSON CITY AND RETURN                                               $5.62
+                                                                                   STAFF TRANSPORTATION                                                                 $31.00
+                                                                                   SAINT CHARLES TO LAKE SAINT LOUIS, PEVELY TO ST LOUIS                              $122.67
+                                                                                   STAFF TRANSPORTATION                                                                 $20.02
+                                                                                   ST LOUIS TO FENTON AND RETURN                                                      $111.42
+                                                                                   STAFF TRANSPORTATION
+                                                                                   CAPE GIRARDEAU TO DEXTER TO SIKESTON
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SPRINGFIELD TO OSCEOLA AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SAINT CHARLES TO WRIGHT CITY, WENTZVILLE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   CAPE GIRARDEAU OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+                                                                                   LAKE SAINT LOUIS TO SAINTE GENEVIEVE, WENTZVILLE AND RETURN
+                                                                                   STAFF PER DIEM
+                                                                                   STAFF TRANSPORTATION
+

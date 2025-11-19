@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME         OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                    DATES
+DBRI20240506                                                             DOTHAN TO PHENIX CITY AND RETURN                                             $21.00
+DBRI20240507                                     START       END         STAFF TRANSPORTATION                                                         $44.00
+DBRI20240508                                                             DOTHAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $64.50
+DBRI20240509      06/15/2024  MELANIE KAY HILL   05/29/2024  05/29/2024  STAFF TRANSPORTATION                                                         $94.00
+DBRI20240510      06/15/2024  MELANIE KAY HILL   05/23/2024  05/23/2024  DOTHAN TO NEW BROCKTON AND RETURN                                            $45.00
+DBRI20240511      06/15/2024  KELLI R WOLFE      06/10/2024  06/10/2024  STAFF TRANSPORTATION                                                         $55.50
+DBRI20240512      06/15/2024  KELLI R WOLFE      06/05/2024  06/05/2024  COTTONDALE TO VERNON TO TUSCALOOSA                                         $206.00
+DBRI20240513      06/15/2024  KELLI R WOLFE      05/28/2024  06/06/2024  STAFF TRANSPORTATION
+DBRI20240514      06/16/2024  KELLI R WOLFE      05/15/2024  05/24/2024  COTTONDALE TO OAKMAN TO TUSCALOOSA                                            $7.52
+                  06/24/2024  DANA HALL MCCAIN   05/08/2024  05/08/2024  STAFF TRANSPORTATION                                                       $104.00
+DBRI20240515      06/18/2024  DANA HALL MCCAIN   05/06/2024  05/06/2024  TUSCALOOSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DBRI20240516                                                             STAFF TRANSPORTATION                                                         $34.84
+DBRI20240517      06/24/2024  DANA HALL MCCAIN   05/01/2024  05/03/2024  TUSCALOOSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $302.02
+DBRI20240518                                                             STAFF TRANSPORTATION                                                       $255.38
+DBRI20240528      06/15/2024  DANA HALL MCCAIN   04/17/2024  04/17/2024  DOTHAN TO TUSCALOOSA AND RETURN                                                      B-673
+                  06/15/2024  DANA HALL MCCAIN   04/10/2024  04/10/2024  STAFF PER DIEM                                                               $98.00
+DBRI20240529      06/24/2024  DANA HALL MCCAIN   04/07/2024  04/08/2024  STAFF TRANSPORTATION                                                         $19.00
+DBRI20240530      06/18/2024  DANA HALL MCCAIN   06/03/2024  06/03/2024  DOTHAN TO MONTGOMERY AND RETURN                                            $283.50
+                  07/31/2024  MAURICE A TOLBERT  05/28/2024  05/30/2024  STAFF INCIDENTALS                                                          $104.00
+DBRI20240531                                                             STAFF PER DIEM                                                               $58.16
+                  06/28/2024  KELLI R WOLFE      06/14/2024  06/14/2024  STAFF TRANSPORTATION                                                       $447.72
+DBRI20240532      07/24/2024  DANA HALL MCCAIN   05/12/2024  05/16/2024  DOTHAN TO MONTGOMERY, MOBILE AND RETURN                                 $1,090.89
+DBRI20240533                                                             STAFF TRANSPORTATION                                                         $17.25
+DBRI20240534      07/01/2024  DANA HALL MCCAIN   05/20/2024  05/21/2024  DOTHAN TO TUSKEGEE AND RETURN                                                $46.00
+                                                                         STAFF TRANSPORTATION                                                       $164.60
+                  06/28/2024  DANA HALL MCCAIN   05/29/2024  05/29/2024  DOTHAN TO DALEVILLE AND RETURN                                          $1,238.07
+                  06/27/2024  DANA HALL MCCAIN   06/02/2024  06/02/2024  STAFF TRANSPORTATION                                                    $1,352.43
+                  07/09/2024  KELLI R WOLFE      06/13/2024  06/20/2024  DOTHAN TO RAINSVILLE AND RETURN                                              $21.05
+                                                                         STAFF TRANSPORTATION                                                       $127.00
+                                                                         DOTHAN TO MONTGOMERY AND RETURN                                            $293.00
+                                                                         STAFF INCIDENTALS                                                          $194.00
+                                                                         STAFF PER DIEM                                                               $52.00
+                                                                         STAFF TRANSPORTATION                                                         $38.00
+                                                                         WASHINGTON DC TO BIRMINGHAM AND RETURN
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         COTTONDALE TO FAYETTE TO TUSCALOOSA
+                                                                         STAFF INCIDENTALS
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         DOTHAN TO WASHINGTON DC AND RETURN
+                                                                         STAFF INCIDENTALS
+                                                                         STAFF PER DIEM
+                                                                         STAFF TRANSPORTATION
+                                                                         DOTHAN TO HUNTSVILLE AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DOTHAN TO BIRMINGHAM AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         DOTHAN TO TROY AND RETURN
+                                                                         STAFF TRANSPORTATION
+

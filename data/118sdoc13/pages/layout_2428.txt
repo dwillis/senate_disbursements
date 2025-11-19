@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                        DATES
+DSUL20240294                                                                 WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $16.00
+DSUL20240295                                         START       END         STAFF TRANSPORTATION                                                         $17.00
+DSUL20240296                                                                 WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $15.00
+DSUL20240297      07/09/2024  WALTER B LOHMAN III    05/09/2024  05/09/2024  STAFF TRANSPORTATION                                                         $33.78
+DSUL20240298      07/09/2024  WALTER B LOHMAN III    04/02/2024  04/02/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $31.51
+DSUL20240303      07/09/2024  WALTER B LOHMAN III    03/18/2024  03/18/2024  STAFF TRANSPORTATION                                                         $49.97
+DSUL20240304      07/09/2024  WALTER B LOHMAN III    04/25/2024  04/25/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $20.00
+DSUL20240305      07/09/2024  WALTER B LOHMAN III    04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                       $116.68
+                  07/09/2024  WALTER B LOHMAN III    05/16/2024  05/16/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                  $1,027.29
+DSUL20240306      07/09/2024  WALTER B LOHMAN III    06/28/2024  06/28/2024  STAFF TRANSPORTATION                                                       $714.86
+DSUL20240307      07/29/2024  CHADD S MONTGOMERY     06/18/2024  06/21/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $30.15
+DSUL20240308                                                                 STAFF TRANSPORTATION                                                       $483.00
+DSUL20240309      07/09/2024  LARRY D BURTON         06/14/2024  06/17/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                  $1,213.44    B-2391
+DSUL20240311      07/20/2024  ELAINA K SPRAKER       05/07/2024  05/12/2024  STAFF TRANSPORTATION                                                         $29.00
+DSUL20240312      07/15/2024  ELAINA K SPRAKER       05/21/2024  05/21/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $131.32
+DSUL20240313      07/16/2024  ELAINA K SPRAKER       06/26/2024  06/26/2024  STAFF INCIDENTALS                                                            $82.00
+DSUL20240314      07/16/2024  WALTER B LOHMAN III    05/27/2024  05/30/2024  STAFF PER DIEM                                                             $100.50
+                  08/02/2024  ADAM R TROMBLEY        06/23/2024  06/24/2024  STAFF TRANSPORTATION                                                       $101.59
+                  07/16/2024  ADAM R TROMBLEY        06/01/2024  06/30/2024  WASHINGTON DC TO ANCHORAGE, FAIRBANKS TO ALEXANDRIA VA                     $270.42
+                  07/17/2024  BENJAMIN N DIETDERICH  06/23/2024  06/30/2024  STAFF TRANSPORTATION                                                       $855.50
+                                                                             WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                     $110.55
+DSUL20240316      07/20/2024  LARRY D BURTON         06/24/2024  07/01/2024  STAFF PER DIEM                                                             $350.26
+DSUL20240317                                                                 STAFF TRANSPORTATION                                                    $1,814.37
+DSUL20240318      07/31/2024  ADAM R TROMBLEY        06/26/2024  06/27/2024  KENAI TO ANCHORAGE, WASHINGTON DC, ANCHORAGE AND RETURN                    $216.58
+                  07/25/2024  ELAINA K SPRAKER       07/14/2024  07/14/2024  STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION                                                       $165.58
+                                                                             KENAI TO SEWARD AND RETURN                                              $2,263.04
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION                                                         $53.10
+                                                                             KENAI TO HOMER AND RETURN                                                  $973.20
+                                                                             STAFF TRANSPORTATION
+                                                                             WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $78.00
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             ANCHORAGE TO FAIRBANKS AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             ANCHORAGE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                             STAFF INCIDENTALS
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             WASHINGTON DC TO FAIRBANKS, ANCHORAGE, BARROW, ANCHORAGE
+                                                                             AND RETURN
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             WASHINGTON DC TO ANCHORAGE, KING SALMON, ANCHORAGE AND
+                                                                             RETURN
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             ANCHORAGE TO BARROW AND RETURN
+                                                                             STAFF PER DIEM
+

@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+              POSTED                                             DATES
+                                                                              WASHINGTON DC TO OKLAHOMA CITY, LOS ANGELES CA, BEVERLY HILLS                      $24.63
+                                                      START       END         CA, LOS ANGELES CA, OKLAHOMA CITY, STROUD, COLLINSVILLE, TULSA                   $179.10
+                                                                              AND RETURN                                                                       $302.60
+DLNK20240877  06/25/2024  JAMES LANKFORD              05/09/2024  05/14/2024  SENATOR PER DIEM                                                                           B-1597
+DLNK20240878  06/25/2024  CITIBANK - TRAVEL CBA CARD  06/03/2024  06/03/2024  WASHINGTON DC TO CHICAGO IL, OKLAHOMA CITY AND RETURN                              $14.95
+DLNK20240879  06/25/2024  CITIBANK - TRAVEL CBA CARD  06/06/2024  06/06/2024  SENATOR TRANSPORTATION                                                             $14.95
+DLNK20240880  06/25/2024  CITIBANK - TRAVEL CBA CARD  05/06/2024  05/06/2024  AIRFARE FOR SEN LANKFORD OKLAHOMA CITY TO WASHINGTON DC                            $25.83
+DLNK20240881  06/25/2024  CITIBANK - TRAVEL CBA CARD  05/09/2024  05/10/2024  SENATOR TRANSPORTATION                                                             $14.81
+DLNK20240882  06/25/2024  PEYTON G BURNS              06/11/2024  06/11/2024  AIRFARE FOR SEN LANKFORD WASHINGTON DC TO OKLAHOMA CITY                            $22.78
+DLNK20240883  06/28/2024  PEYTON G BURNS              06/12/2024  06/12/2024  STAFF TRANSPORTATION                                                               $46.90
+                                                                              TOLLS FOR S SHARUM TULSA TO OKLAHOMA CITY AND RETURN                               $16.00
+DLNK20240884  06/28/2024  PEYTON G BURNS              06/13/2024  06/13/2024  STAFF TRANSPORTATION                                                               $54.71
+DLNK20240885  07/08/2024  JAMES S CARSON              06/13/2024  06/13/2024  TOLLS FOR J SHARUM TULSA TO NORMAN AND RETURN                                      $40.20
+                                                                              STAFF TRANSPORTATION                                                             $179.10
+DLNK20240886  06/27/2024  JAMES S CARSON              06/14/2024  06/14/2024  STILLWATER TO ENID AND RETURN                                                    $150.10
+DLNK20240888  07/01/2024  CITIBANK - TRAVEL CBA CARD  06/17/2024  06/17/2024  STAFF PER DIEM                                                                   $179.10
+DLNK20240889  07/01/2024  CITIBANK - TRAVEL CBA CARD  06/10/2024  06/10/2024  STAFF TRANSPORTATION                                                               $18.00
+DLNK20240890  07/01/2024  CITIBANK - TRAVEL CBA CARD  06/13/2024  06/13/2024  STILLWATER TO ALVA, WAKITA, MEDFORD AND RETURN
+DLNK20240892  07/08/2024  JAMES S CARSON              06/17/2024  06/17/2024  STAFF TRANSPORTATION                                                                $7.00
+                                                                              STILLWATER TO PONCA CITY AND RETURN                                                $33.81
+DLNK20240893  07/02/2024  JAMES S CARSON              06/18/2024  06/18/2024  STAFF PER DIEM                                                                     $29.48
+DLNK20240894  07/01/2024  JAMES S CARSON              06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                             $185.73
+DLNK20240896  07/01/2024  EAN SERVICES LLC            06/10/2024  06/14/2024  OKLAHOMA CITY TO YUKON, ALTUS, YUKON AND RETURN
+                                                                              STAFF TRANSPORTATION                                                             $179.10
+DLNK20240897  07/02/2024  CITIBANK - TRAVEL CBA CARD  06/23/2024  06/23/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $179.10
+DLNK20240898  07/02/2024  CITIBANK - TRAVEL CBA CARD  06/23/2024  06/23/2024  SENATOR TRANSPORTATION                                                           $188.60
+DLNK20240901  07/03/2024  CITIBANK - TRAVEL CBA CARD  06/26/2024  06/26/2024  AIRFARE FOR SEN LANKFORD OKLAHOMA CITY TO WASHINGTON DC                          $188.60
+DLNK20240902  07/05/2024  CITIBANK - TRAVEL CBA CARD  06/26/2024  06/26/2024  SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN LANKFORD OKLAHOMA CITY TO WASHINGTON DC
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN LANKFORD WASHINGTON DC TO OKLAHOMA CITY
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              OKLAHOMA CITY TO LAWTON AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              RENTAL AUTO FOR J CARSON AS FOLLOWS: 6/10 YUKON TO LAWTON AND
+                                                                              RETURN; 6/13 OKLAHOMA CITY TO YUKON, ALTUS, YUKON AND RETURN; 6
+                                                                              /14 OKLAHOMA CITY TO YUKON
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR M ALTMAN WASHINGTON DC TO OKLAHOMA CITY
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR A BELEY WASHINGTON DC TO OKLAHOMA CITY
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR M ALTMAN OKLAHOMA CITY TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR A BELEY OKLAHOMA CITY TO WASHINGTON DC
+

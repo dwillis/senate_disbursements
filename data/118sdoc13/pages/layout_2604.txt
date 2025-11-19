@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DWNK20240552                  ANDREA DANIELLE WIGGINS                                   STAFF TRANSPORTATION                                                          $4.42
+DWNK20240553      04/11/2024  BRENDA C WILLIAMS                 START       END         ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $2.07
+DWNK20240554      04/10/2024  BRENDA C WILLIAMS                                         STAFF TRANSPORTATION                                                         $24.12
+DWNK20240555      04/11/2024  BRENDA C WILLIAMS                 03/20/2024  03/20/2024  COLUMBUS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $131.52
+DWNK20240556      04/16/2024  BRENDA C WILLIAMS                                         STAFF TRANSPORTATION                                                       $136.68
+DWNK20240557      04/16/2024  BRENDA C WILLIAMS                 03/12/2024  03/12/2024  COLUMBUS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $109.88
+DWNK20240558      04/17/2024  KRISTIN C FULFORD                                         STAFF TRANSPORTATION                                                       $117.25
+DWNK20240559      04/17/2024  ANDREA DANIELLE WIGGINS           03/18/2024  03/18/2024  COLUMBUS TO ALBANY AND RETURN                                                $76.38
+DWNK20240560      04/11/2024  KRISTIN C FULFORD                                         STAFF TRANSPORTATION                                                       $216.41
+DWNK20240561      04/16/2024  ADRIAN J. RIVERS                  03/20/2024  03/20/2024  COLUMBUS TO BLAKELY AND RETURN                                             $172.19
+DWNK20240562      04/16/2024  ADRIAN J. RIVERS                                          STAFF TRANSPORTATION                                                         $83.75
+DWNK20240563      04/11/2024  ADRIAN J. RIVERS                  03/21/2024  03/21/2024  COLUMBUS TO WARNER ROBINS AND RETURN                                       $309.54
+                  04/16/2024                                                            STAFF TRANSPORTATION
+DWNK20240564                  KRISTIN C FULFORD                 03/06/2024  03/06/2024  SAVANNAH TO BRUNSWICK AND RETURN                                           $162.14
+DWNK20240565      04/16/2024  BRENDA C WILLIAMS                                         STAFF TRANSPORTATION                                                       $154.10
+DWNK20240566      04/16/2024  BRENDA C WILLIAMS                 03/25/2024  03/25/2024  ATLANTA TO ROME TO WOODSTOCK
+                  04/16/2024                                                            STAFF TRANSPORTATION                                                         $17.92
+DWNK20240567                  BRENDA C WILLIAMS                 03/25/2024  03/25/2024  SAVANNAH TO COCHRAN AND RETURN                                             $136.68
+DWNK20240568      04/16/2024  KATRINA E COCHRAN                                         STAFF TRANSPORTATION                                                       $159.46
+DWNK20240569      04/12/2024  KATRINA E COCHRAN                 03/27/2024  03/27/2024  VALDOSTA TO BLAKELY AND RETURN
+DWNK20240570      04/11/2024  ANDREA DANIELLE WIGGINS                                   STAFF TRANSPORTATION                                                         $37.78
+DWNK20240571      04/16/2024  ANDREA DANIELLE WIGGINS           03/26/2024  03/26/2024  VALDOSTA TO FITZGERALD AND RETURN                                            $79.30
+DWNK20240572      04/11/2024  SHAVONDA LAVET HILL                                       STAFF TRANSPORTATION                                                       $150.08
+DWNK20240573      04/11/2024  ANDREA DANIELLE WIGGINS           03/11/2024  03/11/2024  VALDOSTA TO THE FOLLOWING AND RETURN: 3/19 WAYCROSS; 3/20                    $33.17  B-2567
+DWNK20240574      04/16/2024  KRISTIN C FULFORD                                         FOLKSTON; 3/21 TIFTON                                                        $34.84
+DWNK20240575      04/17/2024  SHAVONDA LAVET HILL               03/19/2024  03/21/2024  STAFF TRANSPORTATION                                                       $101.17
+                  04/17/2024                                                            SAVANNAH TO MOUNT VERNON AND RETURN                                        $178.89
+                                                                03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                         $19.59
+                                                                03/25/2024  03/25/2024  COLUMBUS TO ATLANTA AND RETURN                                             $237.18
+                                                                03/26/2024  03/26/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                03/27/2024  03/27/2024  COLUMBUS TO BLAKELY AND RETURN
+                                                                03/27/2024  03/27/2024  STAFF TRANSPORTATION
+                                                                03/28/2024  03/28/2024  COLUMBUS TO NEWTON AND RETURN
+                                                                04/01/2024  04/01/2024  STAFF TRANSPORTATION
+                                                                03/28/2024  03/28/2024  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                03/22/2024  03/22/2024  STAFF TRANSPORTATION
+                                                                04/02/2024  04/02/2024  ATLANTA TO DAWSONVILLE AND RETURN
+                                                                04/02/2024  04/02/2024  STAFF TRANSPORTATION
+                                                                03/26/2024  03/26/2024  ATLANTA TO LAFAYETTE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        KATHLEEN TO MACON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ATLANTA TO WARM SPRINGS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SAVANNAH TO HAZLEHURST, JESUP, CLAXTON AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+

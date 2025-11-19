@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE                        PAYEE NAME  OBLIGATION/SERVICE                                                DESCRIPTION  AMOUNT ($)
+              POSTED                                               DATES
+                      NOWAK, KIMBERLY A                                     SR EQUIPMENT SERVICES SPECIALIST                                       $55,639.03
+                      DOVE, CARRIE LYNN                 START  END          SR EQUIPMENT SERVICES SPECIALIST                                       $50,145.70
+                      DIMICHELE, GINA DIANA                                 IT MANAGER                                                             $89,193.13
+                      MCKINNIE, AUNDRE'E T.L.                               EQUIPMENT SERVICES SPECIALIST                                          $37,129.71  B-121
+                      ACQUAH, GODFRIED                                      SR EQUIPMENT SERVICES SPECIALIST                                       $48,967.97
+                      MACHADO, JUAN DOMINGO                                 EQUIPMENT SERVICES SPECIALIST                                          $40,466.11
+                      MCGOWAN, PAUL E.                                      EQUIPMENT SERVICES SPECIALIST FROM APR. 8                              $35,561.07
+                      KOLBE, BOYD T III                                     SENIOR IT MANAGER TO SEP. 20                                           $89,938.25
+                      LESPERANCE, CHRISTOPHER L                             TECHNOLOGY CONTRACT ANALYST                                            $86,215.67
+                      COPENHAVER, KEVIN E                                   TECHNOLOGY CONTRACT ANALYST                                            $81,155.29
+                      GINGERICH, STEVE M                                    TECHNOLOGY CONTRACT ANALYST                                            $70,406.79
+                      NATHAN, BRADLEY J                                     SENIOR IT MANAGER                                                      $97,069.00
+                      BLUM, JASON B                                         PRINCIPAL SOFTWARE ENGINEER                                            $88,244.88
+                      KAIMAN, CHARLES A                                     SENIOR SOFTWARE ENGINEER                                               $85,949.42
+                      MOLONEY, PETER D                                      PRINCIPAL SOFTWARE ENGINEER                                            $88,244.38
+                      FARRELL, PETER J                                      TECHNOLOGY SOLUTIONS ARCHITECT                                         $90,135.38
+                      CULPEPPER, BRANDON S                                  PRINCIPAL SOFTWARE ENGINEER                                            $89,776.24
+                      KOYAMA, TSUYOSHI                                      SOFTWARE ENGINEER                                                      $65,005.21
+                      SYED, FERHAN M                                        SOFTWARE ENGINEER                                                      $62,266.69
+                      BAGANDOV, STEPHANIE                                   SOFTWARE ENGINEER                                                      $65,005.21
+                      CALLEJAS, MARILYN                                     PRODUCT OWNER                                                          $62,015.90
+                      MASSE, ROGER EUGENE                                   PRINCIPAL SOFTWARE ENGINEER                                            $88,056.96
+                      LADD, ROBERT C                                        PRINCIPAL SOFTWARE ENGINEER                                            $82,553.37
+                      BURRELL-SAHL, GEOFFREY T                              SENIOR TECHNOLOGY SOLUTIONS SPECIALIST                                 $82,392.05
+                      WILLIAMS, JERROD L                                    TECHNOLOGY SOLUTIONS ARCHITECT                                         $95,839.04
+                      STEWARD, LUISA                                        PRINCIPAL TECHNOLOGY SOLUTIONS SPECIALIST                              $86,067.69
+                      HEDEEN, MATTHEW T                                     PRINCIPAL TECHNOLOGY SOLUTIONS SPECIALIST                              $87,368.85
+                      CHAVA, PRATHIMA                                       PRINCIPAL IDENTITY AND ACCESS MANAGEMENT SPECIALIST                    $87,090.08
+                      GLOCKZIN, WILLIAM W                                   PRINCIPAL TECHNOLOGY SOLUTIONS SPECIALIST                              $87,368.85
+                      GOOD, MICHAEL C                                       SENIOR IDENTITY AND ACCESS MANAGEMENT SPECIALIST                       $80,897.77
+                      MILTON, AARON W                                       SENIOR IT MANAGER                                                      $90,855.00
+                      BRIGGS, KENRICK                                       SENIOR TECHNOLOGY SOLUTIONS SPECIALIST                                 $77,017.20
+                      GREEN, NATHANIEL B                                    SENIOR IT MANAGER                                                      $82,995.15
+                      GATELY, DAVID T                                       TECHNOLOGY REPRESENTATIVE                                              $71,825.58
+                      WEAK, WAYNE S                                         TECHNOLOGY REPRESENTATIVE                                              $71,475.96
+                      BRINKLEY, JEFFREY A                                   TECHNOLOGY REPRESENTATIVE                                              $72,569.32
+                      MEADOWS, KENNETH L                                    DIRECTOR OF COMMUNICATION AND TECHNOLOGY INTEGRATION                 $103,357.46
+                      PANGALLO, DEREK N                                     TECHNOLOGY REPRESENTATIVE                                              $59,000.20
+                      GREEN, MAX A                                          SENIOR TECHNOLOGY REPRESENTATIVE                                       $73,940.07
+                      JONES, JERIS D                                        TECHNOLOGY REPRESENTATIVE                                              $61,511.98
+                      DUSTIN, JACKLYN MARIE                                 TECHNOLOGY REPRESENTATIVE                                              $62,719.32
+                      HARMS, SARAH ELIZABETH                                TECHNOLOGY REPRESENTATIVE                                              $55,268.82
+                      ANGJELKOVSKA, MARGARETA                               TECHNOLOGY REPRESENTATIVE                                              $68,318.06
+                      SACK, CHARITY A                                       MARKETING & OUTREACH SPECIALIST                                        $75,793.12
+                      HILL, WILLIAM A                                       INFORMATION TECHNOLOGY BRANCH MANAGER                                $102,460.51
+                      LAPALME, JOSEPH R                                     INFORMATION TECHNOLOGY BRANCH MANAGER                                $102,460.51
+                      PARKER, NORA V                                        INFORMATION TECHNOLOGY BRANCH MANAGER                                  $99,915.02
+                      TORRES, CHAD I                                        DIRECTOR, ENTERPRISE OPERATIONS                                      $105,119.15
+                      ECKARDT, RODOLFO D.J.                                 TECHNOLOGY SOLUTIONS ARCHITECT                                         $88,670.26
+                      STEPHENS, ERIC J                                      PRINCIPAL NETWORK ENGINEER                                             $89,774.38
+

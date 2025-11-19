@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME              OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+              POSTED                                         DATES
+                                                                          5/7 AIRFARE FOR J BENAVIDES NEW YORK TO WASHINGTON DC; 5/9 TRAIN                    $23.45
+                                                  START       END         FARE FOR J BENAVIDES WASHINGTON DC TO NEW YORK                                      $64.34
+                                                                          STAFF TRANSPORTATION                                                              $303.99
+DSCH20240270  05/22/2024  JOSELYN K MEJIA         05/10/2024  05/10/2024  MELVILLE TO CENTRAL ISLIP AND RETURN                                                $64.34
+DSCH20240271  05/24/2024  JOSELYN K MEJIA         05/02/2024  05/04/2024  STAFF INCIDENTALS                                                                 $258.00
+DSCH20240272                                                              STAFF PER DIEM                                                                      $40.07
+              05/23/2024  JACQUELINE V BENAVIDES  05/03/2024  05/04/2024  HEMPSTEAD TO NEW YORK, WASHINGTON DC, NEW YORK AND RETURN                           $70.82
+DSCH20240277                                                              STAFF INCIDENTALS                                                                 $471.30
+              06/12/2024  JACQUELINE V BENAVIDES  05/07/2024  05/09/2024  STAFF PER DIEM                                                                      $55.04
+DSCH20240278                                                              STAFF TRANSPORTATION                                                                $21.82
+DSCH20240280  05/24/2024  KELLIE A KARNEY         05/15/2024  05/15/2024  NEW YORK TO WASHINGTON DC AND RETURN                                                $25.91  B-2252
+DSCH20240282  05/24/2024  JULIA M LEARY           05/11/2024  05/11/2024  STAFF INCIDENTALS                                                                   $53.60
+DSCH20240283                                                              STAFF PER DIEM
+              05/26/2024  CHRISTOPHER S ZELTMANN  05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                                 $5.34
+DSCH20240284  06/04/2024  STEPHEN C MANN          05/02/2024  05/04/2024  NEW YORK TO WASHINGTON DC AND RETURN                                              $128.68
+DSCH20240285                                                              STAFF TRANSPORTATION                                                              $585.08
+DSCH20240286  05/29/2024  CHRISTOPHER S ZELTMANN  05/16/2024  05/16/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DSCH20240287  05/26/2024  BERNARD ALEXANDER       05/10/2024  05/10/2024  STAFF PER DIEM                                                                      $81.87
+DSCH20240288  05/26/2024  BERNARD ALEXANDER       05/06/2024  05/06/2024  STAFF TRANSPORTATION                                                                 $4.68
+DSCH20240289  05/26/2024  ELIZABETH COHEN         05/11/2024  05/11/2024  SYRACUSE TO OSWEGO AND RETURN
+DSCH20240290  05/26/2024  ELIZABETH COHEN         04/27/2024  04/27/2024  STAFF TRANSPORTATION                                                                $23.98
+              05/26/2024  ELIZABETH COHEN         04/14/2024  04/14/2024  ROCHESTER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $52.79
+DSCH20240291  05/31/2024  FLYING ZEBRA LLC        04/25/2024  04/25/2024  STAFF INCIDENTALS                                                                   $59.76
+                                                                          STAFF PER DIEM                                                                      $39.03
+DSCH20240292  05/31/2024  FLYING ZEBRA LLC        05/06/2024  05/06/2024  STAFF TRANSPORTATION                                                                $37.82
+                                                                          ALBANY TO WASHINGTON DC, TROY AND RETURN                                       $1,453.38
+              05/31/2024  FLYING ZEBRA LLC        04/22/2024  04/22/2024  STAFF TRANSPORTATION                                                           $2,076.25
+                                                                          ROCHESTER OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                          STAFF TRANSPORTATION                                                           $4,069.25
+                                                                          ROCHESTER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $4,069.25
+                                                                          STAFF TRANSPORTATION
+                                                                          ROCHESTER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $2,602.00
+                                                                          STAFF TRANSPORTATION                                                           $4,088.83
+                                                                          NEW YORK OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                          STAFF TRANSPORTATION
+                                                                          NEW YORK OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                          STAFF TRANSPORTATION
+                                                                          NEW YORK OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                          SENATOR TRANSPORTATION
+                                                                          STAFF TRANSPORTATION
+                                                                          AIRFARE FOR THE FOLLOWING: SEN SCHUMER, A OBSTLER WHITE PLAINS
+                                                                          TO SYRACUSE TO TETERBORO NJ; R MARTIN SYRACUSE TO TETERBORO NJ
+                                                                          SENATOR TRANSPORTATION
+                                                                          STAFF TRANSPORTATION
+                                                                          AIRFARE FOR SEN SCHUMER, A OBSTLER WHITE PLAINS TO WILLIAMSON,
+                                                                          BUFFALO, KINGSTON AND RETURN
+                                                                          SENATOR TRANSPORTATION
+                                                                          STAFF TRANSPORTATION
+                                                                          AIRFARE FOR SEN SCHUMER, A OBSTLER WHITE PLAINS TO FORT DRUM,
+                                                                          SCHENECTADY AND RETURN; Y ABDELHAQ WHITE PLAINS TO FORT DRUM
+                                                                          TO SCHENECTADY
+

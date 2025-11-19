@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DHYD20240506                  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                        $828.60
+DHYD20240507      07/05/2024  CITIBANK - SENATOR IBA CARD       START       END         AIRFARE FOR SEN HYDE SMITH WASHINGTON DC TO JACKSON                           $828.60
+DHYD20240508      07/08/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                        $191.10
+DHYD20240509      07/05/2024  CITIBANK - TRAVEL CBA CARD        06/13/2024  06/13/2024  AIRFARE FOR SEN HYDE SMITH JACKSON TO WASHINGTON DC                           $528.98
+DHYD20240514      07/05/2024  DILLIAN CASE KNIGHT                                       SENATOR TRANSPORTATION                                                        $104.58
+DHYD20240515      07/19/2024  MELINDA BUCHANAN MAXWELL          06/17/2024  06/17/2024  AIRFARE FOR SEN HYDE SMITH WASHINGTON DC TO JACKSON
+                  07/17/2024                                                            STAFF TRANSPORTATION                                                            $13.00
+DHYD20240516                  MELINDA BUCHANAN MAXWELL          06/18/2024  06/18/2024  AIRFARE FOR D DAVIS WASHINGTON DC TO JACKSON                                    $61.11
+DHYD20240517      07/17/2024  UMESH N SANJANWALA                                        STAFF TRANSPORTATION                                                            $63.00
+                  07/18/2024                                    06/19/2024  06/19/2024  SALTILLO TO BYHALIA AND RETURN                                                  $24.48
+DHYD20240518                                                                            STAFF PER DIEM                                                                $267.40
+DHYD20240519                                                    06/28/2024  06/28/2024  STAFF TRANSPORTATION                                                          $224.91
+                                                                                        OXFORD TO TUPELO AND RETURN                                                     $21.10
+DHYD20240520                                                    06/26/2024  06/26/2024  STAFF TRANSPORTATION                                                            $18.00
+DHYD20240521                                                                            OXFORD TO BYHALIA AND RETURN                                                    $65.52
+DHYD20240522                                                    06/28/2024  06/28/2024  STAFF INCIDENTALS                                                               $68.04
+                                                                06/25/2024  06/26/2024  STAFF PER DIEM                                                                  $15.12
+DHYD20240524                                                                            STAFF TRANSPORTATION                                                            $16.23
+                  07/22/2024  UMESH N SANJANWALA                06/28/2024  06/28/2024  JACKSON TO BILOXI AND RETURN                                                  $133.56   B-1428
+DHYD20240525      07/17/2024  MELINDA BUCHANAN MAXWELL          07/01/2024  07/01/2024  STAFF PER DIEM                                                                  $22.00
+DHYD20240526                                                                            JACKSON TO BYHALIA AND RETURN                                                 $183.96
+DHYD20240527      07/17/2024  MELINDA BUCHANAN MAXWELL          07/02/2024  07/02/2024  STAFF PER DIEM                                                                  $69.30
+DHYD20240528      07/17/2024  DILLIAN CASE KNIGHT               07/01/2024  07/01/2024  STAFF TRANSPORTATION                                                          $110.25
+DHYD20240529      07/18/2024  DILLIAN CASE KNIGHT               07/02/2024  07/02/2024  OXFORD TO TUPELO AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                            $33.39
+DHYD20240530      07/18/2024  JO ANN H CLARK                    06/25/2024  06/25/2024  OXFORD TO HERNANDO AND RETURN                                                 $286.65
+DHYD20240531                                                                            STAFF TRANSPORTATION
+                  07/17/2024  CINDY HYDE-SMITH                  05/09/2024  05/14/2024  SALTILLO TO TUPELO AND RETURN                                                   $33.90
+                  07/18/2024  CINDY HYDE-SMITH                  05/18/2024  05/20/2024  STAFF PER DIEM                                                                  $86.94
+                  07/17/2024  ANNA K THAMES                     07/02/2024  07/02/2024  STAFF TRANSPORTATION                                                            $69.30
+                  07/18/2024  CINDY HYDE-SMITH                  05/23/2024  06/03/2024  SALTILLO TO OLIVE BRANCH, HERNANDO AND RETURN                                   $69.30
+                  07/18/2024  ANNA K THAMES                     07/03/2024  07/03/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                  07/17/2024  CINDY HYDE-SMITH                  06/05/2024  06/11/2024  JACKSON TO STARKVILLE AND RETURN
+                  07/17/2024  CINDY HYDE-SMITH                  06/13/2024  06/17/2024  SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO JACKSON, BROOKHAVEN, JACKSON AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO JACKSON, BROOKHAVEN, BRANDON, CANTON,
+                                                                                        JACKSON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BROOKHAVEN TO MONTICELLO AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO MEMPHIS TN, CLEVELAND, BROOKHAVEN, JACKSON,
+                                                                                        BROOKHAVEN, JACKSON AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BROOKHAVEN TO MADISON AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        WASHINGTON DC TO JACKSON, BROOKHAVEN, JACKSON AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+

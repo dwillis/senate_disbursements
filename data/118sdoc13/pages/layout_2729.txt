@@ -1,0 +1,55 @@
+DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION                AMOUNT ($)
+              POSTED                                        DATES
+                                                                         WASHINGTON DC TO CARMEL, INDIANAPOLIS, PLAINFIELD, INDIANAPOLIS,                            $6.45
+                                                 START       END         FORT MYERS FL AND RETURN                                                                   $20.00
+                                                                         STAFF TRANSPORTATION                                                                     $594.29
+DYOU20240492  05/03/2024  JOHN P CONNELL         04/18/2024  04/18/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DYOU20240493  05/03/2024  JOHN P CONNELL         02/28/2024  02/28/2024  STAFF TRANSPORTATION                                                                     $525.28
+DYOU20240502  05/14/2024  ALLISON M ST. GERMAIN  04/03/2024  04/12/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                         STAFF TRANSPORTATION                                                                     $618.41
+DYOU20240503  05/20/2024  COURTNEY C PAPA        03/04/2024  03/19/2024  EVANSVILLE TO THE FOLLOWING AND RETURN: 4/3 CORYDON; 4/4
+                                                                         VINCENNES; 4/5, 9, 11 INTERDEPARTMENTAL TRANSPORTATION; 4/10                             $300.83
+DYOU20240504  05/17/2024  COURTNEY C PAPA        03/21/2024  03/28/2024  BEDFORD, MOUNT VERNON; 4/12 VINCENNES, SULLIVAN
+                                                                         STAFF TRANSPORTATION                                                                     $408.70
+DYOU20240505  05/17/2024  JOSE MARINE DIAZ       04/02/2024  04/12/2024  ELKHART TO THE FOLLOWING AND RETURN: 3/4 GRISSOM ARB,
+                                                                         LOGANSPORT; 3/6 VALPARAISO; 3/12, 15 SOUTH BEND; 3/18 WEST                            $1,013.04
+DYOU20240506  05/20/2024  MELISSA K ACTON        04/09/2024  04/12/2024  LAFAYETTE, FRANKFORT, PERU; 3/19 NAPPANEE                                                $790.60   B-2692
+                                                                         STAFF TRANSPORTATION                                                                       $20.10
+DYOU20240507  05/14/2024  THOMAS B.R. FRITTS     02/02/2024  03/11/2024  ELKHART TO THE FOLLOWING AND RETURN: 3/21 SYRACUSE; 3/22 SOUTH                           $481.73
+DYOU20240508  05/20/2024  THOMAS B.R. FRITTS     03/19/2024  04/15/2024  BEND, PLYMOUTH; 3/25 PERU, INDIANAPOLIS; 3/26 PERU, LOGANSPORT; 3
+DYOU20240509  05/14/2024  WILLIAM R MILLER       01/10/2024  01/10/2024  /27 ROCHESTER; 3/28 FORT WAYNE                                                           $245.22
+DYOU20240510  05/20/2024  ERIN MARIE BERGHOFF    03/06/2024  03/28/2024  STAFF TRANSPORTATION                                                                     $369.84
+                                                                         MUNSTER TO THE FOLLOWING AND RETURN: 4/2 CHESTERTON, MICHIGAN                            $144.72
+DYOU20240512  05/17/2024  HEIDI L REUTEBUCH      04/03/2024  04/03/2024  CITY, 4/4 LOWELL; 4/9, 12 VALPARAISO; 4/11 BEVERLY SHORES; 4/12
+DYOU20240513  05/17/2024  HEIDI L REUTEBUCH      04/25/2024  04/25/2024  HAMMOND; 4/5 MUNSTER TO CROWN POINT TO VALPARAISO; VALPARAISO                              $30.82
+DYOU20240514  05/17/2024  MELISSA K ACTON        04/18/2024  04/18/2024  TO RENSSELAER TO MUNSTER                                                                 $448.23
+DYOU20240515  05/14/2024  MELISSA K ACTON        04/17/2024  04/17/2024  STAFF TRANSPORTATION
+DYOU20240516  05/20/2024  MELISSA K ACTON        04/16/2024  04/25/2024  SEYMOUR TO THE FOLLOWING AND RETURN: 4/9, 11 INDIANAPOLIS,                               $621.76
+                                                                         FRANKLIN; 4/10 JEFFERSONVILLE, NEW ALBANY; 4/12 BLOOMINGTON,
+DYOU20240517  05/21/2024  ALLISON M ST. GERMAIN  04/16/2024  04/25/2024  FRANKLIN
+                                                                         STAFF TRANSPORTATION
+                                                                         INDIANAPOLIS TO THE FOLLOWING AND RETURN: 2/2, 15, 20, 21, 23, 3/10, 11
+                                                                         BARGERSVILLE; 2/12 INTERDEPARTMENTAL TRANSPORTATION
+                                                                         STAFF TRANSPORTATION
+                                                                         3/19, 4/3, 8, 12, 15 INDIANAPOLIS TO BARGERSVILLE AND RETURN; 3/30
+                                                                         INDIANAPOLIS TO CHICAGO IL AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         INDIANAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                         STAFF TRANSPORTATION
+                                                                         3/11 FORT WAYNE TO DECATUR AND RETURN; AUBURN TO THE
+                                                                         FOLLOWING AND RETURN: 3/6, 20, 27, 28, FORT WAYNE; 3/12 COLUMBIA
+                                                                         CITY; 3/14 BLUFFTON; 3/15 WINCHESTER; 3/22 MUNCIE
+                                                                         STAFF TRANSPORTATION
+                                                                         NEW ALBANY TO WEST LAFAYETTE AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         NEW ALBANY TO WEST LAFAYETTE, NOTRE DAME AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         SEYMOUR TO NEW CASTLE AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         SEYMOUR OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                         STAFF TRANSPORTATION
+                                                                         SEYMOUR TO THE FOLLOWING AND RETURN: 4/16 CLARKSVILLE; 4/17 NEW
+                                                                         ALBANY; 4/22 GREENWOOD; 4/24 BROOKVILLE; 4/25 JEFFERSONVILLE, NEW
+                                                                         ALBANY, FRANKLIN
+                                                                         STAFF TRANSPORTATION
+

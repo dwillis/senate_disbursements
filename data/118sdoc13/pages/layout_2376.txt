@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                             DATES
+DSEM20240701                                                                      AIRFARE FOR L GREENE PHOENIX TO WASHINGTON DC                             $1,092.21
+DSEM20240702                                              START       END         STAFF TRANSPORTATION                                                      $1,092.21
+DSEM20240703                                                                      AIRFARE FOR T SCHULTE PHOENIX TO HONOLULU HI AND RETURN                   $1,092.21
+DSEM20240704      07/31/2024  CITIBANK - TRAVEL CBA CARD  07/16/2024  07/20/2024  STAFF TRANSPORTATION                                                                   B-2339
+DSEM20240705      07/29/2024  CITIBANK - TRAVEL CBA CARD  07/16/2024  07/20/2024  AIRFARE FOR A KENNEDY PHOENIX TO HONOLULU HI AND RETURN                      $644.20
+DSEM20240706      07/31/2024  CITIBANK - TRAVEL CBA CARD  07/16/2024  07/20/2024  STAFF TRANSPORTATION                                                         $410.10
+DSEM20240707      07/30/2024  CITIBANK - TRAVEL CBA CARD  07/20/2024  07/22/2024  AIRFARE FOR D WINKLER PHOENIX TO HONOLULU HI AND RETURN                      $234.10
+DSEM20240710      07/30/2024  CITIBANK - TRAVEL CBA CARD  07/23/2024  07/23/2024  STAFF TRANSPORTATION
+DSEM20240711      07/30/2024  CITIBANK - TRAVEL CBA CARD  07/23/2024  07/23/2024  AIRFARE FOR M DAVIDSON PHOENIX TO WASHINGTON DC AND RETURN                     $80.00
+DSEM20240714      07/30/2024  LAURA M GREENE              06/24/2024  07/03/2024  SENATOR TRANSPORTATION                                                         $59.53
+DSEM20240715      07/29/2024  CITIBANK - TRAVEL CBA CARD  07/21/2024  07/22/2024  AIRFARE FOR SEN SINEMA PHOENIX TO WASHINGTON DC                              $468.20
+DSEM20240717      08/06/2024  CITIBANK - TRAVEL CBA CARD  07/23/2024  07/25/2024  STAFF TRANSPORTATION                                                           $84.00
+DSEM20240718      08/06/2024  MICHAEL K BROWNLIE          07/04/2024  07/07/2024  AIRFARE FOR D WINKLER PHOENIX TO WASHINGTON DC                               $105.00
+DSEM20240724      08/06/2024  MICHAEL K BROWNLIE          07/16/2024  07/20/2024  STAFF TRANSPORTATION                                                         $644.20
+DSEM20240726      08/06/2024  CITIBANK - TRAVEL CBA CARD  07/23/2024  07/27/2024  WASHINGTON DC TO PHOENIX AND RETURN                                          $644.20
+DSEM20240727      08/06/2024  CITIBANK - TRAVEL CBA CARD  07/21/2024  07/28/2024  STAFF TRANSPORTATION                                                         $449.53
+DSEM20240728      08/06/2024  CITIBANK - TRAVEL CBA CARD  07/18/2024  07/23/2024  RENTAL AUTO FOR L PRADO PHOENIX TO PRESCOTT AND RETURN                         $34.09
+DSEM20240729      08/06/2024  BIANCA M LOPEZ              04/24/2024  04/24/2024  STAFF TRANSPORTATION                                                         $644.20
+DSEM20240730      08/13/2024  CITIBANK - TRAVEL CBA CARD  07/29/2024  08/02/2024  AIRFARE FOR G GARVIN PHOENIX TO WASHINGTON DC AND RETURN                     $644.20
+DSEM20240731      08/13/2024  CITIBANK - TRAVEL CBA CARD  07/29/2024  08/01/2024  STAFF TRANSPORTATION                                                         $468.20
+DSEM20240732      08/12/2024  CITIBANK - TRAVEL CBA CARD  07/29/2024  08/03/2024  WASHINGTON DC TO TOKYO JAPAN JP AND RETURN                                   $644.20
+                  08/14/2024  CITIBANK - TRAVEL CBA CARD  07/28/2024  08/03/2024  STAFF TRANSPORTATION                                                         $855.19
+DSEM20240733      08/13/2024  CITIBANK - TRAVEL CBA CARD  07/28/2024  08/03/2024  WASHINGTON DC TO HONOLULU HI AND RETURN                                        $56.14
+DSEM20240734      08/13/2024  MATTHEW AMMEL               07/29/2024  07/31/2024  STAFF TRANSPORTATION                                                         $352.00
+                                                                                  AIRFARE FOR A KENNEDY PHOENIX TO WASHINGTON DC AND RETURN                    $380.56
+                  08/12/2024  TRAVIS JAMES SCHULTE        07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                         $278.05
+                  08/27/2024  AUSTIN S KENNEDY            07/23/2024  07/28/2024  AIRFARE FOR M COLES PHOENIX TO WASHINGTON DC AND RETURN                      $112.28
+                                                                                  STAFF TRANSPORTATION                                                      $1,076.30
+                                                                                  RENTAL AUTO FOR M AMMEL WASHINGTON DC TO PHOENIX AND RETURN                  $205.90
+                                                                                  STAFF TRANSPORTATION
+                                                                                  PHOENIX TO LITCHFIELD PARK AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR M DAVIDSON PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR C SAUDER PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR G GARVIN PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR T SCHULTE PHOENIX TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR T KIMBALL TUCSON TO WASHINGTON DC AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WHISPERING PINES NC TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  GILBERT TO FORT HUACHUCA AND RETURN
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+

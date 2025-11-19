@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                   POSTED                                                  DATES
+DBNN20240498                  CITIBANK - TRAVEL CBA CARD                                TICKET FEES                                                                      $30.00
+DBNN20240500      08/26/2024  SUSANNE ALISSA BROOKS             START       END         STAFF TRANSPORTATION                                                             $36.85
+DBNN20240502      08/28/2024  PATRICK M DONOVAN                                         WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DBNN20240503      09/06/2024  PATRICK M DONOVAN                 07/12/2024  07/12/2024  STAFF PER DIEM                                                                   $59.29
+DBNN20240504                  SANTIAGO GONZALEZ                 07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                           $148.74
+DBNN20240505      09/06/2024  CITIBANK - TRAVEL CBA CARD                                DENVER TO LEADVILLE AND RETURN
+DBNN20240506                  PATRICK M DONOVAN                 08/07/2024  08/08/2024  STAFF PER DIEM                                                                   $50.40
+DBNN20240508      09/09/2024  MATTHEW L KIREKER                                         STAFF TRANSPORTATION                                                           $183.58
+                                                                08/20/2024  08/21/2024  DENVER TO COLORADO SPRINGS AND RETURN
+DBNN20240509      09/06/2024                                                            STAFF PER DIEM                                                                   $94.41
+DBNN20240510      09/11/2024                                    08/07/2024  08/22/2024  STAFF TRANSPORTATION                                                        $1,118.25
+DBNN20240511                                                                            WASHINGTON DC TO DENVER AND RETURN
+DBNN20240512      09/17/2024                                    07/31/2024  07/31/2024  STAFF TRANSPORTATION                                                           $188.98
+DBNN20240514                                                    08/04/2024  08/06/2024  AIRFARE FOR A FRIEDMAN WASHINGTON DC TO DENVER
+DBNN20240515                                                                            STAFF INCIDENTALS                                                                $26.43
+DBNN20240517                                                    08/21/2024  08/22/2024  STAFF PER DIEM                                                                 $332.37
+DBNN20240519                                                                            DENVER TO RANGELY, STEAMBOAT SPRINGS AND RETURN
+                  09/16/2024  MATTHEW L KIREKER                 08/25/2024  08/25/2024  STAFF INCIDENTALS                                                                $22.04  B-521
+                  09/16/2024  MATTHEW L KIREKER                 08/28/2024  08/28/2024  STAFF PER DIEM                                                                 $195.00
+                  09/12/2024  HILARY E HENRY                    08/02/2024  08/02/2024  STAFF TRANSPORTATION                                                           $221.10
+                  09/16/2024  HILARY E HENRY                    08/05/2024  08/05/2024  STEAMBOAT SPRINGS TO KREMMLING, ASPEN AND RETURN
+                  09/12/2024  HILARY E HENRY                    08/14/2024  08/14/2024  STAFF TRANSPORTATION                                                           $106.53
+                  09/17/2024  CHALONIE R CRAIGHEAD              08/05/2024  08/07/2024  STEAMBOAT SPRINGS TO GRANBY AND RETURN
+                  09/17/2024  CHASE TANNER CROMWELL             09/03/2024  09/03/2024  STAFF TRANSPORTATION                                                           $166.16
+                  09/26/2024  KAITLIN S BURNS                   08/11/2024  08/30/2024  STEAMBOAT SPRINGS TO BAGGS WY, ENCAMPMENT WY AND RETURN
+                                                                                        STAFF PER DIEM                                                                    $7.22
+DBNN20240523      09/24/2024  ERIN G MINKS                      08/20/2024  08/21/2024  STAFF TRANSPORTATION                                                             $81.74
+DBNN20240524                                                                            GRAND JUNCTION TO MONTROSE AND RETURN
+                  09/24/2024  ERIN G MINKS                      08/05/2024  08/08/2024  STAFF PER DIEM                                                                   $11.08
+                                                                                        STAFF TRANSPORTATION                                                           $140.70
+                                                                                        GRAND JUNCTION TO MEEKER AND RETURN
+                                                                                        STAFF TRANSPORTATION                                                             $85.76
+                                                                                        GRAND JUNCTION TO RIFLE AND RETURN
+                                                                                        STAFF INCIDENTALS                                                                $46.12
+                                                                                        STAFF PER DIEM                                                                 $432.99
+                                                                                        DENVER TO COLORADO SPRINGS AND RETURN
+                                                                                        STAFF PER DIEM                                                                   $14.00
+                                                                                        STAFF TRANSPORTATION                                                           $152.76
+                                                                                        DENVER TO PUEBLO, COLORADO SPRINGS AND RETURN
+                                                                                        STAFF INCIDENTALS                                                              $133.09
+                                                                                        STAFF PER DIEM                                                              $1,207.43
+                                                                                        STAFF TRANSPORTATION                                                        $1,186.60
+                                                                                        WASHINGTON DC TO DENVER, ALAMOSA, DENVER, SAN FRANCISCO AND
+                                                                                        RETURN                                                                           $19.69
+                                                                                        STAFF INCIDENTALS                                                              $193.00
+                                                                                        STAFF PER DIEM                                                                 $261.30
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ALAMOSA TO COLORADO SPRINGS, ALMA, DENVER AND RETURN                           $286.76
+                                                                                        STAFF TRANSPORTATION
+                                                                                        ALAMOSA TO THE FOLLOWING AND RETURN: 8/5 SALIDA; 8/8 FAIRPLAY
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                             DATES
+DDUC20240346                                                                      CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                    $26.94
+DDUC20240347                                              START       END         STAFF TRANSPORTATION
+DDUC20240348                                                                      CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                    $82.85
+DDUC20240350      04/26/2024  DYLON C HOPP                03/28/2024  03/28/2024  STAFF PER DIEM                                                                      $32.70
+DDUC20240351      05/17/2024  STACEY M BERDEJO            04/03/2024  04/05/2024  STAFF TRANSPORTATION
+                                                                                  CHICAGO TO WASHINGTON DC AND RETURN                                                 $40.59
+DDUC20240352      05/17/2024  ROGELIO VILLA               04/03/2024  04/05/2024  STAFF PER DIEM
+DDUC20240353      05/02/2024  KATHRYN D SUDHOFF           04/04/2024  04/04/2024  CHICAGO TO WASHINGTON DC AND RETURN                                                 $21.58
+DDUC20240356      05/03/2024  CHRISTOPHER N TURNER        04/15/2024  04/17/2024  STAFF TRANSPORTATION
+DDUC20240357                                                                      WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $91.16
+DDUC20240358      05/20/2024  CITIBANK - TRAVEL CBA CARD  04/04/2024  04/04/2024  STAFF INCIDENTALS                                                                 $580.14   B-1101
+DDUC20240359      05/20/2024  CITIBANK - TRAVEL CBA CARD  04/04/2024  04/05/2024  STAFF PER DIEM                                                                    $300.74
+DDUC20240361      05/17/2024  SANDY HERNANDEZ             04/03/2024  04/05/2024  STAFF TRANSPORTATION
+                  05/17/2024  ADAM J SACHS                04/03/2024  04/05/2024  WASHINGTON DC TO CHICAGO AND RETURN                                                 $53.02
+DDUC20240362      05/17/2024  DYLON C HOPP                04/03/2024  04/07/2024  SENATOR PER DIEM                                                               $2,810.13
+DDUC20240363      05/02/2024  RANDY R SIKOWSKI            04/12/2024  04/12/2024  STAFF PER DIEM
+DDUC20240364      06/06/2024  DYLON C HOPP                12/16/2023  12/19/2023  PER DIEM EXPENSE FOR STAFF RETREAT HELD IN WASHINGTON DC                          $104.75
+DDUC20240365                                                                      SENATOR PER DIEM                                                               $5,551.80
+DDUC20240371      04/30/2024  DYLON C HOPP                02/09/2024  02/09/2024  STAFF PER DIEM
+DDUC20240372      05/02/2024  LOREN C HARRIS              04/08/2024  04/09/2024  PER DIEM EXPENSE FOR STAFF RETREAT HELD IN WASHINGTON DC                            $18.19
+                                                                                  STAFF PER DIEM                                                                      $52.48
+                  04/29/2024  GRACE K CASON               04/18/2024  04/18/2024  STAFF TRANSPORTATION
+                  05/17/2024  KAROLINA ZACZEK             04/03/2024  04/07/2024  CHICAGO TO WASHINGTON DC AND RETURN                                               $140.04
+                                                                                  STAFF PER DIEM                                                                    $120.89
+                  05/01/2024  DYLON C HOPP                04/22/2024  04/22/2024  STAFF TRANSPORTATION
+                  05/01/2024  DYLON C HOPP                04/19/2024  04/19/2024  CHICAGO TO WASHINGTON DC AND RETURN                                                 $69.75
+                                                                                  STAFF PER DIEM                                                                    $196.01
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHICAGO TO WASHINGTON DC AND RETURN                                                 $12.39
+                                                                                  STAFF PER DIEM                                                                    $320.39
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SPRINGFIELD TO BELVIDERE, ROCKFORD, HOFFMAN ESTATES AND RETURN                      $12.75
+                                                                                  STAFF INCIDENTALS                                                                 $171.14
+                                                                                  STAFF PER DIEM                                                                    $412.07
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHICAGO TO COLLINSVILLE AND RETURN                                                  $53.55
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                    $65.46
+                                                                                  STAFF PER DIEM                                                                    $499.96
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHICAGO TO SAINT LOUIS MO, CARBONDALE, SAINT LOUIS MO AND RETURN                    $20.62
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $38.33
+                                                                                  STAFF PER DIEM                                                                    $244.71
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHICAGO TO WASHINGTON DC AND RETURN                                                 $12.30
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                     $1.26
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHICAGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

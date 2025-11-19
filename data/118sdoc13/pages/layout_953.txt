@@ -1,0 +1,52 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                  POSTED                                             DATES
+DCOO20240351                                                                      WASHINGTON DC TO WILMINGTON AND RETURN                                               $26.00
+DCOO20240352                                              START       END         STAFF PER DIEM                                                                       $85.00
+DCOO20240353                                                                      STAFF TRANSPORTATION                                                                 $17.09
+DCOO20240357      06/17/2024  KATIE CARIN PANNELL         05/06/2024  05/06/2024  WASHINGTON DC TO WILMINGTON AND RETURN                                             $110.00
+DCOO20240358                                                                      STAFF PER DIEM                                                                       $65.31
+DCOO20240359      06/13/2024  IVAN TORREZ                 05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                               $231.00
+DCOO20240360                                                                      WASHINGTON DC TO WILMINGTON AND RETURN                                             $146.00
+DCOO20240361      06/12/2024  CLEOPATRA JACQUELINE JONES  05/17/2024  05/17/2024  STAFF TRANSPORTATION                                                                 $49.00
+DCOO20240363      06/13/2024  CHRISTOPHER A COONS         02/29/2024  03/05/2024  WILMINGTON TO NEW CASTLE AND RETURN                                                $180.16
+DCOO20240364      06/13/2024  CHRISTOPHER A COONS         03/18/2024  03/19/2024  SENATOR TRANSPORTATION                                                               $10.34
+DCOO20240365      06/13/2024  CHRISTOPHER A COONS         02/13/2024  02/13/2024  WASHINGTON DC TO WILMINGTON AND RETURN                                             $134.00
+DCOO20240366      06/13/2024  CHELSEA N MOSER             04/14/2024  04/14/2024  SENATOR TRANSPORTATION                                                               $26.90
+DCOO20240367      06/24/2024  WILLIAM A BASKIN-GERWITZ    06/07/2024  06/07/2024  WASHINGTON DC TO WILMINGTON AND RETURN                                               $62.96
+DCOO20240368                                                                      SENATOR TRANSPORTATION                                                               $81.75
+DCOO20240369      07/02/2024  BURRITT,DESIREE C           06/06/2024  06/06/2024  WASHINGTON DC TO WILMINGTON                                                                  B-935
+DCOO20240371                                                                      STAFF TRANSPORTATION                                                                  $5.36
+DCOO20240372      07/02/2024  BURRITT,DESIREE C           06/07/2024  06/07/2024  WASHINGTON DC TO WILMINGTON AND RETURN                                                $5.36
+DCOO20240373      07/02/2024  KATHERINE B ROHRER          05/14/2024  05/14/2024  STAFF PER DIEM                                                                       $41.54
+DCOO20240374      07/02/2024  KATHERINE B ROHRER          06/11/2024  06/11/2024  STAFF TRANSPORTATION                                                                 $33.50
+DCOO20240375      07/02/2024  KATHERINE B ROHRER          06/13/2024  06/13/2024  WASHINGTON DC TO WILMINGTON AND RETURN                                               $10.50
+                  07/02/2024  KATHERINE B ROHRER          06/12/2024  06/12/2024  STAFF PER DIEM                                                                     $104.75
+                  07/02/2024  KATHERINE B ROHRER          06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                               $182.24
+                                                                                  DOVER TO WILMINGTON AND RETURN
+                  07/03/2024  ANDREW M DINSMORE           04/02/2024  04/04/2024  STAFF TRANSPORTATION                                                               $161.47
+                  07/03/2024  ANDREW M DINSMORE           04/09/2024  04/12/2024  DOVER TO DEWEY BEACH AND RETURN
+                  07/03/2024  ANDREW M DINSMORE           04/15/2024  04/20/2024  STAFF TRANSPORTATION                                                               $181.57
+                  07/03/2024  ANDREW M DINSMORE           04/22/2024  04/30/2024  DOVER OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  07/03/2024  ANDREW M DINSMORE           05/04/2024  05/12/2024  STAFF TRANSPORTATION                                                               $263.98
+                                                                                  DOVER OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION                                                               $290.11
+                                                                                  MARYDEL MD TO GREENWOOD AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DOVER TO MILFORD TO MARYDEL MD
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MARYDEL MD TO WILMINGTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WILMINGTON TO THE FOLLOWING AND RETURN: 4/2 DOVER; 4/3 NEWARK; 4
+                                                                                  /4 HARRINGTON
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WILMINGTON TO THE FOLLOWING AND RETURN: 4/9 DELAWARE CITY; 4/11-
+                                                                                  12 LEWES; 4/11 NEWARK
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WILMINGTON TO THE FOLLOWING AND RETURN: 4/15 RIDLEY PARK PA; 4/16
+                                                                                  DOVER; 4/18 NEWARK; 4/20 CAMDEN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WILMINGTON TO THE FOLLOWING AND RETURN: 4/22 MIDDLETOWN; 4/25
+                                                                                  SEAFORD; 4/29 MILTON; 4/30 NEW CASTLE
+                                                                                  STAFF TRANSPORTATION
+

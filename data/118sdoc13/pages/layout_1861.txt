@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                       OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                                  DATES
+DMOR20240806                                                                           GARDEN CITY TO MEADE AND RETURN                                                   $140.70
+DMOR20240811                                                   START       END         STAFF TRANSPORTATION                                                                $10.33
+DMOR20240812                                                                           GARDEN CITY TO ELKHART AND RETURN
+DMOR20240813      07/12/2024  HUNTER D CARSON                  06/05/2024  06/05/2024  STAFF PER DIEM                                                                    $211.49
+DMOR20240814      07/15/2024  REID A PETTY                     06/17/2024  06/19/2024  STAFF TRANSPORTATION                                                              $152.76
+DMOR20240815                                                                           HAYS TO COLBY, MANHATTAN, COLBY AND RETURN
+DMOR20240816      07/15/2024  HUNTER D CARSON                  06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                                $70.35
+DMOR20240817      07/12/2024  HUNTER D CARSON                  06/18/2024  06/18/2024  GARDEN CITY TO LA CROSSE AND RETURN                                                 $51.59
+DMOR20240818      07/15/2024  THEODORE V KEESEE                06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                              $163.92
+                  07/15/2024  MARISSA N LUX                    06/08/2024  06/13/2024  GARDEN CITY TO DODGE CITY AND RETURN                                              $288.97
+DMOR20240819                                                                           STAFF TRANSPORTATION
+DMOR20240820      07/15/2024  MARISSA N LUX                    06/21/2024  06/21/2024  OLATHE TO OTTAWA AND RETURN                                                          $3.48
+DMOR20240822                                                                           STAFF PER DIEM                                                                      $63.65
+                  07/15/2024  MARISSA N LUX                    06/25/2024  06/25/2024  STAFF TRANSPORTATION
+DMOR20240823                                                                           MANHATTAN TO WASHINGTON DC AND RETURN                                                $6.05
+                  07/16/2024  JAKE LEROY WESSEL                06/17/2024  07/01/2024  STAFF PER DIEM                                                                      $92.46  B-1824
+DMOR20240824                                                                           STAFF TRANSPORTATION                                                                $99.10
+                  07/15/2024  JAKE LEROY WESSEL                06/04/2024  06/24/2024  MANHATTAN TO ABILENE AND RETURN                                                   $703.48
+DMOR20240825      07/15/2024  REID A PETTY                     06/12/2024  06/12/2024  STAFF PER DIEM                                                                    $937.64
+                  08/15/2024  MICHAEL E ZAMRZLA                05/24/2024  05/28/2024  STAFF TRANSPORTATION
+DMOR20240826                                                                           MANHATTAN TO SALINA AND RETURN                                                      $94.47
+                  07/29/2024  GARRISON STEPHAN LINCH HOLMBERG  05/04/2024  05/07/2024  STAFF INCIDENTALS                                                                 $129.98
+                                                                                       STAFF PER DIEM                                                                    $104.62
+                  07/15/2024  JAMES BRYAN KELLY                06/24/2024  06/27/2024  STAFF TRANSPORTATION                                                              $854.22
+                                                                                       MANHATTAN TO WICHITA, KANSAS CITY MO, OVERLAND PARK, OLATHE,                      $133.58
+                  07/15/2024  HUNTER D CARSON                  06/10/2024  06/13/2024  TOPEKA, CHANUTE, WICHITA, HAYS, BURLINGTON CO, SCOTT CITY, HAYS,                  $317.57
+                                                                                       REXFORD, HAYS, STRONG CITY AND RETURN                                          $1,028.00
+                  07/15/2024  PAMELA D HENDERSON               06/05/2024  06/25/2024  STAFF TRANSPORTATION                                                              $659.45
+                                                                                       MANHATTAN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                       STAFF TRANSPORTATION                                                                $34.49
+                                                                                       HAYS TO SALINA AND RETURN                                                         $478.54
+                                                                                       STAFF INCIDENTALS                                                                 $110.61
+                                                                                       STAFF PER DIEM
+                                                                                       STAFF TRANSPORTATION                                                              $300.52
+                                                                                       WICHITA TO WASHINGTON DC AND RETURN                                            $1,225.70
+                                                                                       STAFF INCIDENTALS
+                                                                                       STAFF PER DIEM                                                                    $289.44
+                                                                                       STAFF TRANSPORTATION                                                                $82.41
+                                                                                       WASHINGTON DC TO LOS ANGELES CA, MANHATTAN BEACH CA, LOS
+                                                                                       ANGELES CA AND RETURN
+                                                                                       STAFF INCIDENTALS
+                                                                                       STAFF PER DIEM
+                                                                                       STAFF TRANSPORTATION
+                                                                                       WASHINGTON DC TO MANHATTAN, LIBERAL, ELKHART, JOHNSON,
+                                                                                       SYRACUSE, LAKIN, GARDEN CITY AND RETURN
+                                                                                       STAFF INCIDENTALS
+                                                                                       STAFF PER DIEM
+                                                                                       STAFF TRANSPORTATION
+                                                                                       GARDEN CITY TO WICHITA, WASHINGTON DC AND RETURN
+                                                                                       STAFF TRANSPORTATION
+

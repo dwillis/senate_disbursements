@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                  POSTED                                      DATES
+DWRN20240374                                                               NORFOLK TO NEWPORT NEWS, HAMPTON, NEWPORT NEWS AND RETURN                            $24.12
+DWRN20240375                                       START       END         STAFF TRANSPORTATION                                                                 $10.05
+DWRN20240376                                                               NORFOLK TO VIRGINIA BEACH AND RETURN                                                 $56.95
+DWRN20240377      04/16/2024  ANDREW C LUMPKIN     03/13/2024  03/13/2024  STAFF TRANSPORTATION                                                                 $56.95  B-2535
+DWRN20240378      04/16/2024  ANDREW C LUMPKIN     03/15/2024  03/15/2024  NORFOLK TO VIRGINIA BEACH AND RETURN                                                 $22.78
+DWRN20240379      04/15/2024  ANDREW C LUMPKIN     03/18/2024  03/18/2024  STAFF TRANSPORTATION                                                                 $14.07
+DWRN20240380      04/15/2024  ANDREW C LUMPKIN     03/19/2024  03/19/2024  NORFOLK TO WILLIAMSBURG AND RETURN                                                   $14.07
+DWRN20240381      04/16/2024  ANDREW C LUMPKIN     03/21/2024  03/21/2024  STAFF TRANSPORTATION                                                                 $14.07
+DWRN20240382      04/16/2024  ANDREW C LUMPKIN     03/23/2024  03/23/2024  NORFOLK TO WILLIAMSBURG AND RETURN                                                   $21.44
+DWRN20240385      04/16/2024  ANDREW C LUMPKIN     03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                                 $22.00
+DWRN20240386      04/16/2024  ANDREW C LUMPKIN     03/27/2024  03/27/2024  NORFOLK TO CHESAPEAKE, VIRGINIA BEACH AND RETURN                                     $27.47
+DWRN20240387      04/16/2024  ANDREW C LUMPKIN     04/01/2024  04/01/2024  STAFF TRANSPORTATION                                                                 $46.23
+DWRN20240388      04/23/2024  RACHEL COHEN         04/10/2024  04/10/2024  NORFOLK TO CHESAPEAKE AND RETURN                                                   $124.68
+                  04/23/2024  GENE L GARLAND       04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                               $968.15
+DWRN20240389      04/23/2024  GENE L GARLAND       04/10/2024  04/10/2024  NORFOLK TO VIRGINIA BEACH AND RETURN                                               $489.53
+DWRN20240390      04/29/2024  VALERIA RIVADENEIRA  04/03/2024  04/06/2024  STAFF TRANSPORTATION                                                                 $38.19
+DWRN20240391                                                               NORFOLK TO CHESAPEAKE AND RETURN                                                     $24.79
+DWRN20240392      04/23/2024  GENE L GARLAND       04/11/2024  04/11/2024  STAFF TRANSPORTATION                                                                 $22.11
+DWRN20240394      04/24/2024  LOUISE A KADIRI      04/10/2024  04/10/2024  NORFOLK TO CHESAPEAKE AND RETURN                                                     $72.36
+DWRN20240396      04/24/2024  LOUISE A KADIRI      04/11/2024  04/11/2024  STAFF TRANSPORTATION                                                                 $10.98
+DWRN20240397      04/24/2024  CAROLINE E BROOM     02/22/2024  04/12/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $61.64
+DWRN20240399      04/25/2024  CAROLINE E BROOM     04/09/2024  04/09/2024  STAFF TRANSPORTATION                                                                 $87.10
+                  04/26/2024  NICHOLAS R KAWUGULE  04/11/2024  04/11/2024  NORFOLK OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                     $44.79
+DWRN20240400      04/26/2024  NICHOLAS R KAWUGULE  04/16/2024  04/16/2024  STAFF TRANSPORTATION                                                               $355.05
+DWRN20240401      05/02/2024  WARNER,MARK R        03/25/2024  03/27/2024  NORFOLK TO VIRGINIA BEACH AND RETURN                                               $264.98
+                                                                           STAFF INCIDENTALS                                                                    $28.81
+                  04/30/2024  LOUISE A KADIRI      04/19/2024  04/19/2024  STAFF PER DIEM                                                                       $28.81
+                  04/30/2024  LOUISE A KADIRI      04/20/2024  04/20/2024  STAFF TRANSPORTATION
+                                                                           WASHINGTON DC TO NEW YORK NY AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           NORFOLK TO VIRGINIA BEACH AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           RICHMOND TO HENRICO AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HENRICO TO RICHMOND AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           2/22, 23, 3/27, 4/2, 5, 12 WASHINGTON DC TO ALEXANDRIA AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           RICHMOND TO BOWLING GREEN AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           RICHMOND TO FARMVILLE AND RETURN
+                                                                           SENATOR INCIDENTALS
+                                                                           SENATOR PER DIEM
+                                                                           SENATOR TRANSPORTATION
+                                                                           WASHINGTON DC TO WINCHESTER, LYNCHBURG, ROANOKE AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           HENRICO TO ASHLAND AND RETURN
+                                                                           STAFF TRANSPORTATION
+

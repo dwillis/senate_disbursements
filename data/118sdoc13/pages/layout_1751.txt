@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+              POSTED                                             DATES
+                                                                              SOMERVILLE TO THE FOLLOWING AND RETURN TO BOSTON: 6/7 BOURNE,                    $96.21
+                                                      START       END         CANTON; 6/8 BOSTON, MALDEN; SOMERVILLE TO THE FOLLOWING AND                      $94.21
+                                                                              RETURN: 6/10 LOWELL; 6/15 BOSTON                                               $393.10
+DMKY20240339  07/01/2024  CITIBANK - TRAVEL CBA CARD  05/30/2024  06/02/2024  STAFF TRANSPORTATION                                                             $92.21
+DMKY20240342  07/01/2024  CITIBANK - TRAVEL CBA CARD  02/22/2024  02/25/2024  AIRFARE FOR C KAUFMAN WASHINGTON DC TO BOSTON AND RETURN                       $183.54
+DMKY20240343  06/28/2024  CITIBANK - TRAVEL CBA CARD  02/05/2024  02/05/2024  STAFF TRANSPORTATION                                                           $442.13
+DMKY20240344  07/02/2024  CITIBANK - TRAVEL CBA CARD  02/12/2024  02/14/2024  AIRFARE FOR G BARRY WASHINGTON DC TO BOSTON AND RETURN                           $30.00
+DMKY20240348  07/03/2024  GISELLE L BARRY             06/06/2024  06/08/2024  SENATOR TRANSPORTATION                                                         $138.72
+                                                                              AIRFARE FOR SEN MARKEY HARTFORD CT TO WASHINGTON DC                            $986.75
+DMKY20240349  07/03/2024  GISELLE L BARRY             06/13/2024  06/15/2024  STAFF TRANSPORTATION                                                             $93.04
+                                                                              AIRFARE FOR M MASSIWER WASHINGTON DC TO BOSTON AND RETURN                        $76.58
+DMKY20240351  07/10/2024  MELISSA AW OLESEN           06/07/2024  06/07/2024  STAFF INCIDENTALS                                                                $18.18  B-1714
+DMKY20240352  07/10/2024  LISA V MCCLURE              06/18/2024  06/18/2024  STAFF PER DIEM                                                                   $10.14
+DMKY20240354  07/10/2024  LISA V MCCLURE              05/10/2024  05/10/2024  STAFF TRANSPORTATION                                                             $94.21
+DMKY20240361  07/22/2024  CITIBANK - TRAVEL CBA CARD  05/13/2024  05/16/2024  WASHINGTON DC TO BOSTON AND RETURN                                               $92.21
+DMKY20240362  07/25/2024  CITIBANK - TRAVEL CBA CARD  02/05/2024  02/11/2024  STAFF INCIDENTALS                                                                $48.10
+DMKY20240363  07/22/2024  CITIBANK - TRAVEL CBA CARD  03/04/2024  03/04/2024  STAFF PER DIEM                                                                   $96.21
+DMKY20240364  07/22/2024  CITIBANK - TRAVEL CBA CARD  03/17/2024  03/19/2024  STAFF TRANSPORTATION                                                             $46.10
+DMKY20240365  07/22/2024  CITIBANK - TRAVEL CBA CARD  05/02/2024  05/02/2024  WASHINGTON DC TO BOSTON AND RETURN                                               $38.86
+DMKY20240378  08/22/2024  KATHERINE A MORFILL         07/08/2024  07/08/2024  STAFF TRANSPORTATION                                                             $44.89
+DMKY20240379  08/22/2024  KATHERINE A MORFILL         07/03/2024  07/03/2024  MILTON TO BUZZARDS BAY, SANDWICH AND RETURN                                      $37.52
+DMKY20240380  08/22/2024  KATHERINE A MORFILL         07/02/2024  07/02/2024  STAFF TRANSPORTATION                                                             $43.43
+DMKY20240381  09/03/2024  HANNAH N VOGEL              07/11/2024  07/14/2024  BOSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $277.93
+                                                                              STAFF TRANSPORTATION                                                             $50.96
+DMKY20240382  08/19/2024  MATTHEW C REYNOLDS          06/01/2024  06/30/2024  BOSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $341.70
+DMKY20240383  09/11/2024  KATHERINE A MORFILL         07/17/2024  07/17/2024  STAFF TRANSPORTATION                                                             $67.00
+DMKY20240384  09/13/2024  ISABELLE A COMERFORD        04/25/2024  07/18/2024  AIRFARE FOR J CANTWELL BOSTON TO WASHINGTON DC AND RETURN                      $412.45
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR I COMERFORD BOSTON TO WASHINGTON DC AND RETURN
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN MARKEY BOSTON TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR J CANTWELL BOSTON TO WASHINGTON DC AND RETURN
+                                                                              SENATOR TRANSPORTATION
+                                                                              AIRFARE FOR SEN MARKEY WASHINGTON DC TO BOSTON
+                                                                              STAFF TRANSPORTATION
+                                                                              HAVERHILL TO ESSEX TO BOSTON
+                                                                              STAFF TRANSPORTATION
+                                                                              HAVERHILL TO GLOUCESTER TO BOSTON
+                                                                              STAFF TRANSPORTATION
+                                                                              HAVERHILL TO ESSEX TO BOSTON
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO BOSTON AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                              STAFF TRANSPORTATION
+                                                                              BOSTON TO WORCESTER AND RETURN
+                                                                              STAFF TRANSPORTATION
+

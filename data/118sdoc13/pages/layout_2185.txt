@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                   POSTED                                                  DATES
+DROU20240721                  CAPITAL CITY AIR CARRIER INC                              SENATOR TRANSPORTATION                                                    $5,865.70
+DROU20240722      06/12/2024  CAPITAL CITY AIR CARRIER INC      START       END         AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN
+DROU20240723      06/13/2024  CAPITAL CITY AIR CARRIER INC                              SENATOR TRANSPORTATION                                                    $5,865.70
+DROU20240724      06/14/2024  CAPITAL CITY AIR CARRIER INC      05/20/2024  05/20/2024  AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN
+DROU20240726                  ADAM L KAEMINGK                                           SENATOR TRANSPORTATION                                                    $4,966.50
+                  06/14/2024                                    05/23/2024  05/23/2024  AIRFARE FOR SEN ROUNDS PIERRE TO BROOKINGS, WATERTOWN AND
+DROU20240727      06/13/2024                                                            RETURN                                                                    $5,865.70
+DROU20240729                                                    05/27/2024  05/27/2024  SENATOR TRANSPORTATION
+DROU20240731                                                                            AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN                    $27.32
+                                                                06/03/2024  06/03/2024  STAFF INCIDENTALS                                                            $304.65
+DROU20240732                                                    06/02/2024  06/04/2024  STAFF PER DIEM                                                               $477.04
+DROU20240733                                                                            STAFF TRANSPORTATION
+DROU20240734      06/11/2024  ROBERT DEAN DEJONG                06/05/2024  06/05/2024  RAPID CITY TO ABERDEEN AND RETURN                                              $25.51
+                                                                                        STAFF PER DIEM                                                               $103.18
+DROU20240735      06/12/2024  SARA J MAYER                      06/05/2024  06/05/2024  STAFF TRANSPORTATION
+DROU20240736      06/13/2024  KEITH OWEN MOORE                  06/02/2024  06/04/2024  SIOUX FALLS TO MITCHELL, SALEM AND RETURN                                      $53.21
+DROU20240741                                                                            STAFF PER DIEM
+DROU20240742      06/13/2024  NELSON, MARY L                    05/30/2024  05/30/2024  SIOUX FALLS TO MITCHELL, SALEM AND RETURN                                      $26.01  B-2148
+                                                                                        STAFF INCIDENTALS                                                            $316.51
+DROU20240743      06/12/2024  REBECCA JO HERMAN                 06/06/2024  06/06/2024  STAFF PER DIEM                                                               $285.42
+DROU20240744      06/18/2024  LUCAS W HEITKAMP                  05/24/2024  06/02/2024  STAFF TRANSPORTATION
+DROU20240745                                                                            SIOUX FALLS TO ABERDEEN AND RETURN                                             $26.56
+                  06/13/2024  JAMES STEVEN SELCHERT             06/06/2024  06/06/2024  STAFF PER DIEM                                                               $301.50
+                  06/13/2024  JAMES STEVEN SELCHERT             06/07/2024  06/07/2024  STAFF TRANSPORTATION
+                  06/24/2024  KIMBERLY J OLSON                  03/28/2024  03/28/2024  PIERRE TO SIOUX FALLS AND RETURN                                               $32.76
+                                                                                        STAFF TRANSPORTATION
+                  06/24/2024  KIMBERLY J OLSON                  04/10/2024  04/11/2024  RUTLAND TO BROOKINGS AND RETURN                                                $23.27
+                                                                                        STAFF INCIDENTALS                                                            $189.05
+                  06/21/2024  KIMBERLY J OLSON                  05/15/2024  05/15/2024  STAFF PER DIEM                                                               $853.58
+                  06/24/2024  KIMBERLY J OLSON                  05/16/2024  05/16/2024  STAFF TRANSPORTATION
+                  06/24/2024  KIMBERLY J OLSON                  06/10/2024  06/10/2024  WASHINGTON DC TO SIOUX FALLS, KENT OH AND RETURN                               $56.28
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RAPID CITY TO SCENIC AND RETURN                                                $64.32
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RAPID CITY TO SPEARFISH AND RETURN                                             $44.04
+                                                                                        STAFF PER DIEM                                                               $214.40
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PIERRE TO ABERDEEN AND RETURN                                                  $12.18
+                                                                                        STAFF INCIDENTALS                                                            $263.47
+                                                                                        STAFF PER DIEM                                                               $331.65
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PIERRE TO YANKTON AND RETURN                                                   $40.80
+                                                                                        STAFF PER DIEM                                                               $221.10
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PIERRE TO ABERDEEN AND RETURN                                                  $68.99
+                                                                                        STAFF PER DIEM                                                               $281.40
+                                                                                        STAFF TRANSPORTATION
+                                                                                        PIERRE TO RAPID CITY AND RETURN                                                $58.25
+                                                                                        STAFF PER DIEM                                                               $301.50
+                                                                                        STAFF TRANSPORTATION
+

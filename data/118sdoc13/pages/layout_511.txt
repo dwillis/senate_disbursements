@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE                  PAYEE NAME      OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                             DATES
+DBRS20240340                                                                      CHEYENNE TO GUERNSEY AND RETURN                                                   $117.25
+DBRS20240341                                              START       END         STAFF TRANSPORTATION                                                                $14.38
+DBRS20240342                                                                      CHEYENNE TO TORRINGTON AND RETURN
+DBRS20240343      04/24/2024  LAURA CURRAN                03/26/2024  03/26/2024  STAFF PER DIEM                                                                    $160.80
+DBRS20240344      04/24/2024  LAURA CURRAN                04/02/2024  04/02/2024  STAFF TRANSPORTATION                                                                 $6.00
+DBRS20240345                                                                      CHEYENNE TO WHEATLAND AND RETURN
+DBRS20240346      04/24/2024  LAURA CURRAN                04/04/2024  04/04/2024  STAFF PER DIEM                                                                    $190.95
+                                                                                  STAFF TRANSPORTATION                                                              $107.20
+                  04/24/2024  LAURA CURRAN                04/05/2024  04/05/2024  CHEYENNE TO TORRINGTON AND RETURN
+                  04/25/2024  KIEFER CODY MCLEMORE        04/01/2024  04/03/2024  STAFF TRANSPORTATION                                                                $56.43
+                                                                                  CHEYENNE TO WHEATLAND AND RETURN                                                  $195.04
+                  04/25/2024  KIEFER CODY MCLEMORE        04/03/2024  04/04/2024  STAFF PER DIEM                                                                    $165.51
+                  04/26/2024  MADDISON R DILLON           03/28/2024  04/08/2024  STAFF TRANSPORTATION
+                                                                                  CASPER TO RAWLINS, LUSK AND RETURN                                                  $90.51
+DBRS20240354      05/03/2024  JINX CLARK                  04/21/2024  04/21/2024  STAFF TRANSPORTATION                                                              $969.15   B-493
+DBRS20240355      05/01/2024  AMBER S BLAND               04/17/2024  04/17/2024  CASPER TO LUSK AND RETURN                                                      $1,097.36
+DBRS20240356      05/02/2024  AMBER S BLAND               03/05/2024  03/05/2024  STAFF INCIDENTALS
+DBRS20240357      05/07/2024  AMBER S BLAND               03/28/2024  04/05/2024  STAFF PER DIEM                                                                    $259.96
+                                                                                  STAFF TRANSPORTATION                                                                $25.82
+DBRS20240358      05/02/2024  BRIANNA N GOODELL           04/14/2024  04/16/2024  WASHINGTON DC TO CASPER, BUFFALO, GILLETTE, NEWCASTLE,                              $35.03
+                                                                                  TORRINGTON, LARAMIE AND RETURN                                                      $47.60
+DBRS20240359      05/10/2024  BARRASSO,JOHN               04/20/2024  04/22/2024  STAFF TRANSPORTATION
+DBRS20240361      05/06/2024  CITIBANK - TRAVEL CBA CARD  04/22/2024  04/25/2024  CASPER TO CHEYENNE AND RETURN                                                     $646.00
+DBRS20240362                                                                      STAFF TRANSPORTATION                                                           $1,719.47
+                  05/10/2024  RUTHANN LYNN HARDY          04/22/2024  04/25/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DBRS20240363                                                                      STAFF TRANSPORTATION                                                                $13.73
+                  05/03/2024  PAM BULINE                  01/26/2024  01/26/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $169.75
+                                                                                  STAFF INCIDENTALS                                                                 $253.64
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION                                                           $1,441.07
+                                                                                  WASHINGTON DC TO DENVER CO, LARAMIE, CHEYENNE, RAWLINS, ROCK                      $941.20
+                                                                                  SPRINGS, RELIANCE, KEMMERER, DIAMONDVILLE, EVANSTON, SALT LAKE                      $30.00
+                                                                                  CITY UT AND RETURN
+                                                                                  STAFF INCIDENTALS                                                                   $45.00
+                                                                                  STAFF PER DIEM                                                                    $533.99
+                                                                                  STAFF TRANSPORTATION                                                              $725.66
+                                                                                  CASPER TO BUFFALO, UPTON, NEWCASTLE, SUNDANCE, DEVILS TOWER,
+                                                                                  HULETT, MOORCROFT, GILLETTE, BUFFALO AND RETURN                                     $36.18
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  WASHINGTON DC TO CASPER, CHEYENNE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR R HARDY AS FOLLOWS: 4/22 WASHINGTON DC TO RAPID CITY
+                                                                                  SD; 4/25 BILLINGS MT TO WASHINGTON DC
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC TO RAPID CITY SD, GILLETTE, SHERIDAN, BILLINGS MT
+                                                                                  AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  RIVERTON TO LANDER AND RETURN
+

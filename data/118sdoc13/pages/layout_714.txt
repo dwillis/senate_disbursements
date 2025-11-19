@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                             DATES
+DBRN20240654                                                                      TOLEDO TO GIBSONBURG AND RETURN                                                $23.24
+DBRN20240655                                              START       END         STAFF TRANSPORTATION                                                            $1.80
+DBRN20240656                                                                      TOLEDO TO SYLVANIA AND RETURN                                                   $1.80
+DBRN20240657      05/09/2024  ERICA N KRAUSE              04/04/2024  04/04/2024  STAFF TRANSPORTATION                                                            $3.95  B-696
+DBRN20240658      05/08/2024  ERICA N KRAUSE              04/10/2024  04/10/2024  IN AND AROUND TOLEDO
+DBRN20240660      05/08/2024  ERICA N KRAUSE              04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                           $73.03
+DBRN20240661      05/08/2024  ERICA N KRAUSE              04/17/2024  04/17/2024  IN AND AROUND TOLEDO                                                            $6.70
+DBRN20240662      05/09/2024  JORDAN T PENNELL            05/01/2024  05/01/2024  STAFF TRANSPORTATION
+DBRN20240663      05/13/2024  JORDAN T PENNELL            05/03/2024  05/03/2024  IN AND AROUND TOLEDO                                                           $33.50
+DBRN20240668      05/14/2024  KAMERON W ANDERSON          04/29/2024  04/29/2024  STAFF TRANSPORTATION                                                           $38.86
+DBRN20240669      05/14/2024  KAMERON W ANDERSON          05/01/2024  05/01/2024  YOUNGSTOWN TO CANTON AND RETURN                                                $37.52
+DBRN20240670      05/14/2024  KAMERON W ANDERSON          05/03/2024  05/03/2024  STAFF TRANSPORTATION                                                           $82.41
+DBRN20240671      05/14/2024  KALEB KNOWLTON              04/25/2024  04/25/2024  IN AND AROUND YOUNGSTOWN                                                     $104.52
+DBRN20240672      05/16/2024  KALEB KNOWLTON              04/26/2024  04/26/2024  STAFF TRANSPORTATION                                                         $248.16
+                  05/17/2024  KALEB KNOWLTON              05/01/2024  05/01/2024  DAYTON TO WAPAKONETA AND RETURN                                              $150.08
+DBRN20240673      05/17/2024  KALEB KNOWLTON              05/03/2024  05/03/2024  STAFF TRANSPORTATION                                                      $1,154.28
+DBRN20240675      05/16/2024  KAMERON W ANDERSON          03/08/2024  03/15/2024  DAYTON TO SIDNEY, TROY AND RETURN                                              $93.46
+                                                                                  STAFF TRANSPORTATION                                                           $44.08
+DBRN20240676      05/14/2024  JOHN A PATTERSON            05/03/2024  05/03/2024  DAYTON TO CINCINNATI AND RETURN                                                $19.64
+DBRN20240680      05/14/2024  JORDAN T PENNELL            05/06/2024  05/06/2024  STAFF TRANSPORTATION                                                           $72.36
+DBRN20240681                                                                      MINGO JUNCTION TO SAINT CLAIRSVILLE, SALINEVILLE AND RETURN                  $185.72
+                  05/16/2024  ANTHONY L ELIOPOULOS        05/06/2024  05/06/2024  STAFF TRANSPORTATION                                                         $279.10
+DBRN20240682      05/20/2024  CITIBANK - TRAVEL CBA CARD  04/23/2024  04/23/2024  MINGO JUNCTION TO WALNUT CREEK AND RETURN                                      $10.67
+DBRN20240683      05/16/2024  EMMA MARIE SPEYER           05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                           $83.08
+DBRN20240684                                                                      MINGO JUNCTION TO GALLIPOLIS AND RETURN                                      $106.53
+DBRN20240685      05/21/2024  JORDAN T PENNELL            05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                         $257.28
+                  05/21/2024  JOHN W RYAN                 04/29/2024  04/29/2024  MINGO JUNCTION TO MARIETTA AND RETURN                                        $106.53
+                  05/21/2024  JOHN W RYAN                 05/03/2024  05/03/2024  STAFF PER DIEM                                                                 $25.99
+                  05/21/2024  JOHN W RYAN                 05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                         $191.62
+                                                                                  DAYTON TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CLEVELAND TO LORAIN AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  YOUNGSTOWN TO CANTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  COLUMBUS TO CLEVELAND AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN BROWN CLEVELAND TO WASHINGTON DC
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  COLUMBUS TO RUSSELLS POINT AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  YOUNGSTOWN TO PAINESVILLE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CLEVELAND TO WAPAKONETA AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CLEVELAND TO YOUNGSTOWN AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+

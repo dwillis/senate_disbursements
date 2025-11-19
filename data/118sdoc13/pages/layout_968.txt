@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+              POSTED                                      DATES
+                                                                       STAFF TRANSPORTATION                                                    $1,572.42
+                                               START       END         WASHINGTON DC TO SAN ANTONIO, EL PASO AND RETURN
+                                                                       STAFF TRANSPORTATION                                                       $178.62
+DCRN20240347  05/03/2024  BRIAN J FLORES       01/01/2024  01/31/2024  DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                      B-950
+DCRN20240348  05/03/2024  BRIAN J FLORES       02/01/2024  02/29/2024  STAFF TRANSPORTATION                                                       $162.03
+DCRN20240349  05/03/2024  CLARISSA CASTRO      03/01/2024  03/31/2024  DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCRN20240350  05/03/2024  JILL E WYMAN         03/15/2024  04/15/2024  STAFF TRANSPORTATION                                                       $286.29
+DCRN20240351  05/03/2024  CARLOS JAY GUERRERO  01/18/2024  01/18/2024  HARLINGEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCRN20240352                                                           STAFF TRANSPORTATION                                                       $186.60
+DCRN20240353  05/07/2024  CARLOS JAY GUERRERO  02/21/2024  02/21/2024  AUSTIN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCRN20240354                                                           STAFF PER DIEM                                                               $20.20
+DCRN20240355  05/06/2024  ANA MARIA GARCIA     03/01/2024  03/31/2024  STAFF TRANSPORTATION                                                       $122.61
+DCRN20240356  05/01/2024  JOSHUA A EARL        03/28/2024  03/28/2024  HOUSTON TO BEAUMONT AND RETURN
+              05/01/2024  TOMI KAY ROOT        03/28/2024  03/28/2024  STAFF PER DIEM                                                               $10.03
+DCRN20240357  05/22/2024  RYAN R RAYBOULD      04/14/2024  04/15/2024  STAFF TRANSPORTATION                                                       $126.63
+                                                                       HOUSTON TO PORT ARTHUR AND RETURN
+DCRN20240358  05/13/2024  JACOB N SMITH        04/14/2024  04/16/2024  STAFF TRANSPORTATION                                                       $696.80
+                                                                       HARLINGEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCRN20240359  05/15/2024  NATALIE A YEZBICK    04/03/2024  04/06/2024  STAFF TRANSPORTATION                                                         $49.76
+                                                                       DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCRN20240365  05/09/2024  STEPHEN A TAUSEND    03/31/2024  04/02/2024  STAFF TRANSPORTATION                                                         $50.98
+                                                                       DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+              05/14/2024  JACOB N SMITH        04/23/2024  04/24/2024  STAFF INCIDENTALS                                                            $27.75
+                                                                       STAFF PER DIEM                                                             $185.05
+DCRN20240367  05/07/2024  BRIAN J FLORES       03/01/2024  03/31/2024  STAFF TRANSPORTATION                                                       $680.96
+DCRN20240383  05/14/2024  DAVID D JAMES        04/25/2024  04/25/2024  WASHINGTON DC TO HOUSTON AND RETURN
+                                                                       STAFF INCIDENTALS                                                            $64.55
+DCRN20240384  05/14/2024  TAYLOR D. PUENTE     04/01/2024  04/30/2024  STAFF PER DIEM                                                             $422.77
+                                                                       STAFF TRANSPORTATION                                                    $1,366.82
+                                                                       WASHINGTON DC TO AUSTIN AND RETURN
+                                                                       STAFF INCIDENTALS                                                          $124.68
+                                                                       STAFF PER DIEM                                                             $999.82
+                                                                       STAFF TRANSPORTATION                                                       $409.72
+                                                                       WASHINGTON DC TO NEW YORK NY AND RETURN
+                                                                       STAFF INCIDENTALS                                                            $59.45
+                                                                       STAFF PER DIEM                                                             $346.00
+                                                                       STAFF TRANSPORTATION                                                       $923.96
+                                                                       WASHINGTON DC TO DALLAS AND RETURN
+                                                                       STAFF INCIDENTALS                                                            $51.19
+                                                                       STAFF PER DIEM                                                             $307.40
+                                                                       STAFF TRANSPORTATION                                                       $542.90
+                                                                       WASHINGTON DC TO BOSTON MA, CAMBRIDGE MA, BOSTON MA AND
+                                                                       RETURN                                                                     $167.76
+                                                                       STAFF TRANSPORTATION
+                                                                       DALLAS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $47.93
+                                                                       STAFF PER DIEM                                                             $619.52
+                                                                       STAFF TRANSPORTATION
+                                                                       AUSTIN TO DALLAS AND RETURN                                                $117.65
+                                                                       STAFF TRANSPORTATION
+                                                                       SAN ANTONIO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

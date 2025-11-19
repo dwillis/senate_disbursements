@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                      DATES
+DMCN20241124                                                               LOUISVILLE TO SHEPHERDSVILLE AND RETURN                                      $57.64
+DMCN20241125                                       START       END         STAFF TRANSPORTATION                                                         $52.40
+DMCN20241126                                                               LOUISVILLE TO ELIZABETHTOWN AND RETURN                                       $51.09
+DMCN20241127      09/12/2024  JOSIE A HAMMON       08/14/2024  08/14/2024  STAFF TRANSPORTATION                                                         $56.33  B-1772
+DMCN20241128      09/12/2024  JOSIE A HAMMON       08/20/2024  08/20/2024  LOUISVILLE TO FORT KNOX AND RETURN                                           $72.05
+DMCN20241129      09/12/2024  JOSIE A HAMMON       08/23/2024  08/23/2024  STAFF TRANSPORTATION                                                       $112.66
+DMCN20241130      09/12/2024  JOSIE A HAMMON       08/28/2024  08/28/2024  LOUISVILLE TO NEW CASTLE AND RETURN                                          $43.23
+DMCN20241131      09/12/2024  JOSIE A HAMMON       05/07/2024  05/07/2024  STAFF TRANSPORTATION                                                         $68.77
+DMCN20241132      09/18/2024  MORGAN ALVEY         08/12/2024  08/12/2024  LOUISVILLE TO BRANDENBURG AND RETURN                                         $39.30
+DMCN20241133      09/14/2024  MORGAN ALVEY         08/06/2024  08/06/2024  STAFF TRANSPORTATION
+DMCN20241134      09/14/2024  MORGAN ALVEY         08/08/2024  08/08/2024  LOUISVILLE TO HODGENVILLE AND RETURN                                          $9.17
+DMCN20241135      09/14/2024  MORGAN ALVEY         08/09/2024  08/09/2024  STAFF TRANSPORTATION                                                         $93.01
+DMCN20241136      09/14/2024  MORGAN ALVEY         08/14/2024  08/14/2024  PADUCAH TO HOPKINSVILLE AND RETURN                                           $21.61
+DMCN20241137      09/14/2024  MORGAN ALVEY         08/15/2024  08/15/2024  STAFF TRANSPORTATION                                                         $37.99
+DMCN20241138      09/14/2024  MORGAN ALVEY         08/16/2024  08/16/2024  PADUCAH TO BENTON AND RETURN                                                 $55.02
+DMCN20241139      09/14/2024  MORGAN ALVEY         08/20/2024  08/20/2024  STAFF TRANSPORTATION                                                         $68.77
+DMCN20241140      09/14/2024  MORGAN ALVEY         08/21/2024  08/21/2024  PADUCAH TO MURRAY AND RETURN                                                 $85.80
+DMCN20241141      09/14/2024  MORGAN ALVEY         08/22/2024  08/22/2024  STAFF TRANSPORTATION                                                       $118.55
+DMCN20241142      09/14/2024  MORGAN ALVEY         08/28/2024  08/28/2024  PADUCAH TO MAYFIELD AND RETURN                                               $18.34
+DMCN20241143      09/18/2024  MORGAN ALVEY         08/29/2024  08/29/2024  STAFF TRANSPORTATION                                                       $134.27
+DMCN20241144      09/14/2024  STEPHANIE H NELSON   09/04/2024  09/04/2024  PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $134.27
+DMCN20241145      09/18/2024  MORGAN ALVEY         08/26/2024  08/26/2024  STAFF TRANSPORTATION                                                       $155.23
+DMCN20241146      09/18/2024  MORGAN ALVEY         08/27/2024  08/27/2024  PADUCAH TO GRAND RIVERS, CADIZ AND RETURN                                    $80.56
+DMCN20241147      09/20/2024  DONNA BAKER MCCLURE  07/29/2024  08/26/2024  STAFF TRANSPORTATION                                                         $99.56
+DMCN20241148      09/15/2024  DONNA BAKER MCCLURE  09/03/2024  09/03/2024  PADUCAH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $86.46
+                  09/15/2024  DONNA BAKER MCCLURE  08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                       $112.66
+                  09/15/2024  DONNA BAKER MCCLURE  08/02/2024  08/02/2024  PADUCAH TO MAYFIELD AND RETURN
+                  09/20/2024  DONNA BAKER MCCLURE  08/05/2024  08/05/2024  STAFF TRANSPORTATION
+                                                                           PADUCAH TO COLUMBUS AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           PADUCAH TO MURRAY AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           PADUCAH TO CADIZ AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           PADUCAH TO BENTON, CADIZ, HOPKINSVILLE AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           IN AND AROUND RICHMOND
+                                                                           STAFF TRANSPORTATION
+                                                                           PADUCAH TO FORT CAMPBELL, HOPKINSVILLE AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           PADUCAH TO FORT CAMPBELL, HOPKINSVILLE AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           LONDON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                           STAFF TRANSPORTATION
+                                                                           LONDON TO SOMERSET AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           LONDON TO STEARNS AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           LONDON TO STEARNS AND RETURN
+                                                                           STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME            OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                       DATES
+DPET20240540                                                                LANSING TO BLOOMFIELD HILLS AND RETURN                                       $50.25
+DPET20240541                                        START       END         STAFF TRANSPORTATION                                                         $93.80
+DPET20240542                                                                LANSING TO MAPLE RAPIDS AND RETURN                                           $52.59
+DPET20240543      06/25/2024  MITCHELL C. NELSON    02/02/2024  02/02/2024  STAFF TRANSPORTATION                                                         $85.76
+DPET20240544      06/25/2024  MITCHELL C. NELSON    03/21/2024  03/21/2024  LANSING TO HILLSDALE AND RETURN                                              $69.01
+DPET20240545      06/25/2024  MITCHELL C. NELSON    03/25/2024  03/25/2024  STAFF TRANSPORTATION                                                         $64.32
+DPET20240546      06/27/2024  MITCHELL C. NELSON    04/13/2024  04/13/2024  LANSING TO HOWELL AND RETURN                                                 $69.68
+DPET20240547      06/27/2024  MITCHELL C. NELSON    05/18/2024  05/18/2024  STAFF TRANSPORTATION                                                         $13.18
+                  06/27/2024  MITCHELL C. NELSON    05/25/2024  05/25/2024  LANSING TO NOVI AND RETURN                                                   $87.77
+DPET20240548      06/25/2024  QUENTIN DANIEL GROCE  02/02/2024  02/02/2024  STAFF TRANSPORTATION                                                         $70.35
+DPET20240549      06/25/2024  QUENTIN DANIEL GROCE  02/06/2024  02/06/2024  LANSING TO HAMBURG AND RETURN
+                                                                            STAFF TRANSPORTATION                                                          $7.09
+DPET20240550      06/25/2024  QUENTIN DANIEL GROCE  02/07/2024  02/07/2024  LANSING TO PINCKNEY AND RETURN                                               $89.11  B-2035
+DPET20240551      06/25/2024  QUENTIN DANIEL GROCE  02/15/2024  02/15/2024  STAFF TRANSPORTATION                                                         $85.76
+DPET20240552                                                                FLINT TO BAY CITY AND RETURN                                               $101.84
+DPET20240553      06/25/2024  QUENTIN DANIEL GROCE  02/20/2024  02/20/2024  STAFF PER DIEM                                                             $131.32
+DPET20240554      06/25/2024  QUENTIN DANIEL GROCE  02/22/2024  02/22/2024  STAFF TRANSPORTATION                                                         $56.95
+DPET20240555      06/27/2024  QUENTIN DANIEL GROCE  02/26/2024  02/26/2024  FLINT TO MIDLAND AND RETURN                                                $129.31
+DPET20240556      06/25/2024  QUENTIN DANIEL GROCE  02/01/2024  02/23/2024  STAFF TRANSPORTATION                                                         $64.99
+DPET20240557      06/27/2024  QUENTIN DANIEL GROCE  03/01/2024  03/01/2024  FLINT TO BAY CITY AND RETURN                                                 $80.40
+DPET20240558      06/25/2024  QUENTIN DANIEL GROCE  03/02/2024  03/07/2024  STAFF PER DIEM                                                               $72.36
+DPET20240559      06/25/2024  QUENTIN DANIEL GROCE  03/19/2024  03/19/2024  STAFF TRANSPORTATION                                                         $28.14
+                  06/25/2024  QUENTIN DANIEL GROCE  03/20/2024  03/20/2024  FLINT TO MIDLAND, SAGINAW AND RETURN
+DPET20240560      06/25/2024  AUBREY ANNE MOORE     05/01/2024  05/17/2024  STAFF TRANSPORTATION                                                          $9.73
+DPET20240561      06/25/2024  KELLY HURLIN LIVELY   05/01/2024  05/01/2024  FLINT TO MIDLAND AND RETURN                                                $128.64
+                                                                            STAFF TRANSPORTATION                                                       $213.06
+DPET20240562      06/27/2024  KELLY HURLIN LIVELY   05/02/2024  05/02/2024  FLINT TO ROSEVILLE AND RETURN
+                  06/25/2024  KELLY HURLIN LIVELY   05/03/2024  05/03/2024  STAFF TRANSPORTATION                                                         $15.00
+                                                                            FLINT TO GREENVILLE AND RETURN                                             $192.29
+                  06/25/2024  KELLY HURLIN LIVELY   05/08/2024  05/08/2024  STAFF TRANSPORTATION
+                                                                            FLINT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $49.58
+                                                                            STAFF TRANSPORTATION
+                                                                            FLINT TO SAGINAW, BAY CITY AND RETURN
+                                                                            STAFF TRANSPORTATION
+                                                                            FLINT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                            STAFF TRANSPORTATION
+                                                                            FLINT TO MIDLAND AND RETURN
+                                                                            STAFF TRANSPORTATION
+                                                                            FLINT TO KAWKAWLIN, SAGINAW AND RETURN
+                                                                            STAFF TRANSPORTATION
+                                                                            MARQUETTE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                            STAFF PER DIEM
+                                                                            STAFF TRANSPORTATION
+                                                                            MAPLE CITY TO PENTWATER AND RETURN
+                                                                            STAFF TRANSPORTATION
+                                                                            MAPLE CITY TO EAST TAWAS AND RETURN
+                                                                            STAFF PER DIEM
+                                                                            STAFF TRANSPORTATION
+                                                                            MAPLE CITY TO GRAND RAPIDS TO TRAVERSE CITY
+                                                                            STAFF TRANSPORTATION
+

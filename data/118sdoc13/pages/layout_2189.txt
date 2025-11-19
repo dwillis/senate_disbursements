@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                               DATES
+DROU20240847                                                                        RAPID CITY TO MITCHELL AND RETURN                                                 $63.76
+                                                            START       END         STAFF INCIDENTALS                                                               $214.00
+DROU20240851                                                                        STAFF PER DIEM                                                                  $296.14
+DROU20240852      07/29/2024  WILLIAM A VAN CAMP            07/01/2024  07/03/2024  STAFF TRANSPORTATION
+DROU20240853                                                                        FORT PIERRE TO SIOUX FALLS AND RETURN                                             $14.67
+DROU20240855      07/29/2024  SHELBY R LINKE                07/17/2024  07/17/2024  STAFF PER DIEM                                                                  $145.39
+DROU20240857      07/24/2024  NELSON, MARY L                07/18/2024  07/18/2024  STAFF TRANSPORTATION
+DROU20240860      07/29/2024  SARA J MAYER                  07/18/2024  07/18/2024  SIOUX FALLS TO YANKTON, SPRINGFIELD AND RETURN                                    $25.89
+                  07/29/2024  JAMES STEVEN SELCHERT         07/23/2024  07/23/2024  STAFF PER DIEM                                                                    $54.83
+                  07/31/2024  NELSON, MARY L                07/24/2024  07/24/2024  PIERRE TO SIOUX FALLS AND RETURN                                                  $98.89
+                  08/01/2024  ANDREW S JENSEN               06/22/2024  07/06/2024  STAFF PER DIEM                                                                    $56.95
+                                                                                    STAFF TRANSPORTATION                                                              $29.86
+DROU20240861      08/02/2024  CAPITAL CITY AIR CARRIER INC  07/18/2024  07/18/2024  SIOUX FALLS TO MITCHELL AND RETURN                                                $80.40  B-2152
+DROU20240862      08/02/2024  CAPITAL CITY AIR CARRIER INC  07/21/2024  07/21/2024  STAFF TRANSPORTATION                                                              $12.84
+DROU20240864      08/02/2024  LUCAS W HEITKAMP              06/21/2024  07/07/2024  RAPID CITY TO DEADWOOD AND RETURN                                               $107.00
+                                                                                    STAFF PER DIEM                                                               $1,748.53
+DROU20240866      08/02/2024  GRALING PETE CARMICHAEL       07/03/2024  07/03/2024  STAFF TRANSPORTATION
+DROU20240867      08/06/2024  GRALING PETE CARMICHAEL       07/25/2024  07/25/2024  PIERRE TO MURDO AND RETURN                                                   $4,908.34
+DROU20240868      08/06/2024  M MICHAEL ROUNDS              07/25/2024  07/29/2024  STAFF INCIDENTALS
+DROU20240870                                                                        STAFF PER DIEM                                                               $5,865.70
+                  08/06/2024  KEITH OWEN MOORE              07/14/2024  07/16/2024  STAFF TRANSPORTATION                                                              $15.00
+DROU20240873                                                                        WASHINGTON DC TO BETTENDORF IA, NORTH SIOUX CITY, SIOUX FALLS,
+DROU20240874      08/06/2024  GRALING PETE CARMICHAEL       07/29/2024  07/29/2024  NORTH SIOUX CITY, PIERRE, SIOUX FALLS AND RETURN                                $149.49
+DROU20240879      08/08/2024  DREW L KAITFORS               06/21/2024  07/08/2024  SENATOR TRANSPORTATION
+                  08/08/2024  ROBERT DEAN DEJONG            07/31/2024  07/31/2024  AIRFARE FOR SEN ROUNDS PIERRE TO MITCHELL, SIOUX FALLS AND                        $73.70
+                                                                                    RETURN                                                                          $460.29
+                                                                                    SENATOR TRANSPORTATION                                                       $1,316.20
+                                                                                    AIRFARE FOR SEN ROUNDS PIERRE TO EDEN PRAIRIE MN AND RETURN
+                                                                                    STAFF INCIDENTALS                                                                 $62.57
+                                                                                    STAFF PER DIEM                                                                  $382.01
+                                                                                    WASHINGTON DC TO SIOUX FALLS, FORT PIERRE, SIOUX FALLS AND                      $491.78
+                                                                                    RETURN
+                                                                                    STAFF TRANSPORTATION                                                              $70.35
+                                                                                    RAPID CITY TO BELLE FOURCHE AND RETURN                                          $514.00
+                                                                                    STAFF TRANSPORTATION
+                                                                                    RAPID CITY TO ROSEBUD, TIMBER LAKE AND RETURN                                     $34.76
+                                                                                    SENATOR TRANSPORTATION                                                            $93.80
+                                                                                    WASHINGTON DC TO MINNEAPOLIS MN, EDEN PRAIRIE MN, PIERRE, EDEN
+                                                                                    PRAIRIE MN, MINNEAPOLIS MN AND RETURN
+                                                                                    STAFF INCIDENTALS
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    SIOUX FALLS TO RAPID CITY, BOX ELDER AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    RAPID CITY TO WALL AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    WASHINGTON DC TO SIOUX FALLS AND RETURN
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    SIOUX FALLS TO OLIVET AND RETURN
+

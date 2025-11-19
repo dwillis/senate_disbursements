@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                             DATES
+DHAW20240789                                                                      REPUBLIC TO WARSAW, BUFFALO TO SPRINGFIELD                                       $20.61
+                                                          START       END         STAFF PER DIEM                                                                 $155.17
+DHAW20240790                                                                      STAFF TRANSPORTATION                                                           $168.10
+DHAW20240791      07/08/2024  TAYLOR ELIZABETH BLACKWELL  06/03/2024  06/03/2024  COLUMBIA TO LEES SUMMIT AND RETURN
+DHAW20240792                                                                      STAFF TRANSPORTATION                                                             $60.30
+                  07/08/2024  TAYLOR ELIZABETH BLACKWELL  06/07/2024  06/07/2024  COLUMBIA TO ROLLA, VERSAILLES AND RETURN                                          $2.69
+DHAW20240793      07/08/2024  TAYLOR ELIZABETH BLACKWELL  06/08/2024  06/08/2024  STAFF TRANSPORTATION
+DHAW20240794      07/08/2024  TAYLOR ELIZABETH BLACKWELL  06/10/2024  06/10/2024  COLUMBIA TO MOBERLY AND RETURN                                                   $95.54
+DHAW20240795                                                                      STAFF PER DIEM                                                                 $144.25
+DHAW20240796      07/08/2024  TAYLOR ELIZABETH BLACKWELL  06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                                     B-1334
+DHAW20240797      07/08/2024  TAYLOR ELIZABETH BLACKWELL  05/29/2024  05/29/2024  COLUMBIA TO KEYTESVILLE, SALISBURY AND RETURN                                    $47.03
+DHAW20240798      07/08/2024  TANNER L WALLACE            06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                             $36.85
+                  07/08/2024  TANNER L WALLACE            06/20/2024  06/20/2024  COLUMBIA TO JEFFERSON CITY, BOWLING GREEN AND RETURN                             $55.61
+                  07/08/2024  TANNER L WALLACE            06/18/2024  06/18/2024  STAFF TRANSPORTATION                                                             $16.08
+                  08/07/2024  J MATTHEW BAIN              06/24/2024  06/26/2024  COLUMBIA TO MOBERLY AND RETURN                                                   $16.93
+                                                                                  STAFF TRANSPORTATION                                                           $177.29
+DHAW20240799      07/15/2024  CITIBANK - TRAVEL CBA CARD  06/21/2024  07/07/2024  SPRINGFIELD TO STRAFFORD, MARSHFIELD AND RETURN                                $171.58
+DHAW20240801                                                                      STAFF TRANSPORTATION
+DHAW20240804      07/17/2024  LAYNE T NICHOLS             06/21/2024  07/07/2024  REPUBLIC TO MARIONVILLE, AURORA, ROGERSVILLE TO SPRINGFIELD                    $340.21
+DHAW20240805                                                                      STAFF TRANSPORTATION                                                             $40.00
+DHAW20240806      07/19/2024  CHRISTOPHER G WEIHS         07/08/2024  07/08/2024  SPRINGFIELD TO WILLARD AND RETURN                                                $19.11
+DHAW20240807      07/29/2024  TANNER L WALLACE            07/15/2024  07/15/2024  STAFF INCIDENTALS
+DHAW20240808                                                                      STAFF PER DIEM                                                                 $154.19
+DHAW20240809      07/24/2024  ALEXANDER LAWRENCE          06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                              $7.05
+                  07/24/2024  ALEXANDER LAWRENCE          06/24/2024  06/24/2024  SIKESTON TO HANNIBAL, LOUISIANA, ELSBERRY, WASHINGTON AND
+DHAW20240810      07/24/2024  ALEXANDER LAWRENCE          06/25/2024  06/25/2024  RETURN                                                                           $13.13
+                  07/29/2024  ALEXANDER LAWRENCE          06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                             $98.49
+                                                                                  TICKET FEES                                                                      $30.15
+                  07/29/2024  ERIN M ENGELMEYER           06/20/2024  06/20/2024  AIRFARE FOR L NICHOLS WASHINGTON DC TO KANSAS CITY AND RETURN                    $56.28
+                                                                                  STAFF PER DIEM                                                                   $26.13
+                                                                                  STAFF TRANSPORTATION                                                             $26.64
+                                                                                  WASHINGTON DC TO KANSAS CITY AND RETURN                                        $107.87
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                            $8.22
+                                                                                  STAFF PER DIEM                                                                 $136.01
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SPRINGFIELD TO CAMDENTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHESTERFIELD TO WARRENTON TO ST LOUIS
+                                                                                  STAFF TRANSPORTATION
+                                                                                  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  CHESTERFIELD TO UNION, WASHINGTON, HERMANN, MONTGOMERY CITY,
+                                                                                  TRUESDALE, WENTZVILLE AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SPRINGFIELD TO WEST PLAINS TO ROGERSVILLE
+

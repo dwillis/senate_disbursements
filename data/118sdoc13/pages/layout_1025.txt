@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DCRM20240594                  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                          $631.60
+DCRM20240596      07/01/2024  CITIBANK - TRAVEL CBA CARD        START       END         AIRFARE FOR SEN CRAMER WASHINGTON DC TO BISMARCK                                $631.60
+DCRM20240597      06/28/2024  CITIBANK - TRAVEL CBA CARD                                SENATOR TRANSPORTATION                                                          $866.60
+DCRM20240598      07/01/2024  CITIBANK - TRAVEL CBA CARD        06/13/2024  06/14/2024  AIRFARE FOR SEN CRAMER BISMARCK TO WASHINGTON DC                                $797.60
+DCRM20240599      06/28/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                            $866.60
+DCRM20240601      06/28/2024  CITIBANK - TRAVEL CBA CARD        06/11/2024  06/11/2024  AIRFARE FOR M KELSCH WASHINGTON DC TO FARGO                                     $129.60
+DCRM20240602      06/28/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION
+DCRM20240603                  MICHAEL J KELSCH                  06/15/2024  06/15/2024  AIRFARE FOR R BUENING GRAND FORKS TO WASHINGTON DC                              $194.40
+                  06/28/2024                                                            STAFF TRANSPORTATION
+DCRM20240604                                                    06/02/2024  06/02/2024  AIRFARE FOR M KELSCH FARGO TO WASHINGTON DC                                     $164.60
+DCRM20240605      07/03/2024                                                            STAFF TRANSPORTATION                                                         $1,121.01
+DCRM20240606                                                    06/11/2024  06/11/2024  RENTAL AUTO FOR M KELSCH FARGO TO BISMARCK, NEW TOWN AND
+DCRM20240607                                                                            RETURN                                                                          $143.89
+DCRM20240610                                                    06/05/2024  06/06/2024  STAFF TRANSPORTATION                                                              $80.40
+                                                                                        RENTAL AUTO FOR M BELZER BISMARCK TO JAMESTOWN, MINOT AND
+DCRM20240611                                                    06/11/2024  06/12/2024  RETURN                                                                          $100.50
+DCRM20240612                                                                            STAFF INCIDENTALS                                                                 $38.10
+DCRM20240613                                                    06/11/2024  06/15/2024  STAFF PER DIEM                                                                    $33.93
+                                                                                        STAFF TRANSPORTATION                                                              $10.62
+DCRM20240622      07/03/2024  SONJA G MURRAY                    06/11/2024  06/11/2024  FARGO TO WASHINGTON DC AND RETURN                                                 $37.83  B-1007
+                  07/03/2024  SONJA G MURRAY                    06/18/2024  06/18/2024  STAFF TRANSPORTATION                                                              $18.76
+                  07/03/2024  SONJA G MURRAY                    06/06/2024  06/06/2024  BISMARCK TO LINTON AND RETURN                                                     $18.69
+                  07/08/2024  SONJA G MURRAY                    06/07/2024  06/07/2024  STAFF TRANSPORTATION                                                              $44.97
+                  07/05/2024  BROOKE A DOSS                     06/17/2024  06/17/2024  BISMARCK TO GARRISON AND RETURN                                                   $47.14
+                                                                                        STAFF TRANSPORTATION                                                              $21.94
+                  07/05/2024  KAITLYN MARIE WEIDERT             06/18/2024  06/18/2024  BISMARCK TO JAMESTOWN AND RETURN
+                  07/05/2024  RANDY J RICHARDS                  06/20/2024  06/20/2024  STAFF TRANSPORTATION                                                            $285.99
+                  07/05/2024  MICHAEL J KELSCH                  06/20/2024  06/20/2024  BISMARCK TO HAZEN AND RETURN                                                    $269.99
+                                                                                        STAFF PER DIEM
+                  07/03/2024  COLBY JESS KUHNS                  06/16/2024  06/19/2024  STAFF TRANSPORTATION                                                              $11.83
+                                                                                        GRAND FORKS TO DEVILS LAKE, RUGBY AND RETURN                                    $101.43
+DCRM20240623      07/03/2024  RANDY J RICHARDS                  06/24/2024  06/24/2024  STAFF TRANSPORTATION
+                                                                                        MINOT TO MINOT AFB AND RETURN                                                     $46.90
+DCRM20240624      07/05/2024  SANDRA R FEARING                  06/18/2024  06/18/2024  STAFF PER DIEM                                                                    $10.17
+DCRM20240625      07/05/2024  SANDRA R FEARING                  06/19/2024  06/20/2024  GRAND FORKS TO FORT TOTTEN, DEVILS LAKE AND RETURN                              $128.00
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FARGO TO FORT TOTTEN AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SPRINGFIELD VA TO WASHINGTON DC, BISMARCK, GRAND FORKS, FARGO,
+                                                                                        WASHINGTON DC AND RETURN
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        GRAND FORKS TO FARGO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        WILLISTON TO RAY AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+

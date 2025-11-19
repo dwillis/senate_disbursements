@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION             AMOUNT ($)
+                  POSTED                                              DATES
+DSDR20240381                                                                       AIRFARE FOR SEN SANDERS BURLINGTON TO WASHINGTON DC                                   $432.10
+DSDR20240382                                               START       END         SENATOR TRANSPORTATION                                                                $293.10
+DSDR20240394                                                                       AIRFARE FOR SEN SANDERS BURLINGTON TO WASHINGTON DC                                   $203.01
+                  07/17/2024  CITIBANK - SENATOR IBA CARD  06/17/2024  06/17/2024  SENATOR TRANSPORTATION
+DSDR20240395      07/17/2024  CITIBANK - SENATOR IBA CARD  01/08/2024  01/08/2024  AIRFARE FOR SEN SANDERS BURLINGTON TO WASHINGTON DC                                   $134.00
+DSDR20240398      07/29/2024  ELIZABETH ALMA STERN         07/02/2024  07/18/2024  STAFF TRANSPORTATION                                                                    $77.72
+                                                                                   PLAINFIELD TO THE FOLLOWING AND RETURN: 7/2 CALAIS; 7/10 BARRE; 7/17
+DSDR20240399      07/25/2024  RYAN M JOSEPH                07/16/2024  07/16/2024  EAST MONTPELIER, HARDWICK; 7/18 STOCKBRIDGE, PLYMOUTH, LUDLOW,                          $65.66  B-2195
+DSDR20240400      07/24/2024  ETHAN A LAWRENCE             07/18/2024  07/18/2024  CHESTER                                                                                 $65.66
+DSDR20240401                                                                       STAFF TRANSPORTATION                                                                    $67.00
+                  07/24/2024  ETHAN A LAWRENCE             07/17/2024  07/17/2024  HINESBURG TO SPRINGFIELD, ORWELL AND RETURN
+DSDR20240402      07/24/2024  ETHAN A LAWRENCE             07/16/2024  07/16/2024  STAFF TRANSPORTATION                                                                    $52.26
+DSDR20240403      07/24/2024  ETHAN A LAWRENCE             06/25/2024  06/25/2024  WINDSOR TO WESTON, LUDLOW, CHESTER, WHITE RIVER JUNCTION AND                            $36.18
+DSDR20240404                                                                       RETURN                                                                                  $48.24
+DSDR20240405      07/24/2024  ETHAN A LAWRENCE             06/19/2024  06/19/2024  STAFF TRANSPORTATION                                                                    $38.19
+DSDR20240406      07/24/2024  ETHAN A LAWRENCE             06/18/2024  06/18/2024  BURLINGTON TO BARRE AND RETURN                                                        $127.30
+                  07/24/2024  ETHAN A LAWRENCE             06/14/2024  06/14/2024  STAFF TRANSPORTATION
+DSDR20240407      07/24/2024  ETHAN A LAWRENCE             06/13/2024  06/13/2024  BURLINGTON TO BARRE AND RETURN                                                          $25.46
+DSDR20240408      07/29/2024  ETHAN A LAWRENCE             05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                                  $125.96
+DSDR20240409                                                                       BURLINGTON TO HIGHGATE CENTER, ENOSBURG FALLS, SAINT ALBANS
+DSDR20240411      07/24/2024  ETHAN A LAWRENCE             05/28/2024  05/28/2024  AND RETURN                                                                              $74.37
+DSDR20240412      07/29/2024  ETHAN A LAWRENCE             05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                                  $653.10
+DSDR20240414      07/25/2024  RYAN M JOSEPH                07/17/2024  07/17/2024  WINDSOR TO BETHEL AND RETURN                                                          $293.10
+DSDR20240418      07/29/2024  CITIBANK - SENATOR IBA CARD  07/08/2024  07/08/2024  STAFF TRANSPORTATION                                                                  $292.90
+DSDR20240419      07/29/2024  CITIBANK - SENATOR IBA CARD  07/11/2024  07/11/2024  WINDSOR TO LUDLOW AND RETURN
+DSDR20240425      07/29/2024  CITIBANK - SENATOR IBA CARD  10/24/2023  10/24/2023  STAFF TRANSPORTATION                                                                    $72.36
+DSDR20240426      07/25/2024  HALEY E PERO                 07/12/2024  07/12/2024  WINDSOR TO FAIRLEE AND RETURN                                                           $93.13
+                  07/25/2024  HALEY E PERO                 07/14/2024  07/14/2024  STAFF TRANSPORTATION                                                                  $164.82
+                  08/05/2024  NATHANIEL J BISCOTTI         07/18/2024  07/18/2024  WINDSOR TO SHARON AND RETURN                                                            $74.37
+                  07/30/2024  RYAN M JOSEPH                07/25/2024  07/25/2024  STAFF TRANSPORTATION
+                                                                                   WINDSOR TO WHITE RIVER JUNCTION, RANDOLPH CENTER, WILLISTON TO
+                                                                                   BURLINGTON
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WINDSOR TO NORWICH AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BURLINGTON TO MONTPELIER, FERRISBURGH AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   HINESBURG TO BARRE, RICHMOND AND RETURN
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN SANDERS BURLINGTON TO WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN SANDERS WASHINGTON DC TO BURLINGTON
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN SANDERS BURLINGTON TO WASHINGTON DC
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BURLINGTON TO PLAINFIELD, BARRE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BARRE TO PITTSFORD AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BURLINGTON TO SPRINGFIELD, WHITE RIVER JUNCTION AND RETURN
+                                                                                   STAFF TRANSPORTATION
+

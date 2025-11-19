@@ -1,0 +1,51 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                               DATES
+DCAS20241108                                                                        WASHINGTON DC TO HARRISBURG AND RETURN                                     $124.62
+DCAS20241109                                                START       END         STAFF TRANSPORTATION                                                         $38.86
+DCAS20241110                                                                        WAYNESBURG TO SOMERSET AND RETURN                                            $26.80
+DCAS20241111      07/02/2024  ROBERTA M MATESIC             06/11/2024  06/11/2024  STAFF TRANSPORTATION                                                         $12.30
+                  07/02/2024  ROBERTA M MATESIC             06/10/2024  06/10/2024  WAYNESBURG TO FINLEYVILLE AND RETURN
+DCAS20241112      07/02/2024  ROBERTA M MATESIC             06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                       $123.00
+DCAS20241113      07/03/2024  ETHAN MARC SELETSKY           06/24/2024  06/25/2024  WAYNESBURG TO CHARLEROI AND RETURN                                         $106.81
+DCAS20241114                                                                        STAFF INCIDENTALS
+DCAS20241115      07/03/2024  BALL,JORDAN                   06/25/2024  06/25/2024  STAFF PER DIEM                                                               $71.02  B-851
+DCAS20241116      07/05/2024  AMY E COZZE                   06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                         $75.04
+DCAS20241117      07/05/2024  AMY E COZZE                   06/25/2024  06/25/2024  PHILADELPHIA TO ALLENTOWN, BETHLEHEM AND RETURN                              $50.92
+                  07/03/2024  AMY E COZZE                   06/26/2024  06/26/2024  STAFF TRANSPORTATION                                                       $124.62
+DCAS20241122      07/05/2024  TRACE J LEDGARD               06/26/2024  06/26/2024  PITTSBURGH TO NEW CASTLE AND RETURN                                          $13.40
+DCAS20241124      07/08/2024  CAMERON G THOMPSON            06/26/2024  06/26/2024  STAFF TRANSPORTATION                                                         $36.44
+DCAS20241125                                                                        ALLENTOWN TO READING AND RETURN                                            $282.00
+DCAS20241126      07/05/2024  TRACE J LEDGARD               06/27/2024  06/27/2024  STAFF TRANSPORTATION                                                         $24.79
+DCAS20241127      07/08/2024  ROBERTA M MATESIC             06/18/2024  06/18/2024  ALLENTOWN TO BETHLEHEM, EASTON, NAZARETH AND RETURN                        $115.24
+DCAS20241128      07/08/2024  ROBERTA M MATESIC             06/20/2024  06/20/2024  STAFF TRANSPORTATION                                                         $57.62
+                  07/08/2024  ROBERTA M MATESIC             06/25/2024  06/25/2024  ALLENTOWN TO HARRISBURG AND RETURN                                         $137.35
+DCAS20241129      07/08/2024  IAN F MADIGAN                 06/27/2024  06/27/2024  STAFF TRANSPORTATION
+DCAS20241130      07/10/2024  NIKITA VARMAN                 06/25/2024  06/26/2024  PITTSBURGH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $4.51
+DCAS20241131                                                                        STAFF PER DIEM                                                               $34.37
+DCAS20241132      07/09/2024  TERESA L DENNIS               06/22/2024  06/22/2024  STAFF TRANSPORTATION                                                       $283.85
+DCAS20241135      07/09/2024  TERESA L DENNIS               06/24/2024  06/24/2024  WASHINGTON DC TO PHILADELPHIA AND RETURN                                   $121.75
+                  07/09/2024  BENJAMIN K SOLTERO DE MARTIN  06/25/2024  06/25/2024  STAFF TRANSPORTATION                                                       $164.04
+                  07/08/2024  LINDSAY M MARTIN              06/26/2024  06/26/2024  PITTSBURGH OFFICE: INTERDEPARTMENTAL TRANSPORTATION                        $156.78
+                  07/09/2024  SYDNEY M BROOKS               06/25/2024  06/27/2024  STAFF TRANSPORTATION                                                         $52.93
+                                                                                    WAYNESBURG TO POINT MARION AND RETURN                                        $42.00
+                                                                                    STAFF TRANSPORTATION                                                         $23.54
+                                                                                    WAYNESBURG TO ELRAMA AND RETURN                                            $332.45
+                                                                                    STAFF TRANSPORTATION
+                                                                                    WAYNESBURG TO EAST PALESTINE OH AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    SCRANTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                    STAFF INCIDENTALS
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    WASHINGTON DC TO PHILADELPHIA AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    HARRISBURG TO PHILADELPHIA AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    HARRISBURG TO JERSEY SHORE AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    HARRISBURG TO HANOVER AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    LANCASTER TO PHILADELPHIA AND RETURN
+                                                                                    STAFF INCIDENTALS
+                                                                                    STAFF PER DIEM
+

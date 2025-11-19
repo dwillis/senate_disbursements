@@ -1,0 +1,34 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                              DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+VSEC22400140                  XIAOFU DING                                                                                                    $150.00
+VSEC22400141      05/24/2024  GIOVANNA GALLETTA                 START       END                                                              $100.00
+VSEC22400143      05/23/2024  XIAOFU DING                                                                                                    $100.00
+VSEC22400144      05/30/2024  GIOVANNA GALLETTA                 05/12/2024  05/12/2024  EDUCATION PROVIDERS                                  $100.00
+VSEC22400160      05/28/2024  FALLON & WILKINSON, LLC           05/12/2024  05/12/2024  EDUCATION PROVIDERS                                  $667.00
+VSEC22400182      07/10/2024  DOUGLAS P MUELLER VISUAL          05/19/2024  05/19/2024  EDUCATION PROVIDERS                               $2,280.00
+VSEC22400187      08/19/2024  MERCHANDISER LL                   05/19/2024  05/19/2024  EDUCATION PROVIDERS                               $2,970.52
+VSEC22400190      08/20/2024  PIVOTAL GUIDANCE, INC.            05/24/2024  05/30/2024  CONSERVATION SERVICES                                $594.00
+VSEC22400196      08/20/2024  CONNIE D BINDER                                                                                            $18,565.00
+VSEC22400197      08/27/2024  CHESAPEAK MEDICAL WASTE SERVICES  03/01/2024  04/22/2024 OTHER ADVISORY, ASSISTNCE SVC                      $2,827.49
+VSEC22400205      09/13/2024  LLC                                                                                                            $787.59
+                  09/20/2024  RETAIL CONTROL SYSTEMS INC        09/30/2024  09/29/2025  SOFTWARE MAINT                                   $73,598.77
+0002854578                    CARAHSOFT TECHNOLOGY CORPORATION  07/08/2024  08/07/2024  ADMINISTRATIVE SUPPORT
+0002854599        05/23/2024                                                                                                              $1,166.33
+0002855976        05/23/2024  SERGEANT AT ARMS                  08/09/2024  08/09/2024 SERVICE CHARGES & OTHER FEES                          $348.46
+0002857371        06/28/2024  SERGEANT AT ARMS                                                                                                 $94.25
+0002859186        08/07/2024  SERGEANT AT ARMS                  07/15/2024   07/15/2024 OTHER ADVISORY, ASSISTNCE SVC                        $164.94
+0002859187        09/13/2024  SERGEANT AT ARMS                  10/01/2024   09/30/2025 SOFTWARE MAINT                                         $70.69
+DSEC24M50171      09/13/2024  SERGEANT AT ARMS                              OTHER CONTRACTUAL SERVICES                                       $141.38
+DSEC24M50218      04/09/2024  SERGEANT AT ARMS                  04/01/2024                                                                     $58.95
+DSEC24M50367      06/14/2024  CITIBANK - PURCHASE CARD          04/01/2024   04/30/2024 SOFTWARE LICENSE                                     $153.70   B-327
+VSEC22400186      09/20/2024  CITIBANK - PURCHASE CARD          05/01/2024   04/30/2024 SOFTWARE LICENSE                                     $290.00
+                  08/20/2024  CITIBANK - PURCHASE CARD          06/01/2024   05/31/2024 SOFTWARE LICENSE
+                              RETAIL CONTROL SYSTEMS INC        07/01/2024   06/30/2024 SOFTWARE LICENSE                                  $3,600.00
+                                                                07/01/2024   07/31/2024 SOFTWARE LICENSE                                  $6,088.70
+                                                                03/28/2024   07/31/2024 SOFTWARE LICENSE
+                                                                04/16/2024   03/28/2024 SOFTWARE LICENSE
+                                                                09/05/2024   04/16/2024 SOFTWARE LICENSE
+                                                                07/25/2024   09/05/2024 IT EQUIPMENT
+                                                                             07/25/2024 FURNISHINGS
+                                                                            ACQUISITION OF ASSETS
+

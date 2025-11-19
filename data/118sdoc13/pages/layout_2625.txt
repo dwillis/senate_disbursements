@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DWNK20241077                  ANDREA DANIELLE WIGGINS                                   STAFF TRANSPORTATION                                                              $24.12
+DWNK20241078      09/03/2024  ANDREA DANIELLE WIGGINS           START       END         ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $50.45
+DWNK20241079      09/05/2024  ANDREA DANIELLE WIGGINS                                   STAFF TRANSPORTATION                                                              $70.10
+DWNK20241080      09/03/2024  ANDREA DANIELLE WIGGINS           08/07/2024  08/07/2024  ATLANTA TO MARIETTA, ATLANTA, KENNESAW AND RETURN                               $120.60
+DWNK20241082      09/19/2024  ANDREA DANIELLE WIGGINS                                   STAFF TRANSPORTATION                                                              $90.45
+DWNK20241083      09/15/2024  MATTHEW D. KRACKENBERGER          08/08/2024  08/08/2024  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $49.32
+DWNK20241084      08/27/2024  KRISTIN C FULFORD                                         STAFF TRANSPORTATION                                                            $207.70
+DWNK20241086      09/19/2024  SUSANNA COLLEEN LEGGETT           08/12/2024  08/12/2024  ATLANTA TO DALTON AND RETURN                                                      $93.80
+DWNK20241087      09/15/2024  SUSANNA COLLEEN LEGGETT                                   STAFF TRANSPORTATION
+DWNK20241088      09/15/2024  ANDREA DANIELLE WIGGINS           08/13/2024  08/13/2024  ATLANTA TO ROME AND RETURN                                                         $7.90
+DWNK20241089      09/15/2024  ANDREA DANIELLE WIGGINS                                   STAFF TRANSPORTATION                                                               $8.71
+DWNK20241090      09/15/2024  ANDREA DANIELLE WIGGINS           08/15/2024  08/15/2024  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $87.10
+DWNK20241091      09/15/2024  KRISTIN C FULFORD                                         STAFF TRANSPORTATION                                                              $29.48
+                  09/19/2024                                    08/15/2024  08/15/2024  SAVANNAH TO AUGUSTA AND RETURN                                                    $28.38
+                                                                                        STAFF TRANSPORTATION                                                              $89.59
+                                                                08/16/2024  08/16/2024  ATLANTA TO GREENVILLE AND RETURN                                                $420.76
+                                                                                        STAFF TRANSPORTATION
+                                                                08/19/2024  08/19/2024  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $12.50
+                                                                                        STAFF TRANSPORTATION                                                            $192.29
+                                                                08/21/2024  08/21/2024  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION                                                              $87.23
+                                                                08/16/2024  08/16/2024  ATLANTA TO GREENVILLE AND RETURN                                                $258.72
+                                                                                        STAFF TRANSPORTATION                                                            $483.69
+                                                                08/19/2024  08/19/2024  ATLANTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $103.85   B-2588
+                                                                                        STAFF INCIDENTALS
+                                                                08/21/2024  08/21/2024  STAFF PER DIEM                                                                    $24.79
+                                                                                        STAFF TRANSPORTATION                                                              $26.80
+                                                                08/21/2024  08/22/2024  SAVANNAH TO ATLANTA, SANDY SPRINGS, ATLANTA, MARIETTA, ATLANTA                    $18.76
+                                                                                        AND RETURN                                                                        $22.11
+DWNK20241092      09/19/2024  BEE QUYNH NGUYEN                  08/14/2024  08/14/2024  STAFF PER DIEM                                                                  $135.34
+                  09/27/2024  BEE QUYNH NGUYEN                  08/21/2024  08/22/2024  STAFF TRANSPORTATION                                                              $22.11
+DWNK20241093                                                                            ATLANTA TO LUMPKIN, COLUMBUS AND RETURN
+                  09/19/2024  MARIA H COOK                      08/14/2024  08/14/2024  STAFF INCIDENTALS
+DWNK20241095      09/15/2024  MARIA H COOK                      08/15/2024  08/15/2024  STAFF PER DIEM
+DWNK20241096      09/15/2024  MARIA H COOK                      08/16/2024  08/16/2024  STAFF TRANSPORTATION
+DWNK20241097      09/15/2024  MARIA H COOK                      08/19/2024  08/19/2024  ATLANTA TO WAYCROSS, SAVANNAH AND RETURN
+DWNK20241098      09/15/2024  MARIA H COOK                      08/20/2024  08/20/2024  STAFF TRANSPORTATION
+DWNK20241099      09/19/2024  MARIA H COOK                      08/22/2024  08/23/2024  AUGUSTA TO SWAINSBORO AND RETURN
+DWNK20241100      09/15/2024  MARIA H COOK                      08/21/2024  08/21/2024  STAFF TRANSPORTATION
+DWNK20241101                                                                            AUGUSTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AUGUSTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AUGUSTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AUGUSTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AUGUSTA TO ATHENS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AUGUSTA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

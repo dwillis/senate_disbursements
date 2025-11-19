@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                   POSTED                                                  DATES
+DBLA20241277                  JAMES M WYATT                                             STAFF TRANSPORTATION                                                           $85.76
+DBLA20241278      05/01/2024  JAMES M WYATT                     START       END         JACKSON TO PARIS AND RETURN                                                    $53.60
+DBLA20241279      05/01/2024  JAMES M WYATT                                             STAFF TRANSPORTATION                                                           $49.58
+DBLA20241280      05/01/2024  JAMES M WYATT                     04/11/2024  04/11/2024  JACKSON TO HUNTINGDON AND RETURN                                             $104.52
+DBLA20241281      05/03/2024  JAMES M WYATT                                             STAFF TRANSPORTATION                                                           $40.20
+DBLA20241282      05/01/2024  JAMES M WYATT                     04/12/2024  04/12/2024  JACKSON TO MIDDLETON AND RETURN                                                $38.86
+DBLA20241283      05/01/2024  JAMES M WYATT                                             STAFF TRANSPORTATION                                                           $38.86
+DBLA20241285      05/01/2024  BRIGID MARY K MCDONNELL           04/15/2024  04/15/2024  JACKSON TO UNION CITY AND RETURN                                               $57.09
+DBLA20241286      05/02/2024  TYLER B PRIVETTE                                          STAFF TRANSPORTATION                                                           $71.89
+DBLA20241287      05/02/2024  WILLIAM A GUFFEE                  04/16/2024  04/16/2024  JACKSON TO TRENTON AND RETURN                                                  $26.81
+                  05/02/2024                                                            STAFF TRANSPORTATION                                                           $68.34
+DBLA20241288                  NEELY, BLAKEMON L                 04/18/2024  04/18/2024  JACKSON TO BROWNSVILLE AND RETURN                                              $53.31
+                  05/07/2024                                                            STAFF TRANSPORTATION                                                         $322.53
+DBLA20241289                  WILLIAM A GUFFEE                  04/19/2024  04/19/2024  JACKSON TO TRENTON AND RETURN                                                  $99.16
+DBLA20241290      05/02/2024  WILLIAM A GUFFEE                                          STAFF TRANSPORTATION                                                           $42.88
+DBLA20241291      05/02/2024  JAY C STROBINO                    04/22/2024  04/22/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $52.48
+DBLA20241292      05/02/2024  JAY C STROBINO                                            STAFF TRANSPORTATION
+                  05/07/2024                                    04/17/2024  04/17/2024  CHATTANOOGA TO DUNLAP AND RETURN                                                $8.98
+DBLA20241293                                                                            STAFF PER DIEM                                                               $168.63
+                                                                04/23/2024  04/23/2024  STAFF TRANSPORTATION
+DBLA20241294                                                                            CHATTANOOGA TO BENTON AND RETURN                                               $14.58
+                                                                04/19/2024  04/19/2024  STAFF PER DIEM                                                                 $62.37
+DBLA20241295                                                                            STAFF TRANSPORTATION
+DBLA20241296                                                    04/22/2024  04/23/2024  IUKA MS TO JASPER, WINCHESTER, LYNCHBURG AND RETURN                             $6.98  B-540
+DBLA20241297                                                                            STAFF TRANSPORTATION                                                         $130.85
+DBLA20241298                                                    04/23/2024  04/23/2024  CHATTANOOGA TO DUNLAP, HIXSON, CLEVELAND AND RETURN
+                                                                04/24/2024  04/24/2024  STAFF TRANSPORTATION                                                         $163.48
+                                                                04/17/2024  04/17/2024  CHATTANOOGA TO SOUTH PITTSBURG AND RETURN                                    $144.05
+                                                                04/18/2024  04/18/2024  STAFF TRANSPORTATION
+                                                                                        NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $87.10
+                  05/02/2024  JAY C STROBINO                    04/19/2024  04/19/2024  STAFF PER DIEM                                                               $146.73
+                  05/06/2024  TYLER B PRIVETTE                  04/24/2024  04/24/2024  STAFF TRANSPORTATION
+                                                                                        NASHVILLE TO MURFREESBORO, MANCHESTER, DICKSON, SPRING HILL
+                  05/06/2024  MICHAEL L HENSLEY                 04/16/2024  04/16/2024  AND RETURN
+                  05/06/2024  MICHAEL L HENSLEY                 04/17/2024  04/17/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                  05/02/2024  MICHAEL L HENSLEY                 04/18/2024  04/18/2024  NASHVILLE TO COLUMBIA AND RETURN
+                  05/06/2024  MICHAEL L HENSLEY                 04/19/2024  04/19/2024  STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        CHATTANOOGA TO MANCHESTER, DECHERD, ALTAMONT, DUNLAP AND
+                                                                                        RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        KNOXVILLE TO JOHNSON CITY, BRISTOL AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        KNOXVILLE TO JONESBOROUGH, JOHNSON CITY, MORRISTOWN AND
+                                                                                        RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        KNOXVILLE TO RUTLEDGE, ROGERSVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        KNOXVILLE TO MILLIGAN COLLEGE AND RETURN
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                              DATES
+DMRP20240907                                                                       HARTFORD TO EAST HARTFORD TO QUAKER HILL                                         $91.79
+                                                           START       END         STAFF TRANSPORTATION
+DMRP20240914                                                                       QUAKER HILL TO TOLLAND TO HARTFORD; HARTFORD TO NEW LONDON TO                    $15.78
+                  08/15/2024  ERIN E MCBRIDE               08/06/2024  08/06/2024  QUAKER HILL                                                                      $35.51
+DMRP20240917                                               08/07/2024  08/07/2024  STAFF PER DIEM
+DMRP20240918      08/16/2024  ERIN E MCBRIDE                                       STAFF TRANSPORTATION                                                              $9.38
+DMRP20240919                                               08/08/2024  08/09/2024  QUAKER HILL TO NORWICH TO HARTFORD                                                $9.38  B-1900
+DMRP20240920      08/20/2024  JAMESON B FOULKE             07/26/2024  07/27/2024  STAFF TRANSPORTATION                                                             $73.70
+DMRP20240921      08/20/2024  JAMESON B FOULKE             08/12/2024  08/12/2024  8/8, 9 WEST HARTFORD TO HARTFORD AND RETURN                                      $26.25
+DMRP20240922      08/20/2024  JAMESON B FOULKE             07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                             $36.70
+DMRP20240923      08/22/2024  FARIAN E RABBANI             07/22/2024  07/22/2024  7/26, 27 WEST HARTFORD TO HARTFORD AND RETURN                                    $26.11
+DMRP20240924      08/22/2024  FARIAN E RABBANI             08/01/2024  08/01/2024  STAFF TRANSPORTATION                                                             $20.76
+DMRP20240925      08/22/2024  FARIAN E RABBANI             07/24/2024  07/24/2024  WEST HARTFORD TO NEW HAVEN, NORTH HAVEN TO HARTFORD                               $6.56
+DMRP20240926      08/22/2024  FARIAN E RABBANI             07/30/2024  07/30/2024  STAFF TRANSPORTATION                                                             $65.52
+DMRP20240927      08/22/2024  FARIAN E RABBANI             08/08/2024  08/08/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $17.75
+DMRP20240928      08/22/2024  FARIAN E RABBANI             07/31/2024  07/31/2024  STAFF TRANSPORTATION                                                             $16.00
+DMRP20240929      08/22/2024  FARIAN E RABBANI             08/09/2024  08/09/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $221.10
+DMRP20240930      08/22/2024  FARIAN E RABBANI             08/02/2024  08/02/2024  STAFF TRANSPORTATION                                                           $221.10
+DMRP20240931      08/22/2024  CITIBANK - TRAVEL CBA CARD   07/23/2024  07/23/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $73.81
+DMRP20240932      08/22/2024  CITIBANK - TRAVEL CBA CARD   07/28/2024  07/28/2024  STAFF TRANSPORTATION                                                             $46.47
+DMRP20240933      08/22/2024  CITIBANK - SENATOR IBA CARD  07/28/2024  07/28/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $43.51
+DMRP20240934      08/22/2024  CITIBANK - SENATOR IBA CARD  07/20/2024  07/20/2024  STAFF TRANSPORTATION                                                             $78.07
+DMRP20240935      08/22/2024  CITIBANK - SENATOR IBA CARD  07/26/2024  07/26/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $67.00
+DMRP20240936      08/22/2024  CITIBANK - SENATOR IBA CARD  08/13/2024  08/13/2024  STAFF TRANSPORTATION                                                             $32.83
+DMRP20240937      08/22/2024  JAMESON B FOULKE             08/08/2024  08/08/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $34.17
+                  08/26/2024  ERIN E MCBRIDE               08/14/2024  08/14/2024  STAFF TRANSPORTATION                                                             $87.10
+                  08/26/2024  ERIN E MCBRIDE               08/13/2024  08/13/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  08/26/2024  ERIN E MCBRIDE                                       STAFF TRANSPORTATION
+                                                                                   WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN MURPHY WINDSOR LOCKS TO WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   AIRFARE FOR SEN MURPHY WINDSOR LOCKS TO WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   TAXI FARE FOR SEN MURPHY IN WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   TAXI FARE FOR SEN MURPHY HARTFORD TO WINDSOR LOCKS
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   TAXI FARE FOR SEN MURPHY IN WASHINGTON DC
+                                                                                   SENATOR TRANSPORTATION
+                                                                                   TAXI FARE FOR SEN MURPHY WASHINGTON DC TO GLEN BURNIE MD
+                                                                                   STAFF TRANSPORTATION
+                                                                                   WEST HARTFORD TO MILFORD TO HARTFORD
+                                                                                   STAFF TRANSPORTATION
+                                                                                   QUAKER HILL TO WINDHAM AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   QUAKER HILL TO NORWICH TO HARTFORD
+                                                                                   STAFF TRANSPORTATION
+                                                                                   QUAKER HILL TO NORWICH, LEDYARD TO HARTFORD; HARTFORD TO EAST
+                                                                                   LYME TO QUAKER HILL
+

@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION          AMOUNT ($)
+                  POSTED                                             DATES
+DLNK20240646                                                                      WASHINGTON DC TO NEW YORK NY AND RETURN                                              $52.26
+DLNK20240647                                              START       END         STAFF TRANSPORTATION                                                                 $65.66
+DLNK20240648                                                                      OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $20.00
+DLNK20240649      04/23/2024  JAMES S CARSON              04/02/2024  04/02/2024  STAFF TRANSPORTATION                                                               $135.64
+DLNK20240650      04/23/2024  JAMES S CARSON              04/03/2024  04/03/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                               $75.04
+DLNK20240651      04/26/2024  JAMES S CARSON              04/04/2024  04/04/2024  STAFF PER DIEM                                                                     $179.10
+DLNK20240652                                                                      STAFF TRANSPORTATION
+                  04/24/2024  JAMES S CARSON              04/05/2024  04/05/2024  OKLAHOMA CITY TO LAWTON AND RETURN                                                    $8.69
+                  04/26/2024  CITIBANK - TRAVEL CBA CARD  04/11/2024  04/11/2024  STAFF TRANSPORTATION                                                               $110.31
+                  04/24/2024  SARAH MARGARET SHARUM       04/11/2024  04/11/2024  OKLAHOMA CITY TO WEATHERFORD AND RETURN                                            $836.78
+                  04/26/2024  JAMES S CARSON              04/08/2024  04/11/2024  SENATOR TRANSPORTATION                                                             $158.77
+                                                                                  AIRFARE FOR SEN LANKFORD WASHINGTON DC TO OKLAHOMA CITY
+DLNK20240653      04/26/2024  EAN SERVICES LLC            04/02/2024  04/05/2024  STAFF PER DIEM                                                                     $159.21
+                                                                                  TULSA TO OKLAHOMA CITY AND RETURN
+DLNK20240654      04/24/2024  EAN SERVICES LLC            04/09/2024  04/10/2024  STAFF INCIDENTALS                                                                    $59.52  B-1588
+DLNK20240655      04/26/2024  JAMES S CARSON              04/12/2024  04/12/2024  STAFF PER DIEM                                                                     $161.10
+DLNK20240656      04/29/2024  PEYTON G BURNS              04/09/2024  04/11/2024  STAFF TRANSPORTATION
+                                                                                  OKLAHOMA CITY TO WASHINGTON DC, ARLINGTON VA, WASHINGTON DC                          $34.46
+DLNK20240657      04/24/2024  PEYTON G BURNS              04/12/2024  04/12/2024  AND RETURN                                                                         $223.05
+DLNK20240659      04/26/2024  CITIBANK - TRAVEL CBA CARD  04/12/2024  04/12/2024  STAFF TRANSPORTATION
+DLNK20240660      04/26/2024  CITIBANK - TRAVEL CBA CARD  04/12/2024  04/12/2024  RENTAL AUTO FOR P BURNS STILLWATER TO THE FOLLOWING AND                              $71.35
+DLNK20240662      06/25/2024  JAMES LANKFORD              02/13/2024  02/26/2024  RETURN: 4/2 CRESCENT, OKLAHOMA CITY, TONKAWA; 4/3 ENID, ALVA; 4/4
+                                                                                  ENID, CHEROKEE, ALVA                                                                 $44.89
+DLNK20240663      04/26/2024  JAMES LANKFORD              03/01/2024  03/05/2024  STAFF TRANSPORTATION                                                                 $40.00
+DLNK20240664      04/30/2024  JAMES LANKFORD              03/08/2024  03/11/2024  RENTAL AUTO FOR J SHARUM TULSA TO OKLAHOMA CITY AND RETURN                           $40.00
+                                                                                  STAFF TRANSPORTATION
+DLNK20240665      05/03/2024  EAN SERVICES LLC            04/08/2024  04/12/2024  OKLAHOMA CITY TO LAWTON, CHICKASHA AND RETURN                                         $3.15
+                                                                                  STAFF INCIDENTALS
+DLNK20240666      04/30/2024  EAN SERVICES LLC            04/10/2024  04/12/2024  STAFF PER DIEM                                                                        $6.94
+DLNK20240667      04/30/2024  LARAMIE ANN COCHRAN         03/07/2024  03/07/2024  STAFF TRANSPORTATION                                                                 $48.02
+                                                                                  STILLWATER TO WOODWARD, BEAVER, GUYMON, HOOKER, BOISE CITY,                        $556.61
+                                                                                  KENTON AND RETURN                                                                  $168.28
+                                                                                  STAFF TRANSPORTATION
+                                                                                  STILLWATER TO GUTHRIE AND RETURN                                                     $94.61
+                                                                                  TICKET FEES                                                                          $62.31
+                                                                                  TICKET FEES
+                                                                                  SENATOR PER DIEM
+                                                                                  ADDITIONAL EXPENSE FOR TRIP WASHINGTON DC TO OKLAHOMA CITY AND
+                                                                                  RETURN
+                                                                                  SENATOR PER DIEM
+                                                                                  WASHINGTON DC TO OKLAHOMA CITY AND RETURN
+                                                                                  SENATOR PER DIEM
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  WASHINGTON DC TO OKLAHOMA CITY AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  RENTAL AUTO FOR P BURNS AS FOLLOWS: 4/9-11 STILLWATER TO
+                                                                                  WOODWARD, BEAVER, GUYMON, HOOKER, BOISE CITY, KENTON AND
+                                                                                  RETURN; 4/12 STILLWATER TO GUTHRIE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  RENTAL AUTO FOR S SHARUM TULSA TO OKLAHOMA CITY AND RETURN
+                                                                                  STAFF TRANSPORTATION
+

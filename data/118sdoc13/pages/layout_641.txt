@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                  POSTED                                             DATES
+DBOO20240281                                                                      AIRFARE FOR SEN BOOZMAN WASHINGTON DC TO BENTONVILLE                             $528.20
+DBOO20240282                                              START       END         STAFF TRANSPORTATION
+DBOO20240283                                                                      AIRFARE FOR H HENDERSON BENTONVILLE TO WASHINGTON DC AND                         $627.10
+DBOO20240284      04/05/2024  CITIBANK - TRAVEL CBA CARD  03/10/2024  03/17/2024  RETURN                                                                           $360.10
+DBOO20240287                                                                      STAFF TRANSPORTATION                                                             $611.20
+DBOO20240290      04/08/2024  CITIBANK - TRAVEL CBA CARD  03/15/2024  03/15/2024  AIRFARE FOR B ROHAUER WASHINGTON DC TO LITTLE ROCK                               $194.80
+DBOO20240291      04/05/2024  CITIBANK - TRAVEL CBA CARD  03/11/2024  03/11/2024  STAFF TRANSPORTATION                                                             $537.70
+DBOO20240292      04/05/2024  CITIBANK - TRAVEL CBA CARD  03/13/2024  03/14/2024  AIRFARE FOR B ROHAUER LITTLE ROCK TO WASHINGTON DC                               $537.70
+DBOO20240293      04/09/2024  CHASE A EMERSON             03/26/2024  03/26/2024  STAFF TRANSPORTATION
+DBOO20240294      04/09/2024  CITIBANK - TRAVEL CBA CARD  03/24/2024  03/27/2024  AIRFARE FOR P MCGUIGAN WASHINGTON DC TO LITTLE ROCK AND RETURN                   $537.70
+                  04/09/2024  CITIBANK - TRAVEL CBA CARD  03/24/2024  03/27/2024  STAFF TRANSPORTATION                                                             $264.10
+                                                                                  EL DORADO TO HOPE, ARKADELPHIA, LITTLE ROCK AND RETURN
+                  04/09/2024  CITIBANK - TRAVEL CBA CARD  03/24/2024  03/27/2024  STAFF TRANSPORTATION                                                               $46.56  B-623
+                  04/09/2024  CITIBANK - TRAVEL CBA CARD  03/24/2024  03/24/2024  AIRFARE FOR D BURGESS WASHINGTON DC TO BENTONVILLE AND RETURN                    $423.87
+                  04/09/2024  PATRICK M MCGUIGAN          03/24/2024  03/27/2024  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR P MCGUIGAN WASHINGTON DC TO BENTONVILLE AND                            $40.75
+DBOO20240296      04/10/2024  BRIAN ROHAUER               03/24/2024  03/27/2024  RETURN
+                                                                                  STAFF TRANSPORTATION                                                               $46.56
+DBOO20240297      04/10/2024  JOSHUA WILLIAM MULLINAX     03/26/2024  03/28/2024  AIRFARE FOR J LEACH WASHINGTON DC TO BENTONVILLE AND RETURN                      $405.46
+DBOO20240298      04/10/2024  CHASE A EMERSON             03/27/2024  03/28/2024  SENATOR TRANSPORTATION                                                           $316.48
+DBOO20240299      04/10/2024  STACEY R MCCLURE            03/26/2024  03/26/2024  AIRFARE FOR SEN BOOZMAN WASHINGTON DC TO BENTOVILLE                              $353.34
+DBOO20240300      04/11/2024  MATTHEW T MYERS             03/26/2024  03/29/2024  STAFF INCIDENTALS
+DBOO20240302      04/11/2024  CITIBANK - TRAVEL CBA CARD  03/24/2024  03/29/2024  STAFF PER DIEM                                                                   $217.03
+DBOO20240303      04/11/2024  CITIBANK - TRAVEL CBA CARD  03/29/2024  03/29/2024  STAFF TRANSPORTATION
+DBOO20240304      04/10/2024  JESSICA LAUREN SOLLEY       03/28/2024  03/28/2024  ALEXANDRIA VA TO WASHINGTON DC, FAYETTEVILLE, ROGERS,                              $18.10
+DBOO20240305      04/11/2024  WILLIAM T DAVIS             03/01/2024  03/28/2024  FAYETTEVILLE, WASHINGTON DC AND RETURN                                           $106.47
+                                                                                  STAFF INCIDENTALS                                                                $375.57
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION                                                             $507.20
+                                                                                  LITTLE ROCK TO ROGERS AND RETURN
+                                                                                  STAFF TRANSPORTATION                                                             $264.10
+                                                                                  JONESBORO TO THE FOLLOWING AND RETURN: 3/26 PARAGOULD; 3/27 HOT                  $150.93
+                                                                                  SPRINGS; 3/28 WYNNE, PARAGOULD                                                   $751.72
+                                                                                  STAFF TRANSPORTATION
+                                                                                  EL DORADO TO THE FOLLOWING AND RETURN: 3/27 CAMDEN; 3/28 HOT
+                                                                                  SPRINGS, LITTLE ROCK
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  LOWELL TO FORT SMITH AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MOUNTAIN HOME TO THE FOLLOWING AND RETURN: 3/26 HARRISON; 3/28
+                                                                                  HOT SPRINGS; 3/29 MARSHALL
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR B CAMPBELL WASHINGTON DC TO BENTONVILLE, LITTLE
+                                                                                  ROCK AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN BOOZMAN FAYETTEVILLE TO WASHINGTON DC
+                                                                                  STAFF TRANSPORTATION
+                                                                                  FORT SMITH TO HOT SPRINGS AND RETURN
+                                                                                  STAFF TRANSPORTATION
+

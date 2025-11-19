@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME            OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                       DATES
+DBRN20240921                                                                DAYTON TO CINCINNATI AND RETURN                                            $198.68
+DBRN20240922                                        START       END         STAFF PER DIEM                                                               $73.88
+DBRN20240923                                                                STAFF TRANSPORTATION
+                  07/24/2024  KAMERON W ANDERSON    07/12/2024  07/13/2024  DAYTON TO CINCINNATI AND RETURN                                              $42.88
+DBRN20240924                                                                STAFF TRANSPORTATION
+                  07/20/2024  KAMERON W ANDERSON    07/16/2024  07/16/2024  DAYTON TO CINCINNATI AND RETURN                                              $60.22
+DBRN20240925      07/23/2024  HELEN E. CLARK        07/11/2024  07/13/2024  STAFF INCIDENTALS                                                          $312.00
+DBRN20240926                                                                STAFF PER DIEM                                                             $356.34
+DBRN20240927      07/25/2024  EMMA MARIE SPEYER     07/12/2024  07/13/2024  STAFF TRANSPORTATION
+DBRN20240928                                                                CLEVELAND TO CINCINNATI AND RETURN                                           $30.11
+                  07/23/2024  EMMA MARIE SPEYER     07/11/2024  07/11/2024  STAFF INCIDENTALS                                                          $156.00   B-706
+DBRN20240929      07/23/2024  EMMA MARIE SPEYER     07/16/2024  07/16/2024  STAFF PER DIEM                                                             $164.77
+DBRN20240930      07/23/2024  EMMA MARIE SPEYER     07/17/2024  07/17/2024  STAFF TRANSPORTATION
+DBRN20240931      07/31/2024  ELAINE N VILEM        07/12/2024  07/13/2024  COLUMBUS TO CINCINNATI AND RETURN                                            $73.70
+DBRN20240932                                                                STAFF TRANSPORTATION
+DBRN20240933      07/23/2024  JORDAN T PENNELL      07/16/2024  07/16/2024  COLUMBUS TO NEWARK, CARROLL AND RETURN                                       $57.62
+DBRN20240936      07/23/2024  JORDAN T PENNELL      07/17/2024  07/17/2024  STAFF TRANSPORTATION
+                  07/25/2024  ANTHONY L ELIOPOULOS  07/12/2024  07/12/2024  COLUMBUS TO NEWARK AND RETURN                                                $47.57
+DBRN20240937      07/26/2024  ANTHONY L ELIOPOULOS  07/16/2024  07/16/2024  STAFF TRANSPORTATION
+DBRN20240938      07/26/2024  ABIGAIL DUGGAN        07/17/2024  07/17/2024  COLUMBUS TO DELAWARE AND RETURN                                              $30.11
+DBRN20240939      07/29/2024  ERICA N KRAUSE        07/12/2024  07/13/2024  STAFF INCIDENTALS                                                          $187.65
+DBRN20240940                                                                STAFF PER DIEM                                                             $428.55
+DBRN20240941      07/23/2024  ERICA N KRAUSE        06/14/2024  06/14/2024  STAFF TRANSPORTATION
+                  07/24/2024  ERICA N KRAUSE        06/27/2024  06/27/2024  CLEVELAND TO CINCINNATI AND RETURN                                           $29.48
+                  07/24/2024  ERICA N KRAUSE        06/18/2024  06/18/2024  STAFF TRANSPORTATION
+                  07/24/2024  ERICA N KRAUSE        06/19/2024  06/19/2024  YOUNGSTOWN TO VIENNA AND RETURN                                              $96.48
+                  07/24/2024  ERICA N KRAUSE        06/20/2024  06/20/2024  STAFF TRANSPORTATION
+                                                                            YOUNGSTOWN TO CANTON, MASSILLON AND RETURN                                   $24.89
+                                                                            STAFF PER DIEM                                                             $188.30
+                                                                            STAFF TRANSPORTATION
+                                                                            COLUMBUS TO CINCINNATI AND RETURN                                            $22.11
+                                                                            STAFF PER DIEM                                                             $235.10
+                                                                            STAFF TRANSPORTATION
+                                                                            COLUMBUS TO WARREN, VIENNA AND RETURN                                        $27.15
+                                                                            STAFF PER DIEM                                                             $218.37
+                                                                            STAFF TRANSPORTATION
+                                                                            WASHINGTON DC TO DAYTON, COLUMBUS AND RETURN                                 $51.92
+                                                                            STAFF INCIDENTALS                                                          $269.00
+                                                                            STAFF PER DIEM                                                             $278.00
+                                                                            STAFF TRANSPORTATION
+                                                                            TOLEDO TO CINCINNATI AND RETURN                                              $29.74
+                                                                            STAFF TRANSPORTATION
+                                                                            IN AND AROUND TOLEDO                                                         $84.94
+                                                                            STAFF TRANSPORTATION
+                                                                            TOLEDO TO PORT CLINTON AND RETURN                                             $4.55
+                                                                            STAFF TRANSPORTATION
+                                                                            IN AND AROUND TOLEDO                                                         $49.17
+                                                                            STAFF TRANSPORTATION
+                                                                            TOLEDO TO FREMONT AND RETURN                                                 $67.67
+                                                                            STAFF TRANSPORTATION
+

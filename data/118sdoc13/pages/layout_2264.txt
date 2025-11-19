@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+                   POSTED                                                  DATES
+DSCM20240713                  JOSEPH NASH DEHMER                                        STAFF TRANSPORTATION                                                                  $19.65
+DSCM20240714      06/12/2024  JOSEPH NASH DEHMER                START       END         WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $15.72
+DSCM20240715      06/12/2024  JOSEPH NASH DEHMER                                        STAFF TRANSPORTATION                                                                  $13.10
+DSCM20240717      06/12/2024  LISA K SAYLOR                     06/05/2024  06/05/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $110.04
+DSCM20240718      06/13/2024  JORDAN T JOBES                                            STAFF TRANSPORTATION                                                                $136.89
+DSCM20240719      06/13/2024  MICHAEL E USSERY                  06/04/2024  06/04/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $128.18
+DSCM20240720      06/13/2024  GEORGE PETER KNAPP                                        STAFF TRANSPORTATION                                                                  $26.98
+DSCM20240721      06/13/2024  MEGAN KAYLEE WERDEHAUSEN          06/03/2024  06/03/2024  SPRINGFIELD TO NEOSHO AND RETURN
+DSCM20240722      06/12/2024  MEGAN KAYLEE WERDEHAUSEN                                  STAFF TRANSPORTATION                                                                   $2.29
+DSCM20240723      06/12/2024  JOSEPH NASH DEHMER                06/03/2024  06/03/2024  SPRINGFIELD TO NEVADA, EL DORADO SPRINGS AND RETURN                                   $29.80
+DSCM20240724      06/12/2024  MICHAEL E USSERY                                          STAFF TRANSPORTATION                                                                  $13.10
+DSCM20240725      06/12/2024  MORGAN S CORDER                   06/03/2024  06/03/2024  SPRINGFIELD TO NEOSHO AND RETURN                                                      $23.51
+DSCM20240726      06/13/2024  MORGAN S CORDER                                           STAFF TRANSPORTATION                                                                $220.08
+DSCM20240727      06/13/2024  MORGAN S CORDER                   06/04/2024  06/04/2024  ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                   $164.40
+DSCM20240730      06/13/2024  MICHAEL E USSERY                                          STAFF TRANSPORTATION                                                                $163.09
+DSCM20240731      06/13/2024  STEPHEN B GREEN                   06/03/2024  06/03/2024  COLUMBIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                     $81.87
+DSCM20240732      06/13/2024  MICHAEL E USSERY                                          STAFF TRANSPORTATION                                                                  $49.78
+DSCM20240733      06/13/2024  JORDAN T JOBES                    05/08/2024  05/08/2024  FULTON TO JEFFERSON CITY AND RETURN                                                   $20.04
+DSCM20240734      06/12/2024  JORDAN T JOBES                                            STAFF TRANSPORTATION
+DSCM20240736      06/12/2024  ADAM J TIMMERMAN                  05/02/2024  05/02/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $9.82
+                  06/18/2024                                                            STAFF TRANSPORTATION                                                                   $9.17
+DSCM20240742                  JOSEPH NASH DEHMER                05/23/2024  05/23/2024  SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $453.26
+DSCM20240760      06/12/2024  ERIC S SCHMITT                                            STAFF TRANSPORTATION
+DSCM20240763      06/24/2024  CITIBANK - TRAVEL CBA CARD        05/29/2024  05/29/2024  COLUMBIA TO SPRINGFIELD AND RETURN                                                    $57.64  B-2227
+DSCM20240764      06/24/2024  GEORGE PETER KNAPP                                        STAFF TRANSPORTATION                                                                $231.10
+DSCM20240765      06/24/2024  GEORGE PETER KNAPP                05/29/2024  05/29/2024  COLUMBIA TO KANSAS CITY AND RETURN                                                  $531.47
+                  06/24/2024                                                            STAFF TRANSPORTATION
+                                                                05/28/2024  05/28/2024  COLUMBIA TO SAINT LOUIS AND RETURN                                                     $9.30
+                                                                                        STAFF TRANSPORTATION                                                                  $18.47
+                                                                05/23/2024  05/23/2024  SPRINGFIELD TO MOUNTAIN GROVE, NORWOOD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                06/06/2024  06/06/2024  ST LOUIS TO HILLSBORO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                06/05/2024  06/05/2024  SPRINGFIELD TO REPUBLIC AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                06/07/2024  06/07/2024  SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                06/05/2024  06/05/2024  SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                06/06/2024  06/06/2024  SHAWNEE KS TO THE FOLLOWING AND RETURN: 5/2, 20 SAINT JOSEPH; 5/29
+                                                                                        WARRENSBURG; 6/3, 7 WHITEMAN AIR FORCE BASE
+                                                                05/02/2024  06/07/2024  STAFF TRANSPORTATION
+                                                                                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                06/09/2024  06/09/2024  SENATOR TRANSPORTATION
+                                                                06/11/2024  06/11/2024  SAINT LOUIS TO WASHINGTON DC
+                                                                06/09/2024  06/09/2024  SENATOR TRANSPORTATION
+                                                                06/13/2024  06/13/2024  AIRFARE FOR SEN SCHMITT WASHINGTON DC TO SAINT LOUIS
+                                                                06/09/2024  06/09/2024  STAFF TRANSPORTATION
+                                                                                        ST LOUIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+

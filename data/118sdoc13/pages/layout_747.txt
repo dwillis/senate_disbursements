@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                        DATES
+DBDD20240502                                                                 WASHINGTON DC TO AUSTIN TX AND RETURN                                             $181.57
+DBDD20240503                                         START       END         STAFF TRANSPORTATION                                                                $82.74
+DBDD20240504                                                                 RALEIGH OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DBDD20240505      06/11/2024  ERIN WALL              05/06/2024  05/30/2024  STAFF TRANSPORTATION                                                                $64.99
+DBDD20240506      06/11/2024  SAMUEL JOSEPH SHUMATE  05/30/2024  05/30/2024  SANFORD TO ABERDEEN, PINEHURST, RAEFORD, FAYETTEVILLE AND                           $95.14
+DBDD20240507                                                                 RETURN                                                                              $73.70
+DBDD20240508      06/11/2024  JERRY H LAUGHTER       05/20/2024  05/20/2024  STAFF TRANSPORTATION                                                              $103.85
+DBDD20240509      06/11/2024  JERRY H LAUGHTER       05/28/2024  05/28/2024  ASHEVILLE TO CULLOWHEE AND RETURN                                                   $19.57
+                  06/11/2024  JERRY H LAUGHTER       05/21/2024  05/21/2024  STAFF TRANSPORTATION                                                              $186.72
+DBDD20240510      06/11/2024  JERRY H LAUGHTER       05/23/2024  05/23/2024  ASHEVILLE TO LENOIR AND RETURN                                                      $13.05
+DBDD20240511      06/11/2024  SAMUEL JOSEPH SHUMATE  05/31/2024  05/31/2024  STAFF TRANSPORTATION                                                              $141.50
+DBDD20240512                                                                 ASHEVILLE TO RUTHERFORDTON AND RETURN
+DBDD20240518      06/12/2024  SAMUEL JOSEPH SHUMATE  06/04/2024  06/04/2024  STAFF TRANSPORTATION                                                              $153.56
+DBDD20240519                                                                 ASHEVILLE TO HICKORY AND RETURN                                                     $21.44
+DBDD20240520      06/12/2024  SAMUEL JOSEPH SHUMATE  06/03/2024  06/03/2024  STAFF PER DIEM                                                                      $89.78  B-729
+DBDD20240521      06/11/2024  MARCEL MILEWSKI        06/03/2024  06/04/2024  STAFF TRANSPORTATION                                                                $14.76
+DBDD20240522      06/11/2024  JERRY H LAUGHTER       06/04/2024  06/04/2024  SANFORD TO KURE BEACH, WILMINGTON AND RETURN                                        $81.47
+                  06/12/2024  SAMUEL JOSEPH SHUMATE  06/05/2024  06/05/2024  STAFF PER DIEM
+DBDD20240523                                                                 STAFF TRANSPORTATION                                                              $142.45
+                  06/13/2024  DAVID M HELSLEY        05/09/2024  05/09/2024  SANFORD TO DUNN, NEWTON GROVE, CALYPSO, KENANSVILLE, ROSE HILL                      $56.74
+DBDD20240524      06/13/2024  SAMUEL JOSEPH SHUMATE  06/06/2024  06/06/2024  AND RETURN                                                                          $19.69
+DBDD20240525      06/14/2024  SAMUEL JOSEPH SHUMATE  06/07/2024  06/07/2024  STAFF TRANSPORTATION
+                                                                             SANFORD TO FAYETTEVILLE, BURGAW AND RETURN                                        $175.74
+                  06/18/2024  JOHN M TAYLOE          05/27/2024  05/30/2024  STAFF TRANSPORTATION                                                              $525.95
+                                                                             WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                  06/24/2024  JOHN M TAYLOE          06/01/2024  06/07/2024  STAFF TRANSPORTATION                                                              $499.15
+                                                                             ASHEVILLE TO FRANKLIN AND RETURN
+                  06/18/2024  SAMUEL JOSEPH SHUMATE  06/10/2024  06/10/2024  STAFF PER DIEM                                                                      $12.25
+                  07/09/2024  ANDREW WOOD SMITH      06/09/2024  06/10/2024  STAFF TRANSPORTATION                                                              $170.31
+                                                                             SANFORD TO BENSON, FOUR OAKS, SMITHFIELD AND RETURN                               $692.96
+                                                                             STAFF TRANSPORTATION
+                                                                             ADVANCE TO CHARLOTTE AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO BROADWAY, CARTHAGE, ABERDEEN AND RETURN
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO AYDEN, LA GRANGE AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             AULANDER TO THE FOLLOWING AND RETURN: 5/27 ROXBORO; 5/28
+                                                                             GREENVILLE, SNOW HILL, WILLIAMSTON; 5/29 PINETOPS, TARBORO; 5/30
+                                                                             HENDERSON, LOUISBURG
+                                                                             STAFF TRANSPORTATION
+                                                                             AULANDER TO THE FOLLOWING AND RETURN: 6/1 EURE; 6/3 ROCKY
+                                                                             MOUNT, RED OAK; 6/4 SCOTLAND NECK, ROCKY MOUNT; 6/5 WINTERVILLE,
+                                                                             WILSON, OAK CITY; 6/6 AHOSKIE, JACKSON; 6/7 WASHINGTON, AYDEN,
+                                                                             GREENVILLE
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             SANFORD TO WHITEVILLE, ELIZABETHTOWN, FAIR BLUFF AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             WASHINGTON DC TO RALEIGH, MORRISVILLE, RALEIGH AND RETURN
+

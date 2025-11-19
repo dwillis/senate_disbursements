@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                             DATES
+DCOL20240533                                                                      WASHINGTON DC TO STAMFORD CT AND RETURN                                        $42.90
+DCOL20240534                                              START       END         STAFF TRANSPORTATION                                                           $29.70
+DCOL20240535                                                                      AUGUSTA TO NORRIDGEWOCK AND RETURN                                             $51.70
+DCOL20240536      05/30/2024  ALLYSON M CAVARETTA         04/10/2024  04/10/2024  STAFF TRANSPORTATION                                                           $31.90
+DCOL20240537      05/30/2024  ALLYSON M CAVARETTA         04/18/2024  04/18/2024  AUGUSTA TO WATERVILLE AND RETURN
+DCOL20240538      05/30/2024  ALLYSON M CAVARETTA         04/25/2024  04/25/2024  STAFF TRANSPORTATION                                                            $9.90
+DCOL20240539      05/30/2024  ALLYSON M CAVARETTA         05/07/2024  05/07/2024  AUGUSTA TO ROCKLAND AND RETURN                                                 $28.50
+DCOL20240540      05/30/2024  ALLYSON M CAVARETTA         05/13/2024  05/13/2024  STAFF TRANSPORTATION                                                           $29.70
+DCOL20240541      05/30/2024  ALLYSON M CAVARETTA         05/20/2024  05/24/2024  AUGUSTA TO WATERVILLE AND RETURN                                               $12.78
+DCOL20240543      05/31/2024  ALLYSON M CAVARETTA         05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                         $109.10
+DCOL20240545      06/06/2024  CHARLES L MAHALERIS         05/27/2024  05/27/2024  AUGUSTA TO HALLOWELL AND RETURN                                                $22.00
+DCOL20240546                                                                      STAFF TRANSPORTATION                                                         $466.09
+DCOL20240547      06/05/2024  EVAN J BALZANO              05/27/2024  05/27/2024  AUGUSTA TO BIDDEFORD AND RETURN                                                $40.00  B-910
+DCOL20240548      06/07/2024  CITIBANK - TRAVEL CBA CARD  05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                         $466.09
+DCOL20240549                                                                      AUGUSTA TO WATERVILLE AND RETURN                                               $40.00
+                  06/07/2024  CITIBANK - TRAVEL CBA CARD  05/05/2024  05/05/2024  STAFF PER DIEM                                                               $687.20
+DCOL20240550                                                                      STAFF TRANSPORTATION                                                           $40.00
+DCOL20240554      06/07/2024  CITIBANK - TRAVEL CBA CARD  05/12/2024  05/16/2024  AUGUSTA TO SPRINGVALE AND RETURN                                             $700.20
+DCOL20240560                                                                      STAFF TRANSPORTATION                                                           $40.00
+DCOL20240561      06/10/2024  CITIBANK - TRAVEL CBA CARD  05/12/2024  05/16/2024  SACO TO SPRINGVALE AND RETURN                                                $350.10
+                                                                                  SENATOR TRANSPORTATION                                                         $40.00
+                  06/06/2024  CITIBANK - TRAVEL CBA CARD  05/18/2024  05/18/2024  TICKET FEES                                                                  $130.84
+                                                                                  AIRFARE FOR SEN COLLINS WASHINGTON DC TO BANGOR                           $1,087.00
+                  06/17/2024  CAROL H WOODCOCK            05/12/2024  05/16/2024  SENATOR TRANSPORTATION                                                         $60.00
+                                                                                  TICKET FEES                                                                  $350.10
+                  06/07/2024  CITIBANK - TRAVEL CBA CARD  05/16/2024  05/16/2024  AIRFARE FOR SEN COLLINS BANGOR TO WASHINGTON DC                                $40.00
+                  06/10/2024  KELLY HAMILTON COTIAUX      05/15/2024  05/16/2024  STAFF TRANSPORTATION                                                           $65.45
+                  06/07/2024  CAROL H WOODCOCK            05/04/2024  05/04/2024  TICKET FEES                                                                  $262.24
+                  06/10/2024  CAROL H WOODCOCK            05/23/2024  05/23/2024  AIRFARE FOR C WOODCOCK BANGOR TO WASHINGTON DC AND RETURN                    $132.00
+                                                                                  STAFF TRANSPORTATION                                                           $20.00
+                                                                                  TICKET FEES                                                                    $82.50
+                                                                                  AIRFARE FOR C TREMBLAY PORTLAND TO WASHINGTON DC AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR SEN COLLINS PORTLAND TO WASHINGTON DC
+                                                                                  STAFF INCIDENTALS
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BANGOR TO WASHINGTON DC AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  TICKET FEES
+                                                                                  AIRFARE FOR SEN COLLINS WASHINGTON DC TO PORTLAND
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BANGOR TO PORTSMOUTH NH, FALMOUTH, PORTSMOUTH AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BANGOR TO EASTPORT AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BANGOR TO AUGUSTA AND RETURN
+

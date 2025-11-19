@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION             AMOUNT ($)
+                  POSTED                                             DATES
+DCOO20240432                                                                      WASHINGTON DC TO HARRINGTON AND RETURN                                                $131.32
+DCOO20240433                                              START       END         STAFF TRANSPORTATION                                                                  $103.18
+DCOO20240434                                                                      WASHINGTON DC TO WILMINGTON AND RETURN
+DCOO20240435      08/08/2024  JENNA ELIZABETH MAYHEW      07/24/2024  07/24/2024  STAFF TRANSPORTATION                                                                    $91.12
+DCOO20240436      08/08/2024  JENNA ELIZABETH MAYHEW      07/26/2024  07/26/2024  WASHINGTON DC TO HARRINGTON AND RETURN                                                $123.28
+DCOO20240437      08/07/2024  MARIE C CORDIVANO           07/22/2024  07/22/2024  STAFF TRANSPORTATION                                                                  $225.12
+                  08/07/2024  CHRISTOPHER PAUL HILDRETH   07/26/2024  07/26/2024  WILMINGTON TO HARRINGTON AND RETURN
+DCOO20240438      08/07/2024  KATHERINE B ROHRER          07/20/2024  07/27/2024  STAFF TRANSPORTATION                                                                     $8.50
+DCOO20240439      08/07/2024  KATHERINE B ROHRER          07/30/2024  07/30/2024  WASHINGTON DC TO HARRINGTON AND RETURN                                                  $63.65
+DCOO20240440                                                                      STAFF TRANSPORTATION                                                                    $28.81
+                  08/07/2024  KATHERINE B ROHRER          07/29/2024  07/29/2024  7/20, 21, 23, 24, 25, 26, 27 MARYDEL MD TO HARRINGTON AND RETURN                        $28.81
+DCOO20240443      08/07/2024  KATHERINE B ROHRER          07/16/2024  07/16/2024  STAFF PER DIEM                                                                          $28.07
+DCOO20240444      08/09/2024  MORGAN D WILLIAMS           07/30/2024  07/31/2024  STAFF TRANSPORTATION                                                                  $208.29
+DCOO20240445                                                                      MARYDEL MD TO LAUREL TO DOVER                                                         $218.78
+                  08/21/2024  MORGAN D WILLIAMS           07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                                    $96.34  B-938
+DCOO20240446      08/22/2024  FRANK A RICH III            07/23/2024  07/25/2024  MARYDEL MD TO HARRINGTON TO DOVER                                                     $199.62
+                  08/22/2024  FRANK A RICH III            07/30/2024  07/30/2024  STAFF TRANSPORTATION
+DCOO20240447                                                                      DOVER TO HARRINGTON TO MARYDEL MD                                                        $3.50
+DCOO20240454      08/22/2024  KATHERINE B ROHRER          08/08/2024  08/08/2024  STAFF INCIDENTALS                                                                     $108.00
+DCOO20240458                                                                      STAFF PER DIEM
+DCOO20240469      08/21/2024  KATHERINE B ROHRER          08/06/2024  08/06/2024  STAFF TRANSPORTATION                                                                    $23.90
+DCOO20240470      08/27/2024  CITIBANK - TRAVEL CBA CARD  07/30/2024  07/30/2024  WILMINGTON TO WASHINGTON DC AND RETURN                                                $102.09
+DCOO20240471      08/28/2024  CITIBANK - TRAVEL CBA CARD  07/30/2024  07/30/2024  STAFF TRANSPORTATION
+                  09/06/2024  TYLER G RIVERA              08/13/2024  08/13/2024  WILMINGTON TO HARRINGTON AND RETURN                                                     $53.60
+DCOO20240472      09/09/2024  KRISTA L BRADY              07/25/2024  07/25/2024  STAFF TRANSPORTATION                                                                  $272.00
+DCOO20240473      09/09/2024  KATHERINE B ROHRER          08/15/2024  08/15/2024  7/23, 25 WILMINGTON TO HARRINGTON AND RETURN
+                                                                                  STAFF PER DIEM                                                                        $816.00
+                  09/09/2024  KATHERINE B ROHRER          08/13/2024  08/13/2024  STAFF TRANSPORTATION
+                  09/09/2024  JOSE C AVILA                04/29/2024  04/29/2024  WILMINGTON TO WASHINGTON DC AND RETURN                                                  $20.77
+                                                                                  STAFF PER DIEM                                                                          $81.72
+                                                                                  STAFF TRANSPORTATION                                                                    $20.00
+                                                                                  MARYDEL MD TO NEW CASTLE, WILMINGTON AND RETURN                                         $68.34
+                                                                                  STAFF TRANSPORTATION                                                                    $54.94
+                                                                                  MARYDEL MD TO GEORGETOWN TO DOVER                                                       $14.30
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TRAIN FARE FOR A PURI, M HAMLETT WILMINGTON TO WASHINGTON DC
+                                                                                  AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  TRAIN FARE FOR J KOPPEL, A LAFFERTY, S ALTMAN, J SPARCO, G PHILLIPS,
+                                                                                  I CARTER WILMINGTON TO WASHINGTON DC AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WILMINGTON TO NEWARK AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  WILMINGTON TO HARRINGTON AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  DOVER TO DOVER AFB, LEWES, GEORGETOWN, MILFORD AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  MARYDEL MD TO GEORGETOWN TO DOVER
+                                                                                  STAFF PER DIEM
+

@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE      PAYEE NAME              OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+              POSTED                                         DATES
+                                                                          DALLAS TO COLORADO SPRINGS CO, AURORA CO, DENVER CO AND                    $412.25
+                                                  START       END         RETURN
+                                                                          STAFF TRANSPORTATION                                                         $39.99
+DCRN20240511  06/11/2024  SARAH E JONES           03/15/2024  04/25/2024  HOUSTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $555.88
+DCRN20240512  06/11/2024  WILLIE E MOORER         05/23/2024  05/25/2024  STAFF INCIDENTALS                                                          $898.54
+                                                                          STAFF PER DIEM
+DCRN20240519  06/14/2024  LILLIAN S WALSH         05/28/2024  06/02/2024  STAFF TRANSPORTATION                                                       $352.60   B-954
+DCRN20240520  06/13/2024  TAYLOR D. PUENTE        05/01/2024  05/31/2024  WASHINGTON DC TO HOUSTON AND RETURN                                     $1,048.75
+DCRN20240521  06/13/2024  JOEL D RIEDEL           05/03/2024  05/03/2024  STAFF PER DIEM
+DCRN20240522  06/14/2024  JOEL D RIEDEL           05/09/2024  05/10/2024  STAFF TRANSPORTATION                                                       $158.72
+DCRN20240523  06/14/2024  JOEL D RIEDEL           05/23/2024  05/27/2024  WASHINGTON DC TO AUSTIN, SAN ANTONIO, AUSTIN AND RETURN
+DCRN20240524  06/13/2024  JOEL D RIEDEL           05/29/2024  05/30/2024  STAFF TRANSPORTATION                                                       $182.91
+                                                                          SAN ANTONIO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DCRN20240525  06/14/2024  ANDREA DANIELLE DOOLEY  05/01/2024  05/31/2024  STAFF TRANSPORTATION                                                       $166.40
+DCRN20240530  07/01/2024  SARA H BUTLER           03/09/2024  03/17/2024  LUBBOCK TO ODESSA AND RETURN                                               $585.80
+                                                                          STAFF PER DIEM
+DCRN20240531  06/14/2024  SARA H BUTLER           05/01/2024  05/31/2024  STAFF TRANSPORTATION                                                         $20.89
+DCRN20240532  06/18/2024  WILLIAM R DEWOODY       05/01/2024  05/31/2024  LUBBOCK TO SAN ANTONIO AND RETURN                                          $538.68
+DCRN20240551  07/11/2024  DREW R BRANDEWIE        06/06/2024  06/11/2024  STAFF PER DIEM
+                                                                          STAFF TRANSPORTATION                                                          $2.04
+DCRN20240552  07/03/2024  DAVID D JAMES           06/20/2024  06/21/2024  LUBBOCK TO SAN ANTONIO AND RETURN                                          $102.00
+                                                                          STAFF INCIDENTALS                                                          $281.89
+DCRN20240553  07/03/2024  JILL E WYMAN            04/26/2024  05/27/2024  STAFF PER DIEM
+DCRN20240554  07/02/2024  CLARISSA CASTRO         05/01/2024  05/31/2024  STAFF TRANSPORTATION                                                       $702.16
+DCRN20240555  07/09/2024  DAVID D JAMES           06/11/2024  06/11/2024  LUBBOCK TO SAN ANGELO AND RETURN
+                                                                          STAFF TRANSPORTATION                                                         $82.30
+                                                                          SAN ANTONIO OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $649.30
+                                                                          STAFF INCIDENTALS                                                       $1,142.02
+                                                                          STAFF PER DIEM
+                                                                          STAFF TRANSPORTATION                                                       $354.36
+                                                                          TYLER TO DALLAS, WASHINGTON DC, DALLAS AND RETURN
+                                                                          STAFF TRANSPORTATION                                                       $646.34
+                                                                          TYLER OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                          STAFF TRANSPORTATION                                                       $214.52
+                                                                          TYLER OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $1,906.56
+                                                                          STAFF INCIDENTALS
+                                                                          STAFF PER DIEM                                                               $24.00
+                                                                          STAFF TICKET FEES                                                       $1,303.43
+                                                                          STAFF TRANSPORTATION
+                                                                          WASHINGTON DC TO MORAN WY, YELLOWSTONE NATIONAL PARK WY,                     $41.15
+                                                                          JACKSON WY AND RETURN                                                      $360.83
+                                                                          STAFF INCIDENTALS                                                          $813.72
+                                                                          STAFF PER DIEM
+                                                                          STAFF TRANSPORTATION                                                       $466.85
+                                                                          AUSTIN TO WASHINGTON DC AND RETURN
+                                                                          STAFF TRANSPORTATION                                                       $119.05
+                                                                          AUSTIN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                          STAFF TRANSPORTATION                                                         $33.56
+                                                                          HARLINGEN OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                          STAFF PER DIEM
+

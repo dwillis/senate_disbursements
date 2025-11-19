@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DMCN20241249                  MEGAN M BANKEMPER                                         STAFF TRANSPORTATION                                                          $6.55
+DMCN20241250      09/27/2024  MEGAN M BANKEMPER                 START       END         FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $13.10
+DMCN20241251      09/27/2024  MEGAN M BANKEMPER                                         STAFF TRANSPORTATION                                                         $16.37
+DMCN20241252      09/27/2024  MEGAN M BANKEMPER                 05/03/2024  05/03/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $13.10
+DMCN20241253      09/27/2024  MEGAN M BANKEMPER                                         STAFF TRANSPORTATION                                                         $22.92
+DMCN20241254      09/27/2024  MEGAN M BANKEMPER                 05/07/2024  05/07/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $19.65
+DMCN20241255      09/27/2024  MEGAN M BANKEMPER                                         STAFF TRANSPORTATION
+DMCN20241256      09/27/2024  MEGAN M BANKEMPER                 05/08/2024  05/08/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $9.82
+DMCN20241257      09/27/2024  MEGAN M BANKEMPER                                         STAFF TRANSPORTATION                                                         $16.37
+DMCN20241258      09/27/2024  MEGAN M BANKEMPER                 05/10/2024  05/10/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $22.92
+DMCN20241259      09/27/2024  MEGAN M BANKEMPER                                         STAFF TRANSPORTATION                                                         $13.10
+DMCN20241260      09/27/2024  MEGAN M BANKEMPER                 05/13/2024  05/13/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $13.10
+DMCN20241262      09/27/2024  MEGAN M BANKEMPER                                         STAFF TRANSPORTATION                                                         $26.20
+DMCN20241263      09/27/2024  MEGAN M BANKEMPER                 05/15/2024  05/15/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $22.92
+DMCN20241264      09/27/2024  MEGAN M BANKEMPER                                         STAFF TRANSPORTATION                                                         $13.10
+DMCN20241265      09/27/2024  MEGAN M BANKEMPER                 05/21/2024  05/21/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $16.37
+DMCN20241266      09/27/2024  MEGAN M BANKEMPER                                         STAFF TRANSPORTATION                                                         $31.37
+DMCN20241267      09/27/2024  MEGAN M BANKEMPER                 05/22/2024  05/22/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $39.30
+DMCN20241268      09/27/2024  MEGAN M BANKEMPER                                         STAFF TRANSPORTATION                                                         $19.10
+DMCN20241269      09/27/2024  MEGAN M BANKEMPER                 05/31/2024  05/31/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $13.10
+DMCN20241270      09/27/2024  MEGAN M BANKEMPER                                         STAFF TRANSPORTATION                                                         $16.37
+DMCN20241272      09/27/2024  STEPHANIE H NELSON                05/30/2024  05/30/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $19.65
+DMCN20241273      09/27/2024  STEPHANIE H NELSON                                        STAFF TRANSPORTATION                                                         $15.06
+DMCN20241275      09/27/2024  MEGAN M BANKEMPER                 06/13/2024  06/13/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $18.34  B-1776
+DMCN20241276      09/27/2024  MEGAN M BANKEMPER                                         STAFF TRANSPORTATION                                                         $13.10
+                  09/27/2024                                    06/14/2024  06/14/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $16.37
+                                                                                        STAFF TRANSPORTATION
+                                                                06/20/2024  06/20/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                06/21/2024  06/21/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                06/25/2024  06/25/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                06/26/2024  06/26/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                06/27/2024  06/27/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                07/01/2024  07/01/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                07/18/2024  07/18/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                07/23/2024  07/23/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                07/25/2024  07/25/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                09/24/2024  09/24/2024  LEXINGTON OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                09/25/2024  09/25/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                08/06/2024  08/06/2024  FORT WRIGHT OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+
+                                                                08/07/2024  08/07/2024
+

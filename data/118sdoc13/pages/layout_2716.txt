@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME               OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                          DATES
+DWYD20240706                                                                   PORTLAND TO WILSONVILLE, SILVERTON AND RETURN                                   $40.87
+DWYD20240707                                           START       END         STAFF TRANSPORTATION
+DWYD20240712                                                                   PORTLAND TO FOREST GROVE AND RETURN                                             $51.38
+DWYD20240713      08/20/2024  PECH S SAKHAN            08/06/2024  08/06/2024  STAFF TRANSPORTATION
+DWYD20240714      08/20/2024  BREANNA CHRISTINE IRISH  08/06/2024  08/06/2024  PORTLAND TO FOREST GROVE AND RETURN                                           $202.00
+DWYD20240724      08/27/2024  TOBY P RIFFLE            08/08/2024  08/09/2024  STAFF PER DIEM                                                                $251.92
+DWYD20240725                                                                   STAFF TRANSPORTATION
+                  08/27/2024  TOBY P RIFFLE            08/07/2024  08/07/2024  PORTLAND TO FLORENCE AND RETURN                                                 $35.00
+DWYD20240726                                                                   STAFF PER DIEM                                                                  $75.30
+                  08/26/2024  TOBY P RIFFLE            08/06/2024  08/06/2024  STAFF TRANSPORTATION
+DWYD20240727      09/13/2024  STEPHEN WILLIAM POZGAY   08/23/2024  08/25/2024  PORTLAND TO SILVERTON AND RETURN                                                $56.28
+DWYD20240728                                                                   STAFF TRANSPORTATION
+DWYD20240729      09/14/2024  TOBY P RIFFLE            08/23/2024  08/25/2024  PORTLAND TO FOREST GROVE AND RETURN                                             $28.34
+DWYD20240730                                                                   STAFF INCIDENTALS                                                             $359.24
+DWYD20240731      09/11/2024  KATHLEEN M CATHEY        08/23/2024  08/25/2024  STAFF PER DIEM                                                                          B-2679
+DWYD20240732                                                                   PORTLAND TO PENDLETON, ENTERPRISE, CONDON AND RETURN                            $28.34
+                  09/10/2024  MOLLY ANN MCCARTHY       08/09/2024  08/09/2024  STAFF INCIDENTALS                                                             $346.00
+DWYD20240733      09/12/2024  EMILY R VAN BUREN        08/09/2024  08/09/2024  STAFF PER DIEM                                                                $549.32
+DWYD20240734      09/10/2024  MOLLY ANN MCCARTHY       08/08/2024  08/08/2024  STAFF TRANSPORTATION
+DWYD20240735      09/10/2024  MOLLY ANN MCCARTHY       08/05/2024  08/05/2024  VANCOUVER WA TO PORTLAND, PENDLETON, PORTLAND AND RETURN                        $28.34
+                  09/09/2024  MOLLY ANN MCCARTHY       07/26/2024  07/26/2024  STAFF INCIDENTALS                                                             $279.25
+                  09/11/2024  KATHLEEN M CATHEY        07/24/2024  07/25/2024  STAFF PER DIEM                                                                $215.74
+                                                                               STAFF TRANSPORTATION
+                  09/09/2024  MOLLY ANN MCCARTHY       07/23/2024  07/23/2024  LA GRANDE TO PENDLETON, JOSEPH, PENDLETON, CONDON AND RETURN                    $25.55
+                  09/10/2024  KATHLEEN M CATHEY        07/23/2024  07/23/2024  STAFF PER DIEM                                                                  $91.79
+                                                                               STAFF TRANSPORTATION
+                  09/10/2024  KATHLEEN M CATHEY        07/21/2024  07/21/2024  EUGENE TO FLORENCE AND RETURN                                                 $113.90
+                                                                               STAFF TRANSPORTATION
+                                                                               PORTLAND TO FLORENCE AND RETURN                                                 $33.49
+                                                                               STAFF PER DIEM                                                                  $71.69
+                                                                               STAFF TRANSPORTATION
+                                                                               EUGENE TO PHILOMATH AND RETURN                                                  $34.74
+                                                                               STAFF PER DIEM                                                                $138.02
+                                                                               STAFF TRANSPORTATION
+                                                                               EUGENE TO FLORENCE, PHILOMATH AND RETURN                                        $21.99
+                                                                               STAFF PER DIEM                                                                  $68.34
+                                                                               STAFF TRANSPORTATION
+                                                                               EUGENE TO CORVALLIS AND RETURN                                                  $10.17
+                                                                               STAFF INCIDENTALS                                                             $163.97
+                                                                               STAFF PER DIEM                                                                $233.16
+                                                                               STAFF TRANSPORTATION
+                                                                               LA GRANDE TO LONG CREEK, PRAIRIE CITY, JOHN DAY AND RETURN                      $37.52
+                                                                               STAFF TRANSPORTATION
+                                                                               EUGENE TO CORVALLIS AND RETURN                                                  $14.00
+                                                                               STAFF PER DIEM                                                                $122.61
+                                                                               STAFF TRANSPORTATION
+                                                                               LA GRANDE TO HUNTINGTON AND RETURN                                              $13.00
+                                                                               STAFF PER DIEM                                                                $103.18
+                                                                               STAFF TRANSPORTATION
+                                                                               LA GRANDE TO PENDLETON, UKIAH AND RETURN
+

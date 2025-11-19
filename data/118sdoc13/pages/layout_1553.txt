@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION            AMOUNT ($)
+                   POSTED                                                  DATES
+DKNN20241092                  JOHN S BARR                                               STAFF TRANSPORTATION                                                                   $20.10
+DKNN20241093      06/10/2024  JOHN S BARR                       START       END         SHREVEPORT TO KEITHVILLE AND RETURN                                                    $50.92
+DKNN20241094      06/10/2024  JOHN S BARR                                               STAFF TRANSPORTATION                                                                   $57.62
+DKNN20241095      06/10/2024  JOHN S BARR                       05/03/2024  05/03/2024  SHREVEPORT TO MINDEN AND RETURN                                                        $22.78
+DKNN20241096      06/11/2024  JOHN S BARR                                               STAFF TRANSPORTATION                                                                   $41.54
+DKNN20241097      06/10/2024  JOHN S BARR                       05/06/2024  05/06/2024  SHREVEPORT TO MINDEN AND RETURN                                                        $29.48
+DKNN20241098      06/10/2024  JOHN S BARR                                               STAFF TRANSPORTATION                                                                   $17.42
+DKNN20241099      06/11/2024  JOHN S BARR                       05/07/2024  05/07/2024  SHREVEPORT TO BOSSIER CITY AND RETURN                                                  $22.11
+                  06/12/2024                                                            STAFF TRANSPORTATION                                                                 $105.86
+DKNN20241100                  JOHN S BARR                       05/08/2024  05/08/2024  SHREVEPORT TO GREENWOOD, BOSSIER CITY AND RETURN                                       $18.76
+DKNN20241101      06/11/2024  JOHN S BARR                                               STAFF TRANSPORTATION                                                                   $35.00
+                  06/12/2024                                    05/09/2024  05/09/2024  SHREVEPORT TO BOSSIER CITY, KEITHVILLE AND RETURN                                    $156.78
+DKNN20241102                  JOHN S BARR                                               STAFF TRANSPORTATION                                                                   $17.12
+                  06/11/2024                                    05/13/2024  05/13/2024  SHREVEPORT TO BENTON AND RETURN                                                      $112.56
+DKNN20241103                  JOHN S BARR                                               STAFF PER DIEM                                                                         $50.92
+DKNN20241104      06/11/2024  CAROLINE M THERIOT                05/15/2024  05/15/2024  STAFF TRANSPORTATION                                                                   $52.26
+DKNN20241105      06/11/2024  THOMAS P MARTINEZ                                         SHREVEPORT TO NATCHITOCHES AND RETURN                                                $379.89
+                  06/12/2024                                    05/20/2024  05/20/2024  STAFF TRANSPORTATION
+                                                                                        SHREVEPORT TO KEITHVILLE AND RETURN                                                  $357.11
+                                                                05/21/2024  05/21/2024  STAFF PER DIEM                                                                                 B-1516
+                                                                05/22/2024  05/22/2024  STAFF TRANSPORTATION                                                                   $83.08
+                                                                                        SHREVEPORT TO NATCHITOCHES, MINDEN AND RETURN
+                                                                05/28/2024  05/28/2024  STAFF PER DIEM                                                                         $38.35
+                                                                                        STAFF TRANSPORTATION                                                                   $84.42
+                                                                05/30/2024  05/30/2024  SHREVEPORT TO MANSFIELD, NATCHITOCHES AND RETURN                                       $28.14
+                                                                05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                                   $24.79
+                                                                04/16/2024  05/06/2024  SHREVEPORT TO MINDEN AND RETURN                                                        $57.62
+                                                                                        STAFF TRANSPORTATION
+DKNN20241106      06/12/2024  THOMAS P MARTINEZ                 05/07/2024  05/24/2024  MANDEVILLE TO FRANKLINTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+DKNN20241107      06/11/2024  THOMAS P MARTINEZ                 05/27/2024  05/30/2024  SAINT AMANT TO THE FOLLOWING AND RETURN: 4/16 GONZALES,
+DKNN20241108      06/12/2024  WOODROW J DAIGLE II               05/01/2024  05/01/2024  LIVINGSTON; 4/17 ZACHARY, GONZALES, LIVINGSTON; 4/22 GONZALES; 4/23
+DKNN20241109                                                                            WALKER, LUTCHER, BATON ROUGE; 4/25 DARROW; 4/26 GONZALES; 4/29
+DKNN20241110      06/11/2024  WOODROW J DAIGLE II               05/02/2024  05/02/2024  DONALDSONVILLE, GONZALES; 5/1 DENHAM SPRINGS; 5/2 LIVINGSTON,
+DKNN20241111      06/11/2024  WOODROW J DAIGLE II               05/03/2024  05/03/2024  GONZALES; 5/6 WALKER
+                  06/11/2024  WOODROW J DAIGLE II               05/06/2024  05/06/2024  STAFF TRANSPORTATION
+                                                                                        SAINT AMANT TO THE FOLLOWING AND RETURN: 5/7 DENHAM SPRINGS,
+                                                                                        GONZALES; 5/8, 15 ZACHARY; 5/9 GONZALES, DENHAM SPRINGS; 5/13
+                                                                                        GONZALES; 5/14, 24 DENHAM SPRINGS; 5/16 WALKER; 5/20 PLAQUEMINE; 5
+                                                                                        /22 GONZALES, SAINT GABRIEL
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SAINT AMANT TO THE FOLLOWING AND RETURN: 5/27, 30 GONZALES, 5/28
+                                                                                        LIVINGSTON, GONZALES, 5/29 LUTCHER
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAKE CHARLES TO DERIDDER AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAKE CHARLES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAKE CHARLES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+

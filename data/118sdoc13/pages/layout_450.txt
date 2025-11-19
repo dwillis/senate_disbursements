@@ -1,0 +1,85 @@
+    DOCUMENT NO.     DATE                   PAYEE NAME          OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+VSAA22407051                                                                            AUDIO, VISUAL EQUIP MAINT                                               $1,049.96
+VSAA22407052      09/16/2024                                    START       END         TECHNICAL SUPPORT                                                    $186,553.27
+VSAA22407053      07/24/2024                                                            APPLICATION SOFTWARE MAINT
+VSAA22407057      07/23/2024  K2 AUDIO, LLC                     06/01/2024  06/30/2024  MANAGEMENT CONSULTANTS                                                  $8,702.25
+VSAA22407058      07/23/2024  PERATON INC.                      05/25/2024  06/28/2024  MANAGEMENT CONSULTANTS                                                  $6,343.00
+VSAA22407089      07/23/2024  PERATON ENTERPRISE SOLUTIONS      06/01/2024  06/30/2024  SERVICE CHARGES & OTHER FEES                                            $7,089.23
+VSAA22407100      07/29/2024  ALTERION INC                      05/01/2024  05/31/2024  TECHNICAL SUPPORT
+VSAA22407113      07/23/2024  ALTERION INC                      06/01/2024  06/30/2024  APPLICATION SOFTWARE MAINT                                                   $46.00
+VSAA22407149      07/19/2024  FISHER SCIENTIFIC CO              05/30/2024  05/30/2024  APPLICATION SOFTWARE MAINT                                             $95,177.94
+VSAA22407170      07/24/2024  PERATON ENTERPRISE SOLUTIONS      06/01/2024  06/30/2024  APPLICATION SOFTWARE MAINT                                             $70,801.61
+VSAA22407177      09/11/2024  CARAHSOFT TECHNOLOGY CORPORATION  06/01/2024  06/30/2024  VOICE, DATA COMM EQP MAINT                                           $345,048.00
+VSAA22407181      07/29/2024  LEIDOS DIGITAL SOLUTIONS INC      06/01/2024  06/30/2024  APPLICATION SOFTWARE MAINT
+                  07/24/2024  SCL HOLDINGS INC                  05/21/2024  05/21/2024  PRODUCTION EQUIP MAINT                                                  $6,576.49
+VSAA22407189                  ANIXTER INC                       10/23/2023  10/23/2023  PRODUCTION EQUIP MAINT                                                       $24.10
+VSAA22407190      08/06/2024  EDAC SYSTEMS INC                  07/15/2024  09/30/2024  PRODUCTION EQUIP MAINT
+VSAA22407210      08/14/2024                                                            PHYSICAL SECURITY                                                       $1,138.00
+VSAA22407216      08/06/2024  XEROX CORPORATION                 04/01/2024  06/30/2024  VOICE, DATA COMM EQP MAINT                                             $10,800.00
+VSAA22407231      08/06/2024                                    03/28/2024  03/28/2024  TECHNICAL SUPPORT
+VSAA22407233      08/06/2024  METRO PRINTING EQUIPMENT INC      06/01/2024  06/30/2024  VOICE, DATA COMM EQP MAINT                                              $1,018.08
+VSAA22407237      07/29/2024                                    07/03/2024  07/03/2024  PHYSICAL SECURITY                                                          $735.00
+VSAA22407238      08/08/2024  JOHNSON CONTROLS                  07/12/2024  07/12/2024  VOICE, DATA COMM EQP MAINT
+VSAA22407242      08/02/2024                                    10/11/2023  10/11/2023  TRAIN/ORIENT/CONFERENCE FEES                                           $69,009.42
+VSAA22407247      09/06/2024  BATTERY LIFE, LLC                 05/01/2024  05/31/2024  VOICE, DATA COMM EQP MAINT                                              $1,900.00
+VSAA22407250      07/31/2024                                    07/01/2024  07/01/2024  FEDERAL - MONITOR, GUARD SVC                                            $1,100.00
+VSAA22407252      08/23/2024  MASLOW MEDIA GROUP INC            07/19/2024  07/19/2024  FEDERAL - MONITOR, GUARD SVC                                               $195.00
+VSAA22407253      08/23/2024                                    10/18/2023  10/18/2023  FEDERAL - MONITOR, GUARD SVC
+VSAA22407287      09/03/2024  ACME PAPER & SUPPLY CO INC        05/01/2024  05/31/2024  APPLICATION SOFTWARE MAINT                                             $69,009.42
+VSAA22407295      08/09/2024                                    06/01/2024  06/30/2024  PRODUCTION EQUIP MAINT                                                  $6,444.02
+VSAA22407299      08/13/2024  JOHNSON CONTROLS                  07/01/2024  07/31/2024  PHYSICAL SECURITY                                                       $9,975.00
+VSAA22407300      08/06/2024                                    07/01/2024  07/31/2024  VOICE, DATA COMM EQP MAINT                                              $2,326.20
+VSAA22407301      08/06/2024  RED RIVER TECHNOLOGY LLC          10/17/2023  10/17/2023  PRODUCTION EQUIP MAINT                                                               B-432
+                  08/14/2024                                    05/01/2024  05/01/2024                                                                         $60,848.84
+VSAA22407306                  MOMENTA GROUP, LLC                10/23/2023  10/23/2023  MANAGEMENT CONSULTANTS                                                 $60,868.47
+                  08/23/2024                                    07/01/2024  07/01/2024                                                                         $64,615.56
+VSAA22407307                  ACCU TECH CORPORATION                                     MANAGEMENT CONSULTANTS                                                 $58,204.58
+                  08/23/2024                                    06/13/2024  07/12/2024
+VSAA22407308                  DEPARTMENT OF HOMELAND SECURITY                           IT SECURITY                                                                $844.00
+                  08/23/2024                                    06/13/2024  07/12/2024                                                                          $1,150.00
+VSAA22407309                  DEPARTMENT OF HOMELAND SECURITY                           IT SECURITY
+                  08/23/2024                                    06/13/2024  07/12/2024                                                                             $326.75
+VSAA22407311                  DEPARTMENT OF HOMELAND SECURITY                           MANAGEMENT CONSULTANTS                                                  $3,841.52
+                  08/23/2024                                    06/09/2024  07/08/2024
+VSAA22407335                  THIRDERA LLC                                              SERVICE CHARGES & OTHER FEES                                         $243,749.68
+VSAA22407350      08/07/2024                                    06/16/2024  07/15/2024  IT SECURITY
+VSAA22407351      08/15/2024  ALLIANCE MATERIAL HANDLING INC                            APPLICATION SOFTWARE MAINT                                             $31,853.70
+VSAA22407354      08/05/2024                                    06/11/2024  06/11/2024  APPLICATION SOFTWARE MAINT
+VSAA22407360      08/27/2024  DEPARTMENT OF HOMELAND SECURITY   08/01/2024  07/31/2025  APPLICATION SOFTWARE MAINT                                             $53,588.44
+VSAA22407361      08/02/2024                                    05/16/2024  05/16/2024  APPLICATION SOFTWARE MAINT
+VSAA22407362      08/06/2024  ANIXTER INC                       07/19/2024  07/19/2024  APPLICATION SOFTWARE MAINT                                             $26,975.67
+VSAA22407363      09/13/2024                                    06/01/2024  06/30/2024  APPLICATION SOFTWARE MAINT
+VSAA22407364      08/15/2024  BOTTCHER AMERICA CORPORATION      06/01/2024  06/30/2024  APPLICATION SOFTWARE MAINT                                             $83,189.36
+VSAA22407369      08/02/2024                                    06/01/2024  06/30/2024  APPLICATION SOFTWARE MAINT
+                  08/13/2024  SPECIAL AEROSPACE  SECURITY       06/01/2024  06/30/2024                                                                             $463.81
+                              SERVICES, INC      SECURITY       05/01/2024  05/31/2024                                                                       $705,000.00
+                              SPECIAL AEROSPACE  SECURITY       06/01/2024  06/30/2024
+                              SERVICES, INC      SECURITY                                                                                                       $1,500.00
+                              SPECIAL AEROSPACE  SECURITY                                                                                                    $384,717.16
+                              SERVICES, INC
+                              SPECIAL AEROSPACE                                                                                                                      $62.00
+                              SERVICES, INC                                                                                                                          $93.00
+                              SPECIAL AEROSPACE                                                                                                                      $31.00
+                              SERVICES, INC                                                                                                                          $62.00
+                                                                                                                                                                     $62.00
+                              PERATON ENTERPRISE SOLUTIONS                                                                                                           $93.00
+
+                              WHITEHAWK CEC INC
+
+                              ZEALOUS LLC
+
+                              CLEARSHARK LLC
+
+                              LEIDOS DIGITAL SOLUTIONS INC
+
+                              LEIDOS DIGITAL SOLUTIONS INC
+
+                              LEIDOS DIGITAL SOLUTIONS INC
+
+                              LEIDOS DIGITAL SOLUTIONS INC
+
+                              LEIDOS DIGITAL SOLUTIONS INC
+
+                              LEIDOS DIGITAL SOLUTIONS INC
+

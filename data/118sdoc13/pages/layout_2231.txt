@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+                  POSTED                                              DATES
+DSDR20240346                                                                       AIRFARE FOR SEN SANDERS BURLINGTON TO WASHINGTON DC                                 $293.10
+DSDR20240347                                               START       END         SENATOR TRANSPORTATION                                                                $47.57
+DSDR20240348                                                                       AIRFARE FOR SEN SANDERS WASHINGTON DC TO BURLINGTON
+                  06/18/2024  CITIBANK - SENATOR IBA CARD  05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                                $131.32
+DSDR20240349      06/14/2024  PRINCESS-BETH N AWHAITEY     03/23/2024  03/23/2024  COLCHESTER TO JAY AND RETURN
+DSDR20240350      06/18/2024  ELIZABETH ALMA STERN         05/17/2024  05/22/2024  STAFF TRANSPORTATION                                                                  $64.45
+                                                                                   PLAINFIELD TO THE FOLLOWING AND RETURN: 5/17 WEST BURKE, 5/21                         $21.98
+DSDR20240351      06/14/2024  PRINCESS-BETH N AWHAITEY     03/08/2024  03/08/2024  BARRE, FAIRLEE; 5/22 BURLINGTON TO COLCHESTER AND RETURN                            $122.14
+DSDR20240353      06/18/2024  PRINCESS-BETH N AWHAITEY     05/09/2024  05/09/2024  STAFF TRANSPORTATION                                                                  $57.41
+DSDR20240354                                                                       COLCHESTER TO JOHNSON AND RETURN                                                      $90.45
+DSDR20240355      06/14/2024  PRINCESS-BETH N AWHAITEY     02/29/2024  02/29/2024  STAFF PER DIEM                                                                        $39.66
+                  07/08/2024  HALEY E PERO                 05/27/2024  05/27/2024  STAFF TRANSPORTATION                                                                  $76.38
+DSDR20240356      07/08/2024  JACOB J CERNAK               06/25/2024  06/25/2024  COLCHESTER TO CHITTENDEN, CENTER RUTLAND AND RETURN
+DSDR20240357      07/08/2024  RYAN M JOSEPH                06/25/2024  06/25/2024  STAFF TRANSPORTATION                                                                  $60.30
+DSDR20240358                                                                       COLCHESTER TO SAINT ALBANS, SAINT ALBANS BAY, FAIRFAX AND RETURN                      $32.16
+DSDR20240359      07/08/2024  RYAN M JOSEPH                06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                                  $73.03  B-2194
+DSDR20240360      07/08/2024  RYAN M JOSEPH                06/24/2024  06/24/2024  BARRE TO MIDDLEBURY, VERGENNES AND RETURN                                             $40.20
+DSDR20240361      07/08/2024  RYAN M JOSEPH                06/05/2024  06/05/2024  STAFF TRANSPORTATION                                                                  $32.16
+DSDR20240362      07/08/2024  RYAN M JOSEPH                05/22/2024  05/22/2024  BURLINGTON TO SAINT ALBANS AND RETURN                                                 $66.33
+DSDR20240363      07/08/2024  RYAN M JOSEPH                05/02/2024  05/02/2024  STAFF TRANSPORTATION                                                                  $46.23
+DSDR20240364      07/08/2024  RYAN M JOSEPH                04/02/2024  04/02/2024  BURLINGTON TO HIGHGATE SPRINGS, FAIRFIELD, FAIRFAX, SAINT ALBANS                      $94.47
+DSDR20240365      07/08/2024  RYAN M JOSEPH                03/28/2024  03/28/2024  AND RETURN                                                                          $712.19
+DSDR20240366      07/08/2024  RYAN M JOSEPH                03/19/2024  03/19/2024  STAFF TRANSPORTATION                                                                  $96.10
+DSDR20240368      07/19/2024  CITIBANK - TRAVEL CBA CARD   04/19/2024  04/21/2024  BURLINGTON TO MORRISVILLE AND RETURN                                                $828.10
+                  07/15/2024  CITIBANK - TRAVEL CBA CARD   04/11/2024  04/11/2024  STAFF TRANSPORTATION                                                                $227.80
+DSDR20240369      07/15/2024  CITIBANK - TRAVEL CBA CARD   04/12/2024  04/12/2024  BURLINGTON TO MIDDLEBURY AND RETURN
+DSDR20240377      07/17/2024  ELIZABETH ALMA STERN         06/12/2024  06/28/2024  STAFF TRANSPORTATION                                                                  $63.65
+                                                                                   BURLINGTON TO RUTLAND AND RETURN                                                    $293.10
+                  07/16/2024  RYAN M JOSEPH                07/01/2024  07/01/2024  STAFF TRANSPORTATION
+                  07/17/2024  CITIBANK - SENATOR IBA CARD  06/10/2024  06/10/2024  BURLINGTON TO CHITTENDEN, RUTLAND AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BURLINGTON TO WATERBURY AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BURLINGTON TO CAMBRIDGE, MORRISVILLE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BURLINGTON TO MIDDLEBURY AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BURLINGTON TO POULTNEY AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   AIRFARE FOR N LASERNA WASHINGTON DC TO BURLINGTON AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   AIRFARE FOR T CHAMPION WASHINGTON DC TO BOSTON MA
+                                                                                   STAFF TRANSPORTATION
+                                                                                   AIRFARE FOR T CHAMPION BOSTON MA TO WASHINGTON DC
+                                                                                   STAFF TRANSPORTATION
+                                                                                   PLAINFIELD TO THE FOLLOWING AND RETURN: 6/12, 20, 28 MONTPELIER; 6
+                                                                                   /13 MORRISVILLE; 6/18 LUDLOW; 6/25 BARRE
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BURLINGTON TO HYDE PARK, MORRISVILLE AND RETURN
+                                                                                   SENATOR TRANSPORTATION
+

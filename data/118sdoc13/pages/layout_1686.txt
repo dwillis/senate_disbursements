@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DLUJ20240211                  NICHOLAS DEWHANE MCKENZIE                                 STAFF TRANSPORTATION                                                         $39.53
+DLUJ20240212      05/28/2024  CONSTANCE J WHITE-WILLIAMS        START       END         SANTA FE TO NAMBE AND RETURN                                                 $26.96
+                  05/15/2024                                                            STAFF PER DIEM                                                             $136.01
+DLUJ20240213                  CONSTANCE J WHITE-WILLIAMS        04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                         $50.78
+                  05/16/2024                                                            CLOVIS TO ROSWELL TO PORTALES                                              $237.85
+DLUJ20240214                  NICHOLAS DEWHANE MCKENZIE         04/12/2024  04/12/2024  STAFF PER DIEM                                                               $38.99
+DLUJ20240218      05/28/2024  CONSTANCE J WHITE-WILLIAMS                                STAFF TRANSPORTATION                                                         $24.37
+                  06/03/2024                                    04/17/2024  04/17/2024  CLOVIS TO CARLSBAD TO PORTALES                                             $227.80
+DLUJ20240221                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                       $550.10
+DLUJ20240222      05/21/2024  CITIBANK - TRAVEL CBA CARD        05/02/2024  05/02/2024  SANTA FE TO NAMBE AND RETURN                                               $554.60
+DLUJ20240223      05/21/2024  CITIBANK - TRAVEL CBA CARD        05/07/2024  05/07/2024  STAFF PER DIEM                                                             $123.10
+DLUJ20240224      05/21/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                         $52.20
+DLUJ20240225      05/22/2024  MELANIE R GOODMAN                 04/29/2024  04/29/2024  PORTALES TO CARLSBAD AND RETURN                                              $60.30  B-1649
+DLUJ20240226      05/29/2024  MELANIE R GOODMAN                 05/02/2024  05/02/2024  SENATOR TRANSPORTATION                                                     $103.85
+DLUJ20240227      06/03/2024  MELANIE R GOODMAN                 05/07/2024  05/07/2024  AIRFARE FOR SEN LUJAN SANTA FE TO WASHINGTON DC                              $18.00
+                  06/03/2024                                    05/07/2024  05/07/2024  SENATOR TRANSPORTATION                                                     $166.83
+DLUJ20240228                  MELANIE R GOODMAN                 03/22/2024  03/22/2024  AIRFARE FOR SEN LUJAN WASHINGTON DC TO SANTA FE                              $50.25
+DLUJ20240229      05/28/2024  MELANIE R GOODMAN                 03/27/2024  03/27/2024  SENATOR TRANSPORTATION                                                       $55.61
+DLUJ20240230      05/28/2024  MELANIE R GOODMAN                 04/19/2024  04/19/2024  AIRFARE FOR SEN LUJAN SANTA FE TO WASHINGTON DC                              $54.27
+DLUJ20240231      05/28/2024  BRIAN A LEE                                               STAFF TRANSPORTATION                                                       $151.42
+DLUJ20240232      06/11/2024  BRIAN A LEE                       05/01/2024  05/01/2024  RENTAL AUTO FOR B LEE FARMINGTON TO GALLUP AND RETURN                        $25.32
+DLUJ20240233      06/11/2024  BRIAN A LEE                       05/03/2024  05/03/2024  STAFF TRANSPORTATION                                                         $22.03
+                  06/12/2024                                    05/04/2024  05/04/2024  LAS CRUCES TO SANTA TERESA AND RETURN                                      $227.00
+DLUJ20240234                                                    04/23/2024  04/23/2024  STAFF TRANSPORTATION                                                         $53.43
+DLUJ20240235                                                    05/07/2024  05/07/2024  LAS CRUCES TO TRUTH OR CONSEQUENCES AND RETURN                               $89.78
+DLUJ20240236                                                    05/09/2024  05/11/2024  STAFF PER DIEM                                                               $93.80
+DLUJ20240237                                                                            STAFF TRANSPORTATION                                                         $77.05
+                  05/28/2024  BRIAN A LEE                       05/08/2024  05/08/2024  LAS CRUCES TO HATCH, SILVER CITY AND RETURN                                  $36.85
+                  05/28/2024  RENE ROMO                         05/10/2024  05/10/2024  STAFF TRANSPORTATION
+                  05/28/2024  RENE ROMO                         05/17/2024  05/17/2024  LAS CRUCES TO ANTHONY AND RETURN
+                  05/28/2024  NICHOLAS DEWHANE MCKENZIE         05/20/2024  05/20/2024  STAFF TRANSPORTATION
+                                                                                        LAS CRUCES TO SUNLAND PARK AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAS CRUCES TO HATCH AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FARMINGTON TO GALLUP AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FARMINGTON TO GALLUP AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FARMINGTON TO ALBUQUERQUE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        FARMINGTON TO COUNSELOR AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAS CRUCES TO ALAMOGORDO AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LAS CRUCES TO HOLLOMAN AIR FORCE BASE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        SANTA FE TO NAMBE AND RETURN
+

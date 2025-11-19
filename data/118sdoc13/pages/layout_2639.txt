@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                   OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                              DATES
+DWRR20240426                                                                       SPRINGFIELD TO PITTSFIELD AND RETURN                                         $98.62
+DWRR20240427                                               START       END         STAFF TRANSPORTATION                                                         $57.62
+DWRR20240428                                                                       SPRINGFIELD TO NORTH ADAMS AND RETURN                                      $100.50
+DWRR20240429      05/03/2024  MARK ANTONIO WILLIAMS        04/12/2024  04/12/2024  STAFF TRANSPORTATION                                                         $85.42
+DWRR20240430      05/03/2024  MARK ANTONIO WILLIAMS        04/08/2024  04/08/2024  SPRINGFIELD TO LEE AND RETURN                                              $121.53
+DWRR20240431      05/07/2024  MARK ANTONIO WILLIAMS        04/02/2024  04/02/2024  STAFF TRANSPORTATION                                                         $52.93
+DWRR20240432      05/03/2024  CALEB R WHITE                04/26/2024  04/26/2024  SPRINGFIELD TO DEVENS AND RETURN                                             $44.86
+                  05/07/2024  JILLIAN M HAGBOURNE APPLING  04/17/2024  04/17/2024  STAFF TRANSPORTATION                                                       $406.13
+                  05/06/2024  JILLIAN M HAGBOURNE APPLING  04/26/2024  04/26/2024  BOSTON TO NEW BEDFORD TO SOMERVILLE                                        $170.32
+                  06/04/2024  IMANI R FRANKLIN             04/06/2024  04/10/2024  STAFF TRANSPORTATION
+                                                                                   SPRINGFIELD TO BOSTON AND RETURN                                           $138.03
+DWRR20240436      05/13/2024  MEAGHAN E BODY               04/05/2024  04/08/2024  STAFF TRANSPORTATION                                                       $483.94   B-2602
+                                                                                   SPRINGFIELD TO SOUTHBRIDGE AND RETURN
+DWRR20240439      05/15/2024  MARK ANTONIO WILLIAMS        04/26/2024  04/26/2024  STAFF INCIDENTALS                                                            $53.60
+DWRR20240440      05/20/2024  MARK ANTONIO WILLIAMS        04/24/2024  04/24/2024  STAFF PER DIEM                                                             $121.53
+DWRR20240441      05/28/2024  MARK ANTONIO WILLIAMS        05/13/2024  05/13/2024  STAFF TRANSPORTATION
+DWRR20240442      05/28/2024  CALEB R WHITE                04/30/2024  04/30/2024  WASHINGTON DC TO BOSTON, CAMBRIDGE, CHELSEA, DORCHESTER,                     $76.38
+DWRR20240443      05/28/2024  CALEB R WHITE                05/10/2024  05/10/2024  BOSTON AND RETURN                                                            $79.39
+DWRR20240444      05/28/2024  YEJI LEE                     05/10/2024  05/10/2024  STAFF PER DIEM                                                               $93.39
+DWRR20240445      05/28/2024  YEJI LEE                     05/14/2024  05/14/2024  STAFF TRANSPORTATION                                                         $28.07
+DWRR20240446      05/28/2024  YEJI LEE                     04/18/2024  04/18/2024  WASHINGTON DC TO BOSTON, CAMBRIDGE, BOSTON AND RETURN                        $62.24
+DWRR20240451      06/10/2024  JILLIAN M HAGBOURNE APPLING  05/28/2024  05/28/2024  STAFF TRANSPORTATION                                                         $66.73
+DWRR20240452      06/10/2024  YEJI LEE                     05/21/2024  05/21/2024  SPRINGFIELD TO SOUTHBRIDGE AND RETURN                                      $121.53
+DWRR20240453      06/10/2024  CALEB R WHITE                05/17/2024  05/17/2024  STAFF TRANSPORTATION                                                         $72.36
+DWRR20240454      06/10/2024  CALEB R WHITE                05/18/2024  05/18/2024  SPRINGFIELD TO BOSTON AND RETURN                                           $110.01
+DWRR20240455      06/10/2024  CALEB R WHITE                05/23/2024  05/23/2024  STAFF TRANSPORTATION                                                         $78.12
+DWRR20240456      06/10/2024  CALEB R WHITE                05/24/2024  05/24/2024  SPRINGFIELD TO PITTSFIELD AND RETURN                                         $92.92
+DWRR20240458      06/11/2024  CITIBANK - TRAVEL CBA CARD   04/20/2024  04/20/2024  STAFF TRANSPORTATION                                                         $95.47
+                                                                                   BOSTON TO BOURNE TO SOMERVILLE                                             $588.70
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SOMERVILLE TO BARNSTABLE AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   CAMBRIDGE TO FRAMINGHAM TO BOSTON
+                                                                                   STAFF TRANSPORTATION
+                                                                                   CAMBRIDGE TO WORCESTER TO BOSTON
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BOSTON TO WORCESTER TO CAMBRIDGE
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SPRINGFIELD TO BOSTON AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   CAMBRIDGE TO WORCESTER, NATICK, WALTHAM AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SOMERVILLE TO BARNSTABLE, FALMOUTH AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SOMERVILLE TO SANDWICH AND RETURN
+                                                                                   STAFF TRANSPORTATION
+                                                                                   BOSTON TO FALMOUTH TO SOMERVILLE
+                                                                                   STAFF TRANSPORTATION
+                                                                                   SOMERVILLE TO FALMOUTH AND RETURN
+                                                                                   SENATOR TRANSPORTATION
+

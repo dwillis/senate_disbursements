@@ -1,0 +1,54 @@
+DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+              POSTED                                             DATES
+                                                                              WASHINGTON DC TO STAMFORD, HARTFORD, NORWICH, NEW YORK NY                        $75.30
+                                                      START       END         AND RETURN                                                                     $806.34
+                                                                              STAFF INCIDENTALS                                                              $730.87
+DMRP20240712  06/11/2024  ALEXANDER E MUKAI           05/26/2024  05/30/2024  STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION                                                           $442.20
+DMRP20240713  06/11/2024  CITIBANK - TRAVEL CBA CARD  05/26/2024  05/30/2024  WASHINGTON DC TO WINDSOR LOCKS, HARTFORD, NORWICH, WINDSOR                       $80.00  B-1893
+DMRP20240714  06/11/2024  KENNETH J CURRAN            05/30/2024  05/30/2024  LOCKS AND RETURN                                                                 $73.29
+DMRP20240715  06/12/2024  JAMESON B FOULKE            05/27/2024  05/30/2024  STAFF TRANSPORTATION
+DMRP20240716  06/11/2024  ERIN E MCBRIDE              06/04/2024  06/04/2024  TICKET FEES                                                                    $117.25
+DMRP20240717  06/11/2024  ERIN E MCBRIDE              06/03/2024  06/03/2024  AIRFARE FOR A MUKAI WASHINGTON DC TO WINDSOR LOCKS AND RETURN
+DMRP20240718  06/11/2024  ERIN E MCBRIDE              05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                             $52.26
+DMRP20240719  06/11/2024  ERIN E MCBRIDE              05/28/2024  05/28/2024  HARTFORD TO MYSTIC AND RETURN                                                    $75.71
+DMRP20240720  06/11/2024  ERIN E MCBRIDE              05/29/2024  05/29/2024  STAFF TRANSPORTATION                                                             $36.32
+DMRP20240721  06/11/2024  ZOZAN ANTAR                 05/30/2024  05/30/2024  WEST HARTFORD TO THE FOLLOWING AND RETURN: 5/27, 28, 29                          $32.16
+DMRP20240723  06/18/2024  DRAGO, REBECCA L            06/03/2024  06/04/2024  HARTFORD; 5/30 HARTFORD, WINDSOR LOCKS                                           $17.96
+                                                                              STAFF TRANSPORTATION                                                             $47.57
+DMRP20240724  06/12/2024  SARAH MICHELLE LOPEZ        06/03/2024  06/03/2024  QUAKER HILL TO HAMPTON TO HARTFORD                                               $15.96
+DMRP20240725  06/12/2024  SARAH MICHELLE LOPEZ        05/30/2024  05/30/2024  STAFF TRANSPORTATION                                                             $20.10
+DMRP20240728  06/13/2024  CITIBANK - TRAVEL CBA CARD  05/23/2024  05/23/2024  HARTFORD TO COLCHESTER, MADISON, OLD SAYBROOK TO QUAKER HILL                     $23.00
+                                                                              STAFF PER DIEM                                                                   $69.68
+DMRP20240729  06/17/2024  CITIBANK - TRAVEL CBA CARD  06/02/2024  06/02/2024  STAFF TRANSPORTATION                                                             $19.95
+DMRP20240730  06/17/2024  CITIBANK - TRAVEL CBA CARD  06/03/2024  06/04/2024  QUAKER HILL TO LEDYARD, MYSTIC AND RETURN                                      $184.23
+                                                                              STAFF PER DIEM                                                                 $717.39
+DMRP20240731  06/14/2024  ALLISON HERWITT             06/03/2024  06/04/2024  STAFF TRANSPORTATION
+                                                                              QUAKER HILL TO NORWICH, COVENTRY, WINDHAM AND RETURN                             $26.13
+                                                                              STAFF PER DIEM                                                                   $47.57
+                                                                              STAFF TRANSPORTATION                                                           $236.00
+                                                                              QUAKER HILL TO NORWICH AND RETURN                                                $40.00
+                                                                              STAFF PER DIEM                                                                 $313.00
+                                                                              STAFF TRANSPORTATION                                                           $648.95
+                                                                              HARTFORD TO MYSTIC AND RETURN
+                                                                              STAFF INCIDENTALS                                                                $76.35
+                                                                              STAFF PER DIEM                                                                 $327.65
+                                                                              STAFF TRANSPORTATION
+                                                                              WASHINGTON DC TO WINDSOR LOCKS, HARTFORD, WINDSOR LOCKS AND                      $88.90
+                                                                              RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              BRIDGEPORT TO GREENWICH AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              BRIDGEPORT TO MYSTIC AND RETURN
+                                                                              STAFF TRANSPORTATION
+                                                                              TICKET FEES
+                                                                              TRAIN FARE FOR A LIVINGSTON WASHINGTON DC TO STAMFORD
+                                                                              STAFF TRANSPORTATION
+                                                                              TRAIN FARE FOR A LIVINGSTON NEW YORK NY TO WASHINGTON DC
+                                                                              STAFF TRANSPORTATION
+                                                                              AIRFARE FOR A HERWITT WASHINGTON DC TO WINDSOR LOCKS AND
+                                                                              RETURN
+                                                                              STAFF INCIDENTALS
+                                                                              STAFF PER DIEM
+                                                                              STAFF TRANSPORTATION
+

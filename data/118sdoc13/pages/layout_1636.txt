@@ -1,0 +1,54 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DLNK20240928                  MACKENZIE J SAVALA                                        STAFF TRANSPORTATION                                                            $101.84
+DLNK20240929      07/15/2024  MACKENZIE J SAVALA                START       END         TULSA TO TAHLEQUAH AND RETURN                                                     $73.70
+DLNK20240931      07/15/2024  PEYTON G BURNS                                            STAFF TRANSPORTATION                                                              $42.59
+DLNK20240932      07/15/2024  PEYTON G BURNS                    06/20/2024  06/20/2024  TULSA TO PRYOR AND RETURN                                                         $84.42
+DLNK20240933      07/17/2024  PEYTON G BURNS                                            STAFF TRANSPORTATION
+DLNK20240934      07/15/2024  JAMES S CARSON                    06/26/2024  06/26/2024  STILLWATER TO OKLAHOMA CITY AND RETURN                                          $132.66
+DLNK20240935      07/15/2024  JAMES S CARSON                                            STAFF TRANSPORTATION                                                              $57.62
+DLNK20240936      07/15/2024  JAMES S CARSON                    06/25/2024  06/25/2024  STILLWATER TO TULSA AND RETURN                                                    $44.89
+DLNK20240940      07/15/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                              $56.95
+DLNK20240941      07/15/2024  CITIBANK - TRAVEL CBA CARD        06/26/2024  06/26/2024  STILLWATER TO SEILING AND RETURN                                                  $40.00
+DLNK20240942      07/15/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                              $40.00
+DLNK20240944      07/15/2024  EAN SERVICES LLC                  06/27/2024  06/27/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DLNK20240945      07/16/2024  EAN SERVICES LLC                                          STAFF TRANSPORTATION                                                            $150.10
+                  07/16/2024                                    07/02/2024  07/02/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $244.59
+DLNK20240946                  EAN SERVICES LLC                                          STAFF TRANSPORTATION                                                            $210.67
+                  07/16/2024                                    07/03/2024  07/03/2024  OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DLNK20240947                                                                            TICKET FEES                                                                     $206.67
+DLNK20240948                                                    07/07/2024  07/07/2024  TICKET FEES
+                                                                                        SENATOR TRANSPORTATION                                                          $165.88
+DLNK20240949                                                    07/02/2024  07/02/2024  AIRFARE FOR SEN LANKFORD WASHINGTON DC TO OKLAHOMA CITY                         $168.28
+DLNK20240950                                                    06/26/2024  06/26/2024  STAFF TRANSPORTATION
+DLNK20240954                                                    06/21/2024  06/21/2024  RENTAL AUTO FOR M ALTMAN IN AND AROUND OKLAHOMA CITY                              $56.00
+DLNK20240955                                                                            STAFF TRANSPORTATION                                                            $121.94
+DLNK20240957                                                    06/23/2024  06/26/2024  RENTAL AUTO FOR P BURNS STILLWATER TO GARBER, ENID, OKLAHOMA                              B-1599
+DLNK20240958                                                                            CITY, GUTHRIE, CRESCENT AND RETURN                                                $87.77
+                                                                06/21/2024  06/26/2024  STAFF TRANSPORTATION                                                              $89.11
+DLNK20240959                                                                            RENTAL AUTO FOR J CARSON AS FOLLOWS: 6/17 OKLAHOMA CITY TO                      $179.10
+                                                                06/17/2024  06/21/2024  LAWTON AND RETURN; 6/18, 21 OKLAHOMA CITY OFFICE:                               $357.78
+                                                                                        INTERDEPARTMENTAL TRANSPORTATION
+                  07/17/2024  EAN SERVICES LLC                  06/24/2024  06/24/2024  STAFF TRANSPORTATION                                                              $16.08
+                  07/16/2024  EAN SERVICES LLC                  06/24/2024  06/28/2024  RENTAL AUTO FOR J SHARUM TULSA TO OKLAHOMA CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                  07/17/2024  NATALIE MORGAN IHRMAN             06/21/2024  06/21/2024  RENTAL AUTO FOR J CARSON AS FOLLOWS: 6/24 YUKON TO TULSA,
+                  07/17/2024  MACKENZIE J SAVALA                07/03/2024  07/03/2024  LAWTON, EL RENO, MUSTANG AND RETURN; 6/24, 25 OKLAHOMA CITY
+                  07/17/2024  PEYTON G BURNS                    07/02/2024  07/02/2024  OFFICE: INTERDEPARTMENTAL TRANSPORTATION; 6/26 OKLAHOMA CITY
+                  07/17/2024  PEYTON G BURNS                    07/03/2024  07/03/2024  TO TULSA AND RETURN; 6/27 OKLAHOMA CITY TO LAWTON AND RETURN
+                  07/18/2024  CITIBANK - TRAVEL CBA CARD        07/08/2024  07/08/2024  STAFF TRANSPORTATION
+                  07/18/2024  LARAMIE ANN COCHRAN               06/12/2024  06/13/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                  07/17/2024  LARAMIE ANN COCHRAN               06/18/2024  06/18/2024  TULSA TO OKLAHOMA CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        STILLWATER TO OKLAHOMA CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        STILLWATER TO ENID, PERRY AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN LANKFORD OKLAHOMA CITY TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LANE TO THE FOLLOWING AND RETURN: 6/12 SULPHUR; 6/13 SEMINOLE,
+                                                                                        KONAWA, WEWOKA, KREBS
+                                                                                        STAFF TRANSPORTATION
+                                                                                        LANE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

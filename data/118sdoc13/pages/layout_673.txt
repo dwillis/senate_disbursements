@@ -1,0 +1,52 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+                   POSTED                                                  DATES
+DBRU20240395                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                                $248.97
+DBRU20240396      07/18/2024  CITIBANK - TRAVEL CBA CARD        START       END         AIRFARE FOR M TOLBERT INDIANAPOLIS TO WASHINGTON DC                                 $494.19
+DBRU20240397      07/17/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                                $494.19
+DBRU20240398      07/17/2024  CITIBANK - TRAVEL CBA CARD        06/25/2024  06/25/2024  AIRFARE FOR L HICKEY WASHINGTON DC TO INDIANAPOLIS AND RETURN                       $641.60
+DBRU20240399      07/17/2024  ALLISON DONG                                              STAFF TRANSPORTATION
+                  07/25/2024                                    06/30/2024  07/03/2024  AIRFARE FOR A DONG WASHINGTON DC TO INDIANAPOLIS AND RETURN                           $63.81
+                                                                                        STAFF TRANSPORTATION                                                                $572.86
+                                                                06/30/2024  07/06/2024  AIRFARE FOR M TOLBERT WASHINGTON DC TO INDIANAPOLIS                                 $699.92
+                                                                                        STAFF INCIDENTALS
+                                                                06/24/2024  06/24/2024  STAFF PER DIEM                                                                        $33.12
+                                                                                        STAFF TRANSPORTATION                                                                $188.94
+                                                                06/30/2024  07/07/2024  WASHINGTON DC TO INDIANAPOLIS, GREENWOOD, INDIANAPOLIS AND
+                                                                                        RETURN                                                                                $87.36
+DBRU20240401      07/19/2024  HICKEY,LAUREN C                   06/30/2024  07/03/2024  STAFF PER DIEM                                                                        $74.14
+                                                                                        STAFF TRANSPORTATION                                                                $477.08
+DBRU20240402      07/18/2024  DULL, JOSHUA P                    06/01/2024  06/30/2024  WASHINGTON DC TO INDIANAPOLIS, KOKOMO, RISING SUN, KOKOMO,                          $307.13
+DBRU20240403      07/23/2024  KARLEE G HIDEMAN                  07/10/2024  07/12/2024  NORTH VERNON, KOKOMO, INDIANAPOLIS AND RETURN                                       $125.96
+                                                                                        STAFF TRANSPORTATION                                                             $1,268.31
+DBRU20240404      07/23/2024  MARK D DOUD                       06/04/2024  06/21/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                        B-655
+DBRU20240405      07/23/2024  MARK D DOUD                       06/03/2024  06/26/2024  STAFF INCIDENTALS                                                                     $38.45
+                                                                                        STAFF PER DIEM                                                                      $247.10
+DBRU20240406      07/20/2024  CLAIRE M WILTFANG                 07/10/2024  07/10/2024  STAFF TRANSPORTATION                                                                $247.10
+DBRU20240407      07/30/2024  CITIBANK - TRAVEL CBA CARD        06/18/2024  06/18/2024  INDIANAPOLIS TO CHICAGO IL AND RETURN                                               $357.10
+DBRU20240408      07/30/2024  CITIBANK - TRAVEL CBA CARD        07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                                $125.29
+DBRU20240409      07/31/2024  CITIBANK - TRAVEL CBA CARD        07/11/2024  07/11/2024  ZIONSVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                 $327.63
+DBRU20240415      08/05/2024  BRADLEY PIERCE                    07/01/2024  07/31/2024  STAFF TRANSPORTATION
+DBRU20240416      08/05/2024  BRADLEY PIERCE                    07/16/2024  07/19/2024  ZIONSVILLE TO THE FOLLOWING AND RETURN: 6/3 CRAWFORDSVILLE,                            $7.28
+                                                                                        LAFAYETTE; 6/5 FRANKFORT, ROCHESTER; 6/6 LOGANSPORT, FRANKFORT,                     $117.18
+DBRU20240417      08/06/2024  TERRY R SEITZ                     07/25/2024  07/26/2024  MONTICELLO; 6/11 WILLIAMSPORT, CAYUGA, CLINTON, WEST LAFAYETTE,                     $351.75
+                                                                                        ROCKVILLE; 6/12 TIPPECANOE; 6/13 LAFAYETTE; 6/17 FOWLER; CAYUGA; 6               $1,090.09
+DBRU20240419      08/06/2024  MARK D DOUD                       06/27/2024  07/25/2024  /19 PERU, FLORA, MONTEREY; 6/26 WEST LAFAYETTE, LAFAYETTE
+                                                                                        STAFF TRANSPORTATION
+                                                                                        INDIANAPOLIS TO BLOOMINGTON AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BRAUN WASHINGTON DC TO INDIANAPOLIS
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BRAUN INDIANAPOLIS TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BRAUN WASHINGTON DC TO INDIANAPOLIS
+                                                                                        STAFF TRANSPORTATION
+                                                                                        INDIANAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                                        7/16 INDIANAPOLIS TO BLOOMINGTON, INDIANAPOLIS TO PLAINFIELD; 7/19
+                                                                                        PLAINFIELD TO MISHAWAKA AND RETURN
+                                                                                        STAFF INCIDENTALS
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        JASPER TO DALEVILLE, MARION, GAS CITY, COLUMBIA CITY AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

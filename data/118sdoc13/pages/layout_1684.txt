@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                             DATES
+DLUJ20240159                                                                      AIRFARE FOR M GOODMAN EL PASO TX TO WASHINGTON DC AND RETURN                      $31.89
+DLUJ20240160                                              START       END         STAFF TRANSPORTATION                                                              $92.46
+DLUJ20240161                                                                      SANTA FE TO NAMBE AND RETURN                                                      $24.71
+DLUJ20240162      04/02/2024  NICHOLAS DEWHANE MCKENZIE   03/23/2024  03/23/2024  STAFF TRANSPORTATION
+                  04/02/2024  RENE ROMO                   03/21/2024  03/21/2024  LAS CRUCES TO ALAMOGORDO AND RETURN                                                $9.48
+DLUJ20240163      04/02/2024  RENE ROMO                   03/22/2024  03/23/2024  STAFF TRANSPORTATION                                                              $20.13
+DLUJ20240164      04/02/2024  RENE ROMO                   02/06/2024  02/07/2024  LAS CRUCES TO SANTA CLARA AND RETURN                                            $115.47
+DLUJ20240165                                                                      STAFF PER DIEM                                                                    $53.27
+DLUJ20240166      04/08/2024  CITIBANK - TRAVEL CBA CARD  03/18/2024  03/20/2024  STAFF TRANSPORTATION                                                            $625.98   B-1647
+DLUJ20240167      04/02/2024  CITIBANK - TRAVEL CBA CARD  03/22/2024  03/23/2024  LAS CRUCES TO CARRIZOZO AND RETURN                                              $410.10
+DLUJ20240169      04/04/2024  CITIBANK - TRAVEL CBA CARD  03/01/2024  03/01/2024  STAFF TRANSPORTATION                                                            $414.60
+DLUJ20240170      04/08/2024  CITIBANK - TRAVEL CBA CARD  03/19/2024  03/19/2024  RENTAL AUTO FOR C WHITE-WILLIAMS CLOVIS TO CARLSBAD AND RETURN                    $75.71
+DLUJ20240171      04/09/2024  CITIBANK - TRAVEL CBA CARD  03/23/2024  03/23/2024  STAFF TRANSPORTATION                                                            $151.42
+DLUJ20240174      04/17/2024  NICHOLAS DEWHANE MCKENZIE   04/03/2024  04/03/2024  RENTAL AUTO FOR R ROMO LAS CRUCES TO SANTA CLARA AND RETURN                     $150.08
+                  05/01/2024  BRIAN A LEE                 04/04/2024  04/04/2024  SENATOR TRANSPORTATION                                                       $1,217.21
+DLUJ20240175      05/01/2024  BRIAN A LEE                 04/05/2024  04/05/2024  AIRFARE FOR SEN LUJAN WASHINGTON DC TO ALBUQUERQUE
+                  05/02/2024  CITIBANK - TRAVEL CBA CARD  04/02/2024  04/05/2024  SENATOR TRANSPORTATION                                                          $546.21
+DLUJ20240176                                                                      AIRFARE FOR SEN LUJAN SANTA FE TO WASHINGTON DC
+DLUJ20240177      05/01/2024  CITIBANK - TRAVEL CBA CARD  04/03/2024  04/05/2024  SENATOR TRANSPORTATION                                                          $625.98
+DLUJ20240178                                                                      AIRFARE FOR SEN LUJAN WASHINGTON DC TO SANTA FE                                 $374.60
+DLUJ20240179      05/01/2024  CITIBANK - TRAVEL CBA CARD  04/08/2024  04/08/2024  STAFF TRANSPORTATION                                                            $550.10
+DLUJ20240180      05/02/2024  CITIBANK - TRAVEL CBA CARD  04/11/2024  04/11/2024  SANTA FE TO RIO RANCHO AND RETURN
+                  05/02/2024  CITIBANK - TRAVEL CBA CARD  04/15/2024  04/15/2024  STAFF TRANSPORTATION                                                              $41.97
+DLUJ20240184      04/26/2024  CITIBANK - TRAVEL CBA CARD  04/12/2024  04/13/2024  FARMINGTON TO GALLUP AND RETURN                                                 $371.56
+                  05/02/2024  CITIBANK - TRAVEL CBA CARD  04/02/2024  04/05/2024  STAFF TRANSPORTATION
+DLUJ20240185                                                                      FARMINGTON TO WINDOW ROCK AZ AND RETURN                                           $25.00
+DLUJ20240186      05/16/2024  CARMELA QUINTANA            10/05/2023  10/05/2023  STAFF TRANSPORTATION                                                              $85.15
+                                                                                  AIRFARE FOR M NEUBERGER WASHINGTON DC TO ALBUQUERQUE TO NEW                       $40.61
+                  05/15/2024  CARMELA QUINTANA            10/07/2023  10/07/2023  YORK NY                                                                           $56.00
+                  05/16/2024  CARMELA QUINTANA            10/11/2023  10/11/2023  STAFF TRANSPORTATION                                                            $147.37
+                                                                                  AIRFARE FOR C SHAPIRO WASHINGTON DC TO ALBUQUERQUE AND
+                                                                                  RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN LUJAN ALBUQUERQUE TO WASHINGTON DC
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN LUJAN WASHINGTON DC TO SANTA FE
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN LUJAN SANTA FE TO WASHINGTON DC
+                                                                                  STAFF TRANSPORTATION
+                                                                                  RENTAL AUTO FOR R ROMO LAS CRUCES TO LORDSBURG AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  RENTAL AUTO FOR M NEUBERGER ALBUQUERQUE TO RIO RANCHO,
+                                                                                  ESTANCIA AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SANTA FE TO ALBUQUERQUE AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SANTA FE TO NAMBE AND RETURN
+                                                                                  STAFF PER DIEM
+                                                                                  STAFF TRANSPORTATION
+

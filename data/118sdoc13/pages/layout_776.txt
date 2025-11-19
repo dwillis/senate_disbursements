@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                     OBLIGATION/SERVICE                                                    DESCRIPTION   AMOUNT ($)
+                  POSTED                                                DATES
+DBTL20240565                                                                         LONG BEACH TO WASHINGTON DC AND RETURN                                      $380.60
+DBTL20240566                                                 START       END         SENATOR TRANSPORTATION                                                      $143.60
+DBTL20240567                                                                         AIRFARE FOR SEN BUTLER WASHINGTON DC TO RENO NV                             $321.84
+DBTL20240568      09/11/2024  CITIBANK - TRAVEL CBA CARD     08/13/2024  08/13/2024  SENATOR TRANSPORTATION                                                      $564.00
+DBTL20240569      09/11/2024  CITIBANK - TRAVEL CBA CARD     08/14/2024  08/15/2024  AIRFARE FOR SEN BUTLER RENO NV TO WASHINGTON DC
+DBTL20240571      09/25/2024  MARVIN B FIGUEROA              08/26/2024  08/26/2024  STAFF TRANSPORTATION                                                          $52.26
+DBTL20240572      09/10/2024  CITIBANK - TRAVEL CBA CARD     07/12/2024  07/12/2024  WASHINGTON DC TO NEW YORK NY AND RETURN                                       $14.07
+DBTL20240573                                                                         SENATOR TRANSPORTATION                                                        $28.81
+DBTL20240574      09/18/2024  SANDRA GONZALES                07/05/2024  07/05/2024  TRAIN FARE FOR SEN BUTLER WASHINGTON DC TO NEW YORK NY AND                    $56.28  B-758
+DBTL20240580      09/18/2024  SANDRA GONZALES                07/18/2024  07/18/2024  RETURN                                                                        $35.51
+DBTL20240581      09/18/2024  SANDRA GONZALES                07/19/2024  07/19/2024  STAFF TRANSPORTATION                                                          $22.78
+DBTL20240582      09/18/2024  SANDRA GONZALES                07/26/2024  07/30/2024  TORRANCE TO LOS ANGELES AND RETURN                                            $18.76
+DBTL20240583      09/18/2024  SANDRA GONZALES                07/31/2024  07/31/2024  STAFF TRANSPORTATION                                                          $11.39
+                  09/18/2024  SANDRA GONZALES                08/03/2024  08/03/2024  LOS ANGELES TO WEST HOLLYWOOD TO TORRANCE                                     $27.66
+DBTL20240584      09/18/2024  SANDRA GONZALES                08/07/2024  08/07/2024  STAFF TRANSPORTATION                                                        $220.00
+                  09/18/2024  SANDRA GONZALES                08/08/2024  08/08/2024  TORRANCE TO CARSON, LOS ANGELES AND RETURN                                  $435.94
+DBTL20240585      09/24/2024  CHRISTYNA L THOMPSON           06/24/2024  06/26/2024  STAFF TRANSPORTATION                                                          $24.64
+                                                                                     TORRANCE TO LYNWOOD, EL SEGUNDO, LOS ANGELES AND RETURN                     $287.44
+DBTL20240586      09/28/2024  EDWIN A SEVILLA                08/12/2024  08/14/2024  STAFF TRANSPORTATION                                                        $317.34
+DBTL20240588                                                                         TORRANCE TO LOS ANGELES AND RETURN                                            $24.64
+DBTL20240590      09/25/2024  CAMILLE J PON                  08/12/2024  08/14/2024  STAFF TRANSPORTATION                                                        $268.52
+DBTL20240591                                                                         TORRANCE TO LOS ANGELES AND RETURN                                            $17.55
+                  09/18/2024  ALBERTO SANCHEZ GONZALEZ       08/13/2024  08/13/2024  STAFF TRANSPORTATION                                                          $22.24
+DBTL20240592      09/18/2024  ALBERTO SANCHEZ GONZALEZ       08/16/2024  08/16/2024  TORRANCE TO LOS ANGELES AND RETURN                                          $107.20
+DBTL20240593      09/26/2024  ABAJIAN,SHELLY H               08/22/2024  08/22/2024  STAFF TRANSPORTATION                                                          $75.00
+                  09/25/2024  DENISE N ALTOUNIAN SAHATDJIAN  08/23/2024  08/23/2024  TORRANCE TO LOS ANGELES AND RETURN                                            $66.86
+                                                                                     STAFF INCIDENTALS                                                             $53.60
+                  09/18/2024  NICHOLAS FIDENCIO HERNANDEZ    08/26/2024  08/26/2024  STAFF PER DIEM                                                              $217.80
+                  09/25/2024  LAUREN A BATTLE                08/25/2024  08/31/2024  STAFF TRANSPORTATION                                                     $1,040.40
+                                                                                     WASHINGTON DC TO PHOENIX AZ AND RETURN
+                                                                                     STAFF INCIDENTALS
+                                                                                     STAFF PER DIEM
+                                                                                     STAFF TRANSPORTATION
+                                                                                     SAN FRANCISCO TO OAKLAND, CHICO, OAKLAND AND RETURN
+                                                                                     STAFF INCIDENTALS
+                                                                                     STAFF PER DIEM
+                                                                                     FAIRFAX TO CHICO AND RETURN
+                                                                                     STAFF TRANSPORTATION
+                                                                                     SAN DIEGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                     STAFF TRANSPORTATION
+                                                                                     SAN DIEGO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                     STAFF TRANSPORTATION
+                                                                                     FRESNO TO COALINGA AND RETURN
+                                                                                     STAFF PER DIEM
+                                                                                     STAFF TRANSPORTATION
+                                                                                     FRESNO TO TULARE AND RETURN
+                                                                                     STAFF TRANSPORTATION
+                                                                                     LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                     STAFF INCIDENTALS
+                                                                                     STAFF PER DIEM
+

@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                   POSTED                                                  DATES
+DLNK20240803                  QUINTON BRIER GRAY                                        STAFF TRANSPORTATION                                                              $10.72
+DLNK20240804      05/29/2024  QUINTON BRIER GRAY                START       END         TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                    $12.06
+DLNK20240805      05/30/2024  QUINTON BRIER GRAY                                        STAFF TRANSPORTATION                                                              $92.46
+DLNK20240806      05/29/2024  QUINTON BRIER GRAY                05/16/2024  05/16/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                    $33.50
+DLNK20240807      05/30/2024  QUINTON BRIER GRAY                                        STAFF TRANSPORTATION                                                              $34.84
+DLNK20240808      05/30/2024  ASHLEY B HIGGINS                  05/17/2024  05/17/2024  TULSA TO TAHLEQUAH AND RETURN                                                     $46.62
+                  06/05/2024                                                            STAFF TRANSPORTATION                                                            $430.31
+DLNK20240810                                                    05/21/2024  05/21/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $118.74
+                                                                                        STAFF TRANSPORTATION                                                            $242.92
+DLNK20240811                                                    05/22/2024  05/22/2024  TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF INCIDENTALS                                                               $192.71
+DLNK20240812                                                    05/23/2024  05/23/2024  STAFF PER DIEM
+DLNK20240813                                                                            STAFF TRANSPORTATION                                                            $279.49
+DLNK20240815                                                    05/15/2024  05/18/2024  WASHINGTON DC TO OKLAHOMA CITY TO ARLINGTON VA
+DLNK20240816                                                                            STAFF TRANSPORTATION                                                              $95.45
+DLNK20240817      06/06/2024  EAN SERVICES LLC                  05/15/2024  05/18/2024  RENTAL AUTO FOR J CARSON AS FOLLOWS: 5/15 OKLAHOMA CITY TO                        $11.55
+                                                                                        YUKON, LAWTON AND RETURN; 5/16, 17 OKLAHOMA CITY OFFICE:
+DLNK20240818      06/06/2024  EAN SERVICES LLC                  05/20/2024  05/23/2024  INTERDEPARTMENTAL TRANSPORTATION; 5/18 OKLAHOMA CITY TO                           $14.95
+DLNK20240819                                                                            STILLWATER, LANGSTON TO YUKON
+DLNK20240821      06/06/2024  EAN SERVICES LLC                  05/15/2024  05/18/2024  STAFF TRANSPORTATION                                                               $5.85  B-1594
+DLNK20240822      05/30/2024  EAN SERVICES LLC                  05/18/2024  05/20/2024  RENTAL AUTO FOR J CARSON AS FOLLOWS: 5/20 OKLAHOMA CITY TO
+DLNK20240823      05/28/2024  CITIBANK - TRAVEL CBA CARD        04/17/2024  04/19/2024  YUKON AND RETURN; 5/21 OKLAHOMA CITY OFFICE: INTERDEPARTMENTAL                    $27.20
+DLNK20240824      05/30/2024  CITIBANK - TRAVEL CBA CARD        04/19/2024  04/20/2024  TRANSPORTATION; 5/22 OKLAHOMA CITY TO CHICKASHA, LAWTON,                          $53.00
+DLNK20240825      06/04/2024  CITIBANK - TRAVEL CBA CARD        04/29/2024  05/03/2024  GOLDSBY AND RETURN; 5/23 OKLAHOMA CITY TO YUKON                                   $53.60
+                                                                                        STAFF TRANSPORTATION                                                              $40.20
+                  05/30/2024  CITIBANK - TRAVEL CBA CARD        04/23/2024  04/27/2024  RENTAL AUTO FOR A HIGGINS OKLAHOMA CITY TO LANGSTON,                              $40.00
+                  05/30/2024  JAMES S CARSON                    05/22/2024  05/22/2024  STILLWATER AND RETURN
+                  05/30/2024  SARAH MARGARET SHARUM             05/08/2024  05/08/2024  STAFF TRANSPORTATION                                                               $9.80
+                  05/30/2024  SARAH MARGARET SHARUM             05/28/2024  05/28/2024  RENTAL AUTO FOR S SHARUM TULSA TO PONCA CITY AND RETURN                         $192.96
+                  06/04/2024  CITIBANK - TRAVEL CBA CARD        05/23/2024  05/23/2024  STAFF TRANSPORTATION
+                  06/06/2024  PEYTON G BURNS                    05/20/2024  05/20/2024  TOLLS FOR P BURNS STILLWATER TO WOODWARD, ENID, POND CREEK,                       $87.10
+                                                                                        ALVA, BURLINGTON, ALVA, NEWKIRK AND RETURN
+                  06/05/2024  PEYTON G BURNS                    05/21/2024  05/21/2024  STAFF TRANSPORTATION
+                                                                                        TOLLS FOR C HARAZDA NORMAN TO OKLAHOMA CITY, TULSA, OKLAHOMA
+                                                                                        CITY, SULPHUR AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        RENTAL AUTO FOR J CARSON AS FOLLOWS: 4/29 YUKON TO OKLAHOMA
+                                                                                        CITY; 4/30, 5/2 INTERDEPARTMENTAL TRANSPORTATION; 5/1 OKLAHOMA
+                                                                                        CITY TO CORDELL, HOBART AND RETURN; 5/3 OKLAHOMA CITY TO YUKON
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TOLLS FOR P BURNS STILLWATER TO YUKON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        OKLAHOMA CITY TO LAWTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA TO BARNSDALL AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        TULSA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        TICKET FEES
+                                                                                        STAFF PER DIEM
+                                                                                        STAFF TRANSPORTATION
+                                                                                        STILLWATER TO WOODWARD, SEILING AND RETURN
+                                                                                        STAFF TRANSPORTATION
+

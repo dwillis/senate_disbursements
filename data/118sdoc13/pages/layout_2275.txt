@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                           DATES
+DSCM20241051                                                                    SPRINGFIELD TO FAYETTEVILLE AR AND RETURN                                       $20.02
+DSCM20241052                                            START       END         STAFF PER DIEM                                                                  $64.25
+DSCM20241054                                                                    STAFF TRANSPORTATION                                                            $23.14
+DSCM20241056      09/14/2024  MICHAEL E USSERY          09/04/2024  09/04/2024  SPRINGFIELD TO POINT LOOKOUT AND RETURN                                         $32.42
+DSCM20241057                                                                    STAFF PER DIEM
+                  09/17/2024  JORDAN T JOBES            09/04/2024  09/04/2024  SPRINGFIELD TO POINT LOOKOUT AND RETURN                                          $9.05
+DSCM20241058      09/15/2024  MICHAEL E USSERY          09/05/2024  09/05/2024  STAFF TRANSPORTATION                                                            $50.58
+DSCM20241059      09/17/2024  MICHAEL E USSERY          09/06/2024  09/06/2024  SPRINGFIELD OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $384.00
+                  09/24/2024  MORGAN S CORDER           09/04/2024  09/06/2024  STAFF PER DIEM                                                                $189.09
+DSCM20241060                                                                    SPRINGFIELD TO SAINT ROBERT, CROCKER AND RETURN                               $113.89
+DSCM20241061      09/24/2024  ANDREW C DZIEDZIC         08/30/2024  09/06/2024  STAFF INCIDENTALS                                                               $77.98
+DSCM20241063      09/24/2024  BENNETT JAMES LYDAY       08/22/2024  08/27/2024  STAFF PER DIEM                                                                $877.62
+DSCM20241064                                                                    STAFF TRANSPORTATION
+                  09/15/2024  MICHAEL E USSERY          09/09/2024  09/09/2024  COLUMBIA TO SAINT LOUIS AND RETURN                                              $50.89  B-2238
+DSCM20241065      09/17/2024  MICHAEL E USSERY          09/10/2024  09/10/2024  STAFF TRANSPORTATION                                                            $60.98
+DSCM20241069      09/18/2024  CHRISTOPHER LYNN WALKER   08/22/2024  08/22/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $77.94
+DSCM20241071      09/26/2024  JAMES H.N PEACOCK         09/03/2024  09/06/2024  STAFF PER DIEM                                                                  $83.25
+DSCM20241072                                                                    STAFF TRANSPORTATION                                                          $378.00
+DSCM20241073      09/18/2024  MICHAEL E USSERY          09/11/2024  09/11/2024  WASHINGTON DC TO SAINT LOUIS, COLUMBIA, SAINT LOUIS, CAPE                     $658.08
+DSCM20241074      09/19/2024  MICHAEL E USSERY          09/12/2024  09/12/2024  GIRARDEAU, SAINT LOUIS AND RETURN                                               $55.74
+DSCM20241075      09/19/2024  LISA K SAYLOR             09/12/2024  09/12/2024  STAFF TRANSPORTATION                                                            $51.02
+                  09/26/2024  LISA K SAYLOR             09/10/2024  09/11/2024  SPRINGFIELD TO AURORA, BILLINGS AND RETURN                                      $70.74
+                                                                                STAFF TRANSPORTATION                                                            $29.94
+                  09/19/2024  MEGAN KAYLEE WERDEHAUSEN  06/27/2024  06/27/2024  SPRINGFIELD TO SPARTA, MARSHFIELD AND RETURN                                  $281.45
+                  09/26/2024  ALEXANDER N THIESSEN      08/18/2024  08/26/2024  STAFF TRANSPORTATION                                                            $21.55
+                  09/26/2024  MEGAN KAYLEE WERDEHAUSEN  07/25/2024  07/26/2024  ST LOUIS TO THE FOLLOWING AND RETURN: MANCHESTER; WENTZVILLE                  $556.95
+                                                                                STAFF INCIDENTALS                                                               $22.13
+DSCM20241076      09/19/2024  MEGAN KAYLEE WERDEHAUSEN  07/30/2024  07/30/2024  STAFF PER DIEM                                                                $202.00
+                                                                                STAFF TRANSPORTATION                                                          $262.65
+                                                                                WASHINGTON DC TO KANSAS CITY AND RETURN
+                                                                                STAFF TRANSPORTATION                                                            $24.36
+                                                                                SPRINGFIELD TO MANSFIELD AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                SPRINGFIELD TO BOLIVAR AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                SPRINGFIELD TO LEBANON AND RETURN
+                                                                                STAFF PER DIEM
+                                                                                STAFF TRANSPORTATION
+                                                                                SPRINGFIELD TO KANSAS CITY AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                COLUMBIA OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                STAFF TRANSPORTATION
+                                                                                WASHINGTON DC TO KANSAS CITY AND RETURN
+                                                                                STAFF INCIDENTALS
+                                                                                STAFF PER DIEM
+                                                                                STAFF TRANSPORTATION
+                                                                                FULTON TO MOBERLY, MACON, KIRKSVILLE, LANCASTER, HANNIBAL,
+                                                                                CANTON, HANNIBAL AND RETURN
+                                                                                STAFF TRANSPORTATION
+                                                                                FULTON TO JEFFERSON CITY AND RETURN
+

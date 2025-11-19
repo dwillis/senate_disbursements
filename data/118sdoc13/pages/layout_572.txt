@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                   POSTED                                                  DATES
+DBLA20241654                  PABLO A MARTINEZ                                          STAFF TRANSPORTATION                                                            $25.46
+DBLA20241655      06/24/2024  PABLO A MARTINEZ                  START       END         NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $39.53
+DBLA20241656      06/24/2024  PABLO A MARTINEZ                                          STAFF TRANSPORTATION                                                            $45.09
+DBLA20241657      06/24/2024  WILLIAM A GUFFEE                  06/11/2024  06/11/2024  FRANKLIN TO FAIRVIEW, FRANKLIN TO NASHVILLE                                     $41.54
+DBLA20241658      06/24/2024  WILLIAM A GUFFEE                                          STAFF TRANSPORTATION                                                            $27.47
+DBLA20241659      06/24/2024  KIMBERLY A CORDELL                06/12/2024  06/12/2024  NASHVILLE TO COLUMBIA TO FRANKLIN                                               $20.77
+DBLA20241660      06/24/2024  KIMBERLY A CORDELL                                        STAFF TRANSPORTATION                                                            $25.46
+DBLA20241661      06/24/2024  KIMBERLY A CORDELL                06/13/2024  06/13/2024  CHATTANOOGA TO GEORGETOWN AND RETURN                                            $45.56
+DBLA20241662      06/24/2024  NICHOLAS A KISTENMACHER                                   STAFF TRANSPORTATION                                                          $133.33
+DBLA20241663      07/01/2024  NICHOLAS A KISTENMACHER           06/07/2024  06/07/2024  CHATTANOOGA TO COLLEGEDALE AND RETURN                                         $107.20
+DBLA20241664      07/01/2024  NICHOLAS A KISTENMACHER                                   STAFF TRANSPORTATION                                                            $22.11
+DBLA20241665      06/28/2024  NICHOLAS A KISTENMACHER           06/13/2024  06/13/2024  JONESBOROUGH TO BLOUNTVILLE AND RETURN                                          $73.70
+DBLA20241666      06/28/2024  PABLO A MARTINEZ                                          STAFF TRANSPORTATION                                                            $73.70
+DBLA20241667      06/28/2024  PABLO A MARTINEZ                  06/13/2024  06/13/2024  JONESBOROUGH TO KINGSPORT AND RETURN                                            $34.17
+DBLA20241668      06/28/2024  PABLO A MARTINEZ                                          STAFF TRANSPORTATION                                                            $24.79
+DBLA20241669      06/28/2024  BRIGID MARY K MCDONNELL           06/14/2024  06/14/2024  JONESBOROUGH TO GREENEVILLE AND RETURN                                          $24.68
+DBLA20241670      07/01/2024  NICHOLAS A KISTENMACHER                                   STAFF TRANSPORTATION                                                            $14.74
+DBLA20241672      07/01/2024  WILLIAM A GUFFEE                  06/12/2024  06/12/2024  MEMPHIS TO RIDGELY AND RETURN                                                 $190.95
+DBLA20241673      07/01/2024  NEELY, BLAKEMON L                                         STAFF TRANSPORTATION                                                          $335.33
+                  07/01/2024                                    06/13/2024  06/13/2024  MEMPHIS TO STANTON, HALLS AND RETURN
+DBLA20241674                  NEELY, BLAKEMON L                                         STAFF TRANSPORTATION                                                          $272.55
+DBLA20241675      07/01/2024  NEELY, BLAKEMON L                 06/14/2024  06/14/2024  MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                              $234.36
+DBLA20241676      07/01/2024  CALEB ADDISON HASLETT                                     STAFF TRANSPORTATION
+DBLA20241677      07/02/2024  CALEB ADDISON HASLETT             06/12/2024  06/12/2024  MEMPHIS TO COVINGTON, COLLIERVILLE AND RETURN                                   $36.85  B-554
+DBLA20241679      07/01/2024  CITIBANK - SENATOR IBA CARD                               STAFF TRANSPORTATION                                                          $119.93
+DBLA20241680      07/03/2024  CITIBANK - SENATOR IBA CARD       06/18/2024  06/18/2024  FRANKLIN TO DICKSON, COLUMBIA AND RETURN                                      $107.10
+                  07/03/2024                                                            STAFF TRANSPORTATION                                                          $107.10
+                                                                06/18/2024  06/18/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                06/18/2024  06/18/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                06/17/2024  06/17/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                06/20/2024  06/20/2024  MEMPHIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                06/20/2024  06/20/2024  CHATTANOOGA TO NASHVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                06/19/2024  06/19/2024  IUKA MS TO COOKEVILLE, MCMINNVILLE, ALTAMONT, WINCHESTER AND
+                                                                                        RETURN
+                                                                06/18/2024  06/18/2024  STAFF TRANSPORTATION
+                                                                                        IUKA MS TO JASPER, LAWRENCEBURG, SAVANNAH AND RETURN
+                                                                06/20/2024  06/20/2024  STAFF TRANSPORTATION
+                                                                06/21/2024  06/21/2024  NASHVILLE TO SOUTH PITTSBURG AND RETURN
+                                                                06/17/2024  06/17/2024  STAFF TRANSPORTATION
+                                                                06/18/2024  06/18/2024  NASHVILLE OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                06/17/2024  06/17/2024  STAFF TRANSPORTATION
+                                                                06/11/2024  06/11/2024  NASHVILLE TO COOKEVILLE, GALLATIN AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                                        AIRFARE FOR SEN BLACKBURN NASHVILLE TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION      AMOUNT ($)
+                  POSTED                                        DATES
+DGIL20240369                                                                 WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $30.80
+DGIL20240370                                         START       END         STAFF TRANSPORTATION
+DGIL20240371                                                                 WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                           $31.20
+DGIL20240372      04/04/2024  GILBERTO GABRIEL RUIZ  01/30/2024  01/30/2024  STAFF PER DIEM                                                                 $103.49
+DGIL20240373      04/09/2024  JAMIE S FUESS          10/04/2023  10/04/2023  STAFF TRANSPORTATION
+DGIL20240374      04/09/2024  JAMIE S FUESS                                  SYRACUSE TO BINGHAMTON AND RETURN                                                $34.73
+DGIL20240375      04/09/2024  JAMIE S FUESS          10/05/2023  10/05/2023  STAFF PER DIEM                                                                   $75.98
+DGIL20240376      04/08/2024  JAMIE S FUESS                                  STAFF TRANSPORTATION
+DGIL20240377      04/08/2024  JAMIE S FUESS          10/06/2023  10/06/2023  SYRACUSE TO UTICA AND RETURN                                                     $53.74
+DGIL20240378      04/09/2024  JAMIE S FUESS                                  STAFF PER DIEM                                                                   $75.98
+DGIL20240379      04/08/2024  JAMIE S FUESS          10/18/2023  10/18/2023  STAFF TRANSPORTATION
+DGIL20240380      04/10/2024  JAMIE S FUESS          10/27/2023  10/27/2023  SYRACUSE TO UTICA AND RETURN                                                     $11.79
+DGIL20240381      04/08/2024  JAMIE S FUESS          11/07/2023  11/07/2023  STAFF TRANSPORTATION
+DGIL20240382      04/10/2024  JAMIE S FUESS                                  SYRACUSE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $24.23
+DGIL20240383      04/10/2024  JAMIE S FUESS          11/09/2023  11/09/2023  STAFF TRANSPORTATION                                                                     B-1209
+DGIL20240384      04/08/2024  JAMIE S FUESS                                  SYRACUSE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $45.00
+DGIL20240385      04/10/2024  JAMIE S FUESS          11/10/2023  11/10/2023  STAFF PER DIEM                                                                   $73.36
+DGIL20240386      04/10/2024  JAMIE S FUESS                                  STAFF TRANSPORTATION
+DGIL20240387      04/08/2024  JAMIE S FUESS          11/16/2023  11/16/2023  SYRACUSE TO UTICA AND RETURN                                                     $36.12
+                  04/08/2024  JAMIE S FUESS          11/29/2023  11/29/2023  STAFF PER DIEM                                                                   $63.53
+                  04/09/2024  GRACE ALEXIS METZLER                           STAFF TRANSPORTATION
+                  04/09/2024  GRACE ALEXIS METZLER   11/30/2023  11/30/2023  SYRACUSE TO ROME AND RETURN                                                      $45.56
+                                                                             STAFF PER DIEM                                                                   $65.50
+                                                     12/01/2023  12/01/2023  STAFF TRANSPORTATION
+                                                     12/04/2023  12/04/2023  SYRACUSE TO CLINTON AND RETURN                                                   $43.88
+                                                                             STAFF TRANSPORTATION
+                                                     12/05/2023  12/05/2023  SYRACUSE TO MORRISVILLE AND RETURN                                               $52.33
+                                                                             STAFF PER DIEM                                                                   $80.56
+                                                     12/06/2023  12/06/2023  STAFF TRANSPORTATION
+                                                     02/29/2024  02/29/2024  SYRACUSE TO ROME AND RETURN                                                      $37.14
+                                                     03/26/2024  03/26/2024  STAFF PER DIEM                                                                   $75.32
+                                                                             STAFF TRANSPORTATION
+                                                     03/21/2024  03/21/2024  SYRACUSE TO UTICA AND RETURN                                                      $6.55
+                                                                             STAFF TRANSPORTATION
+                                                                             SYRACUSE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $32.59
+                                                                             STAFF PER DIEM                                                                   $75.32
+                                                                             STAFF TRANSPORTATION
+                                                                             SYRACUSE TO UTICA AND RETURN                                                     $30.84
+                                                                             STAFF PER DIEM                                                                   $73.36
+                                                                             STAFF TRANSPORTATION
+                                                                             SYRACUSE TO UTICA AND RETURN                                                     $12.44
+                                                                             STAFF TRANSPORTATION
+                                                                             SYRACUSE OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $73.70
+                                                                             STAFF TRANSPORTATION
+                                                                             SYRACUSE TO OSWEGO AND RETURN                                                    $36.76
+                                                                             STAFF PER DIEM                                                                 $166.83
+                                                                             STAFF TRANSPORTATION
+                                                                             LOWVILLE TO TUPPER LAKE, SARANAC LAKE, LAKE PLACID AND RETURN                    $27.90
+                                                                             STAFF PER DIEM                                                                 $107.87
+                                                                             STAFF TRANSPORTATION
+

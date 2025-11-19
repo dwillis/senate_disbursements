@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                             DATES
+DWRR20240459                                                                      AIRFARE FOR SEN WARREN WASHINGTON DC TO BOSTON                               $46.10
+DWRR20240460                                              START       END         SENATOR TRANSPORTATION                                                       $48.10
+DWRR20240461                                                                      AIRFARE FOR SEN WARREN BOSTON TO WASHINGTON DC                             $224.10
+DWRR20240462      06/12/2024  CITIBANK - TRAVEL CBA CARD  04/23/2024  04/23/2024  SENATOR TRANSPORTATION                                                       $96.10  B-2603
+DWRR20240463      06/12/2024  CITIBANK - TRAVEL CBA CARD  04/23/2024  04/23/2024  AIRFARE FOR SEN WARREN WASHINGTON DC TO BOSTON                             $628.70
+DWRR20240464      06/10/2024  CITIBANK - TRAVEL CBA CARD  04/30/2024  04/30/2024  SENATOR TRANSPORTATION                                                       $48.10
+DWRR20240465      06/12/2024  CITIBANK - TRAVEL CBA CARD  05/07/2024  05/07/2024  AIRFARE FOR SEN WARREN BOSTON TO WASHINGTON DC                               $48.10
+DWRR20240466      06/13/2024  CITIBANK - TRAVEL CBA CARD  04/15/2024  04/15/2024  SENATOR TRANSPORTATION                                                       $96.10
+DWRR20240467      06/12/2024  CITIBANK - TRAVEL CBA CARD  05/03/2024  05/03/2024  AIRFARE FOR SEN WARREN BOSTON TO WASHINGTON DC                             $316.70
+DWRR20240468      06/12/2024  CITIBANK - TRAVEL CBA CARD  05/16/2024  05/16/2024  SENATOR TRANSPORTATION                                                     $348.48
+DWRR20240469      06/10/2024  CITIBANK - TRAVEL CBA CARD  05/14/2024  05/14/2024  AIRFARE FOR SEN WARREN BOSTON TO WASHINGTON DC                             $602.48
+DWRR20240470      08/06/2024  CITIBANK - TRAVEL CBA CARD  05/20/2024  05/20/2024  SENATOR TRANSPORTATION                                                     $204.10
+DWRR20240488      06/10/2024  CITIBANK - TRAVEL CBA CARD  05/22/2024  05/22/2024  AIRFARE FOR SEN WARREN WASHINGTON DC TO BOSTON                               $18.11
+                  06/11/2024  CITIBANK - TRAVEL CBA CARD  05/29/2024  05/29/2024  SENATOR TRANSPORTATION                                                     $132.36
+DWRR20240489      06/10/2024  CITIBANK - TRAVEL CBA CARD  02/13/2024  02/13/2024  AIRFARE FOR SEN WARREN WASHINGTON DC TO BOSTON                             $280.70
+DWRR20240490      06/12/2024  TESS E BYARS                05/29/2024  05/29/2024  SENATOR TRANSPORTATION                                                     $418.10
+DWRR20240491                                                                      AIRFARE FOR SEN WARREN BOSTON TO WASHINGTON DC                               $96.10
+DWRR20240492      06/24/2024  CITIBANK - TRAVEL CBA CARD  06/03/2024  06/03/2024  SENATOR TRANSPORTATION                                                       $48.10
+DWRR20240511      06/12/2024  CITIBANK - TRAVEL CBA CARD  03/23/2024  03/23/2024  AIRFARE FOR SEN WARREN EAST BOSTON TO WASHINGTON DC                          $58.96
+DWRR20240512      06/11/2024  CITIBANK - TRAVEL CBA CARD  03/05/2024  03/05/2024  SENATOR TRANSPORTATION                                                       $27.73
+DWRR20240513      06/11/2024  CITIBANK - TRAVEL CBA CARD  04/03/2024  04/03/2024  AIRFARE FOR SEN WARREN WASHINGTON DC TO BOSTON                             $121.53
+DWRR20240514      06/16/2024  CALEB R WHITE               06/06/2024  06/06/2024  STAFF TRANSPORTATION                                                         $73.70
+DWRR20240515      06/16/2024  CALEB R WHITE               06/07/2024  06/07/2024  AIRFARE FOR T BYARS WASHINGTON DC TO BOSTON AND RETURN                       $30.82
+DWRR20240516      06/24/2024  MARK ANTONIO WILLIAMS       05/29/2024  05/29/2024  SENATOR TRANSPORTATION                                                     $121.53
+DWRR20240517      06/26/2024  MARK ANTONIO WILLIAMS       05/30/2024  05/30/2024  AIRFARE FOR SEN WARREN WASHINGTON DC TO BOSTON                               $30.08
+                  06/26/2024  MARK ANTONIO WILLIAMS       06/10/2024  06/10/2024  STAFF PER DIEM
+                  06/26/2024  MARK ANTONIO WILLIAMS       06/13/2024  06/13/2024  STAFF TRANSPORTATION
+                  06/26/2024  YEJI LEE                    06/13/2024  06/13/2024  WASHINGTON DC TO BOSTON AND RETURN
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN WARREN BOSTON TO WASHINGTON DC
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN WARREN WASHINGTON DC TO BOSTON
+                                                                                  SENATOR TRANSPORTATION
+                                                                                  AIRFARE FOR SEN WARREN BOSTON TO WASHINGTON DC
+                                                                                  STAFF TRANSPORTATION
+                                                                                  AIRFARE FOR B COHEN BOSTON TO WASHINGTON DC
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SOMERVILLE TO PLYMOUTH TO BOSTON
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SOMERVILLE TO QUINCY, CANTON TO BOSTON
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SPRINGFIELD TO BOSTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SPRINGFIELD TO PITTSFIELD AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SPRINGFIELD TO GREENFIELD AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  SPRINGFIELD TO BOSTON AND RETURN
+                                                                                  STAFF TRANSPORTATION
+                                                                                  BOSTON TO FRAMINGHAM TO CAMBRIDGE
+

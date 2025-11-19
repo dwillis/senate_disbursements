@@ -1,0 +1,53 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                   POSTED                                                  DATES
+DWRR20240587                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                                $92.21
+DWRR20240588      07/22/2024  CITIBANK - TRAVEL CBA CARD        START       END         AIRFARE FOR J POKORNY WASHINGTON DC TO BOSTON AND RETURN                            $92.21
+DWRR20240589      07/22/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                                $92.21
+DWRR20240590      07/22/2024  CITIBANK - TRAVEL CBA CARD        06/20/2024  06/21/2024  AIRFARE FOR M SARABIA WASHINGTON DC TO BOSTON AND RETURN                            $92.21
+DWRR20240591      07/22/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                              $355.08
+                  07/26/2024                                    06/20/2024  06/21/2024  AIRFARE FOR B COHEN WASHINGTON DC TO BOSTON AND RETURN
+DWRR20240593                  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                                $92.21
+DWRR20240594      08/13/2024  CITIBANK - TRAVEL CBA CARD        06/20/2024  06/21/2024  AIRFARE FOR I FRANKLIN WASHINGTON DC TO BOSTON AND RETURN                           $94.21
+DWRR20240595      07/22/2024  CITIBANK - TRAVEL CBA CARD                                STAFF TRANSPORTATION                                                                $94.21
+DWRR20240596      08/06/2024  CITIBANK - TRAVEL CBA CARD        06/20/2024  06/22/2024  AIRFARE FOR J LARSEN AS FOLLOWS: 6/20 WASHINGTON DC TO BOSTON; 6                    $94.21
+DWRR20240597      07/22/2024  CITIBANK - TRAVEL CBA CARD                                /21 BOSTON TO WASHINGTON DC                                                         $94.21
+DWRR20240598      07/22/2024  CITIBANK - TRAVEL CBA CARD        06/20/2024  06/21/2024  STAFF TRANSPORTATION                                                                $92.21
+DWRR20240603      07/25/2024  JESSICA AMERLEY LARSEN                                    AIRFARE FOR K GARNER WASHINGTON DC TO BOSTON AND RETURN                             $62.83
+                  08/06/2024                                    06/20/2024  06/22/2024  STAFF TRANSPORTATION                                                              $552.35   B-2605
+DWRR20240604                                                    06/20/2024  06/23/2024  AIRFARE FOR V TARBERT WASHINGTON DC TO BOSTON AND RETURN                            $36.72
+DWRR20240605                                                    06/20/2024  06/23/2024  STAFF TRANSPORTATION                                                                $58.29
+DWRR20240606                                                    06/20/2024  06/23/2024  AIRFARE FOR P DEMANUELE WASHINGTON DC TO BOSTON AND RETURN                          $66.39
+DWRR20240615                                                    06/20/2024  06/23/2024  STAFF TRANSPORTATION                                                              $200.33
+DWRR20240618                                                    06/20/2024  06/21/2024  AIRFARE FOR M CANO WASHINGTON DC TO BOSTON AND RETURN                               $96.21
+DWRR20240619                                                    07/01/2024  07/07/2024  STAFF TRANSPORTATION                                                                $92.21
+                                                                                        AIRFARE FOR A PINDIPRALU WASHINGTON DC TO BOSTON AND RETURN                       $302.58
+DWRR20240620      07/23/2024  YEJI LEE                          07/09/2024  07/09/2024  STAFF TRANSPORTATION
+DWRR20240623      07/23/2024  YEJI LEE                          07/17/2024  07/17/2024  AIRFARE FOR N UGWA WASHINGTON DC TO BOSTON AND RETURN                               $46.90
+DWRR20240624      07/25/2024  YEJI LEE                          07/18/2024  07/18/2024  STAFF INCIDENTALS                                                                   $67.67
+DWRR20240625      07/25/2024  CITIBANK - TRAVEL CBA CARD        07/01/2024  07/07/2024  STAFF PER DIEM                                                                      $27.47
+DWRR20240626      07/25/2024  CITIBANK - TRAVEL CBA CARD        06/20/2024  06/21/2024  STAFF TRANSPORTATION                                                                $27.47
+                  07/29/2024  CITIBANK - TRAVEL CBA CARD        06/20/2024  06/23/2024  WASHINGTON DC TO BOSTON, GLOUCESTER, BOSTON AND RETURN                              $40.87
+                                                                                        STAFF TRANSPORTATION
+                  07/25/2024  MAXIMILIAN D PAUL                 06/28/2024  06/28/2024  BOSTON TO WORCESTER, SHREWSBURY TO CAMBRIDGE
+                  07/29/2024  CAROLINE B FREEDMAN               03/22/2024  03/22/2024  STAFF TRANSPORTATION
+                  07/29/2024  CAROLINE B FREEDMAN               04/01/2024  04/01/2024  CAMBRIDGE TO WORCESTER TO BOSTON
+                  08/12/2024  CAROLINE B FREEDMAN               04/05/2024  04/05/2024  STAFF TRANSPORTATION
+                  08/12/2024  CAROLINE B FREEDMAN               04/30/2024  04/30/2024  CAMBRIDGE TO PITTSFIELD AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR J LARSEN WASHINGTON DC TO BOSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR S APFEL WASHINGTON DC TO BOSTON AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        AIRFARE FOR W SEILER AS FOLLOWS: 6/20 WASHINGTON DC TO BOSTON; 6
+                                                                                        /23 BOSTON TO WASHINGTON DC
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BOSTON TO NORTHBOROUGH AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        JAMAICA PLAIN TO HAVERHILL TO BOSTON
+                                                                                        STAFF TRANSPORTATION
+                                                                                        JAMAICA PLAIN TO LYNN TO BOSTON
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BOSTON TO LYNN AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                                        BOSTON TO LOWELL AND RETURN
+

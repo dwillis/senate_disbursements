@@ -1,0 +1,57 @@
+DOCUMENT NO.    DATE      PAYEE NAME                     OBLIGATION/SERVICE                                 DESCRIPTION                                     AMOUNT ($)
+              POSTED                                                DATES
+                                                                                                                                                                            $126.63
+                                                         START       END                                                                                                      $40.20
+
+DBDD20240761  09/19/2024  BAILEY B. HARTSELL             09/10/2024                        STAFF TRANSPORTATION                                                               $13.64
+DBDD20240762  09/26/2024  SAMUEL JOSEPH SHUMATE          09/11/2024                        YADKINVILLE TO ADVANCE, SPARTA, ADVANCE AND RETURN                               $245.48
+                                                                      09/10/2024 STAFF TRANSPORTATION
+DBDD20240763  09/26/2024  RICHARD LEE MOXLEY             09/10/2024                        WILMINGTON TO BURGAW AND RETURN                                                    $10.97  B-740
+                                                                      09/11/2024 STAFF PER DIEM                                                                             $108.54
+DBDD20240764  09/26/2024  WILLIAM J SOMERS               08/01/2024                        STAFF TRANSPORTATION
+                                                                                           SANFORD TO JACKSONVILLE, TRENTON, MAYSVILLE, NEW BERN AND                          $24.49
+DBDD20240765  09/20/2024  BAILEY B. HARTSELL             09/11/2024                        RETURN                                                                           $169.94
+DBDD20240771  09/23/2024  JOSEPH TUCKER KNOTT            09/12/2024   09/10/2024 STAFF PER DIEM
+DBDD20240772  09/23/2024  RICHARD LEE MOXLEY             09/13/2024                        STAFF TRANSPORTATION                                                               $61.64
+DBDD20240773  09/22/2024  SAMUEL JOSEPH SHUMATE          09/16/2024                        PFAFFTOWN TO RAMSEUR, SILER CITY, ASHEBORO AND RETURN
+DBDD20240774  09/28/2024  SAMUEL JOSEPH SHUMATE          09/17/2024   08/01/2024 STAFF PER DIEM                                                                               $23.45
+                                                                                           STAFF TRANSPORTATION
+DBDD20240775  09/28/2024  JOHN M TAYLOE                  09/09/2024                        YADKINVILLE TO ADVANCE, CHARLOTTE, ADVANCE AND RETURN                              $22.11
+                                                                      09/11/2024 STAFF TRANSPORTATION
+DBDD20240776  09/28/2024  SAMUEL JOSEPH SHUMATE          09/18/2024                        WILMINGTON TO OAK ISLAND AND RETURN                                                $54.67
+                                                                      09/12/2024 STAFF TRANSPORTATION
+DBDD20240777  09/23/2024  JERRY H LAUGHTER               09/12/2024                        WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                             $21.39
+DBDD20240787  09/27/2024  SAMUEL JOSEPH SHUMATE          09/19/2024   09/13/2024 STAFF TRANSPORTATION                                                                       $133.19
+DBDD20240788  09/27/2024  SAMUEL JOSEPH SHUMATE          09/23/2024                        PFAFFTOWN TO WINSTON SALEM AND RETURN
+                                                                      09/16/2024 STAFF TRANSPORTATION                                                                       $699.48
+DBDD20240789  09/27/2024  JERRY H LAUGHTER               09/24/2024                        SANFORD TO FAYETTEVILLE, BROADWAY AND RETURN
+                                                                      09/17/2024 STAFF PER DIEM                                                                               $20.54
+DBDD20240272                                             01/25/2024                        STAFF TRANSPORTATION                                                               $81.00
+DBDD20240355                                             03/01/2024                        SANFORD TO WARSAW, KENANSVILLE, ROSE HILL AND RETURN
+DBDD20240435                                             05/01/2024   09/14/2024 STAFF TRANSPORTATION                                                                         $73.70
+DBDD20240440                                             04/26/2024                        AULANDER TO THE FOLLOWING AND RETURN: 9/9 SHILOH, MACCLESFIELD;
+DBDD20240608                                             12/20/2023                        9/10 WILSON; 9/11 EDENTON; 9/12 LOUISBURG; 9/13 HENDERSON; 9/14                    $57.08
+DBDD20240684                                             07/16/2024                        GREENVILLE
+DBDD20240767                                             01/01/2024   09/18/2024 STAFF PER DIEM                                                                               $19.71
+DBDD20240768                                             09/17/2024                        STAFF TRANSPORTATION                                                               $75.50
+                                                                                           SANFORD TO TROY, CANDOR, TROY AND RETURN
+                                                                      09/12/2024 STAFF TRANSPORTATION                                                                         $64.32
+                                                                                           ASHEVILLE TO MORGANTON AND RETURN
+                                                                      09/19/2024 STAFF TRANSPORTATION                                                                   $85,227.79
+                                                                                           SANFORD TO DUNN AND RETURN                                                         $62.50
+                                                                      09/23/2024 STAFF PER DIEM                                                                               $72.02
+                                                                                           STAFF TRANSPORTATION                                                               $29.95
+                                                                                           SANFORD TO RALEIGH AND RETURN                                                      $93.04
+                                                                      09/24/2024 STAFF TRANSPORTATION
+                                                                                           ASHEVILLE TO SYLVA AND RETURN                                                 $2,275.00
+                                                                     TRAVEL AND TRANSPORTATION OF PERSONS                                                                     $20.30
+
+              04/04/2024  WILLIAM J SOMERS                           02/02/2024  FRAMING SERVICES                                                                        $1,500.00
+              04/17/2024  WILLIAM J SOMERS                           03/01/2024  FRAMING SERVICES                                                                        $2,300.00
+              05/21/2024  ERIC C WILSON                              05/01/2024  FRAMING SERVICES
+              05/21/2024  LAUREN N HUDSON                            05/02/2024  FRAMING SERVICES
+              07/29/2024  FINANCIAL DISCLOSURE SERVICES              12/20/2023  FINANCIAL DISCLOSURE PREP
+              09/13/2024  LAUREN N HUDSON                            07/16/2024  FRAMING SERVICES
+              09/28/2024  FINANCIAL DISCLOSURE SERVICES              08/31/2024  FINANCIAL DISCLOSURE PREP
+              09/28/2024  FINANCIAL DISCLOSURE SERVICES              09/17/2024  FINANCIAL DISCLOSURE PREP
+

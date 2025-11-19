@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                 OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                  POSTED                                            DATES
+DMCN20241149                                                                     LONDON TO WILLIAMSBURG, STEARNS AND RETURN                                   $96.28
+DMCN20241150                                             START       END         STAFF TRANSPORTATION                                                       $191.26
+DMCN20241151                                                                     LONDON TO WILLIAMSBURG, STEARNS AND RETURN                                 $101.52
+DMCN20241152      09/15/2024  DONNA BAKER MCCLURE        08/06/2024  08/06/2024  STAFF TRANSPORTATION                                                       $116.59   B-1773
+DMCN20241153      09/20/2024  DONNA BAKER MCCLURE        08/07/2024  08/07/2024  LONDON TO PIKEVILLE AND RETURN
+DMCN20241154      09/20/2024  DONNA BAKER MCCLURE        08/08/2024  08/08/2024  STAFF TRANSPORTATION                                                         $72.05
+DMCN20241155      09/20/2024  DONNA BAKER MCCLURE        08/09/2024  08/09/2024  LONDON TO SOMERSET, CORBIN AND RETURN                                        $42.57
+DMCN20241156      09/15/2024  DONNA BAKER MCCLURE        08/12/2024  08/12/2024  STAFF TRANSPORTATION                                                         $91.04
+DMCN20241157      09/15/2024  DONNA BAKER MCCLURE        08/13/2024  08/13/2024  LONDON TO PIKEVILLE AND RETURN                                             $139.51
+DMCN20241158      09/15/2024  DONNA BAKER MCCLURE        08/14/2024  08/14/2024  STAFF TRANSPORTATION                                                       $119.21
+DMCN20241159      09/20/2024  DONNA BAKER MCCLURE        08/15/2024  08/15/2024  LONDON TO SOMERSET AND RETURN                                              $120.52
+DMCN20241160      09/20/2024  DONNA BAKER MCCLURE        08/19/2024  08/19/2024  STAFF TRANSPORTATION                                                       $146.72
+DMCN20241161      09/20/2024  DONNA BAKER MCCLURE        08/21/2024  08/21/2024  LONDON TO MOUNT VERNON AND RETURN                                          $165.71
+DMCN20241162      09/20/2024  DONNA BAKER MCCLURE        08/22/2024  08/22/2024  STAFF TRANSPORTATION                                                       $147.37
+DMCN20241163      09/20/2024  DONNA BAKER MCCLURE        08/27/2024  08/27/2024  LONDON TO STEARNS AND RETURN                                               $207.63
+DMCN20241167      09/20/2024  DONNA BAKER MCCLURE        08/28/2024  08/28/2024  STAFF TRANSPORTATION                                                         $51.09
+DMCN20241168      09/20/2024  DONNA BAKER MCCLURE        08/29/2024  08/29/2024  LONDON TO SOMERSET, MANCHESTER AND RETURN                                    $27.51
+                  09/15/2024  DONNA BAKER MCCLURE        08/30/2024  08/30/2024  STAFF TRANSPORTATION                                                       $127.02
+DMCN20241169      09/15/2024  HALEY E TIPTON             09/09/2024  09/09/2024  LONDON TO HARLAN AND RETURN                                                  $35.00
+DMCN20241170      09/24/2024  LAUREN ELIZABETH REUSS     08/17/2024  08/20/2024  STAFF TRANSPORTATION                                                       $343.60
+DMCN20241171                                                                     LONDON TO HARLAN AND RETURN                                                $125.76
+DMCN20241172      09/23/2024  ELIZABETH HUNTER WHITAKER  08/16/2024  08/16/2024  STAFF TRANSPORTATION                                                         $31.44
+DMCN20241173      09/16/2024  ELIZABETH HUNTER WHITAKER  08/19/2024  08/19/2024  LONDON TO BARBOURVILLE, NANCY AND RETURN                                   $104.80
+DMCN20241174      09/23/2024  ELIZABETH HUNTER WHITAKER  08/20/2024  08/20/2024  STAFF TRANSPORTATION                                                       $110.04
+DMCN20241175      09/23/2024  ELIZABETH HUNTER WHITAKER  08/21/2024  08/21/2024  LONDON TO PRESTONSBURG, HAZARD AND RETURN                                  $164.40
+                  09/23/2024  ELIZABETH HUNTER WHITAKER  08/22/2024  08/22/2024  STAFF TRANSPORTATION                                                       $107.42
+                  09/23/2024  ELIZABETH HUNTER WHITAKER  08/27/2024  08/27/2024  LONDON TO WHITESBURG AND RETURN                                            $118.55
+                  09/23/2024  ELIZABETH HUNTER WHITAKER  08/28/2024  08/28/2024  STAFF TRANSPORTATION
+                                                                                 LONDON TO INEZ, DEBORD AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 LONDON TO CORBIN AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 LEXINGTON TO GEORGETOWN AND RETURN
+                                                                                 STAFF PER DIEM
+                                                                                 STAFF TICKET FEES
+                                                                                 STAFF TRANSPORTATION
+                                                                                 WASHINGTON DC TO LOUISVILLE, LEXINGTON AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 BOWLING GREEN TO JAMESTOWN AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 BOWLING GREEN TO SCOTTSVILLE AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 BOWLING GREEN TO OWENSBORO AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 BOWLING GREEN TO OWENSBORO AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 BOWLING GREEN TO LOUISVILLE AND RETURN
+                                                                                 STAFF TRANSPORTATION
+                                                                                 BOWLING GREEN TO CAMPBELLSVILLE AND RETURN
+                                                                                 STAFF TRANSPORTATION
+

@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                     OBLIGATION/SERVICE                                                    DESCRIPTION           AMOUNT ($)
+                  POSTED                                                DATES
+DBTL20240481                                                                         FRESNO TO BAKERSFIELD AND RETURN                                                    $497.98
+DBTL20240483                                                 START       END         SENATOR TRANSPORTATION                                                                $27.66
+                                                                                     AIRFARE FOR SEN BUTLER LOS ANGELES TO WASHINGTON DC
+DBTL20240484      07/19/2024  CITIBANK - TRAVEL CBA CARD     06/29/2024  06/30/2024  STAFF INCIDENTALS                                                                   $316.16
+DBTL20240485      08/01/2024  KATELYN S CURRIE               06/24/2024  06/26/2024  STAFF PER DIEM                                                                      $760.49
+DBTL20240486                                                                         STAFF TRANSPORTATION
+                  07/18/2024  CITIBANK - TRAVEL CBA CARD     06/26/2024  06/26/2024  LONG BEACH TO PHOENIX AZ AND RETURN                                                   $98.10
+                  07/17/2024  CITIBANK - TRAVEL CBA CARD     06/26/2024  06/26/2024  SENATOR TRANSPORTATION                                                                $55.00
+                  08/01/2024  LAPHONZA R BUTLER              05/24/2024  06/02/2024  AIRFARE FOR SEN BUTLER PHOENIX AZ TO SAN DIEGO                                        $82.86
+                                                                                     SENATOR TRANSPORTATION                                                              $244.20
+DBTL20240487      08/02/2024  LAPHONZA R BUTLER              03/01/2024  03/03/2024  TRAIN FARE FOR SEN BUTLER SAN DIEGO TO LOS ANGELES                                  $106.79   B-756
+                                                                                     SENATOR INCIDENTALS
+DBTL20240488      07/20/2024  ALEXANDER H CHANG              05/19/2024  07/06/2024  SENATOR PER DIEM                                                                    $135.30
+DBTL20240489      07/19/2024  ALEXANDER H CHANG              07/07/2024  07/14/2024  SENATOR TRANSPORTATION                                                              $896.63
+DBTL20240492      07/19/2024  NICHOLAS FIDENCIO HERNANDEZ    07/08/2024  07/08/2024  WASHINGTON DC TO HONOLULU HI, TAIPEI TAIWAN TW, SINGAPORE                           $217.08
+DBTL20240493      07/20/2024  NICHOLAS FIDENCIO HERNANDEZ    07/10/2024  07/10/2024  SINGAPORE SG AND RETURN
+DBTL20240494      07/18/2024  EDWIN A SEVILLA                07/12/2024  07/12/2024  SENATOR INCIDENTALS                                                                   $86.49
+DBTL20240495      07/19/2024  EDWIN A SEVILLA                07/13/2024  07/13/2024  SENATOR PER DIEM                                                                      $32.83
+DBTL20240502      08/05/2024  GENEVA M MONTELEONE            06/18/2024  06/18/2024  WASHINGTON DC TO MONTGOMERY AL AND RETURN                                             $29.61
+                                                                                     STAFF TRANSPORTATION                                                                  $53.06
+DBTL20240503      08/05/2024  GENEVA M MONTELEONE            06/21/2024  07/18/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $94.33
+                                                                                     STAFF TRANSPORTATION                                                                  $13.82
+DBTL20240504      08/02/2024  JOANNE M HAYES-WHITE           07/19/2024  07/19/2024  WASHINGTON DC OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $94.47
+DBTL20240505      08/02/2024  JOANNE M HAYES-WHITE           07/15/2024  07/15/2024  STAFF TRANSPORTATION                                                                $172.86
+DBTL20240506      08/05/2024  DENISE N ALTOUNIAN SAHATDJIAN  07/12/2024  07/12/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DBTL20240511      08/07/2024  ALBERTO SANCHEZ GONZALEZ       07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                                  $21.44
+DBTL20240512      08/07/2024  GENEVA M MONTELEONE            07/26/2024  07/29/2024  LOS ANGELES OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                  $37.39
+                                                                                     STAFF TRANSPORTATION                                                                $127.30
+DBTL20240513      09/16/2024  GABRIELLE S FEDER              07/28/2024  07/30/2024  SAN FRANCISCO TO LIVERMORE AND RETURN                                                 $28.94
+                                                                                     STAFF TRANSPORTATION                                                                  $51.59
+                                                                                     SAN FRANCISCO TO MORGAN HILL AND RETURN
+                                                                                     STAFF PER DIEM                                                                        $87.12
+                                                                                     STAFF TRANSPORTATION
+                                                                                     LOS ANGELES TO POINT MUGU NAWC, VENTURA AND RETURN
+                                                                                     STAFF TRANSPORTATION
+                                                                                     CULVER CITY TO THE FOLLOWING AND RETURN: 6/21 RANCHO PALOS
+                                                                                     VERDES; 6/25, 7/18 LONG BEACH; 7/9 IN AND AROUND; 6/28 LOS ANGELES
+                                                                                     TO THOUSAND OAKS AND RETURN
+                                                                                     STAFF TRANSPORTATION
+                                                                                     SAN FRANCISCO OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                     STAFF TRANSPORTATION
+                                                                                     SAN FRANCISCO TO SAUSALITO AND RETURN
+                                                                                     STAFF TRANSPORTATION
+                                                                                     FRESNO TO MODESTO AND RETURN
+                                                                                     STAFF TRANSPORTATION
+                                                                                     SAN DIEGO TO CHULA VISTA AND RETURN
+                                                                                     STAFF TRANSPORTATION
+                                                                                     CULVER CITY TO THE FOLLOWING AND RETURN: 7/26 LOS ANGELES; 7/29
+                                                                                     RANCHO PALOS VERDES, LOS ANGELES
+                                                                                     STAFF INCIDENTALS
+

@@ -1,0 +1,59 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME      OBLIGATION/SERVICE      DESCRIPTION                                                     AMOUNT ($)
+                   POSTED                                                      DATES
+DSAA21M53031                  NICOLE L DUNIFON                                                                                                                                $58.00
+                  08/13/2024                                        START       END
+DSAA21M53033                  NICOLE L DUNIFON                                                                                                                              $386.35
+                  09/20/2024                                        07/11/2024                        STAFF TRANSPORTATION                                                    $71.51
+TDEP202400872A                FINANCIAL CLERK US SENATE                                               WASHINGTON DC TO CHICAGO IL AND RETURN
+VSAA22404287      09/27/2024  ROGER M SOLOMON PHD                   08/15/2024   07/20/2024 STAFF PER DIEM                                                                  $519.78
+VSAA22404327      04/08/2024  CARE.COM INC                                                            STAFF TRANSPORTATION                                                    $62.60
+VSAA22404328      04/09/2024  CARE.COM INC                          09/27/2024                        WASHINGTON DC TO MILWAUKEE WI AND RETURN
+VSAA22404329      04/09/2024  CARE.COM INC                          10/05/2023   08/24/2024 STAFF PER DIEM                                                               $4,537.40
+VSAA22404330      04/09/2024  CARE.COM INC                          12/01/2023                        STAFF TRANSPORTATION
+VSAA22404413      04/09/2024  JARED MANAGEMENT LLC                  01/01/2024                        WASHINGTON DC TO MILWAUKEE WI, CHICAGO IL AND RETURN             -$46,156.90
+VSAA22404414      04/22/2024  KBS REAL ESTATE INVESTMENT TRUST III  01/15/2024  TRAVEL AND TRANSPORTATION OF PERSONS                                                     $6,000.00
+VSAA22404524      04/18/2024  INC                                   11/01/2023                                                                                           $3,309.41
+VSAA22404528      04/23/2024  LAMMONS CONSTRUCTION COMPANY INC      02/05/2024  09/27/2024  TECHNICAL SUPPORT                                                            $1,601.33
+VSAA22404605      05/03/2024  ALTERION INC                                      03/18/2024  TECHNICAL SUPPORT                                                            $1,825.75
+VSAA22404715      04/25/2024  CARE.COM INC                          12/07/2023  12/31/2023  TECHNICAL SUPPORT                                                            $1,721.91
+VSAA22405193      04/26/2024  AUTOMATED SIGNATURE TECHNOLOGY INC                01/14/2024  TECHNICAL SUPPORT
+VSAA22405222      07/18/2024  VITEC VIDEOCOM INC                    11/01/2023  01/31/2024  TECHNICAL SUPPORT                                                           $48,587.48
+VSAA22405384      05/14/2024  312 WALNUT LLC                        03/01/2024  11/30/2023  TECHNICAL SUPPORT
+VSAA22405397      05/29/2024  ALTERION INC                          03/01/2024  03/21/2024  NON-FEDERAL FAC MAINT, REPAIR                                               $59,646.00
+VSAA22405566      05/24/2024  LIFECARE INC                          01/01/2024
+VSAA22405593      06/06/2024  THE PROW COMPANY INC                  04/04/2024  01/18/2024 NON-FEDERAL FAC MAINT, REPAIR                                                $47,557.95
+VSAA22405826      05/30/2024  BAILEY MARSHALL CORPORATION           12/16/2020                                                                                           $1,602.10
+VSAA22405846      06/13/2024  PFINIX LLC                            04/01/2024   02/29/2024 NON-FEDERAL FAC MAINT, REPAIR                                                $3,325.22    B-344
+VSAA22405929      06/06/2024  AUTOMATED SIGNATURE TECHNOLOGY INC    04/01/2024   03/31/2024 MANAGEMENT CONSULTANTS                                                       $5,175.00
+VSAA22406014      05/30/2024  NAJIA SYSTEMS LLC                     11/28/2023   03/31/2024 TECHNICAL SUPPORT                                                            $3,850.00
+VSAA22406095      06/10/2024  NAJIA SYSTEMS LLC                     01/22/2024   03/31/2024 NON-IT OFFICE EQUIP MAINT                                                       $400.00
+VSAA22406174      07/18/2024  ALTERION INC                          06/01/2024   04/04/2024 VOICE, DATA COMM EQP MAINT                                                   $3,321.31
+VSAA22406531      06/25/2024  LIFECARE INC                          08/24/2023   12/16/2020 NON-FEDERAL FAC MAINT, REPAIR                                                $3,325.22
+VSAA22406717      07/24/2024  WASHINGTON COUNTY TREASURER           03/01/2024   04/30/2024 MANAGEMENT CONSULTANTS
+VSAA22406880      07/15/2024  DAMILIC CORPORATION                   03/28/2024   04/30/2024 TECHNICAL SUPPORT                                                           $10,817.58
+VSAA22407158      07/19/2024  SMITH GLOBAL LLC                      05/01/2024   11/28/2023 NON-FEDERAL FAC MAINT, REPAIR                                                $7,659.05
+VSAA22407353      07/23/2024  AUTOMATED SIGNATURE TECHNOLOGY INC    05/01/2024   01/22/2024 NON-FEDERAL FAC MAINT, REPAIR
+VSAA22407403      08/05/2024  LIVEU INC                             06/01/2023   05/31/2025 VOICE, DATA COMM EQP MAINT                                                  $63,612.00
+VSAA22407593      09/12/2024  PFINIX LLC                            04/01/2024   08/24/2023 NON-IT OFFICE EQUIP MAINT                                                       $425.00
+VSAA22408249      08/20/2024  ALTERION INC                          02/02/2024   03/27/2024 APPLICATION SOFTWARE MAINT
+VSAA22408296      09/19/2024  JOST CONTRACTING LLC                  04/01/2024   05/30/2024 APPLICATION SOFTWARE MAINT                                                   $4,268.66
+VSAA22408451      09/20/2024  ALTERION INC                          07/01/2024   05/31/2024 MANAGEMENT CONSULTANTS                                                       $4,462.69
+VSAA22408538      09/27/2024  CSHV 271 17TH STREET LLC              12/27/2021   05/31/2024 TECHNICAL SUPPORT                                                            $4,601.30
+VSAA22408594      09/27/2024  PFINIX LLC                            07/01/2024   05/31/2024 FEDERAL FAC MAINT, REPAIR                                                    $1,198.59
+                  09/27/2024  ROGER M SOLOMON PHD                   08/17/2023   06/30/2024 NON-IT OFFICE EQUIP MAINT                                                   $23,874.00
+TDEP202400528                                                       08/01/2024   02/02/2024 NON-FEDERAL FAC MAINT, REPAIR                                                $3,614.25
+TDEP202400744     05/30/2024  FINANCIAL CLERK US SENATE             08/15/2022   06/30/2024 NON-IT OFFICE EQUIP MAINT                                                   $17,082.36
+                  07/15/2024  FINANCIAL CLERK US SENATE             09/12/2024   07/31/2024 APPLICATION SOFTWARE MAINT                                                   $5,250.00
+                                                                    04/22/2024   12/27/2021 APPLICATION SOFTWARE MAINT                                                   $1,782.36
+                                                                                 07/31/2024 MANAGEMENT CONSULTANTS                                                       $2,400.00
+                                                                    05/30/2024   08/27/2024 NON-FEDERAL FAC MAINT, REPAIR                                                $1,157.67
+                                                                    07/15/2024   08/31/2024 MANAGEMENT CONSULTANTS                                                       $6,441.97
+                                                                                 10/31/2022 NON-FEDERAL FAC MAINT, REPAIR                                                $1,268.02
+                                                                                 09/12/2024 AUDIO, VISUAL EQUIP MAINT                                                   $52,769.00
+                                                                                 09/13/2024 TECHNICAL SUPPORT                                                           $57,000.00
+                                                                                OTHER CONTRACTUAL SERVICES                                                               $7,200.00
+                                                                                                                                                                      $421,976.28
+                                                                                05/30/2024  VOICE & DATA COMM EQUIPMENT
+                                                                                07/15/2024  VOICE & DATA COMM EQUIPMENT                                              -$183,295.00
+                                                                                                                                                                     -$143,627.15
+

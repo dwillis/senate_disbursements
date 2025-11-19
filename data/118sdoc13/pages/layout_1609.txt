@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION  AMOUNT ($)
+                   POSTED                                                  DATES
+DKLO20240604                  ALLISON K GLASS                                           STAFF TRANSPORTATION                                                          $5.09
+DKLO20240605      09/10/2024  ALLISON K GLASS                   START       END         MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $12.32
+DKLO20240606      09/10/2024  ALLISON K GLASS                                           STAFF TRANSPORTATION                                                         $16.48
+DKLO20240607      09/03/2024  ALLISON K GLASS                   05/18/2024  05/18/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $11.25
+DKLO20240608      09/03/2024  ALLISON K GLASS                                           STAFF TRANSPORTATION                                                         $10.31
+DKLO20240609      09/03/2024  ALLISON K GLASS                   05/18/2024  05/18/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $17.28
+DKLO20240610      09/03/2024  ALLISON K GLASS                                           STAFF TRANSPORTATION
+DKLO20240611      09/03/2024  ALLISON K GLASS                   06/01/2024  06/01/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $2.27
+DKLO20240612      09/03/2024  ALLISON K GLASS                                           STAFF TRANSPORTATION                                                         $23.17
+DKLO20240613      09/03/2024  ALLISON K GLASS                   06/10/2024  06/10/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $22.24
+DKLO20240614      09/03/2024  ALLISON K GLASS                                           STAFF TRANSPORTATION
+DKLO20240615      09/03/2024  ALLISON K GLASS                   06/24/2024  06/24/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $2.27
+DKLO20240616      09/03/2024  ALLISON K GLASS                                           STAFF TRANSPORTATION                                                         $31.08
+DKLO20240617      09/03/2024  ALLISON K GLASS                   06/25/2024  06/25/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DKLO20240618      09/03/2024  ALLISON K GLASS                                           STAFF TRANSPORTATION                                                          $9.51
+DKLO20240619      09/03/2024  ALLISON K GLASS                   06/26/2024  06/26/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $11.25
+DKLO20240620      09/03/2024  ALLISON K GLASS                                           STAFF TRANSPORTATION
+DKLO20240621      09/03/2024  ALLISON K GLASS                   06/27/2024  06/27/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $1.07
+DKLO20240622      09/03/2024  BENJAMIN J LIEN                                           STAFF TRANSPORTATION                                                          $1.07
+DKLO20240623      08/22/2024  CHARLES R ACKMAN                  06/28/2024  06/28/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $21.97
+DKLO20240625      08/22/2024  CHARLES R ACKMAN                                          STAFF TRANSPORTATION                                                          $2.27
+DKLO20240626      08/22/2024  BENJAMIN J LIEN                   06/30/2024  06/30/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                          $8.84
+DKLO20240627      08/22/2024  ALLISON K GLASS                                           STAFF TRANSPORTATION                                                       $199.66
+DKLO20240628      09/03/2024  ERIKA NELSON                      07/09/2024  07/09/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                         $71.69  B-1572
+DKLO20240629      08/22/2024  PATRICK D KELLIHER                                        STAFF TRANSPORTATION                                                       $215.74
+                  08/22/2024                                    07/08/2024  07/08/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $115.91
+                                                                                        STAFF TRANSPORTATION                                                         $24.25
+                                                                07/10/2024  07/10/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                       $217.75
+                                                                                        STAFF TRANSPORTATION                                                       $187.60
+                                                                07/15/2024  07/15/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                07/16/2024  07/16/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                07/17/2024  07/17/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                07/18/2024  07/18/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                07/23/2024  07/23/2024  MOORHEAD TO PEQUOT LAKES AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/24/2024  07/24/2024  FARIBAULT TO MINNEAPOLIS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/25/2024  07/25/2024  FARIBAULT TO JACKSON, WORTHINGTON, WINDOM AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/31/2024  07/31/2024  MOORHEAD TO EAST GRAND FORKS AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                07/31/2024  07/31/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                07/24/2024  07/24/2024  MINNEAPOLIS TO MORGAN, RENVILLE AND RETURN
+                                                                                        STAFF TRANSPORTATION
+                                                                08/07/2024  08/07/2024  MINNEAPOLIS TO MONTEVIDEO AND RETURN
+
+                                                                08/08/2024  08/08/2024
+

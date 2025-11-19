@@ -1,0 +1,53 @@
+DOCUMENT NO.    DATE                        PAYEE NAME  OBLIGATION/SERVICE                                                DESCRIPTION  AMOUNT ($)
+              POSTED                                               DATES
+                      JAMES, DEVIN                                          DATA PRODUCTION SPECIALIST                                             $43,762.37
+                      DO, HENRY Q                       START  END          SYSTEMS & DATA PRODUCTION SPECIALIST                                   $55,030.44
+                      GLOVER, MICHAEL L                                     LEAD DATA PRODUCTION SPECIALIST                                        $55,005.94
+                      GILL, DWIGHT M JR                                     LEAD DATA PRODUCTION SPECIALIST                                        $54,799.69  B-119
+                      HERNANDEZ, XAVIER A                                   DATA PRODUCTION SPECIALIST                                             $40,928.86
+                      WALKER, KENNARD                                       DATA PRODUCTION SPECIALIST                                             $49,885.44
+                      ANDERSON, SHONETTE R                                  DATA PRODUCTION SPECIALIST                                             $43,690.16
+                      CHINEA, KINDU E                                       DATA PRODUCTION SPECIALIST                                             $44,505.32
+                      BARKSDALE, JOSHUA D                                   DATA PRODUCTION SPECIALIST                                             $33,684.68
+                      KLEMMER, JOHN H                                       LEAD PHOTOGRAPHER                                                      $66,490.04
+                      TIMS, GREGORY L                                       LEAD PHOTOGRAPHIC IMAGING SPECIALIST                                   $60,619.34
+                      JACKSON, KEVIN J                                      SENIOR SUPERVISOR CUSTOMER & SYSTEMS                                   $82,840.44
+                      CRAIG, JILL M                                         LEAD VISUAL INFORMATION SPECIALIST FROM JUL. 8                         $25,361.09
+                      DUNIGAN, LYNN                                         SENIOR SUPERVISOR PHOTOGRAPHIC LAB TO JUL. 27                          $65,355.49
+                      PALMER, ANDREA                                        PHOTOGRAPHIC SERVICES SPECIALIST                                       $55,235.62
+                      KANASKIE, CAROL L                                     LEAD DIGITAL SPECIALIST                                                $60,752.58
+                      BOUCHARD, RENEE M                                     PHOTOGRAPHER                                                           $55,105.65
+                      HAMMEL, REBECCA L                                     PHOTOGRAPHER                                                           $60,878.48
+                      ELASIGUE, CHRISTINE M                                 DIGITAL ASSETS AND SYSTEMS SPECIALIST                                  $46,347.74
+                      SHENK, KRISTIN D                                      PHOTOGRAPHIC IMAGING SPECIALIST TO AUG. 31                             $43,321.73
+                      WALLIS, MATTHEW T                                     PHOTOGRAPHIC IMAGING SPECIALIST                                        $39,637.34
+                      PINEDA, ROSA E                                        PHOTOGRAPHER                                                           $47,691.79
+                      RIOS, DANIEL B                                        PHOTOGRAPHER                                                           $50,430.59
+                      SHINKLE, JOHN D                                       PHOTOGRAPHER                                                           $43,188.81
+                      ROGOWSKI, DAVID J                                     SENIOR SUPERVISOR PHOTO SERVICES                                       $68,050.15
+                      CULLEN, DANIEL M                                      PHOTOGRAPHIC SERVICES MANAGER                                          $91,039.13
+                      DONNELL, RYAN PHILIPS                                 PHOTOGRAPHER                                                           $51,754.20
+                      LIGHTFOOT, DANIEL JOSIAH                              VISUAL INFORMATION SPECIALIST FROM JUL. 1                              $23,499.96
+                      MERTZ, JAMES L                                        VISUAL INFORMATION SPECIALIST FROM JUL. 1                              $24,750.00
+                      SUTHERLAND, ERIN C                                    VISUAL INFORMATION SPECIALIST FROM JUL. 1                              $24,750.00
+                      GALLAGHER, LUKE                                       ADMINISTRATIVE SPECIALIST                                              $41,446.39
+                      BANAVONG, ALLISON N                                   ADMINISTRATIVE MANAGER                                                 $66,727.64
+                      FISHER, ASHLEY E                                      ADMINISTRATIVE SPECIALIST                                              $34,169.98
+                      GRUTZIK, JOHN E                                       BROADCAST SECTION SENIOR SUPERVISOR                                    $85,949.17
+                      LOFTUS, KEVIN J                                       FIELD BROADCAST TECHNICIAN                                             $56,442.30
+                      GRAEF, LOLITA NISLEY                                  BROADCAST SECTION SENIOR SUPERVISOR                                    $62,930.75
+                      COMMEREE, MATTHEW R                                   SENIOR BROADCAST TECHNICIAN                                            $75,345.85
+                      COOPER, BLAIR J                                       BROADCAST PRODUCTION DIRECTOR                                          $55,901.57
+                      POWELL, JEREMY J                                      FIELD BROADCAST TECHNICIAN                                             $51,081.29
+                      GEORGE, KRYSTINA                                      BROADCAST TECHNICIAN                                                   $48,910.22
+                      PECORARO, VINCENT T                                   FIELD BROADCAST TECHNICIAN                                             $51,377.86
+                      MATTOS, LUIS M                                        BROADCAST ENGINEER                                                     $58,932.14
+                      WILDE, CHRISTOPHER P                                  BROADCAST ENGINEERING MANAGER                                          $81,808.22
+                      HEACOCK, TIMOTHY W                                    BROADCAST ENGINEER                                                     $69,988.82
+                      MCDONALD, CHRISTOPHER B                               BROADCAST ENGINEERING SENIOR SUPERVISOR TO SEP. 15                     $72,825.35
+                      MCCORMICK, ROBERT TODD                                BROADCAST ENGINEER                                                     $62,746.07
+                      SANTIAGO MARTINEZ, JAVIER B                           BROADCAST ENGINEER                                                     $60,738.43
+                      KINNEY, GEORGE                                        SR PRGM MNGR - BROADCAST TECH                                          $78,680.37
+                      BATES, JEFFREY D                                      BROADCAST AND INFORMATION TECHNOLOGY ENGINEER                          $68,834.98
+                      LANGLEY, ROBERT C                                     BROADCAST PRODUCTION DIRECTOR                                          $79,590.75
+

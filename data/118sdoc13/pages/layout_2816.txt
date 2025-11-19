@@ -1,0 +1,57 @@
+DOCUMENT NO.    DATE      PAYEE NAME                      OBLIGATION/SERVICE      DESCRIPTION                                                               AMOUNT ($)
+              POSTED                                                 DATES
+                                                                                                                                                                              $18.75
+                                                          START       END
+                                                                                                                                                                              $26.25
+DBHU20240133  09/09/2024  EMILY M BLAYDES                 08/05/2024                        TICKET FEES                                                                     $150.00
+DBHU20240134  09/09/2024  MINDY CHENG                     08/05/2024                        AIRFARE FOR M CHENG WASHINGTON DC TO CLEVELAND OH AND RETURN
+DBHU20240135                                                           08/06/2024 STAFF INCIDENTALS                                                                           $26.25
+              09/09/2024  CITIBANK - TRAVEL CBA CARD      08/25/2024                        STAFF PER DIEM                                                                  $179.57
+DBHU20240139                                                                                WASHINGTON DC TO CLEVELAND OH AND RETURN
+DBHU20240140  09/16/2024  WASHINGTON H CARLISLE           06/13/2024   08/06/2024 STAFF INCIDENTALS                                                                           $84.58
+DBHU20240141                                                                                STAFF PER DIEM
+DBHU20240142  09/12/2024  WASHINGTON H CARLISLE           04/15/2024                        STAFF TRANSPORTATION                                                            $986.88
+DBHU20240143                                                                                WASHINGTON DC TO CLEVELAND OH AND RETURN                                          $30.00
+DBHU20240145  09/13/2024  CITIBANK - TRAVEL CBA CARD      08/27/2024   08/30/2024 STAFF TRANSPORTATION                                                                                B-2-25
+DBHU20240147  09/13/2024  CITIBANK - TRAVEL CBA CARD      08/27/2024                        TICKET FEES                                                                       $18.99
+              09/13/2024  CITIBANK - TRAVEL CBA CARD      08/27/2024                        AIRFARE FOR B COOPER AS FOLLOWS: 4/25-30 WASHINGTON DC TO                       $177.52
+              09/19/2024  CITIBANK - TRAVEL CBA CARD      08/27/2024                        ANCHORAGE AK AND RETURN; 4/27-28 ANCHORAGE AK TO NOME AK AND                    $293.99
+                                                                                            RETURN
+              09/20/2024  JONATHAN C TSENTAS              08/26/2024   06/14/2024 STAFF INCIDENTALS                                                                           $30.11
+                                                                                            STAFF PER DIEM                                                                  $196.00
+                                                          02/01/2024                        STAFF TRANSPORTATION                                                            $114.95
+                                                          03/01/2024                        ARLINGTON VA TO DETROIT MI, TOLEDO OH, DETROIT AND RETURN
+                                                          04/01/2024   04/16/2024 STAFF INCIDENTALS                                                                         $566.00
+                                                          05/01/2024                        STAFF PER DIEM                                                                    $30.00
+                                                          06/01/2024                        STAFF TRANSPORTATION
+                                                          07/01/2024                        ARLINGTON VA TO CINCINNATI OH AND RETURN                                        $566.00
+                                                          03/12/2024   08/28/2024 STAFF TRANSPORTATION                                                                        $30.00
+                                                          01/01/2024                        TICKET FEES
+                                                          03/01/2024                        AIRFARE FOR L FARRIS ANCHORAGE AK TO BETHEL AK AND RETURN                       $566.00
+                                                                       08/28/2024 STAFF TRANSPORTATION                                                                        $30.00
+                                                                                            TICKET FEES
+                                                                                            AIRFARE FOR G CONLAN ANCHORAGE AK TO BETHEL AK AND RETURN                       $133.95
+                                                                       08/28/2024 STAFF TRANSPORTATION                                                                        $30.00
+                                                                                            TICKET FEES
+                                                                                            AIRFARE FOR E GREENBAUM ANCHORAGE AK TO BETHEL AK AND RETURN                      $65.52
+                                                                       08/28/2024 STAFF TRANSPORTATION                                                                      $491.65
+                                                                                            TICKET FEES                                                                  $1,198.67
+                                                                                            TRAIN FARE FOR W CARLISLE WASHINGTON DC TO PHILADELPHIA PA AND
+                                                                                            RETURN                                                                      $14,044.28
+                                                                       08/28/2024 STAFF INCIDENTALS                                                                         $144.90
+                                                                                            STAFF PER DIEM                                                                    $81.90
+                                                                                            STAFF TRANSPORTATION                                                            $121.50
+                                                                                            WASHINGTON DC TO DETROIT MI, TOLEDO OH, CLEVELAND OH, COLUMBUS                  $130.50
+                                                                                            OH AND RETURN                                                                     $36.00
+                                                                      TRAVEL AND TRANSPORTATION OF PERSONS                                                                  $159.30
+                                                                                                                                                                            $837.00
+0002852523    04/18/2024  SERGEANT AT ARMS                            02/29/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                            $500.00
+0002853712    05/14/2024  SERGEANT AT ARMS                            03/31/2024  FEDERAL AUDIO, VISUAL RECORDNG                                                            $500.00
+0002854407    05/23/2024  SERGEANT AT ARMS                            04/30/2024  FEDERAL AUDIO, VISUAL RECORDNG
+0002855890    06/27/2024  SERGEANT AT ARMS                            05/31/2024  FEDERAL AUDIO, VISUAL RECORDNG
+0002857257    08/07/2024  SERGEANT AT ARMS                            06/30/2024  FEDERAL AUDIO, VISUAL RECORDNG
+0002858826    09/13/2024  SERGEANT AT ARMS                            07/31/2024  FEDERAL AUDIO, VISUAL RECORDNG
+DBHU20240071  04/01/2024  TRUSTPOINT COURT REPORTING LLC              03/12/2024  STENOGRAPHIC SERVICES
+DBHU20240073  04/14/2024  CREATIVENGINE CORPORATION                   01/31/2024  IT EQUIP MAINT
+DBHU20240075  04/11/2024  CREATIVENGINE                               03/31/2024  LICENSING FEES
+

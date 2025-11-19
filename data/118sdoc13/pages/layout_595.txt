@@ -1,0 +1,31 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE  DESCRIPTION                      AMOUNT ($)
+                                                                           DATES
+0002852737         POSTED     SERGEANT AT ARMS                                                                                       $827.98
+0002853793                    SERGEANT AT ARMS                  START       END                                                      $400.00
+0002853975        04/18/2024  SERGEANT AT ARMS                                                                                    $3,100.00
+0002854001        05/15/2024  SERGEANT AT ARMS                  02/01/2024   02/29/2024 VOICE & DATA COMM EQUIPMENT                  $800.00   B-577
+0002854032        05/15/2024  SERGEANT AT ARMS                  03/01/2024   03/31/2024 IT EQUIPMENT                             $15,028.00
+0002854037        05/14/2024  SERGEANT AT ARMS                  03/01/2024   03/31/2024 IT EQUIPMENT                              $7,738.05
+0002855991        05/14/2024  SERGEANT AT ARMS                  03/01/2024   03/31/2024 IT EQUIPMENT                                 $749.99
+0002857386        05/14/2024  SERGEANT AT ARMS                  03/01/2024   03/31/2024 SOFTWARE LICENSE                          $1,488.91
+DBLA20241020      06/28/2024  CITIBANK - PURCHASE CARD          03/01/2024   03/31/2024 SOFTWARE LICENSE                             $339.98
+DBLA20241239      08/07/2024  CITIBANK - PURCHASE CARD          05/01/2024   05/31/2024 VOICE & DATA COMM EQUIPMENT
+DBLA20241499      04/04/2024  CITIBANK - PURCHASE CARD          06/01/2024   06/30/2024 IT EQUIPMENT                                   $14.19
+DBLA20241622      04/26/2024  SPENCER HURWITZ                   02/29/2024   02/29/2024 AUDIO, VISUAL EQUIPMENT                      $619.96
+DBLA20241628      05/31/2024  PERATON ENTERPRISE SOLUTIONS      04/10/2024   04/10/2024 AUDIO, VISUAL EQUIPMENT
+DBLA20241678      06/24/2024  PERATON ENTERPRISE SOLUTIONS      05/09/2024   05/09/2024 VOICE & DATA COMM EQUIPMENT                    $29.96
+DBLA20241722      07/01/2024  VERIZON WIRELESS                  06/01/2024   06/03/2024 VOICE & DATA COMM EQUIPMENT                  $624.89
+DBLA20241907      07/03/2024  PERATON INC.                      05/16/2024   05/16/2024 AUDIO, VISUAL EQUIPMENT                   $3,025.86
+DBLA20241973      07/03/2024  CITIBANK - PURCHASE CARD          05/08/2024   05/08/2024 IT EQUIPMENT                              $2,249.97
+DBLA20241975      08/09/2024  CITIBANK - PURCHASE CARD          05/11/2024   06/10/2024 VOICE & DATA COMM EQUIPMENT               $3,117.98
+DBLA20242071      08/23/2024  PERATON ENTERPRISE SOLUTIONS      06/04/2024   06/04/2024 IT EQUIPMENT                                 $345.00
+DBLA20242072      08/26/2024  PERATON ENTERPRISE SOLUTIONS      07/12/2024   07/12/2024 VOICE & DATA COMM EQUIPMENT
+DBLA20242157      09/14/2024  CITIBANK - PURCHASE CARD          07/30/2024   07/30/2024 IT EQUIPMENT                                   $57.78
+DBLA20242158      09/17/2024  CITIBANK - PURCHASE CARD          07/24/2024   07/24/2024 IT EQUIPMENT                                 $907.80
+DBLA20242175      09/19/2024  CITIBANK - PURCHASE CARD          07/24/2024   07/24/2024 IT EQUIPMENT                              $3,426.06
+                  09/18/2024                                    09/01/2024   09/01/2024 IT EQUIPMENT                                 $169.33
+                  09/23/2024                                    09/05/2024   09/05/2024 AUDIO, VISUAL EQUIPMENT
+                                                                09/12/2024   09/12/2024 AUDIO, VISUAL EQUIPMENT                        $19.98
+                                                                            ACQUISITION OF ASSETS                                      $29.55
+                                                                                                                                 $45,111.22
+

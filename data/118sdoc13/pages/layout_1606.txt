@@ -1,0 +1,55 @@
+    DOCUMENT NO.     DATE                           PAYEE NAME  OBLIGATION/SERVICE                                                    DESCRIPTION        AMOUNT ($)
+                   POSTED                                                  DATES
+DKLO20240482                  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                           $517.10
+DKLO20240483      06/28/2024  CITIBANK - SENATOR IBA CARD       START       END         AIRFARE FOR SEN KLOBUCHAR SAINT PAUL TO WASHINGTON DC                            $517.10
+DKLO20240484      07/01/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                           $517.10
+DKLO20240485      07/01/2024  CITIBANK - SENATOR IBA CARD       06/03/2024  06/03/2024  AIRFARE FOR SEN KLOBUCHAR WASHINGTON DC TO MINNEAPOLIS                           $517.10
+DKLO20240489      06/28/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                           $266.10
+DKLO20240493      06/28/2024  CITIBANK - SENATOR IBA CARD       05/23/2024  05/23/2024  AIRFARE FOR SEN KLOBUCHAR WASHINGTON DC TO MINNEAPOLIS                           $265.90
+DKLO20240494      07/09/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                           $517.10
+DKLO20240495      07/09/2024  CITIBANK - SENATOR IBA CARD       05/16/2024  05/16/2024  AIRFARE FOR SEN KLOBUCHAR WASHINGTON DC TO SAINT PAUL                            $265.90
+DKLO20240496      07/09/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                           $265.90
+DKLO20240498      07/09/2024  CITIBANK - SENATOR IBA CARD       06/05/2024  06/05/2024  AIRFARE FOR SEN KLOBUCHAR WASHINGTON DC TO SAINT PAUL                            $265.90
+DKLO20240501      07/09/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                           $266.10
+DKLO20240502      07/09/2024  CITIBANK - SENATOR IBA CARD       06/06/2024  06/06/2024  AIRFARE FOR SEN KLOBUCHAR WASHINGTON DC TO MINNEAPOLIS                           $266.10
+DKLO20240504      07/09/2024  ROMMEL WONG LEE                                           SENATOR TRANSPORTATION
+DKLO20240505      07/02/2024  CHARLES R ACKMAN                  02/01/2024  02/01/2024  AIRFARE FOR SEN KLOBUCHAR MINNEAPOLIS TO WASHINGTON DC                             $24.25
+DKLO20240506      07/02/2024  ROMMEL WONG LEE                                           SENATOR TRANSPORTATION                                                             $20.77
+DKLO20240507      07/02/2024  KIMBERLY HUNT                     02/05/2024  02/05/2024  AIRFARE FOR SEN KLOBUCHAR WASHINGTON DC TO MINNEAPOLIS
+DKLO20240511      07/02/2024  CITIBANK - SENATOR IBA CARD                               SENATOR TRANSPORTATION                                                              $5.49
+DKLO20240512      07/09/2024  CITIBANK - SENATOR IBA CARD       02/08/2024  02/08/2024  AIRFARE FOR SEN KLOBUCHAR MINNEAPOLIS TO WASHINGTON DC                           $532.20
+DKLO20240519      07/09/2024  ALLISON K GLASS                                           SENATOR TRANSPORTATION                                                           $266.10
+DKLO20240520      07/02/2024  ALLISON K GLASS                   02/25/2024  02/25/2024  AIRFARE FOR SEN KLOBUCHAR MINNEAPOLIS TO WASHINGTON DC                           $517.10
+DKLO20240521      07/02/2024  ALLISON K GLASS                                           SENATOR TRANSPORTATION
+DKLO20240522      07/02/2024  ALLISON K GLASS                   02/25/2024  02/25/2024  AIRFARE FOR SEN KLOBUCHAR WASHINGTON DC TO MINNEAPOLIS                              $8.04
+DKLO20240523      07/02/2024  ALLISON K GLASS                                           SENATOR TRANSPORTATION                                                              $9.51
+DKLO20240524      07/02/2024  ALLISON K GLASS                   02/28/2024  02/28/2024  AIRFARE FOR SEN KLOBUCHAR WASHINGTON DC TO MINNEAPOLIS                             $30.28  B-1569
+DKLO20240525      07/02/2024  ALLISON K GLASS                                           STAFF TRANSPORTATION                                                                $2.27
+                  07/02/2024                                    02/27/2024  02/27/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION                                $3.35
+                                                                                        STAFF TRANSPORTATION                                                               $15.27
+                                                                06/15/2024  06/15/2024  FARIBAULT TO OWATONNA AND RETURN                                                    $4.02
+                                                                                        STAFF TRANSPORTATION
+                                                                06/17/2024  06/17/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                06/18/2024  06/18/2024  WASHINGTON DC TO SAINT PAUL, MINNEAPOLIS, SAINT PAUL AND RETURN
+                                                                                        SENATOR TRANSPORTATION
+                                                                06/17/2024  06/19/2024  AIRFARE FOR SEN KLOBUCHAR MINNEAPOLIS TO WASHINGTON DC
+                                                                                        SENATOR TRANSPORTATION
+                                                                02/28/2024  02/28/2024  AIRFARE FOR SEN KLOBUCHAR WASHINGTON DC TO MINNEAPOLIS
+                                                                                        STAFF TRANSPORTATION
+                                                                02/29/2024  02/29/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                05/31/2024  05/31/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                05/23/2024  05/23/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                05/27/2024  05/27/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                05/30/2024  05/30/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                05/31/2024  05/31/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+                                                                                        STAFF TRANSPORTATION
+                                                                06/04/2024  06/04/2024  MINNEAPOLIS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+
+                                                                06/06/2024  06/06/2024
+

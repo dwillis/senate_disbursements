@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME         OBLIGATION/SERVICE                                                    DESCRIPTION    AMOUNT ($)
+                  POSTED                                    DATES
+DMRP20240507                                                             BRIDGEPORT TO NEW YORK NY, WASHINGTON DC AND RETURN                            $48.24
+DMRP20240508                                     START       END         STAFF TRANSPORTATION                                                           $40.87
+DMRP20240509                                                             QUAKER HILL TO GALES FERRY, WEST HARTFORD TO HARTFORD                          $71.69
+DMRP20240512      04/02/2024  ERIN E MCBRIDE     03/25/2024  03/25/2024  STAFF TRANSPORTATION                                                           $64.32
+DMRP20240513      04/02/2024  ERIN E MCBRIDE     03/26/2024  03/26/2024  HARTFORD TO ESSEX TO QUAKER HILL                                               $60.30
+DMRP20240514      04/02/2024  ERIN E MCBRIDE     03/22/2024  03/22/2024  STAFF TRANSPORTATION                                                           $39.90
+                  04/03/2024  ABIGAIL J DRESSER  03/27/2024  03/27/2024  QUAKER HILL TO NEW HAVEN AND RETURN                                          $347.39
+                  04/04/2024  ZOZAN ANTAR        03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                         $413.75
+                  04/10/2024  ALLY R LIVINGSTON  03/27/2024  03/29/2024  HARTFORD TO DANIELSON AND RETURN
+                                                                         STAFF TRANSPORTATION                                                           $45.56
+DMRP20240516      04/11/2024  CLAUDE CAMPBELL    03/05/2024  03/05/2024  VERNON TO NEW HAVEN TO HARTFORD                                                $53.60  B-1886
+DMRP20240517      04/11/2024  CLAUDE CAMPBELL    03/07/2024  03/07/2024  STAFF INCIDENTALS                                                              $71.02
+DMRP20240518      04/11/2024  CLAUDE CAMPBELL    03/11/2024  03/11/2024  STAFF PER DIEM                                                                 $20.10
+DMRP20240519      04/11/2024  CLAUDE CAMPBELL    03/21/2024  03/21/2024  STAFF TRANSPORTATION                                                           $45.56
+DMRP20240520      04/11/2024  CLAUDE CAMPBELL    03/20/2024  03/20/2024  WASHINGTON DC TO WINDSOR LOCKS, HARTFORD, WINDSOR LOCKS AND                    $17.42
+DMRP20240521      04/11/2024  CLAUDE CAMPBELL    03/25/2024  03/25/2024  RETURN
+DMRP20240522      04/11/2024  CLAUDE CAMPBELL    03/06/2024  03/06/2024  STAFF TRANSPORTATION                                                            $6.70
+DMRP20240523      04/11/2024  CLAUDE CAMPBELL    03/15/2024  03/15/2024  HARTFORD TO NORWICH AND RETURN                                                 $29.48
+DMRP20240524      04/11/2024  CLAUDE CAMPBELL    03/27/2024  03/27/2024  STAFF TRANSPORTATION                                                           $45.56
+DMRP20240525      04/11/2024  CLAUDE CAMPBELL    03/28/2024  03/28/2024  MANCHESTER TO DANIELSON TO HARTFORD                                            $64.32
+DMRP20240526      04/11/2024  CLAUDE CAMPBELL    03/26/2024  03/26/2024  STAFF TRANSPORTATION                                                           $44.22
+DMRP20240527      04/11/2024  CLAUDE CAMPBELL    03/30/2024  03/30/2024  MANCHESTER TO FAIRFIELD TO HARTFORD                                            $64.32
+DMRP20240528      04/11/2024  CLAUDE CAMPBELL    03/28/2024  03/28/2024  STAFF TRANSPORTATION                                                           $45.56
+DMRP20240529      04/11/2024  JAMESON B FOULKE   03/25/2024  03/25/2024  HARTFORD TO ELLINGTON AND RETURN                                               $58.96
+DMRP20240530      04/11/2024  JAMESON B FOULKE   03/21/2024  03/21/2024  STAFF TRANSPORTATION                                                           $97.15
+DMRP20240531      04/11/2024  JAMESON B FOULKE   03/27/2024  03/31/2024  HARTFORD TO NEW HAVEN AND RETURN                                               $18.76
+DMRP20240532      04/11/2024  CLAUDE CAMPBELL    03/19/2024  03/19/2024  STAFF TRANSPORTATION                                                           $89.78
+                                                                         HARTFORD TO MIDDLETOWN AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         HARTFORD TO NEWINGTON AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         HARTFORD TO WATERBURY AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         HARTFORD TO NEW HAVEN AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         MANCHESTER TO NEW HAVEN, BRIDGEPORT TO HARTFORD
+                                                                         STAFF TRANSPORTATION
+                                                                         HARTFORD TO MONTVILLE TO MANCHESTER
+                                                                         STAFF TRANSPORTATION
+                                                                         MANCHESTER TO BRIDGEPORT AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         MANCHESTER TO BRANFORD AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         WEST HARTFORD TO MIDDLETOWN, HAMDEN TO HARTFORD
+                                                                         STAFF TRANSPORTATION
+                                                                         WEST HARTFORD TO WEST HAVEN, HAMDEN, NEW HAVEN TO HARTFORD
+                                                                         STAFF TRANSPORTATION
+                                                                         3/27, 28, 29, 31 WEST HARTFORD TO HARTFORD AND RETURN
+                                                                         STAFF TRANSPORTATION
+                                                                         HARTFORD TO STAMFORD AND RETURN
+

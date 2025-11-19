@@ -1,0 +1,54 @@
+    DOCUMENT NO.    DATE      PAYEE NAME           OBLIGATION/SERVICE                                                    DESCRIPTION       AMOUNT ($)
+                  POSTED                                      DATES
+DERN20240671                                                               DAVENPORT TO KEOKUK AND RETURN                                                    $12.00
+DERN20240672                                       START       END         STAFF PER DIEM                                                                    $78.39
+DERN20240673                                                               STAFF TRANSPORTATION                                                              $22.00
+                  07/20/2024  KOLBY RYAN DEWITT    07/10/2024  07/10/2024  SIOUX CITY TO SIOUX CENTER, ROCK VALLEY AND RETURN                              $180.20
+                  07/25/2024  NELLY AMANDA MORROW                          STAFF PER DIEM                                                                    $11.76
+                  07/23/2024  GRACE E LONG         07/11/2024  07/11/2024  STAFF TRANSPORTATION                                                            $195.68
+                                                                           CEDAR RAPIDS TO DES MOINES AND RETURN                                           $491.11
+                                                   05/24/2024  06/01/2024  STAFF INCIDENTALS
+                                                                           STAFF PER DIEM                                                                    $25.68
+DERN20240674      07/24/2024  GRACE E LONG         06/25/2024  07/01/2024  STAFF TRANSPORTATION                                                            $270.42
+                                                                           WASHINGTON DC TO DES MOINES, SHELDAHL, SHARPSBURG, CORNING,                     $375.84
+DERN20240676      07/24/2024  KENDALL DEHNEL       06/24/2024  06/27/2024  SHENANDOAH, SHARPSBURG, CARROLL, IDA GROVE, SHELDAHL, DES
+                                                                           MOINES, SHELDAHL, SHARPSBURG, SHELDAHL, FORT DODGE, DES MOINES                    $43.86
+DERN20240679      07/29/2024  ERNST,JONI K         06/13/2024  06/16/2024  AND RETURN                                                                      $429.68   B-1150
+DERN20240680      07/29/2024  CLARKE SCANLON       07/17/2024  07/17/2024  STAFF INCIDENTALS
+DERN20240681      08/01/2024  KOLBY RYAN DEWITT    07/17/2024  07/17/2024  STAFF PER DIEM                                                                  $127.68
+DERN20240682      07/31/2024  KOLBY RYAN DEWITT    07/18/2024  07/18/2024  STAFF TRANSPORTATION
+DERN20240683      08/29/2024  KOLBY RYAN DEWITT    07/18/2024  07/18/2024  WASHINGTON DC TO DES MOINES, WATERLOO, DES MOINES AND RETURN                    $261.97
+DERN20240686      08/28/2024  JUSTIN L JENSEN      07/18/2024  07/18/2024  STAFF INCIDENTALS                                                                 $10.48
+DERN20240687      08/29/2024  KOLBY RYAN DEWITT    07/23/2024  07/23/2024  STAFF PER DIEM
+DERN20240691      08/29/2024  KOLBY RYAN DEWITT    07/24/2024  07/24/2024  WASHINGTON DC TO DES MOINES, CEDAR RAPIDS, DES MOINES AND                       $136.01
+DERN20240692      08/29/2024  KOLBY RYAN DEWITT    07/26/2024  07/26/2024  RETURN                                                                            $94.47
+DERN20240693      08/29/2024  JUSTIN L JENSEN      07/24/2024  07/24/2024  SENATOR PER DIEM                                                                   $7.47
+DERN20240694      08/29/2024  KIMBERLY A REEM      07/01/2024  07/31/2024  ADDITIONAL EXPENSE FOR TRIP WASHINGTON DC TO DES MOINES,                          $78.39
+                                                                           WINTERSET, AMES, MARSHALLTOWN, RED OAK AND RETURN                                 $14.84
+                                                                           STAFF TRANSPORTATION
+                                                                           DES MOINES TO SPENCER AND RETURN                                                $117.92
+                                                                           STAFF PER DIEM                                                                     $7.68
+                                                                           STAFF TRANSPORTATION
+                                                                           SIOUX CITY TO CHEROKEE, SIOUX RAPIDS, SPENCER AND RETURN                          $98.49
+                                                                           STAFF TRANSPORTATION                                                               $9.50
+                                                                           SIOUX CITY TO STORM LAKE AND RETURN
+                                                                           STAFF PER DIEM                                                                  $109.88
+                                                                           STAFF TRANSPORTATION                                                            $152.76
+                                                                           SIOUX CITY TO SHELDON AND RETURN
+                                                                           STAFF PER DIEM                                                                    $14.91
+                                                                           STAFF TRANSPORTATION                                                            $105.86
+                                                                           CEDAR FALLS TO GRINNELL, MONTOUR, MARENGO AND RETURN
+                                                                           STAFF PER DIEM                                                                    $31.08
+                                                                           STAFF TRANSPORTATION
+                                                                           SIOUX CITY TO STORM LAKE, ALTA AND RETURN
+                                                                           STAFF PER DIEM
+                                                                           STAFF TRANSPORTATION
+                                                                           SIOUX CITY TO LESTER, ORANGE CITY AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           SIOUX CITY TO SIBLEY, SPENCER AND RETURN
+                                                                           STAFF PER DIEM
+                                                                           STAFF TRANSPORTATION
+                                                                           CEDAR FALLS TO MASON CITY AND RETURN
+                                                                           STAFF TRANSPORTATION
+                                                                           CEDAR RAPIDS OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+

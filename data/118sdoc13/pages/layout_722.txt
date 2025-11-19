@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME                    OBLIGATION/SERVICE                                                    DESCRIPTION     AMOUNT ($)
+                  POSTED                                               DATES
+DBRN20240865                                                                        MINGO JUNCTION TO COLUMBUS AND RETURN                                         $275.37
+DBRN20240866                                                START       END         STAFF TRANSPORTATION                                                          $123.28
+DBRN20240867                                                                        MINGO JUNCTION TO WAVERLY AND RETURN                                          $100.50
+DBRN20240868      07/16/2024  KALEB KNOWLTON                06/27/2024  06/27/2024  STAFF TRANSPORTATION
+DBRN20240869      07/15/2024  KALEB KNOWLTON                06/29/2024  06/29/2024  MINGO JUNCTION TO ZANESVILLE AND RETURN                                         $28.14
+DBRN20240870      07/15/2024  JORDAN T PENNELL              06/18/2024  06/18/2024  STAFF TRANSPORTATION                                                            $54.94
+DBRN20240871      07/15/2024  JORDAN T PENNELL              06/24/2024  06/24/2024  YOUNGSTOWN TO MASSILLON AND RETURN                                              $89.78
+DBRN20240872      07/15/2024  JORDAN T PENNELL              06/25/2024  06/25/2024  STAFF TRANSPORTATION
+                  07/15/2024  JORDAN T PENNELL              06/26/2024  06/26/2024  YOUNGSTOWN TO WARREN AND RETURN                                                  $8.04
+                  07/15/2024  JORDAN T PENNELL              06/28/2024  06/28/2024  STAFF TRANSPORTATION                                                            $26.25
+                  07/16/2024  KATHERINE E MULHALL QUINTELA  06/25/2024  06/26/2024  YOUNGSTOWN TO RAVENNA AND RETURN                                              $201.26
+                                                                                    STAFF TRANSPORTATION                                                          $226.40
+DBRN20240873      07/15/2024  ANN L ORR                     07/03/2024  07/03/2024  YOUNGSTOWN TO NORTH CANTON AND RETURN                                                   B-704
+DBRN20240874      07/16/2024  ANTHONY L ELIOPOULOS          07/03/2024  07/03/2024  STAFF TRANSPORTATION                                                            $10.79
+DBRN20240875      07/15/2024  CITIBANK - TRAVEL CBA CARD    07/01/2024  07/01/2024  IN AND AROUND YOUNGSTOWN                                                        $60.91
+DBRN20240876      07/16/2024  CITIBANK - TRAVEL CBA CARD    06/25/2024  06/26/2024  STAFF INCIDENTALS                                                               $11.87
+DBRN20240877      07/16/2024  CITIBANK - TRAVEL CBA CARD    06/25/2024  06/26/2024  STAFF PER DIEM                                                                $183.98
+DBRN20240878      07/16/2024  CITIBANK - TRAVEL CBA CARD    07/01/2024  07/02/2024  STAFF TRANSPORTATION                                                          $165.09
+DBRN20240879      07/17/2024  CITIBANK - TRAVEL CBA CARD    07/01/2024  07/01/2024  ARLINGTON VA TO WASHINGTON DC, CLEVELAND, WASHINGTON DC AND                   $436.21
+DBRN20240885      07/15/2024  JAMES T HUFFER-COLE           06/25/2024  06/25/2024  RETURN                                                                          $30.00
+DBRN20240887      07/23/2024  JAMES T HUFFER-COLE           06/27/2024  06/27/2024  STAFF PER DIEM                                                                $436.21
+DBRN20240888      07/15/2024  JAMES T HUFFER-COLE           06/29/2024  06/29/2024  STAFF TRANSPORTATION                                                            $30.00
+DBRN20240889      07/15/2024  JAMES T HUFFER-COLE           07/02/2024  07/02/2024  OBERLIN TO CLEVELAND AND RETURN                                               $330.19
+DBRN20240890      07/16/2024  JAMES T HUFFER-COLE           07/03/2024  07/03/2024  STAFF PER DIEM                                                                  $30.00
+                                                                                    STAFF TRANSPORTATION                                                          $330.19
+                                                                                    COLUMBUS TO OREGON, TOLEDO, PERRYSBURG AND RETURN                               $30.00
+                                                                                    STAFF TRANSPORTATION                                                            $36.85
+                                                                                    AIRFARE FOR S BENZING WASHINGTON DC TO COLUMBUS                                 $22.06
+                                                                                    STAFF TRANSPORTATION                                                          $219.76
+                                                                                    TICKET FEES                                                                     $99.16
+                                                                                    AIRFARE FOR K QUINTELA WASHINGTON DC TO CLEVELAND AND RETURN                    $56.28
+                                                                                    STAFF TRANSPORTATION                                                          $101.17
+                                                                                    TICKET FEES
+                                                                                    AIRFARE FOR K DONOHOE WASHINGTON DC TO CLEVELAND AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    TICKET FEES
+                                                                                    AIRFARE FOR L BARNES WASHINGTON DC TO COLUMBUS AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    TICKET FEES
+                                                                                    AIRFARE FOR W KING WASHINGTON DC TO COLUMBUS AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    LOUISVILLE TO AKRON AND RETURN
+                                                                                    STAFF PER DIEM
+                                                                                    STAFF TRANSPORTATION
+                                                                                    LOUISVILLE TO ADA, UPPER SANDUSKY, AKRON AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    LOUISVILLE TO MANSFIELD AND RETURN
+                                                                                    STAFF TRANSPORTATION
+                                                                                    LOUISVILLE TO PENINSULA, NORTH CANTON AND RETURN
+                                                                                    STAFF TRANSPORTATION
+

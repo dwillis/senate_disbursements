@@ -1,0 +1,53 @@
+    DOCUMENT NO.    DATE      PAYEE NAME             OBLIGATION/SERVICE                                                    DESCRIPTION         AMOUNT ($)
+                  POSTED                                        DATES
+DWRN20240699                                                                 NORFOLK TO VIRGINIA BEACH AND RETURN                                                $16.75
+DWRN20240702                                         START       END         STAFF TRANSPORTATION                                                              $112.56
+DWRN20240703                                                                 RICHMOND OFFICE: INTERDEPARTMENTAL TRANSPORTATION
+DWRN20240704      07/17/2024  LOUISE A KADIRI        07/23/2024  07/23/2024  STAFF TRANSPORTATION                                                                $47.57
+DWRN20240705      07/20/2024  ROBERT S CLEM          06/14/2024  06/14/2024  POUNDING MILL TO BIG STONE GAP, BRISTOL TO ABINGDON                                 $27.47
+DWRN20240706      07/19/2024  ROBERT S CLEM          06/18/2024  06/18/2024  STAFF TRANSPORTATION                                                                $35.51
+DWRN20240707      07/18/2024  ROBERT S CLEM          06/24/2024  06/24/2024  POUNDING MILL TO BRISTOL TO ABINGDON                                                $66.33
+                  07/18/2024  ROBERT S CLEM          06/25/2024  06/25/2024  STAFF TRANSPORTATION                                                                $27.80
+DWRN20240708      07/18/2024  ROBERT S CLEM          06/27/2024  06/27/2024  ABINGDON TO BRISTOL AND RETURN                                                    $205.92
+DWRN20240709      07/23/2024  WARNER,MARK R          06/21/2024  06/25/2024  STAFF TRANSPORTATION                                                                $24.12
+DWRN20240710                                                                 ABINGDON TO LEBANON AND RETURN                                                      $37.52
+DWRN20240711      07/18/2024  GENE L GARLAND         07/09/2024  07/09/2024  STAFF TRANSPORTATION                                                                $34.17  B-2548
+                  07/18/2024  GENE L GARLAND         07/10/2024  07/10/2024  POUNDING MILL TO GRUNDY TO ABINGDON                                               $418.80
+DWRN20240712      07/18/2024  GENE L GARLAND         07/11/2024  07/11/2024  SENATOR INCIDENTALS                                                                 $26.00
+DWRN20240713      07/25/2024  ASHLEE WARREN          07/10/2024  07/12/2024  SENATOR PER DIEM                                                                    $56.28
+DWRN20240714                                                                 WASHINGTON DC TO VIRGINIA BEACH AND RETURN                                          $50.25
+DWRN20240715      07/22/2024  ROBERT S CLEM          07/08/2024  07/08/2024  STAFF TRANSPORTATION                                                                $83.08
+DWRN20240716      07/22/2024  ROBERT S CLEM          07/09/2024  07/09/2024  CHESAPEAKE TO PORTSMOUTH AND RETURN                                               $115.24
+DWRN20240717      07/22/2024  ROBERT S CLEM          07/10/2024  07/10/2024  STAFF TRANSPORTATION                                                              $216.49
+                  07/25/2024  ROBERT S CLEM          07/12/2024  07/12/2024  NORFOLK TO VIRGINIA BEACH AND RETURN                                              $523.94
+                  07/25/2024  CHRISTOPHER MONIOUDIS  06/26/2024  06/26/2024  STAFF TRANSPORTATION
+                  07/25/2024  ERIN N CARTER          04/15/2024  04/29/2024  NORFOLK TO VIRGINIA BEACH AND RETURN                                                $20.56
+                                                                             STAFF PER DIEM                                                                    $149.79
+DWRN20240718      07/26/2024  ZACHARY B GOLDEN       06/13/2024  06/14/2024  STAFF TRANSPORTATION                                                              $192.96
+                                                                             ROANOKE TO WASHINGTON DC AND RETURN
+DWRN20240719      07/23/2024  ZACHARY B GOLDEN       06/21/2024  06/21/2024  STAFF TRANSPORTATION                                                                $55.61
+DWRN20240720      07/26/2024  ZACHARY B GOLDEN       07/10/2024  07/10/2024  ABINGDON TO TAZEWELL TO POUNDING MILL                                             $119.26
+DWRN20240721      08/02/2024  ZACHARY B GOLDEN       06/24/2024  06/25/2024  STAFF TRANSPORTATION
+                                                                             POUNDING MILL TO TAZEWELL TO ABINGDON                                               $26.79
+                                                                             STAFF TRANSPORTATION
+                                                                             ABINGDON TO GRUNDY AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             ABINGDON TO HILLSVILLE AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             CHESTERFIELD TO ANNANDALE AND RETURN
+                                                                             STAFF TRANSPORTATION
+                                                                             NORFOLK TO THE FOLLOWING AND RETURN: 4/15 WILLIAMSBURG; 4/16
+                                                                             SUFFOLK, PORTSMOUTH; 4/17 NEWPORT NEWS; 4/18 HAMPTON, SUFFOLK; 4
+                                                                             /19 WILLIAMSBURG, CHESAPEAKE; 4/22 FRANKLIN; 4/23 NEWPORT NEWS,
+                                                                             SUFFOLK; 4/24 WILLIAMSBURG, SUFFOLK; 4/25 PORTSMOUTH; 4/29
+                                                                             WILLIAMSBURG, NEWPORT NEWS
+                                                                             STAFF INCIDENTALS
+                                                                             STAFF PER DIEM
+                                                                             STAFF TRANSPORTATION
+                                                                             VIENNA TO CHARLOTTESVILLE, RICHMOND TO ARLINGTON
+                                                                             STAFF TRANSPORTATION
+                                                                             VIENNA TO WOODBRIDGE, STAFFORD TO ARLINGTON
+                                                                             STAFF TRANSPORTATION
+                                                                             ARLINGTON TO LOUISA TO VIENNA
+                                                                             STAFF PER DIEM
+
