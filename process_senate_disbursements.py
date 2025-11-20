@@ -67,6 +67,35 @@ expense_record_flexible = re.compile(
     r'(?:B-\d+)?\s*$'           # Page reference (optional)
 )
 
+# NEW: Expense record with partial document number (handles spacing issues)
+expense_record_partial = re.compile(
+    r'^\s*([A-Z0-9]{4,12})\s+'  # Partial/full document number (relaxed)
+    r'(?:(\d\d/\d\d/\d\d\d\d)\s+)?'  # Date posted (optional)
+    r'(.+?)\s{2,}'              # Payee name or description
+    r'(?:(\d\d/\d\d/\d\d\d\d)\s+)?'  # Start date (optional)
+    r'(?:(\d\d/\d\d/\d\d\d\d)\s+)?'  # End date (optional)
+    r'(.+?)'                    # Description
+    r'(?:\s+\$?([\d\,\.]+))?\s*$'  # Amount (optional)
+)
+
+# NEW: Date-first expense record (for continuation lines with dates)
+expense_with_leading_date = re.compile(
+    r'^\s+(\d\d/\d\d/\d\d\d\d)\s+'  # Date at start
+    r'(.+?)\s{2,}'                   # Payee/description
+    r'(?:(\d\d/\d\d/\d\d\d\d)\s+)?'  # Another date (optional)
+    r'(?:(\d\d/\d\d/\d\d\d\d)\s+)?'  # End date (optional)
+    r'(.+?)'                         # Description
+    r'(?:\s+\$?([\d\,\.]+))?\s*$'    # Amount (optional)
+)
+
+# NEW: Name-heavy salary record (first, middle, last + suffix)
+salary_with_complex_name = re.compile(
+    r'^\s+([A-Z][A-Z\s\,\.\-\']{3,60}?)\s{3,}'  # Complex name with more flexibility
+    r'([A-Z][A-Z\s\,\.\-\/]{3,}?)\s*'            # Position
+    r'(?:\s+\$?([\d\,\.]+))?\s*'                 # Amount (optional)
+    r'(?:B-\d+)?\s*$'                            # Page reference (optional)
+)
+
 # Salary record with amount
 salary_with_amount_flexible = re.compile(
     r'^\s+([A-Z][A-Z\s\,\.\-\']+?)\s{2,}'  # Name
@@ -80,6 +109,11 @@ salary_no_amount_flexible = re.compile(
     r'^\s+([A-Z][A-Z\s\,\.\-\']+?)\s{2,}'  # Name
     r'([A-Z][A-Z\s\,\.\-\/]+?)\s*'          # Position/title
     r'(?:B-\d+)?\s*$'                       # Page reference (optional)
+)
+
+# NEW: Amount-only continuation line
+amount_only_line = re.compile(
+    r'^\s+\$?([\d\,\.]+)\s*(?:B-\d+)?\s*$'
 )
 
 top_matter_end_re = re.compile(r"\s+DOCUMENT\s+NO\.\s+DATE\s+PAYEE")
@@ -146,7 +180,8 @@ def extract_pages(pdf_file, start_page, end_page, output_dir="pages"):
 
 def process_top_matter(page_num, top_matter):
     """Extract office/expense description from the top matter of a page."""
-    top_matter_top_left_column_delimiter = 48
+    # Increased from 48 to 80 to capture longer office names
+    top_matter_top_left_column_delimiter = 80
 
     expense_description = ''
     for whole_line in top_matter:
@@ -161,6 +196,11 @@ def process_top_matter(page_num, top_matter):
             expense_description += ' ' + line_stripped + ' '
 
     expense_description = re.sub(r'\s+', ' ', expense_description).strip()
+
+    # Clean up common truncation artifacts
+    expense_description = expense_description.replace('DE ', '').replace('DETAI ', 'DETAILED ')
+    expense_description = expense_description.replace('  ', ' ').strip()
+
     return expense_description
 
 
@@ -257,6 +297,70 @@ def process_data_lines(page_num, data_lines):
                         last_line_data_index = None
                         continue
 
+                # NEW: Try partial expense record pattern
+                expense_partial = expense_record_partial.match(data_line)
+                if expense_partial:
+                    doc_num, date_posted, payee, start_date, end_date, description, amount = expense_partial.groups()
+                    result_formatted = ['five data line', False, page_num,
+                                      doc_num or '', date_posted or '', payee or '',
+                                      start_date or '', end_date or '',
+                                      description or '', amount or '']
+                    return_data.append(result_formatted)
+                    return_data_index += 1
+                    last_line_data_index = None
+                    continue
+
+                # NEW: Try date-first expense record (continuation lines)
+                expense_date_first = expense_with_leading_date.match(data_line)
+                if expense_date_first:
+                    date1, payee, date2, date3, description, amount = expense_date_first.groups()
+                    # This is likely a continuation, try to attach to previous record
+                    if return_data_index > 0:
+                        prev_record = return_data[return_data_index - 1]
+                        # If previous record is missing date/amount, fill it in (check length first)
+                        if len(prev_record) > 7 and prev_record[7] == '' and date1:  # Missing start date
+                            prev_record[7] = date1
+                        if len(prev_record) > 8 and prev_record[8] == '' and date2:  # Missing end date
+                            prev_record[8] = date2
+                        if len(prev_record) > 10 and prev_record[10] == '' and amount:  # Missing amount
+                            prev_record[10] = amount
+                        # Append description
+                        if len(prev_record) > 9 and description:
+                            prev_record[9] += ' ' + description
+                        continue
+                    else:
+                        # Standalone date record
+                        result_formatted = ['five data line', False, page_num, '', date1, payee or '',
+                                          date2 or '', date3 or '', description or '', amount or '']
+                        return_data.append(result_formatted)
+                        return_data_index += 1
+                        last_line_data_index = None
+                        continue
+
+                # NEW: Try complex name salary record
+                salary_complex = salary_with_complex_name.match(data_line)
+                if salary_complex:
+                    name, position, amount = salary_complex.groups()
+                    # Validate it's a person name (at least 2 parts)
+                    name_parts = name.strip().split()
+                    if len(name_parts) >= 2 and not any(word in position.upper() for word in
+                              ['NET PAYROLL', 'ORGANIZATION', 'UNEXPENDED', 'TOTAL', 'AUTHORIZATION']):
+                        result_formatted = ['three data line', False, page_num, '', '', name, '', '', position, amount or '']
+                        return_data.append(result_formatted)
+                        return_data_index += 1
+                        last_line_data_index = None
+                        continue
+
+                # NEW: Try amount-only line (attach to previous record)
+                amount_match = amount_only_line.match(data_line)
+                if amount_match and return_data_index > 0:
+                    amount = amount_match.group(1)
+                    prev_record = return_data[return_data_index - 1]
+                    # If previous record is missing amount, fill it in
+                    if len(prev_record) > 10 and prev_record[10] == '':
+                        prev_record[10] = amount
+                        continue
+
                 # Check if it's a page number
                 is_page_num = page_number_re.match(data_line)
                 is_page_num_alt = page_number_alt_re.match(data_line)
@@ -345,15 +449,15 @@ def parse_pages(start_page, end_page, pages_dir="pages", out_file='senate_data.c
     # Using range() ensures proper numeric ordering
     page_numbers = list(range(start_page, end_page + 1))
 
+    # Collect all missing data groups first to avoid trailing comma
+    all_missing_data_groups = []
+
     with open(out_file, 'w', newline='') as csvfile:
         datawriter = csv.writer(csvfile)
         current_description = None
         description = None
 
-        with open(missing_file, 'w') as missing_data_file:
-            missing_data_file.write('[\n')
-
-            for page in page_numbers:
+        for page in page_numbers:
                 if page % 100 == 0 or page == start_page:
                     print(f"Processing pages {page}-{min(page + 99, end_page)}...")
 
@@ -406,12 +510,13 @@ def parse_pages(start_page, end_page, pages_dir="pages", out_file='senate_data.c
                 for data in data_lines:
                     datawriter.writerow([current_description] + data)
 
-                # Write missing data
+                # Collect missing data
                 if data_found['missing_data']:
-                    missing_data_file.write(json.dumps(data_found['missing_data'], indent=4, separators=(',', ': ')))
-                    missing_data_file.write(',')
+                    all_missing_data_groups.append(data_found['missing_data'])
 
-            missing_data_file.write(']\n')
+    # Write missing data as properly formatted JSON
+    with open(missing_file, 'w') as missing_data_file:
+        json.dump(all_missing_data_groups, missing_data_file, indent=4)
 
     print(f"\nParsing complete!")
     print(f"Data written to: {out_file}")
@@ -455,51 +560,71 @@ def clean_csv(source_doc, csv_file='senate_data.csv', cleaned_file='senate_data_
             ])
 
             # Process data rows
-            for line in unclean_data_reader:
-                senator_flag = 1 if 'senator' in line[0].lower() else 0
-                senator_name = line[0].split('Funding')[0].replace('SENATOR', '').strip() if senator_flag else ''
-                raw_office = line[0]
+            rows_processed = 0
+            rows_skipped = 0
 
+            for line_num, line in enumerate(unclean_data_reader, start=1):
                 try:
-                    funding_year = int(re.search(FUNDING_YEAR_RE, line[0]).group(2))
-                except:
-                    funding_year = ''
+                    # Skip lines with insufficient fields
+                    if len(line) < 11:
+                        rows_skipped += 1
+                        continue
 
-                try:
-                    fiscal_year = int(re.search(FISCAL_YEAR_RE, line[0]).group(2))
-                except:
-                    fiscal_year = ''
+                    senator_flag = 1 if 'senator' in line[0].lower() else 0
+                    senator_name = line[0].split('Funding')[0].replace('SENATOR', '').strip() if senator_flag else ''
+                    raw_office = line[0]
 
-                try:
-                    congress_number = int(re.search(CONGRESS_NUMBER, line[0]).group(1))
-                except:
-                    congress_number = ''
+                    try:
+                        funding_year = int(re.search(FUNDING_YEAR_RE, line[0]).group(2))
+                    except:
+                        funding_year = ''
 
-                reference_page = line[3]
-                document_number = line[4]
-                date_posted = line[5]
-                payee = line[6]
-                start_date = line[7]
-                end_date = line[8]
-                description = line[9]
-                amount = line[10]
+                    try:
+                        fiscal_year = int(re.search(FISCAL_YEAR_RE, line[0]).group(2))
+                    except:
+                        fiscal_year = ''
 
-                salary_flag = 0 if start_date == '' and end_date == '' else 1
+                    try:
+                        congress_number = int(re.search(CONGRESS_NUMBER, line[0]).group(1))
+                    except:
+                        congress_number = ''
 
-                # Get bioguide ID for senators
-                bioguide_id = ''
-                if bioguide_matcher and senator_flag and senator_name:
-                    # Use funding_year if available, otherwise fiscal_year
-                    year = funding_year if funding_year else fiscal_year
-                    bioguide_id = bioguide_matcher.get_bioguide_id(senator_name, year)
+                    reference_page = line[3]
+                    document_number = line[4]
+                    date_posted = line[5]
+                    payee = line[6]
+                    start_date = line[7]
+                    end_date = line[8]
+                    description = line[9]
+                    amount = line[10]
 
-                cleaned_data_writer.writerow([
-                    source_doc, senator_flag, senator_name, bioguide_id, raw_office, funding_year,
-                    fiscal_year, congress_number, reference_page, document_number, date_posted,
-                    start_date, end_date, description, salary_flag, amount, payee
-                ])
+                    # Salary flag: 1 if expense record (has dates), 0 if salary record (no dates)
+                    salary_flag = 1 if start_date != '' or end_date != '' else 0
+
+                    # Get bioguide ID for senators
+                    bioguide_id = ''
+                    if bioguide_matcher and senator_flag and senator_name:
+                        # Use funding_year if available, otherwise fiscal_year
+                        year = funding_year if funding_year else fiscal_year
+                        bioguide_id = bioguide_matcher.get_bioguide_id(senator_name, year)
+
+                    cleaned_data_writer.writerow([
+                        source_doc, senator_flag, senator_name, bioguide_id, raw_office, funding_year,
+                        fiscal_year, congress_number, reference_page, document_number, date_posted,
+                        start_date, end_date, description, salary_flag, amount, payee
+                    ])
+
+                    rows_processed += 1
+
+                except Exception as e:
+                    print(f"Warning: Error processing line {line_num}: {e}")
+                    print(f"  Line content: {line[:100] if len(line) > 100 else line}")
+                    rows_skipped += 1
+                    continue
 
     print(f"Cleaned data written to: {cleaned_file}")
+    print(f"  Rows processed: {rows_processed}")
+    print(f"  Rows skipped: {rows_skipped}")
 
 
 def main():
