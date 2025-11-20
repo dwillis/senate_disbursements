@@ -17,6 +17,9 @@ Supports both older (113-114 Congress) and newer (118+ Congress) document format
 The parser automatically detects and handles both formats using a fallback pattern
 matching approach.
 
+Pages are always processed in ascending numeric order (1, 2, 3, ...) rather than
+lexicographic order (1, 19, 100, 200, ...) to ensure correct data sequencing.
+
 Usage:
     python3 process_senate_disbursements.py <pdf_file> --start <start_page> --end <end_page>
     python3 process_senate_disbursements.py GPO-CDOC-114sdoc13.pdf --start 18 --end 2264
@@ -286,6 +289,31 @@ def process_data_lines(page_num, data_lines):
     return {'data': return_data, 'register': one_part_continuation_register, 'missing_data': missing_data}
 
 
+def get_page_numbers_from_directory(pages_dir):
+    """
+    Extract page numbers from layout files in a directory and return them sorted numerically.
+
+    Args:
+        pages_dir: Directory containing layout_*.txt files
+
+    Returns:
+        List of page numbers sorted in ascending numeric order (1, 2, 3, ... not 1, 19, 100, 200)
+    """
+    import glob
+    page_files = glob.glob(os.path.join(pages_dir, "layout_*.txt"))
+    page_numbers = []
+
+    for filepath in page_files:
+        # Extract number from filename like "layout_123.txt"
+        filename = os.path.basename(filepath)
+        match = re.search(r'layout_(\d+)\.txt', filename)
+        if match:
+            page_numbers.append(int(match.group(1)))
+
+    # Sort numerically (not lexicographically) to ensure proper page order
+    return sorted(page_numbers)
+
+
 def find_header_index(line_array):
     """Find the index of the header line in a page."""
     matches = 0
@@ -312,6 +340,10 @@ def parse_pages(start_page, end_page, pages_dir="pages", out_file='senate_data.c
     page_file_unfilled = os.path.join(pages_dir, "layout_%s.txt")
     header_index_hash = {}
 
+    # Generate page numbers in ascending numeric order (1, 2, 3, ... not 1, 19, 100, 200)
+    # Using range() ensures proper numeric ordering
+    page_numbers = list(range(start_page, end_page + 1))
+
     with open(out_file, 'w', newline='') as csvfile:
         datawriter = csv.writer(csvfile)
         current_description = None
@@ -320,7 +352,7 @@ def parse_pages(start_page, end_page, pages_dir="pages", out_file='senate_data.c
         with open(missing_file, 'w') as missing_data_file:
             missing_data_file.write('[\n')
 
-            for page in range(start_page, end_page + 1):
+            for page in page_numbers:
                 if page % 100 == 0 or page == start_page:
                     print(f"Processing page {page}")
 
