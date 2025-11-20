@@ -560,11 +560,22 @@ Examples:
     print(f"Output directory: {output_dir}")
     print(f"Source document: {source_doc}")
 
-    # Step 1: Extract pages
-    if not args.skip_extract:
-        extract_pages(args.pdf_file, args.start, args.end, pages_dir)
+    # Step 1: Extract pages (skip if they already exist)
+    if args.skip_extract:
+        print("\n=== Skipping page extraction (--skip-extract flag provided) ===")
     else:
-        print("\n=== Skipping page extraction ===")
+        # Check if pages already exist
+        pages_exist = True
+        for page_num in range(args.start, args.end + 1):
+            page_file = os.path.join(pages_dir, f"layout_{page_num}.txt")
+            if not os.path.exists(page_file):
+                pages_exist = False
+                break
+
+        if pages_exist:
+            print(f"\n=== Pages {args.start}-{args.end} already extracted, skipping extraction ===")
+        else:
+            extract_pages(args.pdf_file, args.start, args.end, pages_dir)
 
     # Step 2: Parse pages
     parse_pages(args.start, args.end, pages_dir, csv_file, missing_file)
