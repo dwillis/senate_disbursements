@@ -128,8 +128,9 @@ def extract_pages(pdf_file, start_page, end_page, output_dir="pages"):
         layout_cmd = ["pdftotext", "-f", str(page_number), "-l", str(page_number),
                       "-layout", pdf_file, output_filename]
 
+        # Show progress every 100 pages or at start
         if page_number % 100 == 0 or page_number == start_page:
-            print(f"Extracting page {page_number}...")
+            print(f"Extracting pages {page_number}-{min(page_number + 99, end_page)}...")
 
         try:
             result = subprocess.run(layout_cmd, capture_output=True, text=True, check=True)
@@ -354,7 +355,7 @@ def parse_pages(start_page, end_page, pages_dir="pages", out_file='senate_data.c
 
             for page in page_numbers:
                 if page % 100 == 0 or page == start_page:
-                    print(f"Processing page {page}")
+                    print(f"Processing pages {page}-{min(page + 99, end_page)}...")
 
                 filename = page_file_unfilled % (page)
                 try:
