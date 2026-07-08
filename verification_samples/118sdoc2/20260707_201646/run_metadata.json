@@ -1,0 +1,30 @@
+{
+  "report": "118sdoc2",
+  "seed": 7,
+  "args": {
+    "n_per_stratum": 3,
+    "min_per_stratum": 1,
+    "max_total": 30,
+    "seed": 7,
+    "reference_page": null,
+    "payee": "",
+    "amount": "",
+    "document_number": "",
+    "description": ""
+  },
+  "git_commit": "b3ac44d261965f670a25e57abe6b81d4bceb6b28",
+  "pdf_sha256": {
+    "-1": "19ab3fe2e58b269c3298efc66c0583160ab42a59f302b9acbe558a9344b01ee7",
+    "-2": "45f12cdb443f3649a225173bffdb6ac955bb743b29f48c94ff8866b486169217"
+  },
+  "strata_requested": 5,
+  "strata_populated": [
+    "cleaned/ok/expense",
+    "cleaned/ok/salary",
+    "quarantine/fail/expense",
+    "quarantine/fail/salary",
+    "quarantine/ok/expense"
+  ],
+  "strata_skipped_empty": [],
+  "total_sampled": 14
+}

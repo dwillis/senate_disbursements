@@ -1,0 +1,7540 @@
+{
+ "blocks": 1075,
+ "records_published": 46991,
+ "records_quarantined": 505,
+ "unparsed": 1,
+ "check_status_histogram": {
+  "fail": 120,
+  "no_records": 404,
+  "ok": 1246
+ },
+ "published_dollars": 400411468.64,
+ "quarantined_dollars": 3037683.0,
+ "block_statuses": [
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (D) - HARRIS",
+   "funding_year": 2021,
+   "start_page": 17,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (D) - HARRIS",
+   "funding_year": 2022,
+   "start_page": 18,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (D) - HARRIS",
+   "funding_year": 2023,
+   "start_page": 19,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRESIDENT PRO TEMPORE (D)",
+   "funding_year": 2021,
+   "start_page": 20,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRESIDENT PRO TEMPORE (D)",
+   "funding_year": 2022,
+   "start_page": 21,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRESIDENT PRO TEMPORE (D)",
+   "funding_year": 2023,
+   "start_page": 22,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2021,
+   "start_page": 23,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2022,
+   "start_page": 24,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2023,
+   "start_page": 25,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "MAJORITY WHIP (D)",
+   "funding_year": 2021,
+   "start_page": 26,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY WHIP (D)",
+   "funding_year": 2022,
+   "start_page": 27,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY WHIP (D)",
+   "funding_year": 2023,
+   "start_page": 28,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2021,
+   "start_page": 29,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2022,
+   "start_page": 30,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2023,
+   "start_page": 31,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2021,
+   "start_page": 32,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2022,
+   "start_page": 33,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2023,
+   "start_page": 34,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (R) - PENCE",
+   "funding_year": 2021,
+   "start_page": 35,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRES PRO TEM EMERITUS (R)",
+   "funding_year": 2021,
+   "start_page": 36,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRES PRO TEM EMERITUS (R)",
+   "funding_year": 2022,
+   "start_page": 37,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRES PRO TEM EMERITUS (R)",
+   "funding_year": 2023,
+   "start_page": 38,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2021,
+   "start_page": 39,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2022,
+   "start_page": 40,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2023,
+   "start_page": 41,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2021,
+   "start_page": 42,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2022,
+   "start_page": 43,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2023,
+   "start_page": 44,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2021,
+   "start_page": 45,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2022,
+   "start_page": 46,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2023,
+   "start_page": 47,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "CHAIRMAN MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2021,
+   "start_page": 48,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2022,
+   "start_page": 49,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2023,
+   "start_page": 50,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2021,
+   "start_page": 51,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2022,
+   "start_page": 52,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2023,
+   "start_page": 53,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2021,
+   "start_page": 54,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2022,
+   "start_page": 55,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2023,
+   "start_page": 56,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": 2021,
+   "start_page": 57,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": 2022,
+   "start_page": 58,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": 2023,
+   "start_page": 59,
+   "status": "ok",
+   "record_count": 135
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": 2020,
+   "start_page": 63,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": 2021,
+   "start_page": 64,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": 2021,
+   "start_page": 65,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": 2022,
+   "start_page": 66,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": 2022,
+   "start_page": 67,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": 2023,
+   "start_page": 68,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (D) - HARRIS",
+   "funding_year": 2021,
+   "start_page": 69,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (D) - HARRIS",
+   "funding_year": 2022,
+   "start_page": 70,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (D) - HARRIS",
+   "funding_year": 2023,
+   "start_page": 71,
+   "status": "ok",
+   "record_count": 44
+  },
+  {
+   "office": "PRESIDENT PRO TEMPORE (D)",
+   "funding_year": 2021,
+   "start_page": 73,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRESIDENT PRO TEMPORE (D)",
+   "funding_year": 2022,
+   "start_page": 74,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRESIDENT PRO TEMPORE (D)",
+   "funding_year": 2023,
+   "start_page": 75,
+   "status": "ok",
+   "record_count": 13
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2021,
+   "start_page": 76,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2022,
+   "start_page": 77,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2023,
+   "start_page": 78,
+   "status": "ok",
+   "record_count": 34
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2023,
+   "start_page": 80,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY WHIP (D)",
+   "funding_year": 2021,
+   "start_page": 81,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY WHIP (D)",
+   "funding_year": 2022,
+   "start_page": 82,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY WHIP (D)",
+   "funding_year": 2023,
+   "start_page": 83,
+   "status": "ok",
+   "record_count": 23
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2021,
+   "start_page": 84,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2022,
+   "start_page": 85,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2023,
+   "start_page": 86,
+   "status": "ok",
+   "record_count": 23
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2021,
+   "start_page": 87,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2022,
+   "start_page": 88,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2023,
+   "start_page": 89,
+   "status": "ok",
+   "record_count": 30
+  },
+  {
+   "office": "SECRETARY, MAJORITY CONFERENCE COMM (D)",
+   "funding_year": 2021,
+   "start_page": 91,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY, MAJORITY CONFERENCE COMM (D)",
+   "funding_year": 2022,
+   "start_page": 92,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY, MAJORITY CONFERENCE COMM (D)",
+   "funding_year": 2023,
+   "start_page": 93,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (R) - PENCE",
+   "funding_year": 2021,
+   "start_page": 94,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRES PRO TEM EMERITUS (R)",
+   "funding_year": 2021,
+   "start_page": 95,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRES PRO TEM EMERITUS (R)",
+   "funding_year": 2022,
+   "start_page": 96,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRES PRO TEM EMERITUS (R)",
+   "funding_year": 2023,
+   "start_page": 97,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2021,
+   "start_page": 98,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2022,
+   "start_page": 99,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2023,
+   "start_page": 100,
+   "status": "ok",
+   "record_count": 22
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2023,
+   "start_page": 101,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2021,
+   "start_page": 102,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2022,
+   "start_page": 103,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2023,
+   "start_page": 104,
+   "status": "ok",
+   "record_count": 15
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2021,
+   "start_page": 105,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2022,
+   "start_page": 106,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2023,
+   "start_page": 107,
+   "status": "ok",
+   "record_count": 20
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2021,
+   "start_page": 108,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2022,
+   "start_page": 109,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2023,
+   "start_page": 110,
+   "status": "ok",
+   "record_count": 28
+  },
+  {
+   "office": "SECRETARY, MINORITY CONFERENCE COMM (R)",
+   "funding_year": 2021,
+   "start_page": 112,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY, MINORITY CONFERENCE COMM (R)",
+   "funding_year": 2022,
+   "start_page": 113,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY, MINORITY CONFERENCE COMM (R)",
+   "funding_year": 2023,
+   "start_page": 114,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "SECRETARY FOR THE MAJORITY (D)",
+   "funding_year": 2021,
+   "start_page": 115,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MAJORITY (D)",
+   "funding_year": 2022,
+   "start_page": 116,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MAJORITY (D)",
+   "funding_year": 2023,
+   "start_page": 117,
+   "status": "ok",
+   "record_count": 9
+  },
+  {
+   "office": "SECRETARY FOR THE MINORITY (R)",
+   "funding_year": 2021,
+   "start_page": 118,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MINORITY (R)",
+   "funding_year": 2022,
+   "start_page": 119,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MINORITY (R)",
+   "funding_year": 2023,
+   "start_page": 120,
+   "status": "ok",
+   "record_count": 9
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2021,
+   "start_page": 121,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2022,
+   "start_page": 122,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2023,
+   "start_page": 123,
+   "status": "ok",
+   "record_count": 1025
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2021,
+   "start_page": 145,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2022,
+   "start_page": 146,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2023,
+   "start_page": 147,
+   "status": "ok",
+   "record_count": 245
+  },
+  {
+   "office": "EMPLOYEES COMPENSATION FUND (P.L. 113-76)",
+   "funding_year": 2021,
+   "start_page": 153,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": 2019,
+   "start_page": 154,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": 2020,
+   "start_page": 155,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": 2021,
+   "start_page": 156,
+   "status": "ok",
+   "record_count": 9
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": 2022,
+   "start_page": 157,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": 2023,
+   "start_page": 158,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": 2019,
+   "start_page": 159,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": 2020,
+   "start_page": 160,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": 2021,
+   "start_page": 161,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": 2022,
+   "start_page": 162,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": 2023,
+   "start_page": 163,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (D) - HARRIS",
+   "funding_year": 2021,
+   "start_page": 164,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2021,
+   "start_page": 165,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY WHIP (D)",
+   "funding_year": 2021,
+   "start_page": 166,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY WHIP (D)",
+   "funding_year": 2022,
+   "start_page": 167,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2019,
+   "start_page": 168,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2020,
+   "start_page": 169,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2021,
+   "start_page": 170,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2021,
+   "start_page": 171,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2022,
+   "start_page": 172,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2023,
+   "start_page": 173,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (D)",
+   "funding_year": 2019,
+   "start_page": 174,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (D)",
+   "funding_year": 2020,
+   "start_page": 175,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2021,
+   "start_page": 176,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2022,
+   "start_page": 177,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2023,
+   "start_page": 178,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2021,
+   "start_page": 179,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2022,
+   "start_page": 180,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2023,
+   "start_page": 181,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2021,
+   "start_page": 182,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2022,
+   "start_page": 183,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2023,
+   "start_page": 184,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2019,
+   "start_page": 185,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2020,
+   "start_page": 186,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2021,
+   "start_page": 187,
+   "status": "ok",
+   "record_count": 47
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2022,
+   "start_page": 189,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2022,
+   "start_page": 190,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2023,
+   "start_page": 191,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (R)",
+   "funding_year": 2019,
+   "start_page": 192,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (R)",
+   "funding_year": 2020,
+   "start_page": 193,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2021,
+   "start_page": 194,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2021,
+   "start_page": 195,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2022,
+   "start_page": 196,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2022,
+   "start_page": 197,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2023,
+   "start_page": 198,
+   "status": "ok",
+   "record_count": 33
+  },
+  {
+   "office": "SECRETARY FOR THE MINORITY (R)",
+   "funding_year": 2021,
+   "start_page": 200,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATE CHILD CARE CENTER",
+   "funding_year": 2019,
+   "start_page": 201,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATE CHILD CARE CENTER",
+   "funding_year": 2020,
+   "start_page": 202,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "SENATE CHILD CARE CENTER",
+   "funding_year": 2021,
+   "start_page": 203,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATE CHILD CARE \u2013 AGENCY CONTRIBUTIONS \u2013 P.L. 102-90",
+   "funding_year": 2022,
+   "start_page": 204,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATE CHILD CARE - SALARY REIMBURSEMENT \u2013 S. RES. 329",
+   "funding_year": 2022,
+   "start_page": 205,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATE CHILD CARE - TRAINING EXPENSES \u2013 P.L. 104-197",
+   "funding_year": 2022,
+   "start_page": 206,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATE CHILD CARE \u2013 AGENCY CONTRIBUTIONS \u2013 P.L. 102-90",
+   "funding_year": 2023,
+   "start_page": 207,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATE CHILD CARE - SALARY REIMBURSEMENT \u2013 S. RES. 329",
+   "funding_year": 2023,
+   "start_page": 208,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATE CHILD CARE - TRAINING EXPENSES \u2013 P.L. 104-197",
+   "funding_year": 2023,
+   "start_page": 209,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CONSULTANTS",
+   "funding_year": 2019,
+   "start_page": 210,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CONSULTANTS",
+   "funding_year": 2020,
+   "start_page": 211,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CONSULTANTS",
+   "funding_year": 2021,
+   "start_page": 212,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CONSULTANTS",
+   "funding_year": 2022,
+   "start_page": 213,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CONSULTANTS",
+   "funding_year": 2023,
+   "start_page": 214,
+   "status": "ok",
+   "record_count": 26
+  },
+  {
+   "office": "FEDERAL EMPLOYEES COMPENSATION ACCOUNT",
+   "funding_year": 2019,
+   "start_page": 216,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FEDERAL EMPLOYEES COMPENSATION ACCOUNT",
+   "funding_year": 2020,
+   "start_page": 217,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "FEDERAL EMPLOYEES COMPENSATION ACCOUNT",
+   "funding_year": 2021,
+   "start_page": 218,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "FEDERAL EMPLOYEES COMPENSATION ACCOUNT",
+   "funding_year": 2022,
+   "start_page": 219,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FEDERAL EMPLOYEES COMPENSATION ACCOUNT",
+   "funding_year": 2023,
+   "start_page": 220,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FOREIGN TRAVEL - MEMBERS & EMPLOYEES",
+   "funding_year": 2019,
+   "start_page": 221,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FOREIGN TRAVEL - MEMBERS & EMPLOYEES",
+   "funding_year": 2020,
+   "start_page": 222,
+   "status": "fail",
+   "record_count": 2
+  },
+  {
+   "office": "FOREIGN TRAVEL - MEMBERS & EMPLOYEES",
+   "funding_year": 2021,
+   "start_page": 223,
+   "status": "ok",
+   "record_count": 10
+  },
+  {
+   "office": "FOREIGN TRAVEL - MEMBERS & EMPLOYEES",
+   "funding_year": 2022,
+   "start_page": 225,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "FOREIGN TRAVEL - MEMBERS & EMPLOYEES",
+   "funding_year": 2023,
+   "start_page": 226,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "POSTAGE",
+   "funding_year": 2019,
+   "start_page": 227,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "POSTAGE",
+   "funding_year": 2020,
+   "start_page": 228,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "POSTAGE",
+   "funding_year": 2021,
+   "start_page": 229,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "POSTAGE",
+   "funding_year": 2022,
+   "start_page": 230,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "POSTAGE",
+   "funding_year": 2023,
+   "start_page": 231,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MOBILE COMMUNICATIONS DEVICES",
+   "funding_year": 2019,
+   "start_page": 232,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MOBILE COMMUNICATIONS DEVICES",
+   "funding_year": 2020,
+   "start_page": 233,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "MOBILE COMMUNICATIONS DEVICES",
+   "funding_year": 2021,
+   "start_page": 234,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MOBILE COMMUNICATIONS DEVICES",
+   "funding_year": 2022,
+   "start_page": 235,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MOBILE COMMUNICATIONS DEVICES",
+   "funding_year": 2023,
+   "start_page": 236,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RESERVE FOR CONTINGENCIES",
+   "funding_year": 2019,
+   "start_page": 237,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RESERVE FOR CONTINGENCIES",
+   "funding_year": 2020,
+   "start_page": 238,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "RESERVE FOR CONTINGENCIES",
+   "funding_year": 2021,
+   "start_page": 239,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "RESERVE FOR CONTINGENCIES",
+   "funding_year": 2022,
+   "start_page": 240,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RESERVE FOR CONTINGENCIES",
+   "funding_year": 2023,
+   "start_page": 241,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RECEPTION OF FOREIGN DIGNITARIES",
+   "funding_year": 2019,
+   "start_page": 242,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RECEPTION OF FOREIGN DIGNITARIES",
+   "funding_year": 2020,
+   "start_page": 243,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RECEPTION OF FOREIGN DIGNITARIES",
+   "funding_year": 2021,
+   "start_page": 244,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RECEPTION OF FOREIGN DIGNITARIES",
+   "funding_year": 2022,
+   "start_page": 245,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RECEPTION OF FOREIGN DIGNITARIES",
+   "funding_year": 2023,
+   "start_page": 246,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RESOLUTION & REORGANIZATION RESERVE",
+   "funding_year": 2019,
+   "start_page": 247,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RESOLUTION & REORGANIZATION RESERVE",
+   "funding_year": 2020,
+   "start_page": 248,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RESOLUTION & REORGANIZATION RESERVE",
+   "funding_year": 2021,
+   "start_page": 249,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "RESOLUTION & REORGANIZATION RESERVE",
+   "funding_year": 2022,
+   "start_page": 250,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RESOLUTION & REORGANIZATION RESERVE",
+   "funding_year": 2023,
+   "start_page": 251,
+   "status": "ok",
+   "record_count": 103
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN ADMIN CO-CHAIR (FEINSTEIN)",
+   "funding_year": 2019,
+   "start_page": 254,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN ADMIN CO-CHAIR (FEINSTEIN)",
+   "funding_year": 2020,
+   "start_page": 255,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ ADMIN CO-CHAIR (FEINSTEIN)",
+   "funding_year": 2021,
+   "start_page": 256,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ ADMIN CO-CHAIR (FEINSTEIN)",
+   "funding_year": 2022,
+   "start_page": 257,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ ADMIN CO-CHAIR (FEINSTEIN)",
+   "funding_year": 2023,
+   "start_page": 258,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (DURBIN)",
+   "funding_year": 2021,
+   "start_page": 259,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (DURBIN)",
+   "funding_year": 2022,
+   "start_page": 260,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (DURBIN)",
+   "funding_year": 2023,
+   "start_page": 261,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO- CHAIR (REED)",
+   "funding_year": 2019,
+   "start_page": 262,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO- CHAIR (REED)",
+   "funding_year": 2020,
+   "start_page": 263,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (REED)",
+   "funding_year": 2021,
+   "start_page": 264,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (REED)",
+   "funding_year": 2022,
+   "start_page": 265,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (REED)",
+   "funding_year": 2023,
+   "start_page": 266,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO- CHAIR (MENENDEZ)",
+   "funding_year": 2019,
+   "start_page": 267,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO- CHAIR (MENENDEZ)",
+   "funding_year": 2020,
+   "start_page": 268,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (MENENDEZ)",
+   "funding_year": 2021,
+   "start_page": 269,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (MENENDEZ)",
+   "funding_year": 2022,
+   "start_page": 270,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (MENENDEZ)",
+   "funding_year": 2023,
+   "start_page": 271,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN LEADER (SCHUMER)",
+   "funding_year": 2019,
+   "start_page": 272,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN LEADER (SCHUMER)",
+   "funding_year": 2020,
+   "start_page": 273,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ LEADER (SCHUMER)",
+   "funding_year": 2021,
+   "start_page": 274,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ LEADER (SCHUMER)",
+   "funding_year": 2022,
+   "start_page": 275,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ LEADER (SCHUMER)",
+   "funding_year": 2023,
+   "start_page": 276,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ ADM. CO- CHAIR (RUBIO)",
+   "funding_year": 2019,
+   "start_page": 277,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ ADM. CO- CHAIR (RUBIO)",
+   "funding_year": 2020,
+   "start_page": 278,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN ADM. CO- CHAIR (CORNYN)",
+   "funding_year": 2021,
+   "start_page": 279,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN ADM. CO- CHAIR (CORNYN)",
+   "funding_year": 2022,
+   "start_page": 280,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN ADM. CO- CHAIR (CORNYN)",
+   "funding_year": 2023,
+   "start_page": 281,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (FISCHER)",
+   "funding_year": 2019,
+   "start_page": 282,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (FISCHER)",
+   "funding_year": 2020,
+   "start_page": 283,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO- CHAIR (FISCHER)",
+   "funding_year": 2021,
+   "start_page": 284,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO- CHAIR (FISCHER)",
+   "funding_year": 2022,
+   "start_page": 285,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO- CHAIR (FISCHER)",
+   "funding_year": 2023,
+   "start_page": 286,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (GARDNER)",
+   "funding_year": 2019,
+   "start_page": 287,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (GARDNER)",
+   "funding_year": 2020,
+   "start_page": 288,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (SASSE)",
+   "funding_year": 2019,
+   "start_page": 289,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO- CHAIR (SASSE)",
+   "funding_year": 2020,
+   "start_page": 290,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO- CHAIR (SASSE)",
+   "funding_year": 2021,
+   "start_page": 291,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO- CHAIR (SASSE)",
+   "funding_year": 2022,
+   "start_page": 292,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO- CHAIR (SASSE)",
+   "funding_year": 2023,
+   "start_page": 293,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ LEADER (MCCONNELL)",
+   "funding_year": 2019,
+   "start_page": 294,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ LEADER (MCCONNELL)",
+   "funding_year": 2020,
+   "start_page": 295,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN LEADER (MCCONNELL)",
+   "funding_year": 2021,
+   "start_page": 296,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN LEADER (MCCONNELL)",
+   "funding_year": 2022,
+   "start_page": 297,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN LEADER (MCCONNELL)",
+   "funding_year": 2023,
+   "start_page": 298,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "STATIONERY",
+   "funding_year": 2019,
+   "start_page": 299,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "STATIONERY",
+   "funding_year": 2020,
+   "start_page": 300,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "STATIONERY",
+   "funding_year": 2021,
+   "start_page": 301,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "STATIONERY",
+   "funding_year": 2022,
+   "start_page": 302,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "STATIONERY",
+   "funding_year": 2023,
+   "start_page": 303,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MISC ITEMS - STUDENT LOANS",
+   "funding_year": 2019,
+   "start_page": 304,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MISC ITEMS - STUDENT LOANS",
+   "funding_year": 2020,
+   "start_page": 305,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MISC ITEMS - STUDENT LOANS",
+   "funding_year": 2021,
+   "start_page": 306,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MISC ITEMS - STUDENT LOANS",
+   "funding_year": 2022,
+   "start_page": 307,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MISC ITEMS - STUDENT LOANS",
+   "funding_year": 2023,
+   "start_page": 308,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CARES ACT EMERG. APPROP. P.L. 116-136 Funding Year MISCELLANEOUS ITEMS",
+   "funding_year": null,
+   "start_page": 309,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "EMERGENCY APPROPRIATION PUBLIC LAW 109-13 Funding Year MISCELLANEOUS ITEMS",
+   "funding_year": null,
+   "start_page": 310,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY - SENATE INFORMATION SERVICES (SIS)",
+   "funding_year": 2017,
+   "start_page": 311,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY - SENATE INFORMATION SERVICES (SIS)",
+   "funding_year": 2018,
+   "start_page": 312,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY - SENATE INFORMATION SERVICES (SIS)",
+   "funding_year": 2019,
+   "start_page": 313,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY - SENATE INFORMATION SERVICES (SIS)",
+   "funding_year": 2020,
+   "start_page": 314,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY - SENATE INFORMATION SERVICES (SIS)",
+   "funding_year": 2021,
+   "start_page": 315,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY - SENATE INFORMATION SERVICES (SIS)",
+   "funding_year": 2022,
+   "start_page": 316,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY - SENATE INFORMATION SERVICES (SIS)",
+   "funding_year": 2023,
+   "start_page": 317,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2018,
+   "start_page": 318,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2019,
+   "start_page": 319,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2020,
+   "start_page": 320,
+   "status": "ok",
+   "record_count": 15
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2021,
+   "start_page": 322,
+   "status": "ok",
+   "record_count": 15
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2022,
+   "start_page": 324,
+   "status": "ok",
+   "record_count": 71
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2023,
+   "start_page": 327,
+   "status": "ok",
+   "record_count": 33
+  },
+  {
+   "office": "SECRETARY - FINANCIAL SYSTEM MODERNIZATION",
+   "funding_year": 2022,
+   "start_page": 329,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "SECRETARY - FINANCIAL SYSTEM MODERNIZATION",
+   "funding_year": 2023,
+   "start_page": 330,
+   "status": "ok",
+   "record_count": 10
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - OPERATING EXPENSES Funding Year SECRETARY OF THE SENATE",
+   "funding_year": null,
+   "start_page": 331,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - (LIS PROJECT) Funding Year SECRETARY OF THE SENATE",
+   "funding_year": null,
+   "start_page": 332,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SECRETARY - EMRGCY APPROPS FOR TERR RESPONSE Funding Year SECRETARY OF THE SENATE",
+   "funding_year": null,
+   "start_page": 333,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY - FINANCIAL SYSTEM MODERNIZATION Funding Year SECRETARY OF THE SENATE",
+   "funding_year": null,
+   "start_page": 334,
+   "status": "ok",
+   "record_count": 12
+  },
+  {
+   "office": "SECRETARY - SENATE COLLECTION Funding Year SECRETARY OF THE SENATE",
+   "funding_year": null,
+   "start_page": 335,
+   "status": "ok",
+   "record_count": 14
+  },
+  {
+   "office": "SECRETARY - PRESERVING/ARCHIVING SENATORS RECORDS Funding Year SECRETARY OF THE SENATE",
+   "funding_year": null,
+   "start_page": 336,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2017,
+   "start_page": 337,
+   "status": "ok",
+   "record_count": 14
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2018,
+   "start_page": 338,
+   "status": "ok",
+   "record_count": 35
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2019,
+   "start_page": 340,
+   "status": "ok",
+   "record_count": 114
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2020,
+   "start_page": 344,
+   "status": "ok",
+   "record_count": 113
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2021,
+   "start_page": 348,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2021,
+   "start_page": 349,
+   "status": "ok",
+   "record_count": 189
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2021,
+   "start_page": 355,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2022,
+   "start_page": 356,
+   "status": "ok",
+   "record_count": 22
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2022,
+   "start_page": 357,
+   "status": "ok",
+   "record_count": 1627
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2023,
+   "start_page": 393,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2023,
+   "start_page": 394,
+   "status": "ok",
+   "record_count": 1631
+  },
+  {
+   "office": "SAA - CARES ACT EMER. APPR. P.L. 116-136 Funding Year SERGEANT AT ARMS AND DOORKEEPER",
+   "funding_year": null,
+   "start_page": 433,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SAA - EMERG SUPP NO YEAR FUNDS Funding Year SERGEANT AT ARMS AND DOORKEEPER",
+   "funding_year": null,
+   "start_page": 434,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SAA - JOINT AUDIBLE WARNING SYSTEM Funding Year SERGEANT AT ARMS AND DOORKEEPER",
+   "funding_year": null,
+   "start_page": 435,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - PROTECTIVE SERVICES & CONTINUITY Funding Year SERGEANT AT ARMS AND DOORKEEPER",
+   "funding_year": null,
+   "start_page": 436,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SAA - RECORD STUDIO NO YEAR FUNDS Funding Year SERGEANT AT ARMS AND DOORKEEPER",
+   "funding_year": null,
+   "start_page": 437,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SAA - SENATE HEARING ROOM AUDIOVISUAL EQUIPMENT Funding Year SERGEANT AT ARMS AND DOORKEEPER",
+   "funding_year": null,
+   "start_page": 438,
+   "status": "ok",
+   "record_count": 12
+  },
+  {
+   "office": "SAA - SMI PROJECT Funding Year SERGEANT AT ARMS AND DOORKEEPER",
+   "funding_year": null,
+   "start_page": 439,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CAUCUS - INTERNATIONAL NARCOTICS CONTROL",
+   "funding_year": 2021,
+   "start_page": 440,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CAUCUS - INTERNATIONAL NARCOTICS CONTROL",
+   "funding_year": 2022,
+   "start_page": 441,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CAUCUS - INTERNATIONAL NARCOTICS CONTROL",
+   "funding_year": 2023,
+   "start_page": 442,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "SENATOR LAMAR ALEXANDER",
+   "funding_year": 2021,
+   "start_page": 443,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - ALEXANDER",
+   "funding_year": 2021,
+   "start_page": 444,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TAMMY BALDWIN",
+   "funding_year": 2021,
+   "start_page": 445,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - BALDWIN",
+   "funding_year": 2021,
+   "start_page": 446,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TAMMY BALDWIN",
+   "funding_year": 2022,
+   "start_page": 447,
+   "status": "ok",
+   "record_count": 24
+  },
+  {
+   "office": "INTERN COMPENSATION - BALDWIN",
+   "funding_year": 2022,
+   "start_page": 449,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TAMMY BALDWIN",
+   "funding_year": 2023,
+   "start_page": 450,
+   "status": "ok",
+   "record_count": 250
+  },
+  {
+   "office": "INTERN COMPENSATION - BALDWIN",
+   "funding_year": 2023,
+   "start_page": 459,
+   "status": "ok",
+   "record_count": 15
+  },
+  {
+   "office": "SENATOR JOHN BARRASSO",
+   "funding_year": 2021,
+   "start_page": 460,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - BARRASSO",
+   "funding_year": 2021,
+   "start_page": 461,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN BARRASSO",
+   "funding_year": 2022,
+   "start_page": 462,
+   "status": "ok",
+   "record_count": 59
+  },
+  {
+   "office": "INTERN COMPENSATION - BARRASSO",
+   "funding_year": 2022,
+   "start_page": 465,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN BARRASSO",
+   "funding_year": 2023,
+   "start_page": 466,
+   "status": "ok",
+   "record_count": 235
+  },
+  {
+   "office": "INTERN COMPENSATION - BARRASSO",
+   "funding_year": 2023,
+   "start_page": 474,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SENATOR MICHAEL BENNET",
+   "funding_year": 2021,
+   "start_page": 475,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "INTERN COMPENSATION - BENNET",
+   "funding_year": 2021,
+   "start_page": 476,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MICHAEL BENNET",
+   "funding_year": 2022,
+   "start_page": 477,
+   "status": "ok",
+   "record_count": 33
+  },
+  {
+   "office": "INTERN COMPENSATION - BENNET",
+   "funding_year": 2022,
+   "start_page": 479,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MICHAEL BENNET",
+   "funding_year": 2023,
+   "start_page": 480,
+   "status": "ok",
+   "record_count": 186
+  },
+  {
+   "office": "INTERN COMPENSATION - BENNET",
+   "funding_year": 2023,
+   "start_page": 487,
+   "status": "ok",
+   "record_count": 11
+  },
+  {
+   "office": "SENATOR MARSHA BLACKBURN",
+   "funding_year": 2021,
+   "start_page": 488,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - BLACKBURN",
+   "funding_year": 2021,
+   "start_page": 489,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARSHA BLACKBURN",
+   "funding_year": 2022,
+   "start_page": 490,
+   "status": "ok",
+   "record_count": 156
+  },
+  {
+   "office": "INTERN COMPENSATION - BLACKBURN",
+   "funding_year": 2022,
+   "start_page": 497,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARSHA BLACKBURN",
+   "funding_year": 2023,
+   "start_page": 498,
+   "status": "ok",
+   "record_count": 1297
+  },
+  {
+   "office": "INTERN COMPENSATION - BLACKBURN",
+   "funding_year": 2023,
+   "start_page": 542,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SENATOR RICHARD BLUMENTHAL",
+   "funding_year": 2021,
+   "start_page": 543,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - BLUMENTHAL",
+   "funding_year": 2021,
+   "start_page": 544,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICHARD BLUMENTHAL",
+   "funding_year": 2022,
+   "start_page": 545,
+   "status": "ok",
+   "record_count": 38
+  },
+  {
+   "office": "INTERN COMPENSATION - BLUMENTHAL",
+   "funding_year": 2022,
+   "start_page": 548,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICHARD BLUMENTHAL",
+   "funding_year": 2023,
+   "start_page": 549,
+   "status": "ok",
+   "record_count": 155
+  },
+  {
+   "office": "INTERN COMPENSATION - BLUMENTHAL",
+   "funding_year": 2023,
+   "start_page": 556,
+   "status": "ok",
+   "record_count": 15
+  },
+  {
+   "office": "SENATOR ROY BLUNT",
+   "funding_year": 2021,
+   "start_page": 557,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - BLUNT",
+   "funding_year": 2021,
+   "start_page": 558,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROY BLUNT",
+   "funding_year": 2022,
+   "start_page": 559,
+   "status": "ok",
+   "record_count": 106
+  },
+  {
+   "office": "INTERN COMPENSATION - BLUNT",
+   "funding_year": 2022,
+   "start_page": 564,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROY BLUNT",
+   "funding_year": 2023,
+   "start_page": 565,
+   "status": "ok",
+   "record_count": 325
+  },
+  {
+   "office": "INTERN COMPENSATION - BLUNT",
+   "funding_year": 2023,
+   "start_page": 577,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR CORY BOOKER",
+   "funding_year": 2021,
+   "start_page": 578,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - BOOKER",
+   "funding_year": 2021,
+   "start_page": 579,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CORY BOOKER",
+   "funding_year": 2022,
+   "start_page": 580,
+   "status": "ok",
+   "record_count": 16
+  },
+  {
+   "office": "INTERN COMPENSATION - BOOKER",
+   "funding_year": 2022,
+   "start_page": 582,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CORY BOOKER",
+   "funding_year": 2023,
+   "start_page": 583,
+   "status": "ok",
+   "record_count": 87
+  },
+  {
+   "office": "INTERN COMPENSATION - BOOKER",
+   "funding_year": 2023,
+   "start_page": 586,
+   "status": "ok",
+   "record_count": 16
+  },
+  {
+   "office": "SENATOR JOHN BOOZMAN",
+   "funding_year": 2021,
+   "start_page": 587,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - BOOZMAN",
+   "funding_year": 2021,
+   "start_page": 588,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN BOOZMAN",
+   "funding_year": 2022,
+   "start_page": 589,
+   "status": "ok",
+   "record_count": 34
+  },
+  {
+   "office": "INTERN COMPENSATION - BOOZMAN",
+   "funding_year": 2022,
+   "start_page": 592,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN BOOZMAN",
+   "funding_year": 2023,
+   "start_page": 593,
+   "status": "ok",
+   "record_count": 315
+  },
+  {
+   "office": "INTERN COMPENSATION - BOOZMAN",
+   "funding_year": 2023,
+   "start_page": 605,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "SENATOR MIKE BRAUN",
+   "funding_year": 2021,
+   "start_page": 606,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - BRAUN",
+   "funding_year": 2021,
+   "start_page": 607,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MIKE BRAUN",
+   "funding_year": 2022,
+   "start_page": 608,
+   "status": "ok",
+   "record_count": 110
+  },
+  {
+   "office": "INTERN COMPENSATION - BRAUN",
+   "funding_year": 2022,
+   "start_page": 614,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MIKE BRAUN",
+   "funding_year": 2023,
+   "start_page": 615,
+   "status": "ok",
+   "record_count": 235
+  },
+  {
+   "office": "INTERN COMPENSATION - BRAUN",
+   "funding_year": 2023,
+   "start_page": 626,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR KATIE BRITT",
+   "funding_year": 2023,
+   "start_page": 627,
+   "status": "ok",
+   "record_count": 140
+  },
+  {
+   "office": "INTERN COMPENSATION - BRITT",
+   "funding_year": 2023,
+   "start_page": 632,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SHERROD BROWN",
+   "funding_year": 2021,
+   "start_page": 633,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - BROWN",
+   "funding_year": 2021,
+   "start_page": 634,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SHERROD BROWN",
+   "funding_year": 2022,
+   "start_page": 635,
+   "status": "ok",
+   "record_count": 102
+  },
+  {
+   "office": "INTERN COMPENSATION - BROWN",
+   "funding_year": 2022,
+   "start_page": 640,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SHERROD BROWN",
+   "funding_year": 2023,
+   "start_page": 641,
+   "status": "ok",
+   "record_count": 526
+  },
+  {
+   "office": "INTERN COMPENSATION - BROWN",
+   "funding_year": 2023,
+   "start_page": 659,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "SENATOR THEODORE BUDD",
+   "funding_year": 2023,
+   "start_page": 660,
+   "status": "ok",
+   "record_count": 131
+  },
+  {
+   "office": "INTERN COMPENSATION - BUDD",
+   "funding_year": 2023,
+   "start_page": 665,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICHARD BURR",
+   "funding_year": 2021,
+   "start_page": 666,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - BURR",
+   "funding_year": 2021,
+   "start_page": 667,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICHARD BURR",
+   "funding_year": 2022,
+   "start_page": 668,
+   "status": "ok",
+   "record_count": 70
+  },
+  {
+   "office": "INTERN COMPENSATION - BURR",
+   "funding_year": 2022,
+   "start_page": 672,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICHARD BURR",
+   "funding_year": 2023,
+   "start_page": 673,
+   "status": "ok",
+   "record_count": 72
+  },
+  {
+   "office": "INTERN COMPENSATION - BURR",
+   "funding_year": 2023,
+   "start_page": 677,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR MARIA CANTWELL",
+   "funding_year": 2021,
+   "start_page": 678,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - CANTWELL",
+   "funding_year": 2021,
+   "start_page": 679,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARIA CANTWELL",
+   "funding_year": 2022,
+   "start_page": 680,
+   "status": "ok",
+   "record_count": 73
+  },
+  {
+   "office": "INTERN COMPENSATION - CANTWELL",
+   "funding_year": 2022,
+   "start_page": 684,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARIA CANTWELL",
+   "funding_year": 2023,
+   "start_page": 685,
+   "status": "ok",
+   "record_count": 310
+  },
+  {
+   "office": "INTERN COMPENSATION - CANTWELL",
+   "funding_year": 2023,
+   "start_page": 696,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SHELLEY MOORE CAPITO",
+   "funding_year": 2021,
+   "start_page": 697,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - CAPITO",
+   "funding_year": 2021,
+   "start_page": 698,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SHELLEY MOORE CAPITO",
+   "funding_year": 2022,
+   "start_page": 699,
+   "status": "ok",
+   "record_count": 41
+  },
+  {
+   "office": "INTERN COMPENSATION - CAPITO",
+   "funding_year": 2022,
+   "start_page": 702,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SHELLEY MOORE CAPITO",
+   "funding_year": 2023,
+   "start_page": 703,
+   "status": "ok",
+   "record_count": 448
+  },
+  {
+   "office": "INTERN COMPENSATION - CAPITO",
+   "funding_year": 2023,
+   "start_page": 719,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "SENATOR BENJAMIN L. CARDIN",
+   "funding_year": 2021,
+   "start_page": 720,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - CARDIN",
+   "funding_year": 2021,
+   "start_page": 721,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BENJAMIN L. CARDIN",
+   "funding_year": 2022,
+   "start_page": 722,
+   "status": "ok",
+   "record_count": 19
+  },
+  {
+   "office": "INTERN COMPENSATION - CARDIN",
+   "funding_year": 2022,
+   "start_page": 724,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BENJAMIN L. CARDIN",
+   "funding_year": 2023,
+   "start_page": 725,
+   "status": "ok",
+   "record_count": 105
+  },
+  {
+   "office": "INTERN COMPENSATION - CARDIN",
+   "funding_year": 2023,
+   "start_page": 731,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "SENATOR THOMAS R. CARPER",
+   "funding_year": 2021,
+   "start_page": 732,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - CARPER",
+   "funding_year": 2021,
+   "start_page": 733,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR THOMAS R. CARPER",
+   "funding_year": 2022,
+   "start_page": 734,
+   "status": "ok",
+   "record_count": 60
+  },
+  {
+   "office": "INTERN COMPENSATION - CARPER",
+   "funding_year": 2022,
+   "start_page": 737,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR THOMAS R. CARPER",
+   "funding_year": 2023,
+   "start_page": 738,
+   "status": "ok",
+   "record_count": 284
+  },
+  {
+   "office": "INTERN COMPENSATION - CARPER",
+   "funding_year": 2023,
+   "start_page": 749,
+   "status": "ok",
+   "record_count": 10
+  },
+  {
+   "office": "SENATOR ROBERT CASEY",
+   "funding_year": 2021,
+   "start_page": 750,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - CASEY",
+   "funding_year": 2021,
+   "start_page": 751,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROBERT CASEY",
+   "funding_year": 2022,
+   "start_page": 752,
+   "status": "ok",
+   "record_count": 130
+  },
+  {
+   "office": "INTERN COMPENSATION - CASEY",
+   "funding_year": 2022,
+   "start_page": 757,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROBERT CASEY",
+   "funding_year": 2023,
+   "start_page": 758,
+   "status": "ok",
+   "record_count": 500
+  },
+  {
+   "office": "INTERN COMPENSATION - CASEY",
+   "funding_year": 2023,
+   "start_page": 775,
+   "status": "ok",
+   "record_count": 14
+  },
+  {
+   "office": "SENATOR BILL CASSIDY",
+   "funding_year": 2021,
+   "start_page": 776,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - CASSIDY",
+   "funding_year": 2021,
+   "start_page": 777,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BILL CASSIDY",
+   "funding_year": 2022,
+   "start_page": 778,
+   "status": "ok",
+   "record_count": 61
+  },
+  {
+   "office": "INTERN COMPENSATION - CASSIDY",
+   "funding_year": 2022,
+   "start_page": 782,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BILL CASSIDY",
+   "funding_year": 2023,
+   "start_page": 783,
+   "status": "fail",
+   "record_count": 396
+  },
+  {
+   "office": "INTERN COMPENSATION - CASSIDY",
+   "funding_year": 2023,
+   "start_page": 797,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "SENATOR SUSAN M. COLLINS",
+   "funding_year": 2021,
+   "start_page": 798,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - COLLINS",
+   "funding_year": 2021,
+   "start_page": 799,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SUSAN M. COLLINS",
+   "funding_year": 2022,
+   "start_page": 800,
+   "status": "ok",
+   "record_count": 86
+  },
+  {
+   "office": "INTERN COMPENSATION - COLLINS",
+   "funding_year": 2022,
+   "start_page": 804,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SUSAN M. COLLINS",
+   "funding_year": 2023,
+   "start_page": 805,
+   "status": "ok",
+   "record_count": 440
+  },
+  {
+   "office": "INTERN COMPENSATION - COLLINS",
+   "funding_year": 2023,
+   "start_page": 820,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SENATOR CHRISTOPHER A. COONS",
+   "funding_year": 2021,
+   "start_page": 821,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - COONS",
+   "funding_year": 2021,
+   "start_page": 822,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHRISTOPHER A. COONS",
+   "funding_year": 2022,
+   "start_page": 823,
+   "status": "ok",
+   "record_count": 52
+  },
+  {
+   "office": "INTERN COMPENSATION - COONS",
+   "funding_year": 2022,
+   "start_page": 826,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHRISTOPHER A. COONS",
+   "funding_year": 2023,
+   "start_page": 827,
+   "status": "ok",
+   "record_count": 209
+  },
+  {
+   "office": "INTERN COMPENSATION - COONS",
+   "funding_year": 2023,
+   "start_page": 835,
+   "status": "ok",
+   "record_count": 11
+  },
+  {
+   "office": "SENATOR JOHN CORNYN",
+   "funding_year": 2021,
+   "start_page": 836,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - CORNYN",
+   "funding_year": 2021,
+   "start_page": 837,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN CORNYN",
+   "funding_year": 2022,
+   "start_page": 838,
+   "status": "ok",
+   "record_count": 66
+  },
+  {
+   "office": "INTERN COMPENSATION - CORNYN",
+   "funding_year": 2022,
+   "start_page": 841,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN CORNYN",
+   "funding_year": 2023,
+   "start_page": 842,
+   "status": "ok",
+   "record_count": 377
+  },
+  {
+   "office": "INTERN COMPENSATION - CORNYN",
+   "funding_year": 2023,
+   "start_page": 855,
+   "status": "ok",
+   "record_count": 10
+  },
+  {
+   "office": "SENATOR CATHERINE CORTEZ MASTO",
+   "funding_year": 2021,
+   "start_page": 856,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - CORTEZ MASTO",
+   "funding_year": 2021,
+   "start_page": 857,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CATHERINE CORTEZ MASTO",
+   "funding_year": 2022,
+   "start_page": 858,
+   "status": "ok",
+   "record_count": 33
+  },
+  {
+   "office": "INTERN COMPENSATION - CORTEZ MASTO",
+   "funding_year": 2022,
+   "start_page": 860,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CATHERINE CORTEZ MASTO",
+   "funding_year": 2023,
+   "start_page": 861,
+   "status": "ok",
+   "record_count": 178
+  },
+  {
+   "office": "INTERN COMPENSATION - CORTEZ MASTO",
+   "funding_year": 2023,
+   "start_page": 867,
+   "status": "ok",
+   "record_count": 9
+  },
+  {
+   "office": "SENATOR TOM COTTON",
+   "funding_year": 2021,
+   "start_page": 868,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - COTTON",
+   "funding_year": 2021,
+   "start_page": 869,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TOM COTTON",
+   "funding_year": 2022,
+   "start_page": 870,
+   "status": "ok",
+   "record_count": 35
+  },
+  {
+   "office": "INTERN COMPENSATION - COTTON",
+   "funding_year": 2022,
+   "start_page": 872,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TOM COTTON",
+   "funding_year": 2023,
+   "start_page": 873,
+   "status": "ok",
+   "record_count": 178
+  },
+  {
+   "office": "INTERN COMPENSATION - COTTON",
+   "funding_year": 2023,
+   "start_page": 880,
+   "status": "ok",
+   "record_count": 11
+  },
+  {
+   "office": "SENATOR KEVIN CRAMER",
+   "funding_year": 2021,
+   "start_page": 881,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "INTERN COMPENSATION - CRAMER",
+   "funding_year": 2021,
+   "start_page": 882,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR KEVIN CRAMER",
+   "funding_year": 2022,
+   "start_page": 883,
+   "status": "ok",
+   "record_count": 38
+  },
+  {
+   "office": "INTERN COMPENSATION - CRAMER",
+   "funding_year": 2022,
+   "start_page": 885,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR KEVIN CRAMER",
+   "funding_year": 2023,
+   "start_page": 886,
+   "status": "ok",
+   "record_count": 328
+  },
+  {
+   "office": "INTERN COMPENSATION - CRAMER",
+   "funding_year": 2023,
+   "start_page": 898,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR MICHAEL D. CRAPO",
+   "funding_year": 2021,
+   "start_page": 899,
+   "status": "ok",
+   "record_count": 9
+  },
+  {
+   "office": "INTERN COMPENSATION - CRAPO",
+   "funding_year": 2021,
+   "start_page": 900,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MICHAEL D. CRAPO",
+   "funding_year": 2022,
+   "start_page": 901,
+   "status": "ok",
+   "record_count": 20
+  },
+  {
+   "office": "INTERN COMPENSATION - CRAPO",
+   "funding_year": 2022,
+   "start_page": 903,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MICHAEL D. CRAPO",
+   "funding_year": 2023,
+   "start_page": 904,
+   "status": "ok",
+   "record_count": 118
+  },
+  {
+   "office": "INTERN COMPENSATION - CRAPO",
+   "funding_year": 2023,
+   "start_page": 908,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "SENATOR TED CRUZ",
+   "funding_year": 2021,
+   "start_page": 909,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "INTERN COMPENSATION - CRUZ",
+   "funding_year": 2021,
+   "start_page": 910,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TED CRUZ",
+   "funding_year": 2022,
+   "start_page": 911,
+   "status": "ok",
+   "record_count": 79
+  },
+  {
+   "office": "INTERN COMPENSATION - CRUZ",
+   "funding_year": 2022,
+   "start_page": 915,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TED CRUZ",
+   "funding_year": 2023,
+   "start_page": 916,
+   "status": "ok",
+   "record_count": 307
+  },
+  {
+   "office": "INTERN COMPENSATION - CRUZ",
+   "funding_year": 2023,
+   "start_page": 927,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "SENATOR STEVE DAINES",
+   "funding_year": 2021,
+   "start_page": 928,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - DAINES",
+   "funding_year": 2021,
+   "start_page": 929,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR STEVE DAINES",
+   "funding_year": 2022,
+   "start_page": 930,
+   "status": "ok",
+   "record_count": 98
+  },
+  {
+   "office": "INTERN COMPENSATION - DAINES",
+   "funding_year": 2022,
+   "start_page": 935,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR STEVE DAINES",
+   "funding_year": 2023,
+   "start_page": 936,
+   "status": "ok",
+   "record_count": 531
+  },
+  {
+   "office": "INTERN COMPENSATION - DAINES",
+   "funding_year": 2023,
+   "start_page": 954,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "SENATOR TAMMY DUCKWORTH",
+   "funding_year": 2021,
+   "start_page": 955,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - DUCKWORTH",
+   "funding_year": 2021,
+   "start_page": 956,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TAMMY DUCKWORTH",
+   "funding_year": 2022,
+   "start_page": 957,
+   "status": "ok",
+   "record_count": 37
+  },
+  {
+   "office": "INTERN COMPENSATION - DUCKWORTH",
+   "funding_year": 2022,
+   "start_page": 959,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TAMMY DUCKWORTH",
+   "funding_year": 2023,
+   "start_page": 960,
+   "status": "ok",
+   "record_count": 276
+  },
+  {
+   "office": "INTERN COMPENSATION - DUCKWORTH",
+   "funding_year": 2023,
+   "start_page": 970,
+   "status": "ok",
+   "record_count": 10
+  },
+  {
+   "office": "SENATOR RICHARD J. DURBIN",
+   "funding_year": 2021,
+   "start_page": 971,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - DURBIN",
+   "funding_year": 2021,
+   "start_page": 972,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICHARD J. DURBIN",
+   "funding_year": 2022,
+   "start_page": 973,
+   "status": "ok",
+   "record_count": 65
+  },
+  {
+   "office": "INTERN COMPENSATION - DURBIN",
+   "funding_year": 2022,
+   "start_page": 976,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICHARD J. DURBIN",
+   "funding_year": 2023,
+   "start_page": 977,
+   "status": "ok",
+   "record_count": 174
+  },
+  {
+   "office": "INTERN COMPENSATION - DURBIN",
+   "funding_year": 2023,
+   "start_page": 983,
+   "status": "ok",
+   "record_count": 9
+  },
+  {
+   "office": "SENATOR MICHAEL B. ENZI",
+   "funding_year": 2021,
+   "start_page": 984,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - ENZI",
+   "funding_year": 2021,
+   "start_page": 985,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JONI ERNST",
+   "funding_year": 2021,
+   "start_page": 986,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - ERNST",
+   "funding_year": 2021,
+   "start_page": 987,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JONI ERNST",
+   "funding_year": 2022,
+   "start_page": 988,
+   "status": "ok",
+   "record_count": 70
+  },
+  {
+   "office": "INTERN COMPENSATION - ERNST",
+   "funding_year": 2022,
+   "start_page": 992,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JONI ERNST",
+   "funding_year": 2023,
+   "start_page": 993,
+   "status": "ok",
+   "record_count": 397
+  },
+  {
+   "office": "INTERN COMPENSATION - ERNST",
+   "funding_year": 2023,
+   "start_page": 1007,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "SENATOR DIANNE FEINSTEIN",
+   "funding_year": 2021,
+   "start_page": 1008,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - FEINSTEIN",
+   "funding_year": 2021,
+   "start_page": 1009,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DIANNE FEINSTEIN",
+   "funding_year": 2022,
+   "start_page": 1010,
+   "status": "ok",
+   "record_count": 25
+  },
+  {
+   "office": "INTERN COMPENSATION - FEINSTEIN",
+   "funding_year": 2022,
+   "start_page": 1012,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DIANNE FEINSTEIN",
+   "funding_year": 2023,
+   "start_page": 1013,
+   "status": "ok",
+   "record_count": 215
+  },
+  {
+   "office": "INTERN COMPENSATION - FEINSTEIN",
+   "funding_year": 2023,
+   "start_page": 1021,
+   "status": "ok",
+   "record_count": 23
+  },
+  {
+   "office": "SENATOR JOHN FETTERMAN",
+   "funding_year": 2023,
+   "start_page": 1022,
+   "status": "ok",
+   "record_count": 104
+  },
+  {
+   "office": "INTERN COMPENSATION - FETTERMAN",
+   "funding_year": 2023,
+   "start_page": 1026,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DEB FISCHER",
+   "funding_year": 2021,
+   "start_page": 1027,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - FISCHER",
+   "funding_year": 2021,
+   "start_page": 1028,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DEB FISCHER",
+   "funding_year": 2022,
+   "start_page": 1029,
+   "status": "ok",
+   "record_count": 36
+  },
+  {
+   "office": "INTERN COMPENSATION - FISCHER",
+   "funding_year": 2022,
+   "start_page": 1031,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DEB FISCHER",
+   "funding_year": 2023,
+   "start_page": 1032,
+   "status": "ok",
+   "record_count": 230
+  },
+  {
+   "office": "INTERN COMPENSATION - FISCHER",
+   "funding_year": 2023,
+   "start_page": 1040,
+   "status": "ok",
+   "record_count": 10
+  },
+  {
+   "office": "SENATOR CORY GARDNER",
+   "funding_year": 2021,
+   "start_page": 1041,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - GARDNER",
+   "funding_year": 2021,
+   "start_page": 1042,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR KIRSTEN GILLIBRAND",
+   "funding_year": 2021,
+   "start_page": 1043,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "INTERN COMPENSATION - GILLIBRAND",
+   "funding_year": 2021,
+   "start_page": 1044,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR KIRSTEN GILLIBRAND",
+   "funding_year": 2022,
+   "start_page": 1045,
+   "status": "ok",
+   "record_count": 129
+  },
+  {
+   "office": "INTERN COMPENSATION - GILLIBRAND",
+   "funding_year": 2022,
+   "start_page": 1051,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR KIRSTEN GILLIBRAND",
+   "funding_year": 2023,
+   "start_page": 1052,
+   "status": "ok",
+   "record_count": 448
+  },
+  {
+   "office": "INTERN COMPENSATION - GILLIBRAND",
+   "funding_year": 2023,
+   "start_page": 1068,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR LINDSEY GRAHAM",
+   "funding_year": 2021,
+   "start_page": 1069,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - GRAHAM",
+   "funding_year": 2021,
+   "start_page": 1070,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR LINDSEY GRAHAM",
+   "funding_year": 2022,
+   "start_page": 1071,
+   "status": "ok",
+   "record_count": 55
+  },
+  {
+   "office": "INTERN COMPENSATION - GRAHAM",
+   "funding_year": 2022,
+   "start_page": 1074,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR LINDSEY GRAHAM",
+   "funding_year": 2023,
+   "start_page": 1075,
+   "status": "ok",
+   "record_count": 158
+  },
+  {
+   "office": "INTERN COMPENSATION - GRAHAM",
+   "funding_year": 2023,
+   "start_page": 1081,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "SENATOR CHARLES E. GRASSLEY",
+   "funding_year": 2021,
+   "start_page": 1082,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "INTERN COMPENSATION - GRASSLEY",
+   "funding_year": 2021,
+   "start_page": 1083,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHARLES E. GRASSLEY",
+   "funding_year": 2022,
+   "start_page": 1084,
+   "status": "ok",
+   "record_count": 37
+  },
+  {
+   "office": "INTERN COMPENSATION - GRASSLEY",
+   "funding_year": 2022,
+   "start_page": 1087,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHARLES E. GRASSLEY",
+   "funding_year": 2023,
+   "start_page": 1088,
+   "status": "ok",
+   "record_count": 343
+  },
+  {
+   "office": "INTERN COMPENSATION - GRASSLEY",
+   "funding_year": 2023,
+   "start_page": 1101,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "SENATOR BILL HAGERTY",
+   "funding_year": 2021,
+   "start_page": 1102,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - HAGERTY",
+   "funding_year": 2021,
+   "start_page": 1103,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BILL HAGERTY",
+   "funding_year": 2022,
+   "start_page": 1104,
+   "status": "ok",
+   "record_count": 90
+  },
+  {
+   "office": "INTERN COMPENSATION - HAGERTY",
+   "funding_year": 2022,
+   "start_page": 1109,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BILL HAGERTY",
+   "funding_year": 2023,
+   "start_page": 1110,
+   "status": "ok",
+   "record_count": 299
+  },
+  {
+   "office": "INTERN COMPENSATION - HAGERTY",
+   "funding_year": 2023,
+   "start_page": 1123,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "SENATOR KAMALA HARRIS",
+   "funding_year": 2021,
+   "start_page": 1124,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - HARRIS",
+   "funding_year": 2021,
+   "start_page": 1125,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MAGGIE HASSAN",
+   "funding_year": 2021,
+   "start_page": 1126,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - HASSAN",
+   "funding_year": 2021,
+   "start_page": 1127,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MAGGIE HASSAN",
+   "funding_year": 2022,
+   "start_page": 1128,
+   "status": "ok",
+   "record_count": 14
+  },
+  {
+   "office": "INTERN COMPENSATION - HASSAN",
+   "funding_year": 2022,
+   "start_page": 1130,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MAGGIE HASSAN",
+   "funding_year": 2023,
+   "start_page": 1131,
+   "status": "ok",
+   "record_count": 182
+  },
+  {
+   "office": "INTERN COMPENSATION - HASSAN",
+   "funding_year": 2023,
+   "start_page": 1138,
+   "status": "ok",
+   "record_count": 14
+  },
+  {
+   "office": "SENATOR JOSH HAWLEY",
+   "funding_year": 2021,
+   "start_page": 1139,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - HAWLEY",
+   "funding_year": 2021,
+   "start_page": 1140,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOSH HAWLEY",
+   "funding_year": 2022,
+   "start_page": 1141,
+   "status": "ok",
+   "record_count": 121
+  },
+  {
+   "office": "INTERN COMPENSATION - HAWLEY",
+   "funding_year": 2022,
+   "start_page": 1146,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOSH HAWLEY",
+   "funding_year": 2023,
+   "start_page": 1147,
+   "status": "ok",
+   "record_count": 372
+  },
+  {
+   "office": "INTERN COMPENSATION - HAWLEY",
+   "funding_year": 2023,
+   "start_page": 1160,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "SENATOR MARTIN HEINRICH",
+   "funding_year": 2021,
+   "start_page": 1161,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "INTERN COMPENSATION - HEINRICH",
+   "funding_year": 2021,
+   "start_page": 1162,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARTIN HEINRICH",
+   "funding_year": 2022,
+   "start_page": 1163,
+   "status": "ok",
+   "record_count": 183
+  },
+  {
+   "office": "INTERN COMPENSATION - HEINRICH",
+   "funding_year": 2022,
+   "start_page": 1170,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARTIN HEINRICH",
+   "funding_year": 2023,
+   "start_page": 1171,
+   "status": "ok",
+   "record_count": 308
+  },
+  {
+   "office": "INTERN COMPENSATION - HEINRICH",
+   "funding_year": 2023,
+   "start_page": 1182,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "SENATOR JOHN HICKENLOOPER",
+   "funding_year": 2021,
+   "start_page": 1183,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - HICKENLOOPER",
+   "funding_year": 2021,
+   "start_page": 1184,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN HICKENLOOPER",
+   "funding_year": 2022,
+   "start_page": 1185,
+   "status": "ok",
+   "record_count": 74
+  },
+  {
+   "office": "INTERN COMPENSATION - HICKENLOOPER",
+   "funding_year": 2022,
+   "start_page": 1189,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN HICKENLOOPER",
+   "funding_year": 2023,
+   "start_page": 1190,
+   "status": "ok",
+   "record_count": 229
+  },
+  {
+   "office": "INTERN COMPENSATION - HICKENLOOPER",
+   "funding_year": 2023,
+   "start_page": 1199,
+   "status": "ok",
+   "record_count": 11
+  },
+  {
+   "office": "SENATOR MAZIE HIRONO",
+   "funding_year": 2021,
+   "start_page": 1200,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - HIRONO",
+   "funding_year": 2021,
+   "start_page": 1201,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MAZIE HIRONO",
+   "funding_year": 2022,
+   "start_page": 1202,
+   "status": "ok",
+   "record_count": 35
+  },
+  {
+   "office": "INTERN COMPENSATION - HIRONO",
+   "funding_year": 2022,
+   "start_page": 1204,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MAZIE HIRONO",
+   "funding_year": 2023,
+   "start_page": 1205,
+   "status": "ok",
+   "record_count": 107
+  },
+  {
+   "office": "INTERN COMPENSATION - HIRONO",
+   "funding_year": 2023,
+   "start_page": 1209,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "SENATOR JOHN HOEVEN",
+   "funding_year": 2021,
+   "start_page": 1210,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - HOEVEN",
+   "funding_year": 2021,
+   "start_page": 1211,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN HOEVEN",
+   "funding_year": 2022,
+   "start_page": 1212,
+   "status": "ok",
+   "record_count": 19
+  },
+  {
+   "office": "INTERN COMPENSATION - HOEVEN",
+   "funding_year": 2022,
+   "start_page": 1214,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN HOEVEN",
+   "funding_year": 2023,
+   "start_page": 1215,
+   "status": "ok",
+   "record_count": 113
+  },
+  {
+   "office": "INTERN COMPENSATION - HOEVEN",
+   "funding_year": 2023,
+   "start_page": 1220,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "SENATOR CINDY HYDE-SMITH",
+   "funding_year": 2021,
+   "start_page": 1221,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - HYDE-SMITH",
+   "funding_year": 2021,
+   "start_page": 1222,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CINDY HYDE-SMITH",
+   "funding_year": 2022,
+   "start_page": 1223,
+   "status": "ok",
+   "record_count": 106
+  },
+  {
+   "office": "INTERN COMPENSATION - HYDE-SMITH",
+   "funding_year": 2022,
+   "start_page": 1228,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CINDY HYDE-SMITH",
+   "funding_year": 2023,
+   "start_page": 1229,
+   "status": "ok",
+   "record_count": 348
+  },
+  {
+   "office": "INTERN COMPENSATION - HYDE-SMITH",
+   "funding_year": 2023,
+   "start_page": 1242,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "SENATOR JAMES M. INHOFE",
+   "funding_year": 2021,
+   "start_page": 1243,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - INHOFE",
+   "funding_year": 2021,
+   "start_page": 1244,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JAMES M. INHOFE",
+   "funding_year": 2022,
+   "start_page": 1245,
+   "status": "ok",
+   "record_count": 46
+  },
+  {
+   "office": "INTERN COMPENSATION - INHOFE",
+   "funding_year": 2022,
+   "start_page": 1248,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JAMES M. INHOFE",
+   "funding_year": 2023,
+   "start_page": 1249,
+   "status": "ok",
+   "record_count": 182
+  },
+  {
+   "office": "INTERN COMPENSATION - INHOFE",
+   "funding_year": 2023,
+   "start_page": 1256,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "SENATOR RON JOHNSON",
+   "funding_year": 2021,
+   "start_page": 1257,
+   "status": "ok",
+   "record_count": 15
+  },
+  {
+   "office": "INTERN COMPENSATION - JOHNSON",
+   "funding_year": 2021,
+   "start_page": 1259,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RON JOHNSON",
+   "funding_year": 2022,
+   "start_page": 1260,
+   "status": "ok",
+   "record_count": 20
+  },
+  {
+   "office": "INTERN COMPENSATION - JOHNSON",
+   "funding_year": 2022,
+   "start_page": 1262,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RON JOHNSON",
+   "funding_year": 2023,
+   "start_page": 1263,
+   "status": "ok",
+   "record_count": 245
+  },
+  {
+   "office": "INTERN COMPENSATION - JOHNSON",
+   "funding_year": 2023,
+   "start_page": 1272,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "SENATOR DOUG JONES",
+   "funding_year": 2021,
+   "start_page": 1273,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - JONES",
+   "funding_year": 2021,
+   "start_page": 1274,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TIM KAINE",
+   "funding_year": 2021,
+   "start_page": 1275,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - KAINE",
+   "funding_year": 2021,
+   "start_page": 1276,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TIM KAINE",
+   "funding_year": 2022,
+   "start_page": 1277,
+   "status": "ok",
+   "record_count": 82
+  },
+  {
+   "office": "INTERN COMPENSATION - KAINE",
+   "funding_year": 2022,
+   "start_page": 1281,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TIM KAINE",
+   "funding_year": 2023,
+   "start_page": 1282,
+   "status": "ok",
+   "record_count": 225
+  },
+  {
+   "office": "INTERN COMPENSATION - KAINE",
+   "funding_year": 2023,
+   "start_page": 1290,
+   "status": "ok",
+   "record_count": 17
+  },
+  {
+   "office": "SENATOR MARK KELLY",
+   "funding_year": 2021,
+   "start_page": 1308,
+   "status": "ok",
+   "record_count": 16
+  },
+  {
+   "office": "INTERN COMPENSATION - KELLY",
+   "funding_year": 2021,
+   "start_page": 1310,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARK KELLY",
+   "funding_year": 2022,
+   "start_page": 1311,
+   "status": "ok",
+   "record_count": 138
+  },
+  {
+   "office": "INTERN COMPENSATION - KELLY",
+   "funding_year": 2022,
+   "start_page": 1317,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARK KELLY",
+   "funding_year": 2023,
+   "start_page": 1318,
+   "status": "ok",
+   "record_count": 240
+  },
+  {
+   "office": "INTERN COMPENSATION - KELLY",
+   "funding_year": 2023,
+   "start_page": 1326,
+   "status": "ok",
+   "record_count": 10
+  },
+  {
+   "office": "SENATOR JOHN N. KENNEDY",
+   "funding_year": 2021,
+   "start_page": 1327,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - KENNEDY",
+   "funding_year": 2021,
+   "start_page": 1328,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN N. KENNEDY",
+   "funding_year": 2022,
+   "start_page": 1329,
+   "status": "ok",
+   "record_count": 93
+  },
+  {
+   "office": "INTERN COMPENSATION - KENNEDY",
+   "funding_year": 2022,
+   "start_page": 1334,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN N. KENNEDY",
+   "funding_year": 2023,
+   "start_page": 1335,
+   "status": "ok",
+   "record_count": 560
+  },
+  {
+   "office": "INTERN COMPENSATION - KENNEDY",
+   "funding_year": 2023,
+   "start_page": 1358,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "SENATOR ANGUS KING",
+   "funding_year": 2021,
+   "start_page": 1359,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - KING",
+   "funding_year": 2021,
+   "start_page": 1360,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ANGUS KING",
+   "funding_year": 2022,
+   "start_page": 1361,
+   "status": "ok",
+   "record_count": 31
+  },
+  {
+   "office": "INTERN COMPENSATION - KING",
+   "funding_year": 2022,
+   "start_page": 1363,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ANGUS KING",
+   "funding_year": 2023,
+   "start_page": 1364,
+   "status": "ok",
+   "record_count": 264
+  },
+  {
+   "office": "INTERN COMPENSATION - KING",
+   "funding_year": 2023,
+   "start_page": 1375,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "SENATOR AMY KLOBUCHAR",
+   "funding_year": 2021,
+   "start_page": 1376,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - KLOBUCHAR",
+   "funding_year": 2021,
+   "start_page": 1377,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR AMY KLOBUCHAR",
+   "funding_year": 2022,
+   "start_page": 1378,
+   "status": "ok",
+   "record_count": 122
+  },
+  {
+   "office": "INTERN COMPENSATION - KLOBUCHAR",
+   "funding_year": 2022,
+   "start_page": 1383,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR AMY KLOBUCHAR",
+   "funding_year": 2023,
+   "start_page": 1384,
+   "status": "ok",
+   "record_count": 371
+  },
+  {
+   "office": "INTERN COMPENSATION - KLOBUCHAR",
+   "funding_year": 2023,
+   "start_page": 1398,
+   "status": "ok",
+   "record_count": 26
+  },
+  {
+   "office": "SENATOR JAMES LANKFORD",
+   "funding_year": 2021,
+   "start_page": 1400,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - LANKFORD",
+   "funding_year": 2021,
+   "start_page": 1401,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JAMES LANKFORD",
+   "funding_year": 2022,
+   "start_page": 1402,
+   "status": "ok",
+   "record_count": 69
+  },
+  {
+   "office": "INTERN COMPENSATION - LANKFORD",
+   "funding_year": 2022,
+   "start_page": 1406,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JAMES LANKFORD",
+   "funding_year": 2023,
+   "start_page": 1407,
+   "status": "ok",
+   "record_count": 424
+  },
+  {
+   "office": "INTERN COMPENSATION - LANKFORD",
+   "funding_year": 2023,
+   "start_page": 1425,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SENATOR PATRICK J. LEAHY",
+   "funding_year": 2021,
+   "start_page": 1426,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - LEAHY",
+   "funding_year": 2021,
+   "start_page": 1427,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR PATRICK J. LEAHY",
+   "funding_year": 2022,
+   "start_page": 1428,
+   "status": "ok",
+   "record_count": 64
+  },
+  {
+   "office": "INTERN COMPENSATION - LEAHY",
+   "funding_year": 2022,
+   "start_page": 1431,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR PATRICK J. LEAHY",
+   "funding_year": 2023,
+   "start_page": 1432,
+   "status": "ok",
+   "record_count": 151
+  },
+  {
+   "office": "INTERN COMPENSATION - LEAHY",
+   "funding_year": 2023,
+   "start_page": 1438,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "SENATOR MIKE LEE",
+   "funding_year": 2021,
+   "start_page": 1439,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "INTERN COMPENSATION - LEE",
+   "funding_year": 2021,
+   "start_page": 1440,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MIKE LEE",
+   "funding_year": 2022,
+   "start_page": 1441,
+   "status": "ok",
+   "record_count": 54
+  },
+  {
+   "office": "INTERN COMPENSATION - LEE",
+   "funding_year": 2022,
+   "start_page": 1445,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MIKE LEE",
+   "funding_year": 2023,
+   "start_page": 1446,
+   "status": "ok",
+   "record_count": 226
+  },
+  {
+   "office": "INTERN COMPENSATION - LEE",
+   "funding_year": 2023,
+   "start_page": 1454,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "SENATOR KELLY LOEFFLER",
+   "funding_year": 2021,
+   "start_page": 1455,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - LOEFFLER",
+   "funding_year": 2021,
+   "start_page": 1456,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BEN RAY LUJAN",
+   "funding_year": 2021,
+   "start_page": 1457,
+   "status": "ok",
+   "record_count": 36
+  },
+  {
+   "office": "INTERN COMPENSATION - LUJAN",
+   "funding_year": 2021,
+   "start_page": 1460,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BEN RAY LUJAN",
+   "funding_year": 2022,
+   "start_page": 1461,
+   "status": "ok",
+   "record_count": 142
+  },
+  {
+   "office": "INTERN COMPENSATION - LUJAN",
+   "funding_year": 2022,
+   "start_page": 1467,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BEN RAY LUJAN",
+   "funding_year": 2023,
+   "start_page": 1468,
+   "status": "ok",
+   "record_count": 255
+  },
+  {
+   "office": "INTERN COMPENSATION - LUJAN",
+   "funding_year": 2023,
+   "start_page": 1477,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR CYNTHIA LUMMIS",
+   "funding_year": 2021,
+   "start_page": 1478,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - LUMMIS",
+   "funding_year": 2021,
+   "start_page": 1479,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CYNTHIA LUMMIS",
+   "funding_year": 2022,
+   "start_page": 1480,
+   "status": "ok",
+   "record_count": 88
+  },
+  {
+   "office": "INTERN COMPENSATION - LUMMIS",
+   "funding_year": 2022,
+   "start_page": 1484,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CYNTHIA LUMMIS",
+   "funding_year": 2023,
+   "start_page": 1485,
+   "status": "ok",
+   "record_count": 322
+  },
+  {
+   "office": "INTERN COMPENSATION - LUMMIS",
+   "funding_year": 2023,
+   "start_page": 1496,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "SENATOR JOE MANCHIN",
+   "funding_year": 2021,
+   "start_page": 1497,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - MANCHIN",
+   "funding_year": 2021,
+   "start_page": 1498,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOE MANCHIN",
+   "funding_year": 2022,
+   "start_page": 1499,
+   "status": "ok",
+   "record_count": 93
+  },
+  {
+   "office": "INTERN COMPENSATION - MANCHIN",
+   "funding_year": 2022,
+   "start_page": 1504,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOE MANCHIN",
+   "funding_year": 2023,
+   "start_page": 1505,
+   "status": "ok",
+   "record_count": 224
+  },
+  {
+   "office": "INTERN COMPENSATION - MANCHIN",
+   "funding_year": 2023,
+   "start_page": 1515,
+   "status": "ok",
+   "record_count": 9
+  },
+  {
+   "office": "SENATOR EDWARD MARKEY",
+   "funding_year": 2021,
+   "start_page": 1516,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "INTERN COMPENSATION - MARKEY",
+   "funding_year": 2021,
+   "start_page": 1517,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR EDWARD MARKEY",
+   "funding_year": 2022,
+   "start_page": 1518,
+   "status": "ok",
+   "record_count": 27
+  },
+  {
+   "office": "INTERN COMPENSATION - MARKEY",
+   "funding_year": 2022,
+   "start_page": 1520,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR EDWARD MARKEY",
+   "funding_year": 2023,
+   "start_page": 1521,
+   "status": "ok",
+   "record_count": 123
+  },
+  {
+   "office": "INTERN COMPENSATION - MARKEY",
+   "funding_year": 2023,
+   "start_page": 1526,
+   "status": "ok",
+   "record_count": 13
+  },
+  {
+   "office": "SENATOR ROGER MARSHALL",
+   "funding_year": 2021,
+   "start_page": 1527,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - MARSHALL",
+   "funding_year": 2021,
+   "start_page": 1528,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROGER MARSHALL",
+   "funding_year": 2022,
+   "start_page": 1529,
+   "status": "ok",
+   "record_count": 108
+  },
+  {
+   "office": "INTERN COMPENSATION - MARSHALL",
+   "funding_year": 2022,
+   "start_page": 1534,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROGER MARSHALL",
+   "funding_year": 2023,
+   "start_page": 1535,
+   "status": "ok",
+   "record_count": 486
+  },
+  {
+   "office": "INTERN COMPENSATION - MARSHALL",
+   "funding_year": 2023,
+   "start_page": 1551,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "SENATOR A. MITCHELL MCCONNELL, JR.",
+   "funding_year": 2021,
+   "start_page": 1552,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - MCCONNELL, JR.",
+   "funding_year": 2021,
+   "start_page": 1553,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR A. MITCHELL MCCONNELL, JR.",
+   "funding_year": 2022,
+   "start_page": 1554,
+   "status": "ok",
+   "record_count": 75
+  },
+  {
+   "office": "INTERN COMPENSATION - MCCONNELL, JR.",
+   "funding_year": 2022,
+   "start_page": 1558,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR A. MITCHELL MCCONNELL, JR.",
+   "funding_year": 2023,
+   "start_page": 1559,
+   "status": "ok",
+   "record_count": 413
+  },
+  {
+   "office": "INTERN COMPENSATION - MCCONNELL, JR.",
+   "funding_year": 2023,
+   "start_page": 1576,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "SENATOR MARTHA MCSALLY",
+   "funding_year": 2021,
+   "start_page": 1577,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - MCSALLY",
+   "funding_year": 2021,
+   "start_page": 1578,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROBERT MENENDEZ",
+   "funding_year": 2021,
+   "start_page": 1579,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "INTERN COMPENSATION - MENENDEZ",
+   "funding_year": 2021,
+   "start_page": 1580,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROBERT MENENDEZ",
+   "funding_year": 2022,
+   "start_page": 1581,
+   "status": "ok",
+   "record_count": 33
+  },
+  {
+   "office": "INTERN COMPENSATION - MENENDEZ",
+   "funding_year": 2022,
+   "start_page": 1583,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROBERT MENENDEZ",
+   "funding_year": 2023,
+   "start_page": 1584,
+   "status": "ok",
+   "record_count": 236
+  },
+  {
+   "office": "INTERN COMPENSATION - MENENDEZ",
+   "funding_year": 2023,
+   "start_page": 1593,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR JEFF MERKLEY",
+   "funding_year": 2021,
+   "start_page": 1594,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - MERKLEY",
+   "funding_year": 2021,
+   "start_page": 1595,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JEFF MERKLEY",
+   "funding_year": 2022,
+   "start_page": 1596,
+   "status": "ok",
+   "record_count": 42
+  },
+  {
+   "office": "INTERN COMPENSATION - MERKLEY",
+   "funding_year": 2022,
+   "start_page": 1599,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JEFF MERKLEY",
+   "funding_year": 2023,
+   "start_page": 1600,
+   "status": "ok",
+   "record_count": 262
+  },
+  {
+   "office": "INTERN COMPENSATION - MERKLEY",
+   "funding_year": 2023,
+   "start_page": 1610,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR JERRY MORAN",
+   "funding_year": 2021,
+   "start_page": 1611,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - MORAN",
+   "funding_year": 2021,
+   "start_page": 1612,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JERRY MORAN",
+   "funding_year": 2022,
+   "start_page": 1613,
+   "status": "ok",
+   "record_count": 57
+  },
+  {
+   "office": "INTERN COMPENSATION - MORAN",
+   "funding_year": 2022,
+   "start_page": 1617,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JERRY MORAN",
+   "funding_year": 2023,
+   "start_page": 1618,
+   "status": "ok",
+   "record_count": 510
+  },
+  {
+   "office": "INTERN COMPENSATION - MORAN",
+   "funding_year": 2023,
+   "start_page": 1637,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "SENATOR MARKWAYNE MULLIN",
+   "funding_year": 2023,
+   "start_page": 1638,
+   "status": "ok",
+   "record_count": 53
+  },
+  {
+   "office": "INTERN COMPENSATION - MULLIN",
+   "funding_year": 2023,
+   "start_page": 1641,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR LISA MURKOWSKI",
+   "funding_year": 2021,
+   "start_page": 1642,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - MURKOWSKI",
+   "funding_year": 2021,
+   "start_page": 1643,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR LISA MURKOWSKI",
+   "funding_year": 2022,
+   "start_page": 1644,
+   "status": "ok",
+   "record_count": 142
+  },
+  {
+   "office": "INTERN COMPENSATION - MURKOWSKI",
+   "funding_year": 2022,
+   "start_page": 1650,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR LISA MURKOWSKI",
+   "funding_year": 2023,
+   "start_page": 1651,
+   "status": "ok",
+   "record_count": 298
+  },
+  {
+   "office": "INTERN COMPENSATION - MURKOWSKI",
+   "funding_year": 2023,
+   "start_page": 1662,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR CHRIS MURPHY",
+   "funding_year": 2021,
+   "start_page": 1663,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - MURPHY",
+   "funding_year": 2021,
+   "start_page": 1664,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHRIS MURPHY",
+   "funding_year": 2022,
+   "start_page": 1665,
+   "status": "ok",
+   "record_count": 87
+  },
+  {
+   "office": "INTERN COMPENSATION - MURPHY",
+   "funding_year": 2022,
+   "start_page": 1670,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHRIS MURPHY",
+   "funding_year": 2023,
+   "start_page": 1671,
+   "status": "ok",
+   "record_count": 332
+  },
+  {
+   "office": "INTERN COMPENSATION - MURPHY",
+   "funding_year": 2023,
+   "start_page": 1685,
+   "status": "ok",
+   "record_count": 13
+  },
+  {
+   "office": "SENATOR PATTY MURRAY",
+   "funding_year": 2021,
+   "start_page": 1686,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - MURRAY",
+   "funding_year": 2021,
+   "start_page": 1687,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR PATTY MURRAY",
+   "funding_year": 2022,
+   "start_page": 1688,
+   "status": "ok",
+   "record_count": 57
+  },
+  {
+   "office": "INTERN COMPENSATION - MURRAY",
+   "funding_year": 2022,
+   "start_page": 1691,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR PATTY MURRAY",
+   "funding_year": 2023,
+   "start_page": 1692,
+   "status": "ok",
+   "record_count": 294
+  },
+  {
+   "office": "INTERN COMPENSATION - MURRAY",
+   "funding_year": 2023,
+   "start_page": 1702,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "SENATOR JON OSSOFF",
+   "funding_year": 2021,
+   "start_page": 1703,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - OSSOFF",
+   "funding_year": 2021,
+   "start_page": 1704,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JON OSSOFF",
+   "funding_year": 2022,
+   "start_page": 1705,
+   "status": "ok",
+   "record_count": 125
+  },
+  {
+   "office": "INTERN COMPENSATION - OSSOFF",
+   "funding_year": 2022,
+   "start_page": 1710,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JON OSSOFF",
+   "funding_year": 2023,
+   "start_page": 1711,
+   "status": "ok",
+   "record_count": 487
+  },
+  {
+   "office": "INTERN COMPENSATION - OSSOFF",
+   "funding_year": 2023,
+   "start_page": 1727,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SENATOR ALEX PADILLA",
+   "funding_year": 2021,
+   "start_page": 1728,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "INTERN COMPENSATION - PADILLA",
+   "funding_year": 2021,
+   "start_page": 1729,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ALEX PADILLA",
+   "funding_year": 2022,
+   "start_page": 1730,
+   "status": "ok",
+   "record_count": 85
+  },
+  {
+   "office": "INTERN COMPENSATION - PADILLA",
+   "funding_year": 2022,
+   "start_page": 1734,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ALEX PADILLA",
+   "funding_year": 2023,
+   "start_page": 1735,
+   "status": "ok",
+   "record_count": 252
+  },
+  {
+   "office": "INTERN COMPENSATION - PADILLA",
+   "funding_year": 2023,
+   "start_page": 1744,
+   "status": "ok",
+   "record_count": 32
+  },
+  {
+   "office": "SENATOR RAND PAUL",
+   "funding_year": 2021,
+   "start_page": 1746,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - PAUL",
+   "funding_year": 2021,
+   "start_page": 1747,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RAND PAUL",
+   "funding_year": 2022,
+   "start_page": 1748,
+   "status": "ok",
+   "record_count": 54
+  },
+  {
+   "office": "INTERN COMPENSATION - PAUL",
+   "funding_year": 2022,
+   "start_page": 1751,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RAND PAUL",
+   "funding_year": 2023,
+   "start_page": 1752,
+   "status": "ok",
+   "record_count": 469
+  },
+  {
+   "office": "INTERN COMPENSATION - PAUL",
+   "funding_year": 2023,
+   "start_page": 1769,
+   "status": "ok",
+   "record_count": 9
+  },
+  {
+   "office": "SENATOR DAVID PERDUE",
+   "funding_year": 2021,
+   "start_page": 1770,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - PERDUE",
+   "funding_year": 2021,
+   "start_page": 1771,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR GARY PETERS",
+   "funding_year": 2021,
+   "start_page": 1772,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - PETERS",
+   "funding_year": 2021,
+   "start_page": 1773,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR GARY PETERS",
+   "funding_year": 2022,
+   "start_page": 1774,
+   "status": "ok",
+   "record_count": 291
+  },
+  {
+   "office": "INTERN COMPENSATION - PETERS",
+   "funding_year": 2022,
+   "start_page": 1786,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR GARY PETERS",
+   "funding_year": 2023,
+   "start_page": 1787,
+   "status": "ok",
+   "record_count": 338
+  },
+  {
+   "office": "INTERN COMPENSATION - PETERS",
+   "funding_year": 2023,
+   "start_page": 1800,
+   "status": "ok",
+   "record_count": 14
+  },
+  {
+   "office": "SENATOR ROB PORTMAN",
+   "funding_year": 2021,
+   "start_page": 1801,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - PORTMAN",
+   "funding_year": 2021,
+   "start_page": 1802,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROB PORTMAN",
+   "funding_year": 2022,
+   "start_page": 1803,
+   "status": "ok",
+   "record_count": 78
+  },
+  {
+   "office": "INTERN COMPENSATION - PORTMAN",
+   "funding_year": 2022,
+   "start_page": 1807,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROB PORTMAN",
+   "funding_year": 2023,
+   "start_page": 1808,
+   "status": "ok",
+   "record_count": 257
+  },
+  {
+   "office": "INTERN COMPENSATION - PORTMAN",
+   "funding_year": 2023,
+   "start_page": 1818,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN F. REED",
+   "funding_year": 2021,
+   "start_page": 1819,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - REED",
+   "funding_year": 2021,
+   "start_page": 1820,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN F. REED",
+   "funding_year": 2022,
+   "start_page": 1821,
+   "status": "ok",
+   "record_count": 30
+  },
+  {
+   "office": "INTERN COMPENSATION - REED",
+   "funding_year": 2022,
+   "start_page": 1823,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN F. REED",
+   "funding_year": 2023,
+   "start_page": 1824,
+   "status": "fail",
+   "record_count": 107
+  },
+  {
+   "office": "INTERN COMPENSATION - REED",
+   "funding_year": 2023,
+   "start_page": 1829,
+   "status": "ok",
+   "record_count": 18
+  },
+  {
+   "office": "SENATOR JOHN PETER RICKETTS",
+   "funding_year": 2023,
+   "start_page": 1830,
+   "status": "ok",
+   "record_count": 59
+  },
+  {
+   "office": "INTERN COMPENSATION - RICKETTS",
+   "funding_year": 2023,
+   "start_page": 1833,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JAMES E. RISCH",
+   "funding_year": 2021,
+   "start_page": 1834,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "INTERN COMPENSATION - RISCH",
+   "funding_year": 2021,
+   "start_page": 1835,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JAMES E. RISCH",
+   "funding_year": 2022,
+   "start_page": 1836,
+   "status": "ok",
+   "record_count": 46
+  },
+  {
+   "office": "INTERN COMPENSATION - RISCH",
+   "funding_year": 2022,
+   "start_page": 1839,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JAMES E. RISCH",
+   "funding_year": 2023,
+   "start_page": 1840,
+   "status": "ok",
+   "record_count": 233
+  },
+  {
+   "office": "INTERN COMPENSATION - RISCH",
+   "funding_year": 2023,
+   "start_page": 1848,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SENATOR PAT ROBERTS",
+   "funding_year": 2021,
+   "start_page": 1849,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - ROBERTS",
+   "funding_year": 2021,
+   "start_page": 1850,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MITT ROMNEY",
+   "funding_year": 2021,
+   "start_page": 1851,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - ROMNEY",
+   "funding_year": 2021,
+   "start_page": 1852,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MITT ROMNEY",
+   "funding_year": 2022,
+   "start_page": 1853,
+   "status": "ok",
+   "record_count": 88
+  },
+  {
+   "office": "INTERN COMPENSATION - ROMNEY",
+   "funding_year": 2022,
+   "start_page": 1857,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MITT ROMNEY",
+   "funding_year": 2023,
+   "start_page": 1858,
+   "status": "ok",
+   "record_count": 465
+  },
+  {
+   "office": "INTERN COMPENSATION - ROMNEY",
+   "funding_year": 2023,
+   "start_page": 1874,
+   "status": "ok",
+   "record_count": 12
+  },
+  {
+   "office": "SENATOR JACKY ROSEN",
+   "funding_year": 2021,
+   "start_page": 1875,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "INTERN COMPENSATION - ROSEN",
+   "funding_year": 2021,
+   "start_page": 1876,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JACKY ROSEN",
+   "funding_year": 2022,
+   "start_page": 1877,
+   "status": "ok",
+   "record_count": 18
+  },
+  {
+   "office": "INTERN COMPENSATION - ROSEN",
+   "funding_year": 2022,
+   "start_page": 1879,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JACKY ROSEN",
+   "funding_year": 2023,
+   "start_page": 1880,
+   "status": "ok",
+   "record_count": 223
+  },
+  {
+   "office": "INTERN COMPENSATION - ROSEN",
+   "funding_year": 2023,
+   "start_page": 1888,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "SENATOR MIKE ROUNDS",
+   "funding_year": 2021,
+   "start_page": 1889,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - ROUNDS",
+   "funding_year": 2021,
+   "start_page": 1890,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MIKE ROUNDS",
+   "funding_year": 2022,
+   "start_page": 1891,
+   "status": "ok",
+   "record_count": 106
+  },
+  {
+   "office": "INTERN COMPENSATION - ROUNDS",
+   "funding_year": 2022,
+   "start_page": 1896,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MIKE ROUNDS",
+   "funding_year": 2023,
+   "start_page": 1897,
+   "status": "ok",
+   "record_count": 402
+  },
+  {
+   "office": "INTERN COMPENSATION - ROUNDS",
+   "funding_year": 2023,
+   "start_page": 1911,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "SENATOR MARCO RUBIO",
+   "funding_year": 2021,
+   "start_page": 1912,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - RUBIO",
+   "funding_year": 2021,
+   "start_page": 1913,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARCO RUBIO",
+   "funding_year": 2022,
+   "start_page": 1914,
+   "status": "ok",
+   "record_count": 50
+  },
+  {
+   "office": "INTERN COMPENSATION - RUBIO",
+   "funding_year": 2022,
+   "start_page": 1917,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARCO RUBIO",
+   "funding_year": 2023,
+   "start_page": 1918,
+   "status": "ok",
+   "record_count": 432
+  },
+  {
+   "office": "INTERN COMPENSATION - RUBIO",
+   "funding_year": 2023,
+   "start_page": 1935,
+   "status": "ok",
+   "record_count": 13
+  },
+  {
+   "office": "SENATOR BERNARD SANDERS",
+   "funding_year": 2021,
+   "start_page": 1936,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - SANDERS",
+   "funding_year": 2021,
+   "start_page": 1937,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BERNARD SANDERS",
+   "funding_year": 2022,
+   "start_page": 1938,
+   "status": "ok",
+   "record_count": 57
+  },
+  {
+   "office": "INTERN COMPENSATION - SANDERS",
+   "funding_year": 2022,
+   "start_page": 1941,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BERNARD SANDERS",
+   "funding_year": 2023,
+   "start_page": 1942,
+   "status": "ok",
+   "record_count": 174
+  },
+  {
+   "office": "INTERN COMPENSATION - SANDERS",
+   "funding_year": 2023,
+   "start_page": 1949,
+   "status": "ok",
+   "record_count": 13
+  },
+  {
+   "office": "SENATOR BEN SASSE",
+   "funding_year": 2021,
+   "start_page": 1950,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "INTERN COMPENSATION - SASSE",
+   "funding_year": 2021,
+   "start_page": 1951,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BEN SASSE",
+   "funding_year": 2022,
+   "start_page": 1952,
+   "status": "ok",
+   "record_count": 169
+  },
+  {
+   "office": "INTERN COMPENSATION - SASSE",
+   "funding_year": 2022,
+   "start_page": 1959,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BEN SASSE",
+   "funding_year": 2023,
+   "start_page": 1960,
+   "status": "ok",
+   "record_count": 157
+  },
+  {
+   "office": "INTERN COMPENSATION - SASSE",
+   "funding_year": 2023,
+   "start_page": 1966,
+   "status": "ok",
+   "record_count": 10
+  },
+  {
+   "office": "SENATOR BRIAN SCHATZ",
+   "funding_year": 2021,
+   "start_page": 1967,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - SCHATZ",
+   "funding_year": 2021,
+   "start_page": 1968,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BRIAN SCHATZ",
+   "funding_year": 2022,
+   "start_page": 1969,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "INTERN COMPENSATION - SCHATZ",
+   "funding_year": 2022,
+   "start_page": 1970,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BRIAN SCHATZ",
+   "funding_year": 2023,
+   "start_page": 1971,
+   "status": "ok",
+   "record_count": 96
+  },
+  {
+   "office": "INTERN COMPENSATION - SCHATZ",
+   "funding_year": 2023,
+   "start_page": 1975,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "SENATOR ERIC SCHMITT",
+   "funding_year": 2023,
+   "start_page": 1976,
+   "status": "ok",
+   "record_count": 218
+  },
+  {
+   "office": "INTERN COMPENSATION - SCHMITT",
+   "funding_year": 2023,
+   "start_page": 1985,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHARLES E. SCHUMER",
+   "funding_year": 2021,
+   "start_page": 1986,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - SCHUMER",
+   "funding_year": 2021,
+   "start_page": 1987,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHARLES E. SCHUMER",
+   "funding_year": 2022,
+   "start_page": 1988,
+   "status": "ok",
+   "record_count": 48
+  },
+  {
+   "office": "INTERN COMPENSATION - SCHUMER",
+   "funding_year": 2022,
+   "start_page": 1991,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHARLES E. SCHUMER",
+   "funding_year": 2023,
+   "start_page": 1992,
+   "status": "ok",
+   "record_count": 230
+  },
+  {
+   "office": "INTERN COMPENSATION - SCHUMER",
+   "funding_year": 2023,
+   "start_page": 2001,
+   "status": "ok",
+   "record_count": 33
+  },
+  {
+   "office": "SENATOR RICK SCOTT",
+   "funding_year": 2021,
+   "start_page": 2003,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - R SCOTT",
+   "funding_year": 2021,
+   "start_page": 2004,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICK SCOTT",
+   "funding_year": 2022,
+   "start_page": 2005,
+   "status": "ok",
+   "record_count": 90
+  },
+  {
+   "office": "INTERN COMPENSATION - R SCOTT",
+   "funding_year": 2022,
+   "start_page": 2009,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICK SCOTT",
+   "funding_year": 2023,
+   "start_page": 2010,
+   "status": "ok",
+   "record_count": 338
+  },
+  {
+   "office": "INTERN COMPENSATION - R SCOTT",
+   "funding_year": 2023,
+   "start_page": 2022,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "SENATOR TIM SCOTT",
+   "funding_year": 2021,
+   "start_page": 2023,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - T SCOTT",
+   "funding_year": 2021,
+   "start_page": 2024,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TIM SCOTT",
+   "funding_year": 2022,
+   "start_page": 2025,
+   "status": "ok",
+   "record_count": 34
+  },
+  {
+   "office": "INTERN COMPENSATION - T SCOTT",
+   "funding_year": 2022,
+   "start_page": 2028,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TIM SCOTT",
+   "funding_year": 2023,
+   "start_page": 2029,
+   "status": "ok",
+   "record_count": 219
+  },
+  {
+   "office": "INTERN COMPENSATION - T SCOTT",
+   "funding_year": 2023,
+   "start_page": 2039,
+   "status": "ok",
+   "record_count": 10
+  },
+  {
+   "office": "SENATOR JEANNE SHAHEEN",
+   "funding_year": 2021,
+   "start_page": 2040,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - SHAHEEN",
+   "funding_year": 2021,
+   "start_page": 2041,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JEANNE SHAHEEN",
+   "funding_year": 2022,
+   "start_page": 2042,
+   "status": "ok",
+   "record_count": 23
+  },
+  {
+   "office": "INTERN COMPENSATION - SHAHEEN",
+   "funding_year": 2022,
+   "start_page": 2044,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JEANNE SHAHEEN",
+   "funding_year": 2023,
+   "start_page": 2045,
+   "status": "ok",
+   "record_count": 122
+  },
+  {
+   "office": "INTERN COMPENSATION - SHAHEEN",
+   "funding_year": 2023,
+   "start_page": 2052,
+   "status": "ok",
+   "record_count": 13
+  },
+  {
+   "office": "SENATOR RICHARD C. SHELBY",
+   "funding_year": 2021,
+   "start_page": 2053,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - SHELBY",
+   "funding_year": 2021,
+   "start_page": 2054,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICHARD C. SHELBY",
+   "funding_year": 2022,
+   "start_page": 2055,
+   "status": "ok",
+   "record_count": 25
+  },
+  {
+   "office": "INTERN COMPENSATION - SHELBY",
+   "funding_year": 2022,
+   "start_page": 2057,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICHARD C. SHELBY",
+   "funding_year": 2023,
+   "start_page": 2058,
+   "status": "ok",
+   "record_count": 87
+  },
+  {
+   "office": "INTERN COMPENSATION - SHELBY",
+   "funding_year": 2023,
+   "start_page": 2062,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR KYRSTEN SINEMA",
+   "funding_year": 2021,
+   "start_page": 2063,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "INTERN COMPENSATION - SINEMA",
+   "funding_year": 2021,
+   "start_page": 2064,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR KYRSTEN SINEMA",
+   "funding_year": 2022,
+   "start_page": 2065,
+   "status": "ok",
+   "record_count": 75
+  },
+  {
+   "office": "INTERN COMPENSATION - SINEMA",
+   "funding_year": 2022,
+   "start_page": 2069,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR KYRSTEN SINEMA",
+   "funding_year": 2023,
+   "start_page": 2070,
+   "status": "ok",
+   "record_count": 462
+  },
+  {
+   "office": "INTERN COMPENSATION - SINEMA",
+   "funding_year": 2023,
+   "start_page": 2087,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SENATOR TINA SMITH",
+   "funding_year": 2021,
+   "start_page": 2088,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - SMITH",
+   "funding_year": 2021,
+   "start_page": 2089,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TINA SMITH",
+   "funding_year": 2022,
+   "start_page": 2090,
+   "status": "ok",
+   "record_count": 37
+  },
+  {
+   "office": "INTERN COMPENSATION - SMITH",
+   "funding_year": 2022,
+   "start_page": 2093,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TINA SMITH",
+   "funding_year": 2023,
+   "start_page": 2094,
+   "status": "ok",
+   "record_count": 245
+  },
+  {
+   "office": "INTERN COMPENSATION - SMITH",
+   "funding_year": 2023,
+   "start_page": 2104,
+   "status": "ok",
+   "record_count": 19
+  },
+  {
+   "office": "SENATOR DEBBIE A. STABENOW",
+   "funding_year": 2021,
+   "start_page": 2105,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - STABENOW",
+   "funding_year": 2021,
+   "start_page": 2106,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DEBBIE A. STABENOW",
+   "funding_year": 2022,
+   "start_page": 2107,
+   "status": "ok",
+   "record_count": 90
+  },
+  {
+   "office": "INTERN COMPENSATION - STABENOW",
+   "funding_year": 2022,
+   "start_page": 2111,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DEBBIE A. STABENOW",
+   "funding_year": 2023,
+   "start_page": 2112,
+   "status": "ok",
+   "record_count": 196
+  },
+  {
+   "office": "INTERN COMPENSATION - STABENOW",
+   "funding_year": 2023,
+   "start_page": 2120,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SENATOR DAN SULLIVAN",
+   "funding_year": 2021,
+   "start_page": 2121,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "INTERN COMPENSATION - SULLIVAN",
+   "funding_year": 2021,
+   "start_page": 2122,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DAN SULLIVAN",
+   "funding_year": 2022,
+   "start_page": 2123,
+   "status": "ok",
+   "record_count": 123
+  },
+  {
+   "office": "INTERN COMPENSATION - SULLIVAN",
+   "funding_year": 2022,
+   "start_page": 2129,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DAN SULLIVAN",
+   "funding_year": 2023,
+   "start_page": 2130,
+   "status": "ok",
+   "record_count": 249
+  },
+  {
+   "office": "INTERN COMPENSATION - SULLIVAN",
+   "funding_year": 2023,
+   "start_page": 2139,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "SENATOR JON TESTER",
+   "funding_year": 2021,
+   "start_page": 2140,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "INTERN COMPENSATION - TESTER",
+   "funding_year": 2021,
+   "start_page": 2141,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JON TESTER",
+   "funding_year": 2022,
+   "start_page": 2142,
+   "status": "ok",
+   "record_count": 99
+  },
+  {
+   "office": "INTERN COMPENSATION - TESTER",
+   "funding_year": 2022,
+   "start_page": 2146,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JON TESTER",
+   "funding_year": 2023,
+   "start_page": 2147,
+   "status": "ok",
+   "record_count": 320
+  },
+  {
+   "office": "INTERN COMPENSATION - TESTER",
+   "funding_year": 2023,
+   "start_page": 2157,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SENATOR JOHN R. THUNE",
+   "funding_year": 2021,
+   "start_page": 2158,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - THUNE",
+   "funding_year": 2021,
+   "start_page": 2159,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN R. THUNE",
+   "funding_year": 2022,
+   "start_page": 2160,
+   "status": "ok",
+   "record_count": 50
+  },
+  {
+   "office": "INTERN COMPENSATION - THUNE",
+   "funding_year": 2022,
+   "start_page": 2163,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN R. THUNE",
+   "funding_year": 2023,
+   "start_page": 2164,
+   "status": "ok",
+   "record_count": 122
+  },
+  {
+   "office": "INTERN COMPENSATION - THUNE",
+   "funding_year": 2023,
+   "start_page": 2169,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "SENATOR THOM TILLIS",
+   "funding_year": 2021,
+   "start_page": 2170,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "INTERN COMPENSATION - TILLIS",
+   "funding_year": 2021,
+   "start_page": 2171,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR THOM TILLIS",
+   "funding_year": 2022,
+   "start_page": 2172,
+   "status": "ok",
+   "record_count": 147
+  },
+  {
+   "office": "INTERN COMPENSATION - TILLIS",
+   "funding_year": 2022,
+   "start_page": 2179,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR THOM TILLIS",
+   "funding_year": 2023,
+   "start_page": 2180,
+   "status": "ok",
+   "record_count": 472
+  },
+  {
+   "office": "INTERN COMPENSATION - TILLIS",
+   "funding_year": 2023,
+   "start_page": 2198,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "SENATOR PATRICK J. TOOMEY",
+   "funding_year": 2021,
+   "start_page": 2199,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - TOOMEY",
+   "funding_year": 2021,
+   "start_page": 2200,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR PATRICK J. TOOMEY",
+   "funding_year": 2022,
+   "start_page": 2201,
+   "status": "ok",
+   "record_count": 66
+  },
+  {
+   "office": "INTERN COMPENSATION - TOOMEY",
+   "funding_year": 2022,
+   "start_page": 2205,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR PATRICK J. TOOMEY",
+   "funding_year": 2023,
+   "start_page": 2206,
+   "status": "ok",
+   "record_count": 158
+  },
+  {
+   "office": "INTERN COMPENSATION - TOOMEY",
+   "funding_year": 2023,
+   "start_page": 2212,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "SENATOR TOMMY TUBERVILLE",
+   "funding_year": 2021,
+   "start_page": 2213,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "INTERN COMPENSATION - TUBERVILLE",
+   "funding_year": 2021,
+   "start_page": 2214,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TOMMY TUBERVILLE",
+   "funding_year": 2022,
+   "start_page": 2215,
+   "status": "ok",
+   "record_count": 82
+  },
+  {
+   "office": "INTERN COMPENSATION - TUBERVILLE",
+   "funding_year": 2022,
+   "start_page": 2219,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TOMMY TUBERVILLE",
+   "funding_year": 2023,
+   "start_page": 2220,
+   "status": "ok",
+   "record_count": 303
+  },
+  {
+   "office": "INTERN COMPENSATION - TUBERVILLE",
+   "funding_year": 2023,
+   "start_page": 2232,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "SENATOR TOM UDALL",
+   "funding_year": 2021,
+   "start_page": 2233,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - UDALL",
+   "funding_year": 2021,
+   "start_page": 2234,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JD VANCE",
+   "funding_year": 2023,
+   "start_page": 2235,
+   "status": "ok",
+   "record_count": 171
+  },
+  {
+   "office": "INTERN COMPENSATION - VANCE",
+   "funding_year": 2023,
+   "start_page": 2242,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR CHRIS VAN HOLLEN",
+   "funding_year": 2021,
+   "start_page": 2243,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - VAN HOLLEN",
+   "funding_year": 2021,
+   "start_page": 2244,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHRIS VAN HOLLEN",
+   "funding_year": 2022,
+   "start_page": 2245,
+   "status": "ok",
+   "record_count": 42
+  },
+  {
+   "office": "INTERN COMPENSATION - VAN HOLLEN",
+   "funding_year": 2022,
+   "start_page": 2248,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHRIS VAN HOLLEN",
+   "funding_year": 2023,
+   "start_page": 2249,
+   "status": "ok",
+   "record_count": 318
+  },
+  {
+   "office": "INTERN COMPENSATION - VAN HOLLEN",
+   "funding_year": 2023,
+   "start_page": 2262,
+   "status": "ok",
+   "record_count": 10
+  },
+  {
+   "office": "SENATOR MARK WARNER",
+   "funding_year": 2021,
+   "start_page": 2263,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "INTERN COMPENSATION - WARNER",
+   "funding_year": 2021,
+   "start_page": 2264,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARK WARNER",
+   "funding_year": 2022,
+   "start_page": 2265,
+   "status": "ok",
+   "record_count": 88
+  },
+  {
+   "office": "INTERN COMPENSATION - WARNER",
+   "funding_year": 2022,
+   "start_page": 2270,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARK WARNER",
+   "funding_year": 2023,
+   "start_page": 2271,
+   "status": "ok",
+   "record_count": 330
+  },
+  {
+   "office": "INTERN COMPENSATION - WARNER",
+   "funding_year": 2023,
+   "start_page": 2283,
+   "status": "ok",
+   "record_count": 17
+  },
+  {
+   "office": "SENATOR RAPHAEL WARNOCK",
+   "funding_year": 2021,
+   "start_page": 2284,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "INTERN COMPENSATION - WARNOCK",
+   "funding_year": 2021,
+   "start_page": 2285,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RAPHAEL WARNOCK",
+   "funding_year": 2022,
+   "start_page": 2286,
+   "status": "ok",
+   "record_count": 37
+  },
+  {
+   "office": "INTERN COMPENSATION - WARNOCK",
+   "funding_year": 2022,
+   "start_page": 2288,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RAPHAEL WARNOCK",
+   "funding_year": 2023,
+   "start_page": 2289,
+   "status": "ok",
+   "record_count": 466
+  },
+  {
+   "office": "INTERN COMPENSATION - WARNOCK",
+   "funding_year": 2023,
+   "start_page": 2307,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SENATOR ELIZABETH WARREN",
+   "funding_year": 2021,
+   "start_page": 2308,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "INTERN COMPENSATION - WARREN",
+   "funding_year": 2021,
+   "start_page": 2309,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ELIZABETH WARREN",
+   "funding_year": 2022,
+   "start_page": 2310,
+   "status": "ok",
+   "record_count": 58
+  },
+  {
+   "office": "INTERN COMPENSATION - WARREN",
+   "funding_year": 2022,
+   "start_page": 2313,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ELIZABETH WARREN",
+   "funding_year": 2023,
+   "start_page": 2314,
+   "status": "ok",
+   "record_count": 243
+  },
+  {
+   "office": "INTERN COMPENSATION - WARREN",
+   "funding_year": 2023,
+   "start_page": 2323,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SENATOR PETER WELCH",
+   "funding_year": 2023,
+   "start_page": 2324,
+   "status": "ok",
+   "record_count": 86
+  },
+  {
+   "office": "INTERN COMPENSATION - WELCH",
+   "funding_year": 2023,
+   "start_page": 2328,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR SHELDON WHITEHOUSE",
+   "funding_year": 2021,
+   "start_page": 2329,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - WHITEHOUSE",
+   "funding_year": 2021,
+   "start_page": 2330,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SHELDON WHITEHOUSE",
+   "funding_year": 2022,
+   "start_page": 2331,
+   "status": "ok",
+   "record_count": 43
+  },
+  {
+   "office": "INTERN COMPENSATION - WHITEHOUSE",
+   "funding_year": 2022,
+   "start_page": 2334,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SHELDON WHITEHOUSE",
+   "funding_year": 2023,
+   "start_page": 2335,
+   "status": "ok",
+   "record_count": 150
+  },
+  {
+   "office": "INTERN COMPENSATION - WHITEHOUSE",
+   "funding_year": 2023,
+   "start_page": 2341,
+   "status": "ok",
+   "record_count": 13
+  },
+  {
+   "office": "SENATOR ROGER WICKER",
+   "funding_year": 2021,
+   "start_page": 2342,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - WICKER",
+   "funding_year": 2021,
+   "start_page": 2343,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROGER WICKER",
+   "funding_year": 2022,
+   "start_page": 2344,
+   "status": "ok",
+   "record_count": 238
+  },
+  {
+   "office": "INTERN COMPENSATION - WICKER",
+   "funding_year": 2022,
+   "start_page": 2353,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROGER WICKER",
+   "funding_year": 2023,
+   "start_page": 2354,
+   "status": "ok",
+   "record_count": 231
+  },
+  {
+   "office": "INTERN COMPENSATION - WICKER",
+   "funding_year": 2023,
+   "start_page": 2363,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "SENATOR RON WYDEN",
+   "funding_year": 2021,
+   "start_page": 2364,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - WYDEN",
+   "funding_year": 2021,
+   "start_page": 2365,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RON WYDEN",
+   "funding_year": 2022,
+   "start_page": 2366,
+   "status": "ok",
+   "record_count": 34
+  },
+  {
+   "office": "INTERN COMPENSATION - WYDEN",
+   "funding_year": 2022,
+   "start_page": 2368,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RON WYDEN",
+   "funding_year": 2023,
+   "start_page": 2369,
+   "status": "ok",
+   "record_count": 282
+  },
+  {
+   "office": "INTERN COMPENSATION - WYDEN",
+   "funding_year": 2023,
+   "start_page": 2379,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "SENATOR TODD YOUNG",
+   "funding_year": 2021,
+   "start_page": 2380,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTERN COMPENSATION - YOUNG",
+   "funding_year": 2021,
+   "start_page": 2381,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TODD YOUNG",
+   "funding_year": 2022,
+   "start_page": 2382,
+   "status": "ok",
+   "record_count": 54
+  },
+  {
+   "office": "INTERN COMPENSATION - YOUNG",
+   "funding_year": 2022,
+   "start_page": 2386,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TODD YOUNG",
+   "funding_year": 2023,
+   "start_page": 2387,
+   "status": "ok",
+   "record_count": 204
+  },
+  {
+   "office": "INTERN COMPENSATION - YOUNG",
+   "funding_year": 2023,
+   "start_page": 2395,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "STATIONERY Funding Year STATIONERY REVOLVING FUND",
+   "funding_year": null,
+   "start_page": 2396,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "LEGAL COUNSEL",
+   "funding_year": 2021,
+   "start_page": 2397,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "LEGAL COUNSEL",
+   "funding_year": 2022,
+   "start_page": 2398,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "LEGAL COUNSEL",
+   "funding_year": 2023,
+   "start_page": 2399,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SECRETARY FOR THE MAJORITY (D)",
+   "funding_year": 2021,
+   "start_page": 2400,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MAJORITY (D)",
+   "funding_year": 2022,
+   "start_page": 2401,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MAJORITY (D)",
+   "funding_year": 2023,
+   "start_page": 2402,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SECRETARY FOR THE MINORITY (R)",
+   "funding_year": 2021,
+   "start_page": 2403,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MINORITY (R)",
+   "funding_year": 2022,
+   "start_page": 2404,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SECRETARY FOR THE MINORITY (R)",
+   "funding_year": 2023,
+   "start_page": 2405,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2021,
+   "start_page": 2406,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2022,
+   "start_page": 2407,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2023,
+   "start_page": 2408,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2018,
+   "start_page": 2409,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2019,
+   "start_page": 2410,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2020,
+   "start_page": 2411,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2021,
+   "start_page": 2412,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2022,
+   "start_page": 2413,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2023,
+   "start_page": 2414,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2023,
+   "start_page": 2415,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SAA - BUSINESS CONTINUITY AND DISASTER RECOVERY FUND Funding Year SAA - BUSINESS CONTINUITY AND DISASTER RECOVERY FUND",
+   "funding_year": null,
+   "start_page": 2416,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SERGEANT AT ARMS FELLOWSHIPS FUND Funding Year SERGEANT AT ARMS FELLOWSHIPS FUND",
+   "funding_year": null,
+   "start_page": 2417,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "JOINT ECONOMIC COMMITTEE",
+   "funding_year": 2021,
+   "start_page": 2418,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "JOINT ECONOMIC COMMITTEE",
+   "funding_year": 2022,
+   "start_page": 2419,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "JOINT ECONOMIC COMMITTEE",
+   "funding_year": 2023,
+   "start_page": 2420,
+   "status": "ok",
+   "record_count": 38
+  },
+  {
+   "office": "LEGISLATIVE COUNSEL",
+   "funding_year": 2021,
+   "start_page": 2422,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "LEGISLATIVE COUNSEL",
+   "funding_year": 2022,
+   "start_page": 2423,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "LEGISLATIVE COUNSEL",
+   "funding_year": 2023,
+   "start_page": 2424,
+   "status": "ok",
+   "record_count": 53
+  },
+  {
+   "office": "JOINT CONGRESSIONAL COMMITTEE ON INAUGURAL CEREMONIES",
+   "funding_year": 2020,
+   "start_page": 2426,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "OFFICE OF CONGRESSIONAL ACCESSIBILITY SERVICES",
+   "funding_year": 2021,
+   "start_page": 2427,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "OFFICE OF CONGRESSIONAL ACCESSIBILITY SERVICES",
+   "funding_year": 2022,
+   "start_page": 2428,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "OFFICE OF CONGRESSIONAL ACCESSIBILITY SERVICES",
+   "funding_year": 2023,
+   "start_page": 2429,
+   "status": "ok",
+   "record_count": 28
+  },
+  {
+   "office": "OFFICE OF CONGRESSIONAL ACCESSIBILITY SERVICES Funding Year CONGRESSIONAL ACCESSIBILITY SERVICES",
+   "funding_year": null,
+   "start_page": 2431,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "COMPUTER CENTER REVOLVING FUND Funding Year SENATE COMPUTER CENTER REVOLVING FUND",
+   "funding_year": null,
+   "start_page": 2432,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "HEALTH & PROMOTION Funding Year SENATE HEALTH PROMOTION REVOLVING FUND",
+   "funding_year": null,
+   "start_page": 2433,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PUBLIC RECORDS Funding Year SENATE OFFICE OF PUBLIC RECORDS REVOLVING FUND",
+   "funding_year": null,
+   "start_page": 2434,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "GIFT SHOP Funding Year SENATE GIFT SHOP REVOLVING FUND",
+   "funding_year": null,
+   "start_page": 2435,
+   "status": "ok",
+   "record_count": 14
+  },
+  {
+   "office": "PHOTOGRAPHIC STUDIO Funding Year SENATE PHOTOGRAPHIC STUDIO REVOLVING FUND",
+   "funding_year": null,
+   "start_page": 2436,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "RECORDING STUDIO Funding Year SENATE RECORDING STUDIO REVOLVING FUND",
+   "funding_year": null,
+   "start_page": 2437,
+   "status": "ok",
+   "record_count": 25
+  },
+  {
+   "office": "DANIEL WEBSTER SENATE PAGE RESIDENCE Funding Year DANIEL WEBSTER SENATE PAGE RESIDENCE REVOLVING FUND",
+   "funding_year": null,
+   "start_page": 2439,
+   "status": "ok",
+   "record_count": 14
+  },
+  {
+   "office": "SENATE HAIR CARE Funding Year SENATE HAIR CARE SERVICES REVOLVING FUND",
+   "funding_year": null,
+   "start_page": 2440,
+   "status": "ok",
+   "record_count": 25
+  },
+  {
+   "office": "AGRICULTURE, NUTRITION & FORESTRY S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2442,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "AGRICULTURE, NUTRITION & FORESTRY S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2443,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "AGRICULTURE, NUTRITION & FORESTRY S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2444,
+   "status": "ok",
+   "record_count": 79
+  },
+  {
+   "office": "AGRICULTURE, NUTRITION & FORESTRY S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2447,
+   "status": "ok",
+   "record_count": 152
+  },
+  {
+   "office": "AGRICULTURE, NUTRITION & FORESTRY S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2453,
+   "status": "ok",
+   "record_count": 69
+  },
+  {
+   "office": "ARMED SERVICES S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2456,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "ARMED SERVICES S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2457,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "ARMED SERVICES S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2458,
+   "status": "ok",
+   "record_count": 46
+  },
+  {
+   "office": "ARMED SERVICES S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2460,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "ARMED SERVICES S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2461,
+   "status": "ok",
+   "record_count": 61
+  },
+  {
+   "office": "BANKING, HOUSING & URBAN AFFAIRS S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2463,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "BANKING, HOUSING & URBAN AFFAIRS S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2464,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "BANKING, HOUSING & URBAN AFFAIRS S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2465,
+   "status": "ok",
+   "record_count": 15
+  },
+  {
+   "office": "BANKING, HOUSING & URBAN AFFAIRS S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2467,
+   "status": "ok",
+   "record_count": 63
+  },
+  {
+   "office": "BANKING, HOUSING & URBAN AFFAIRS S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2470,
+   "status": "ok",
+   "record_count": 87
+  },
+  {
+   "office": "BUDGET S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2473,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "BUDGET S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2474,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "BUDGET S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2475,
+   "status": "ok",
+   "record_count": 12
+  },
+  {
+   "office": "BUDGET S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2477,
+   "status": "ok",
+   "record_count": 28
+  },
+  {
+   "office": "BUDGET S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2479,
+   "status": "ok",
+   "record_count": 70
+  },
+  {
+   "office": "COMMERCE, SCIENCE & TRANSPORTATION S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2482,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "COMMERCE, SCIENCE & TRANSPORTATION S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2483,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "COMMERCE, SCIENCE & TRANSPORTATION S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2484,
+   "status": "ok",
+   "record_count": 19
+  },
+  {
+   "office": "COMMERCE, SCIENCE & TRANSPORTATION S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2486,
+   "status": "ok",
+   "record_count": 30
+  },
+  {
+   "office": "COMMERCE, SCIENCE & TRANSPORTATION S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2488,
+   "status": "ok",
+   "record_count": 93
+  },
+  {
+   "office": "ENERGY & NATURAL RESOURCES S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2491,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "ENERGY & NATURAL RESOURCES S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2492,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "ENERGY & NATURAL RESOURCES S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2493,
+   "status": "ok",
+   "record_count": 44
+  },
+  {
+   "office": "ENERGY & NATURAL RESOURCES S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2495,
+   "status": "ok",
+   "record_count": 57
+  },
+  {
+   "office": "ENERGY & NATURAL RESOURCES S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2498,
+   "status": "ok",
+   "record_count": 55
+  },
+  {
+   "office": "ENVIRONMENT & PUBLIC WORKS S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2500,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "ENVIRONMENT & PUBLIC WORKS S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2501,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "ENVIRONMENT & PUBLIC WORKS S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2502,
+   "status": "ok",
+   "record_count": 28
+  },
+  {
+   "office": "ENVIRONMENT & PUBLIC WORKS S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2504,
+   "status": "ok",
+   "record_count": 54
+  },
+  {
+   "office": "ENVIRONMENT & PUBLIC WORKS S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2507,
+   "status": "ok",
+   "record_count": 64
+  },
+  {
+   "office": "ETHICS COMMITTEE ON ETHICS - FY 2021 EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2510,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "ETHICS COMMITTEE ON ETHICS - FY 2022 EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2511,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "ETHICS COMMITTEE ON ETHICS - FY 2023 EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2512,
+   "status": "ok",
+   "record_count": 18
+  },
+  {
+   "office": "FINANCE S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2514,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FINANCE S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2515,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FINANCE S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2516,
+   "status": "ok",
+   "record_count": 13
+  },
+  {
+   "office": "FINANCE S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2518,
+   "status": "ok",
+   "record_count": 11
+  },
+  {
+   "office": "FINANCE S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2519,
+   "status": "ok",
+   "record_count": 97
+  },
+  {
+   "office": "FOREIGN RELATIONS S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2522,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FOREIGN RELATIONS S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2523,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "FOREIGN RELATIONS S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2524,
+   "status": "ok",
+   "record_count": 55
+  },
+  {
+   "office": "FOREIGN RELATIONS S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2527,
+   "status": "ok",
+   "record_count": 113
+  },
+  {
+   "office": "FOREIGN RELATIONS S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2532,
+   "status": "ok",
+   "record_count": 101
+  },
+  {
+   "office": "HOMELAND SECURITY & GOVERNMENTAL AFFAIRS S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2535,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "HOMELAND SECURITY & GOVERNMENTAL AFFAIRS S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2536,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "HOMELAND SECURITY & GOVERNMENTAL AFFAIRS S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2537,
+   "status": "ok",
+   "record_count": 87
+  },
+  {
+   "office": "HOMELAND SECURITY & GOVERNMENTAL AFFAIRS S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2541,
+   "status": "ok",
+   "record_count": 47
+  },
+  {
+   "office": "HOMELAND SECURITY & GOVERNMENTAL AFFAIRS S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2544,
+   "status": "ok",
+   "record_count": 127
+  },
+  {
+   "office": "HEALTH, EDUCATION, LABOR, AND PENSIONS S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2548,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "HEALTH, EDUCATION, LABOR, AND PENSIONS S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2549,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "HEALTH, EDUCATION, LABOR, AND PENSIONS S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2550,
+   "status": "ok",
+   "record_count": 37
+  },
+  {
+   "office": "HEALTH, EDUCATION, LABOR, AND PENSIONS S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2552,
+   "status": "ok",
+   "record_count": 72
+  },
+  {
+   "office": "HEALTH, EDUCATION, LABOR, AND PENSIONS S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2555,
+   "status": "ok",
+   "record_count": 144
+  },
+  {
+   "office": "INDIAN AFFAIRS S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2559,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INDIAN AFFAIRS S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2560,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INDIAN AFFAIRS S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2561,
+   "status": "ok",
+   "record_count": 10
+  },
+  {
+   "office": "INDIAN AFFAIRS S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2563,
+   "status": "ok",
+   "record_count": 47
+  },
+  {
+   "office": "INDIAN AFFAIRS S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2566,
+   "status": "ok",
+   "record_count": 23
+  },
+  {
+   "office": "INTELLIGENCE S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2568,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTELLIGENCE S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2569,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTELLIGENCE S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2570,
+   "status": "ok",
+   "record_count": 11
+  },
+  {
+   "office": "INTELLIGENCE S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2572,
+   "status": "ok",
+   "record_count": 35
+  },
+  {
+   "office": "INTELLIGENCE S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2575,
+   "status": "ok",
+   "record_count": 56
+  },
+  {
+   "office": "JUDICIARY S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2577,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "JUDICIARY S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2578,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "JUDICIARY S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2579,
+   "status": "ok",
+   "record_count": 23
+  },
+  {
+   "office": "JUDICIARY S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2581,
+   "status": "ok",
+   "record_count": 29
+  },
+  {
+   "office": "JUDICIARY S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2583,
+   "status": "ok",
+   "record_count": 171
+  },
+  {
+   "office": "RULES & ADMINISTRATION S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2588,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RULES & ADMINISTRATION S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2589,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "RULES & ADMINISTRATION S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2590,
+   "status": "ok",
+   "record_count": 9
+  },
+  {
+   "office": "RULES & ADMINISTRATION S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2591,
+   "status": "ok",
+   "record_count": 12
+  },
+  {
+   "office": "RULES & ADMINISTRATION S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2592,
+   "status": "ok",
+   "record_count": 35
+  },
+  {
+   "office": "SMALL BUSINESS AND ENTREPRENEURSHIP S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2594,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SMALL BUSINESS AND ENTREPRENEURSHIP S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2595,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SMALL BUSINESS AND ENTREPRENEURSHIP S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2596,
+   "status": "ok",
+   "record_count": 21
+  },
+  {
+   "office": "SMALL BUSINESS AND ENTREPRENEURSHIP S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2598,
+   "status": "ok",
+   "record_count": 106
+  },
+  {
+   "office": "SMALL BUSINESS AND ENTREPRENEURSHIP S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2602,
+   "status": "ok",
+   "record_count": 49
+  },
+  {
+   "office": "SPECIAL COMMITTEE ON AGING S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2604,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SPECIAL COMMITTEE ON AGING S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2605,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SPECIAL COMMITTEE ON AGING S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2606,
+   "status": "ok",
+   "record_count": 37
+  },
+  {
+   "office": "SPECIAL COMMITTEE ON AGING S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2608,
+   "status": "ok",
+   "record_count": 53
+  },
+  {
+   "office": "SPECIAL COMMITTEE ON AGING S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2611,
+   "status": "ok",
+   "record_count": 45
+  },
+  {
+   "office": "VETERANS' AFFAIRS S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2613,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "VETERANS' AFFAIRS S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2614,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "VETERANS' AFFAIRS S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2615,
+   "status": "ok",
+   "record_count": 32
+  },
+  {
+   "office": "VETERANS' AFFAIRS S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2617,
+   "status": "ok",
+   "record_count": 79
+  },
+  {
+   "office": "VETERANS' AFFAIRS S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2621,
+   "status": "ok",
+   "record_count": 34
+  },
+  {
+   "office": "SPECIAL RESERVES S.RES. 70D (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2623,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SPECIAL RESERVES S.RES. 70B (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2624,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SPECIAL RESERVES S.RES. 70C (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2625,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SPECIAL RESERVES S.RES. 70D (117TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2626,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SPECIAL RESERVES S.RES. 59B (118TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2627,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MEMBER COMPENSATION",
+   "funding_year": 2021,
+   "start_page": 2628,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MEMBER COMPENSATION",
+   "funding_year": 2022,
+   "start_page": 2629,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MEMBER COMPENSATION",
+   "funding_year": 2023,
+   "start_page": 2630,
+   "status": "ok",
+   "record_count": 109
+  }
+ ]
+}

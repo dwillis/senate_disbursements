@@ -28,6 +28,7 @@ Usage:
     python3 download_reports.py --doc 118sdoc13 --generate-commands
 
 Known Report IDs:
+    119sdoc3,  119sdoc5, 119sdoc6
     118sdoc13, 118sdoc11, 118sdoc2  (118th Congress - 2023-2025)
     117sdoc10, 117sdoc2             (117th Congress - 2021-2023)
     116sdoc19, 116sdoc10, 116sdoc2  (116th Congress - 2019-2021)

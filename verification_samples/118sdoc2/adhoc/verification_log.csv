@@ -1,0 +1,2 @@
+sample_id,source_doc,disposition,volume,reference_page,raw_page,validation_status,category,match_method,match_confidence,tie_candidates,highlight_reliable,document_number,record_type,raw_office,payee,amount,description,date_posted,start_date,end_date,image_path,reviewer_verdict,reviewer_notes
+1,118sdoc2,adhoc,1,1191,1191,,,amount+payee,high,,True,,expense,,"GARCIA, NATHANAEL P",$422.50,,,,,images/20260707_201725_001_adhoc_unchecked_expense.png,,

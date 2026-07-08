@@ -5,6 +5,19 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "natural-pdf>=0.6.5",
     "pyyaml>=5.1",
     "requests>=2.32.5",
 ]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
+
+[tool.pytest.ini_options]
+markers = [
+    "slow: full-report snapshot regression; needs local PDFs. Run with: uv run pytest -m slow",
+]
+# Fast fixture suite by default; the slow tier is the explicit pre-publish gate.
+addopts = "-m 'not slow'"

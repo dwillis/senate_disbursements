@@ -1,0 +1,29 @@
+{
+  "report": "117sdoc8",
+  "seed": 42,
+  "args": {
+    "n_per_stratum": 3,
+    "min_per_stratum": 1,
+    "max_total": 30,
+    "seed": 42,
+    "reference_page": null,
+    "payee": "",
+    "amount": "",
+    "document_number": "",
+    "description": ""
+  },
+  "git_commit": "b3ac44d261965f670a25e57abe6b81d4bceb6b28",
+  "pdf_sha256": {
+    "-1": "7497c57ddf3c8f77e3413f4db51e7aa16cd91c04e0755c3e9db38c2440a9608d",
+    "-2": "1c1a7b42762d739c61f99130b1ea6db8d5a5ce3aebb01ab24d10c13a21596e66"
+  },
+  "strata_requested": 4,
+  "strata_populated": [
+    "cleaned/ok/expense",
+    "cleaned/ok/salary",
+    "quarantine/fail/salary",
+    "quarantine/ok/expense"
+  ],
+  "strata_skipped_empty": [],
+  "total_sampled": 12
+}

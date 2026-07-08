@@ -589,6 +589,7 @@ def clean_csv(source_doc, csv_file='senate_data.csv', cleaned_file='senate_data_
                     except:
                         congress_number = ''
 
+                    record_type = line[1]
                     reference_page = line[3]
                     document_number = line[4]
                     date_posted = line[5]
@@ -598,8 +599,12 @@ def clean_csv(source_doc, csv_file='senate_data.csv', cleaned_file='senate_data_
                     description = line[9]
                     amount = line[10]
 
-                    # Salary flag: 1 if expense record (has dates), 0 if salary record (no dates)
-                    salary_flag = 1 if start_date != '' or end_date != '' else 0
+                    # Salary flag: 1 if salary record ('three data line': name,
+                    # position, amount -- no dates), 0 otherwise. Previously
+                    # derived from date presence, which is backwards: salary
+                    # records never have dates, so every salary row showed 0
+                    # and every expense row showed 1.
+                    salary_flag = 1 if record_type == 'three data line' else 0
 
                     # Get bioguide ID for senators
                     bioguide_id = ''
@@ -647,6 +652,13 @@ Examples:
     parser.add_argument('--output-dir', default=None, help='Output directory for extracted pages and CSV files (default: same as PDF directory)')
     parser.add_argument('--skip-extract', action='store_true', help='Skip page extraction (use if pages already extracted)')
     parser.add_argument('--skip-clean', action='store_true', help='Skip CSV cleaning step')
+    parser.add_argument(
+        '--format', choices=['legacy', 'modern'], default='legacy',
+        help="'legacy': the original pdftotext -layout + regex pipeline (112-114 Congress reports). "
+             "'modern': coordinate-based extraction via senate_parser/ (verified on 118sdoc13; "
+             "-layout desynchronizes columns on this report's layout, corrupting amounts). "
+             "No auto-detection yet -- pass explicitly."
+    )
 
     args = parser.parse_args()
 
@@ -659,12 +671,6 @@ Examples:
 
     # Ensure output directory exists
     os.makedirs(output_dir, exist_ok=True)
-
-    # Set file paths
-    pages_dir = os.path.join(output_dir, 'pages')
-    csv_file = os.path.join(output_dir, 'senate_data.csv')
-    cleaned_file = os.path.join(output_dir, 'senate_data_cleaned.csv')
-    missing_file = os.path.join(output_dir, 'missing_data.json')
 
     # Get page range
     if not args.start or not args.end:
@@ -679,6 +685,45 @@ Examples:
     # Extract source document name
     pdf_basename = os.path.basename(args.pdf_file)
     source_doc = pdf_basename.replace('GPO-CDOC-', '').replace('.pdf', '')
+
+    if args.format == 'modern':
+        from senate_parser.pipeline import run as run_modern_pipeline
+        try:
+            from bioguide_matcher import BioguideIdMatcher
+            bioguide_matcher = BioguideIdMatcher()
+        except Exception as e:
+            print(f"Warning: Could not initialize bioguide matcher: {e}")
+            bioguide_matcher = None
+
+        print("Processing Senate Disbursements (modern/coordinate-based pipeline)")
+        print(f"PDF: {args.pdf_file}")
+        print(f"Page range: {args.start} to {args.end}")
+        print(f"Output directory: {output_dir}")
+        print(f"Source document: {source_doc}")
+
+        stats = run_modern_pipeline(
+            args.pdf_file, source_doc=source_doc, out_dir=output_dir,
+            first=args.start, last=args.end, bioguide_matcher=bioguide_matcher,
+        )
+        print(f"\n{'='*60}")
+        print("Processing complete!")
+        print(f"{'='*60}")
+        print(f"Blocks: {stats['blocks']}")
+        print(f"Records published: {stats['records_published']}")
+        print(f"Records quarantined (failed reconciliation): {stats['records_quarantined']}")
+        print(f"Unparsed lines: {stats['unparsed']}")
+        if stats.get('bioguide_match_rate') is not None:
+            print(f"Bioguide match rate (senator rows): {stats['bioguide_match_rate']:.1%}")
+        print(f"Cleaned CSV: {os.path.join(output_dir, 'senate_data_cleaned.csv')}")
+        print(f"Quarantine CSV: {os.path.join(output_dir, 'quarantine.csv')}")
+        print(f"Reconciliation report: {os.path.join(output_dir, 'reconciliation_report.csv')}")
+        return 0
+
+    # Set file paths
+    pages_dir = os.path.join(output_dir, 'pages')
+    csv_file = os.path.join(output_dir, 'senate_data.csv')
+    cleaned_file = os.path.join(output_dir, 'senate_data_cleaned.csv')
+    missing_file = os.path.join(output_dir, 'missing_data.json')
 
     print(f"Processing Senate Disbursements")
     print(f"PDF: {args.pdf_file}")

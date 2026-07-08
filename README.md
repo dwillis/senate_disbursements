@@ -147,6 +147,138 @@ The processing script generates three files:
    - `payee` - Payee name
 3. **missing_data.json** - Lines that couldn't be parsed (usually wrapped text or formatting issues)
 
+## Modern Format Reports (115th Congress and later)
+
+Starting around the 115th Congress, the Senate's PDF layout changed in a
+way that breaks `pdftotext -layout`: it can desynchronize columns, so a
+line's amount can actually belong to a *different* row's payee (verified
+on 118sdoc13 -- see `senate_parser/records.py` for details). The
+`--format legacy` pipeline described above should only be used for
+112th-114th Congress reports; for 115th and later, use:
+
+```bash
+python3 process_senate_disbursements.py data/118sdoc13/GPO-CDOC-118sdoc13-1.pdf \
+  --start 1 --end 1495 --format modern
+```
+
+This routes to `senate_parser/`, which extracts words with their PDF
+coordinates (via [Natural PDF](https://github.com/jsoma/natural-pdf)) and
+reconstructs table rows geometrically instead of trusting a reflowed text
+layout. It also:
+
+- Segments the page stream into office/account blocks at each banner page
+  before parsing any rows, rather than parsing line-by-line -- this is
+  what makes cross-page continuations and office/senator identification
+  reliable.
+- **Reconciles every block's itemized rows against the report's own
+  printed subtotals** (e.g. "OTHER CONTRACTUAL SERVICES $80,325.38")
+  before publishing them. A block whose rows don't sum to the printed
+  figure is written to `quarantine.csv` instead of `senate_data_cleaned.csv`,
+  with the discrepancy recorded in `reconciliation_report.csv`. This is
+  the project's first amount-level correctness check -- previously, only
+  row counts were used to judge whether parsing had improved.
+
+Multi-volume reports (e.g. 118sdoc13 ships as two ~1,500-page PDFs) should
+be processed once per volume, with `--output-dir` pointed at separate
+directories and the results concatenated afterward -- `reference_page`
+values are relative to each volume.
+
+Outputs, in `--output-dir`:
+
+- **senate_data_cleaned.csv** -- the legacy 17-column schema (see below)
+  plus two validation columns: `validation_status` says what happened
+  when this row's segment was checked against the report's own printed
+  subtotal (`ok` reconciled within $0.01 / `warn` within $1 / `unchecked`
+  no covering subtotal exists -- e.g. rows after a block's final
+  subtotal), and `category` is that subtotal's label (e.g. "TRAVEL AND
+  TRANSPORTATION OF PERSONS"). When concatenating with legacy 112-114
+  files, backfill their missing columns with `unvalidated`.
+- **quarantine.csv** -- same schema, for blocks that failed reconciliation.
+  Small in practice (under 2% of blocks on 118sdoc13); review before
+  deciding whether to hand-fix or drop.
+- **reconciliation_report.csv** -- one row per printed subtotal checked:
+  office, funding year, label, expected vs. actual amount, and status.
+  `no_records` means the subtotal is an always-lump-sum budget figure
+  with no itemized rows behind it (e.g. "PERSONNEL BENEFITS") -- expected,
+  not a failure. `zero_records` is the same situation on a normally
+  itemized label; every historical case is a verified-legitimate
+  lump-summed adjustment (e.g. a post-departure payroll correction), but
+  it's kept distinct so a row-loss regression is countable. `unchecked`
+  (basis `trailing`) reports rows after the block's final subtotal that
+  no check covers.
+- **unparsed.jsonl** -- lines that didn't classify as a record, subtotal,
+  or continuation (well under 0.1% of lines on 118sdoc13).
+- **block_summaries.csv** -- per office/funding-year block: status, record
+  count, dollars checked vs. unchecked, amount-parse failures, pages
+  skipped.
+- **unmatched_senators.csv** -- senator-office blocks whose name didn't
+  resolve to a bioguide ID, with the failure mode (`unmatched` / `error` /
+  `no_year`). The pipeline warns loudly if the row-weighted match rate
+  falls below 90% (clean reports run 93-96%).
+- **audit_report.csv** -- advisory row-level field checks (unparseable
+  amounts/dates, contaminated office names, out-of-range funding years,
+  duplicate-row notices). Nothing is dropped; this is a review queue.
+- **manifest.json** -- provenance: source-PDF SHA-256, page range, parser
+  git commit, timestamp, tolerances, and run counts, so any published
+  number can be traced back to its inputs and re-derived.
+
+### Regression testing
+
+`uv run pytest` runs the fast fixture suite (committed golden pages, no
+PDFs needed; also runs in CI). `uv run pytest -m slow` re-parses every
+locally available report end-to-end and diffs block/record/dollar/check
+statistics against committed snapshots in `tests/snapshots/` -- run this
+before publishing regenerated data. After an intentional parser change,
+regenerate with `UPDATE_SNAPSHOTS=1 uv run pytest -m slow` and review the
+snapshot diff.
+
+### Known reconciliation caveat: fiscal-year-boundary reports
+
+Reports covering a period that starts at the beginning of a federal fiscal
+year (e.g. 118sdoc11's period is 10/01/2023-03/31/2024) can show a
+`TRAVEL AND TRANSPORTATION OF PERSONS` segment failure across *many*
+offices in the same report, with the itemized rows summing to far more
+than the printed subtotal (verified: Senator Mike Lee's 2023 block sums
+to $16,783.35 against a printed $1,172.69). This was investigated, not
+assumed: the two categories immediately following Travel in that same
+block (`OTHER CONTRACTUAL SERVICES`, `ACQUISITION OF ASSETS`) reconcile
+to the penny using the identical code path, and there is only one inline
+`TRAVEL AND TRANSPORTATION OF PERSONS` label on the page -- ruling out
+both a parser bug and a missed second subtotal. Many of the affected
+itemized rows have service dates from the prior fiscal year (obligated
+against the old year's authorization, posted once the new one opens),
+which is consistent with them appearing in the listing without counting
+toward this period's net expenditure figure. 118sdoc13 (April-September,
+mid-fiscal-year) shows zero Travel failures, which fits. Net effect:
+quarantined Travel-category rows in a fiscal-year-boundary report are
+not necessarily wrong -- they warrant a manual look, not an assumption
+of a parsing defect.
+
+### Known limitation: column positions are per-template constants
+
+`senate_parser/records.py`'s column boundaries (`DOCUMENT_COL`,
+`PAYEE_COL`, etc.) are fixed x-coordinates, calibrated against 118sdoc13
+and confirmed to also match 118sdoc11, 119sdoc3, 119sdoc5, and 119sdoc6
+(all share the same underlying page template/size). 117sdoc8 and 118sdoc2
+use a different, wider page size (612x792 vs. 423x657) with columns
+shifted; 118sdoc2's shift is small enough to fall within the existing
+margins, but 117sdoc8's (~56pt) is not -- running `--format modern` on it
+today would silently misassign columns. Before processing a new report,
+spot-check its header row's x-positions (see `senate_parser/records.py`
+module docstring) against the constants; a document using the wider page
+size needs the column boundaries generalized (e.g. derived per-document
+from the header row) before it can be trusted.
+
+### Known issue: spurious `-3.pdf` volume in some downloads
+
+Some multi-part downloads include a `<doc>-3.pdf` file that is not a PDF
+at all -- it's an HTML error page saved with a `.pdf` extension (verified
+byte-identical, via `md5`, across 117sdoc8, 118sdoc11, and 119sdoc3).
+Ignore it; process only `-1.pdf` and `-2.pdf` (and not the combined
+`<doc>.pdf`, which reintroduces the cross-volume TOC/page-numbering
+problem the per-volume approach avoids). Likely a `download_reports.py`
+bug worth fixing separately.
+
 ## Understanding the Data
 
 ### Expense Types

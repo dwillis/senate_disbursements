@@ -1,0 +1,18 @@
+# Fast fixture suite only: the golden-page fixtures are committed, so
+# these run without the multi-hundred-MB source PDFs. The slow snapshot
+# tier (uv run pytest -m slow) needs local PDFs and is the documented
+# pre-publish gate, run on a machine that has them.
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  fast-suite:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv sync --dev
+      - run: uv run pytest -q
