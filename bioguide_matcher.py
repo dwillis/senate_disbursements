@@ -15,10 +15,24 @@ Usage:
 
 import os
 import re
+import unicodedata
 import yaml
 import urllib.request
 from datetime import datetime
 from pathlib import Path
+
+# Disbursement reports print some senators' formal legal names where
+# congress-legislators records the name they serve under (or vice versa).
+# Keys and values are both in _normalize_name() form; entries are applied
+# after normalization and before matching, so term-year filtering still
+# applies. New misses surface in each run's unmatched_senators.csv.
+NAME_ALIASES = {
+    "A MITCHELL MCCONNELL": "MITCH MCCONNELL",
+    "CHRIS MURPHY": "CHRISTOPHER MURPHY",
+    "THEODORE BUDD": "TED BUDD",
+    "JOHN PETER RICKETTS": "PETE RICKETTS",
+    "JOHN R THUNE": "JOHN THUNE",
+}
 
 
 class BioguideIdMatcher:
@@ -121,6 +135,10 @@ class BioguideIdMatcher:
         if not name:
             return ""
 
+        # Strip accents (reports print "LUJAN"; the YAML has "Luján")
+        name = unicodedata.normalize('NFKD', name)
+        name = ''.join(c for c in name if not unicodedata.combining(c))
+
         # Convert to uppercase and remove extra whitespace
         name = name.upper().strip()
 
@@ -178,8 +196,11 @@ class BioguideIdMatcher:
                 start_year = int(start_str.split('-')[0])
                 end_year = int(end_str.split('-')[0]) if end_str else datetime.now().year
 
-                # Check if year falls within term
-                if start_year <= year <= end_year:
+                # `year` is a federal funding year, which runs Oct 1 of
+                # year-1 through Sep 30 of year — and offices keep booking
+                # expenses after a senator departs. So a term ending in
+                # calendar year N also covers funding year N+1.
+                if start_year <= year <= end_year + 1:
                     return True
             except (ValueError, IndexError):
                 continue
@@ -202,6 +223,7 @@ class BioguideIdMatcher:
             return ""
 
         normalized_input = self._normalize_name(senator_name)
+        normalized_input = NAME_ALIASES.get(normalized_input, normalized_input)
 
         # Find matching senators
         matches = []
@@ -243,6 +265,7 @@ class BioguideIdMatcher:
             return {"error": "No name provided"}
 
         normalized_input = self._normalize_name(senator_name)
+        normalized_input = NAME_ALIASES.get(normalized_input, normalized_input)
 
         matches = []
         for senator in self.senators:
