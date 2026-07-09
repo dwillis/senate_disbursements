@@ -1,9 +1,13 @@
 """Orchestrate extraction -> segmentation -> records -> reconciliation ->
 assembly for one PDF volume of a modern-format Senate disbursement report.
 
-Blocks that fail segment-level reconciliation are quarantined rather than
+Rows whose segment fails reconciliation are quarantined rather than
 shipped, so a column-attribution bug shows up as a small, reviewable
 quarantine file instead of silently wrong numbers in the published CSV.
+Failing segments first get an independent second-opinion re-sum (see
+second_opinion.py): when it confirms the parser transcribed the rows
+faithfully and the source's own printed subtotal is the odd one out, the
+rows publish tagged 'source_mismatch' instead of being quarantined.
 """
 
 import csv
@@ -14,8 +18,9 @@ from .assemble import CSV_COLUMNS, block_rows, match_senator
 from .audit import audit_rows, build_manifest
 from .extract import iter_pages
 from .records import parse_block
-from .reconcile import reconcile_block
-from .segment import segment_blocks
+from .reconcile import banner_checks, reconcile_block
+from .second_opinion import apply_second_opinion
+from .segment import parse_banner_summary, segment_blocks
 
 CSV_HEADER_NOTE = (
     "Parsed from U.S. Senate disbursement reports (govinfo.gov). "
@@ -53,6 +58,7 @@ def run(
     reconciliation_rows = []
     unparsed_items = []
     block_summaries = []
+    second_opinion_audit_rows = []
     unmatched_senator_rows = []
     senator_rows_total = 0
     senator_rows_matched = 0
@@ -61,6 +67,32 @@ def run(
     for block in blocks:
         result = parse_block(block)
         reconciled = reconcile_block(result)
+
+        # Failing segments get an independent amount-column re-sum; when it
+        # confirms the parser against the printed subtotal, the segment's
+        # records are retagged 'source_mismatch' and publish (must happen
+        # before block_rows copies statuses into CSV rows).
+        for item in apply_second_opinion(block, result, reconciled):
+            second_opinion_audit_rows.append(
+                {
+                    "reason": item["reason"],
+                    "source_doc": source_doc,
+                    "reference_page": block.header.start_page + page_offset,
+                    "raw_office": block.header.office,
+                    "detail": item["detail"],
+                }
+            )
+
+        # Advisory banner cross-check: the banner page's summary table is
+        # an additional printed source for the block's period totals.
+        banner = banner_checks(
+            parse_banner_summary(block.rows_by_page[block.header.start_page]),
+            reconciled,
+            block.header.start_page,
+        )
+        reconciled.checks.extend(banner)
+        banner_severity = {"ok": 0, "banner_missing": 1, "warn": 2, "fail": 3}
+        banner_status = max((c.status for c in banner), key=lambda s: banner_severity[s])
 
         for check in reconciled.checks:
             reconciliation_rows.append(
@@ -75,6 +107,8 @@ def run(
                     "actual": round(check.actual, 2),
                     "status": check.status,
                     "basis": check.basis,
+                    "second_opinion": check.second_opinion,
+                    "independent_sum": check.independent_sum,
                 }
             )
 
@@ -109,13 +143,25 @@ def run(
                     }
                 )
 
+        # Per-segment quarantine: each row is routed by its own segment's
+        # outcome, so one failing segment no longer holds back the whole
+        # block's innocent rows (previously 5,121 correct rows / $2.3M
+        # across 7 reports). Only 'fail' quarantines -- 'source_mismatch'
+        # (second-opinion-confirmed faithful transcriptions) publishes
+        # tagged.
+        block_quarantined = [r for r in rows if r["validation_status"] == "fail"]
+        quarantine_rows.extend(block_quarantined)
+        cleaned_rows.extend(r for r in rows if r["validation_status"] != "fail")
+
         block_summaries.append(
             {
                 "office": block.header.office,
                 "funding_year": block.header.funding_year,
                 "start_page": block.header.start_page + page_offset,
                 "status": reconciled.block_status,
+                "banner_status": banner_status,
                 "record_count": len(rows),
+                "rows_quarantined": len(block_quarantined),
                 "records_checked": reconciled.records_checked,
                 "dollars_checked": reconciled.dollars_checked,
                 "dollars_unchecked": reconciled.dollars_unchecked,
@@ -123,10 +169,6 @@ def run(
                 "pages_skipped": sum(1 for u in result.unparsed if u.get("reason") == "no_header"),
             }
         )
-        if reconciled.block_status == "fail":
-            quarantine_rows.extend(rows)
-        else:
-            cleaned_rows.extend(rows)
 
     _write_csv(os.path.join(out_dir, "senate_data_cleaned.csv"), cleaned_rows)
     _write_csv(os.path.join(out_dir, "quarantine.csv"), quarantine_rows)
@@ -143,6 +185,8 @@ def run(
             "actual",
             "status",
             "basis",
+            "second_opinion",
+            "independent_sum",
         ]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -175,7 +219,7 @@ def run(
 
     # Quarantined rows are audited too: they may be released after review
     # and should be just as clean as published ones.
-    violations = audit_rows(cleaned_rows + quarantine_rows)
+    violations = audit_rows(cleaned_rows + quarantine_rows) + second_opinion_audit_rows
     with open(os.path.join(out_dir, "audit_report.csv"), "w", newline="") as f:
         fieldnames = [
             "reason", "source_doc", "reference_page", "raw_office",

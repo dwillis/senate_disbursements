@@ -1,16 +1,18 @@
 {
  "blocks": 1039,
- "records_published": 46208,
- "records_quarantined": 3432,
+ "records_published": 49640,
+ "records_quarantined": 0,
  "unparsed": 2,
  "check_status_histogram": {
-  "fail": 153,
-  "no_records": 350,
-  "ok": 1105,
+  "banner_missing": 689,
+  "fail": 566,
+  "no_records": 250,
+  "ok": 2180,
+  "warn": 1,
   "zero_records": 4
  },
- "published_dollars": 351978581.18,
- "quarantined_dollars": 70290321.27,
+ "published_dollars": 422268902.45,
+ "quarantined_dollars": 0.0,
  "block_statuses": [
   {
    "office": "OFFICE OF THE VICE PRESIDENT (D) - HARRIS",

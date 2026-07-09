@@ -1,0 +1,46 @@
+{
+  "report": "118sdoc11",
+  "seed": 3,
+  "args": {
+    "n_per_stratum": 3,
+    "min_per_stratum": 1,
+    "max_total": 30,
+    "seed": 3,
+    "reference_page": null,
+    "payee": "",
+    "amount": "",
+    "document_number": "",
+    "description": ""
+  },
+  "git_commit": "5a71794d200107ef4b0e32f6c4ec98158533a624",
+  "pdf_sha256": {
+    "-1": "fcca6bdb9041ea799f93c31c74fe7508adf47e3400add29ad63c0dacb690507c",
+    "-2": "14d5e7c5f06c83f5d83aa6f05558dba76e58d3cf3beab87165caabb772bdb09b"
+  },
+  "strata_requested": 20,
+  "strata_populated": [
+    "cleaned/ok/expense",
+    "cleaned/ok/salary",
+    "cleaned/source_mismatch/expense",
+    "cleaned/source_mismatch/salary"
+  ],
+  "strata_skipped_empty": [
+    "cleaned/fail/expense",
+    "cleaned/fail/salary",
+    "cleaned/unchecked/expense",
+    "cleaned/unchecked/salary",
+    "cleaned/warn/expense",
+    "cleaned/warn/salary",
+    "quarantine/fail/expense",
+    "quarantine/fail/salary",
+    "quarantine/ok/expense",
+    "quarantine/ok/salary",
+    "quarantine/source_mismatch/expense",
+    "quarantine/source_mismatch/salary",
+    "quarantine/unchecked/expense",
+    "quarantine/unchecked/salary",
+    "quarantine/warn/expense",
+    "quarantine/warn/salary"
+  ],
+  "total_sampled": 12
+}

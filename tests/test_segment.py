@@ -3,13 +3,18 @@ from pathlib import Path
 
 from senate_parser.extract import Word
 from senate_parser.rows import cluster_rows
-from senate_parser.segment import classify_page, parse_banner, segment_blocks
+from senate_parser.segment import classify_page, parse_banner, parse_banner_summary, segment_blocks
 
 FIXTURES = Path(__file__).parent / "fixtures"
 
 
 def load(name: str) -> list[Word]:
     data = json.loads((FIXTURES / f"vol1_page_{name}.json").read_text())
+    return [Word(**d) for d in data]
+
+
+def load_fixture(filename: str) -> list[Word]:
+    data = json.loads((FIXTURES / f"{filename}.json").read_text())
     return [Word(**d) for d in data]
 
 
@@ -118,3 +123,35 @@ def test_segment_blocks_toc_page_closes_open_block():
     assert len(blocks) == 2
     assert blocks[0].pages == [20]
     assert blocks[1].pages == [100]
+
+
+def test_banner_summary_extracts_period_figures():
+    """Cotton's banner (page 1000): Net Payroll Expenses -2,042,937.06 and
+    ORGANIZATION TOTALS -2,190,920.79 in the NET EXPENDITURES FOR THE
+    PERIOD column. The ORGANIZATION TOTALS values print on a visual row
+    ~3pt above the label -- the extractor must still find them."""
+    summary = parse_banner_summary(cluster_rows(load(1000)))
+    assert summary.net_payroll == -2042937.06
+    assert summary.organization_totals == -2190920.79
+
+
+def test_banner_summary_wide_template():
+    """117sdoc8's wider page template positions every column differently;
+    nearest-header-center assignment must still land on the period column."""
+    summary = parse_banner_summary(cluster_rows(load_fixture("sdoc8_vol1_page_547")))
+    assert summary.net_payroll == -1337475.77
+    assert summary.organization_totals == -1420145.67
+
+
+def test_banner_summary_zero_period_block():
+    """Page 100's block spent nothing this period: both figures are $.00
+    variants and must parse as 0.0, not None."""
+    summary = parse_banner_summary(cluster_rows(load(100)))
+    assert summary.net_payroll == 0.0
+    assert summary.organization_totals == 0.0
+
+
+def test_banner_summary_missing_on_data_page():
+    summary = parse_banner_summary(cluster_rows(load(1001)))
+    assert summary.net_payroll is None
+    assert summary.organization_totals is None

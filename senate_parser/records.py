@@ -189,6 +189,9 @@ class Subtotal:
     label: str
     amount: str
     page: int
+    # Vertical position of the subtotal's printed row, so the
+    # second-opinion verifier can bound the segment geometrically.
+    top: float = 0.0
 
 
 @dataclass
@@ -353,7 +356,7 @@ def parse_block(block: Block) -> BlockParseResult:
                 last_record = rec
             elif role == "subtotal":
                 label = re.sub(r"\s+", " ", fields["description"].strip().upper())
-                sub = Subtotal(label=label, amount=fields["amount"], page=page_num)
+                sub = Subtotal(label=label, amount=fields["amount"], page=page_num, top=group[0].top)
                 result.subtotals.append(sub)
                 result.events.append(("subtotal", sub))
             elif role == "expense_subline":

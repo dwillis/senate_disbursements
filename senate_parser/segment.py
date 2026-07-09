@@ -132,6 +132,76 @@ def parse_banner(rows: list, page_num: int) -> BlockHeader:
     )
 
 
+@dataclass
+class BannerSummary:
+    """The two load-bearing figures from a banner page's summary table
+    (NET EXPENDITURES FOR THE PERIOD column). None = not found/parseable."""
+
+    net_payroll: Optional[float] = None
+    organization_totals: Optional[float] = None
+
+
+def _banner_amount(text: str) -> Optional[float]:
+    # Reuse the reconciliation amount grammar without importing reconcile
+    # (which imports records; keep segment.py at the bottom of the stack).
+    m = re.search(r"-?\$?(\d[\d,]*\.\d{2}|\.\d{2})$", text.strip())
+    if not m:
+        return None
+    value = float(m.group(1).replace(",", ""))
+    return -value if text.strip().startswith("-") else value
+
+
+def parse_banner_summary(rows: list) -> BannerSummary:
+    """Extract the banner summary table's period figures. The table sits
+    above the DOCUMENT NO. header; values are right-aligned under the
+    "NET EXPENDITURES FOR / THE PERIOD" column header, and ORGANIZATION
+    TOTALS' values print on a visual row ~3pt above the label (verified
+    on both page templates). Words are assigned to columns by nearest
+    header center, which absorbs the right-alignment overhang."""
+    header_top = header_row_top(rows)
+    top_rows = [r for r in sorted(rows, key=lambda r: r.top) if r.top < header_top]
+
+    centers = {}
+    for r in top_rows:
+        for w in r.words:
+            if "EXPENDITURES FOR" in w.text:
+                centers["period"] = (w.x0 + w.x1) / 2
+            elif "TOTAL FUNDING" in w.text:
+                centers["total"] = (w.x0 + w.x1) / 2
+            elif "NET FUNDS" in w.text:
+                centers["funds"] = (w.x0 + w.x1) / 2
+    if "period" not in centers or "total" not in centers:
+        return BannerSummary()
+
+    def period_value_near(label: str) -> Optional[float]:
+        label_row = next(
+            (r for r in top_rows if label in " ".join(w.text for w in r.words)), None
+        )
+        if label_row is None:
+            return None
+        best = None
+        for r in top_rows:
+            if abs(r.top - label_row.top) > 8.0:
+                continue
+            for w in r.words:
+                amt = _banner_amount(w.text)
+                if amt is None:
+                    continue
+                center = (w.x0 + w.x1) / 2
+                column = min(centers, key=lambda c: abs(center - centers[c]))
+                if column != "period":
+                    continue
+                distance = abs(center - centers["period"])
+                if best is None or distance < best[0]:
+                    best = (distance, amt)
+        return best[1] if best else None
+
+    return BannerSummary(
+        net_payroll=period_value_near("Net Payroll Expenses"),
+        organization_totals=period_value_near("ORGANIZATION TOTALS"),
+    )
+
+
 def segment_blocks(pages: Iterable) -> Iterator[Block]:
     """Consume (page_num, words) pairs and yield completed Blocks in order."""
     current: Optional[Block] = None

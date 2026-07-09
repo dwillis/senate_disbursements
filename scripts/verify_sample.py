@@ -212,7 +212,7 @@ def load_report_rows(report: str) -> list:
 # "all strata" from the observed rows themselves (defaultdict of only
 # populated keys) can never produce an empty stratum by construction,
 # which would silence exactly the transparency this is meant to provide.
-ALL_STATUSES = ("ok", "warn", "fail", "unchecked")
+ALL_STATUSES = ("ok", "warn", "fail", "unchecked", "source_mismatch")
 ALL_DISPOSITIONS = ("cleaned", "quarantine")
 ALL_RECORD_TYPES = ("salary", "expense")
 

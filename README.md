@@ -172,11 +172,29 @@ layout. It also:
   reliable.
 - **Reconciles every block's itemized rows against the report's own
   printed subtotals** (e.g. "OTHER CONTRACTUAL SERVICES $80,325.38")
-  before publishing them. A block whose rows don't sum to the printed
-  figure is written to `quarantine.csv` instead of `senate_data_cleaned.csv`,
-  with the discrepancy recorded in `reconciliation_report.csv`. This is
-  the project's first amount-level correctness check -- previously, only
-  row counts were used to judge whether parsing had improved.
+  before publishing them. Rows in a segment that doesn't sum to its
+  printed figure are written to `quarantine.csv` instead of
+  `senate_data_cleaned.csv` (per segment -- a failing category no longer
+  holds back the block's other, reconciled categories), with the
+  discrepancy recorded in `reconciliation_report.csv`.
+- **Gets a second opinion on every failing segment** before quarantining:
+  an independent re-sum of the amount column straight from the page
+  geometry, bypassing the record classifier. When the independent sum
+  matches the parsed rows but not the printed subtotal, the discrepancy
+  is in the source document itself -- the report's own itemization
+  doesn't add up to its own printed total (verified real: the INTERN
+  COMPENSATION - BLACKBURN block in 118sdoc13 prints 14 rows summing to
+  $24,774.31 under a printed subtotal of $24,745.43). Those rows publish
+  tagged `source_mismatch` rather than being quarantined. When the
+  independent sum instead sides with the printed figure, the rows stay
+  quarantined and the run's `audit_report.csv` flags a likely parser bug
+  (`second_opinion_disagrees`).
+- **Cross-checks each block against its banner page** (advisory): the
+  banner's summary table prints the period's Net Payroll Expenses and
+  ORGANIZATION TOTALS independently of the inline listing; both are
+  compared (basis `banner` in `reconciliation_report.csv`, per-block
+  `banner_status` in `block_summaries.csv`). These checks never gate
+  publishing, but they cover rows no inline subtotal covers.
 
 Multi-volume reports (e.g. 118sdoc13 ships as two ~1,500-page PDFs) should
 be processed once per volume, with `--output-dir` pointed at separate
@@ -190,27 +208,35 @@ Outputs, in `--output-dir`:
   when this row's segment was checked against the report's own printed
   subtotal (`ok` reconciled within $0.01 / `warn` within $1 / `unchecked`
   no covering subtotal exists -- e.g. rows after a block's final
-  subtotal), and `category` is that subtotal's label (e.g. "TRAVEL AND
-  TRANSPORTATION OF PERSONS"). When concatenating with legacy 112-114
-  files, backfill their missing columns with `unvalidated`.
-- **quarantine.csv** -- same schema, for blocks that failed reconciliation.
-  Small in practice (under 2% of blocks on 118sdoc13); review before
-  deciding whether to hand-fix or drop.
+  subtotal / `source_mismatch` the segment doesn't sum to its printed
+  subtotal but an independent re-sum confirms the rows are faithful
+  transcriptions, i.e. the source's own itemization disagrees with its
+  own printed total), and `category` is that subtotal's label (e.g.
+  "TRAVEL AND TRANSPORTATION OF PERSONS"). When concatenating with
+  legacy 112-114 files, backfill their missing columns with
+  `unvalidated`.
+- **quarantine.csv** -- same schema, for rows of segments that failed
+  reconciliation *and* couldn't be cleared by the second opinion.
+  Review before deciding whether to hand-fix or drop.
 - **reconciliation_report.csv** -- one row per printed subtotal checked:
-  office, funding year, label, expected vs. actual amount, and status.
+  office, funding year, label, expected vs. actual amount, status, and
+  for failing segments the `second_opinion` verdict (`source_mismatch` /
+  `parser_suspect` / `inconclusive`) with its `independent_sum`.
   `no_records` means the subtotal is an always-lump-sum budget figure
   with no itemized rows behind it (e.g. "PERSONNEL BENEFITS") -- expected,
-  not a failure. `zero_records` is the same situation on a normally
-  itemized label; every historical case is a verified-legitimate
-  lump-summed adjustment (e.g. a post-departure payroll correction), but
-  it's kept distinct so a row-loss regression is countable. `unchecked`
-  (basis `trailing`) reports rows after the block's final subtotal that
-  no check covers.
+  not a failure, and its printed amount is folded into the NET PAYROLL
+  EXPENSES rollup check's basis. `zero_records` is the same situation on
+  a normally itemized label; every historical case is a
+  verified-legitimate lump-summed adjustment (e.g. a post-departure
+  payroll correction), but it's kept distinct so a row-loss regression
+  is countable. `unchecked` (basis `trailing`) reports rows after the
+  block's final subtotal that no check covers. Basis `banner` rows are
+  the advisory banner-page cross-checks.
 - **unparsed.jsonl** -- lines that didn't classify as a record, subtotal,
   or continuation (well under 0.1% of lines on 118sdoc13).
-- **block_summaries.csv** -- per office/funding-year block: status, record
-  count, dollars checked vs. unchecked, amount-parse failures, pages
-  skipped.
+- **block_summaries.csv** -- per office/funding-year block: status,
+  banner-check status, record count, rows quarantined, dollars checked
+  vs. unchecked, amount-parse failures, pages skipped.
 - **unmatched_senators.csv** -- senator-office blocks whose name didn't
   resolve to a bioguide ID, with the failure mode (`unmatched` / `error` /
   `no_year`). The pipeline warns loudly if the row-weighted match rate
@@ -232,27 +258,36 @@ before publishing regenerated data. After an intentional parser change,
 regenerate with `UPDATE_SNAPSHOTS=1 uv run pytest -m slow` and review the
 snapshot diff.
 
-### Known reconciliation caveat: fiscal-year-boundary reports
+### Known source-data caveat: `source_mismatch` rows
 
-Reports covering a period that starts at the beginning of a federal fiscal
-year (e.g. 118sdoc11's period is 10/01/2023-03/31/2024) can show a
-`TRAVEL AND TRANSPORTATION OF PERSONS` segment failure across *many*
-offices in the same report, with the itemized rows summing to far more
-than the printed subtotal (verified: Senator Mike Lee's 2023 block sums
-to $16,783.35 against a printed $1,172.69). This was investigated, not
-assumed: the two categories immediately following Travel in that same
-block (`OTHER CONTRACTUAL SERVICES`, `ACQUISITION OF ASSETS`) reconcile
-to the penny using the identical code path, and there is only one inline
-`TRAVEL AND TRANSPORTATION OF PERSONS` label on the page -- ruling out
-both a parser bug and a missed second subtotal. Many of the affected
-itemized rows have service dates from the prior fiscal year (obligated
-against the old year's authorization, posted once the new one opens),
-which is consistent with them appearing in the listing without counting
-toward this period's net expenditure figure. 118sdoc13 (April-September,
-mid-fiscal-year) shows zero Travel failures, which fits. Net effect:
-quarantined Travel-category rows in a fiscal-year-boundary report are
-not necessarily wrong -- they warrant a manual look, not an assumption
-of a parsing defect.
+Some segments' printed itemization genuinely does not add up to the
+report's own printed subtotal. Two verified classes:
+
+- **Small payroll residuals**: e.g. the INTERN COMPENSATION - BLACKBURN
+  block in 118sdoc13 prints 14 rows summing to $24,774.31 under a
+  printed subtotal of $24,745.43 -- and the banner page agrees with the
+  subtotal, not the rows. The Sergeant at Arms' ~$53M payroll segment in
+  118sdoc11 is off by $101.20 the same way. The likely mechanism is
+  adjustments processed against the total but not printed as rows.
+- **Fiscal-year-boundary Travel gaps**: reports whose period starts at a
+  federal fiscal-year boundary (e.g. 118sdoc11, 10/01/2023-03/31/2024)
+  show `TRAVEL AND TRANSPORTATION OF PERSONS` rows summing to far more
+  than the printed subtotal across many offices (verified: Senator Mike
+  Lee's 2023 block sums to $16,783.35 against a printed $1,172.69). Many
+  affected rows carry prior-fiscal-year service dates -- obligated
+  against the old year's authorization, listed but not counted toward
+  this period's net expenditure. 118sdoc13 (mid-fiscal-year) shows zero
+  Travel failures, which fits.
+
+In both classes the individual rows are faithful transcriptions of what
+the Senate printed; it's the source's category total that disagrees with
+its own itemization. When the pipeline's independent second-opinion
+re-sum confirms this (it matches the parsed rows, not the printed
+subtotal), the rows are published with
+`validation_status = source_mismatch` and the residual stays documented
+in `reconciliation_report.csv`. Sum such a category yourself and you'll
+match the rows, not necessarily the Senate's printed total -- cite
+accordingly.
 
 ### Known limitation: column positions are per-template constants
 

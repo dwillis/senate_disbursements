@@ -49,17 +49,75 @@ def test_personnel_comp_reconciles_against_salary_records():
     assert abs(comp_check.expected - comp_check.actual) < 0.01
 
 
-def test_net_payroll_expenses_checked_against_block_running_total():
+def test_net_payroll_expenses_includes_printed_lump_sums():
+    """Cotton's block: the printed NET PAYROLL figure = itemized salary
+    rows + the PERSONNEL BENEFITS lump-sum subtotal ($1,398.95, no
+    itemized rows by design). The rollup basis must include the printed
+    lump sums -- 830 of 868 historical rollup mismatches across the 7
+    reports were exactly the forgotten lump sums."""
     block = make_block([1000, 1001])
     result = parse_block(block)
     reconciled = reconcile_block(result)
 
     net_check = next(c for c in reconciled.checks if c.label == "NET PAYROLL EXPENSES")
     assert net_check.basis == "block_running_total"
-    # PERSONNEL BENEFITS ($1,398.95) has no itemized rows, so NET PAYROLL
-    # is short by exactly that amount -- a known, explainable gap, not a
-    # parsing bug (see records.PERSONNEL_ROLLUP_LABELS).
-    assert abs(net_check.expected - net_check.actual - 1398.95) < 0.01
+    assert net_check.status == "ok"
+    assert abs(net_check.expected - net_check.actual) <= 0.01
+
+
+def test_rollup_with_lump_sums_reconciles():
+    """Bennet-style (117sdoc8): itemized comp + a no-rows PERSONNEL
+    BENEFITS subtotal must together match the printed rollup."""
+    a = _rec("$1,788,121.78")
+    result = _fake_result(
+        [
+            ("record", a),
+            ("subtotal", _sub("PERSONNEL COMP. FULL-TIME PERMANENT", "$1,788,121.78")),
+            ("subtotal", _sub("PERSONNEL BENEFITS", "$206.00")),
+            ("subtotal", _sub("NET PAYROLL EXPENSES", "$1,788,327.78")),
+        ]
+    )
+    reconciled = reconcile_block(result)
+    rollup = next(c for c in reconciled.checks if c.basis == "block_running_total")
+    assert rollup.status == "ok"
+    assert a.validation_status == "ok"
+    assert reconciled.block_status == "ok"
+
+
+def test_rollup_residual_beyond_lump_sums_still_fails():
+    result = _fake_result(
+        [
+            ("record", _rec("$100.00")),
+            ("subtotal", _sub("PERSONNEL COMP. FULL-TIME PERMANENT", "$100.00")),
+            ("subtotal", _sub("PERSONNEL BENEFITS", "$206.00")),
+            ("subtotal", _sub("NET PAYROLL EXPENSES", "$500.00")),
+        ]
+    )
+    reconciled = reconcile_block(result)
+    rollup = next(c for c in reconciled.checks if c.basis == "block_running_total")
+    assert rollup.status == "fail"
+    assert rollup.actual == 306.0
+    # rollup basis never gates -- the itemized segment reconciled
+    assert reconciled.block_status == "ok"
+
+
+def test_lump_sum_label_with_records_is_not_double_counted():
+    """RE-EMPLOYED ANNUITANTS occasionally itemizes rows; those dollars
+    are already in the running total, so the printed subtotal must not be
+    added again."""
+    result = _fake_result(
+        [
+            ("record", _rec("$100.00")),
+            ("subtotal", _sub("PERSONNEL COMP. FULL-TIME PERMANENT", "$100.00")),
+            ("record", _rec("$50.00")),
+            ("subtotal", _sub("RE-EMPLOYED ANNUITANTS", "$50.00")),
+            ("subtotal", _sub("NET PAYROLL EXPENSES", "$150.00")),
+        ]
+    )
+    reconciled = reconcile_block(result)
+    rollup = next(c for c in reconciled.checks if c.basis == "block_running_total")
+    assert rollup.status == "ok"
+    assert rollup.actual == 150.0
 
 
 def test_lump_sum_category_with_no_records_is_not_a_failure():

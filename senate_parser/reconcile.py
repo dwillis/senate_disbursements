@@ -7,13 +7,13 @@ to that figure. A block where this doesn't hold gets quarantined instead
 of shipped, so an amount-attribution bug shows up as a reconciliation
 failure rather than silently wrong data.
 
-Some subtotals (see records.PERSONNEL_ROLLUP_LABELS) are lump-sum
-personnel budget figures with no itemized rows behind them, or are a
-rollup of the other personnel subtotals (NET PAYROLL EXPENSES =
-PERSONNEL COMP. FULL-TIME PERMANENT + PERSONNEL BENEFITS + ...). Those
-are checked against the block-wide running total (never reset) instead
-of the segment total, and an empty segment is not treated as a failure
--- there's nothing to itemize wrong.
+Some subtotals (see records.PERSONNEL_ROLLUP_LABELS) are a rollup of
+the other personnel subtotals (NET PAYROLL EXPENSES = PERSONNEL COMP.
+FULL-TIME PERMANENT + PERSONNEL BENEFITS + ...). Those are checked
+against the block-wide running total (never reset) plus the printed
+lump-sum subtotals that itemize no rows (records.LUMP_SUM_LABELS), and
+an empty segment is not treated as a failure -- there's nothing to
+itemize wrong.
 """
 
 import re
@@ -49,7 +49,12 @@ class SubtotalCheck:
     expected: float  # None for the synthetic trailing-coverage check
     actual: float
     status: str  # 'ok' / 'warn' / 'fail' / 'no_records' / 'zero_records' / 'unchecked'
-    basis: str  # 'segment' / 'block_running_total' / 'trailing'
+    basis: str  # 'segment' / 'block_running_total' / 'trailing' / 'banner'
+    top: float = 0.0  # subtotal row's vertical position (segment bound)
+    # Filled by second_opinion.py for failing segment checks:
+    # '' / 'source_mismatch' / 'parser_suspect' / 'inconclusive'
+    second_opinion: str = ""
+    independent_sum: float = None
 
 
 @dataclass
@@ -61,6 +66,9 @@ class ReconcileResult:
     dollars_checked: float = 0.0
     dollars_unchecked: float = 0.0
     amount_parse_failures: int = 0
+    # All itemized records + printed no-row lump sums: what the banner's
+    # ORGANIZATION TOTALS period figure should equal.
+    parsed_grand_total: float = 0.0
 
 
 def _status(diff: float) -> str:
@@ -75,6 +83,7 @@ def reconcile_block(result) -> ReconcileResult:
     checks = []
     segment_sum = 0.0
     block_sum = 0.0
+    lump_sum_total = 0.0  # printed lump-sum subtotals with no itemized rows
     segment_records = []  # (record, abs_dollars) accumulated since the last check
     records_total = 0
     records_checked = 0
@@ -111,15 +120,20 @@ def reconcile_block(result) -> ReconcileResult:
             continue
 
         if obj.label in PERSONNEL_ROLLUP_LABELS:
-            actual = block_sum
+            # The printed rollup includes lump-sum categories (PERSONNEL
+            # BENEFITS etc.) that print a subtotal but itemize no rows, so
+            # the basis is itemized records + those printed lump sums.
+            # Across the 7 processed reports, 830 of 868 historical rollup
+            # mismatches were the forgotten lump sums, to the penny.
+            actual = round(block_sum + lump_sum_total, 2)
             basis = "block_running_total"
             diff = abs(actual - expected)
             status = "no_records" if actual == 0.0 else _status(diff)
             # A rollup that reconciles has genuinely validated the records
             # (blocks whose ONLY subtotal is Net Payroll Expenses exist --
             # e.g. FEDERAL EMPLOYEES COMPENSATION ACCOUNT); one that
-            # mismatches usually just reflects its non-itemized lump-sum
-            # components, so those records are 'unchecked', not 'fail'.
+            # mismatches may still reflect source-side residuals, so those
+            # records are 'unchecked', not 'fail'.
             tag_segment("ok" if status == "ok" else "unchecked", obj.label, checked=status == "ok")
         else:
             actual = segment_sum
@@ -132,12 +146,22 @@ def reconcile_block(result) -> ReconcileResult:
                 # lump-summed adjustments, see records.LUMP_SUM_LABELS),
                 # but distinct so a row-loss regression is countable.
                 status = "no_records" if obj.label in LUMP_SUM_LABELS else "zero_records"
+                if status == "no_records":
+                    lump_sum_total += expected
             else:
                 status = _status(diff)
             tag_segment(status, obj.label, checked=True)
 
         checks.append(
-            SubtotalCheck(label=obj.label, page=obj.page, expected=expected, actual=actual, status=status, basis=basis)
+            SubtotalCheck(
+                label=obj.label,
+                page=obj.page,
+                expected=expected,
+                actual=actual,
+                status=status,
+                basis=basis,
+                top=getattr(obj, "top", 0.0),
+            )
         )
         segment_sum = 0.0
 
@@ -183,4 +207,30 @@ def reconcile_block(result) -> ReconcileResult:
         dollars_checked=round(dollars_checked, 2),
         dollars_unchecked=round(dollars_unchecked, 2),
         amount_parse_failures=amount_parse_failures,
+        parsed_grand_total=round(block_sum + lump_sum_total, 2),
     )
+
+
+def banner_checks(summary, reconciled: ReconcileResult, page: int) -> list:
+    """Advisory two-source checks against the banner summary table (see
+    segment.parse_banner_summary). Banner figures print negated (they're
+    expenditures against the authorization), so compare magnitudes.
+    Never gates: block_status only considers basis='segment' checks."""
+    rollup = next((c for c in reconciled.checks if c.basis == "block_running_total"), None)
+    out = []
+    for label, banner_value, body_value in (
+        ("BANNER NET PAYROLL", summary.net_payroll, rollup.expected if rollup else None),
+        ("BANNER ORGANIZATION TOTALS", summary.organization_totals, reconciled.parsed_grand_total),
+    ):
+        if banner_value is None or body_value is None:
+            status = "banner_missing"
+            expected = banner_value if banner_value is None else abs(banner_value)
+            actual = 0.0 if body_value is None else abs(body_value)
+        else:
+            expected = abs(banner_value)
+            actual = abs(body_value)
+            status = _status(abs(expected - actual))
+        out.append(
+            SubtotalCheck(label=label, page=page, expected=expected, actual=actual, status=status, basis="banner")
+        )
+    return out
