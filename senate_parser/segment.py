@@ -87,8 +87,23 @@ def _header_document_x0(rows: list) -> Optional[float]:
 
 
 def _left_margin_text(row: Row, left_margin_x0: float) -> str:
-    words = [w for w in row.words if abs(w.x0 - left_margin_x0) < LEFT_MARGIN_TOL]
-    return " ".join(w.text for w in sorted(words, key=lambda w: w.x0))
+    """Text of the office/account column: words anchored at the left
+    margin, plus immediately adjacent continuations. Word extraction
+    occasionally splits a line mid-word ("SENA"+"TOR ...", "Fund"+"ing
+    Year" -- both observed on 114sdoc13), so a word that starts within a
+    few points of the previous word's right edge is glued on; banner-table
+    labels sit far to the right and never qualify."""
+    ordered = sorted(row.words, key=lambda w: w.x0)
+    out = []
+    last_x1 = None
+    for w in ordered:
+        if abs(w.x0 - left_margin_x0) < LEFT_MARGIN_TOL:
+            out.append(w)
+            last_x1 = w.x1
+        elif out and last_x1 is not None and 0 <= w.x0 - last_x1 <= 3.0:
+            out.append(w)
+            last_x1 = w.x1
+    return " ".join(w.text for w in out)
 
 
 def parse_banner(rows: list, page_num: int) -> BlockHeader:
@@ -99,11 +114,32 @@ def parse_banner(rows: list, page_num: int) -> BlockHeader:
         if doc_header_x0 is not None
         else LEFT_MARGIN_FALLBACK_X0
     )
-    left_rows = [
-        r
-        for r in sorted(rows, key=lambda r: r.top)
-        if r.top < header_top and _left_margin_text(r, left_margin_x0)
-    ]
+
+    def collect(margin_x0):
+        return [
+            r
+            for r in sorted(rows, key=lambda r: r.top)
+            if r.top < header_top and _left_margin_text(r, margin_x0)
+        ]
+
+    left_rows = collect(left_margin_x0)
+    if not left_rows:
+        # Old-template (112th-114th) banners put the office margin ~21.5pt
+        # left of DOCUMENT NO. instead of ~11.5. Rather than a second
+        # hardcoded offset, self-calibrate: the office column is the
+        # leftmost text above the header (banner-table labels start far
+        # right of it). Only reached when the modern offset finds nothing,
+        # so modern reports are unaffected.
+        candidates = [
+            w.x0
+            for r in rows
+            if r.top < header_top
+            for w in r.words
+            if doc_header_x0 is None or w.x0 < doc_header_x0 + 60
+        ]
+        if candidates:
+            left_margin_x0 = min(candidates)
+            left_rows = collect(left_margin_x0)
 
     funding_year = None
     office_parts: list = []
@@ -117,9 +153,17 @@ def parse_banner(rows: list, page_num: int) -> BlockHeader:
         # the left-margin band entirely -- so search the row's full text,
         # not just its left-margin-filtered slice.
         full_row_text = " ".join(w.text for w in sorted(r.words, key=lambda w: w.x0))
-        m = FUNDING_YEAR_RE.search(full_row_text)
+        # Word extraction can split mid-word ("Fund" + "ing Year",
+        # 114sdoc13 p211), so also match with all spaces squashed; and
+        # the printed year itself is occasionally garbled ("1618"), so
+        # keep the row recognized (office/account split intact) but drop
+        # an implausible year rather than shipping it.
+        m = FUNDING_YEAR_RE.search(full_row_text) or re.search(
+            r"FundingYear(\d{4})", full_row_text.replace(" ", "")
+        )
         if m:
-            funding_year = int(m.group(1))
+            year = int(m.group(1))
+            funding_year = year if 1990 <= year <= 2100 else None
             seen_funding_year = True
             continue
         (account_parts if seen_funding_year else office_parts).append(text)

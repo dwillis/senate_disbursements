@@ -13,11 +13,12 @@ rows publish tagged 'source_mismatch' instead of being quarantined.
 import csv
 import json
 import os
+import re
 
 from .assemble import CSV_COLUMNS, block_rows, match_senator
 from .audit import audit_rows, build_manifest
 from .extract import iter_pages
-from .records import parse_block
+from .records import PERSONNEL_ROLLUP_LABELS, parse_block
 from .reconcile import banner_checks, reconcile_block
 from .second_opinion import apply_second_opinion
 from .segment import parse_banner_summary, segment_blocks
@@ -50,8 +51,17 @@ def run(
     last=None,
     page_offset: int = 0,
     bioguide_matcher=None,
+    template: str = None,
 ) -> dict:
     os.makedirs(out_dir, exist_ok=True)
+
+    # 112th-114th Congress reports use an older table generator with
+    # different relative column geometry (see records.ANCHOR_HEADER_WORDS);
+    # derive the calibration mode from the congress number unless the
+    # caller overrides it.
+    if template is None:
+        m = re.match(r"(\d{3})sdoc", source_doc)
+        template = "anchor" if m and int(m.group(1)) <= 114 else "modern"
 
     cleaned_rows = []
     quarantine_rows = []
@@ -62,17 +72,18 @@ def run(
     unmatched_senator_rows = []
     senator_rows_total = 0
     senator_rows_matched = 0
+    processed = []
 
     blocks = segment_blocks(iter_pages(pdf_path, first, last))
     for block in blocks:
-        result = parse_block(block)
-        reconciled = reconcile_block(result)
+        result = parse_block(block, template=template)
+        reconciled = reconcile_block(result, template=template)
 
         # Failing segments get an independent amount-column re-sum; when it
         # confirms the parser against the printed subtotal, the segment's
         # records are retagged 'source_mismatch' and publish (must happen
         # before block_rows copies statuses into CSV rows).
-        for item in apply_second_opinion(block, result, reconciled):
+        for item in apply_second_opinion(block, result, reconciled, template=template):
             second_opinion_audit_rows.append(
                 {
                     "reason": item["reason"],
@@ -94,6 +105,34 @@ def run(
         banner_severity = {"ok": 0, "banner_missing": 1, "warn": 2, "fail": 3}
         banner_status = max((c.status for c in banner), key=lambda s: banner_severity[s])
 
+        processed.append((block, result, reconciled, banner_status))
+
+    # Cross-year release: this era books payroll adjustments against one
+    # funding year while itemizing the rows in a sibling year's roster
+    # (verified: Cantwell's FY2015 block prints OTHER PERSONNEL
+    # COMPENSATION 102,388.98 with no rows, and her FY2016 roster exceeds
+    # its own printed NET by exactly that amount). When an office's
+    # failing NET PAYROLL residuals cancel out across its blocks, the
+    # rows are faithful transcriptions of a source-side cross-year
+    # attribution -- release them like any other source_mismatch,
+    # recording the distinct 'cross_year' verdict.
+    net_fails_by_office = {}
+    for block, result, reconciled, _ in processed:
+        for check in reconciled.checks:
+            if check.basis == "segment" and check.status == "fail" and check.label in PERSONNEL_ROLLUP_LABELS:
+                net_fails_by_office.setdefault(block.header.office, []).append((result, check))
+    for office, items in net_fails_by_office.items():
+        if len(items) < 2:
+            continue
+        if abs(sum(c.actual - c.expected for _, c in items)) > 1.00:
+            continue
+        for result, check in items:
+            check.second_opinion = "cross_year"
+            for rec in result.records:
+                if rec.validation_status == "fail" and rec.category == check.label:
+                    rec.validation_status = "source_mismatch"
+
+    for block, result, reconciled, banner_status in processed:
         for check in reconciled.checks:
             reconciliation_rows.append(
                 {

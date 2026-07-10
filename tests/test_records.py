@@ -205,3 +205,17 @@ def test_rotated_page_label_does_not_swallow_adjacent_employee():
     hemingway = find(salary, "HEMINGWAY")
     assert hemingway.amount == "$110,949.96"
     assert hemingway.payee != broxmeyer.payee
+
+
+def test_wrapped_payee_with_doc_number_on_second_row_stays_one_record():
+    """118sdoc13 p341 (DSEC23M50419): the payee wraps onto a second visual
+    row and the document number prints on the SECOND row of the group.
+    The doc-number group-split rule (one doc number per record) must not
+    sever it -- splitting mangles the payee to 'INC.' and emits a spurious
+    amount-less fragment."""
+    rows = cluster_rows(load("341"))
+    block = Block(header=BlockHeader("X", 2024, "X", 341), pages=[341], rows_by_page={341: rows})
+    result = parse_block(block)
+    rec = next(r for r in result.records if r.document_number == "DSEC23M50419")
+    assert rec.payee == "GOVERNMENT RETIREMENT & BENEFITS, INC."
+    assert rec.amount == "$27,484.00"

@@ -24,7 +24,13 @@ parser on pages needing the classifier's special cases (glued amounts,
 duplicate previews), which safely degrades to 'inconclusive'.
 """
 
-from .records import _is_page_label_row, _is_subtotal_label, calibrate_columns
+from .records import (
+    LUMP_SUM_LABELS,
+    PAYROLL_ITEMIZED_LABELS,
+    _is_page_label_row,
+    _is_subtotal_label,
+    calibrate_columns,
+)
 from .reconcile import OK_TOLERANCE, parse_amount
 from .segment import header_row_top
 
@@ -34,7 +40,7 @@ PARSER_SUSPECT = "parser_suspect"
 INCONCLUSIVE = "inconclusive"
 
 
-def _independent_segment_sum(block, start_pos, end_pos):
+def _independent_segment_sum(block, start_pos, end_pos, template="modern"):
     """Sum amount-column tokens for data rows strictly between two
     (page, top) positions. Returns (sum, ok) -- ok is False when a page
     in range has no recognizable header (both this pass and the parser
@@ -44,7 +50,7 @@ def _independent_segment_sum(block, start_pos, end_pos):
         if page_num < start_pos[0] or page_num > end_pos[0]:
             continue
         rows = block.rows_by_page[page_num]
-        cols = calibrate_columns(rows)
+        cols = calibrate_columns(rows, template=template)
         if cols is None:
             return 0.0, False
         header_top = header_row_top(rows)
@@ -67,13 +73,23 @@ def _independent_segment_sum(block, start_pos, end_pos):
     return round(total, 2), True
 
 
-def apply_second_opinion(block, result, reconciled) -> list:
+def apply_second_opinion(block, result, reconciled, template="modern") -> list:
     """Re-check every failing segment in a reconciled block. Mutates the
     failing SubtotalChecks (verdict + independent sum) and, on a
     'source_mismatch' verdict, retags that segment's records so they
     publish. Returns audit-entry dicts for 'parser_suspect' verdicts."""
     audit_items = []
-    subtotal_positions = sorted((s.page, s.top) for s in result.subtotals)
+    # In the old-template typed mode, payroll component lines don't close
+    # segments (reconcile._reconcile_block_typed), so they aren't segment
+    # boundaries either.
+    if template == "anchor":
+        boundary_subs = [
+            s for s in result.subtotals
+            if s.label not in LUMP_SUM_LABELS and s.label not in PAYROLL_ITEMIZED_LABELS
+        ]
+    else:
+        boundary_subs = result.subtotals
+    subtotal_positions = sorted((s.page, s.top) for s in boundary_subs)
 
     for check in reconciled.checks:
         if check.basis != "segment" or check.status != "fail":
@@ -83,7 +99,7 @@ def apply_second_opinion(block, result, reconciled) -> list:
         earlier = [p for p in subtotal_positions if p < end_pos]
         start_pos = earlier[-1] if earlier else (min(block.pages), -1.0)
 
-        independent, readable = _independent_segment_sum(block, start_pos, end_pos)
+        independent, readable = _independent_segment_sum(block, start_pos, end_pos, template=template)
         if not readable:
             check.second_opinion = INCONCLUSIVE
             continue

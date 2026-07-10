@@ -1,0 +1,22 @@
+{
+  "source_doc": "114sdoc13",
+  "pdf_path": "data/114_sdoc13/GPO-CDOC-114sdoc13.pdf",
+  "pdf_sha256": "da9a472f6d7cf46e08cbc58bb15cf5267358c2bda331891cf8a60d04524e7b7e",
+  "page_range": [
+    10,
+    2271
+  ],
+  "page_offset": 0,
+  "parser_git_commit": "0eec2174e75d156de3b57d4cfb4cad3182c4aa78",
+  "generated_at": "2026-07-10T01:00:47.250022+00:00",
+  "tolerances": {
+    "ok": 0.01,
+    "warn": 1.0
+  },
+  "blocks": 763,
+  "records_published": 52427,
+  "records_quarantined": 930,
+  "unparsed": 22,
+  "bioguide_match_rate": 0.9766553968582534,
+  "audit_violations": 81
+}

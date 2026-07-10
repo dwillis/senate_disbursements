@@ -19,7 +19,7 @@ itemize wrong.
 import re
 from dataclasses import dataclass
 
-from .records import LUMP_SUM_LABELS, PERSONNEL_ROLLUP_LABELS
+from .records import LUMP_SUM_LABELS, PAYROLL_ITEMIZED_LABELS, PERSONNEL_ROLLUP_LABELS
 
 OK_TOLERANCE = 0.01
 WARN_TOLERANCE = 1.00
@@ -79,7 +79,9 @@ def _status(diff: float) -> str:
     return "fail"
 
 
-def reconcile_block(result) -> ReconcileResult:
+def reconcile_block(result, template: str = "modern") -> ReconcileResult:
+    if template == "anchor":
+        return _reconcile_block_typed(result)
     checks = []
     segment_sum = 0.0
     block_sum = 0.0
@@ -211,12 +213,152 @@ def reconcile_block(result) -> ReconcileResult:
     )
 
 
+def _reconcile_block_typed(result) -> ReconcileResult:
+    """Old-template (112th-114th) reconciliation. That era differs from
+    the modern one in two verified ways: all of a block's subtotals print
+    at the END of the listing rather than inline after each category
+    (JUDICIARY, 114sdoc13 p2221-2226: TRAVEL's subtotal prints before the
+    payroll ones), and the payroll category lines (PERSONNEL COMP / OTHER
+    PERSONNEL COMPENSATION / ...) *partition* the roster's total rather
+    than covering distinct row runs -- OPC dollars are itemized inside
+    the roster itself (verified: three blocks whose PERSONNEL COMP
+    mismatch equals the printed OPC to the penny). Individual roster rows
+    can't be attributed to one payroll category, but the roster's sum is
+    fully checkable against NET PAYROLL EXPENSES.
+
+    So: records accumulate per record_type; expense-category subtotals
+    close the expense stream; NET PAYROLL EXPENSES closes the salary
+    stream as its true segment check; the payroll category lines are
+    recorded as non-gating 'component' checks.
+
+    Which components are itemized vs lump-sum is verified penny-exact on
+    real blocks (Enzi and Inhofe FY2016): the roster sums to PERSONNEL
+    COMP + OTHER PERSONNEL COMPENSATION exactly, and the shortfall
+    against NET equals RE-EMPLOYED ANNUITANTS + PERSONNEL BENEFITS
+    exactly -- so PC/OPC/WAE partition the roster while the benefit
+    categories are true lump sums added into the NET expectation."""
+    # Itemized inside the roster (partition its total; add nothing):
+    partition_labels = PAYROLL_ITEMIZED_LABELS | {"OTHER PERSONNEL COMPENSATION"}
+    # True lump sums (no rows; counted by NET on top of the roster):
+    lump_at_net = LUMP_SUM_LABELS - {"OTHER PERSONNEL COMPENSATION"}
+    checks = []
+    sums = {"salary": 0.0, "expense": 0.0}
+    buffers = {"salary": [], "expense": []}
+    block_sum = 0.0
+    lump_sum_total = 0.0
+    all_lump_sums = 0.0
+    records_total = 0
+    records_checked = 0
+    dollars_checked = 0.0
+    dollars_unchecked = 0.0
+    amount_parse_failures = 0
+
+    def tag(buffer, status: str, label: str, checked: bool):
+        nonlocal records_checked, dollars_checked, dollars_unchecked
+        for rec, dollars in buffer:
+            rec.validation_status = status
+            rec.category = label
+            if checked:
+                records_checked += 1
+                dollars_checked += dollars
+            else:
+                dollars_unchecked += dollars
+        buffer.clear()
+
+    for event_type, obj in result.events:
+        if event_type == "record":
+            records_total += 1
+            kind = "salary" if obj.record_type == "salary" else "expense"
+            amt = parse_amount(obj.amount)
+            if amt is not None:
+                sums[kind] += amt
+                block_sum += amt
+            elif obj.amount:
+                amount_parse_failures += 1
+            buffers[kind].append((obj, abs(amt) if amt is not None else 0.0))
+            continue
+
+        expected = parse_amount(obj.amount)
+        if expected is None:
+            continue
+
+        top = getattr(obj, "top", 0.0)
+        if obj.label in partition_labels or obj.label in lump_at_net:
+            # A slice of the payroll pie, not a row-run boundary; the
+            # roster validates as a whole against NET PAYROLL EXPENSES.
+            if obj.label in lump_at_net:
+                lump_sum_total += expected
+                all_lump_sums += expected
+            checks.append(
+                SubtotalCheck(label=obj.label, page=obj.page, expected=expected,
+                              actual=0.0, status="component", basis="payroll_component", top=top)
+            )
+            continue
+
+        if obj.label in PERSONNEL_ROLLUP_LABELS:
+            kind = "salary"
+            actual = round(sums[kind] + lump_sum_total, 2)
+            lump_sum_total = 0.0
+        else:
+            kind = "expense"
+            actual = round(sums[kind], 2)
+        diff = abs(actual - expected)
+        if actual == 0.0 and not buffers[kind]:
+            status = "zero_records"
+        else:
+            status = _status(diff)
+        tag(buffers[kind], status, obj.label, checked=True)
+        checks.append(
+            SubtotalCheck(label=obj.label, page=obj.page, expected=expected,
+                          actual=actual, status=status, basis="segment", top=top)
+        )
+        sums[kind] = 0.0
+
+    leftovers = buffers["salary"] + buffers["expense"]
+    if leftovers:
+        checks.append(
+            SubtotalCheck(
+                label="(after final subtotal)",
+                page=leftovers[-1][0].page,
+                expected=None,
+                actual=round(sums["salary"] + sums["expense"], 2),
+                status="unchecked",
+                basis="trailing",
+            )
+        )
+        tag(buffers["salary"], "unchecked", "", checked=False)
+        tag(buffers["expense"], "unchecked", "", checked=False)
+
+    severity = {"ok": 0, "no_records": 0, "zero_records": 0, "warn": 1, "fail": 2}
+    segment_statuses = [severity[c.status] for c in checks if c.basis == "segment"]
+    if segment_statuses:
+        block_status = {0: "ok", 1: "warn", 2: "fail"}[max(segment_statuses)]
+    elif records_total == 0:
+        block_status = "ok"
+    else:
+        block_status = "unchecked"
+
+    return ReconcileResult(
+        checks=checks,
+        block_status=block_status,
+        records_total=records_total,
+        records_checked=records_checked,
+        dollars_checked=round(dollars_checked, 2),
+        dollars_unchecked=round(dollars_unchecked, 2),
+        amount_parse_failures=amount_parse_failures,
+        parsed_grand_total=round(block_sum + all_lump_sums, 2),
+    )
+
+
 def banner_checks(summary, reconciled: ReconcileResult, page: int) -> list:
     """Advisory two-source checks against the banner summary table (see
     segment.parse_banner_summary). Banner figures print negated (they're
     expenditures against the authorization), so compare magnitudes.
     Never gates: block_status only considers basis='segment' checks."""
-    rollup = next((c for c in reconciled.checks if c.basis == "block_running_total"), None)
+    # The printed NET PAYROLL figure lives on a block_running_total check
+    # on the modern template and on a segment check in the old-template
+    # typed mode -- match by label, not basis.
+    rollup = next((c for c in reconciled.checks if c.label in PERSONNEL_ROLLUP_LABELS), None)
     out = []
     for label, banner_value, body_value in (
         ("BANNER NET PAYROLL", summary.net_payroll, rollup.expected if rollup else None),

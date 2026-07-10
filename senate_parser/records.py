@@ -121,6 +121,20 @@ LUMP_SUM_LABELS = {
     "BENEFITS FOR NON SENATE/FORMER PERSONNEL",
 }
 
+# Subtotal labels that cover itemized *salary* records. Used by the old
+# (112th-114th) template's type-aware reconciliation: that era prints all
+# of a block's subtotals at the END of the listing (verified: JUDICIARY,
+# 114sdoc13 p2221-2226 -- the TRAVEL subtotal prints before the payroll
+# ones), and prints lump-sum lines BEFORE the roster's covering subtotal
+# (verified: APPROPRIATIONS p57-59, where roster 6,697,710.29 + OTHER
+# PERSONNEL COMPENSATION 2,353.84 equals NET PAYROLL 6,700,064.13 to the
+# penny). Position-based "records since the last subtotal" misattributes
+# whole rosters there; record type + label class is the reliable signal.
+PAYROLL_ITEMIZED_LABELS = {
+    "PERSONNEL COMP. FULL-TIME PERMANENT",
+    "WHEN ACTUALLY EMPLOYED (WAE)",
+}
+
 # Column boundaries are computed per-page, anchored on that page's own
 # DESCRIPTION header position, rather than fixed absolute x-coordinates.
 # Header labels are wide/centered headings that do NOT line up with their
@@ -151,6 +165,23 @@ COLUMN_DELTAS_FROM_DESCRIPTION_DATA = {
     "amount_left": 180.5,
     "amount_right": 250.5,  # excludes the rotated "B-###" page-label column
 }
+
+# 112th-114th Congress reports use an older table generator whose
+# *relative* column geometry differs from the modern one (e.g. AMOUNT sits
+# 133pt right of DESCRIPTION vs 121-124 on modern reports), and a single
+# document mixes two header layouts (committee pages shift PAYEE/
+# DESCRIPTION further right). Fixed deltas from one anchor can't fit
+# both, so this era derives every boundary from that page's own seven
+# header words instead. The header-to-data offsets below are stable
+# across all three 114th reports (measured on 100+ sampled pages each:
+# payee data starts 34.5-34.8pt left of "PAYEE NAME" on every one), and
+# each boundary is that offset plus a small margin. Reconciliation
+# remains the backstop.
+ANCHOR_HEADER_WORDS = ("DOCUMENT NO.", "DATE", "PAYEE NAME", "START", "END", "DESCRIPTION", "AMOUNT ($)")
+# Vertical window around the DOCUMENT NO. row that contains the full
+# header: DESCRIPTION/OBLIGATION sit ~1.4pt above it on most old pages,
+# START/END ~15pt below.
+ANCHOR_HEADER_WINDOW = 16.0
 
 
 @dataclass
@@ -205,11 +236,13 @@ class BlockParseResult:
     events: list = field(default_factory=list)
 
 
-def calibrate_columns(rows: list) -> Optional[ColumnMap]:
+def calibrate_columns(rows: list, template: str = "modern") -> Optional[ColumnMap]:
     """Confirm this page has the expected header block and derive the
     column layout from this page's own header row. Returns None if the
     page doesn't look like a normal data page (used to flag anomalies
     rather than guess)."""
+    if template == "anchor":
+        return _calibrate_from_anchors(rows)
     header = next((r for r in rows if any("DOCUMENT NO." in w.text for w in r.words)), None)
     if header is None:
         return None
@@ -238,6 +271,49 @@ def calibrate_columns(rows: list) -> Optional[ColumnMap]:
     )
 
 
+def _calibrate_from_anchors(rows: list) -> Optional[ColumnMap]:
+    """Old-template (112th-114th) calibration: build every column
+    boundary from this page's own header anchors plus the measured
+    header-to-data offsets (see ANCHOR_HEADER_WORDS comment)."""
+    doc_row = next((r for r in rows if any("DOCUMENT NO." in w.text for w in r.words)), None)
+    if doc_row is None:
+        return None
+    anchors = {}
+    for r in rows:
+        if abs(r.top - doc_row.top) <= ANCHOR_HEADER_WINDOW:
+            for w in r.words:
+                if w.text in ANCHOR_HEADER_WORDS and w.text not in anchors:
+                    anchors[w.text] = w.x0
+    if len(anchors) != len(ANCHOR_HEADER_WORDS):
+        return None
+
+    date_x0 = anchors["DATE"]
+    payee_x0 = anchors["PAYEE NAME"]
+    start_x0 = anchors["START"]
+    end_x0 = anchors["END"]
+    amount_x0 = anchors["AMOUNT ($)"]
+    # Committee pages use a second, wider header layout (DESCRIPTION sits
+    # ~417pt right of DOCUMENT NO. vs ~365 on regular pages) whose payee
+    # data starts 61pt left of its header (vs 34.5) -- without this, the
+    # roster's payees fall in the date column, the rows classify as
+    # expense sublines, and whole committee rosters land in the TRAVEL
+    # segment (verified: JUDICIARY, 114sdoc13 p2221-2226).
+    payee_offset = -63.0 if (anchors["DESCRIPTION"] - anchors["DOCUMENT NO."]) > 385 else -36.0
+    return ColumnMap(
+        document=(0.0, date_x0 - 6.0),  # date data starts at -4.8
+        date_posted=(date_x0 - 6.0, payee_x0 + payee_offset),  # payee data at -34.5 / -61
+        payee=(payee_x0 + payee_offset, start_x0 - 5.0),  # start data at -2.5
+        start_date=(start_x0 - 5.0, end_x0 - 8.0),  # end data at -5.6
+        end_date=(end_x0 - 8.0, end_x0 + 22.0),  # desc data at ~+25
+        description=(end_x0 + 22.0, amount_x0 - 24.0),  # widest amounts reach -20
+        # Right-aligned amounts end by +33 on every measured page; the
+        # rotated "B-###" page-label characters start at +50..+57 -- the
+        # boundary must fall between or the label chars pollute the amount
+        # column (1,320 orphan amounts on the first 114sdoc13 run).
+        amount=(amount_x0 - 24.0, amount_x0 + 42.0),
+    )
+
+
 def _is_page_label_row(row: Row, amount_right: float) -> bool:
     """True for rows made up only of the rotated "B-###" marginal page
     label (individual characters, one per visual row, just right of the
@@ -248,8 +324,18 @@ def _is_page_label_row(row: Row, amount_right: float) -> bool:
     employees into one record, silently dropping one's amount (verified:
     page 123, a lone '-' character between BROXMEYER's and HEMINGWAY's
     rows merged both into a single group and dropped HEMINGWAY's
-    $110,949.96)."""
-    return bool(row.words) and all(w.x0 >= amount_right for w in row.words)
+    $110,949.96).
+
+    114sdoc4 additionally prints the label a second time as one
+    unrotated word ("B -1") sitting INSIDE the amount column -- caught by
+    the text-shape test (2,050 orphan amounts on its first run)."""
+    if not row.words:
+        return False
+    if all(w.x0 >= amount_right for w in row.words):
+        return True
+    joined = " ".join(w.text for w in row.words)
+    # page numbers >= 1,000 print with a thousands comma ("B -1,000")
+    return bool(re.fullmatch(r"[A-Z]\s?-\s?\d{1,3}(,\d{3})*", joined.strip()))
 
 
 def _group_rows(data_rows: list, tight_gap: float = TIGHT_GROUP_GAP) -> list:
@@ -264,13 +350,54 @@ def _group_rows(data_rows: list, tight_gap: float = TIGHT_GROUP_GAP) -> list:
     return groups
 
 
+def _split_groups_on_document_numbers(groups: list, cols: ColumnMap) -> list:
+    """A record has at most ONE document number, so a group containing a
+    second doc-numbered row is two records merged by tight vertical
+    spacing (verified: 114sdoc4 p1915 prints consecutive $30.00 bank-fee
+    rows only ~4.7pt apart, inside any workable tight-group gap --
+    spacing alone merges them and silently drops the second amount).
+    Split at the second doc number, not the first: wrapped-payee records
+    legitimately print their doc number on the group's SECOND visual row
+    (verified: DSEC23M50419 on 118sdoc13 p341), and those must stay
+    whole."""
+    out = []
+    for group in groups:
+        current = []
+        current_has_doc = False
+        for r in group:
+            has_doc = any(DOC_NUMBER_RE.match(w.text) for w in r.words_in(*cols.document))
+            if has_doc and current_has_doc:
+                out.append(current)
+                current = [r]
+            else:
+                current.append(r)
+                current_has_doc = current_has_doc or has_doc
+        out.append(current)
+    return out
+
+
 def _joined_text_in(group: list, x0: float, x1: float) -> str:
     return " ".join(t for t in (r.text_in(x0, x1) for r in group) if t).strip()
 
 
-def _is_subtotal_label(text: str) -> bool:
+# Word extraction occasionally splits a label mid-word at a column-ish
+# position ("TRAVEL AND TRANSP" + "ORTATION OF PERSONS", 114sdoc13
+# p1011) -- match space-squashed and recover the canonical spelling, or
+# the subtotal line is misread as an expense record and its amount both
+# double-counts and loses the segment boundary.
+_SQUASHED_SUBTOTAL_LABELS = {lbl.replace(" ", ""): lbl for lbl in SUBTOTAL_LABELS}
+
+
+def _subtotal_label_of(text: str):
+    """The canonical SUBTOTAL_LABELS entry for this row text, or None."""
     normalized = re.sub(r"\s+", " ", text.strip().upper())
-    return normalized in SUBTOTAL_LABELS
+    if normalized in SUBTOTAL_LABELS:
+        return normalized
+    return _SQUASHED_SUBTOTAL_LABELS.get(normalized.replace(" ", ""))
+
+
+def _is_subtotal_label(text: str) -> bool:
+    return _subtotal_label_of(text) is not None
 
 
 def classify_group(group: list, cols: ColumnMap) -> tuple:
@@ -305,7 +432,9 @@ def classify_group(group: list, cols: ColumnMap) -> tuple:
         return "expense_header", fields
     if has_payee:
         return "salary", fields
-    if _is_subtotal_label(wide_text) and has_amount:
+    canonical_label = _subtotal_label_of(wide_text)
+    if canonical_label and has_amount:
+        fields["subtotal_label"] = canonical_label
         return "subtotal", fields
     if has_amount and (desc_text or wide_text):
         return "expense_subline", fields
@@ -316,7 +445,41 @@ def classify_group(group: list, cols: ColumnMap) -> tuple:
     return "noise", fields
 
 
-def parse_block(block: Block) -> BlockParseResult:
+def _split_groups_on_second_amount(groups: list, cols: ColumnMap) -> list:
+    """A record has at most ONE amount, so a group containing a second
+    amount-bearing row is two records merged by tight vertical spacing.
+    Old-template multi-line expense entries print several dollar-bearing
+    sublines (STAFF PER DIEM, STAFF TRANSPORTATION, ...) under one
+    document number -- the same pattern modern reports use too (e.g. one
+    DOSS... document number covering INCIDENTALS/PER DIEM/TRANSPORTATION
+    lines), but spaced ~3.7-5pt apart here, tight enough to fall inside
+    TIGHT_GROUP_GAP where modern reports' looser spacing keeps each
+    subline its own group. classify_group's "first amount in the group"
+    then silently drops every later one (verified: 114sdoc4 -- three
+    segments each off by exactly one dropped STAFF TRANSPORTATION line:
+    $150.61, $103.14, $339.82, each merged with the preceding STAFF PER
+    DIEM row under the same document number). Splitting before the
+    second amount-bearing row lets it fall through classify_group as its
+    own expense_subline, inheriting doc context exactly the way modern
+    reports' already-separate sublines do."""
+    out = []
+    for group in groups:
+        current = []
+        current_has_amount = False
+        for r in group:
+            has_amount = bool(r.text_in(*cols.amount))
+            if has_amount and current_has_amount:
+                out.append(current)
+                current = [r]
+                current_has_amount = True
+            else:
+                current.append(r)
+                current_has_amount = current_has_amount or has_amount
+        out.append(current)
+    return out
+
+
+def parse_block(block: Block, template: str = "modern") -> BlockParseResult:
     result = BlockParseResult()
     context = {"document_number": "", "date_posted": "", "payee": "", "start_date": "", "end_date": ""}
     last_record: Optional[Record] = None
@@ -324,7 +487,7 @@ def parse_block(block: Block) -> BlockParseResult:
     for page_num in sorted(block.pages):
         rows = block.rows_by_page[page_num]
         header_top = header_row_top(rows)
-        cols = calibrate_columns(rows)
+        cols = calibrate_columns(rows, template=template)
         if cols is None:
             result.unparsed.append({"page": page_num, "reason": "no_header"})
             continue
@@ -334,7 +497,8 @@ def parse_block(block: Block) -> BlockParseResult:
             for r in sorted(rows, key=lambda r: r.top)
             if r.top > header_top + 20 and not _is_page_label_row(r, cols.amount[1])
         ]
-        for group in _group_rows(data_rows):
+        groups = _split_groups_on_second_amount(_split_groups_on_document_numbers(_group_rows(data_rows), cols), cols)
+        for group in groups:
             role, fields = classify_group(group, cols)
 
             if role == "expense_header":
@@ -355,7 +519,7 @@ def parse_block(block: Block) -> BlockParseResult:
                 result.events.append(("record", rec))
                 last_record = rec
             elif role == "subtotal":
-                label = re.sub(r"\s+", " ", fields["description"].strip().upper())
+                label = fields.get("subtotal_label") or re.sub(r"\s+", " ", fields["description"].strip().upper())
                 sub = Subtotal(label=label, amount=fields["amount"], page=page_num, top=group[0].top)
                 result.subtotals.append(sub)
                 result.events.append(("subtotal", sub))

@@ -62,7 +62,15 @@ from senate_parser.segment import header_row_top
 # test module across the two entrypoints is more coupling than it's
 # worth for a static table. Keep in sync with that file if a new report
 # is added.
+#
+# The 112th-114th era ships as a single PDF (no volume split, suffix
+# "") with reference_page == raw_page directly -- confirmed by the total
+# page count (pypdfium2) matching pipeline.run's `last` exactly for all
+# three, i.e. page_offset=0 was used in production.
 REPORTS = {
+    "114sdoc4": [("", 2084)],
+    "114sdoc7": [("", 2266)],
+    "114sdoc13": [("", 2271)],
     "117sdoc8": [("-1", 1040), ("-2", 1198)],
     "118sdoc2": [("-1", 1291), ("-2", 1348)],
     "118sdoc11": [("-1", 1387), ("-2", 1278)],
@@ -71,6 +79,19 @@ REPORTS = {
     "119sdoc5": [("-1", 1476), ("-2", 1542)],
     "119sdoc6": [("-1", 1259), ("-2", 1264)],
 }
+
+# Reports parsed with senate_parser.records's old-template ("anchor")
+# column calibration (see records.ANCHOR_HEADER_WORDS) -- everything
+# 114th Congress and earlier. Mirrors pipeline.run's own auto-detection
+# (congress number <= 114) so this script stays in sync automatically as
+# older reports are added.
+OLD_TEMPLATE_REPORTS = {r for r in REPORTS if re.match(r"(\d{3})sdoc", r) and int(r[:3]) <= 114}
+
+# data/<report>/ directories for 112th-114th reports carry an underscore
+# the report id itself doesn't (data/114_sdoc13/ vs. report "114sdoc13",
+# filename GPO-CDOC-114sdoc13.pdf) -- an inconsistency in how those
+# directories were originally created, not a naming rule to replicate.
+DATA_DIR_NAME = {r: re.sub(r"^(\d{3})sdoc", r"\1_sdoc", r) for r in OLD_TEMPLATE_REPORTS}
 
 REQUIRED_COLS = {"validation_status", "category"}
 
@@ -97,11 +118,17 @@ def resolve_page(report: str, reference_page: int):
 
 
 def _is_page_label_row(row: Row, amount_right: float) -> bool:
-    """Duplicated from records._is_page_label_row (3 lines) rather than
-    imported: avoids coupling this QA script to a production internal
-    that can change without notice. See records.py for the full
-    rationale (rotated "B-###" marginal page labels)."""
-    return bool(row.words) and all(w.x0 >= amount_right for w in row.words)
+    """Duplicated from records._is_page_label_row rather than imported:
+    avoids coupling this QA script to a production internal that can
+    change without notice. See records.py for the full rationale
+    (rotated "B-###" marginal page labels, plus 114sdoc4's second,
+    unrotated "B -1,000"-style variant printed inside the amount band)."""
+    if not row.words:
+        return False
+    if all(w.x0 >= amount_right for w in row.words):
+        return True
+    joined = " ".join(w.text for w in row.words)
+    return bool(re.fullmatch(r"[A-Z]\s?-\s?\d{1,3}(,\d{3})*", joined.strip()))
 
 
 def _git_commit() -> str:
@@ -149,7 +176,8 @@ class PdfCache:
         self._reliable = {}
 
     def _path(self, suffix: str) -> str:
-        return os.path.join(DATA_DIR, self.report, f"GPO-CDOC-{self.report}{suffix}.pdf")
+        dir_name = DATA_DIR_NAME.get(self.report, self.report)
+        return os.path.join(DATA_DIR, dir_name, f"GPO-CDOC-{self.report}{suffix}.pdf")
 
     def _pdf(self, suffix: str):
         if suffix not in self._pdfs:
@@ -188,8 +216,9 @@ def record_type_of(row: dict) -> str:
 
 def load_report_rows(report: str) -> list:
     rows = []
+    dir_name = DATA_DIR_NAME.get(report, report)
     for disposition, filename in (("cleaned", "senate_data_cleaned.csv"), ("quarantine", "quarantine.csv")):
-        path = os.path.join(DATA_DIR, report, filename)
+        path = os.path.join(DATA_DIR, dir_name, filename)
         with open(path) as f:
             next(f)  # skip the CSV_HEADER_NOTE line (see pipeline.CSV_HEADER_NOTE)
             reader = csv.DictReader(f)
@@ -368,14 +397,38 @@ def locate_row(csv_row: dict, data_rows: list, cols) -> MatchResult:
     return MatchResult(amount_hits, "low", "amount_tied")
 
 
-def render_match(page_obj, match: MatchResult, out_path: str, highlight_reliable: bool, resolution: int = 200) -> None:
+def render_match(page_obj, match: MatchResult, out_path: str, highlight_reliable: bool,
+                  data_rows: list = None, resolution: int = 200) -> None:
     if not match.rows or not highlight_reliable:
         img = page_obj.render(resolution=resolution)
     else:
+        ordered = sorted(data_rows, key=lambda r: r.top) if data_rows else []
         highlights = []
         for r in match.rows:
+            top = r.top
             bottom = max(w.bottom for w in r.words)
-            highlights.append({"bbox": (0, r.top - 2, page_obj.width, bottom + 2), "color": "red"})
+            # A fixed 2pt margin bled into the neighboring row on
+            # old-template salary rosters, whose lines pack ~5pt apart
+            # with under 1pt of actual whitespace between them (vs.
+            # modern reports' looser spacing) -- verified: 114sdoc13 p138
+            # highlighted HSIAO's row but visually covered ZHANG's line
+            # above it too, even after capping padding at a third of
+            # HSIAO's own row height (1.45pt -- still more than the
+            # ~0.7pt gap separating the two lines). A fraction of this
+            # row's own height can't account for that; clamp to the
+            # ACTUAL whitespace gap to each neighbor instead.
+            idx = next((i for i, other in enumerate(ordered) if other is r), None)
+            gap_above = (top - max(w.bottom for w in ordered[idx - 1].words)) if idx else None
+            gap_below = (
+                ordered[idx + 1].top - bottom
+                if idx is not None and idx + 1 < len(ordered)
+                else None
+            )
+            pad_above = min(2.0, gap_above / 2) if gap_above is not None else 2.0
+            pad_below = min(2.0, gap_below / 2) if gap_below is not None else 2.0
+            highlights.append(
+                {"bbox": (0, top - max(pad_above, 0), page_obj.width, bottom + max(pad_below, 0)), "color": "red"}
+            )
         img = page_obj.render(resolution=resolution, highlights=highlights)
     img.save(out_path)
 
@@ -416,10 +469,12 @@ def process_one(report: str, cache: PdfCache, row: dict, sample_id: int, images_
     page_obj, pdf_rows = cache.get(suffix, raw_page)
     highlight_reliable = cache.highlight_reliable(suffix, raw_page, page_obj)
 
+    template = "anchor" if report in OLD_TEMPLATE_REPORTS else "modern"
     header_top = header_row_top(pdf_rows)
-    cols = calibrate_columns(pdf_rows)
+    cols = calibrate_columns(pdf_rows, template=template)
     if cols is None:
         match = MatchResult([], "none", "no_header_on_page")
+        data_rows = []
     else:
         data_rows = get_data_rows(pdf_rows, cols, header_top)
         match = locate_row(row, data_rows, cols)
@@ -428,7 +483,7 @@ def process_one(report: str, cache: PdfCache, row: dict, sample_id: int, images_
     if not highlight_reliable:
         tag = "NOHIGHLIGHT_" + tag
     filename = f"{sample_id:03d}_{tag}{row['_disposition']}_{row.get('validation_status') or 'unchecked'}_{record_type_of(row)}.png"
-    render_match(page_obj, match, os.path.join(images_dir, filename), highlight_reliable)
+    render_match(page_obj, match, os.path.join(images_dir, filename), highlight_reliable, data_rows=data_rows)
 
     return build_log_row(sample_id, report, row, suffix, raw_page, match, highlight_reliable,
                           os.path.join("images", filename))
@@ -467,7 +522,7 @@ def run_sample(report: str, args) -> None:
         "args": {k: v for k, v in vars(args).items() if k != "report"},
         "git_commit": _git_commit(),
         "pdf_sha256": {
-            suffix: _sha256(os.path.join(DATA_DIR, report, f"GPO-CDOC-{report}{suffix}.pdf"))
+            suffix: _sha256(os.path.join(DATA_DIR, DATA_DIR_NAME.get(report, report), f"GPO-CDOC-{report}{suffix}.pdf"))
             for suffix, _ in REPORTS[report]
         },
         "strata_requested": len(all_keys),

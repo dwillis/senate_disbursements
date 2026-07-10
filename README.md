@@ -289,20 +289,44 @@ in `reconciliation_report.csv`. Sum such a category yourself and you'll
 match the rows, not necessarily the Senate's printed total -- cite
 accordingly.
 
-### Known limitation: column positions are per-template constants
+### Report templates: modern vs. old (112th-114th)
 
-`senate_parser/records.py`'s column boundaries (`DOCUMENT_COL`,
-`PAYEE_COL`, etc.) are fixed x-coordinates, calibrated against 118sdoc13
-and confirmed to also match 118sdoc11, 119sdoc3, 119sdoc5, and 119sdoc6
-(all share the same underlying page template/size). 117sdoc8 and 118sdoc2
-use a different, wider page size (612x792 vs. 423x657) with columns
-shifted; 118sdoc2's shift is small enough to fall within the existing
-margins, but 117sdoc8's (~56pt) is not -- running `--format modern` on it
-today would silently misassign columns. Before processing a new report,
-spot-check its header row's x-positions (see `senate_parser/records.py`
-module docstring) against the constants; a document using the wider page
-size needs the column boundaries generalized (e.g. derived per-document
-from the header row) before it can be trusted.
+`senate_parser/records.py` calibrates columns per page, anchored on that
+page's own header row. Two modes, selected automatically from the
+congress number in the document name (`pipeline.run`'s `template`
+parameter overrides):
+
+- **modern** (115th Congress onward, verified on 117sdoc8 through
+  119sdoc6): boundaries are fixed deltas from the DESCRIPTION header,
+  identical relative geometry across page sizes.
+- **anchor** (112th-114th): the older table generator's relative
+  geometry differs, and a single document mixes two header layouts
+  (committee pages shift PAYEE/DESCRIPTION further right), so every
+  boundary derives from that page's own seven header anchors with
+  measured header-to-data offsets.
+
+The old era also *reports* differently, so its reconciliation is
+type-aware (`reconcile._reconcile_block_typed`), all verified penny-exact
+against real blocks:
+
+- All of a block's subtotals print at the END of the listing (a
+  committee's TRAVEL subtotal prints before its payroll subtotals), so
+  salary and expense records accumulate in separate streams.
+- The payroll category lines (PERSONNEL COMP. FULL-TIME PERMANENT /
+  OTHER PERSONNEL COMPENSATION) *partition* the roster's total rather
+  than covering distinct row runs -- they're recorded as non-gating
+  `component` checks (basis `payroll_component`), and the roster
+  validates as a whole against NET PAYROLL EXPENSES (plus the true
+  lump-sums, PERSONNEL BENEFITS and RE-EMPLOYED ANNUITANTS).
+- Payroll adjustments are sometimes *counted* against one funding year
+  while the rows print in a sibling year's roster (verified: Cantwell's
+  FY2015 block prints OPC $102,388.98 with no rows; her FY2016 roster
+  exceeds its own printed NET by exactly that amount). When an office's
+  failing NET PAYROLL residuals cancel across its blocks, the rows
+  publish as `source_mismatch` with the distinct `cross_year` verdict in
+  the reconciliation report. Residuals that pair with a *different
+  report's* period can't be verified from one document and stay
+  quarantined.
 
 ### Known issue: spurious `-3.pdf` volume in some downloads
 

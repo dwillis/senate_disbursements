@@ -1,0 +1,45 @@
+{
+  "report": "114sdoc13",
+  "seed": 703077672,
+  "args": {
+    "n_per_stratum": 3,
+    "min_per_stratum": 1,
+    "max_total": 30,
+    "seed": null,
+    "reference_page": null,
+    "payee": "",
+    "amount": "",
+    "document_number": "",
+    "description": ""
+  },
+  "git_commit": "0eec2174e75d156de3b57d4cfb4cad3182c4aa78",
+  "pdf_sha256": {
+    "": "da9a472f6d7cf46e08cbc58bb15cf5267358c2bda331891cf8a60d04524e7b7e"
+  },
+  "strata_requested": 20,
+  "strata_populated": [
+    "cleaned/ok/expense",
+    "cleaned/ok/salary",
+    "cleaned/source_mismatch/salary",
+    "quarantine/fail/salary"
+  ],
+  "strata_skipped_empty": [
+    "cleaned/fail/expense",
+    "cleaned/fail/salary",
+    "cleaned/source_mismatch/expense",
+    "cleaned/unchecked/expense",
+    "cleaned/unchecked/salary",
+    "cleaned/warn/expense",
+    "cleaned/warn/salary",
+    "quarantine/fail/expense",
+    "quarantine/ok/expense",
+    "quarantine/ok/salary",
+    "quarantine/source_mismatch/expense",
+    "quarantine/source_mismatch/salary",
+    "quarantine/unchecked/expense",
+    "quarantine/unchecked/salary",
+    "quarantine/warn/expense",
+    "quarantine/warn/salary"
+  ],
+  "total_sampled": 12
+}
