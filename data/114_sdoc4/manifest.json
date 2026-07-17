@@ -7,16 +7,28 @@
     2084
   ],
   "page_offset": 0,
-  "parser_git_commit": "0eec2174e75d156de3b57d4cfb4cad3182c4aa78",
-  "generated_at": "2026-07-10T00:52:42.623492+00:00",
+  "parser_git_commit": "2f5ecc17104444c72ce9d3afcbbce48a88d3f7f4",
+  "parser_git_dirty": true,
+  "generated_at": "2026-07-16T23:01:54.429832+00:00",
   "tolerances": {
     "ok": 0.01,
     "warn": 1.0
   },
   "blocks": 766,
-  "records_published": 44262,
-  "records_quarantined": 2119,
-  "unparsed": 24,
-  "bioguide_match_rate": 0.9641136671177266,
-  "audit_violations": 77
+  "records_published": 45045,
+  "records_quarantined": 1451,
+  "unparsed": 21,
+  "bioguide_match_rate": 0.9641950639952476,
+  "audit_violations": 3,
+  "hard_audit_violations": 3,
+  "unparsed_release_blockers": 21,
+  "banner_check_warnings": 684,
+  "pages_read": 2075,
+  "page_classifications": {
+    "banner": 766,
+    "data": 1289,
+    "other": 20
+  },
+  "orphan_data_pages": 0,
+  "coverage_findings": 717
 }
