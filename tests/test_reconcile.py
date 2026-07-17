@@ -518,3 +518,154 @@ def test_org_totals_stays_fail_when_captured_categories_mismatch_their_banner():
     assert org.status == "fail", (
         f"captured category mismatch should stay fail, got {org.status}")
     assert org.context == ""
+
+
+def test_org_totals_downgrades_when_captured_bvb_mismatch_explains_gap():
+    """Item 9: a block where captured categories' body subtotals disagree
+    with their banner values (source-side internal inconsistency — the
+    body prints one figure, the banner prints another for the same
+    category), and those mismatches sum (with any uncaptured categories)
+    to the ORG TOTALS gap. Each captured body check passes ok, so the
+    parser itemized correctly; the gap is structural, not a parser bug.
+    Downgrade fail -> warn with context='captured_bvb_mismatch'.
+
+    Canonical shape: senator blocks where the body's printed NET PAYROLL
+    EXPENSES subtotal disagrees with the banner's NET PAYROLL figure by
+    a few thousand dollars (independently flagged by the BANNER NET
+    PAYROLL check), and the ORG TOTALS gap equals that disagreement."""
+    from senate_parser.reconcile import ReconcileResult, SubtotalCheck
+    # Two captured categories, both ok. NET PAYROLL's body matches its
+    # banner; TRAVEL's body prints $3000 but its banner says $5000 -- a
+    # $2000 source-side mismatch. ORG TOTALS banner ($6000) minus
+    # parsed_grand_total ($4000) = $2000 gap, fully explained by the
+    # captured bvb mismatch.
+    captured_checks = [
+        SubtotalCheck(label="NET PAYROLL EXPENSES", page=10,
+                      expected=1000.0, actual=1000.0, status="ok",
+                      basis="block_running_total"),
+        SubtotalCheck(label="TRAVEL AND TRANSPORTATION OF PERSONS", page=10,
+                      expected=3000.0, actual=3000.0, status="ok",
+                      basis="segment"),
+    ]
+    parsed_grand_total = 1000.0 + 3000.0
+    reconciled = ReconcileResult(
+        checks=captured_checks, block_status="ok",
+        parsed_grand_total=parsed_grand_total,
+    )
+    banner_categories = {
+        "NET PAYROLL EXPENSES": -1000.0,
+        "TRAVEL AND TRANSPORTATION OF PERSONS": -5000.0,
+        "ORGANIZATION TOTALS": -6000.0,
+    }
+    summary = BannerSummary(net_payroll=-1000.0, organization_totals=-6000.0,
+                            categories=banner_categories)
+    checks = banner_checks(summary, reconciled, page=10, has_salary_records=True)
+    org = next(c for c in checks if c.label == "BANNER ORGANIZATION TOTALS")
+    assert org.status == "warn", (
+        f"captured bvb mismatch explaining gap should warn, got {org.status}")
+    assert org.context == "captured_bvb_mismatch", (
+        f"context should tag captured_bvb_mismatch, got {org.context!r}")
+
+
+def test_org_totals_stays_fail_when_captured_bvb_does_not_explain_gap():
+    """When the captured bvb mismatches plus uncaptured categories don't
+    fully explain the ORG TOTALS gap, the check stays fail -- there's a
+    real residual the parser can't account for."""
+    from senate_parser.reconcile import ReconcileResult, SubtotalCheck
+    # TRAVEL body $3500 vs banner $5000 (mismatch $1500). Gap = $2500,
+    # captured_bvb = $1500, residual = $1000 -> fail.
+    captured_checks = [
+        SubtotalCheck(label="TRAVEL AND TRANSPORTATION OF PERSONS", page=10,
+                      expected=3500.0, actual=3500.0, status="ok",
+                      basis="segment"),
+    ]
+    parsed_grand_total = 3500.0
+    reconciled = ReconcileResult(
+        checks=captured_checks, block_status="ok",
+        parsed_grand_total=parsed_grand_total,
+    )
+    banner_categories = {
+        "TRAVEL AND TRANSPORTATION OF PERSONS": -5000.0,
+        "ORGANIZATION TOTALS": -6000.0,
+    }
+    summary = BannerSummary(net_payroll=None, organization_totals=-6000.0,
+                            categories=banner_categories)
+    checks = banner_checks(summary, reconciled, page=10, has_salary_records=False)
+    org = next(c for c in checks if c.label == "BANNER ORGANIZATION TOTALS")
+    assert org.status == "fail", (
+        f"unexplained residual should stay fail, got {org.status}")
+    assert org.context == ""
+
+
+def test_org_totals_item9_bails_when_captured_category_fails():
+    """If a captured category's body check fails, the equation
+    parsed_grand_total = sum of |body_subtotal| breaks down -- the
+    failing check's |actual - expected| discrepancy is an unaccounted
+    term that could mask a real per-category parsing bug. Item 9 must
+    bail (return None) and the check stays fail via the Item 8 path."""
+    from senate_parser.reconcile import ReconcileResult, SubtotalCheck
+    # TRAVEL body check fails: parser found $1000, body prints $5000.
+    # Banner TRAVEL = $5000, ORG TOTALS = $5000. Gap = $4000. The
+    # uncaptured sum is $0 (TRAVEL is captured). Without bailing,
+    # captured_bvb (using expected) = 5000 - 5000 = 0, residual = 4000
+    # -> fail. But consider the looser case where not bailing could
+    # wrongly downgrade: bail-on-fail guarantees we never mask a real
+    # TRAVEL parsing bug as a structural mismatch.
+    captured_checks = [
+        SubtotalCheck(label="TRAVEL AND TRANSPORTATION OF PERSONS", page=10,
+                      expected=5000.0, actual=1000.0, status="fail",
+                      basis="segment"),
+    ]
+    parsed_grand_total = 1000.0
+    reconciled = ReconcileResult(
+        checks=captured_checks, block_status="fail",
+        parsed_grand_total=parsed_grand_total,
+    )
+    banner_categories = {
+        "TRAVEL AND TRANSPORTATION OF PERSONS": -5000.0,
+        "ORGANIZATION TOTALS": -5000.0,
+    }
+    summary = BannerSummary(net_payroll=None, organization_totals=-5000.0,
+                            categories=banner_categories)
+    checks = banner_checks(summary, reconciled, page=10, has_salary_records=False)
+    org = next(c for c in checks if c.label == "BANNER ORGANIZATION TOTALS")
+    assert org.status == "fail", (
+        f"failing captured check should bail Item 9 and stay fail, got {org.status}")
+    assert org.context == ""
+
+
+def test_org_totals_item9_uses_zero_body_subtotal_for_zero_records():
+    """A zero_records body check (normally-itemized label, body printed a
+    subtotal but the parser captured no rows -- a verified-legitimate
+    lump-summed adjustment per the audit) does NOT contribute its printed
+    subtotal to parsed_grand_total. The body_subtotal for the equation is
+    0, not |c.expected|. Otherwise captured_bvb is understated by |expected|
+    and the check stays fail when it should downgrade.
+
+    Scenario: TRAVEL body printed $5000 with zero rows (status=zero_records,
+    verified adjustment). Banner TRAVEL = $5000, ORG TOTALS = $5000.
+    parsed_grand_total = 0 (no itemized records, no lump_sum added).
+    Gap = $5000, captured_bvb = $5000 - 0 = $5000, residual = 0 -> warn."""
+    from senate_parser.reconcile import ReconcileResult, SubtotalCheck
+    captured_checks = [
+        SubtotalCheck(label="TRAVEL AND TRANSPORTATION OF PERSONS", page=10,
+                      expected=5000.0, actual=0.0, status="zero_records",
+                      basis="segment"),
+    ]
+    parsed_grand_total = 0.0  # zero_records contributes nothing
+    reconciled = ReconcileResult(
+        checks=captured_checks, block_status="ok",
+        parsed_grand_total=parsed_grand_total,
+    )
+    banner_categories = {
+        "TRAVEL AND TRANSPORTATION OF PERSONS": -5000.0,
+        "ORGANIZATION TOTALS": -5000.0,
+    }
+    summary = BannerSummary(net_payroll=None, organization_totals=-5000.0,
+                            categories=banner_categories)
+    checks = banner_checks(summary, reconciled, page=10, has_salary_records=False)
+    org = next(c for c in checks if c.label == "BANNER ORGANIZATION TOTALS")
+    assert org.status == "warn", (
+        f"zero_records body_subtotal should be 0, got {org.status}")
+    assert org.context == "captured_bvb_mismatch", (
+        f"context should tag captured_bvb_mismatch, got {org.context!r}")

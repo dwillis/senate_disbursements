@@ -373,7 +373,18 @@ def banner_checks(summary, reconciled: ReconcileResult, page: int, has_salary_re
     no itemized rows), the check downgrades from 'fail' to 'warn' with
     context='banner_only_categories'. The Sgt at Arms FY2025 block in
     119sdoc5 is the canonical case: 5 of 9 categories are banner-only,
-    ~$15.4M, and the parser captured every itemized row correctly."""
+    ~$15.4M, and the parser captured every itemized row correctly.
+
+    Item 9 extends the criterion to include captured categories whose
+    body subtotal disagrees with its banner value (a source-side internal
+    inconsistency independently flagged by the corresponding BANNER check
+    on that category). When the gap = uncaptured_sum + sum of
+    |banner_cat| - |body_subtotal| for captured categories with ok body
+    checks, the parser itemized correctly and the gap is structural;
+    the check downgrades with context='captured_bvb_mismatch'. Bails if
+    any captured category has a fail/warn body check -- the equation
+    parsed_grand_total = sum of |body_subtotal| breaks down, and the
+    failing check's residual could mask a real per-category parsing bug."""
     # The printed NET PAYROLL figure lives on a block_running_total check
     # on the modern template and on a segment check in the old-template
     # typed mode -- match by label, not basis.
@@ -404,15 +415,68 @@ def banner_checks(summary, reconciled: ReconcileResult, page: int, has_salary_re
                 uncaptured_abs = _uncaptured_banner_categories_abs(
                     summary.categories, reconciled.checks)
                 if uncaptured_abs is not None:
-                    residual = abs((expected - actual) - uncaptured_abs)
-                    if residual <= OK_TOLERANCE:
+                    residual_uncaptured = abs((expected - actual) - uncaptured_abs)
+                    if residual_uncaptured <= OK_TOLERANCE:
                         status = "warn"
                         context = "banner_only_categories"
+                    else:
+                        captured_bvb = _captured_bvb_discrepancy(
+                            summary.categories, reconciled.checks)
+                        if captured_bvb is not None and abs(captured_bvb) > OK_TOLERANCE:
+                            residual_both = abs(
+                                (expected - actual) - uncaptured_abs - captured_bvb)
+                            if residual_both <= OK_TOLERANCE:
+                                status = "warn"
+                                context = "captured_bvb_mismatch"
         out.append(
             SubtotalCheck(label=label, page=page, expected=expected, actual=actual,
                           status=status, basis="banner", context=context)
         )
     return out
+
+
+def _captured_bvb_discrepancy(banner_categories: dict, checks: list):
+    """Sum (|banner_cat| - |body_subtotal|) for captured categories whose
+    body check passes (status in {ok, no_records, zero_records}). Returns
+    None if any captured category has a fail/warn body check, since the
+    equation parsed_grand_total = sum of |body_subtotal| breaks down and
+    the failing check's |actual - expected| residual could mask a real
+    per-category parsing bug as a structural mismatch.
+
+    A category is 'captured' if any segment or block_running_total check
+    matches its label. ORGANIZATION TOTALS is the row being checked, not
+    a category, so it's excluded.
+
+    For zero_records checks (normally-itemized label, body printed a
+    subtotal but the parser captured no rows -- a verified-legitimate
+    lump-summed adjustment per the audit), parsed_grand_total does NOT
+    include the printed subtotal (no rows, no lump_sum added). The
+    body_subtotal for the equation is 0, not |c.expected|."""
+    if "ORGANIZATION TOTALS" not in banner_categories:
+        return None
+    body_subtotals: dict = {}
+    for c in checks:
+        if c.basis not in ("segment", "block_running_total"):
+            continue
+        if c.status == "ok":
+            body_subtotals[c.label.upper()] = abs(c.expected) if c.expected is not None else 0.0
+        elif c.status == "no_records":
+            # LUMP_SUM_LABELS: printed subtotal IS added to lump_sum_total
+            # and included in parsed_grand_total.
+            body_subtotals[c.label.upper()] = abs(c.expected) if c.expected is not None else 0.0
+        elif c.status == "zero_records":
+            # Printed subtotal NOT included in parsed_grand_total (no rows,
+            # no lump_sum added). Body_subtotal for the equation is 0.
+            body_subtotals[c.label.upper()] = 0.0
+        else:
+            return None
+    total = 0.0
+    for label, value in banner_categories.items():
+        if label == "ORGANIZATION TOTALS":
+            continue
+        if label in body_subtotals:
+            total += abs(value) - body_subtotals[label]
+    return total
 
 
 def _uncaptured_banner_categories_abs(banner_categories: dict, checks: list):

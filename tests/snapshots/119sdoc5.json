@@ -5,11 +5,11 @@
  "unparsed": 1,
  "check_status_histogram": {
   "banner_missing": 653,
-  "fail": 198,
+  "fail": 122,
   "no_records": 183,
   "not_applicable": 172,
   "ok": 2066,
-  "warn": 213,
+  "warn": 289,
   "zero_records": 1
  },
  "published_dollars": 481339210.56,

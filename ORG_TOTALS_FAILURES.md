@@ -196,3 +196,77 @@ the 8pt window caught the next row's amount. The Sgt at Arms block in
 119sdoc5 was one of these — the BANNER NET PAYROLL check had been
 comparing the body's $6,516.93 against the banner's *Travel* value
 ($384,191.43) instead of the banner's *Net Payroll* value.
+
+## Update (item 9): captured categories' banner-vs-body mismatches explain the next 646
+
+After item 8, 487 ORG TOTALS `fail` checks remained across the 7 modern
+docs. The next pass addressed class 3 (mid-range drift, $1K–$100K off):
+cases where the parser *did* itemize every category in the body, but
+the body's printed subtotal for one or more categories disagrees with
+the banner's value for the same category — a source-side internal
+inconsistency in the Senate's own report (the body prints $X, the
+banner prints $Y, for the same category in the same block).
+
+The math is an identity when every captured category's body check
+passes: `parsed_grand_total = Σ |body_subtotal|` for captured
+categories, so
+
+    gap = |banner_org_totals| − parsed_grand_total
+        = Σ (|banner_cat| − |body_subtotal|) for captured cats
+        + Σ |banner_cat| for uncaptured cats (banner-only categories)
+        = captured_bvb_diff + uncaptured_sum
+
+When the residual `|gap − uncaptured_sum − captured_bvb_diff|` is within
+`OK_TOLERANCE`, the gap is fully explained by structural source-side
+discrepancies (banner-only categories + body-vs-banner mismatches on
+captured categories), not a parser bug. The check downgrades from
+`fail` to `warn` with `context='captured_bvb_mismatch'`.
+
+The canonical case (SENATOR MARK KELLY FY2022, 118sdoc2 p20):
+banner NET PAYROLL EXPENSES = $1,072.96 but the body prints $295.56
+(PERSONNEL BENEFITS lump sum, zero salary rows) — a $777.40 source-side
+mismatch. Three other categories (RENT $6,555.16, PRINTING $0,
+SUPPLIES $975.45) are banner-only. Gap = $8,308.01 = $777.40 captured
+bvb + $7,530.61 uncaptured. Parser captured everything itemized;
+downgrade to warn.
+
+**Bail-out**: the equation `parsed_grand_total = Σ |body_subtotal|`
+breaks down when any captured category's body check is `fail` or
+`warn` (the itemized rows don't sum to the printed subtotal). The
+failing check's `|actual − expected|` residual is an unaccounted term
+that could mask a real per-category parsing bug as a structural
+mismatch, so `_captured_bvb_discrepancy` returns `None` and the check
+stays `fail` via the item 8 path.
+
+**Zero_records handling**: a `zero_records` body check (normally-
+itemized label, body printed a subtotal but the parser captured no
+rows — a verified-legitimate lump-summed adjustment per the audit)
+does NOT contribute its printed subtotal to `parsed_grand_total` (no
+rows, no lump_sum added). The body_subtotal for the equation is 0,
+not `|c.expected|` — otherwise captured_bvb is understated and the
+check stays fail when it should downgrade.
+
+Snapshot impact (modern era, 7 docs):
+
+| doc | Item 8 fail | Item 9 fail | Δ fail | Item 9 warn | downgrades |
+|---|---|---|---|---|---|
+| 117sdoc8 | 187 | 105 | -82 | 308 | 82 |
+| 118sdoc11 | 269 | 182 | -87 | 342 | 87 |
+| 118sdoc13 | 172 | 107 | -65 | 248 | 65 |
+| 118sdoc2 | 237 | 137 | -100 | 378 | 100 |
+| 119sdoc3 | 319 | 197 | -122 | 389 | 122 |
+| 119sdoc5 | 198 | 122 | -76 | 289 | 76 |
+| 119sdoc6 | 306 | 192 | -114 | 368 | 114 |
+| **total** | 1,688 | 942 | **-646** | — | **646** |
+
+After items 8 and 9, 942 ORG TOTALS `fail` checks remain across the 7
+modern docs (down from 3,621 total / ~2,566 modern-era at the start of
+this audit). The residual queue is now genuine per-category parsing
+bugs — blocks where a captured category's body check fails (parser
+mis-itemized) or where the gap can't be fully explained by structural
+source-side discrepancies. The S.RES. committee inquiry blocks (class
+331 in the residual analysis) are the remaining structural class:
+their body rows are cumulative across fiscal years while the banner
+is period-specific, so neither item 8 nor item 9 applies — those
+need a separate item (10) to handle the cumulative-vs-period
+template distinction.

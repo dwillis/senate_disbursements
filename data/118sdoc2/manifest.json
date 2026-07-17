@@ -6,10 +6,10 @@
     1,
     1348
   ],
-  "page_offset": 1291,
-  "parser_git_commit": "8f656507da3518f6e3f906e494ae18aa788b2045",
+  "page_offset": 0,
+  "parser_git_commit": "00248f2beb06a5c3b09c1dcf143d20e1db8113be",
   "parser_git_dirty": true,
-  "generated_at": "2026-07-17T11:50:47.217398+00:00",
+  "generated_at": "2026-07-17T20:10:39.608633+00:00",
   "tolerances": {
     "ok": 0.01,
     "warn": 1.0
@@ -18,7 +18,7 @@
   "records_published": 24625,
   "records_quarantined": 0,
   "unparsed": 0,
-  "bioguide_match_rate": null,
+  "bioguide_match_rate": 1.0,
   "audit_violations": 0,
   "hard_audit_violations": 0,
   "unparsed_release_blockers": 0,
