@@ -92,6 +92,72 @@ def test_parse_banner_wrapped_office_name():
     assert "POLICY COMMITTEES" in header.account
 
 
+def test_parse_banner_old_template_split_funding_year_fragment():
+    """114sdoc13 p80: the word extractor split 'Funding Year' into 'Fund'
+    (x0=104.9) and 'ing Year' (x0=120.5). The primary left-margin offset
+    (~114.8) catches the 'ing Year' fragment within its 6pt tolerance, so
+    primary collect returns non-empty and the self-calibration fallback
+    never runs -- but 'Fund' at the real office-column left edge is missed,
+    so office and account both come back empty. The fallback must trigger
+    when the banner's leftmost word sits significantly left of the primary
+    offset, not only when primary collect is empty."""
+    data = json.loads((FIXTURES / "114sdoc13_page_80.json").read_text())
+    rows = cluster_rows([Word(**d) for d in data])
+    header = parse_banner(rows, 80)
+    assert header.office == "MINORITY WHIP (D)", f"office={header.office!r}"
+    assert header.funding_year == 2016
+    assert header.account == "SALARIES, OFFICERS AND EMPLOYEES, SENATE", f"account={header.account!r}"
+
+
+def _synthetic_special_funding_year_banner(value: str):
+    def word(text, x0, top):
+        return Word(text=text, x0=x0, x1=x0 + max(20, len(text) * 3), top=top, bottom=top + 5)
+
+    return cluster_rows(
+        [
+            word("SECRETARY - SENATE COLLECTION", 62.5, 10),
+            word(f"Funding Year {value}", 62.5, 20),
+            word("SECRETARY OF THE SENATE", 62.5, 30),
+            word("DOCUMENT NO.", 74.0, 100),
+        ]
+    )
+
+
+def test_parse_banner_no_year_value_is_office_account_boundary():
+    header = parse_banner(_synthetic_special_funding_year_banner("X (NO-YEAR)"), 353)
+
+    assert header.office == "SECRETARY - SENATE COLLECTION"
+    assert header.funding_year is None
+    assert header.account == "SECRETARY OF THE SENATE"
+
+
+def test_parse_banner_revolving_value_is_office_account_boundary():
+    header = parse_banner(_synthetic_special_funding_year_banner("X (REVOLVING)"), 1247)
+
+    assert header.office == "SECRETARY - SENATE COLLECTION"
+    assert header.funding_year is None
+    assert header.account == "SECRETARY OF THE SENATE"
+
+
+def test_parse_banner_real_cares_act_no_year_banner():
+    """117sdoc8 p306: a real CARES-Act banner with ``Funding Year X
+    (NO-YEAR)``. The pre-fix FUNDING_YEAR_RE required 4 digits, so the
+    NO-YEAR row fell through and the office name absorbed ``Funding Year
+    X (NO-YEAR) SECRETARY OF THE SENATE`` -- 71 contaminated rows on
+    this one banner, ~1,385 across the modern era (117sdoc8 + 118/119th).
+    With the NO-YEAR/REVOLVING-aware regex, the row is treated as the
+    office/account separator with funding_year=None."""
+    data = json.loads((FIXTURES / "sdoc8_p306_cares_no_year_banner.json").read_text())
+    rows = cluster_rows([Word(**d) for d in data])
+    header = parse_banner(rows, 306)
+    assert header.office == "CARES ACT EMERG. APPROP. P.L. 116-136", f"office={header.office!r}"
+    assert header.funding_year is None
+    assert header.account == "MISCELLANEOUS ITEMS", f"account={header.account!r}"
+    # The contamination marker itself must not leak into either field.
+    assert "FUNDING YEAR" not in header.office.upper()
+    assert "FUNDING YEAR" not in header.account.upper()
+
+
 def test_same_office_different_funding_year_is_a_distinct_block():
     """Page 20 (FY2023) and page 21 (FY2024) are both banners for the same
     office -- they must segment into two separate blocks."""
@@ -123,6 +189,20 @@ def test_segment_blocks_toc_page_closes_open_block():
     assert len(blocks) == 2
     assert blocks[0].pages == [20]
     assert blocks[1].pages == [100]
+
+
+def test_page_ledger_records_every_page_before_segmentation_discards_it():
+    ledger = []
+    pages = [(125, load(125)), (20, load(20)), (5, load(5))]
+    list(segment_blocks(pages, page_ledger=ledger))
+
+    assert [row["source_page"] for row in ledger] == [125, 20, 5]
+    assert ledger[0]["classification"] == "data"
+    assert ledger[0]["assigned_to_block"] is False
+    assert ledger[0]["reason"] == "orphan_data_no_banner"
+    assert ledger[1]["assigned_to_block"] is True
+    assert ledger[1]["reason"] == "block_start"
+    assert ledger[2]["reason"] == "terminates_block"
 
 
 def test_banner_summary_extracts_period_figures():

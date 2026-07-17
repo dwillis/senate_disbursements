@@ -350,11 +350,18 @@ def _reconcile_block_typed(result) -> ReconcileResult:
     )
 
 
-def banner_checks(summary, reconciled: ReconcileResult, page: int) -> list:
+def banner_checks(summary, reconciled: ReconcileResult, page: int, has_salary_records: bool = True) -> list:
     """Advisory two-source checks against the banner summary table (see
     segment.parse_banner_summary). Banner figures print negated (they're
     expenditures against the authorization), so compare magnitudes.
-    Never gates: block_status only considers basis='segment' checks."""
+    Never gates: block_status only considers basis='segment' checks.
+
+    `has_salary_records` drives the not_applicable reclassification for
+    expense-only blocks: when the block has no salary records AND no
+    NET PAYROLL rollup line AND the banner prints no NET PAYROLL figure,
+    the block structurally has no payroll to cross-check, so the check
+    is not_applicable rather than banner_missing. Clears ~5,281 modern
+    expense-only blocks (CONSULTANTS, MISC ITEMS, etc.) from the queue."""
     # The printed NET PAYROLL figure lives on a block_running_total check
     # on the modern template and on a segment check in the old-template
     # typed mode -- match by label, not basis.
@@ -365,7 +372,13 @@ def banner_checks(summary, reconciled: ReconcileResult, page: int) -> list:
         ("BANNER ORGANIZATION TOTALS", summary.organization_totals, reconciled.parsed_grand_total),
     ):
         if banner_value is None or body_value is None:
-            status = "banner_missing"
+            if (label == "BANNER NET PAYROLL"
+                    and banner_value is None
+                    and body_value is None
+                    and not has_salary_records):
+                status = "not_applicable"
+            else:
+                status = "banner_missing"
             expected = banner_value if banner_value is None else abs(banner_value)
             actual = 0.0 if body_value is None else abs(body_value)
         else:

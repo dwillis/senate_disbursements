@@ -61,3 +61,7 @@ target/
 .idea/
 *.swp
 .bioguide_cache/
+
+# Local working/output directories (not committed)
+output/
+verification_samples/

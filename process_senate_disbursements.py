@@ -653,11 +653,10 @@ Examples:
     parser.add_argument('--skip-extract', action='store_true', help='Skip page extraction (use if pages already extracted)')
     parser.add_argument('--skip-clean', action='store_true', help='Skip CSV cleaning step')
     parser.add_argument(
-        '--format', choices=['legacy', 'modern'], default='legacy',
-        help="'legacy': the original pdftotext -layout + regex pipeline (112-114 Congress reports). "
-             "'modern': coordinate-based extraction via senate_parser/ (verified on 118sdoc13; "
-             "-layout desynchronizes columns on this report's layout, corrupting amounts). "
-             "No auto-detection yet -- pass explicitly."
+        '--format', choices=['legacy', 'coordinate', 'modern'], default='coordinate',
+        help="'coordinate' (default): word-coordinate extraction with automatic old/new template "
+             "selection and reconciliation. 'modern' is a compatibility alias. 'legacy' is the "
+             "deprecated pdftotext -layout parser and is rejected for 115th Congress and newer."
     )
 
     args = parser.parse_args()
@@ -685,8 +684,16 @@ Examples:
     # Extract source document name
     pdf_basename = os.path.basename(args.pdf_file)
     source_doc = pdf_basename.replace('GPO-CDOC-', '').replace('.pdf', '')
+    source_doc = re.sub(r'-\d+$', '', source_doc).lower()
 
-    if args.format == 'modern':
+    congress_match = re.match(r'(\d{3})sdoc', source_doc)
+    if args.format == 'legacy' and congress_match and int(congress_match.group(1)) >= 115:
+        parser.error(
+            "the legacy layout parser is unsafe for 115th Congress and newer PDFs; "
+            "use the default coordinate parser"
+        )
+
+    if args.format in ('modern', 'coordinate'):
         from senate_parser.pipeline import run as run_modern_pipeline
         try:
             from bioguide_matcher import BioguideIdMatcher

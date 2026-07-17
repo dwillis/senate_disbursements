@@ -21,7 +21,11 @@ from .rows import Row, cluster_rows
 
 BANNER_TEXT = "DETAILED AND SUMMARY STATEMENT OF EXPENDITURES"
 TOC_TEXT = "TABLE OF CONTENTS"
-HEADER_MARKER = "DOCUMENT NO."
+# "DOCUMENT NO" (no period) is a substring of both the regular anchor
+# header's "DOCUMENT NO." and the COMPENSATION OF MEMBERS variant's
+# "DOCUMENT NO", so this matches both layouts (see records.py
+# ANCHOR_HEADER_ALIASES for the third-header-variant background).
+HEADER_MARKER = "DOCUMENT NO"
 
 # Office/account labels sit flush against the left margin; category
 # labels, amounts, and data columns start well to the right. The exact
@@ -35,7 +39,16 @@ LEFT_MARGIN_OFFSET_FROM_DOC_HEADER = -11.5
 LEFT_MARGIN_TOL = 6.0
 LEFT_MARGIN_FALLBACK_X0 = 60.0
 
-FUNDING_YEAR_RE = re.compile(r"Funding Year\s+(\d{4})")
+# The banner delimiter is not always a numeric year.  No-year and revolving
+# accounts print ``Funding Year X (NO-YEAR)`` / ``X (REVOLVING)``; treating
+# those rows as office text contaminates every row in the block and also folds
+# the account label below them into the office name.  The value is optional so
+# a partially extracted/garbled funding-year row still performs its structural
+# job as the office/account boundary.
+FUNDING_YEAR_RE = re.compile(
+    r"Funding\s*Year(?:\s*(?P<year>\d{4})|\s*X\s*\((?:NO[-\s]?YEAR|REVOLVING)\))?",
+    re.IGNORECASE,
+)
 
 
 @dataclass
@@ -90,11 +103,13 @@ def _left_margin_text(row: Row, left_margin_x0: float) -> str:
     """Text of the office/account column: words anchored at the left
     margin, plus immediately adjacent continuations. Word extraction
     occasionally splits a line mid-word ("SENA"+"TOR ...", "Fund"+"ing
-    Year" -- both observed on 114sdoc13), so a word that starts within a
-    few points of the previous word's right edge is glued on; banner-table
-    labels sit far to the right and never qualify."""
+    Year", "SALA"+"RIES ..." -- all observed on 114sdoc13), so a word
+    that starts within a few points of the previous word's right edge is
+    glued on; banner-table labels sit far to the right and never qualify.
+    A 0pt gap is a true mid-word split (join with no space); 1-3pt is a
+    real inter-word space (join with a space)."""
     ordered = sorted(row.words, key=lambda w: w.x0)
-    out = []
+    out: list = []
     last_x1 = None
     for w in ordered:
         if abs(w.x0 - left_margin_x0) < LEFT_MARGIN_TOL:
@@ -103,7 +118,15 @@ def _left_margin_text(row: Row, left_margin_x0: float) -> str:
         elif out and last_x1 is not None and 0 <= w.x0 - last_x1 <= 3.0:
             out.append(w)
             last_x1 = w.x1
-    return " ".join(w.text for w in out)
+    pieces: list = []
+    for i, w in enumerate(out):
+        if i == 0:
+            pieces.append(w.text)
+        else:
+            gap = w.x0 - (out[i - 1].x1)
+            pieces.append("" if gap == 0 else " ")
+            pieces.append(w.text)
+    return "".join(pieces).strip()
 
 
 def parse_banner(rows: list, page_num: int) -> BlockHeader:
@@ -123,22 +146,28 @@ def parse_banner(rows: list, page_num: int) -> BlockHeader:
         ]
 
     left_rows = collect(left_margin_x0)
-    if not left_rows:
-        # Old-template (112th-114th) banners put the office margin ~21.5pt
-        # left of DOCUMENT NO. instead of ~11.5. Rather than a second
-        # hardcoded offset, self-calibrate: the office column is the
-        # leftmost text above the header (banner-table labels start far
-        # right of it). Only reached when the modern offset finds nothing,
-        # so modern reports are unaffected.
-        candidates = [
-            w.x0
-            for r in rows
-            if r.top < header_top
-            for w in r.words
-            if doc_header_x0 is None or w.x0 < doc_header_x0 + 60
-        ]
-        if candidates:
-            left_margin_x0 = min(candidates)
+    # Old-template (112th-114th) banners put the office margin ~21.5pt
+    # left of DOCUMENT NO. instead of ~11.5. Rather than a second
+    # hardcoded offset, self-calibrate: the office column is the
+    # leftmost text above the header (banner-table labels start far
+    # right of it). Triggered when the modern offset finds nothing OR
+    # when it only catches fragments (e.g. 114sdoc13 p80: 'Funding Year'
+    # splits into 'Fund' at the real office margin and 'ing Year' at
+    # ~120.5, the latter inside the primary 6pt tolerance -- primary
+    # returns non-empty but misses the office/account entirely). Modern
+    # banners have their leftmost word within ~1pt of primary_lmx, so
+    # the > LEFT_MARGIN_TOL guard keeps them on the primary path.
+    candidates = [
+        w.x0
+        for r in rows
+        if r.top < header_top
+        for w in r.words
+        if doc_header_x0 is None or w.x0 < doc_header_x0 + 60
+    ]
+    if candidates:
+        banner_min_x0 = min(candidates)
+        if not left_rows or banner_min_x0 < left_margin_x0 - LEFT_MARGIN_TOL:
+            left_margin_x0 = banner_min_x0
             left_rows = collect(left_margin_x0)
 
     funding_year = None
@@ -158,12 +187,13 @@ def parse_banner(rows: list, page_num: int) -> BlockHeader:
         # the printed year itself is occasionally garbled ("1618"), so
         # keep the row recognized (office/account split intact) but drop
         # an implausible year rather than shipping it.
-        m = FUNDING_YEAR_RE.search(full_row_text) or re.search(
-            r"FundingYear(\d{4})", full_row_text.replace(" ", "")
+        m = FUNDING_YEAR_RE.search(full_row_text) or FUNDING_YEAR_RE.search(
+            full_row_text.replace(" ", "")
         )
         if m:
-            year = int(m.group(1))
-            funding_year = year if 1990 <= year <= 2100 else None
+            year_text = m.group("year")
+            year = int(year_text) if year_text else None
+            funding_year = year if year is not None and 1990 <= year <= 2100 else None
             seen_funding_year = True
             continue
         (account_parts if seen_funding_year else office_parts).append(text)
@@ -246,26 +276,69 @@ def parse_banner_summary(rows: list) -> BannerSummary:
     )
 
 
-def segment_blocks(pages: Iterable) -> Iterator[Block]:
-    """Consume (page_num, words) pairs and yield completed Blocks in order."""
+def segment_blocks(pages: Iterable, page_ledger: Optional[list] = None) -> Iterator[Block]:
+    """Consume ``(page_num, words)`` pairs and yield completed blocks.
+
+    When ``page_ledger`` is provided, append one dict for every consumed PDF
+    page.  This is deliberately recorded here, before pages can be discarded:
+    a data page without an open banner block used to disappear silently and
+    therefore could not be distinguished from a page that was never read.
+    """
     current: Optional[Block] = None
     for page_num, words in pages:
         rows = cluster_rows(words)
         kind = classify_page(rows)
+        entry = {
+            "source_page": page_num,
+            "classification": kind,
+            "assigned_to_block": False,
+            "block_start_page": None,
+            "office": "",
+            "funding_year": None,
+            "word_count": len(words),
+            "visual_row_count": len(rows),
+            "reason": "",
+        }
         if kind == "banner":
             if current is not None:
                 yield current
             header = parse_banner(rows, page_num)
             current = Block(header=header, pages=[page_num], rows_by_page={page_num: rows})
+            entry.update(
+                assigned_to_block=True,
+                block_start_page=page_num,
+                office=header.office,
+                funding_year=header.funding_year,
+                reason="block_start",
+            )
         elif kind == "data":
             if current is not None:
                 current.pages.append(page_num)
                 current.rows_by_page[page_num] = rows
+                entry.update(
+                    assigned_to_block=True,
+                    block_start_page=current.header.start_page,
+                    office=current.header.office,
+                    funding_year=current.header.funding_year,
+                    reason="block_data",
+                )
+            else:
+                entry["reason"] = "orphan_data_no_banner"
             # A data page with no open block (e.g. mid-stream extraction) is dropped;
-            # the pipeline should always start extraction before the first banner.
+            # the ledger makes that loss a release-gating coverage finding.
         else:
             if current is not None:
+                entry.update(
+                    block_start_page=current.header.start_page,
+                    office=current.header.office,
+                    funding_year=current.header.funding_year,
+                    reason="terminates_block",
+                )
                 yield current
                 current = None
+            else:
+                entry["reason"] = "non_data"
+        if page_ledger is not None:
+            page_ledger.append(entry)
     if current is not None:
         yield current

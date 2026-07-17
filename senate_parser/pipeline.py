@@ -14,9 +14,18 @@ import csv
 import json
 import os
 import re
+from collections import Counter
 
 from .assemble import CSV_COLUMNS, block_rows, match_senator
 from .audit import audit_rows, build_manifest
+from .coverage import (
+    COVERAGE_FINDING_FIELDS,
+    PAGE_LEDGER_FIELDS,
+    banner_check_findings,
+    finalize_finding,
+    hard_audit_findings,
+    unparsed_item_findings,
+)
 from .extract import iter_pages
 from .records import PERSONNEL_ROLLUP_LABELS, parse_block
 from .reconcile import banner_checks, reconcile_block
@@ -33,6 +42,47 @@ CSV_HEADER_NOTE = (
 # so anything under 90% means the matcher (not the data) regressed.
 BIOGUIDE_MATCH_RATE_FLOOR = 0.90
 
+# Cross-year payroll netting: 113th/114th-congress committee rosters print
+# under one resolution account (S.RES. 64B (113TH)) while the money is
+# booked against a sibling year's (S.RES. 73B (114TH)). Strip the resolution
+# clause and any 'FY YYYY' suffix so the two blocks collapse to one key and
+# their offsetting NET PAYROLL residuals can be recognized as source-side
+# cross-year attribution. ETHICS COMMITTEE uses 'FY YYYY' instead of an
+# S.RES. clause — same treatment.
+_OFFICE_KEY_S_RES_RE = re.compile(r"\s*-?\s*S\.?\s*RES\..*$")
+_OFFICE_KEY_FY_RE = re.compile(r"\s*-?\s*FY\s*\d{4}.*$")
+
+
+def _normalize_office_key(office: str) -> str:
+    if not office:
+        return office
+    key = _OFFICE_KEY_S_RES_RE.sub("", office)
+    key = _OFFICE_KEY_FY_RE.sub("", key)
+    return key.strip()
+
+
+def _apply_cross_year_release(processed) -> None:
+    """For each normalized office, if its failing NET PAYROLL segment checks
+    net to ~$0 across that office's blocks, tag the checks 'cross_year' and
+    retag their records 'source_mismatch' (publish). See pipeline.run docstring
+    for the verified source-side attribution this releases."""
+    net_fails_by_office = {}
+    for block, result, reconciled, _ in processed:
+        key = _normalize_office_key(block.header.office)
+        for check in reconciled.checks:
+            if check.basis == "segment" and check.status == "fail" and check.label in PERSONNEL_ROLLUP_LABELS:
+                net_fails_by_office.setdefault(key, []).append((result, check))
+    for items in net_fails_by_office.values():
+        if len(items) < 2:
+            continue
+        if abs(sum(c.actual - c.expected for _, c in items)) > 1.00:
+            continue
+        for result, check in items:
+            check.second_opinion = "cross_year"
+            for rec in result.records:
+                if rec.validation_status == "fail" and rec.category == check.label:
+                    rec.validation_status = "source_mismatch"
+
 
 def _write_csv(path: str, rows: list) -> None:
     with open(path, "w", newline="") as f:
@@ -41,6 +91,35 @@ def _write_csv(path: str, rows: list) -> None:
         writer.writerow(CSV_COLUMNS)
         for row in rows:
             writer.writerow([row[col] for col in CSV_COLUMNS])
+
+
+def tag_fy_boundary_patterns(reconciliation_rows: list) -> None:
+    """Tag BANNER NET PAYROLL fails whose office spans multiple funding
+    years in this report with context='fy_boundary_pattern'.
+
+    870 modern-era NET PAYROLL banner-vs-body fails concentrate in
+    FY-boundary offices (a Senator's FY2024 block and FY2025 block in
+    the same report): the banner's NET PAYROLL figure is per-FY, but the
+    block body can include cross-year bookings, so the check fails for
+    structural reasons. Tagging these lets the 2,566 ORGANIZATION
+    TOTALS fails stand out as the real review queue.
+
+    Mutates rows in place. Idempotent: re-running on tagged rows is a
+    no-op (the tag is only ever set, never cleared, and the condition
+    doesn't change)."""
+    from collections import defaultdict
+    office_fys = defaultdict(set)
+    for row in reconciliation_rows:
+        office = row.get("office", "")
+        if office:
+            office_fys[office].add(row.get("funding_year", ""))
+    multi_fy_offices = {o for o, fys in office_fys.items() if len(fys) > 1}
+    for row in reconciliation_rows:
+        if (row.get("basis") == "banner"
+                and row.get("label") == "BANNER NET PAYROLL"
+                and row.get("status") == "fail"
+                and row.get("office", "") in multi_fy_offices):
+            row["context"] = "fy_boundary_pattern"
 
 
 def run(
@@ -73,8 +152,10 @@ def run(
     senator_rows_total = 0
     senator_rows_matched = 0
     processed = []
+    page_ledger = []
+    coverage_findings = []
 
-    blocks = segment_blocks(iter_pages(pdf_path, first, last))
+    blocks = segment_blocks(iter_pages(pdf_path, first, last), page_ledger=page_ledger)
     for block in blocks:
         result = parse_block(block, template=template)
         reconciled = reconcile_block(result, template=template)
@@ -96,13 +177,15 @@ def run(
 
         # Advisory banner cross-check: the banner page's summary table is
         # an additional printed source for the block's period totals.
+        has_salary = any(r.record_type == "salary" for r in result.records)
         banner = banner_checks(
             parse_banner_summary(block.rows_by_page[block.header.start_page]),
             reconciled,
             block.header.start_page,
+            has_salary_records=has_salary,
         )
         reconciled.checks.extend(banner)
-        banner_severity = {"ok": 0, "banner_missing": 1, "warn": 2, "fail": 3}
+        banner_severity = {"ok": 0, "not_applicable": 0, "banner_missing": 1, "warn": 2, "fail": 3}
         banner_status = max((c.status for c in banner), key=lambda s: banner_severity[s])
 
         processed.append((block, result, reconciled, banner_status))
@@ -115,24 +198,50 @@ def run(
     # failing NET PAYROLL residuals cancel out across its blocks, the
     # rows are faithful transcriptions of a source-side cross-year
     # attribution -- release them like any other source_mismatch,
-    # recording the distinct 'cross_year' verdict.
-    net_fails_by_office = {}
-    for block, result, reconciled, _ in processed:
-        for check in reconciled.checks:
-            if check.basis == "segment" and check.status == "fail" and check.label in PERSONNEL_ROLLUP_LABELS:
-                net_fails_by_office.setdefault(block.header.office, []).append((result, check))
-    for office, items in net_fails_by_office.items():
-        if len(items) < 2:
-            continue
-        if abs(sum(c.actual - c.expected for _, c in items)) > 1.00:
-            continue
-        for result, check in items:
-            check.second_opinion = "cross_year"
-            for rec in result.records:
-                if rec.validation_status == "fail" and rec.category == check.label:
-                    rec.validation_status = "source_mismatch"
+    # recording the distinct 'cross_year' verdict. The netting key is
+    # normalized (see _normalize_office_key) so a 113th-congress roster
+    # and its 114th-congress sibling — which print under different
+    # resolution accounts — pair correctly.
+    _apply_cross_year_release(processed)
 
     for block, result, reconciled, banner_status in processed:
+        no_header_pages = {
+            item.get("page")
+            for item in result.unparsed
+            if item.get("reason") == "no_header"
+        }
+        for page in sorted(p for p in no_header_pages if p is not None):
+            coverage_findings.append(
+                finalize_finding(
+                    {
+                        "severity": "error",
+                        "reason": "column_calibration_failed",
+                        "source_doc": source_doc,
+                        "source_pdf": os.path.basename(pdf_path),
+                        "reference_page": page + page_offset,
+                        "office": block.header.office,
+                        "funding_year": block.header.funding_year,
+                        "detail": "Data page header was recognized, but its columns could not be calibrated.",
+                    }
+                )
+            )
+
+        if len(block.pages) > 1 and not result.records and not result.subtotals:
+            coverage_findings.append(
+                finalize_finding(
+                    {
+                        "severity": "error",
+                        "reason": "empty_data_block",
+                        "source_doc": source_doc,
+                        "source_pdf": os.path.basename(pdf_path),
+                        "reference_page": block.header.start_page + page_offset,
+                        "office": block.header.office,
+                        "funding_year": block.header.funding_year,
+                        "detail": f"Block spans {len(block.pages) - 1} data page(s) but produced no records or subtotals.",
+                    }
+                )
+            )
+
         for check in reconciled.checks:
             reconciliation_rows.append(
                 {
@@ -148,8 +257,37 @@ def run(
                     "basis": check.basis,
                     "second_opinion": check.second_opinion,
                     "independent_sum": check.independent_sum,
+                    "context": "",
                 }
             )
+            if check.status == "zero_records":
+                coverage_findings.append(
+                    finalize_finding(
+                        {
+                            "severity": "error",
+                            "reason": "unexpected_zero_records",
+                            "source_doc": source_doc,
+                            "source_pdf": os.path.basename(pdf_path),
+                            "reference_page": check.page + page_offset,
+                            "office": block.header.office,
+                            "funding_year": block.header.funding_year,
+                            "label": check.label,
+                            "expected": check.expected,
+                            "detail": "A normally itemized subtotal has no parsed records; exact review is required.",
+                        }
+                    )
+                )
+
+        coverage_findings.extend(
+            banner_check_findings(
+                reconciled.checks,
+                source_doc,
+                os.path.basename(pdf_path),
+                block.header.office,
+                block.header.funding_year,
+                page_offset,
+            )
+        )
 
         for item in result.unparsed:
             unparsed_items.append(
@@ -200,6 +338,9 @@ def run(
                 "status": reconciled.block_status,
                 "banner_status": banner_status,
                 "record_count": len(rows),
+                "page_count": len(block.pages),
+                "continuation_page_count": max(0, len(block.pages) - 1),
+                "subtotal_count": len(result.subtotals),
                 "rows_quarantined": len(block_quarantined),
                 "records_checked": reconciled.records_checked,
                 "dollars_checked": reconciled.dollars_checked,
@@ -209,8 +350,53 @@ def run(
             }
         )
 
+    source_pdf = os.path.basename(pdf_path)
+    for entry in page_ledger:
+        entry["source_doc"] = source_doc
+        entry["source_pdf"] = source_pdf
+        entry["reference_page"] = entry["source_page"] + page_offset
+        block_start = entry.get("block_start_page")
+        entry["block_reference_start"] = (
+            block_start + page_offset if block_start is not None else ""
+        )
+        if entry["classification"] == "data" and not entry["assigned_to_block"]:
+            coverage_findings.append(
+                finalize_finding(
+                    {
+                        "severity": "error",
+                        "reason": "orphan_data_page",
+                        "source_doc": source_doc,
+                        "source_pdf": source_pdf,
+                        "reference_page": entry["reference_page"],
+                        "detail": "Recognized data page was not assigned to an office/account block.",
+                    }
+                )
+            )
+
+    if last is not None:
+        expected_sequence = list(range(first, last + 1))
+        actual_sequence = [entry["source_page"] for entry in page_ledger]
+        if actual_sequence != expected_sequence:
+            coverage_findings.append(
+                finalize_finding(
+                    {
+                        "severity": "error",
+                        "reason": "page_range_incomplete",
+                        "source_doc": source_doc,
+                        "source_pdf": source_pdf,
+                        "expected": f"{first}-{last}",
+                        "detail": (
+                            f"Requested {len(expected_sequence)} sequential pages but consumed "
+                            f"{len(actual_sequence)}: {actual_sequence[:3]}...{actual_sequence[-3:]}"
+                        ),
+                    }
+                )
+            )
+
     _write_csv(os.path.join(out_dir, "senate_data_cleaned.csv"), cleaned_rows)
     _write_csv(os.path.join(out_dir, "quarantine.csv"), quarantine_rows)
+
+    tag_fy_boundary_patterns(reconciliation_rows)
 
     with open(os.path.join(out_dir, "reconciliation_report.csv"), "w", newline="") as f:
         fieldnames = [
@@ -226,6 +412,7 @@ def run(
             "basis",
             "second_opinion",
             "independent_sum",
+            "context",
         ]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -259,6 +446,13 @@ def run(
     # Quarantined rows are audited too: they may be released after review
     # and should be just as clean as published ones.
     violations = audit_rows(cleaned_rows + quarantine_rows) + second_opinion_audit_rows
+    source_pdf = os.path.basename(pdf_path)
+    audit_gate_findings = hard_audit_findings(violations, source_pdf)
+    unparsed_gate_findings = unparsed_item_findings(
+        unparsed_items, source_doc, source_pdf
+    )
+    coverage_findings.extend(audit_gate_findings)
+    coverage_findings.extend(unparsed_gate_findings)
     with open(os.path.join(out_dir, "audit_report.csv"), "w", newline="") as f:
         fieldnames = [
             "reason", "source_doc", "reference_page", "raw_office",
@@ -268,11 +462,28 @@ def run(
         writer.writeheader()
         writer.writerows(violations)
 
-    if block_summaries:
-        with open(os.path.join(out_dir, "block_summaries.csv"), "w", newline="") as f:
-            writer = csv.DictWriter(f, fieldnames=list(block_summaries[0].keys()))
-            writer.writeheader()
-            writer.writerows(block_summaries)
+    block_summary_fields = [
+        "office", "funding_year", "start_page", "status", "banner_status",
+        "record_count", "page_count", "continuation_page_count", "subtotal_count",
+        "rows_quarantined", "records_checked", "dollars_checked",
+        "dollars_unchecked", "amount_parse_failures", "pages_skipped",
+    ]
+    with open(os.path.join(out_dir, "block_summaries.csv"), "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=block_summary_fields)
+        writer.writeheader()
+        writer.writerows(block_summaries)
+
+    with open(os.path.join(out_dir, "page_ledger.csv"), "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=PAGE_LEDGER_FIELDS)
+        writer.writeheader()
+        writer.writerows(page_ledger)
+
+    with open(os.path.join(out_dir, "coverage_report.csv"), "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=COVERAGE_FINDING_FIELDS)
+        writer.writeheader()
+        writer.writerows(coverage_findings)
+
+    page_classifications = Counter(entry["classification"] for entry in page_ledger)
 
     stats = {
         "blocks": len(block_summaries),
@@ -282,7 +493,19 @@ def run(
         "bioguide_match_rate": bioguide_match_rate,
         "senator_rows_total": senator_rows_total,
         "audit_violations": len(violations),
+        "hard_audit_violations": len(audit_gate_findings),
+        "unparsed_release_blockers": len(unparsed_gate_findings),
+        "banner_check_warnings": sum(
+            1 for finding in coverage_findings if finding["reason"].startswith("banner_check_")
+        ),
         "block_summaries": block_summaries,
+        "pages_read": len(page_ledger),
+        "page_classifications": dict(sorted(page_classifications.items())),
+        "orphan_data_pages": sum(
+            1 for finding in coverage_findings if finding["reason"] == "orphan_data_page"
+        ),
+        "coverage_findings_count": len(coverage_findings),
+        "coverage_findings": coverage_findings,
     }
 
     with open(os.path.join(out_dir, "manifest.json"), "w") as f:

@@ -2,10 +2,10 @@ import json
 from pathlib import Path
 
 from senate_parser.extract import Word
-from senate_parser.reconcile import parse_amount, reconcile_block
+from senate_parser.reconcile import banner_checks, parse_amount, reconcile_block
 from senate_parser.records import parse_block
 from senate_parser.rows import cluster_rows
-from senate_parser.segment import Block, BlockHeader
+from senate_parser.segment import BannerSummary, Block, BlockHeader
 
 FIXTURES = Path(__file__).parent / "fixtures"
 
@@ -274,3 +274,54 @@ def test_records_tagged_with_segment_outcome_on_real_block():
     assert salary
     assert all(r.validation_status == "ok" for r in salary)
     assert all(r.category == "PERSONNEL COMP. FULL-TIME PERMANENT" for r in salary)
+
+
+def test_banner_net_payroll_not_applicable_for_expense_only_block():
+    """5,281 modern-era BANNER NET PAYROLL banner_missing checks are
+    expense-only blocks (e.g. CONSULTANTS, MISC ITEMS) that structurally
+    have no payroll rollup and no salary records -- the banner simply
+    doesn't print a NET PAYROLL figure. Reclassify to 'not_applicable'
+    so the 2,566 ORGANIZATION TOTALS fails stand out as the real queue."""
+    # Expense-only block: no salary records, no rollup check, no banner
+    # NET PAYROLL figure.
+    summary = BannerSummary(net_payroll=None, organization_totals=1000.0)
+    reconciled = reconcile_block(parse_block(make_block([1000, 1001])))
+    # Strip any rollup check to simulate an expense-only block.
+    reconciled.checks = [c for c in reconciled.checks
+                         if c.label not in {"NET PAYROLL EXPENSES"}]
+    checks = banner_checks(summary, reconciled, page=17, has_salary_records=False)
+    payroll = next(c for c in checks if c.label == "BANNER NET PAYROLL")
+    assert payroll.status == "not_applicable", (
+        f"expense-only block should be not_applicable, got {payroll.status}")
+    # ORGANIZATION TOTALS is unaffected -- it has a banner figure.
+    org = next(c for c in checks if c.label == "BANNER ORGANIZATION TOTALS")
+    assert org.status in ("ok", "warn", "fail", "banner_missing")
+
+
+def test_banner_net_payroll_banner_missing_when_block_has_salary_records():
+    """A block WITH salary records but no banner NET PAYROLL figure is a
+    genuine banner_missing -- the banner should have printed one."""
+    summary = BannerSummary(net_payroll=None, organization_totals=1000.0)
+    reconciled = reconcile_block(parse_block(make_block([1000, 1001])))
+    checks = banner_checks(summary, reconciled, page=17, has_salary_records=True)
+    payroll = next(c for c in checks if c.label == "BANNER NET PAYROLL")
+    assert payroll.status == "banner_missing", (
+        f"block with salary records should be banner_missing, got {payroll.status}")
+
+
+def test_banner_net_payroll_not_applicable_only_when_no_rollup_line():
+    """A block with no salary records BUT a printed rollup line (e.g. a
+    zero-dollar NET PAYROLL EXPENSES subtotal) is not 'not_applicable' --
+    the rollup exists, so the banner missing it is still a real signal."""
+    from senate_parser.reconcile import ReconcileResult, SubtotalCheck
+    summary = BannerSummary(net_payroll=None, organization_totals=1000.0)
+    reconciled = ReconcileResult(
+        checks=[SubtotalCheck(label="NET PAYROLL EXPENSES", page=17,
+                              expected=0.0, actual=0.0, status="no_records",
+                              basis="segment")],
+        block_status="ok",
+    )
+    checks = banner_checks(summary, reconciled, page=17, has_salary_records=False)
+    payroll = next(c for c in checks if c.label == "BANNER NET PAYROLL")
+    assert payroll.status == "banner_missing", (
+        f"block with a rollup line should be banner_missing, got {payroll.status}")

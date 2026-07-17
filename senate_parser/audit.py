@@ -9,10 +9,10 @@ parse, and an office name contaminated with banner boilerplate
 whose 'Funding Year X' line fell through FUNDING_YEAR_RE's 4-digit
 requirement).
 
-Everything here is advisory: violations go to audit_report.csv for human
-review, nothing is dropped or quarantined. Duplicate detection especially
-must stay advisory -- identical per-diem line items are routine and
-legitimate.
+Violations go to audit_report.csv for human review and do not themselves
+change which rows are published.  The release runner treats the hard reasons
+listed below as blocking coverage findings.  Duplicate detection must stay
+advisory -- identical per-diem line items are routine and legitimate.
 
 The manifest ties a run's outputs to their inputs (source-PDF SHA-256,
 page range, parser git commit, tolerances) so any published number can be
@@ -49,11 +49,29 @@ OFFICE_CONTAMINATION_MARKERS = (
 
 FUNDING_YEAR_RANGE = (2000, 2040)
 
+# These are evidence of malformed published fields, not merely patterns worth
+# reviewing.  Keep duplicate detection advisory: the source legitimately
+# contains repeated per-diem line items.
+HARD_AUDIT_REASONS = frozenset(
+    {
+        "unparseable_amount",
+        "unparseable_date",
+        "contaminated_office_name",
+        "funding_year_out_of_range",
+        "funding_year_not_numeric",
+        "salary_row_missing_payee",
+        "second_opinion_disagrees",
+    }
+)
+
+
+def is_hard_audit_violation(violation: dict) -> bool:
+    """Whether an audit violation must block an unattended release."""
+    return violation.get("reason") in HARD_AUDIT_REASONS
+
 
 def audit_rows(rows: list) -> list:
-    """Return advisory violations for assembled output rows (published and
-    quarantined alike -- quarantined rows may be released later and should
-    be just as clean)."""
+    """Return output-audit violations for published and quarantined rows."""
     violations = []
 
     def flag(row, reason, detail=""):
@@ -129,7 +147,7 @@ def audit_rows(rows: list) -> list:
     return violations
 
 
-def _git_commit() -> str:
+def git_commit() -> str:
     try:
         return subprocess.run(
             ["git", "rev-parse", "HEAD"], capture_output=True, text=True, timeout=10
@@ -138,7 +156,21 @@ def _git_commit() -> str:
         return ""
 
 
-def _sha256(path: str) -> str:
+def git_dirty() -> bool:
+    """Whether tracked files differ from HEAD (untracked release outputs excluded)."""
+    try:
+        result = subprocess.run(
+            ["git", "status", "--porcelain", "--untracked-files=no"],
+            capture_output=True,
+            text=True,
+            timeout=10,
+        )
+        return bool(result.stdout.strip()) if result.returncode == 0 else True
+    except Exception:
+        return True
+
+
+def sha256_file(path: str) -> str:
     h = hashlib.sha256()
     with open(path, "rb") as f:
         for chunk in iter(lambda: f.read(1 << 20), b""):
@@ -150,10 +182,11 @@ def build_manifest(pdf_path: str, source_doc: str, first, last, page_offset, sta
     return {
         "source_doc": source_doc,
         "pdf_path": pdf_path,
-        "pdf_sha256": _sha256(pdf_path),
+        "pdf_sha256": sha256_file(pdf_path),
         "page_range": [first, last],
         "page_offset": page_offset,
-        "parser_git_commit": _git_commit(),
+        "parser_git_commit": git_commit(),
+        "parser_git_dirty": git_dirty(),
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "tolerances": {"ok": OK_TOLERANCE, "warn": WARN_TOLERANCE},
         "blocks": stats.get("blocks"),
@@ -162,4 +195,11 @@ def build_manifest(pdf_path: str, source_doc: str, first, last, page_offset, sta
         "unparsed": stats.get("unparsed"),
         "bioguide_match_rate": stats.get("bioguide_match_rate"),
         "audit_violations": stats.get("audit_violations"),
+        "hard_audit_violations": stats.get("hard_audit_violations"),
+        "unparsed_release_blockers": stats.get("unparsed_release_blockers"),
+        "banner_check_warnings": stats.get("banner_check_warnings"),
+        "pages_read": stats.get("pages_read"),
+        "page_classifications": stats.get("page_classifications"),
+        "orphan_data_pages": stats.get("orphan_data_pages"),
+        "coverage_findings": stats.get("coverage_findings_count"),
     }

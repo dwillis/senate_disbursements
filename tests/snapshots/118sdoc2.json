@@ -2,11 +2,12 @@
  "blocks": 1075,
  "records_published": 47496,
  "records_quarantined": 0,
- "unparsed": 1,
+ "unparsed": 0,
  "check_status_histogram": {
-  "banner_missing": 687,
+  "banner_missing": 511,
   "fail": 515,
   "no_records": 273,
+  "not_applicable": 176,
   "ok": 2445
  },
  "published_dollars": 403449151.64,
@@ -1784,14 +1785,14 @@
    "record_count": 0
   },
   {
-   "office": "CARES ACT EMERG. APPROP. P.L. 116-136 Funding Year MISCELLANEOUS ITEMS",
+   "office": "CARES ACT EMERG. APPROP. P.L. 116-136",
    "funding_year": null,
    "start_page": 309,
    "status": "ok",
    "record_count": 0
   },
   {
-   "office": "EMERGENCY APPROPRIATION PUBLIC LAW 109-13 Funding Year MISCELLANEOUS ITEMS",
+   "office": "EMERGENCY APPROPRIATION PUBLIC LAW 109-13",
    "funding_year": null,
    "start_page": 310,
    "status": "ok",
@@ -1903,42 +1904,42 @@
    "record_count": 10
   },
   {
-   "office": "SECRETARY OF THE SENATE - OPERATING EXPENSES Funding Year SECRETARY OF THE SENATE",
+   "office": "SECRETARY OF THE SENATE - OPERATING EXPENSES",
    "funding_year": null,
    "start_page": 331,
    "status": "ok",
    "record_count": 0
   },
   {
-   "office": "SECRETARY OF THE SENATE - (LIS PROJECT) Funding Year SECRETARY OF THE SENATE",
+   "office": "SECRETARY OF THE SENATE - (LIS PROJECT)",
    "funding_year": null,
    "start_page": 332,
    "status": "ok",
    "record_count": 1
   },
   {
-   "office": "SECRETARY - EMRGCY APPROPS FOR TERR RESPONSE Funding Year SECRETARY OF THE SENATE",
+   "office": "SECRETARY - EMRGCY APPROPS FOR TERR RESPONSE",
    "funding_year": null,
    "start_page": 333,
    "status": "ok",
    "record_count": 0
   },
   {
-   "office": "SECRETARY - FINANCIAL SYSTEM MODERNIZATION Funding Year SECRETARY OF THE SENATE",
+   "office": "SECRETARY - FINANCIAL SYSTEM MODERNIZATION",
    "funding_year": null,
    "start_page": 334,
    "status": "ok",
    "record_count": 12
   },
   {
-   "office": "SECRETARY - SENATE COLLECTION Funding Year SECRETARY OF THE SENATE",
+   "office": "SECRETARY - SENATE COLLECTION",
    "funding_year": null,
    "start_page": 335,
    "status": "ok",
    "record_count": 14
   },
   {
-   "office": "SECRETARY - PRESERVING/ARCHIVING SENATORS RECORDS Funding Year SECRETARY OF THE SENATE",
+   "office": "SECRETARY - PRESERVING/ARCHIVING SENATORS RECORDS",
    "funding_year": null,
    "start_page": 336,
    "status": "ok",
@@ -2022,49 +2023,49 @@
    "record_count": 1631
   },
   {
-   "office": "SAA - CARES ACT EMER. APPR. P.L. 116-136 Funding Year SERGEANT AT ARMS AND DOORKEEPER",
+   "office": "SAA - CARES ACT EMER. APPR. P.L. 116-136",
    "funding_year": null,
    "start_page": 433,
    "status": "ok",
    "record_count": 0
   },
   {
-   "office": "SAA - EMERG SUPP NO YEAR FUNDS Funding Year SERGEANT AT ARMS AND DOORKEEPER",
+   "office": "SAA - EMERG SUPP NO YEAR FUNDS",
    "funding_year": null,
    "start_page": 434,
    "status": "ok",
    "record_count": 0
   },
   {
-   "office": "SAA - JOINT AUDIBLE WARNING SYSTEM Funding Year SERGEANT AT ARMS AND DOORKEEPER",
+   "office": "SAA - JOINT AUDIBLE WARNING SYSTEM",
    "funding_year": null,
    "start_page": 435,
    "status": "ok",
    "record_count": 0
   },
   {
-   "office": "SGT @ ARMS - PROTECTIVE SERVICES & CONTINUITY Funding Year SERGEANT AT ARMS AND DOORKEEPER",
+   "office": "SGT @ ARMS - PROTECTIVE SERVICES & CONTINUITY",
    "funding_year": null,
    "start_page": 436,
    "status": "ok",
    "record_count": 0
   },
   {
-   "office": "SAA - RECORD STUDIO NO YEAR FUNDS Funding Year SERGEANT AT ARMS AND DOORKEEPER",
+   "office": "SAA - RECORD STUDIO NO YEAR FUNDS",
    "funding_year": null,
    "start_page": 437,
    "status": "ok",
    "record_count": 0
   },
   {
-   "office": "SAA - SENATE HEARING ROOM AUDIOVISUAL EQUIPMENT Funding Year SERGEANT AT ARMS AND DOORKEEPER",
+   "office": "SAA - SENATE HEARING ROOM AUDIOVISUAL EQUIPMENT",
    "funding_year": null,
    "start_page": 438,
    "status": "ok",
    "record_count": 12
   },
   {
-   "office": "SAA - SMI PROJECT Funding Year SERGEANT AT ARMS AND DOORKEEPER",
+   "office": "SAA - SMI PROJECT",
    "funding_year": null,
    "start_page": 439,
    "status": "ok",
@@ -6544,7 +6545,7 @@
    "record_count": 8
   },
   {
-   "office": "STATIONERY Funding Year STATIONERY REVOLVING FUND",
+   "office": "STATIONERY",
    "funding_year": null,
    "start_page": 2396,
    "status": "ok",
@@ -6684,14 +6685,14 @@
    "record_count": 0
   },
   {
-   "office": "SAA - BUSINESS CONTINUITY AND DISASTER RECOVERY FUND Funding Year SAA - BUSINESS CONTINUITY AND DISASTER RECOVERY FUND",
+   "office": "SAA - BUSINESS CONTINUITY AND DISASTER RECOVERY FUND",
    "funding_year": null,
    "start_page": 2416,
    "status": "ok",
    "record_count": 8
   },
   {
-   "office": "SERGEANT AT ARMS FELLOWSHIPS FUND Funding Year SERGEANT AT ARMS FELLOWSHIPS FUND",
+   "office": "SERGEANT AT ARMS FELLOWSHIPS FUND",
    "funding_year": null,
    "start_page": 2417,
    "status": "ok",
@@ -6768,63 +6769,63 @@
    "record_count": 28
   },
   {
-   "office": "OFFICE OF CONGRESSIONAL ACCESSIBILITY SERVICES Funding Year CONGRESSIONAL ACCESSIBILITY SERVICES",
+   "office": "OFFICE OF CONGRESSIONAL ACCESSIBILITY SERVICES",
    "funding_year": null,
    "start_page": 2431,
    "status": "ok",
    "record_count": 1
   },
   {
-   "office": "COMPUTER CENTER REVOLVING FUND Funding Year SENATE COMPUTER CENTER REVOLVING FUND",
+   "office": "COMPUTER CENTER REVOLVING FUND",
    "funding_year": null,
    "start_page": 2432,
    "status": "ok",
    "record_count": 0
   },
   {
-   "office": "HEALTH & PROMOTION Funding Year SENATE HEALTH PROMOTION REVOLVING FUND",
+   "office": "HEALTH & PROMOTION",
    "funding_year": null,
    "start_page": 2433,
    "status": "ok",
    "record_count": 0
   },
   {
-   "office": "PUBLIC RECORDS Funding Year SENATE OFFICE OF PUBLIC RECORDS REVOLVING FUND",
+   "office": "PUBLIC RECORDS",
    "funding_year": null,
    "start_page": 2434,
    "status": "ok",
    "record_count": 0
   },
   {
-   "office": "GIFT SHOP Funding Year SENATE GIFT SHOP REVOLVING FUND",
+   "office": "GIFT SHOP",
    "funding_year": null,
    "start_page": 2435,
    "status": "ok",
    "record_count": 14
   },
   {
-   "office": "PHOTOGRAPHIC STUDIO Funding Year SENATE PHOTOGRAPHIC STUDIO REVOLVING FUND",
+   "office": "PHOTOGRAPHIC STUDIO",
    "funding_year": null,
    "start_page": 2436,
    "status": "ok",
    "record_count": 4
   },
   {
-   "office": "RECORDING STUDIO Funding Year SENATE RECORDING STUDIO REVOLVING FUND",
+   "office": "RECORDING STUDIO",
    "funding_year": null,
    "start_page": 2437,
    "status": "ok",
    "record_count": 25
   },
   {
-   "office": "DANIEL WEBSTER SENATE PAGE RESIDENCE Funding Year DANIEL WEBSTER SENATE PAGE RESIDENCE REVOLVING FUND",
+   "office": "DANIEL WEBSTER SENATE PAGE RESIDENCE",
    "funding_year": null,
    "start_page": 2439,
    "status": "ok",
    "record_count": 14
   },
   {
-   "office": "SENATE HAIR CARE Funding Year SENATE HAIR CARE SERVICES REVOLVING FUND",
+   "office": "SENATE HAIR CARE",
    "funding_year": null,
    "start_page": 2440,
    "status": "ok",

@@ -276,3 +276,32 @@ def test_second_amount_in_tight_group_becomes_own_record():
     transport = next(r for r in bittleman if r.amount == "103.14")
     assert transport.document_number == per_diem.document_number == "DFIN21500039"
     assert "STAFF TRANSPORTATION" in transport.description
+
+
+def test_compensation_of_members_header_variant_calibrates():
+    """114sdoc4 p2069 (COMPENSATION OF MEMBERS) uses a third header
+    variant: 'DOCUMENT NO' (no period) and 'AMOUNT' + '($)' as separate
+    words, vs the regular anchor header's 'DOCUMENT NO.' and 'AMOUNT ($)'
+    as one word. The anchor calibration must recognize both variants so
+    the page's 9 no_header blocks (3 per 114-era doc) parse instead of
+    being skipped. Verified: BIDEN's payee at x0=156.93 falls in the
+    payee band, and the $115,350.00 amount at x0=562.42 falls in the
+    amount band."""
+    cols = calibrate_columns(rows_of("114sdoc4_page_2069"), template="anchor")
+    assert cols is not None
+    # BIDEN, JOSEPH R JR. payee at x0=156.93, x1=201.50
+    assert cols.payee[0] <= 156.93 <= cols.payee[1]
+    # $115,350.00 amount at x0=562.42, x1=583.89
+    assert cols.amount[0] <= 562.42 <= cols.amount[1]
+    assert cols.amount[0] <= 583.89 <= cols.amount[1]
+
+
+def test_compensation_of_members_page_parses_records():
+    """The 9 COMPENSATION OF MEMBERS no_header pages (3 per 114-era doc)
+    must produce records once the header variant is recognized. BIDEN's
+    $115,350.00 salary row is the first data row on 114sdoc4 p2069."""
+    block = make_block("114sdoc4_page_2069", 2069)
+    result = parse_block(block, template="anchor")
+    biden = next(r for r in result.records if "BIDEN" in r.payee)
+    assert biden.amount == "115,350.00"
+    assert "VICE PRESIDENT" in biden.description

@@ -23,6 +23,8 @@ import os
 from collections import Counter
 from pathlib import Path
 
+from senate_parser.reports import SNAPSHOT_REPORTS_DICT as REPORTS
+
 import pytest
 
 from senate_parser.pipeline import run
@@ -30,18 +32,6 @@ from senate_parser.reconcile import parse_amount
 
 SNAPSHOTS = Path(__file__).parent / "snapshots"
 DATA = Path(__file__).parent.parent / "data"
-
-# (source_doc, volume file suffix -> page count). Volume 2's page_offset is
-# volume 1's page count, matching how the shipped CSVs were produced.
-REPORTS = {
-    "117sdoc8": [("-1", 1040), ("-2", 1198)],
-    "118sdoc2": [("-1", 1291), ("-2", 1348)],
-    "118sdoc11": [("-1", 1387), ("-2", 1278)],
-    "118sdoc13": [("-1", 1495), ("-2", 1484)],
-    "119sdoc3": [("-1", 1335), ("-2", 1350)],
-    "119sdoc5": [("-1", 1476), ("-2", 1542)],
-    "119sdoc6": [("-1", 1259), ("-2", 1264)],
-}
 
 
 def _dollar_total(csv_path: Path) -> float:

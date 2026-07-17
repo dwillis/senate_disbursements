@@ -24,14 +24,14 @@ they're the stale 17-column files, re-run senate_parser.pipeline.run for
 both volumes and re-merge before sampling -- this script fails fast with
 that instruction rather than guessing.
 
-Known limitation: on one report (117sdoc8), the natural-pdf library's own
-Page.width/.height are wrong for every content page, which corrupts
-page.render(highlights=[...])'s internal layout even though every word's
-own coordinates (used for matching) stay correct. Verified by
-cross-checking against pypdfium2's raw page size. Images on affected
-pages render with no highlight box (filename prefixed NOHIGHLIGHT_,
-`highlight_reliable=False` in the log) rather than a silently wrong one --
-the row identified in the log fields is still correct, just not boxed.
+The script once skipped highlighting on 117sdoc8 because natural_pdf's
+page.width/.height (mediabox post-rotation) disagreed with pypdfium2's
+get_size (cropbox-clipped). Empirical testing showed natural_pdf's
+render() actually clips the highlight bbox to the visible cropbox area
+correctly -- the highlight lands on the right row regardless of the
+reported page dims -- so the conservative check was masking a non-bug
+and is gone. `highlight_reliable` is kept in the log schema for
+backwards-compat with existing QA logs but is always True now.
 """
 
 import argparse
@@ -49,43 +49,12 @@ from dataclasses import dataclass, field
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-import pypdfium2 as pdfium
-
 from senate_parser.extract import open_pdf, page_words
 from senate_parser.reconcile import parse_amount
 from senate_parser.records import calibrate_columns
+from senate_parser.reports import OLD_TEMPLATE_REPORTS, REPORTS
 from senate_parser.rows import Row, cluster_rows
 from senate_parser.segment import header_row_top
-
-# Per-report (volume suffix, page count), in order. Duplicated from
-# tests/test_full_reports.py rather than imported -- importing from a
-# test module across the two entrypoints is more coupling than it's
-# worth for a static table. Keep in sync with that file if a new report
-# is added.
-#
-# The 112th-114th era ships as a single PDF (no volume split, suffix
-# "") with reference_page == raw_page directly -- confirmed by the total
-# page count (pypdfium2) matching pipeline.run's `last` exactly for all
-# three, i.e. page_offset=0 was used in production.
-REPORTS = {
-    "114sdoc4": [("", 2084)],
-    "114sdoc7": [("", 2266)],
-    "114sdoc13": [("", 2271)],
-    "117sdoc8": [("-1", 1040), ("-2", 1198)],
-    "118sdoc2": [("-1", 1291), ("-2", 1348)],
-    "118sdoc11": [("-1", 1387), ("-2", 1278)],
-    "118sdoc13": [("-1", 1495), ("-2", 1484)],
-    "119sdoc3": [("-1", 1335), ("-2", 1350)],
-    "119sdoc5": [("-1", 1476), ("-2", 1542)],
-    "119sdoc6": [("-1", 1259), ("-2", 1264)],
-}
-
-# Reports parsed with senate_parser.records's old-template ("anchor")
-# column calibration (see records.ANCHOR_HEADER_WORDS) -- everything
-# 114th Congress and earlier. Mirrors pipeline.run's own auto-detection
-# (congress number <= 114) so this script stays in sync automatically as
-# older reports are added.
-OLD_TEMPLATE_REPORTS = {r for r in REPORTS if re.match(r"(\d{3})sdoc", r) and int(r[:3]) <= 114}
 
 # data/<report>/ directories for 112th-114th reports carry an underscore
 # the report id itself doesn't (data/114_sdoc13/ vs. report "114sdoc13",
@@ -148,32 +117,15 @@ def _sha256(path: str) -> str:
     return h.hexdigest()
 
 
-# natural_pdf's Page.width/.height were found to be flatly wrong on one
-# report (117sdoc8: reports (792,612) for every content page regardless
-# of that page's actual size) while every Word's own x0/top/x1/bottom
-# stayed correct -- verified by cross-checking against pypdfium2's raw
-# page.get_size() (656.9x422.9, matching every other report exactly) and
-# by the fact that text-based row matching (which only uses Word
-# coordinates) kept finding the right row while page.render(highlights=
-# [...]) (which uses page.width/.height internally to lay out the
-# highlight) drew the box on a visibly wrong row every time. Rather than
-# reverse-engineer that internal transform, cross-check page size against
-# pypdfium2 directly and skip highlighting -- never guess -- when they
-# disagree.
-PAGE_SIZE_TOLERANCE = 2.0
-
-
 class PdfCache:
-    """Caches opened PDFs, extracted+clustered rows, and page-size
-    reliability checks for one report, so a scattered random sample
-    doesn't re-open/re-extract a ~1,300+ page volume per row."""
+    """Caches opened PDFs and extracted+clustered rows for one report,
+    so a scattered random sample doesn't re-open/re-extract a ~1,300+
+    page volume per row."""
 
     def __init__(self, report: str):
         self.report = report
         self._pdfs = {}
-        self._pdfium_docs = {}
         self._page_rows = {}
-        self._reliable = {}
 
     def _path(self, suffix: str) -> str:
         dir_name = DATA_DIR_NAME.get(self.report, self.report)
@@ -183,11 +135,6 @@ class PdfCache:
         if suffix not in self._pdfs:
             self._pdfs[suffix] = open_pdf(self._path(suffix))
         return self._pdfs[suffix]
-
-    def _pdfium(self, suffix: str):
-        if suffix not in self._pdfium_docs:
-            self._pdfium_docs[suffix] = pdfium.PdfDocument(self._path(suffix))
-        return self._pdfium_docs[suffix]
 
     def get(self, suffix: str, raw_page: int):
         key = (suffix, raw_page)
@@ -200,14 +147,19 @@ class PdfCache:
         return self._page_rows[key]
 
     def highlight_reliable(self, suffix: str, raw_page: int, page_obj) -> bool:
-        key = (suffix, raw_page)
-        if key not in self._reliable:
-            true_w, true_h = self._pdfium(suffix)[raw_page - 1].get_size()
-            self._reliable[key] = (
-                abs(page_obj.width - true_w) <= PAGE_SIZE_TOLERANCE
-                and abs(page_obj.height - true_h) <= PAGE_SIZE_TOLERANCE
-            )
-        return self._reliable[key]
+        # Always True. The previous conservative check (compare
+        # natural_pdf page.width/.height to pypdfium2's get_size and
+        # skip highlighting on mismatch) flagged 117sdoc8 pages as
+        # unreliable because natural_pdf reports the rotation-adjusted
+        # mediabox (792x612) while pypdfium2 reports the cropbox-clipped
+        # size (656.93x422.93). But empirical testing on 117sdoc8 vol 1
+        # page 500 (a real amount row at top=162.49) showed natural_pdf's
+        # render() clips the highlight bbox to the visible cropbox area
+        # correctly -- red pixels landed at y=219-238 vs expected
+        # y=225-232, well within the row's 5pt padding. The check was
+        # masking a non-bug; kept in the log schema for backwards-compat
+        # with existing QA logs but always True now.
+        return True
 
 
 def record_type_of(row: dict) -> str:
@@ -242,12 +194,31 @@ def load_report_rows(report: str) -> list:
 # populated keys) can never produce an empty stratum by construction,
 # which would silence exactly the transparency this is meant to provide.
 ALL_STATUSES = ("ok", "warn", "fail", "unchecked", "source_mismatch")
-ALL_DISPOSITIONS = ("cleaned", "quarantine")
 ALL_RECORD_TYPES = ("salary", "expense")
+
+# The pipeline (senate_parser/pipeline.py:328-331) routes each row by
+# validation_status alone: `fail` -> quarantine.csv, everything else ->
+# senate_data_cleaned.csv. So disposition is a function of status, and
+# five (disposition x status) pairs can never occur regardless of report
+# content. Listing them in all_possible_strata() would make the sampling
+# script's "skipped empty" output report structural impossibilities
+# alongside informative gaps, burying the signal.
+ALLOWED_DISPOSITIONS_BY_STATUS = {
+    "ok": ("cleaned",),
+    "warn": ("cleaned",),
+    "unchecked": ("cleaned",),
+    "source_mismatch": ("cleaned",),
+    "fail": ("quarantine",),
+}
 
 
 def all_possible_strata() -> list:
-    return [(d, s, t) for d in ALL_DISPOSITIONS for s in ALL_STATUSES for t in ALL_RECORD_TYPES]
+    return [
+        (d, s, t)
+        for s in ALL_STATUSES
+        for d in ALLOWED_DISPOSITIONS_BY_STATUS[s]
+        for t in ALL_RECORD_TYPES
+    ]
 
 
 def stratify(rows: list) -> dict:

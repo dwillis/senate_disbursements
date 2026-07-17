@@ -30,11 +30,11 @@ pdftotext -v
 # 1. Download a Senate disbursement report
 python3 download_reports.py --doc 118sdoc13
 
-# 2. Process the PDF (specify page range where itemizations appear)
-python3 process_senate_disbursements.py data/118sdoc13/GPO-CDOC-118sdoc13-1.pdf --start 20 --end 2500
+# 2. Process and verify the complete report (all volumes and pages)
+python3 process_report.py 118sdoc13 --output-dir output/118sdoc13
 
 # 3. Check the output
-head data/118sdoc13/senate_data_cleaned.csv
+head output/118sdoc13/senate_data_cleaned.csv
 ```
 
 ## Features
@@ -93,7 +93,45 @@ Visit the [Senate Disbursement Reports](http://www.senate.gov/legislative/common
 
 ## Process Reports
 
-### Basic Processing
+### Release-grade report processing (recommended)
+
+```bash
+python3 process_report.py 118sdoc13 --output-dir output/118sdoc13
+```
+
+This command discovers valid PDF volumes, reads their page counts from the
+files, assigns cumulative `reference_page` offsets, runs the coordinate parser,
+merges every output artifact, and writes a top-level provenance manifest. It
+builds in a staging directory and renames that directory into place only after
+the coverage gate passes; it refuses to overwrite an existing release.
+
+The gate blocks publication when a requested page was not consumed, a data
+page was not attached to a banner block, column calibration failed, a multi-page
+data block produced nothing, or a normally itemized subtotal unexpectedly has
+zero records. It also blocks on every unparsed line and hard row-audit
+violation. Failed-run diagnostics are preserved in a hidden
+`.REPORT.failed-TIMESTAMP` directory beside the requested output.
+
+Known source exceptions must be approved by their exact key from
+`coverage_report.csv`; broad reason-level suppressions are not supported:
+
+```json
+{
+  "approved": [
+    {
+      "key": "118sdoc13|unexpected_zero_records|123|SENATOR EXAMPLE|2024|TRAVEL|100.0",
+      "reviewer": "initials",
+      "reason": "Compared with the printed page; legitimate lump-sum adjustment"
+    }
+  ]
+}
+```
+
+Pass that reviewed file with `--exceptions path/to/exceptions.json`. Senator
+bioguide matching is required by default; use `--no-bioguide` only as an
+explicit, manifest-visible opt-out.
+
+### Single-PDF processing (advanced/debugging)
 
 ```bash
 python3 process_senate_disbursements.py <pdf_file> --start <start_page> --end <end_page>
@@ -193,13 +231,17 @@ layout. It also:
   banner's summary table prints the period's Net Payroll Expenses and
   ORGANIZATION TOTALS independently of the inline listing; both are
   compared (basis `banner` in `reconciliation_report.csv`, per-block
-  `banner_status` in `block_summaries.csv`). These checks never gate
-  publishing, but they cover rows no inline subtotal covers.
+  `banner_status` in `block_summaries.csv`). Every missing or discrepant
+  banner check is also emitted as a clearly labeled warning in
+  `coverage_report.csv`, with an exact key for review. These warnings never
+  gate publishing: historical reports have legitimate source-side residuals
+  and absent banner components, so inline subtotals and the second-opinion
+  process remain the release authority.
 
-Multi-volume reports (e.g. 118sdoc13 ships as two ~1,500-page PDFs) should
-be processed once per volume, with `--output-dir` pointed at separate
-directories and the results concatenated afterward -- `reference_page`
-values are relative to each volume.
+For release output, do not concatenate multi-volume reports manually. Use
+`process_report.py`, which records the source volume on every page-ledger row
+and makes `reference_page` report-wide by applying measured cumulative page
+offsets.
 
 Outputs, in `--output-dir`:
 
@@ -233,20 +275,30 @@ Outputs, in `--output-dir`:
   block's final subtotal that no check covers. Basis `banner` rows are
   the advisory banner-page cross-checks.
 - **unparsed.jsonl** -- lines that didn't classify as a record, subtotal,
-  or continuation (well under 0.1% of lines on 118sdoc13).
+  or continuation. Any entry blocks release pending a parser fix or an exact
+  reviewed exception.
 - **block_summaries.csv** -- per office/funding-year block: status,
   banner-check status, record count, rows quarantined, dollars checked
-  vs. unchecked, amount-parse failures, pages skipped.
+  vs. unchecked, amount-parse failures, page/subtotal counts, pages skipped.
+- **page_ledger.csv** -- one row for every requested PDF page, including its
+  classification, source volume/page, report-wide page number, and block
+  assignment. This proves that pages discarded as cover/TOC material were
+  seen rather than silently skipped.
+- **coverage_report.csv** -- release-gating completeness findings, including
+  every unparsed line and hard row-audit violation, with exact exception keys.
 - **unmatched_senators.csv** -- senator-office blocks whose name didn't
   resolve to a bioguide ID, with the failure mode (`unmatched` / `error` /
   `no_year`). The pipeline warns loudly if the row-weighted match rate
   falls below 90% (clean reports run 93-96%).
-- **audit_report.csv** -- advisory row-level field checks (unparseable
-  amounts/dates, contaminated office names, out-of-range funding years,
-  duplicate-row notices). Nothing is dropped; this is a review queue.
-- **manifest.json** -- provenance: source-PDF SHA-256, page range, parser
-  git commit, timestamp, tolerances, and run counts, so any published
-  number can be traced back to its inputs and re-derived.
+- **audit_report.csv** -- row-level field checks. Malformed field failures
+  (unparseable amounts/dates, contaminated office names, and bad funding
+  years) block release; duplicate-row notices remain advisory. Nothing is
+  dropped; the report is still a review queue.
+- **manifest.json** -- per-volume runs record source-PDF SHA-256, page range,
+  parser git commit/dirty state, timestamp, tolerances, coverage counts, and
+  run counts. The report-level manifest additionally records all volumes,
+  measured page counts/offsets, rejected invalid PDF candidates, dependency
+  lock hash, reviewed exception file hash, and hashes of merged outputs.
 
 ### Regression testing
 

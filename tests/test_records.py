@@ -26,6 +26,19 @@ def find(records, payee_substr):
     return matches[0]
 
 
+def synthetic_modern_block(data_words, page=1):
+    """Build the minimum calibrated modern page around supplied data words."""
+    header_words = [
+        Word("DOCUMENT NO.", 74.0, 110.0, 0.0, 5.0),
+        Word("PAYEE NAME", 174.0, 220.0, 0.0, 5.0),
+        Word("DESCRIPTION", 426.1, 470.0, 0.0, 5.0),
+        Word("START", 290.0, 310.0, 10.0, 15.0),
+        Word("END", 330.0, 345.0, 10.0, 15.0),
+    ]
+    rows = cluster_rows(header_words + data_words)
+    return Block(BlockHeader("TEST", 2024, "TEST", page), [page], {page: rows})
+
+
 def test_salary_rows_get_correct_amounts_not_desynced_ones():
     block = make_block([1000])
     result = parse_block(block)
@@ -80,6 +93,88 @@ def test_expense_sublines_inherit_document_context():
     assert descriptions["STAFF INCIDENTALS"] == "$19.80"
     assert descriptions["STAFF PER DIEM"] == "$189.69"
     assert descriptions["STAFF TRANSPORTATION WASHINGTON DC TO BENTONVILLE, SPRINGDALE, FORT SMITH, BENTONVILLE AND RETURN"] == "$120.59"
+
+
+def test_description_spilling_left_does_not_populate_end_date():
+    block = synthetic_modern_block(
+        [
+            Word("BENEFITS FOR FORMER PERSONNEL", 326.7, 419.0, 30.0, 35.0),
+            Word("$82,538.92", 565.7, 588.6, 30.0, 35.0),
+        ],
+        page=238,
+    )
+
+    result = parse_block(block)
+    assert len(result.records) == 1
+    record = result.records[0]
+    assert record.description == "BENEFITS FOR FORMER PERSONNEL"
+    assert record.end_date == ""
+    assert record.amount == "$82,538.92"
+
+
+def test_widely_spaced_leading_salary_continuations_are_prepended():
+    descriptions = [
+        "CONSULTANT MAR 26-29, APR 1-3,",
+        "APR 5-8, MAY 1-3,",
+        "JUN 10-14, JUL 1-3,",
+        "AUG 1-2, SEP 4-6,",
+        "SEP 16-20, SEP 23",
+    ]
+    data_words = [
+        Word(descriptions[0], 355.1, 510.0, 30.0, 35.0),
+        Word(descriptions[1], 355.1, 510.0, 35.3, 40.3),
+        Word("DWYER, SHEILA M", 175.0, 216.0, 40.6, 45.6),
+        Word(descriptions[2], 355.1, 510.0, 40.6, 45.6),
+        Word("$56,365.54", 565.7, 588.6, 40.6, 45.6),
+        Word(descriptions[3], 355.1, 510.0, 45.9, 50.9),
+        Word(descriptions[4], 355.1, 510.0, 51.2, 56.2),
+    ]
+
+    result = parse_block(synthetic_modern_block(data_words, page=342))
+    dwyer = find(result.records, "DWYER")
+    assert dwyer.description == " ".join(descriptions)
+    assert dwyer.amount == "$56,365.54"
+    assert result.unparsed == []
+
+
+def test_loose_salary_continuations_choose_nearest_employee():
+    data_words = [
+        Word("ALICE", 175.0, 216.0, 30.0, 35.0),
+        Word("TITLE ONE", 355.1, 410.0, 30.0, 35.0),
+        Word("$10.00", 565.7, 588.6, 30.0, 35.0),
+        Word("ALICE TRAILING", 355.1, 450.0, 35.0, 40.0),
+        Word("BOB LEADING", 355.1, 450.0, 40.0, 45.0),
+        Word("BOB", 175.0, 216.0, 45.0, 50.0),
+        Word("TITLE TWO", 355.1, 410.0, 45.0, 50.0),
+        Word("$20.00", 565.7, 588.6, 45.0, 50.0),
+    ]
+
+    result = parse_block(synthetic_modern_block(data_words))
+    assert find(result.records, "ALICE").description == "TITLE ONE ALICE TRAILING"
+    assert find(result.records, "BOB").description == "BOB LEADING TITLE TWO"
+    assert result.unparsed == []
+
+
+def test_expense_wrap_is_not_stolen_by_following_salary_like_row():
+    data_words = [
+        Word("ABCDEF01", 10.0, 60.0, 30.0, 35.0),
+        Word("ALICE", 175.0, 216.0, 30.0, 35.0),
+        Word("STAFF TRANSPORTATION", 355.1, 450.0, 30.0, 35.0),
+        Word("$10.00", 565.7, 588.6, 30.0, 35.0),
+        Word("WASHINGTON DC AND RETURN", 355.1, 500.0, 35.0, 40.0),
+        # Four-digit source document numbers do not satisfy DOC_NUMBER_RE,
+        # so this otherwise expense-shaped row follows the salary path.
+        Word("1033", 10.0, 30.0, 40.0, 45.0),
+        Word("FINANCIAL CLERK", 175.0, 250.0, 40.0, 45.0),
+        Word("STAFF PER DIEM", 355.1, 430.0, 40.0, 45.0),
+        Word("$20.00", 565.7, 588.6, 40.0, 45.0),
+    ]
+
+    result = parse_block(synthetic_modern_block(data_words))
+    assert find(result.records, "ALICE").description == (
+        "STAFF TRANSPORTATION WASHINGTON DC AND RETURN"
+    )
+    assert find(result.records, "FINANCIAL CLERK").description == "STAFF PER DIEM"
 
 
 def test_subtotal_rows_are_captured_not_treated_as_records():

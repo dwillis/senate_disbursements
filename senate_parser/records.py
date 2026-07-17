@@ -18,19 +18,13 @@ differently:
    ~6.2pt spacing between distinct records, so a row-gap threshold
    reliably groups them without merging separate people.
 
-`_group_rows` handles case 2 by clustering on gap; `parse_block` handles
-case 1 by tracking the open document context across normal-spaced
-sublines.
-
-Known limitation: for very long wrapped titles (5+ lines, e.g. a "When
-Actually Employed" consultant's full working-date schedule -- verified
-page 342, "DWYER, SHEILA M"), the vertical centering spreads lines out
-at ~5.3pt, above the gap threshold. The lines *before* the name row then
-have no open record to attach to and are dropped to `unparsed` as
-`orphan_continuation`; the payee, amount, and any *trailing* wrap lines
-(which attach to the record normally) are unaffected -- only a prefix of
-the description text is lost. This degrades gracefully rather than
-corrupting financial data, so it's left as-is for the first milestone.
+`_group_rows` handles tightly wrapped case 2 by clustering on gap;
+`parse_block` additionally assigns more widely spaced description-only
+rows to the nearest salary anchor within the same uninterrupted salary
+run. Lines above that anchor are prepended and lines below it appended.
+This covers long 5+ line "When Actually Employed" schedules (verified:
+page 342, "DWYER, SHEILA M") without stealing trailing title text from
+the preceding employee.
 """
 
 import re
@@ -41,6 +35,7 @@ from .rows import Row
 from .segment import Block, header_row_top
 
 DOC_NUMBER_RE = re.compile(r"^[A-Z0-9]{6,14}$")
+DATE_VALUE_RE = re.compile(r"^\d{2}/\d{2}/\d{4}$")
 
 # A sufficiently long title/description can run right up against its
 # printed amount with no separating whitespace in the PDF's content
@@ -178,6 +173,19 @@ COLUMN_DELTAS_FROM_DESCRIPTION_DATA = {
 # each boundary is that offset plus a small margin. Reconciliation
 # remains the backstop.
 ANCHOR_HEADER_WORDS = ("DOCUMENT NO.", "DATE", "PAYEE NAME", "START", "END", "DESCRIPTION", "AMOUNT ($)")
+# Text variants of the anchor header words seen on 114-era
+# COMPENSATION OF MEMBERS pages (3 per 114-era doc, 9 total): the header
+# prints 'DOCUMENT NO' (no period) and 'AMOUNT' + '($)' as separate
+# words, vs the regular anchor header's 'DOCUMENT NO.' and 'AMOUNT ($)'
+# as one word. Map the variants to their canonical anchor names so
+# _calibrate_from_anchors recognizes both layouts; the column boundaries
+# are derived from each anchor's own x0, so the shifted positions on
+# COMPENSATION OF MEMBERS pages (DOCUMENT NO at x0=47 vs 65; AMOUNT at
+# x0=543 vs 563) are absorbed automatically.
+ANCHOR_HEADER_ALIASES = {
+    "DOCUMENT NO": "DOCUMENT NO.",
+    "AMOUNT": "AMOUNT ($)",
+}
 # Vertical window around the DOCUMENT NO. row that contains the full
 # header: DESCRIPTION/OBLIGATION sit ~1.4pt above it on most old pages,
 # START/END ~15pt below.
@@ -275,7 +283,11 @@ def _calibrate_from_anchors(rows: list) -> Optional[ColumnMap]:
     """Old-template (112th-114th) calibration: build every column
     boundary from this page's own header anchors plus the measured
     header-to-data offsets (see ANCHOR_HEADER_WORDS comment)."""
-    doc_row = next((r for r in rows if any("DOCUMENT NO." in w.text for w in r.words)), None)
+    # Match "DOCUMENT NO" (no period) as a substring so the COMPENSATION
+    # OF MEMBERS header variant (see ANCHOR_HEADER_ALIASES) is detected
+    # too; "DOCUMENT NO" is a substring of both "DOCUMENT NO" and
+    # "DOCUMENT NO." so the regular anchor header still matches.
+    doc_row = next((r for r in rows if any("DOCUMENT NO" in w.text for w in r.words)), None)
     if doc_row is None:
         return None
     anchors = {}
@@ -284,6 +296,10 @@ def _calibrate_from_anchors(rows: list) -> Optional[ColumnMap]:
             for w in r.words:
                 if w.text in ANCHOR_HEADER_WORDS and w.text not in anchors:
                     anchors[w.text] = w.x0
+                elif w.text in ANCHOR_HEADER_ALIASES:
+                    canonical = ANCHOR_HEADER_ALIASES[w.text]
+                    if canonical not in anchors:
+                        anchors[canonical] = w.x0
     if len(anchors) != len(ANCHOR_HEADER_WORDS):
         return None
 
@@ -298,12 +314,19 @@ def _calibrate_from_anchors(rows: list) -> Optional[ColumnMap]:
     # roster's payees fall in the date column, the rows classify as
     # expense sublines, and whole committee rosters land in the TRAVEL
     # segment (verified: JUDICIARY, 114sdoc13 p2221-2226).
-    payee_offset = -63.0 if (anchors["DESCRIPTION"] - anchors["DOCUMENT NO."]) > 385 else -36.0
+    is_committee = (anchors["DESCRIPTION"] - anchors["DOCUMENT NO."]) > 385
+    payee_offset = -63.0 if is_committee else -36.0
+    # Committee pages also shift the start-date data ~5.2pt left of the
+    # START header (vs ~2.5 on regular pages); start_x0 - 5 was too tight
+    # by 0.2pt, so start dates fell in the payee column and appended to
+    # the payee text (verified: 114sdoc4 p1887, 'CORDONE,JONATHAN J
+    # 09/25/2014' on 1,660-2,082 rows/doc across the 114-era).
+    start_offset = -8.0 if is_committee else -5.0
     return ColumnMap(
         document=(0.0, date_x0 - 6.0),  # date data starts at -4.8
         date_posted=(date_x0 - 6.0, payee_x0 + payee_offset),  # payee data at -34.5 / -61
-        payee=(payee_x0 + payee_offset, start_x0 - 5.0),  # start data at -2.5
-        start_date=(start_x0 - 5.0, end_x0 - 8.0),  # end data at -5.6
+        payee=(payee_x0 + payee_offset, start_x0 + start_offset),
+        start_date=(start_x0 + start_offset, end_x0 - 8.0),  # end data at -5.6
         end_date=(end_x0 - 8.0, end_x0 + 22.0),  # desc data at ~+25
         description=(end_x0 + 22.0, amount_x0 - 24.0),  # widest amounts reach -20
         # Right-aligned amounts end by +33 on every measured page; the
@@ -380,6 +403,38 @@ def _joined_text_in(group: list, x0: float, x1: float) -> str:
     return " ".join(t for t in (r.text_in(x0, x1) for r in group) if t).strip()
 
 
+_TRAILING_DATE_RE = re.compile(r"\s*(\d{2}/\d{2}/\d{4})\s*$")
+
+
+def _strip_trailing_date_from_payee(payee: str, start_date: str) -> tuple:
+    """Belt-and-braces: if a date leaked into the payee text (column
+    boundary too tight, or modern-era word-extraction glued payee to date),
+    strip it and move it to start_date. Never overwrites a non-empty
+    start_date (the column-based extraction is authoritative when present)."""
+    if not payee:
+        return payee, start_date
+    m = _TRAILING_DATE_RE.search(payee)
+    if not m:
+        return payee, start_date
+    stripped = payee[:m.start()].strip()
+    if not start_date:
+        start_date = m.group(1)
+    return stripped, start_date
+
+
+def _date_text_in(group: list, x0: float, x1: float) -> str:
+    """Return a column value only when it is actually a printed date.
+
+    Long description labels can begin a few points left of the calibrated
+    description boundary (verified: BENEFITS FOR FORMER PERSONNEL on pages
+    238 and 258 of 118sdoc13).  Such a word lands in both the wide
+    description span and the nominal END column; retaining it as an end date
+    corrupts an otherwise valid lump-sum record.
+    """
+    text = _joined_text_in(group, x0, x1)
+    return text if DATE_VALUE_RE.fullmatch(text) else ""
+
+
 # Word extraction occasionally splits a label mid-word at a column-ish
 # position ("TRAVEL AND TRANSP" + "ORTATION OF PERSONS", 114sdoc13
 # p1011) -- match space-squashed and recover the canonical spelling, or
@@ -418,12 +473,15 @@ def classify_group(group: list, cols: ColumnMap) -> tuple:
         wide_text, amount_text = _split_trailing_amount(wide_text)
         has_amount = bool(amount_text)
 
+    start_date_text = _date_text_in(group, *cols.start_date)
+    payee_text, start_date_text = _strip_trailing_date_from_payee(payee_text, start_date_text)
+
     fields = {
         "document_number": doc_words[0].text if doc_words else "",
-        "date_posted": _joined_text_in(group, *cols.date_posted),
+        "date_posted": _date_text_in(group, *cols.date_posted),
         "payee": payee_text,
-        "start_date": _joined_text_in(group, *cols.start_date),
-        "end_date": _joined_text_in(group, *cols.end_date),
+        "start_date": start_date_text,
+        "end_date": _date_text_in(group, *cols.end_date),
         "description": desc_text if desc_text else wide_text,
         "amount": amount_text,
     }
@@ -498,8 +556,59 @@ def parse_block(block: Block, template: str = "modern") -> BlockParseResult:
             if r.top > header_top + 20 and not _is_page_label_row(r, cols.amount[1])
         ]
         groups = _split_groups_on_second_amount(_split_groups_on_document_numbers(_group_rows(data_rows), cols), cols)
-        for group in groups:
-            role, fields = classify_group(group, cols)
+        classified_groups = [(group, *classify_group(group, cols)) for group in groups]
+
+        # Loose description-only rows in a salary roster can belong above or
+        # below a salary anchor. Assign them geometrically before constructing
+        # records. Only the immediately adjacent semantic rows are candidates,
+        # so text cannot jump across a subtotal/header into a different roster.
+        salary_continuations = {}
+        assigned_salary_continuations = set()
+        for continuation_index, (continuation_group, continuation_role, continuation_fields) in enumerate(
+            classified_groups
+        ):
+            if continuation_role != "continuation":
+                continue
+            previous_semantic = None
+            for candidate in range(continuation_index - 1, -1, -1):
+                candidate_role = classified_groups[candidate][1]
+                if candidate_role != "continuation":
+                    previous_semantic = candidate
+                    break
+            next_semantic = None
+            for candidate in range(continuation_index + 1, len(classified_groups)):
+                candidate_role = classified_groups[candidate][1]
+                if candidate_role != "continuation":
+                    next_semantic = candidate
+                    break
+            # An expense's description wrap always belongs to that preceding
+            # expense, even when the following row happens to be misclassified
+            # as salary (e.g. document number "1033" on page 392 is too short
+            # for DOC_NUMBER_RE). Leave it to normal trailing-continuation
+            # handling instead of stealing it for the following row.
+            if previous_semantic is not None and classified_groups[previous_semantic][1] in {
+                "expense_header",
+                "expense_subline",
+            }:
+                continue
+            candidates = [
+                i
+                for i in (previous_semantic, next_semantic)
+                if i is not None and classified_groups[i][1] == "salary"
+            ]
+            if not candidates:
+                continue
+            continuation_top = continuation_group[0].top
+            salary_index = min(
+                candidates,
+                key=lambda i: (abs(classified_groups[i][0][0].top - continuation_top), i),
+            )
+            salary_continuations.setdefault(salary_index, []).append(
+                (continuation_index, continuation_fields["description"])
+            )
+            assigned_salary_continuations.add(continuation_index)
+
+        for group_index, (group, role, fields) in enumerate(classified_groups):
 
             if role == "expense_header":
                 rec = Record(record_type="expense", page=page_num, **fields)
@@ -508,11 +617,15 @@ def parse_block(block: Block, template: str = "modern") -> BlockParseResult:
                 last_record = rec
                 context = {k: fields[k] for k in context}
             elif role == "salary":
+                related = salary_continuations.get(group_index, [])
+                leading = [text for index, text in related if index < group_index]
+                trailing = [text for index, text in related if index > group_index]
+                description = " ".join([*leading, fields["description"], *trailing]).strip()
                 rec = Record(
                     record_type="salary",
                     page=page_num,
                     payee=fields["payee"],
-                    description=fields["description"],
+                    description=description,
                     amount=fields["amount"],
                 )
                 result.records.append(rec)
@@ -539,6 +652,8 @@ def parse_block(block: Block, template: str = "modern") -> BlockParseResult:
                 result.events.append(("record", rec))
                 last_record = rec
             elif role == "continuation":
+                if group_index in assigned_salary_continuations:
+                    continue
                 if last_record is not None:
                     last_record.description = (last_record.description + " " + fields["description"]).strip()
                 else:
