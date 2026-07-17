@@ -55,6 +55,10 @@ class SubtotalCheck:
     # '' / 'source_mismatch' / 'parser_suspect' / 'inconclusive'
     second_opinion: str = ""
     independent_sum: float = None
+    # Free-text annotation for the reconciliation_report CSV. Currently
+    # set by banner_checks when an ORG TOTALS fail is downgraded to warn
+    # because the gap equals the sum of banner-only categories.
+    context: str = ""
 
 
 @dataclass
@@ -361,7 +365,15 @@ def banner_checks(summary, reconciled: ReconcileResult, page: int, has_salary_re
     NET PAYROLL rollup line AND the banner prints no NET PAYROLL figure,
     the block structurally has no payroll to cross-check, so the check
     is not_applicable rather than banner_missing. Clears ~5,281 modern
-    expense-only blocks (CONSULTANTS, MISC ITEMS, etc.) from the queue."""
+    expense-only blocks (CONSULTANTS, MISC ITEMS, etc.) from the queue.
+
+    For BANNER ORGANIZATION TOTALS, when the body-vs-banner diff is
+    fully explained by banner summary categories that have no matching
+    check in the block (categories that print only on the banner, with
+    no itemized rows), the check downgrades from 'fail' to 'warn' with
+    context='banner_only_categories'. The Sgt at Arms FY2025 block in
+    119sdoc5 is the canonical case: 5 of 9 categories are banner-only,
+    ~$15.4M, and the parser captured every itemized row correctly."""
     # The printed NET PAYROLL figure lives on a block_running_total check
     # on the modern template and on a segment check in the old-template
     # typed mode -- match by label, not basis.
@@ -381,11 +393,48 @@ def banner_checks(summary, reconciled: ReconcileResult, page: int, has_salary_re
                 status = "banner_missing"
             expected = banner_value if banner_value is None else abs(banner_value)
             actual = 0.0 if body_value is None else abs(body_value)
+            context = ""
         else:
             expected = abs(banner_value)
             actual = abs(body_value)
             status = _status(abs(expected - actual))
+            context = ""
+            if (status == "fail" and label == "BANNER ORGANIZATION TOTALS"
+                    and getattr(summary, "categories", None)):
+                uncaptured_abs = _uncaptured_banner_categories_abs(
+                    summary.categories, reconciled.checks)
+                if uncaptured_abs is not None:
+                    residual = abs((expected - actual) - uncaptured_abs)
+                    if residual <= OK_TOLERANCE:
+                        status = "warn"
+                        context = "banner_only_categories"
         out.append(
-            SubtotalCheck(label=label, page=page, expected=expected, actual=actual, status=status, basis="banner")
+            SubtotalCheck(label=label, page=page, expected=expected, actual=actual,
+                          status=status, basis="banner", context=context)
         )
     return out
+
+
+def _uncaptured_banner_categories_abs(banner_categories: dict, checks: list):
+    """Sum the magnitudes of banner summary category figures that have no
+    matching check in the block (categories that print only on the
+    banner, with no itemized rows). Returns None if ORGANIZATION TOTALS
+    is absent from `banner_categories` (no anchor to compare against).
+
+    A banner category is 'captured' if any check.label matches its
+    normalized uppercase label. ORGANIZATION TOTALS itself is the row
+    being checked, not a category, so it's always excluded from the
+    uncaptured sum (even though it appears in `banner_categories`)."""
+    if "ORGANIZATION TOTALS" not in banner_categories:
+        return None
+    check_labels = {c.label.upper() for c in checks}
+    total = 0.0
+    for label, value in banner_categories.items():
+        if label == "ORGANIZATION TOTALS":
+            continue
+        if label in check_labels:
+            continue
+        if value is None:
+            continue
+        total += value
+    return abs(total)

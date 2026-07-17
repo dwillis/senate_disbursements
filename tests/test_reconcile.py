@@ -325,3 +325,196 @@ def test_banner_net_payroll_not_applicable_only_when_no_rollup_line():
     payroll = next(c for c in checks if c.label == "BANNER NET PAYROLL")
     assert payroll.status == "banner_missing", (
         f"block with a rollup line should be banner_missing, got {payroll.status}")
+
+
+def test_org_totals_downgrades_to_warn_when_uncaptured_categories_explain_gap():
+    """The Sgt at Arms FY2025 block in 119sdoc5 has 9 banner summary
+    categories; the parser only itemizes 4 of them (Net Payroll, Travel,
+    Other Contractual Services, Acquisition of Assets). The other 5
+    (Transportation of Things, Rent/Communications/Utilities, Printing,
+    Supplies/Materials, Land and Structures) appear only in the banner
+    summary table -- no itemized rows in the block body. The ORG TOTALS
+    gap is fully explained by those 5 banner-only categories, so the
+    check downgrades from 'fail' to 'warn' (with context=
+    'banner_only_categories') -- the parser captured everything that
+    was itemized; the gap is structural, not a parser bug."""
+    from senate_parser.reconcile import ReconcileResult, SubtotalCheck
+    # Captured categories: 4 segment checks (with itemized rows) + 1
+    # rollup. Their parsed values sum to parsed_grand_total.
+    captured_checks = [
+        SubtotalCheck(label="NET PAYROLL EXPENSES", page=404,
+                      expected=6516.93, actual=6516.93, status="ok",
+                      basis="block_running_total"),
+        SubtotalCheck(label="TRAVEL AND TRANSPORTATION OF PERSONS", page=437,
+                      expected=384191.43, actual=384191.43, status="ok",
+                      basis="segment"),
+        SubtotalCheck(label="OTHER CONTRACTUAL SERVICES", page=464,
+                      expected=16698626.83, actual=16698626.83, status="ok",
+                      basis="segment"),
+        SubtotalCheck(label="ACQUISITION OF ASSETS", page=484,
+                      expected=12763094.65, actual=12763094.65, status="ok",
+                      basis="segment"),
+    ]
+    parsed_grand_total = 6516.93 + 384191.43 + 16698626.83 + 12763094.65
+    reconciled = ReconcileResult(
+        checks=captured_checks,
+        block_status="ok",
+        parsed_grand_total=parsed_grand_total,
+    )
+    # Banner summary has all 9 categories; the 5 uncaptured ones sum to
+    # exactly the gap between ORG TOTALS and parsed_grand_total.
+    banner_categories = {
+        "NET PAYROLL EXPENSES": -6516.93,
+        "TRAVEL AND TRANSPORTATION OF PERSONS": -384191.43,
+        "TRANSPORTATION OF THINGS": -75271.19,
+        "RENT, COMMUNICATIONS AND UTILITIES": -13773804.54,
+        "PRINTING AND REPRODUCTION": 19620.85,
+        "OTHER CONTRACTUAL SERVICES": -16698626.83,
+        "SUPPLIES AND MATERIALS": -1375806.27,
+        "ACQUISITION OF ASSETS": -12763094.65,
+        "LAND AND STRUCTURES": -211072.30,
+        "ORGANIZATION TOTALS": -45268763.29,
+    }
+    summary = BannerSummary(
+        net_payroll=-6516.93,
+        organization_totals=-45268763.29,
+        categories=banner_categories,
+    )
+    checks = banner_checks(summary, reconciled, page=404, has_salary_records=True)
+    org = next(c for c in checks if c.label == "BANNER ORGANIZATION TOTALS")
+    assert org.status == "warn", (
+        f"gap explained by banner-only categories should be warn, got {org.status}")
+    assert org.context == "banner_only_categories", (
+        f"context should tag the downgrade, got {org.context!r}")
+    assert abs(org.expected - 45268763.29) < 0.01
+    assert abs(org.actual - parsed_grand_total) < 0.01
+
+
+def test_org_totals_stays_fail_when_uncaptured_categories_do_not_explain_gap():
+    """When the gap exceeds what banner-only categories explain, the
+    check stays 'fail' -- there's a real parsing discrepancy beyond the
+    structural one."""
+    from senate_parser.reconcile import ReconcileResult, SubtotalCheck
+    captured_checks = [
+        SubtotalCheck(label="NET PAYROLL EXPENSES", page=404,
+                      expected=6516.93, actual=6516.93, status="ok",
+                      basis="block_running_total"),
+    ]
+    # parsed_grand_total is just the captured NET PAYROLL. The banner
+    # says ORG TOTALS is $45.27M, but the uncaptured categories only sum
+    # to $44.77M -- a $500K residual that the parser can't account for.
+    parsed_grand_total = 6516.93
+    reconciled = ReconcileResult(
+        checks=captured_checks,
+        block_status="ok",
+        parsed_grand_total=parsed_grand_total,
+    )
+    banner_categories = {
+        "NET PAYROLL EXPENSES": -6516.93,
+        "TRANSPORTATION OF THINGS": -75271.19,
+        "RENT, COMMUNICATIONS AND UTILITIES": -13773804.54,
+        "PRINTING AND REPRODUCTION": 19620.85,
+        "SUPPLIES AND MATERIALS": -1375806.27,
+        "LAND AND STRUCTURES": -211072.30,
+        "ORGANIZATION TOTALS": -45268763.29,
+    }
+    summary = BannerSummary(
+        net_payroll=-6516.93,
+        organization_totals=-45268763.29,
+        categories=banner_categories,
+    )
+    checks = banner_checks(summary, reconciled, page=404, has_salary_records=True)
+    org = next(c for c in checks if c.label == "BANNER ORGANIZATION TOTALS")
+    assert org.status == "fail", (
+        f"unexplained residual should stay fail, got {org.status}")
+    assert org.context == ""
+
+
+def test_org_totals_uncaptured_downgrade_only_when_categories_populated():
+    """A block whose banner has no summary table (BannerSummary returns
+    empty categories) falls through to the existing behavior -- fail stays
+    fail, no downgrade."""
+    from senate_parser.reconcile import ReconcileResult, SubtotalCheck
+    captured_checks = [
+        SubtotalCheck(label="NET PAYROLL EXPENSES", page=404,
+                      expected=1000.0, actual=1000.0, status="ok",
+                      basis="block_running_total"),
+    ]
+    reconciled = ReconcileResult(
+        checks=captured_checks,
+        block_status="ok",
+        parsed_grand_total=1000.0,
+    )
+    # No categories dict -- simulates old banners or banner_missing.
+    summary = BannerSummary(
+        net_payroll=-1000.0,
+        organization_totals=-5000.0,
+    )
+    checks = banner_checks(summary, reconciled, page=404, has_salary_records=True)
+    org = next(c for c in checks if c.label == "BANNER ORGANIZATION TOTALS")
+    assert org.status == "fail"
+    assert org.context == ""
+
+
+def test_org_totals_downgrades_for_summary_only_block():
+    """A 1-page block where the office reported a lump-sum expenditure
+    on one category without itemizing any rows (e.g. VICE PRESIDENT
+    FY2024 in 119sdoc5 page 20: $5,704.52 on Supplies and Materials, no
+    body rows). The block has no segment/running_total checks at all --
+    every banner category is uncaptured -- and the gap is fully
+    explained by the banner-only category. Downgrade fail -> warn so
+    the structural case doesn't masquerade as a parser bug."""
+    from senate_parser.reconcile import ReconcileResult
+    # No body checks -- the block is summary-only.
+    reconciled = ReconcileResult(checks=[], block_status="ok",
+                                 parsed_grand_total=0.0)
+    banner_categories = {
+        "SUPPLIES AND MATERIALS": -5704.52,
+        "ORGANIZATION TOTALS": -5704.52,
+    }
+    summary = BannerSummary(net_payroll=None, organization_totals=-5704.52,
+                            categories=banner_categories)
+    checks = banner_checks(summary, reconciled, page=20, has_salary_records=False)
+    org = next(c for c in checks if c.label == "BANNER ORGANIZATION TOTALS")
+    assert org.status == "warn", (
+        f"summary-only block should downgrade to warn, got {org.status}")
+    assert org.context == "banner_only_categories"
+
+
+def test_org_totals_stays_fail_when_captured_categories_mismatch_their_banner():
+    """If a captured category's itemized rows don't match its banner
+    figure (a real parser bug for that category), the residual after
+    subtracting the uncaptured sum stays nonzero -- the check stays
+    fail. The downgrade must not mask per-category parsing bugs."""
+    from senate_parser.reconcile import ReconcileResult, SubtotalCheck
+    # Captured TRAVEL check fails: parser found $300K, banner says $384K.
+    captured_checks = [
+        SubtotalCheck(label="TRAVEL AND TRANSPORTATION OF PERSONS", page=404,
+                      expected=384191.43, actual=300000.00, status="fail",
+                      basis="segment"),
+    ]
+    parsed_grand_total = 300000.00
+    reconciled = ReconcileResult(
+        checks=captured_checks, block_status="fail",
+        parsed_grand_total=parsed_grand_total,
+    )
+    # Same banner as the Sgt at Arms case.
+    banner_categories = {
+        "NET PAYROLL EXPENSES": -6516.93,
+        "TRAVEL AND TRANSPORTATION OF PERSONS": -384191.43,
+        "TRANSPORTATION OF THINGS": -75271.19,
+        "RENT, COMMUNICATIONS AND UTILITIES": -13773804.54,
+        "PRINTING AND REPRODUCTION": 19620.85,
+        "OTHER CONTRACTUAL SERVICES": -16698626.83,
+        "SUPPLIES AND MATERIALS": -1375806.27,
+        "ACQUISITION OF ASSETS": -12763094.65,
+        "LAND AND STRUCTURES": -211072.30,
+        "ORGANIZATION TOTALS": -45268763.29,
+    }
+    summary = BannerSummary(net_payroll=-6516.93, organization_totals=-45268763.29,
+                            categories=banner_categories)
+    checks = banner_checks(summary, reconciled, page=404, has_salary_records=True)
+    org = next(c for c in checks if c.label == "BANNER ORGANIZATION TOTALS")
+    assert org.status == "fail", (
+        f"captured category mismatch should stay fail, got {org.status}")
+    assert org.context == ""

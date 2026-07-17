@@ -257,7 +257,7 @@ def run(
                     "basis": check.basis,
                     "second_opinion": check.second_opinion,
                     "independent_sum": check.independent_sum,
-                    "context": "",
+                    "context": check.context,
                 }
             )
             if check.status == "zero_records":

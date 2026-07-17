@@ -209,10 +209,18 @@ def parse_banner(rows: list, page_num: int) -> BlockHeader:
 @dataclass
 class BannerSummary:
     """The two load-bearing figures from a banner page's summary table
-    (NET EXPENDITURES FOR THE PERIOD column). None = not found/parseable."""
+    (NET EXPENDITURES FOR THE PERIOD column). None = not found/parseable.
+
+    `categories` is the full set of category rows in the summary table
+    (normalized uppercase label -> signed NET EXPENDITURES FOR THE PERIOD
+    value), including NET PAYROLL EXPENSES and ORGANIZATION TOTALS. Used
+    by banner_checks to detect ORG TOTALS fails that are fully explained
+    by categories with no itemized rows in the block body (e.g. Sgt at
+    Arms FY2025 in 119sdoc5: five banner-only categories, ~$15.4M)."""
 
     net_payroll: Optional[float] = None
     organization_totals: Optional[float] = None
+    categories: dict = field(default_factory=dict)
 
 
 def _banner_amount(text: str) -> Optional[float]:
@@ -225,13 +233,40 @@ def _banner_amount(text: str) -> Optional[float]:
     return -value if text.strip().startswith("-") else value
 
 
+# Category labels that appear as rows in the banner summary table, in
+# the order they print. Used by parse_banner_summary to populate
+# BannerSummary.categories. The labels are case-sensitive substrings
+# matched against row text (period_value_near uses substring
+# containment), so they must be distinctive enough that no other row
+# contains them. "ORGANIZATION TOTALS" is included so the row itself
+# appears in `categories`, mirroring how banner_checks reads
+# summary.organization_totals.
+BANNER_CATEGORY_LABELS = (
+    "Net Payroll Expenses",
+    "Travel and Transportation of Persons",
+    "Transportation of Things",
+    "Rent, Communications and Utilities",
+    "Printing and Reproduction",
+    "Other Contractual Services",
+    "Supplies and Materials",
+    "Acquisition of Assets",
+    "Land and Structures",
+    "ORGANIZATION TOTALS",
+)
+
+
 def parse_banner_summary(rows: list) -> BannerSummary:
     """Extract the banner summary table's period figures. The table sits
     above the DOCUMENT NO. header; values are right-aligned under the
     "NET EXPENDITURES FOR / THE PERIOD" column header, and ORGANIZATION
     TOTALS' values print on a visual row ~3pt above the label (verified
     on both page templates). Words are assigned to columns by nearest
-    header center, which absorbs the right-alignment overhang."""
+    header center, which absorbs the right-alignment overhang.
+
+    `categories` is populated for every category row whose leftmost
+    text is a known summary-table label (see BANNER_CATEGORY_LABELS) --
+    budget rows (Authorization, Supplementals, Transfers, Resc /
+    Withdrawals) print no period value and are excluded."""
     header_top = header_row_top(rows)
     top_rows = [r for r in sorted(rows, key=lambda r: r.top) if r.top < header_top]
 
@@ -253,9 +288,14 @@ def parse_banner_summary(rows: list) -> BannerSummary:
         )
         if label_row is None:
             return None
+        # Tolerance is 4.0pt: tight enough to exclude adjacent category
+        # rows (which print ~8pt apart on both templates) but loose enough
+        # to catch the ORGANIZATION TOTALS amount, which prints ~3pt above
+        # the label (the visual row's "top" is the amount's top, the
+        # label's baseline sits ~3pt below it).
         best = None
         for r in top_rows:
-            if abs(r.top - label_row.top) > 8.0:
+            if abs(r.top - label_row.top) > 4.0:
                 continue
             for w in r.words:
                 amt = _banner_amount(w.text)
@@ -270,9 +310,16 @@ def parse_banner_summary(rows: list) -> BannerSummary:
                     best = (distance, amt)
         return best[1] if best else None
 
+    categories = {}
+    for label in BANNER_CATEGORY_LABELS:
+        amt = period_value_near(label)
+        if amt is not None:
+            categories[label.upper()] = amt
+
     return BannerSummary(
-        net_payroll=period_value_near("Net Payroll Expenses"),
-        organization_totals=period_value_near("ORGANIZATION TOTALS"),
+        net_payroll=categories.get("NET PAYROLL EXPENSES"),
+        organization_totals=categories.get("ORGANIZATION TOTALS"),
+        categories=categories,
     )
 
 

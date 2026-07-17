@@ -235,3 +235,39 @@ def test_banner_summary_missing_on_data_page():
     summary = parse_banner_summary(cluster_rows(load(1001)))
     assert summary.net_payroll is None
     assert summary.organization_totals is None
+
+
+def test_banner_summary_categories_dict_captures_all_category_rows():
+    """parse_banner_summary must populate `categories` with every
+    category row in the banner summary table (normalized label ->
+    signed NET EXPENDITURES FOR THE PERIOD value), not just the two
+    named fields. This is what banner_checks uses to detect when an
+    ORG TOTALS fail is fully explained by categories that have no
+    itemized rows in the block body (e.g. Sgt at Arms FY2025 in
+    119sdoc5 -- five categories, ~$15.4M, that appear only on the
+    banner). Budget rows (Authorization, Supplementals, Transfers, Resc
+    / Withdrawals) print no period value and must be excluded."""
+    summary = parse_banner_summary(cluster_rows(load(1000)))
+    expected = {
+        "NET PAYROLL EXPENSES": -2042937.06,
+        "TRAVEL AND TRANSPORTATION OF PERSONS": -43106.04,
+        "RENT, COMMUNICATIONS AND UTILITIES": -31053.59,
+        "PRINTING AND REPRODUCTION": -99.75,
+        "OTHER CONTRACTUAL SERVICES": -6000.00,
+        "SUPPLIES AND MATERIALS": -27765.04,
+        "ACQUISITION OF ASSETS": -39959.31,
+        "ORGANIZATION TOTALS": -2190920.79,
+    }
+    assert summary.categories == expected, (
+        f"categories mismatch:\n got: {summary.categories}\n want: {expected}")
+    # Budget rows must be excluded -- they print no period amount.
+    assert "AUTHORIZATION" not in summary.categories
+    assert "SUPPLEMENTALS" not in summary.categories
+    assert "TRANSFERS" not in summary.categories
+    assert "RESC / WITHDRAWALS" not in summary.categories
+
+
+def test_banner_summary_categories_dict_missing_on_data_page():
+    """A data page has no banner summary table; categories is empty."""
+    summary = parse_banner_summary(cluster_rows(load(1001)))
+    assert summary.categories == {}

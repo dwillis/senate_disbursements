@@ -1,34 +1,35 @@
 {
   "source_doc": "118sdoc2",
-  "pdf_path": "data/118sdoc2/GPO-CDOC-118sdoc2.pdf",
-  "pdf_sha256": "60c7098943fd9de4b2f460fdaf617fd0c9b172cf2b979d241878a6f21f8b8674",
+  "pdf_path": "data/118sdoc2/GPO-CDOC-118sdoc2-2.pdf",
+  "pdf_sha256": "45f12cdb443f3649a225173bffdb6ac955bb743b29f48c94ff8866b486169217",
   "page_range": [
-    10,
-    2622
+    1,
+    1348
   ],
-  "page_offset": 0,
-  "parser_git_commit": "2f5ecc17104444c72ce9d3afcbbce48a88d3f7f4",
+  "page_offset": 1291,
+  "parser_git_commit": "8f656507da3518f6e3f906e494ae18aa788b2045",
   "parser_git_dirty": true,
-  "generated_at": "2026-07-16T11:59:13.893836+00:00",
+  "generated_at": "2026-07-17T11:50:47.217398+00:00",
   "tolerances": {
     "ok": 0.01,
     "warn": 1.0
   },
-  "blocks": 1075,
-  "records_published": 47496,
+  "blocks": 492,
+  "records_published": 24625,
   "records_quarantined": 0,
   "unparsed": 0,
-  "bioguide_match_rate": 1.0,
-  "audit_violations": 3,
+  "bioguide_match_rate": null,
+  "audit_violations": 0,
   "hard_audit_violations": 0,
   "unparsed_release_blockers": 0,
-  "banner_check_warnings": 1021,
-  "pages_read": 2613,
+  "banner_check_warnings": 518,
+  "pages_read": 1348,
   "page_classifications": {
-    "banner": 1075,
-    "data": 1524,
-    "other": 14
+    "banner": 492,
+    "data": 833,
+    "other": 19,
+    "toc": 4
   },
   "orphan_data_pages": 0,
-  "coverage_findings": 1021
+  "coverage_findings": 518
 }

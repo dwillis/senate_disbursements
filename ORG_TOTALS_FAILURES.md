@@ -145,3 +145,54 @@ are the signal worth investigating, not the noise. The next step is
 splitting class 1 (zero-actual gaps) from class 3 (mid-range drift) in
 the reconciliation report, then drilling into the Sgt at Arms block
 (class 2) to find where the ~$10M goes unattributed.
+
+## Update (item 8): banner-only categories explain most of class 1 and all of class 2
+
+Drilling into the Sgt at Arms FY2025 block in 119sdoc5 (start_page 404)
+revealed the structural alibi for class 2: the block's banner summary
+table prints 9 expense categories, but the office only itemized 4 of
+them in the body. The other 5 (Transportation of Things, Rent/
+Communications/Utilities, Printing and Reproduction, Supplies and
+Materials, Land and Structures) appear **only** on the banner summary
+table — they have zero itemized rows in the block's 81 data pages.
+Their banner-period values sum to $15,416,333.45, which is exactly the
+ORG TOTALS gap ($45,268,763.29 expected vs $29,852,429.84 actual).
+
+The same structural pattern explains class 1 (zero-actual whole-block
+gaps). The "EMERGENCY APPROPRIATION P.L. 109-13" block in 117sdoc8 (max
+$7.5M, the audit's class-1 poster child) is a 1-page banner-only block:
+the banner prints one category (Land and Structures, -$7,500,000) with
+no body rows. The 692 zero-actual fails aren't "blocks whose records
+didn't extract" — they're summary-only blocks where the office reported
+a lump-sum expenditure without itemizing any line items.
+
+`banner_checks` (senate_parser/reconcile.py) now detects this case:
+when the ORG TOTALS gap equals the sum of banner summary categories
+that have no matching check in the block body, the check downgrades
+from `fail` to `warn` with `context='banner_only_categories'` in the
+reconciliation report. The captured categories' actuals must reconcile
+to their banner values (residual within OK_TOLERANCE), so genuine
+per-category parsing bugs stay `fail`.
+
+Snapshot impact (modern era, 7 docs):
+
+| doc | OLD fail | NEW fail | NEW warn | downgrades |
+|---|---|---|---|---|
+| 117sdoc8 | 413 | 187 | 226 | 226 |
+| 118sdoc11 | 566 | 269 | 255 | 297 (254 ORG + 43 NET PAYROLL) |
+| (others pending regen) | | | | |
+
+The downgrades are real: the parser captured everything that was
+itemized; the gap is structural (the office didn't itemize). What's
+left as `fail` after the downgrade is the genuine review queue —
+per-category parsing bugs where the captured categories' actuals don't
+reconcile to their banner values.
+
+A side effect of the same fix: tightening `period_value_near`'s row
+tolerance from 8.0pt to 4.0pt (necessary to keep adjacent category
+rows from polluting each other's period value) also fixed 43 BANNER
+NET PAYROLL checks in 118sdoc11 that were previously `fail` because
+the 8pt window caught the next row's amount. The Sgt at Arms block in
+119sdoc5 was one of these — the BANNER NET PAYROLL check had been
+comparing the body's $6,516.93 against the banner's *Travel* value
+($384,191.43) instead of the banner's *Net Payroll* value.
