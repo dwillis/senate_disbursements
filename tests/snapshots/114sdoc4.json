@@ -1,0 +1,5382 @@
+{
+ "blocks": 766,
+ "records_published": 45045,
+ "records_quarantined": 1451,
+ "unparsed": 21,
+ "check_status_histogram": {
+  "banner_missing": 268,
+  "component": 626,
+  "fail": 260,
+  "not_applicable": 159,
+  "ok": 1790,
+  "unchecked": 1,
+  "warn": 274,
+  "zero_records": 9
+ },
+ "published_dollars": 256626124.93,
+ "quarantined_dollars": 47647361.26,
+ "block_statuses": [
+  {
+   "office": "CHAIRMAN MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2013,
+   "start_page": 17,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2014,
+   "start_page": 18,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MINORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2015,
+   "start_page": 19,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2013,
+   "start_page": 20,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2014,
+   "start_page": 21,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MINORITY POLICY COMMITTEE (D)",
+   "funding_year": 2015,
+   "start_page": 22,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2013,
+   "start_page": 23,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2014,
+   "start_page": 24,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (D)",
+   "funding_year": 2015,
+   "start_page": 25,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY WHIP (D)",
+   "funding_year": 2013,
+   "start_page": 26,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY WHIP (D)",
+   "funding_year": 2014,
+   "start_page": 27,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY WHIP (D)",
+   "funding_year": 2015,
+   "start_page": 28,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (D) - BIDEN",
+   "funding_year": 2013,
+   "start_page": 29,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (D) - BIDEN",
+   "funding_year": 2014,
+   "start_page": 30,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (D) - BIDEN",
+   "funding_year": 2015,
+   "start_page": 31,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRESIDENT PRO TEMPORE (D)",
+   "funding_year": 2013,
+   "start_page": 32,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRESIDENT PRO TEMPORE (D)",
+   "funding_year": 2014,
+   "start_page": 33,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRESIDENT PRO TEMPORE (D)",
+   "funding_year": 2015,
+   "start_page": 34,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRESIDENT PRO TEMPORE (R)",
+   "funding_year": 2015,
+   "start_page": 35,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2013,
+   "start_page": 36,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2014,
+   "start_page": 37,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (R)",
+   "funding_year": 2015,
+   "start_page": 38,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2013,
+   "start_page": 39,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2014,
+   "start_page": 40,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY WHIP (R)",
+   "funding_year": 2015,
+   "start_page": 41,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2013,
+   "start_page": 42,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2014,
+   "start_page": 43,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MAJORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2015,
+   "start_page": 44,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2013,
+   "start_page": 45,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2014,
+   "start_page": 46,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAIRMAN MAJORITY POLICY COMMITTEE (R)",
+   "funding_year": 2015,
+   "start_page": 47,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2013,
+   "start_page": 48,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2014,
+   "start_page": 49,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (D)",
+   "funding_year": 2015,
+   "start_page": 50,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2013,
+   "start_page": 51,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2014,
+   "start_page": 52,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (R)",
+   "funding_year": 2015,
+   "start_page": 53,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": 2013,
+   "start_page": 54,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": 2014,
+   "start_page": 55,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": 2015,
+   "start_page": 56,
+   "status": "fail",
+   "record_count": 125
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": 2013,
+   "start_page": 59,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": 2014,
+   "start_page": 60,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": 2015,
+   "start_page": 61,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2013,
+   "start_page": 62,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2014,
+   "start_page": 63,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2015,
+   "start_page": 64,
+   "status": "ok",
+   "record_count": 28
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2013,
+   "start_page": 65,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2014,
+   "start_page": 66,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (D)",
+   "funding_year": 2015,
+   "start_page": 67,
+   "status": "fail",
+   "record_count": 21
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2013,
+   "start_page": 68,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2014,
+   "start_page": 69,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (D)",
+   "funding_year": 2015,
+   "start_page": 70,
+   "status": "ok",
+   "record_count": 31
+  },
+  {
+   "office": "SECRETARY, MAJORITY CONFERENCE COMM (D)",
+   "funding_year": 2013,
+   "start_page": 71,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY, MAJORITY CONFERENCE COMM (D)",
+   "funding_year": 2014,
+   "start_page": 72,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY, MINORITY CONFERENCE COMM (D)",
+   "funding_year": 2015,
+   "start_page": 73,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "MAJORITY WHIP (D)",
+   "funding_year": 2013,
+   "start_page": 74,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY WHIP (D)",
+   "funding_year": 2014,
+   "start_page": 75,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY WHIP (D)",
+   "funding_year": 2015,
+   "start_page": 76,
+   "status": "ok",
+   "record_count": 20
+  },
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (D) - BIDEN",
+   "funding_year": 2013,
+   "start_page": 77,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (D) - BIDEN",
+   "funding_year": 2014,
+   "start_page": 78,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "OFFICE OF THE VICE PRESIDENT (D) - BIDEN",
+   "funding_year": 2015,
+   "start_page": 79,
+   "status": "ok",
+   "record_count": 34
+  },
+  {
+   "office": "PRESIDENT PRO TEMPORE (D)",
+   "funding_year": 2013,
+   "start_page": 81,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRESIDENT PRO TEMPORE (D)",
+   "funding_year": 2014,
+   "start_page": 82,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "PRESIDENT PRO TEMPORE (D)",
+   "funding_year": 2015,
+   "start_page": 83,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "PRESIDENT PRO TEMPORE (R)",
+   "funding_year": 2015,
+   "start_page": 84,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2013,
+   "start_page": 85,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2014,
+   "start_page": 86,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (R)",
+   "funding_year": 2015,
+   "start_page": 87,
+   "status": "ok",
+   "record_count": 24
+  },
+  {
+   "office": "SECRETARY, MINORITY CONFERENCE COMM (R)",
+   "funding_year": 2013,
+   "start_page": 88,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY, MINORITY CONFERENCE COMM (R)",
+   "funding_year": 2014,
+   "start_page": 89,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY, MAJORITY CONFERENCE COMM (R)",
+   "funding_year": 2015,
+   "start_page": 90,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2013,
+   "start_page": 91,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2014,
+   "start_page": 92,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY WHIP (R)",
+   "funding_year": 2015,
+   "start_page": 93,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2013,
+   "start_page": 94,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2014,
+   "start_page": 95,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": 2015,
+   "start_page": 96,
+   "status": "ok",
+   "record_count": 18
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2013,
+   "start_page": 97,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (R)",
+   "funding_year": 2014,
+   "start_page": 98,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (R)",
+   "funding_year": 2015,
+   "start_page": 99,
+   "status": "ok",
+   "record_count": 18
+  },
+  {
+   "office": "SECRETARY FOR THE MAJORITY (D)",
+   "funding_year": 2013,
+   "start_page": 100,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MAJORITY (D)",
+   "funding_year": 2014,
+   "start_page": 101,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MINORITY (D)",
+   "funding_year": 2015,
+   "start_page": 102,
+   "status": "ok",
+   "record_count": 10
+  },
+  {
+   "office": "SECRETARY FOR THE MINORITY (R)",
+   "funding_year": 2013,
+   "start_page": 103,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MINORITY (R)",
+   "funding_year": 2014,
+   "start_page": 104,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MAJORITY (R)",
+   "funding_year": 2015,
+   "start_page": 105,
+   "status": "ok",
+   "record_count": 9
+  },
+  {
+   "office": "SGT @ ARMS - CENTRAL OPERATIONS",
+   "funding_year": 2013,
+   "start_page": 106,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - CAPITOL DIVISION",
+   "funding_year": 2013,
+   "start_page": 107,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - IT SUPPORT SERVICES",
+   "funding_year": 2013,
+   "start_page": 108,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - STAFF OFFICES",
+   "funding_year": 2013,
+   "start_page": 109,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
+   "funding_year": 2013,
+   "start_page": 110,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - CENTRAL OPERATIONS",
+   "funding_year": 2014,
+   "start_page": 111,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - CAPITOL DIVISION",
+   "funding_year": 2014,
+   "start_page": 112,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - IT SUPPORT SERVICES",
+   "funding_year": 2014,
+   "start_page": 113,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - STAFF OFFICES",
+   "funding_year": 2014,
+   "start_page": 114,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
+   "funding_year": 2014,
+   "start_page": 115,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - CENTRAL OPERATIONS",
+   "funding_year": 2015,
+   "start_page": 116,
+   "status": "fail",
+   "record_count": 328
+  },
+  {
+   "office": "SGT @ ARMS - CAPITOL DIVISION",
+   "funding_year": 2015,
+   "start_page": 122,
+   "status": "fail",
+   "record_count": 233
+  },
+  {
+   "office": "SGT @ ARMS - IT SUPPORT SERVICES",
+   "funding_year": 2015,
+   "start_page": 127,
+   "status": "fail",
+   "record_count": 93
+  },
+  {
+   "office": "SGT @ ARMS - STAFF OFFICES",
+   "funding_year": 2015,
+   "start_page": 130,
+   "status": "ok",
+   "record_count": 90
+  },
+  {
+   "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
+   "funding_year": 2015,
+   "start_page": 132,
+   "status": "fail",
+   "record_count": 138
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.",
+   "funding_year": 2013,
+   "start_page": 135,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - EXECUTIVE OFFICE",
+   "funding_year": 2013,
+   "start_page": 136,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - LEGISLATIVE SERVICES",
+   "funding_year": 2013,
+   "start_page": 137,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.",
+   "funding_year": 2014,
+   "start_page": 138,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - EXECUTIVE OFFICE",
+   "funding_year": 2014,
+   "start_page": 139,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - LEGISLATIVE SERVICES",
+   "funding_year": 2014,
+   "start_page": 140,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.",
+   "funding_year": 2015,
+   "start_page": 141,
+   "status": "ok",
+   "record_count": 161
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - EXECUTIVE OFFICE",
+   "funding_year": 2015,
+   "start_page": 145,
+   "status": "ok",
+   "record_count": 34
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - LEGISLATIVE SERVICES",
+   "funding_year": 2015,
+   "start_page": 147,
+   "status": "ok",
+   "record_count": 47
+  },
+  {
+   "office": "WORKERS COMPENSATION FUND (P.L. 113-76, DIV. I, SEC. 1. CA)",
+   "funding_year": 2014,
+   "start_page": 149,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": null,
+   "start_page": 150,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": null,
+   "start_page": 151,
+   "status": "ok",
+   "record_count": 12
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": null,
+   "start_page": 152,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "APPROPRIATIONS",
+   "funding_year": null,
+   "start_page": 153,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": null,
+   "start_page": 154,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": null,
+   "start_page": 155,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": null,
+   "start_page": 156,
+   "status": "ok",
+   "record_count": 11
+  },
+  {
+   "office": "CHAPLAIN",
+   "funding_year": null,
+   "start_page": 157,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2013,
+   "start_page": 158,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": 2014,
+   "start_page": 159,
+   "status": "ok",
+   "record_count": 18
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": null,
+   "start_page": 160,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": null,
+   "start_page": 161,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": null,
+   "start_page": 162,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (D)",
+   "funding_year": null,
+   "start_page": 163,
+   "status": "ok",
+   "record_count": 27
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2013,
+   "start_page": 165,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": 2014,
+   "start_page": 166,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": null,
+   "start_page": 167,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": null,
+   "start_page": 168,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (D)",
+   "funding_year": null,
+   "start_page": 169,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (D)",
+   "funding_year": null,
+   "start_page": 170,
+   "status": "ok",
+   "record_count": 9
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2013,
+   "start_page": 171,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MAJORITY LEADER (D)",
+   "funding_year": 2014,
+   "start_page": 172,
+   "status": "ok",
+   "record_count": 10
+  },
+  {
+   "office": "MAJORITY WHIP (D)",
+   "funding_year": 2014,
+   "start_page": 173,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2013,
+   "start_page": 174,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY LEADER (R)",
+   "funding_year": 2014,
+   "start_page": 175,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "MAJORITY LEADER (R)",
+   "funding_year": 2015,
+   "start_page": 176,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SECRETARY, MINORITY CONFERENCE COMM (R)",
+   "funding_year": 2013,
+   "start_page": 177,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2013,
+   "start_page": 178,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY WHIP (R)",
+   "funding_year": 2014,
+   "start_page": 179,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "MAJORITY WHIP (R)",
+   "funding_year": 2015,
+   "start_page": 180,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": null,
+   "start_page": 181,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": null,
+   "start_page": 182,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": null,
+   "start_page": 183,
+   "status": "ok",
+   "record_count": 19
+  },
+  {
+   "office": "MAJORITY CONFERENCE COMMITTEE (R)",
+   "funding_year": null,
+   "start_page": 185,
+   "status": "ok",
+   "record_count": 9
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (R)",
+   "funding_year": null,
+   "start_page": 186,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (R)",
+   "funding_year": null,
+   "start_page": 187,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MINORITY POLICY COMMITTEE (R)",
+   "funding_year": null,
+   "start_page": 188,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "MAJORITY POLICY COMMITTEE (R)",
+   "funding_year": null,
+   "start_page": 189,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "SENATE CHILD CARE CENTER",
+   "funding_year": null,
+   "start_page": 190,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATE CHILD CARE CENTER",
+   "funding_year": null,
+   "start_page": 191,
+   "status": "ok",
+   "record_count": 23
+  },
+  {
+   "office": "SENATE CHILD CARE CENTER",
+   "funding_year": null,
+   "start_page": 192,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATE CHILD CARE CENTER",
+   "funding_year": null,
+   "start_page": 193,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CONSULTANTS",
+   "funding_year": null,
+   "start_page": 194,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CONSULTANTS",
+   "funding_year": null,
+   "start_page": 195,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CONSULTANTS",
+   "funding_year": null,
+   "start_page": 196,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CONSULTANTS",
+   "funding_year": null,
+   "start_page": 197,
+   "status": "fail",
+   "record_count": 29
+  },
+  {
+   "office": "EMPLOYEE COMPENSATION FUND",
+   "funding_year": null,
+   "start_page": 198,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "EMPLOYEE COMPENSATION FUND",
+   "funding_year": null,
+   "start_page": 199,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "EMPLOYEE COMPENSATION FUND",
+   "funding_year": null,
+   "start_page": 200,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "EMPLOYEE COMPENSATION FUND",
+   "funding_year": null,
+   "start_page": 201,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FEDERAL EMPLOYEES COMPENSATION ACCOUNT",
+   "funding_year": null,
+   "start_page": 202,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FEDERAL EMPLOYEES COMPENSATION ACCOUNT",
+   "funding_year": null,
+   "start_page": 203,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FEDERAL EMPLOYEES COMPENSATION ACCOUNT",
+   "funding_year": null,
+   "start_page": 204,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FEDERAL EMPLOYEES COMPENSATION ACCOUNT",
+   "funding_year": null,
+   "start_page": 205,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FOREIGN TRAVEL - MEMBERS & EMPLOYEES",
+   "funding_year": null,
+   "start_page": 206,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FOREIGN TRAVEL - MEMBERS & EMPLOYEES",
+   "funding_year": null,
+   "start_page": 207,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "FOREIGN TRAVEL - MEMBERS & EMPLOYEES",
+   "funding_year": null,
+   "start_page": 208,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "FOREIGN TRAVEL - MEMBERS & EMPLOYEES",
+   "funding_year": null,
+   "start_page": 209,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "POSTAGE",
+   "funding_year": null,
+   "start_page": 210,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "POSTAGE",
+   "funding_year": null,
+   "start_page": 211,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "POSTAGE",
+   "funding_year": null,
+   "start_page": 212,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "POSTAGE",
+   "funding_year": null,
+   "start_page": 213,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MOBILE COMMUNICATIONS DEVICES",
+   "funding_year": null,
+   "start_page": 214,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MOBILE COMMUNICATIONS DEVICES",
+   "funding_year": null,
+   "start_page": 215,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MOBILE COMMUNICATIONS DEVICES",
+   "funding_year": null,
+   "start_page": 216,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MOBILE COMMUNICATIONS DEVICES",
+   "funding_year": null,
+   "start_page": 217,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "RESERVE FOR CONTINGENCIES",
+   "funding_year": null,
+   "start_page": 218,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RESERVE FOR CONTINGENCIES",
+   "funding_year": null,
+   "start_page": 219,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RESERVE FOR CONTINGENCIES",
+   "funding_year": null,
+   "start_page": 220,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "RESERVE FOR CONTINGENCIES",
+   "funding_year": null,
+   "start_page": 221,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "RECEPTION OF FOREIGN DIGNITARIES",
+   "funding_year": null,
+   "start_page": 222,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RECEPTION OF FOREIGN DIGNITARIES",
+   "funding_year": null,
+   "start_page": 223,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "RECEPTION OF FOREIGN DIGNITARIES",
+   "funding_year": null,
+   "start_page": 224,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RECEPTION OF FOREIGN DIGNITARIES",
+   "funding_year": null,
+   "start_page": 225,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RESOLUTION & REORGANIZATION RESERVE",
+   "funding_year": null,
+   "start_page": 226,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RESOLUTION & REORGANIZATION RESERVE",
+   "funding_year": null,
+   "start_page": 227,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RESOLUTION & REORGANIZATION RESERVE",
+   "funding_year": null,
+   "start_page": 228,
+   "status": "fail",
+   "record_count": 0
+  },
+  {
+   "office": "RESOLUTION & REORGANIZATION RESERVE",
+   "funding_year": null,
+   "start_page": 229,
+   "status": "fail",
+   "record_count": 370
+  },
+  {
+   "office": "JOINT SELECT COMMITTEE ON DEFICIT REDUCTION",
+   "funding_year": null,
+   "start_page": 236,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ ADMIN CO-CHAIR (KERRY)",
+   "funding_year": null,
+   "start_page": 237,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ ADMIN CO-CHAIR (FEINSTEIN)",
+   "funding_year": null,
+   "start_page": 238,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ ADMIN CO-CHAIR (FEINSTEIN)",
+   "funding_year": null,
+   "start_page": 239,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN ADMIN CO-CHAIR (FEINSTEIN)",
+   "funding_year": null,
+   "start_page": 240,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO-CHAIR (LEVIN)",
+   "funding_year": null,
+   "start_page": 241,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO-CHAIR (LEVIN)",
+   "funding_year": null,
+   "start_page": 242,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO-CHAIR (LEVIN)",
+   "funding_year": null,
+   "start_page": 243,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO-CHAIR (INOUYE)",
+   "funding_year": null,
+   "start_page": 244,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO-CHAIR (MIKULSKI)",
+   "funding_year": null,
+   "start_page": 245,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO-CHAIR (MIKULSKI)",
+   "funding_year": null,
+   "start_page": 246,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO-CHAIR (MIKULSKI)",
+   "funding_year": null,
+   "start_page": 247,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-DEM CO-CHAIR (MENENDEZ)",
+   "funding_year": null,
+   "start_page": 248,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-DEM CO-CHAIR (MENENDEZ)",
+   "funding_year": null,
+   "start_page": 249,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-DEM CO-CHAIR (MENENDEZ)",
+   "funding_year": null,
+   "start_page": 250,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-DEM CO-CHAIR (MENENDEZ)",
+   "funding_year": null,
+   "start_page": 251,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ LEADER (REID)",
+   "funding_year": null,
+   "start_page": 252,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ LEADER (REID)",
+   "funding_year": null,
+   "start_page": 253,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ LEADER (REID)",
+   "funding_year": null,
+   "start_page": 254,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN LEADER (REID)",
+   "funding_year": null,
+   "start_page": 255,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN ADM. CO-CHAIR (KYL)",
+   "funding_year": null,
+   "start_page": 256,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN ADMIN CO-CHAIR (RUBIO)",
+   "funding_year": null,
+   "start_page": 257,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN ADMIN CO-CHAIR (RUBIO)",
+   "funding_year": null,
+   "start_page": 258,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ ADMIN CO-CHAIR (RUBIO)",
+   "funding_year": null,
+   "start_page": 259,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO-CHAIR (L. GRAHAM)",
+   "funding_year": null,
+   "start_page": 260,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO-CHAIR (L. GRAHAM)",
+   "funding_year": null,
+   "start_page": 261,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO-CHAIR (L. GRAHAM)",
+   "funding_year": null,
+   "start_page": 262,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO-CHAIR (L. GRAHAM)",
+   "funding_year": null,
+   "start_page": 263,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO-CHAIR (COCHRAN)",
+   "funding_year": null,
+   "start_page": 264,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO-CHAIR (COCHRAN)",
+   "funding_year": null,
+   "start_page": 265,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN CO-CHAIR (COCHRAN)",
+   "funding_year": null,
+   "start_page": 266,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO-CHAIR (COCHRAN)",
+   "funding_year": null,
+   "start_page": 267,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ CO-CHAIR (SESSIONS)",
+   "funding_year": null,
+   "start_page": 268,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN LEADER (MCCONNELL)",
+   "funding_year": null,
+   "start_page": 269,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN LEADER (MCCONNELL)",
+   "funding_year": null,
+   "start_page": 270,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MIN LEADER (MCCONNELL)",
+   "funding_year": null,
+   "start_page": 271,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "NATL SECURITY WORKING GRP-MAJ LEADER (MCCONNELL)",
+   "funding_year": null,
+   "start_page": 272,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "STATIONERY",
+   "funding_year": null,
+   "start_page": 273,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "STATIONERY",
+   "funding_year": null,
+   "start_page": 274,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "STATIONERY",
+   "funding_year": null,
+   "start_page": 275,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "STATIONERY",
+   "funding_year": null,
+   "start_page": 276,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MISC ITEMS - STUDENT LOANS",
+   "funding_year": null,
+   "start_page": 277,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MISC ITEMS - STUDENT LOANS",
+   "funding_year": null,
+   "start_page": 278,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MISC ITEMS - STUDENT LOANS",
+   "funding_year": null,
+   "start_page": 279,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "MISC ITEMS - STUDENT LOANS",
+   "funding_year": null,
+   "start_page": 280,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "EMERGENCY APPROPRIATION PUBLIC LAW 109-13",
+   "funding_year": null,
+   "start_page": 281,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.",
+   "funding_year": 2013,
+   "start_page": 282,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - EXECUTIVE OFFICE",
+   "funding_year": 2013,
+   "start_page": 283,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - LEGISLATIVE SERVICES",
+   "funding_year": 2013,
+   "start_page": 284,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.",
+   "funding_year": 2014,
+   "start_page": 285,
+   "status": "ok",
+   "record_count": 26
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - EXECUTIVE OFFICE",
+   "funding_year": 2014,
+   "start_page": 287,
+   "status": "ok",
+   "record_count": 32
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - LEGISLATIVE SERVICES",
+   "funding_year": 2014,
+   "start_page": 289,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.",
+   "funding_year": 2015,
+   "start_page": 290,
+   "status": "ok",
+   "record_count": 55
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - EXECUTIVE OFFICE",
+   "funding_year": 2015,
+   "start_page": 292,
+   "status": "ok",
+   "record_count": 49
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - LEGISLATIVE SERVICES",
+   "funding_year": 2015,
+   "start_page": 294,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.",
+   "funding_year": null,
+   "start_page": 295,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.",
+   "funding_year": null,
+   "start_page": 296,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.",
+   "funding_year": null,
+   "start_page": 297,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.",
+   "funding_year": null,
+   "start_page": 298,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.",
+   "funding_year": null,
+   "start_page": 299,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE - (LIS PROJECT)",
+   "funding_year": null,
+   "start_page": 300,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SEC - EMRGCY APPROPS FOR TERR RESPONSE",
+   "funding_year": null,
+   "start_page": 301,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SEC OF THE SENATE - SENATE COLLECTION",
+   "funding_year": null,
+   "start_page": 302,
+   "status": "ok",
+   "record_count": 11
+  },
+  {
+   "office": "SGT @ ARMS - CENTRAL OPERATIONS",
+   "funding_year": null,
+   "start_page": 303,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - CAPITOL DIVISION",
+   "funding_year": null,
+   "start_page": 304,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - IT SUPPORT SERVICES",
+   "funding_year": null,
+   "start_page": 305,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "SGT @ ARMS - STAFF OFFICES",
+   "funding_year": null,
+   "start_page": 306,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
+   "funding_year": null,
+   "start_page": 307,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - CENTRAL OPERATIONS",
+   "funding_year": null,
+   "start_page": 308,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - CAPITOL DIVISION",
+   "funding_year": null,
+   "start_page": 309,
+   "status": "ok",
+   "record_count": 14
+  },
+  {
+   "office": "SGT @ ARMS - IT SUPPORT SERVICES",
+   "funding_year": null,
+   "start_page": 310,
+   "status": "ok",
+   "record_count": 51
+  },
+  {
+   "office": "SGT @ ARMS - STAFF OFFICES",
+   "funding_year": null,
+   "start_page": 312,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
+   "funding_year": null,
+   "start_page": 313,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
+   "funding_year": 2014,
+   "start_page": 314,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SGT @ ARMS - CENTRAL OPERATIONS",
+   "funding_year": null,
+   "start_page": 315,
+   "status": "ok",
+   "record_count": 22
+  },
+  {
+   "office": "SGT @ ARMS - CAPITOL DIVISION",
+   "funding_year": null,
+   "start_page": 316,
+   "status": "ok",
+   "record_count": 27
+  },
+  {
+   "office": "SGT @ ARMS - IT SUPPORT SERVICES",
+   "funding_year": null,
+   "start_page": 318,
+   "status": "ok",
+   "record_count": 310
+  },
+  {
+   "office": "SGT @ ARMS - STAFF OFFICES",
+   "funding_year": null,
+   "start_page": 324,
+   "status": "ok",
+   "record_count": 16
+  },
+  {
+   "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
+   "funding_year": null,
+   "start_page": 325,
+   "status": "ok",
+   "record_count": 6
+  },
+  {
+   "office": "SGT @ ARMS - CENTRAL OPERATIONS",
+   "funding_year": null,
+   "start_page": 326,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "SGT @ ARMS - CAPITOL DIVISION",
+   "funding_year": null,
+   "start_page": 327,
+   "status": "ok",
+   "record_count": 34
+  },
+  {
+   "office": "SGT @ ARMS - IT SUPPORT SERVICES",
+   "funding_year": null,
+   "start_page": 329,
+   "status": "ok",
+   "record_count": 664
+  },
+  {
+   "office": "SGT @ ARMS - STAFF OFFICES",
+   "funding_year": null,
+   "start_page": 341,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
+   "funding_year": null,
+   "start_page": 342,
+   "status": "ok",
+   "record_count": 10
+  },
+  {
+   "office": "SGT @ ARMS - CENTRAL OPERATIONS",
+   "funding_year": null,
+   "start_page": 343,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "SGT @ ARMS - CAPITOL DIVISION",
+   "funding_year": null,
+   "start_page": 344,
+   "status": "ok",
+   "record_count": 73
+  },
+  {
+   "office": "SGT @ ARMS - IT SUPPORT SERVICES",
+   "funding_year": null,
+   "start_page": 346,
+   "status": "ok",
+   "record_count": 169
+  },
+  {
+   "office": "SGT @ ARMS - STAFF OFFICES",
+   "funding_year": null,
+   "start_page": 350,
+   "status": "ok",
+   "record_count": 17
+  },
+  {
+   "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
+   "funding_year": null,
+   "start_page": 351,
+   "status": "ok",
+   "record_count": 32
+  },
+  {
+   "office": "SGT @ ARMS - CENTRAL OPERATIONS",
+   "funding_year": null,
+   "start_page": 353,
+   "status": "ok",
+   "record_count": 227
+  },
+  {
+   "office": "SGT @ ARMS - CAPITOL DIVISION",
+   "funding_year": null,
+   "start_page": 358,
+   "status": "ok",
+   "record_count": 166
+  },
+  {
+   "office": "SGT @ ARMS - IT SUPPORT SERVICES",
+   "funding_year": null,
+   "start_page": 362,
+   "status": "ok",
+   "record_count": 355
+  },
+  {
+   "office": "SGT @ ARMS - STAFF OFFICES",
+   "funding_year": null,
+   "start_page": 369,
+   "status": "ok",
+   "record_count": 93
+  },
+  {
+   "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
+   "funding_year": null,
+   "start_page": 372,
+   "status": "ok",
+   "record_count": 234
+  },
+  {
+   "office": "SGT @ ARMS - CENTRAL OPERATIONS",
+   "funding_year": null,
+   "start_page": 377,
+   "status": "ok",
+   "record_count": 229
+  },
+  {
+   "office": "SGT @ ARMS - CAPITOL DIVISION",
+   "funding_year": null,
+   "start_page": 382,
+   "status": "ok",
+   "record_count": 195
+  },
+  {
+   "office": "SGT @ ARMS - IT SUPPORT SERVICES",
+   "funding_year": null,
+   "start_page": 387,
+   "status": "ok",
+   "record_count": 540
+  },
+  {
+   "office": "SGT @ ARMS - STAFF OFFICES",
+   "funding_year": null,
+   "start_page": 397,
+   "status": "ok",
+   "record_count": 115
+  },
+  {
+   "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
+   "funding_year": null,
+   "start_page": 400,
+   "status": "ok",
+   "record_count": 284
+  },
+  {
+   "office": "SAA - EMERG SUPP NO YEAR FUNDS",
+   "funding_year": null,
+   "start_page": 406,
+   "status": "ok",
+   "record_count": 20
+  },
+  {
+   "office": "SAA - RECORD STUDIO NO YEAR FUNDS",
+   "funding_year": null,
+   "start_page": 407,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SMI PROJECT",
+   "funding_year": null,
+   "start_page": 408,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CAUCUS - INTERNATIONAL NARCOTICS CONTROL",
+   "funding_year": 2013,
+   "start_page": 409,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CAUCUS - INTERNATIONAL NARCOTICS CONTROL",
+   "funding_year": 2014,
+   "start_page": 410,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "CAUCUS - INTERNATIONAL NARCOTICS CONTROL",
+   "funding_year": 2015,
+   "start_page": 411,
+   "status": "ok",
+   "record_count": 14
+  },
+  {
+   "office": "SENATOR DANIEL K. AKAKA",
+   "funding_year": 2013,
+   "start_page": 412,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR LAMAR ALEXANDER",
+   "funding_year": 2013,
+   "start_page": 413,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR LAMAR ALEXANDER",
+   "funding_year": 2014,
+   "start_page": 414,
+   "status": "ok",
+   "record_count": 108
+  },
+  {
+   "office": "SENATOR LAMAR ALEXANDER",
+   "funding_year": 2015,
+   "start_page": 419,
+   "status": "fail",
+   "record_count": 255
+  },
+  {
+   "office": "SENATOR KELLY AYOTTE",
+   "funding_year": 2013,
+   "start_page": 427,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR KELLY AYOTTE",
+   "funding_year": 2014,
+   "start_page": 428,
+   "status": "ok",
+   "record_count": 123
+  },
+  {
+   "office": "SENATOR KELLY AYOTTE",
+   "funding_year": 2015,
+   "start_page": 433,
+   "status": "ok",
+   "record_count": 557
+  },
+  {
+   "office": "SENATOR TAMMY BALDWIN",
+   "funding_year": 2013,
+   "start_page": 452,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "SENATOR TAMMY BALDWIN",
+   "funding_year": 2014,
+   "start_page": 453,
+   "status": "ok",
+   "record_count": 179
+  },
+  {
+   "office": "SENATOR TAMMY BALDWIN",
+   "funding_year": 2015,
+   "start_page": 459,
+   "status": "ok",
+   "record_count": 322
+  },
+  {
+   "office": "SENATOR JOHN BARRASSO",
+   "funding_year": 2013,
+   "start_page": 469,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN BARRASSO",
+   "funding_year": 2014,
+   "start_page": 470,
+   "status": "fail",
+   "record_count": 57
+  },
+  {
+   "office": "SENATOR JOHN BARRASSO",
+   "funding_year": 2015,
+   "start_page": 473,
+   "status": "fail",
+   "record_count": 300
+  },
+  {
+   "office": "SENATOR MAX BAUCUS",
+   "funding_year": 2013,
+   "start_page": 482,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MAX BAUCUS",
+   "funding_year": 2014,
+   "start_page": 483,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARK BEGICH",
+   "funding_year": 2013,
+   "start_page": 484,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARK BEGICH",
+   "funding_year": 2014,
+   "start_page": 485,
+   "status": "fail",
+   "record_count": 33
+  },
+  {
+   "office": "SENATOR MARK BEGICH",
+   "funding_year": 2015,
+   "start_page": 487,
+   "status": "fail",
+   "record_count": 78
+  },
+  {
+   "office": "SENATOR MICHAEL BENNET",
+   "funding_year": 2013,
+   "start_page": 490,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MICHAEL BENNET",
+   "funding_year": 2014,
+   "start_page": 491,
+   "status": "ok",
+   "record_count": 63
+  },
+  {
+   "office": "SENATOR MICHAEL BENNET",
+   "funding_year": 2015,
+   "start_page": 494,
+   "status": "ok",
+   "record_count": 264
+  },
+  {
+   "office": "SENATOR JEFF BINGAMAN",
+   "funding_year": 2013,
+   "start_page": 503,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICHARD BLUMENTHAL",
+   "funding_year": 2013,
+   "start_page": 504,
+   "status": "ok",
+   "record_count": 13
+  },
+  {
+   "office": "SENATOR RICHARD BLUMENTHAL",
+   "funding_year": 2014,
+   "start_page": 506,
+   "status": "fail",
+   "record_count": 61
+  },
+  {
+   "office": "SENATOR RICHARD BLUMENTHAL",
+   "funding_year": 2015,
+   "start_page": 509,
+   "status": "fail",
+   "record_count": 210
+  },
+  {
+   "office": "SENATOR ROY BLUNT",
+   "funding_year": 2013,
+   "start_page": 517,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR ROY BLUNT",
+   "funding_year": 2014,
+   "start_page": 518,
+   "status": "ok",
+   "record_count": 231
+  },
+  {
+   "office": "SENATOR ROY BLUNT",
+   "funding_year": 2015,
+   "start_page": 527,
+   "status": "ok",
+   "record_count": 588
+  },
+  {
+   "office": "SENATOR CORY BOOKER",
+   "funding_year": 2014,
+   "start_page": 547,
+   "status": "ok",
+   "record_count": 73
+  },
+  {
+   "office": "SENATOR CORY BOOKER",
+   "funding_year": 2015,
+   "start_page": 550,
+   "status": "ok",
+   "record_count": 207
+  },
+  {
+   "office": "SENATOR JOHN BOOZMAN",
+   "funding_year": 2013,
+   "start_page": 557,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN BOOZMAN",
+   "funding_year": 2014,
+   "start_page": 558,
+   "status": "ok",
+   "record_count": 98
+  },
+  {
+   "office": "SENATOR JOHN BOOZMAN",
+   "funding_year": 2015,
+   "start_page": 562,
+   "status": "ok",
+   "record_count": 613
+  },
+  {
+   "office": "SENATOR BARBARA BOXER",
+   "funding_year": 2013,
+   "start_page": 581,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BARBARA BOXER",
+   "funding_year": 2014,
+   "start_page": 582,
+   "status": "fail",
+   "record_count": 87
+  },
+  {
+   "office": "SENATOR BARBARA BOXER",
+   "funding_year": 2015,
+   "start_page": 586,
+   "status": "fail",
+   "record_count": 397
+  },
+  {
+   "office": "SENATOR SCOTT P. BROWN",
+   "funding_year": 2013,
+   "start_page": 597,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SHERROD BROWN",
+   "funding_year": 2013,
+   "start_page": 598,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SHERROD BROWN",
+   "funding_year": 2014,
+   "start_page": 599,
+   "status": "fail",
+   "record_count": 182
+  },
+  {
+   "office": "SENATOR SHERROD BROWN",
+   "funding_year": 2015,
+   "start_page": 605,
+   "status": "fail",
+   "record_count": 592
+  },
+  {
+   "office": "SENATOR RICHARD BURR",
+   "funding_year": 2013,
+   "start_page": 623,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICHARD BURR",
+   "funding_year": 2014,
+   "start_page": 624,
+   "status": "fail",
+   "record_count": 51
+  },
+  {
+   "office": "SENATOR RICHARD BURR",
+   "funding_year": 2015,
+   "start_page": 628,
+   "status": "fail",
+   "record_count": 193
+  },
+  {
+   "office": "SENATOR MARIA CANTWELL",
+   "funding_year": 2013,
+   "start_page": 636,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARIA CANTWELL",
+   "funding_year": 2014,
+   "start_page": 637,
+   "status": "fail",
+   "record_count": 150
+  },
+  {
+   "office": "SENATOR MARIA CANTWELL",
+   "funding_year": 2015,
+   "start_page": 642,
+   "status": "fail",
+   "record_count": 406
+  },
+  {
+   "office": "SENATOR SHELLEY MOORE CAPITO",
+   "funding_year": 2015,
+   "start_page": 655,
+   "status": "ok",
+   "record_count": 92
+  },
+  {
+   "office": "SENATOR BENJAMIN L CARDIN",
+   "funding_year": 2013,
+   "start_page": 659,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BENJAMIN L CARDIN",
+   "funding_year": 2014,
+   "start_page": 660,
+   "status": "ok",
+   "record_count": 35
+  },
+  {
+   "office": "SENATOR BENJAMIN L CARDIN",
+   "funding_year": 2015,
+   "start_page": 663,
+   "status": "ok",
+   "record_count": 106
+  },
+  {
+   "office": "SENATOR THOMAS R. CARPER",
+   "funding_year": 2013,
+   "start_page": 668,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR THOMAS R. CARPER",
+   "funding_year": 2014,
+   "start_page": 669,
+   "status": "fail",
+   "record_count": 80
+  },
+  {
+   "office": "SENATOR THOMAS R. CARPER",
+   "funding_year": 2015,
+   "start_page": 673,
+   "status": "fail",
+   "record_count": 274
+  },
+  {
+   "office": "SENATOR ROBERT CASEY, JR.",
+   "funding_year": 2013,
+   "start_page": 682,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROBERT CASEY, JR.",
+   "funding_year": 2014,
+   "start_page": 683,
+   "status": "fail",
+   "record_count": 182
+  },
+  {
+   "office": "SENATOR ROBERT CASEY, JR.",
+   "funding_year": 2015,
+   "start_page": 690,
+   "status": "fail",
+   "record_count": 309
+  },
+  {
+   "office": "SENATOR BILL CASSIDY",
+   "funding_year": 2015,
+   "start_page": 700,
+   "status": "ok",
+   "record_count": 111
+  },
+  {
+   "office": "SENATOR SAXBY CHAMBLISS",
+   "funding_year": 2013,
+   "start_page": 704,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SAXBY CHAMBLISS",
+   "funding_year": 2014,
+   "start_page": 705,
+   "status": "ok",
+   "record_count": 115
+  },
+  {
+   "office": "SENATOR SAXBY CHAMBLISS",
+   "funding_year": 2015,
+   "start_page": 710,
+   "status": "warn",
+   "record_count": 284
+  },
+  {
+   "office": "SENATOR JEFFREY CHIESA",
+   "funding_year": 2013,
+   "start_page": 719,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JEFFREY CHIESA",
+   "funding_year": 2014,
+   "start_page": 720,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DANIEL R. COATS",
+   "funding_year": 2013,
+   "start_page": 721,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DANIEL R. COATS",
+   "funding_year": 2014,
+   "start_page": 722,
+   "status": "ok",
+   "record_count": 99
+  },
+  {
+   "office": "SENATOR DANIEL R. COATS",
+   "funding_year": 2015,
+   "start_page": 726,
+   "status": "ok",
+   "record_count": 582
+  },
+  {
+   "office": "SENATOR TOM COBURN",
+   "funding_year": 2013,
+   "start_page": 743,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TOM COBURN",
+   "funding_year": 2014,
+   "start_page": 744,
+   "status": "ok",
+   "record_count": 32
+  },
+  {
+   "office": "SENATOR TOM COBURN",
+   "funding_year": 2015,
+   "start_page": 746,
+   "status": "ok",
+   "record_count": 87
+  },
+  {
+   "office": "SENATOR THAD COCHRAN",
+   "funding_year": 2013,
+   "start_page": 749,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR THAD COCHRAN",
+   "funding_year": 2014,
+   "start_page": 750,
+   "status": "ok",
+   "record_count": 48
+  },
+  {
+   "office": "SENATOR THAD COCHRAN",
+   "funding_year": 2015,
+   "start_page": 753,
+   "status": "fail",
+   "record_count": 227
+  },
+  {
+   "office": "SENATOR SUSAN M. COLLINS",
+   "funding_year": 2013,
+   "start_page": 760,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SUSAN M. COLLINS",
+   "funding_year": 2014,
+   "start_page": 761,
+   "status": "fail",
+   "record_count": 178
+  },
+  {
+   "office": "SENATOR SUSAN M. COLLINS",
+   "funding_year": 2015,
+   "start_page": 768,
+   "status": "fail",
+   "record_count": 503
+  },
+  {
+   "office": "SENATOR KENT CONRAD",
+   "funding_year": 2013,
+   "start_page": 783,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHRISTOPHER A. COONS",
+   "funding_year": 2013,
+   "start_page": 784,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHRISTOPHER A. COONS",
+   "funding_year": 2014,
+   "start_page": 785,
+   "status": "ok",
+   "record_count": 41
+  },
+  {
+   "office": "SENATOR CHRISTOPHER A. COONS",
+   "funding_year": 2015,
+   "start_page": 788,
+   "status": "ok",
+   "record_count": 209
+  },
+  {
+   "office": "SENATOR BOB CORKER",
+   "funding_year": 2013,
+   "start_page": 795,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BOB CORKER",
+   "funding_year": 2014,
+   "start_page": 796,
+   "status": "ok",
+   "record_count": 131
+  },
+  {
+   "office": "SENATOR BOB CORKER",
+   "funding_year": 2015,
+   "start_page": 801,
+   "status": "ok",
+   "record_count": 581
+  },
+  {
+   "office": "SENATOR JOHN CORNYN",
+   "funding_year": 2013,
+   "start_page": 819,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN CORNYN",
+   "funding_year": 2014,
+   "start_page": 820,
+   "status": "ok",
+   "record_count": 48
+  },
+  {
+   "office": "SENATOR JOHN CORNYN",
+   "funding_year": 2015,
+   "start_page": 823,
+   "status": "fail",
+   "record_count": 288
+  },
+  {
+   "office": "SENATOR TOM COTTON",
+   "funding_year": 2015,
+   "start_page": 831,
+   "status": "ok",
+   "record_count": 118
+  },
+  {
+   "office": "SENATOR WILLIAM COWAN",
+   "funding_year": 2013,
+   "start_page": 835,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MICHAEL D. CRAPO",
+   "funding_year": 2013,
+   "start_page": 836,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MICHAEL D. CRAPO",
+   "funding_year": 2014,
+   "start_page": 837,
+   "status": "ok",
+   "record_count": 81
+  },
+  {
+   "office": "SENATOR MICHAEL D. CRAPO",
+   "funding_year": 2015,
+   "start_page": 840,
+   "status": "ok",
+   "record_count": 289
+  },
+  {
+   "office": "SENATOR TED CRUZ",
+   "funding_year": 2013,
+   "start_page": 849,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TED CRUZ",
+   "funding_year": 2014,
+   "start_page": 850,
+   "status": "fail",
+   "record_count": 130
+  },
+  {
+   "office": "SENATOR TED CRUZ",
+   "funding_year": 2015,
+   "start_page": 855,
+   "status": "fail",
+   "record_count": 275
+  },
+  {
+   "office": "SENATOR STEVE DAINES",
+   "funding_year": 2015,
+   "start_page": 864,
+   "status": "ok",
+   "record_count": 217
+  },
+  {
+   "office": "SENATOR JIM DEMINT",
+   "funding_year": 2013,
+   "start_page": 871,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOE DONNELLY",
+   "funding_year": 2013,
+   "start_page": 872,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOE DONNELLY",
+   "funding_year": 2014,
+   "start_page": 873,
+   "status": "ok",
+   "record_count": 75
+  },
+  {
+   "office": "SENATOR JOE DONNELLY",
+   "funding_year": 2015,
+   "start_page": 877,
+   "status": "ok",
+   "record_count": 618
+  },
+  {
+   "office": "SENATOR RICHARD J. DURBIN",
+   "funding_year": 2013,
+   "start_page": 896,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICHARD J. DURBIN",
+   "funding_year": 2014,
+   "start_page": 897,
+   "status": "ok",
+   "record_count": 135
+  },
+  {
+   "office": "SENATOR RICHARD J. DURBIN",
+   "funding_year": 2015,
+   "start_page": 902,
+   "status": "ok",
+   "record_count": 269
+  },
+  {
+   "office": "SENATOR MICHAEL B. ENZI",
+   "funding_year": 2013,
+   "start_page": 910,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MICHAEL B. ENZI",
+   "funding_year": 2014,
+   "start_page": 911,
+   "status": "fail",
+   "record_count": 22
+  },
+  {
+   "office": "SENATOR MICHAEL B. ENZI",
+   "funding_year": 2015,
+   "start_page": 913,
+   "status": "fail",
+   "record_count": 225
+  },
+  {
+   "office": "SENATOR JONI ERNST",
+   "funding_year": 2015,
+   "start_page": 920,
+   "status": "ok",
+   "record_count": 60
+  },
+  {
+   "office": "SENATOR DIANNE FEINSTEIN",
+   "funding_year": 2013,
+   "start_page": 923,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DIANNE FEINSTEIN",
+   "funding_year": 2014,
+   "start_page": 924,
+   "status": "ok",
+   "record_count": 39
+  },
+  {
+   "office": "SENATOR DIANNE FEINSTEIN",
+   "funding_year": 2015,
+   "start_page": 926,
+   "status": "ok",
+   "record_count": 264
+  },
+  {
+   "office": "SENATOR DEB FISCHER",
+   "funding_year": 2013,
+   "start_page": 934,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DEB FISCHER",
+   "funding_year": 2014,
+   "start_page": 935,
+   "status": "ok",
+   "record_count": 46
+  },
+  {
+   "office": "SENATOR DEB FISCHER",
+   "funding_year": 2015,
+   "start_page": 937,
+   "status": "ok",
+   "record_count": 328
+  },
+  {
+   "office": "SENATOR JEFF FLAKE",
+   "funding_year": 2013,
+   "start_page": 947,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JEFF FLAKE",
+   "funding_year": 2014,
+   "start_page": 948,
+   "status": "ok",
+   "record_count": 60
+  },
+  {
+   "office": "SENATOR JEFF FLAKE",
+   "funding_year": 2015,
+   "start_page": 951,
+   "status": "ok",
+   "record_count": 209
+  },
+  {
+   "office": "SENATOR AL FRANKEN",
+   "funding_year": 2013,
+   "start_page": 957,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR AL FRANKEN",
+   "funding_year": 2014,
+   "start_page": 958,
+   "status": "ok",
+   "record_count": 66
+  },
+  {
+   "office": "SENATOR AL FRANKEN",
+   "funding_year": 2015,
+   "start_page": 961,
+   "status": "ok",
+   "record_count": 257
+  },
+  {
+   "office": "SENATOR CORY GARDNER",
+   "funding_year": 2015,
+   "start_page": 970,
+   "status": "ok",
+   "record_count": 66
+  },
+  {
+   "office": "SENATOR KIRSTEN GILLIBRAND",
+   "funding_year": 2013,
+   "start_page": 973,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR KIRSTEN GILLIBRAND",
+   "funding_year": 2014,
+   "start_page": 974,
+   "status": "ok",
+   "record_count": 95
+  },
+  {
+   "office": "SENATOR KIRSTEN GILLIBRAND",
+   "funding_year": 2015,
+   "start_page": 978,
+   "status": "ok",
+   "record_count": 594
+  },
+  {
+   "office": "SENATOR LINDSEY GRAHAM",
+   "funding_year": 2013,
+   "start_page": 996,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR LINDSEY GRAHAM",
+   "funding_year": 2014,
+   "start_page": 997,
+   "status": "ok",
+   "record_count": 19
+  },
+  {
+   "office": "SENATOR LINDSEY GRAHAM",
+   "funding_year": 2015,
+   "start_page": 999,
+   "status": "ok",
+   "record_count": 112
+  },
+  {
+   "office": "SENATOR CHARLES E. GRASSLEY",
+   "funding_year": 2013,
+   "start_page": 1003,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHARLES E. GRASSLEY",
+   "funding_year": 2014,
+   "start_page": 1004,
+   "status": "fail",
+   "record_count": 69
+  },
+  {
+   "office": "SENATOR CHARLES E. GRASSLEY",
+   "funding_year": 2015,
+   "start_page": 1007,
+   "status": "fail",
+   "record_count": 174
+  },
+  {
+   "office": "SENATOR KAY HAGAN",
+   "funding_year": 2013,
+   "start_page": 1013,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR KAY HAGAN",
+   "funding_year": 2014,
+   "start_page": 1014,
+   "status": "fail",
+   "record_count": 89
+  },
+  {
+   "office": "SENATOR KAY HAGAN",
+   "funding_year": 2015,
+   "start_page": 1018,
+   "status": "fail",
+   "record_count": 143
+  },
+  {
+   "office": "SENATOR TOM HARKIN",
+   "funding_year": 2013,
+   "start_page": 1023,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TOM HARKIN",
+   "funding_year": 2014,
+   "start_page": 1024,
+   "status": "ok",
+   "record_count": 41
+  },
+  {
+   "office": "SENATOR TOM HARKIN",
+   "funding_year": 2015,
+   "start_page": 1026,
+   "status": "ok",
+   "record_count": 150
+  },
+  {
+   "office": "SENATOR ORRIN G. HATCH",
+   "funding_year": 2013,
+   "start_page": 1031,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ORRIN G. HATCH",
+   "funding_year": 2014,
+   "start_page": 1032,
+   "status": "ok",
+   "record_count": 75
+  },
+  {
+   "office": "SENATOR ORRIN G. HATCH",
+   "funding_year": 2015,
+   "start_page": 1035,
+   "status": "ok",
+   "record_count": 196
+  },
+  {
+   "office": "SENATOR MARTIN HEINRICH",
+   "funding_year": 2013,
+   "start_page": 1041,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR MARTIN HEINRICH",
+   "funding_year": 2014,
+   "start_page": 1042,
+   "status": "ok",
+   "record_count": 55
+  },
+  {
+   "office": "SENATOR MARTIN HEINRICH",
+   "funding_year": 2015,
+   "start_page": 1045,
+   "status": "ok",
+   "record_count": 372
+  },
+  {
+   "office": "SENATOR HEIDI HEITKAMP",
+   "funding_year": 2013,
+   "start_page": 1058,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR HEIDI HEITKAMP",
+   "funding_year": 2014,
+   "start_page": 1059,
+   "status": "ok",
+   "record_count": 63
+  },
+  {
+   "office": "SENATOR HEIDI HEITKAMP",
+   "funding_year": 2015,
+   "start_page": 1062,
+   "status": "ok",
+   "record_count": 304
+  },
+  {
+   "office": "SENATOR DEAN HELLER",
+   "funding_year": 2013,
+   "start_page": 1071,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DEAN HELLER",
+   "funding_year": 2014,
+   "start_page": 1072,
+   "status": "ok",
+   "record_count": 55
+  },
+  {
+   "office": "SENATOR DEAN HELLER",
+   "funding_year": 2015,
+   "start_page": 1075,
+   "status": "ok",
+   "record_count": 171
+  },
+  {
+   "office": "SENATOR MAZIE HIRONO",
+   "funding_year": 2013,
+   "start_page": 1081,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MAZIE HIRONO",
+   "funding_year": 2014,
+   "start_page": 1082,
+   "status": "fail",
+   "record_count": 72
+  },
+  {
+   "office": "SENATOR MAZIE HIRONO",
+   "funding_year": 2015,
+   "start_page": 1085,
+   "status": "fail",
+   "record_count": 125
+  },
+  {
+   "office": "SENATOR JOHN HOEVEN",
+   "funding_year": 2013,
+   "start_page": 1089,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN HOEVEN",
+   "funding_year": 2014,
+   "start_page": 1090,
+   "status": "ok",
+   "record_count": 62
+  },
+  {
+   "office": "SENATOR JOHN HOEVEN",
+   "funding_year": 2015,
+   "start_page": 1093,
+   "status": "ok",
+   "record_count": 160
+  },
+  {
+   "office": "SENATOR KAY BAILEY HUTCHISON",
+   "funding_year": 2013,
+   "start_page": 1099,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JAMES M. INHOFE",
+   "funding_year": 2013,
+   "start_page": 1100,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JAMES M. INHOFE",
+   "funding_year": 2014,
+   "start_page": 1101,
+   "status": "ok",
+   "record_count": 89
+  },
+  {
+   "office": "SENATOR JAMES M. INHOFE",
+   "funding_year": 2015,
+   "start_page": 1105,
+   "status": "ok",
+   "record_count": 325
+  },
+  {
+   "office": "SENATOR DANIEL K. INOUYE",
+   "funding_year": 2013,
+   "start_page": 1115,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHNNY ISAKSON",
+   "funding_year": 2013,
+   "start_page": 1116,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR JOHNNY ISAKSON",
+   "funding_year": 2014,
+   "start_page": 1117,
+   "status": "fail",
+   "record_count": 209
+  },
+  {
+   "office": "SENATOR JOHNNY ISAKSON",
+   "funding_year": 2015,
+   "start_page": 1125,
+   "status": "fail",
+   "record_count": 620
+  },
+  {
+   "office": "SENATOR MIKE JOHANNS",
+   "funding_year": 2013,
+   "start_page": 1145,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MIKE JOHANNS",
+   "funding_year": 2014,
+   "start_page": 1146,
+   "status": "ok",
+   "record_count": 40
+  },
+  {
+   "office": "SENATOR MIKE JOHANNS",
+   "funding_year": 2015,
+   "start_page": 1148,
+   "status": "ok",
+   "record_count": 104
+  },
+  {
+   "office": "SENATOR TIM JOHNSON",
+   "funding_year": 2013,
+   "start_page": 1152,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TIM JOHNSON",
+   "funding_year": 2014,
+   "start_page": 1153,
+   "status": "fail",
+   "record_count": 19
+  },
+  {
+   "office": "SENATOR TIM JOHNSON",
+   "funding_year": 2015,
+   "start_page": 1155,
+   "status": "fail",
+   "record_count": 82
+  },
+  {
+   "office": "SENATOR RON JOHNSON",
+   "funding_year": 2013,
+   "start_page": 1158,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RON JOHNSON",
+   "funding_year": 2014,
+   "start_page": 1159,
+   "status": "ok",
+   "record_count": 151
+  },
+  {
+   "office": "SENATOR RON JOHNSON",
+   "funding_year": 2015,
+   "start_page": 1165,
+   "status": "fail",
+   "record_count": 330
+  },
+  {
+   "office": "SENATOR TIM KAINE",
+   "funding_year": 2013,
+   "start_page": 1176,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR TIM KAINE",
+   "funding_year": 2014,
+   "start_page": 1177,
+   "status": "ok",
+   "record_count": 233
+  },
+  {
+   "office": "SENATOR TIM KAINE",
+   "funding_year": 2015,
+   "start_page": 1186,
+   "status": "ok",
+   "record_count": 342
+  },
+  {
+   "office": "SENATOR JOHN F. KERRY",
+   "funding_year": 2013,
+   "start_page": 1196,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ANGUS KING",
+   "funding_year": 2013,
+   "start_page": 1197,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ANGUS KING",
+   "funding_year": 2014,
+   "start_page": 1198,
+   "status": "fail",
+   "record_count": 65
+  },
+  {
+   "office": "SENATOR ANGUS KING",
+   "funding_year": 2015,
+   "start_page": 1201,
+   "status": "fail",
+   "record_count": 384
+  },
+  {
+   "office": "SENATOR MARK KIRK",
+   "funding_year": 2013,
+   "start_page": 1215,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARK KIRK",
+   "funding_year": 2014,
+   "start_page": 1216,
+   "status": "ok",
+   "record_count": 62
+  },
+  {
+   "office": "SENATOR MARK KIRK",
+   "funding_year": 2015,
+   "start_page": 1219,
+   "status": "ok",
+   "record_count": 297
+  },
+  {
+   "office": "SENATOR AMY KLOBUCHAR",
+   "funding_year": 2013,
+   "start_page": 1229,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR AMY KLOBUCHAR",
+   "funding_year": 2014,
+   "start_page": 1230,
+   "status": "ok",
+   "record_count": 91
+  },
+  {
+   "office": "SENATOR AMY KLOBUCHAR",
+   "funding_year": 2015,
+   "start_page": 1234,
+   "status": "ok",
+   "record_count": 436
+  },
+  {
+   "office": "SENATOR HERBERT H. KOHL",
+   "funding_year": 2013,
+   "start_page": 1248,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JON KYL",
+   "funding_year": 2013,
+   "start_page": 1249,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARY L. LANDRIEU",
+   "funding_year": 2013,
+   "start_page": 1250,
+   "status": "ok",
+   "record_count": 32
+  },
+  {
+   "office": "SENATOR MARY L. LANDRIEU",
+   "funding_year": 2014,
+   "start_page": 1252,
+   "status": "ok",
+   "record_count": 95
+  },
+  {
+   "office": "SENATOR MARY L. LANDRIEU",
+   "funding_year": 2015,
+   "start_page": 1256,
+   "status": "ok",
+   "record_count": 137
+  },
+  {
+   "office": "SENATOR JAMES LANKFORD",
+   "funding_year": 2015,
+   "start_page": 1261,
+   "status": "ok",
+   "record_count": 112
+  },
+  {
+   "office": "SENATOR FRANK R. LAUTENBERG",
+   "funding_year": 2013,
+   "start_page": 1265,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR PATRICK J. LEAHY",
+   "funding_year": 2013,
+   "start_page": 1266,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR PATRICK J. LEAHY",
+   "funding_year": 2014,
+   "start_page": 1267,
+   "status": "ok",
+   "record_count": 155
+  },
+  {
+   "office": "SENATOR PATRICK J. LEAHY",
+   "funding_year": 2015,
+   "start_page": 1273,
+   "status": "ok",
+   "record_count": 240
+  },
+  {
+   "office": "SENATOR MIKE LEE",
+   "funding_year": 2013,
+   "start_page": 1280,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MIKE LEE",
+   "funding_year": 2014,
+   "start_page": 1281,
+   "status": "ok",
+   "record_count": 48
+  },
+  {
+   "office": "SENATOR MIKE LEE",
+   "funding_year": 2015,
+   "start_page": 1283,
+   "status": "fail",
+   "record_count": 177
+  },
+  {
+   "office": "SENATOR CARL LEVIN",
+   "funding_year": 2013,
+   "start_page": 1289,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CARL LEVIN",
+   "funding_year": 2014,
+   "start_page": 1290,
+   "status": "ok",
+   "record_count": 45
+  },
+  {
+   "office": "SENATOR CARL LEVIN",
+   "funding_year": 2015,
+   "start_page": 1292,
+   "status": "ok",
+   "record_count": 116
+  },
+  {
+   "office": "SENATOR JOSEPH I. LIEBERMAN",
+   "funding_year": 2013,
+   "start_page": 1296,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICHARD G. LUGAR",
+   "funding_year": 2013,
+   "start_page": 1297,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOE MANCHIN",
+   "funding_year": 2013,
+   "start_page": 1298,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOE MANCHIN",
+   "funding_year": 2014,
+   "start_page": 1299,
+   "status": "fail",
+   "record_count": 101
+  },
+  {
+   "office": "SENATOR JOE MANCHIN",
+   "funding_year": 2015,
+   "start_page": 1303,
+   "status": "fail",
+   "record_count": 381
+  },
+  {
+   "office": "SENATOR EDWARD MARKEY",
+   "funding_year": 2013,
+   "start_page": 1316,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR EDWARD MARKEY",
+   "funding_year": 2014,
+   "start_page": 1317,
+   "status": "ok",
+   "record_count": 11
+  },
+  {
+   "office": "SENATOR EDWARD MARKEY",
+   "funding_year": 2015,
+   "start_page": 1318,
+   "status": "ok",
+   "record_count": 55
+  },
+  {
+   "office": "SENATOR JOHN MCCAIN",
+   "funding_year": 2013,
+   "start_page": 1321,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN MCCAIN",
+   "funding_year": 2014,
+   "start_page": 1322,
+   "status": "fail",
+   "record_count": 22
+  },
+  {
+   "office": "SENATOR JOHN MCCAIN",
+   "funding_year": 2015,
+   "start_page": 1324,
+   "status": "fail",
+   "record_count": 151
+  },
+  {
+   "office": "SENATOR CLAIRE MCCASKILL",
+   "funding_year": 2013,
+   "start_page": 1329,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CLAIRE MCCASKILL",
+   "funding_year": 2014,
+   "start_page": 1330,
+   "status": "fail",
+   "record_count": 61
+  },
+  {
+   "office": "SENATOR CLAIRE MCCASKILL",
+   "funding_year": 2015,
+   "start_page": 1333,
+   "status": "fail",
+   "record_count": 265
+  },
+  {
+   "office": "SENATOR A. MITCHELL MCCONNELL, JR.",
+   "funding_year": 2013,
+   "start_page": 1343,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR A. MITCHELL MCCONNELL, JR.",
+   "funding_year": 2014,
+   "start_page": 1344,
+   "status": "fail",
+   "record_count": 30
+  },
+  {
+   "office": "SENATOR A. MITCHELL MCCONNELL, JR.",
+   "funding_year": 2015,
+   "start_page": 1346,
+   "status": "fail",
+   "record_count": 154
+  },
+  {
+   "office": "SENATOR ROBERT MENENDEZ",
+   "funding_year": 2013,
+   "start_page": 1352,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROBERT MENENDEZ",
+   "funding_year": 2014,
+   "start_page": 1353,
+   "status": "ok",
+   "record_count": 59
+  },
+  {
+   "office": "SENATOR ROBERT MENENDEZ",
+   "funding_year": 2015,
+   "start_page": 1356,
+   "status": "ok",
+   "record_count": 160
+  },
+  {
+   "office": "SENATOR JEFF MERKLEY",
+   "funding_year": 2013,
+   "start_page": 1362,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JEFF MERKLEY",
+   "funding_year": 2014,
+   "start_page": 1363,
+   "status": "ok",
+   "record_count": 71
+  },
+  {
+   "office": "SENATOR JEFF MERKLEY",
+   "funding_year": 2015,
+   "start_page": 1366,
+   "status": "fail",
+   "record_count": 210
+  },
+  {
+   "office": "SENATOR BARBARA A. MIKULSKI",
+   "funding_year": 2013,
+   "start_page": 1373,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "SENATOR BARBARA A. MIKULSKI",
+   "funding_year": 2014,
+   "start_page": 1374,
+   "status": "ok",
+   "record_count": 87
+  },
+  {
+   "office": "SENATOR BARBARA A. MIKULSKI",
+   "funding_year": 2015,
+   "start_page": 1378,
+   "status": "ok",
+   "record_count": 252
+  },
+  {
+   "office": "SENATOR JERRY MORAN",
+   "funding_year": 2013,
+   "start_page": 1388,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JERRY MORAN",
+   "funding_year": 2014,
+   "start_page": 1389,
+   "status": "ok",
+   "record_count": 68
+  },
+  {
+   "office": "SENATOR JERRY MORAN",
+   "funding_year": 2015,
+   "start_page": 1392,
+   "status": "ok",
+   "record_count": 389
+  },
+  {
+   "office": "SENATOR LISA MURKOWSKI",
+   "funding_year": 2013,
+   "start_page": 1404,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR LISA MURKOWSKI",
+   "funding_year": 2014,
+   "start_page": 1405,
+   "status": "ok",
+   "record_count": 40
+  },
+  {
+   "office": "SENATOR LISA MURKOWSKI",
+   "funding_year": 2015,
+   "start_page": 1408,
+   "status": "fail",
+   "record_count": 180
+  },
+  {
+   "office": "SENATOR CHRIS MURPHY",
+   "funding_year": 2013,
+   "start_page": 1414,
+   "status": "ok",
+   "record_count": 39
+  },
+  {
+   "office": "SENATOR CHRIS MURPHY",
+   "funding_year": 2014,
+   "start_page": 1416,
+   "status": "fail",
+   "record_count": 107
+  },
+  {
+   "office": "SENATOR CHRIS MURPHY",
+   "funding_year": 2015,
+   "start_page": 1421,
+   "status": "fail",
+   "record_count": 231
+  },
+  {
+   "office": "SENATOR PATTY MURRAY",
+   "funding_year": 2013,
+   "start_page": 1429,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR PATTY MURRAY",
+   "funding_year": 2014,
+   "start_page": 1430,
+   "status": "ok",
+   "record_count": 86
+  },
+  {
+   "office": "SENATOR PATTY MURRAY",
+   "funding_year": 2015,
+   "start_page": 1434,
+   "status": "ok",
+   "record_count": 378
+  },
+  {
+   "office": "SENATOR BEN NELSON",
+   "funding_year": 2013,
+   "start_page": 1445,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BILL NELSON",
+   "funding_year": 2013,
+   "start_page": 1446,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "SENATOR BILL NELSON",
+   "funding_year": 2014,
+   "start_page": 1447,
+   "status": "ok",
+   "record_count": 108
+  },
+  {
+   "office": "SENATOR BILL NELSON",
+   "funding_year": 2015,
+   "start_page": 1451,
+   "status": "ok",
+   "record_count": 373
+  },
+  {
+   "office": "SENATOR RAND PAUL",
+   "funding_year": 2013,
+   "start_page": 1462,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "SENATOR RAND PAUL",
+   "funding_year": 2014,
+   "start_page": 1463,
+   "status": "ok",
+   "record_count": 138
+  },
+  {
+   "office": "SENATOR RAND PAUL",
+   "funding_year": 2015,
+   "start_page": 1469,
+   "status": "ok",
+   "record_count": 449
+  },
+  {
+   "office": "SENATOR DAVID PERDUE",
+   "funding_year": 2015,
+   "start_page": 1483,
+   "status": "ok",
+   "record_count": 94
+  },
+  {
+   "office": "SENATOR GARY PETERS",
+   "funding_year": 2015,
+   "start_page": 1486,
+   "status": "ok",
+   "record_count": 67
+  },
+  {
+   "office": "SENATOR ROB PORTMAN",
+   "funding_year": 2013,
+   "start_page": 1489,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROB PORTMAN",
+   "funding_year": 2014,
+   "start_page": 1490,
+   "status": "ok",
+   "record_count": 109
+  },
+  {
+   "office": "SENATOR ROB PORTMAN",
+   "funding_year": 2015,
+   "start_page": 1495,
+   "status": "fail",
+   "record_count": 245
+  },
+  {
+   "office": "SENATOR MARK PRYOR",
+   "funding_year": 2013,
+   "start_page": 1504,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR MARK PRYOR",
+   "funding_year": 2014,
+   "start_page": 1505,
+   "status": "ok",
+   "record_count": 28
+  },
+  {
+   "office": "SENATOR MARK PRYOR",
+   "funding_year": 2015,
+   "start_page": 1507,
+   "status": "ok",
+   "record_count": 81
+  },
+  {
+   "office": "SENATOR JOHN F. REED",
+   "funding_year": 2013,
+   "start_page": 1510,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN F. REED",
+   "funding_year": 2014,
+   "start_page": 1511,
+   "status": "ok",
+   "record_count": 25
+  },
+  {
+   "office": "SENATOR JOHN F. REED",
+   "funding_year": 2015,
+   "start_page": 1513,
+   "status": "ok",
+   "record_count": 108
+  },
+  {
+   "office": "SENATOR HARRY REID",
+   "funding_year": 2013,
+   "start_page": 1517,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR HARRY REID",
+   "funding_year": 2014,
+   "start_page": 1518,
+   "status": "fail",
+   "record_count": 112
+  },
+  {
+   "office": "SENATOR HARRY REID",
+   "funding_year": 2015,
+   "start_page": 1522,
+   "status": "fail",
+   "record_count": 228
+  },
+  {
+   "office": "SENATOR JAMES E. RISCH",
+   "funding_year": 2013,
+   "start_page": 1528,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JAMES E. RISCH",
+   "funding_year": 2014,
+   "start_page": 1529,
+   "status": "ok",
+   "record_count": 38
+  },
+  {
+   "office": "SENATOR JAMES E. RISCH",
+   "funding_year": 2015,
+   "start_page": 1531,
+   "status": "ok",
+   "record_count": 260
+  },
+  {
+   "office": "SENATOR PAT ROBERTS",
+   "funding_year": 2013,
+   "start_page": 1539,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR PAT ROBERTS",
+   "funding_year": 2014,
+   "start_page": 1540,
+   "status": "ok",
+   "record_count": 20
+  },
+  {
+   "office": "SENATOR PAT ROBERTS",
+   "funding_year": 2015,
+   "start_page": 1542,
+   "status": "fail",
+   "record_count": 201
+  },
+  {
+   "office": "SENATOR JOHN D. ROCKEFELLER, IV",
+   "funding_year": 2013,
+   "start_page": 1548,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN D. ROCKEFELLER, IV",
+   "funding_year": 2014,
+   "start_page": 1549,
+   "status": "ok",
+   "record_count": 44
+  },
+  {
+   "office": "SENATOR JOHN D. ROCKEFELLER, IV",
+   "funding_year": 2015,
+   "start_page": 1551,
+   "status": "ok",
+   "record_count": 123
+  },
+  {
+   "office": "SENATOR MIKE ROUNDS",
+   "funding_year": 2015,
+   "start_page": 1555,
+   "status": "ok",
+   "record_count": 141
+  },
+  {
+   "office": "SENATOR MARCO RUBIO",
+   "funding_year": 2013,
+   "start_page": 1560,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARCO RUBIO",
+   "funding_year": 2014,
+   "start_page": 1561,
+   "status": "ok",
+   "record_count": 79
+  },
+  {
+   "office": "SENATOR MARCO RUBIO",
+   "funding_year": 2015,
+   "start_page": 1565,
+   "status": "ok",
+   "record_count": 319
+  },
+  {
+   "office": "SENATOR BERNARD SANDERS",
+   "funding_year": 2013,
+   "start_page": 1575,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BERNARD SANDERS",
+   "funding_year": 2014,
+   "start_page": 1576,
+   "status": "ok",
+   "record_count": 117
+  },
+  {
+   "office": "SENATOR BERNARD SANDERS",
+   "funding_year": 2015,
+   "start_page": 1581,
+   "status": "ok",
+   "record_count": 332
+  },
+  {
+   "office": "SENATOR BEN SASSE",
+   "funding_year": 2015,
+   "start_page": 1591,
+   "status": "ok",
+   "record_count": 105
+  },
+  {
+   "office": "SENATOR BRIAN SCHATZ",
+   "funding_year": 2013,
+   "start_page": 1595,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR BRIAN SCHATZ",
+   "funding_year": 2014,
+   "start_page": 1596,
+   "status": "ok",
+   "record_count": 24
+  },
+  {
+   "office": "SENATOR BRIAN SCHATZ",
+   "funding_year": 2015,
+   "start_page": 1598,
+   "status": "ok",
+   "record_count": 153
+  },
+  {
+   "office": "SENATOR CHARLES E. SCHUMER",
+   "funding_year": 2013,
+   "start_page": 1603,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR CHARLES E. SCHUMER",
+   "funding_year": 2014,
+   "start_page": 1604,
+   "status": "fail",
+   "record_count": 61
+  },
+  {
+   "office": "SENATOR CHARLES E. SCHUMER",
+   "funding_year": 2015,
+   "start_page": 1607,
+   "status": "fail",
+   "record_count": 401
+  },
+  {
+   "office": "SENATOR TIM SCOTT",
+   "funding_year": 2013,
+   "start_page": 1621,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TIM SCOTT",
+   "funding_year": 2014,
+   "start_page": 1622,
+   "status": "ok",
+   "record_count": 22
+  },
+  {
+   "office": "SENATOR TIM SCOTT",
+   "funding_year": 2015,
+   "start_page": 1624,
+   "status": "ok",
+   "record_count": 187
+  },
+  {
+   "office": "SENATOR JEFFERSON B. SESSIONS, III",
+   "funding_year": 2013,
+   "start_page": 1631,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JEFFERSON B. SESSIONS, III",
+   "funding_year": 2014,
+   "start_page": 1632,
+   "status": "ok",
+   "record_count": 20
+  },
+  {
+   "office": "SENATOR JEFFERSON B. SESSIONS, III",
+   "funding_year": 2015,
+   "start_page": 1634,
+   "status": "ok",
+   "record_count": 170
+  },
+  {
+   "office": "SENATOR JEANNE SHAHEEN",
+   "funding_year": 2013,
+   "start_page": 1640,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JEANNE SHAHEEN",
+   "funding_year": 2014,
+   "start_page": 1641,
+   "status": "ok",
+   "record_count": 42
+  },
+  {
+   "office": "SENATOR JEANNE SHAHEEN",
+   "funding_year": 2015,
+   "start_page": 1644,
+   "status": "ok",
+   "record_count": 198
+  },
+  {
+   "office": "SENATOR RICHARD C. SHELBY",
+   "funding_year": 2013,
+   "start_page": 1651,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RICHARD C. SHELBY",
+   "funding_year": 2014,
+   "start_page": 1652,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "SENATOR RICHARD C. SHELBY",
+   "funding_year": 2015,
+   "start_page": 1653,
+   "status": "ok",
+   "record_count": 79
+  },
+  {
+   "office": "SENATOR OLYMPIA J. SNOWE",
+   "funding_year": 2013,
+   "start_page": 1656,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DEBBIE A. STABENOW",
+   "funding_year": 2013,
+   "start_page": 1657,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DEBBIE A. STABENOW",
+   "funding_year": 2014,
+   "start_page": 1658,
+   "status": "ok",
+   "record_count": 70
+  },
+  {
+   "office": "SENATOR DEBBIE A. STABENOW",
+   "funding_year": 2015,
+   "start_page": 1661,
+   "status": "ok",
+   "record_count": 219
+  },
+  {
+   "office": "SENATOR DAN SULLIVAN",
+   "funding_year": 2015,
+   "start_page": 1669,
+   "status": "fail",
+   "record_count": 59
+  },
+  {
+   "office": "SENATOR JON TESTER",
+   "funding_year": 2013,
+   "start_page": 1672,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JON TESTER",
+   "funding_year": 2014,
+   "start_page": 1673,
+   "status": "ok",
+   "record_count": 82
+  },
+  {
+   "office": "SENATOR JON TESTER",
+   "funding_year": 2015,
+   "start_page": 1676,
+   "status": "ok",
+   "record_count": 418
+  },
+  {
+   "office": "SENATOR JOHN R. THUNE",
+   "funding_year": 2013,
+   "start_page": 1688,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR JOHN R. THUNE",
+   "funding_year": 2014,
+   "start_page": 1689,
+   "status": "ok",
+   "record_count": 75
+  },
+  {
+   "office": "SENATOR JOHN R. THUNE",
+   "funding_year": 2015,
+   "start_page": 1692,
+   "status": "ok",
+   "record_count": 197
+  },
+  {
+   "office": "SENATOR THOM TILLIS",
+   "funding_year": 2015,
+   "start_page": 1698,
+   "status": "ok",
+   "record_count": 127
+  },
+  {
+   "office": "SENATOR PATRICK J.TOOMEY",
+   "funding_year": 2013,
+   "start_page": 1703,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR PATRICK J.TOOMEY",
+   "funding_year": 2014,
+   "start_page": 1704,
+   "status": "ok",
+   "record_count": 154
+  },
+  {
+   "office": "SENATOR PATRICK J.TOOMEY",
+   "funding_year": 2015,
+   "start_page": 1710,
+   "status": "ok",
+   "record_count": 461
+  },
+  {
+   "office": "SENATOR MARK UDALL (CO)",
+   "funding_year": 2013,
+   "start_page": 1725,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR MARK UDALL (CO)",
+   "funding_year": 2014,
+   "start_page": 1726,
+   "status": "ok",
+   "record_count": 50
+  },
+  {
+   "office": "SENATOR MARK UDALL (CO)",
+   "funding_year": 2015,
+   "start_page": 1729,
+   "status": "ok",
+   "record_count": 104
+  },
+  {
+   "office": "SENATOR TOM UDALL (NM)",
+   "funding_year": 2013,
+   "start_page": 1733,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR TOM UDALL (NM)",
+   "funding_year": 2014,
+   "start_page": 1734,
+   "status": "ok",
+   "record_count": 40
+  },
+  {
+   "office": "SENATOR TOM UDALL (NM)",
+   "funding_year": 2015,
+   "start_page": 1737,
+   "status": "ok",
+   "record_count": 397
+  },
+  {
+   "office": "SENATOR DAVID VITTER",
+   "funding_year": 2013,
+   "start_page": 1749,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR DAVID VITTER",
+   "funding_year": 2014,
+   "start_page": 1750,
+   "status": "fail",
+   "record_count": 106
+  },
+  {
+   "office": "SENATOR DAVID VITTER",
+   "funding_year": 2015,
+   "start_page": 1754,
+   "status": "fail",
+   "record_count": 387
+  },
+  {
+   "office": "SENATOR JOHN WALSH",
+   "funding_year": 2014,
+   "start_page": 1767,
+   "status": "fail",
+   "record_count": 52
+  },
+  {
+   "office": "SENATOR JOHN WALSH",
+   "funding_year": 2015,
+   "start_page": 1770,
+   "status": "fail",
+   "record_count": 106
+  },
+  {
+   "office": "SENATOR MARK WARNER",
+   "funding_year": 2013,
+   "start_page": 1774,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SENATOR MARK WARNER",
+   "funding_year": 2014,
+   "start_page": 1775,
+   "status": "fail",
+   "record_count": 97
+  },
+  {
+   "office": "SENATOR MARK WARNER",
+   "funding_year": 2015,
+   "start_page": 1779,
+   "status": "fail",
+   "record_count": 375
+  },
+  {
+   "office": "SENATOR ELIZABETH WARREN",
+   "funding_year": 2013,
+   "start_page": 1791,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ELIZABETH WARREN",
+   "funding_year": 2014,
+   "start_page": 1792,
+   "status": "ok",
+   "record_count": 59
+  },
+  {
+   "office": "SENATOR ELIZABETH WARREN",
+   "funding_year": 2015,
+   "start_page": 1795,
+   "status": "ok",
+   "record_count": 124
+  },
+  {
+   "office": "SENATOR JIM WEBB",
+   "funding_year": 2013,
+   "start_page": 1800,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SHELDON WHITEHOUSE",
+   "funding_year": 2013,
+   "start_page": 1801,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR SHELDON WHITEHOUSE",
+   "funding_year": 2014,
+   "start_page": 1802,
+   "status": "fail",
+   "record_count": 156
+  },
+  {
+   "office": "SENATOR SHELDON WHITEHOUSE",
+   "funding_year": 2015,
+   "start_page": 1808,
+   "status": "fail",
+   "record_count": 250
+  },
+  {
+   "office": "SENATOR ROGER WICKER",
+   "funding_year": 2013,
+   "start_page": 1817,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR ROGER WICKER",
+   "funding_year": 2014,
+   "start_page": 1818,
+   "status": "ok",
+   "record_count": 60
+  },
+  {
+   "office": "SENATOR ROGER WICKER",
+   "funding_year": 2015,
+   "start_page": 1821,
+   "status": "ok",
+   "record_count": 300
+  },
+  {
+   "office": "SENATOR RON WYDEN",
+   "funding_year": 2013,
+   "start_page": 1831,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SENATOR RON WYDEN",
+   "funding_year": 2014,
+   "start_page": 1832,
+   "status": "ok",
+   "record_count": 45
+  },
+  {
+   "office": "SENATOR RON WYDEN",
+   "funding_year": 2015,
+   "start_page": 1834,
+   "status": "ok",
+   "record_count": 336
+  },
+  {
+   "office": "STATIONERY",
+   "funding_year": null,
+   "start_page": 1844,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "LEGAL COUNSEL",
+   "funding_year": 2013,
+   "start_page": 1845,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "LEGAL COUNSEL",
+   "funding_year": 2014,
+   "start_page": 1846,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "LEGAL COUNSEL",
+   "funding_year": 2015,
+   "start_page": 1847,
+   "status": "ok",
+   "record_count": 9
+  },
+  {
+   "office": "SECRETARY FOR THE MAJORITY (D)",
+   "funding_year": 2013,
+   "start_page": 1848,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MAJORITY (D)",
+   "funding_year": 2014,
+   "start_page": 1849,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MINORITY (D)",
+   "funding_year": 2015,
+   "start_page": 1850,
+   "status": "ok",
+   "record_count": 2
+  },
+  {
+   "office": "SECRETARY FOR THE MINORITY (R)",
+   "funding_year": 2013,
+   "start_page": 1851,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MINORITY (R)",
+   "funding_year": 2014,
+   "start_page": 1852,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY FOR THE MAJORITY (R)",
+   "funding_year": 2015,
+   "start_page": 1853,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2013,
+   "start_page": 1854,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2014,
+   "start_page": 1855,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SERGEANT AT ARMS AND DOORKEEPER OF THE SENATE",
+   "funding_year": 2015,
+   "start_page": 1856,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2013,
+   "start_page": 1857,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2014,
+   "start_page": 1858,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SECRETARY OF THE SENATE",
+   "funding_year": 2015,
+   "start_page": 1859,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "JOINT ECONOMIC COMMITTEE",
+   "funding_year": 2013,
+   "start_page": 1860,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "JOINT ECONOMIC COMMITTEE",
+   "funding_year": 2014,
+   "start_page": 1861,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "JOINT ECONOMIC COMMITTEE",
+   "funding_year": 2015,
+   "start_page": 1862,
+   "status": "ok",
+   "record_count": 46
+  },
+  {
+   "office": "RESERVE FOR CONTINGENCIES",
+   "funding_year": null,
+   "start_page": 1864,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "LEGISLATIVE COUNSEL",
+   "funding_year": 2013,
+   "start_page": 1865,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "LEGISLATIVE COUNSEL",
+   "funding_year": 2014,
+   "start_page": 1866,
+   "status": "fail",
+   "record_count": 5
+  },
+  {
+   "office": "LEGISLATIVE COUNSEL",
+   "funding_year": 2015,
+   "start_page": 1867,
+   "status": "fail",
+   "record_count": 43
+  },
+  {
+   "office": "JOINT COMMITTEES ON INAUGURAL CEREMONIES",
+   "funding_year": null,
+   "start_page": 1869,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "OFFICE OF CONGRESSIONAL ACCESSIBILITY SERVICES",
+   "funding_year": 2013,
+   "start_page": 1870,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "OFFICE OF CONGRESSIONAL ACCESSIBILITY SERVICES",
+   "funding_year": 2014,
+   "start_page": 1871,
+   "status": "ok",
+   "record_count": 17
+  },
+  {
+   "office": "OFFICE OF CONGRESSIONAL ACCESSIBILITY SERVICES",
+   "funding_year": 2015,
+   "start_page": 1872,
+   "status": "ok",
+   "record_count": 34
+  },
+  {
+   "office": "OFFICE OF CONGRESSIONAL ACCESSIBILITY SERVICES",
+   "funding_year": null,
+   "start_page": 1874,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "COMPUTER CENTER REVOLVING FUND",
+   "funding_year": null,
+   "start_page": 1875,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "HEALTH & PROMOTION",
+   "funding_year": null,
+   "start_page": 1876,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "PUBLIC RECORDS",
+   "funding_year": null,
+   "start_page": 1877,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "GIFT SHOP",
+   "funding_year": null,
+   "start_page": 1878,
+   "status": "ok",
+   "record_count": 1
+  },
+  {
+   "office": "PHOTOGRAPHIC STUDIO",
+   "funding_year": null,
+   "start_page": 1879,
+   "status": "ok",
+   "record_count": 19
+  },
+  {
+   "office": "RECORDING STUDIO",
+   "funding_year": null,
+   "start_page": 1880,
+   "status": "ok",
+   "record_count": 7
+  },
+  {
+   "office": "DANIEL WEBSTER SENATE PAGE RESIDENCE",
+   "funding_year": null,
+   "start_page": 1881,
+   "status": "ok",
+   "record_count": 22
+  },
+  {
+   "office": "SENATE HAIR CARE",
+   "funding_year": null,
+   "start_page": 1883,
+   "status": "ok",
+   "record_count": 4
+  },
+  {
+   "office": "AGRICULTURE, NUTRITION & FORESTRY AGRICULTURE, NUTR & FOR S.RES.81D(112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1885,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "AGRICULTURE, NUTRITION & FORESTRY AGRICULTURE, NUTR & FOR S.RES.64B(113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1886,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "AGRICULTURE, NUTRITION & FORESTRY AGRICULTURE, NUTR & FOR S.RES.253B(113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1887,
+   "status": "ok",
+   "record_count": 35
+  },
+  {
+   "office": "AGRICULTURE, NUTRITION & FORESTRY AGRICULTURE, NUTR & FOR S.RES.253C(113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1889,
+   "status": "fail",
+   "record_count": 87
+  },
+  {
+   "office": "AGRICULTURE, NUTRITION & FORESTRY AGRICULTURE, NUTR & FOR S.RES.73B(114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1893,
+   "status": "fail",
+   "record_count": 52
+  },
+  {
+   "office": "ARMED SERVICES ARMED SERVICES - S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1895,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "ARMED SERVICES ARMED SERVICES - S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1896,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "ARMED SERVICES ARMED SERVICES - S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1897,
+   "status": "ok",
+   "record_count": 5
+  },
+  {
+   "office": "ARMED SERVICES ARMED SERVICES - S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1898,
+   "status": "fail",
+   "record_count": 26
+  },
+  {
+   "office": "ARMED SERVICES ARMED SERVICES - S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1900,
+   "status": "fail",
+   "record_count": 73
+  },
+  {
+   "office": "BANKING, HOUSING & URBAN AFFAIRS BANKING, HOUSING &URBDEV S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1902,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "BANKING, HOUSING & URBAN AFFAIRS BANKING, HOUSING &URBDEV S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1903,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "BANKING, HOUSING & URBAN AFFAIRS BANKING, HOUSING &URBDEV S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1904,
+   "status": "ok",
+   "record_count": 19
+  },
+  {
+   "office": "BANKING, HOUSING & URBAN AFFAIRS BANKING, HOUSING &URBDEV S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1906,
+   "status": "fail",
+   "record_count": 29
+  },
+  {
+   "office": "BANKING, HOUSING & URBAN AFFAIRS BANKING, HOUSING &URBDEV S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1908,
+   "status": "fail",
+   "record_count": 61
+  },
+  {
+   "office": "BUDGET BUDGET - S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1910,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "BUDGET BUDGET - S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1911,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "BUDGET BUDGET - S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1912,
+   "status": "fail",
+   "record_count": 30
+  },
+  {
+   "office": "BUDGET BUDGET - S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1914,
+   "status": "fail",
+   "record_count": 39
+  },
+  {
+   "office": "BUDGET BUDGET - S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1916,
+   "status": "fail",
+   "record_count": 75
+  },
+  {
+   "office": "COMMERCE, SCIENCE & TRANSPORTATION COMMERCE, SCI & TRANS S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1918,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "COMMERCE, SCIENCE & TRANSPORTATION COMMERCE, SCI & TRANS S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1919,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "COMMERCE, SCIENCE & TRANSPORTATION COMMERCE, SCI & TRANS S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1920,
+   "status": "ok",
+   "record_count": 25
+  },
+  {
+   "office": "COMMERCE, SCIENCE & TRANSPORTATION COMMERCE, SCI & TRANS S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1922,
+   "status": "fail",
+   "record_count": 44
+  },
+  {
+   "office": "COMMERCE, SCIENCE & TRANSPORTATION COMMERCE, SCI & TRANS S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1924,
+   "status": "fail",
+   "record_count": 82
+  },
+  {
+   "office": "ENERGY & NATURAL RESOURCES ENERGY & NATURAL S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1926,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "ENERGY & NATURAL RESOURCES ENERGY & NATURAL S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1927,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "ENERGY & NATURAL RESOURCES ENERGY & NATURAL S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1928,
+   "status": "ok",
+   "record_count": 42
+  },
+  {
+   "office": "ENERGY & NATURAL RESOURCES ENERGY & NATURAL S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1930,
+   "status": "fail",
+   "record_count": 84
+  },
+  {
+   "office": "ENERGY & NATURAL RESOURCES ENERGY & NATURAL S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1934,
+   "status": "fail",
+   "record_count": 56
+  },
+  {
+   "office": "ENVIRONMENT & PUBLIC WORKS ENVIRONMENT & PUB WORKS S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1936,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "ENVIRONMENT & PUBLIC WORKS ENVIRONMENT & PUB WORKS S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1937,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "ENVIRONMENT & PUBLIC WORKS ENVIRONMENT & PUB WORKS S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1938,
+   "status": "ok",
+   "record_count": 16
+  },
+  {
+   "office": "ENVIRONMENT & PUBLIC WORKS ENVIRONMENT & PUB WORKS S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1940,
+   "status": "fail",
+   "record_count": 23
+  },
+  {
+   "office": "ENVIRONMENT & PUBLIC WORKS ENVIRONMENT & PUB WORKS S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1942,
+   "status": "fail",
+   "record_count": 65
+  },
+  {
+   "office": "ETHICS COMMITTEE ON ETHICS - FY 2013 EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1944,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "ETHICS COMMITTEE ON ETHICS - FY 2014 EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1945,
+   "status": "fail",
+   "record_count": 11
+  },
+  {
+   "office": "ETHICS COMMITTEE ON ETHICS - FY 2015 EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1947,
+   "status": "fail",
+   "record_count": 19
+  },
+  {
+   "office": "FINANCE FINANCE - S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1949,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FINANCE FINANCE - S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1950,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FINANCE FINANCE - S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1951,
+   "status": "fail",
+   "record_count": 39
+  },
+  {
+   "office": "FINANCE FINANCE - S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1953,
+   "status": "fail",
+   "record_count": 115
+  },
+  {
+   "office": "FINANCE FINANCE - S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1958,
+   "status": "fail",
+   "record_count": 110
+  },
+  {
+   "office": "FOREIGN RELATIONS FOREIGN RELATIONS - S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1961,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FOREIGN RELATIONS FOREIGN RELATIONS - S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1962,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "FOREIGN RELATIONS FOREIGN RELATIONS - S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1963,
+   "status": "ok",
+   "record_count": 45
+  },
+  {
+   "office": "FOREIGN RELATIONS FOREIGN RELATIONS - S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1966,
+   "status": "fail",
+   "record_count": 120
+  },
+  {
+   "office": "FOREIGN RELATIONS FOREIGN RELATIONS - S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1971,
+   "status": "fail",
+   "record_count": 86
+  },
+  {
+   "office": "HOMELAND SECURITY & GOVERNMENTAL AFFAIRS HOMELAND SEC.& GOV AFF. S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1974,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "HOMELAND SECURITY & GOVERNMENTAL AFFAIRS HOMELAND SEC.& GOV AFF. S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1975,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "HOMELAND SECURITY & GOVERNMENTAL AFFAIRS HOMELAND SEC.& GOV AFF. S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1976,
+   "status": "ok",
+   "record_count": 14
+  },
+  {
+   "office": "HOMELAND SECURITY & GOVERNMENTAL AFFAIRS HOMELAND SEC.& GOV AFF. S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1978,
+   "status": "fail",
+   "record_count": 81
+  },
+  {
+   "office": "HOMELAND SECURITY & GOVERNMENTAL AFFAIRS HOMELAND SEC.& GOV AFF. S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1982,
+   "status": "fail",
+   "record_count": 141
+  },
+  {
+   "office": "HEALTH, EDUCATION, LABOR, AND PENSIONS HEALTH, EDU,LABOR&PENS S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1986,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "HEALTH, EDUCATION, LABOR, AND PENSIONS HEALTH, EDU,LABOR&PENS S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1987,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "HEALTH, EDUCATION, LABOR, AND PENSIONS HEALTH, EDU,LABOR&PENS S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1988,
+   "status": "ok",
+   "record_count": 56
+  },
+  {
+   "office": "HEALTH, EDUCATION, LABOR, AND PENSIONS HEALTH, EDU,LABOR&PENS S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1991,
+   "status": "fail",
+   "record_count": 135
+  },
+  {
+   "office": "HEALTH, EDUCATION, LABOR, AND PENSIONS HEALTH, EDU,LABOR&PENS S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1996,
+   "status": "fail",
+   "record_count": 123
+  },
+  {
+   "office": "INDIAN AFFAIRS INDIAN AFFAIRS - S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 1999,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INDIAN AFFAIRS INDIAN AFFAIRS - S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2000,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INDIAN AFFAIRS INDIAN AFFAIRS - S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2001,
+   "status": "ok",
+   "record_count": 17
+  },
+  {
+   "office": "INDIAN AFFAIRS INDIAN AFFAIRS - S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2003,
+   "status": "fail",
+   "record_count": 92
+  },
+  {
+   "office": "INDIAN AFFAIRS INDIAN AFFAIRS - S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2007,
+   "status": "fail",
+   "record_count": 28
+  },
+  {
+   "office": "INTELLIGENCE SELECT COM ON INTEL - S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2009,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTELLIGENCE SELECT COM ON INTEL - S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2010,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "INTELLIGENCE SELECT COM ON INTEL - S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2011,
+   "status": "fail",
+   "record_count": 17
+  },
+  {
+   "office": "INTELLIGENCE SELECT COM ON INTEL - S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2013,
+   "status": "fail",
+   "record_count": 30
+  },
+  {
+   "office": "INTELLIGENCE SELECT COM ON INTEL - S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2015,
+   "status": "fail",
+   "record_count": 45
+  },
+  {
+   "office": "INTELLIGENCE SELECT COM ON INTEL - P.L. 113-76 (10/13-9/14) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2017,
+   "status": "fail",
+   "record_count": 0
+  },
+  {
+   "office": "INTELLIGENCE SEL COM ON INTEL-P.L. 113-76 (10/14-2/15) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2018,
+   "status": "fail",
+   "record_count": 0
+  },
+  {
+   "office": "INTELLIGENCE SEL COM ON INTEL-P.L. 113-76 (03-09/2015) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2019,
+   "status": "fail",
+   "record_count": 3
+  },
+  {
+   "office": "JUDICIARY JUDICIARY - S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2020,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "JUDICIARY JUDICIARY - S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2021,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "JUDICIARY JUDICIARY - S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2022,
+   "status": "fail",
+   "record_count": 36
+  },
+  {
+   "office": "JUDICIARY JUDICIARY - S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2024,
+   "status": "fail",
+   "record_count": 78
+  },
+  {
+   "office": "JUDICIARY JUDICIARY - S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2028,
+   "status": "fail",
+   "record_count": 122
+  },
+  {
+   "office": "RULES & ADMINISTRATION RULES & ADMINISTRATION S.RES. 81D(112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2031,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RULES & ADMINISTRATION RULES & ADMINISTRATION S.RES. 64B(113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2032,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "RULES & ADMINISTRATION RULES & ADMINISTRATION S.RES. 253B(113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2033,
+   "status": "ok",
+   "record_count": 3
+  },
+  {
+   "office": "RULES & ADMINISTRATION RULES & ADMINISTRATION S.RES. 253C(113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2034,
+   "status": "fail",
+   "record_count": 9
+  },
+  {
+   "office": "RULES & ADMINISTRATION RULES & ADMINISTRATION S.RES. 73B(114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2035,
+   "status": "fail",
+   "record_count": 25
+  },
+  {
+   "office": "SMALL BUSINESS AND ENTREPRENEURSHIP SMALL BUS & ENTREP.- S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2037,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SMALL BUSINESS AND ENTREPRENEURSHIP SMALL BUS & ENTREP.- S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2038,
+   "status": "ok",
+   "record_count": 8
+  },
+  {
+   "office": "SMALL BUSINESS AND ENTREPRENEURSHIP SMALL BUS & ENTREP.- S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2039,
+   "status": "ok",
+   "record_count": 28
+  },
+  {
+   "office": "SMALL BUSINESS AND ENTREPRENEURSHIP SMALL BUS & ENTREP.- S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2041,
+   "status": "fail",
+   "record_count": 85
+  },
+  {
+   "office": "SMALL BUSINESS AND ENTREPRENEURSHIP SMALL BUS & ENTREP.- S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2045,
+   "status": "fail",
+   "record_count": 47
+  },
+  {
+   "office": "SPECIAL COMMITTEE ON AGING SPECIAL COM ON AGING S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2047,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SPECIAL COMMITTEE ON AGING SPECIAL COM ON AGING S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2048,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SPECIAL COMMITTEE ON AGING SPECIAL COM ON AGING S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2049,
+   "status": "ok",
+   "record_count": 21
+  },
+  {
+   "office": "SPECIAL COMMITTEE ON AGING SPECIAL COM ON AGING S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2051,
+   "status": "fail",
+   "record_count": 11
+  },
+  {
+   "office": "SPECIAL COMMITTEE ON AGING SPECIAL COM ON AGING S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2053,
+   "status": "fail",
+   "record_count": 38
+  },
+  {
+   "office": "VETERANS' AFFAIRS VETERANS' AFFAIRS - S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2055,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "VETERANS' AFFAIRS VETERANS' AFFAIRS - S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2056,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "VETERANS' AFFAIRS VETERANS' AFFAIRS - S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2057,
+   "status": "ok",
+   "record_count": 26
+  },
+  {
+   "office": "VETERANS' AFFAIRS VETERANS' AFFAIRS - S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2059,
+   "status": "fail",
+   "record_count": 28
+  },
+  {
+   "office": "VETERANS' AFFAIRS VETERANS' AFFAIRS - S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2061,
+   "status": "fail",
+   "record_count": 34
+  },
+  {
+   "office": "SPECIAL RESERVES - COMMITTEES SPECIAL RESERVES - S.RES. 81D (112TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2063,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SPECIAL RESERVES - COMMITTEES SPECIAL RESERVES - S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2064,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SPECIAL RESERVES - COMMITTEES SPECIAL RESERVES - S.RES. 253B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2065,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SPECIAL RESERVES - COMMITTEES SPECIAL RESERVES - S.RES. 253C (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2066,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "SPECIAL RESERVES - COMMITTEES SPECIAL RESERVES - S.RES. 73B (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
+   "funding_year": null,
+   "start_page": 2067,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "COMPENSATION OF MEMBERS",
+   "funding_year": 2015,
+   "start_page": 2069,
+   "status": "fail",
+   "record_count": 115
+  },
+  {
+   "office": "COMPENSATION OF MEMBERS",
+   "funding_year": 2014,
+   "start_page": 2072,
+   "status": "ok",
+   "record_count": 0
+  },
+  {
+   "office": "COMPENSATION OF MEMBERS",
+   "funding_year": 2013,
+   "start_page": 2073,
+   "status": "ok",
+   "record_count": 0
+  }
+ ]
+}

@@ -35,9 +35,8 @@ OLD_TEMPLATE_REPORTS = {
 }
 
 # Reports with committed snapshot regressions (tests/test_full_reports.py).
-# Currently the 7 modern-era docs; the 114-era snapshots would be ~30 min
-# of slow-test regeneration to add and aren't tracked yet.
-SNAPSHOT_REPORTS = {r for r in REPORTS if r not in OLD_TEMPLATE_REPORTS}
+# All 10 docs (7 modern-era + 3 114-era). Slow tests take ~45 min total.
+SNAPSHOT_REPORTS = set(REPORTS)
 # Dict form (source_doc -> volume list) filtered to snapshot reports, for
 # tests/test_full_reports.py which needs both membership tests and volume
 # lookup. SNAPSHOT_REPORTS is a set for fast `in` checks; this is the
