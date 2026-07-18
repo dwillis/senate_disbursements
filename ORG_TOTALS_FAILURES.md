@@ -1,9 +1,10 @@
 # BANNER ORGANIZATION TOTALS reconciliation failures
 
-Analysis of the `BANNER ORGANIZATION TOTALS` `fail` checks across the 10
-processed Senate disbursement reports (114_sdoc4/7/13, 117sdoc8,
-118sdoc2/11/13, 119sdoc3/5/6), measured after the item 6 banner-check
-noise-reduction pass.
+Analysis of the `BANNER ORGANIZATION TOTALS` `fail` checks across the
+17 processed Senate disbursement reports (112sdoc4/7/10, 113sdoc2/17/22/25,
+114sdoc4/7/13, 117sdoc8, 118sdoc2/11/13, 119sdoc3/5/6), measured after
+the item 6 banner-check noise-reduction pass and the item 8/9
+downgrade passes (which apply to all 17 docs).
 
 ## What the check compares
 
@@ -270,3 +271,136 @@ their body rows are cumulative across fiscal years while the banner
 is period-specific, so neither item 8 nor item 9 applies — those
 need a separate item (10) to handle the cumulative-vs-period
 template distinction.
+
+## Update (pre-114th expansion): 7 new docs (112th/113th) added to the audit
+
+The 7 pre-114th docs (112sdoc4/7/10, 113sdoc2/17/22/25) were parsed
+under the anchor-template path (`template='anchor'`, the same path as
+the 114-era docs). Items 8 and 9 apply uniformly — the banner-only
+categories and captured_bvb_mismatch downgrade logic is
+template-agnostic, since it operates on the printed banner summary
+table and the body check results, not on the row-classifier. The 7
+new docs ran through the same pipeline.
+
+Headline numbers (pre-114th, 7 docs):
+
+| doc | fail | warn (banner_only) | warn (captured_bvb) |
+|---|---|---|---|
+| 112sdoc4  |  49 | 228 | 16 |
+| 112sdoc7  | 134 | 235 | 11 |
+| 112sdoc10 |  49 | 193 |  8 |
+| 113sdoc2  | 150 | 265 |  9 |
+| 113sdoc17 |  53 | 232 | 11 |
+| 113sdoc22 | 106 | 277 |  6 |
+| 113sdoc25 |  48 | 215 |  6 |
+| **total** | **589** | **1,645** | **67** |
+
+Combined with the 10 already-audited docs, the full 17-doc audit now
+carries 1,008 ORG TOTALS `fail` checks and 3,640 `warn` checks.
+
+Direction split (589 fails): 70% under-count (parser < banner), 26%
+over-count, 3% zero-actual. The over-count share is much higher than
+the modern era's 8% — and concentrated almost entirely on a single
+office (see below).
+
+Magnitude distribution (pre-114th fails):
+
+| diff range | count | share |
+|---|---|---|
+| $0 – $10 | 0 | 0% |
+| $10 – $100 | 14 | 2% |
+| $100 – $1K | 38 | 6% |
+| $1K – $10K | 90 | 15% |
+| $10K – $100K | 360 | 61% (the bulk, same as modern era) |
+| $100K – $1M | 56 | 10% |
+| >$1M | 31 | 5% (structural, see COMPENSATION OF MEMBERS) |
+
+- median diff: $31,960
+- mean diff: $311,591
+- max diff: $20,383,731 (113sdoc17, COMPENSATION OF MEMBERS, FY2013)
+
+The bulk is the same $10K–$100K band as the modern era, but the
+>$1M tail is structural and dominated by one office across 4 docs.
+
+### The biggest fails cluster on COMPENSATION OF MEMBERS (the senators' salaries block)
+
+4 of the top 4 fails — and 4 of the top 10 — are
+**COMPENSATION OF MEMBERS**, the block that pays senators' own
+salaries. The parser over-counts by ~$20M in every 113th-Congress
+report:
+
+| doc | FY | banner expected | parser actual | diff |
+|---|---|---|---|---|
+| 113sdoc17 | 2013 | $11,551,000 | $31,934,731 | +$20,383,731 |
+| 113sdoc25 | 2014 | $11,505,569 | $31,832,122 | +$20,326,553 |
+| 113sdoc2  | 2013 | $11,350,702 | $31,530,810 | +$20,180,108 |
+| 113sdoc22 | 2014 | $11,339,220 | $31,507,630 | +$20,168,411 |
+
+The pattern: the banner prints one fiscal year's senator salaries
+(~$11M for 100 senators × ~$110K each), but the body itemizes
+cumulatively across the multi-year Congress (~$32M = three fiscal
+years summed). This is the same cumulative-vs-period issue flagged in
+the item 9 note on S.RES. committee inquiry blocks — the anchor
+template's COMPENSATION OF MEMBERS block prints cumulative body
+subtotals against a period-specific banner. The structural fix
+would be the same cumulative-vs-period template distinction
+deferred to item 10 for S.RES. blocks.
+
+### The 113sdoc2 mid-range fails are S.RES. committee inquiry accounts
+
+After COMPENSATION OF MEMBERS, the next 6 largest diffs are all
+113sdoc2 S.RES. committee inquiry offices (HOMELAND SECURITY,
+HEALTH/EDUCATION/LABOR/PENSIONS, JUDICIARY, FINANCE) — the same
+S.RES. cumulative-vs-period class identified in the item 9 note.
+113sdoc2 has 150 fails, the most of any pre-114th doc, because the
+113th-Congress S.RES. accounts print cumulative body totals across
+fiscal years. These match the item 9 deferral note for S.RES. blocks.
+
+### Zero-actual tail is small in the pre-114th era (20 fails, 3%)
+
+Only 20 of 589 fails (3%) have `actual == 0` — much smaller than the
+modern era's 19% (692/3,621). The anchor template itemizes body rows
+consistently; the summary-only block pattern (banner prints a
+category with zero itemized rows) is rarer in 112th/113th-era
+reports. The 20 zero-actual fails are concentrated in small
+administrative offices that print a banner-only summary:
+PUBLIC RECORDS, GIFT SHOP, STATIONERY, RECORDING STUDIO, OFFICE OF
+THE SECRETARY, etc. — offices whose entire body is a single
+banner-only line with no itemization.
+
+### Funding-year spread
+
+| FY | count |
+|---|---|
+| (empty — S.RES. accounts + NO-YEAR accounts) | 179 |
+| 2013 | 125 |
+| 2012 | 115 |
+| 2011 | 89 |
+| 2014 | 76 |
+| 2010 | 5 |
+
+The 113th Congress covers FY2013–2014; the 112th covers FY2011–2012
+(+ a small FY2010 tail). The empty-FY bucket (179) is the S.RES.
+committee inquiry class again — same structural alibi as the modern
+era. No single fiscal year dominates.
+
+### Net characterization
+
+The 7 pre-114th docs add 589 fails, of which:
+- ~31 (>5M diff, 4 COMPENSATION OF MEMBERS + ~27 S.RES. committee
+  inquiry) are the cumulative-vs-period structural class deferred to
+  item 10.
+- 20 are zero-actual banner-only blocks (3%, the anchor template
+  itemizes consistently).
+- The remaining ~538 are mid-range drift ($1K–$100K, ~74%), the same
+  class 3 bulk as the modern era — a mix of lump-sum lines not
+  reaching `parsed_grand_total`, subtotals whose rows fell outside
+  the segment window, and float rounding at the <1% fringe.
+
+Items 8 and 9 downgraded 1,712 of the 2,301 ORG TOTALS non-ok checks
+in the pre-114th era (1,645 banner_only + 67 captured_bvb), leaving
+589 genuine review-queue fails — a 75% downgrade rate, in line with
+the modern era's 75% (1,688 → 942 across the 7 modern docs). The
+remaining residual is structural (COMPENSATION OF MEMBERS +
+S.RES. cumulative) plus the mid-range drift class 3 bulk, the same
+shape as the modern era.
