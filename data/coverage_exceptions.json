@@ -1,0 +1,814 @@
+{
+  "approved": [
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|61|APPROPRIATIONS|2021|$56,594.00|59",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|512|SENATOR ROY BLUNT|2021|$25,164.00|511",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|548|SENATOR JOHN BOOZMAN|2021|$4,554.00|547",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|607|SENATOR RICHARD BURR|2021|$4,878.00|606",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|631|SENATOR SHELLEY MOORE CAPITO|2021|$2,892.00|630",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|727|SENATOR CHRISTOPHER A. COONS|2021|$436.50|726",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|808|SENATOR TED CRUZ|2021|$13,782.00|806",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|863|SENATOR TAMMY DUCKWORTH|2021|$4,194.00|861",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|925|SENATOR DEB FISCHER|2021|$23,112.00|924",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|985|SENATOR BILL HAGERTY|2021|$7,547.13|984",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|1122|SENATOR JAMES M. INHOFE|2021|$37,134.00|1121",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|1179|SENATOR TIM KAINE|2021|$14,772.00|1178",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|1231|SENATOR ANGUS KING|2021|$6,042.00|1230",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|1285|SENATOR PATRICK J. LEAHY|2021|$71,262.00|1284",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|1310|SENATOR BEN RAY LUJAN|2021|$5,670.00|1309",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|1501|SENATOR JON OSSOFF|2021|$31,137.00|1499",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|1866|SENATOR THOM TILLIS|2021|$25,362.00|1865",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc8|unparsed_orphan_amount|1987|SENATOR SHELDON WHITEHOUSE|2021|$4,266.00|1986",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "117sdoc10|unexpected_zero_records|508|SENATOR RICHARD BLUMENTHAL|2021|PERSONNEL COMP. FULL-TIME PERMANENT|6279.72",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "117sdoc10|unexpected_zero_records|707|SENATOR BILL CASSIDY|2021|PERSONNEL COMP. FULL-TIME PERMANENT|1991.66",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "117sdoc10|unexpected_zero_records|919|SENATOR DIANNE FEINSTEIN|2021|PERSONNEL COMP. FULL-TIME PERMANENT|561.1",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "117sdoc10|unexpected_zero_records|1294|SENATOR PATRICK J. LEAHY|2021|PERSONNEL COMP. FULL-TIME PERMANENT|944.44",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "118sdoc11|unexpected_zero_records|1029|SENATOR DIANNE FEINSTEIN|2023|PERSONNEL COMP. FULL-TIME PERMANENT|-19384.77",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "118sdoc11|unexpected_zero_records|1654|SENATOR LISA MURKOWSKI|2023|PERSONNEL COMP. FULL-TIME PERMANENT|5155.56",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "118sdoc11|unexpected_zero_records|1718|SENATOR JON OSSOFF|2023|PERSONNEL COMP. FULL-TIME PERMANENT|-5589.99",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "118sdoc11|unexpected_zero_records|1797|SENATOR GARY PETERS|2022|TRAVEL AND TRANSPORTATION OF PERSONS|-26.12",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "119sdoc3|unexpected_zero_records|336|MISC ITEMS - STUDENT LOANS|2025|PERSONNEL COMP. FULL-TIME PERMANENT|122.1",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "119sdoc5|unexpected_zero_records|332|MISC ITEMS - STUDENT LOANS|2025|PERSONNEL COMP. FULL-TIME PERMANENT|0.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "119sdoc5|unparsed_orphan_amount|2860|COMMERCE, SCIENCE AND TRANSPORTATION S.RES. 94B (119TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||$60,204.79|2858",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "floating body row duplicating RE-EMPLOYED ANNUITANTS printed subtotal (PDF layout artifact)"
+    },
+    {
+      "key": "119sdoc6|unexpected_zero_records|313|MISC ITEMS - STUDENT LOANS|2026|PERSONNEL COMP. FULL-TIME PERMANENT|0.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "117sdoc10|audit_second_opinion_disagrees|2081|SENATOR SHELDON WHITEHOUSE|||",
+      "reviewer": "claude",
+      "reason": "audit_second_opinion_disagrees",
+      "note": "WHITEHOUSE p2081 PERSONNEL COMP segment: $4,402.00 nameless body amount on p2082 is a PDF orphan (no payee name in source). Parser correctly captured 49 named payee rows; segment check fails because parser total ($1,524,737.62) is short of printed ($1,529,139.62) by exactly the orphan. 49 rows quarantined; accepted as known data gap."
+    },
+    {
+      "key": "117sdoc10|unparsed_orphan_amount|2082|SENATOR SHELDON WHITEHOUSE|2022|$4,402.00|2081",
+      "reviewer": "claude",
+      "reason": "unparsed_orphan_amount",
+      "note": "WHITEHOUSE p2082 $4,402.00 has no payee name in the PDF (pdfplumber confirmed only 9 chars at that y-coordinate). True PDF orphan; not a duplicate of any subtotal. Explains the p2081 segment-check shortfall."
+    },
+    {
+      "key": "116sdoc2|unexpected_zero_records|64|CHAPLAIN||NET PAYROLL EXPENSES|10000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc2|unexpected_zero_records|76|MINORITY LEADER (D)|2018|NET PAYROLL EXPENSES|258.09",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc2|unexpected_zero_records|80|SECRETARY, MINORITY CONFERENCE COMM (D)|2018|NET PAYROLL EXPENSES|444.44",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc2|unexpected_zero_records|90|MAJORITY LEADER (R)|2018|NET PAYROLL EXPENSES|116672.08",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc2|unexpected_zero_records|99|MAJORITY CONFERENCE COMMITTEE (R)||NET PAYROLL EXPENSES|44000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc2|unexpected_zero_records|120|SGT @ ARMS - CHIEF INFORMATION OFFICER|2018|NET PAYROLL EXPENSES|4616.32",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc2|unexpected_zero_records|121|SGT @ ARMS - OPERATIONS|2018|NET PAYROLL EXPENSES|-10600.08",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc2|unexpected_zero_records|122|SGT @ ARMS - CAPITOL OPERATIONS|2018|NET PAYROLL EXPENSES|1389.34",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc2|unexpected_zero_records|124|SGT @ ARMS - EXECUTIVE/STAFF OFFICES|2018|NET PAYROLL EXPENSES|741.77",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc2|unexpected_zero_records|148|SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.|2018|NET PAYROLL EXPENSES|4798.6",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc2|unexpected_zero_records|210|CONSULTANTS||NET PAYROLL EXPENSES|2083.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc2|unexpected_zero_records|246|RESOLUTION & REORGANIZATION RESERVE||NET PAYROLL EXPENSES|1500000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc2|unexpected_zero_records|319|SECRETARY OF THE SENATE - EXECUTIVE OFFICE|2017|NET PAYROLL EXPENSES|8295.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc2|audit_unparseable_amount|389|SGT @ ARMS - CHIEF INFORMATION OFFICER||JP MORGAN CHASE BANK NA|9/23-27",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "long travel description with CONTINUED ON SUBSEQUENT VOUCHER; dash in amount column is a continuation marker, not a real amount"
+    },
+    {
+      "key": "116sdoc2|audit_unparseable_amount|619|SENATOR RICHARD BURR||JP MORGAN CHASE BANK NA|11/15",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "long travel description with CONTINUED ON SUBSEQUENT VOUCHER; dash in amount column is a continuation marker, not a real amount"
+    },
+    {
+      "key": "116sdoc2|audit_unparseable_amount|620|SENATOR RICHARD BURR||JP MORGAN CHASE BANK NA|12/6",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "long travel description with CONTINUED ON SUBSEQUENT VOUCHER; dash in amount column is a continuation marker, not a real amount"
+    },
+    {
+      "key": "116sdoc2|unexpected_zero_records|1168|SENATOR JAMES M. INHOFE|2018|NET PAYROLL EXPENSES|439.91",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc2|audit_unparseable_amount|1414|SENATOR A. MITCHELL MCCONNELL, JR.||ALVEY,MORGAN|2/26",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "long travel description with CONTINUED ON SUBSEQUENT VOUCHER; dash in amount column is a continuation marker, not a real amount"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2078|AGRICULTURE, NUTRITION & FORESTRY AGRICULTURE, NUTR & FOR S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1|2077",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2085|ARMED SERVICES ARMED SERVICES - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2084",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2092|BANKING, HOUSING & URBAN AFFAIRS BANKING, HOUSING &URBDEV S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2091",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2099|BUDGET BUDGET - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1|2098",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2110|COMMERCE, SCIENCE & TRANSPORTATION COMMERCE, SCI & TRANS S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2108",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2120|ENERGY & NATURAL RESOURCES ENERGY AND NATURAL RESC S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2119",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2129|ENVIRONMENT & PUBLIC WORKS ENVIRONMENT & PUB WORKS S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2128",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2132|ETHICS COMMITTEE ON ETHICS - FY 2019 EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2132",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2143|FINANCE FINANCE - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1|2141",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2154|FOREIGN RELATIONS FOREIGN RELATIONS - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2153",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2164|HOMELAND SECURITY & GOVERNMENTAL AFFAIRS HOMELAND SEC.& GOV AFF. S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2162",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2178|HEALTH, EDUCATION, LABOR, AND PENSIONS HEALTH, EDU,LABOR&PENS S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1|2176",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2185|INDIAN AFFAIRS INDIAN AFFAIRS - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2185",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2195|INTELLIGENCE SELECT COM ON INTELLIGENCE - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2194",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2204|JUDICIARY JUDICIARY - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2202",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2213|RULES & ADMINISTRATION RULES & ADMINISTRATION S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2212",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2223|SMALL BUSINESS AND ENTREPRENEURSHIP SMALL BUS & ENTREP.- S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2222",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2232|SPECIAL COMMITTEE ON AGING SPECIAL COM ON AGING S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2232",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc2|unparsed_unclassified|2240|VETERANS' AFFAIRS VETERANS' AFFAIRS - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2239",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unexpected_zero_records|263|NATL SECURITY WORKING GRP-MIN ADMIN CO-CHAIR (FEINSTEIN)||NET PAYROLL EXPENSES|100000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc10|unexpected_zero_records|269|NATL SECURITY WORKING GRP-MIN CO-CHAIR (REED)||NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc10|unexpected_zero_records|274|NATL SECURITY WORKING GRP-MIN CO-CHAIR (MENENDEZ)||NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc10|unexpected_zero_records|279|NATL SECURITY WORKING GRP-MIN LEADER (SCHUMER)||NET PAYROLL EXPENSES|100000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc10|unexpected_zero_records|284|NATL SECURITY WORKING GRP-MAJ ADMIN CO-CHAIR (RUBIO)||NET PAYROLL EXPENSES|100000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc10|unexpected_zero_records|289|NATL SECURITY WORKING GRP-MAJ CO-CHAIR (FISCHER)||NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc10|unexpected_zero_records|294|NATL SECURITY WORKING GRP-MAJ CO-CHAIR (GARDNER)||NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc10|unexpected_zero_records|299|NATL SECURITY WORKING GRP-MAJ CO-CHAIR (SASSE)||NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc10|unexpected_zero_records|930|SENATOR TED CRUZ|2017|NET PAYROLL EXPENSES|53.42",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc10|unexpected_zero_records|1254|SENATOR DEAN HELLER|2019|NET PAYROLL EXPENSES|0.01",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc10|unexpected_zero_records|1664|SENATOR LISA MURKOWSKI|2018|NET PAYROLL EXPENSES|-2208.32",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc10|unexpected_zero_records|2375|ARMED SERVICES ARMED SERVICES - S.RES. 62D (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||NET PAYROLL EXPENSES|-60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc10|unexpected_zero_records|2563|COMPENSATION OF MEMBERS|2017|NET PAYROLL EXPENSES|305.16",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc10|audit_unparseable_amount|1580|SENATOR A. MITCHELL MCCONNELL, JR.||CITIBANK - TRAVEL CBA CARD|8/29-9/7",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "long travel description with CONTINUED ON SUBSEQUENT VOUCHER; dash in amount column is a continuation marker, not a real amount"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2364|AGRICULTURE, NUTRITION & FORESTRY AGRICULTURE, NUTR & FOR S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2363",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2377|ARMED SERVICES ARMED SERVICES - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2376",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2385|BANKING, HOUSING & URBAN AFFAIRS BANKING, HOUSING &URBDEV S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2384",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2393|BUDGET BUDGET - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2392",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2401|COMMERCE, SCIENCE & TRANSPORTATION COMMERCE, SCI & TRANS S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2399",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2410|ENERGY & NATURAL RESOURCES ENERGY AND NATURAL RESC S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2409",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2423|ENVIRONMENT & PUBLIC WORKS ENVIRONMENT & PUB WORKS S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2422",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2429|ETHICS COMMITTEE ON ETHICS - FY 2019 EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2429",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2437|FINANCE FINANCE - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2435",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2446|FOREIGN RELATIONS FOREIGN RELATIONS - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2445",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2460|HOMELAND SECURITY & GOVERNMENTAL AFFAIRS HOMELAND SEC.& GOV AFF. S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2458",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2474|HEALTH, EDUCATION, LABOR, AND PENSIONS HEALTH, EDU,LABOR&PENS S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2472",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2485|INDIAN AFFAIRS INDIAN AFFAIRS - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2485",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2497|INTELLIGENCE SELECT COM ON INTELLIGENCE - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2496",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2505|JUDICIARY JUDICIARY - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2503",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2514|RULES & ADMINISTRATION RULES & ADMINISTRATION S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2513",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2521|SMALL BUSINESS AND ENTREPRENEURSHIP SMALL BUS & ENTREP.- S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2520",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2534|SPECIAL COMMITTEE ON AGING SPECIAL COM ON AGING S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2533",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|unparsed_unclassified|2545|VETERANS' AFFAIRS VETERANS' AFFAIRS - S.RES. 70B (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2544",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unexpected_zero_records|257|NATL SECURITY WORKING GRP-MIN CO-CHAIR (MENENDEZ)|2022|NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc19|unexpected_zero_records|262|NATL SECURITY WORKING GRP-MIN LEADER (SCHUMER)|2022|NET PAYROLL EXPENSES|100000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc19|unexpected_zero_records|272|NATL SECURITY WORKING GRP-MAJ CO-CHAIR (FISCHER)|2022|NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc19|unexpected_zero_records|277|NATL SECURITY WORKING GRP-MAJ CO-CHAIR (GARDNER)|2022|NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc19|unexpected_zero_records|282|NATL SECURITY WORKING GRP-MAJ CO-CHAIR (SASSE)|2022|NET PAYROLL EXPENSES|56304.17",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc19|unexpected_zero_records|299|CARES ACT EMERG. APPROP. P.L. 116-136||NET PAYROLL EXPENSES|72814.53",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc19|audit_unparseable_amount|459|SENATOR RICHARD BLUMENTHAL||BLUMENTHAL,RICHARD|-",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "long travel description with CONTINUED ON SUBSEQUENT VOUCHER; dash in amount column is a continuation marker, not a real amount"
+    },
+    {
+      "key": "116sdoc19|audit_unparseable_amount|603|SENATOR JOHN CORNYN||CORNYN,JOHN|HELD IN",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "long travel description with CONTINUED ON SUBSEQUENT VOUCHER; dash in amount column is a continuation marker, not a real amount"
+    },
+    {
+      "key": "116sdoc19|audit_unparseable_amount|642|SENATOR MICHAEL D. CRAPO||SNODDERLY,TONY R|8/12",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "long travel description with CONTINUED ON SUBSEQUENT VOUCHER; dash in amount column is a continuation marker, not a real amount"
+    },
+    {
+      "key": "116sdoc19|audit_unparseable_amount|774|SENATOR KAMALA HARRIS||ROBINSON,BRENT ANTHONY|11/8",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "long travel description with CONTINUED ON SUBSEQUENT VOUCHER; dash in amount column is a continuation marker, not a real amount"
+    },
+    {
+      "key": "116sdoc19|unexpected_zero_records|865|SENATOR JOHNNY ISAKSON|2020|NET PAYROLL EXPENSES|-102.78",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum subtotal presentation; body prints subtotal with no itemized rows"
+    },
+    {
+      "key": "116sdoc19|audit_unparseable_amount|1075|SENATOR RAND PAUL||JOHN BRYCE|3/15",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "long travel description with CONTINUED ON SUBSEQUENT VOUCHER; dash in amount column is a continuation marker, not a real amount"
+    },
+    {
+      "key": "116sdoc19|audit_unparseable_amount|1196|SENATOR CHARLES E. SCHUMER||IANNELLI,MICHAEL|4/16-17",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "long travel description with CONTINUED ON SUBSEQUENT VOUCHER; dash in amount column is a continuation marker, not a real amount"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1422|AGRICULTURE, NUTRITION & FORESTRY AGRICULTURE, NUTR & FOR S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1421",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1427|ARMED SERVICES ARMED SERVICES - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1426",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1433|BANKING, HOUSING & URBAN AFFAIRS BANKING, HOUSING &URBDEV S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1432",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1439|BUDGET BUDGET - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1438",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1444|COMMERCE, SCIENCE & TRANSPORTATION COMMERCE, SCI & TRANS S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1443",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1450|ENERGY & NATURAL RESOURCES ENERGY AND NATURAL RESC S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1449",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1456|ENVIRONMENT & PUBLIC WORKS ENVIRONMENT & PUB WORKS S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1455",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1460|ETHICS COMMITTEE ON ETHICS - FY 2020 EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1460",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1467|FINANCE FINANCE - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1465",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1473|FOREIGN RELATIONS FOREIGN RELATIONS - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1472",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1480|HOMELAND SECURITY & GOVERNMENTAL AFFAIRS HOMELAND SEC.& GOV AFF. S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1478",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1487|HEALTH, EDUCATION, LABOR, AND PENSIONS HEALTH, EDU,LABOR&PENS S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1|1485",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1491|INDIAN AFFAIRS INDIAN AFFAIRS - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1491",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1497|INTELLIGENCE SELECT COM ON INTELLIGENCE - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1496",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1503|JUDICIARY JUDICIARY - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1501",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1509|RULES & ADMINISTRATION RULES & ADMINISTRATION S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1508",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1514|SMALL BUSINESS AND ENTREPRENEURSHIP SMALL BUS & ENTREP.- S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1513",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1520|SPECIAL COMMITTEE ON AGING SPECIAL COM ON AGING S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1519",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc19|unparsed_unclassified|1525|VETERANS' AFFAIRS VETERANS' AFFAIRS - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1524",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 70C (116th) committee inquiry account; $1.00 is a structural placeholder amount, not a real expenditure"
+    },
+    {
+      "key": "116sdoc10|audit_second_opinion_disagrees|1562|SENATOR EDWARD MARKEY|||",
+      "reviewer": "claude",
+      "reason": "audit_second_opinion_disagrees",
+      "note": "MARKEY p1562 NET PAYROLL EXPENSES: page 192 has two subtotals ($231.00 and $1,760,632.06). second_opinion matched the $231.00 (small adjustment) but parser rows sum to ~$1,753,511.26, close to the $1,760,632.06 full-year total. 55 MARKEY payee rows quarantined; accepted as known data gap (second_opinion subtotal-matching limitation)."
+    }
+  ]
+}

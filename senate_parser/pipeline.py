@@ -134,13 +134,17 @@ def run(
 ) -> dict:
     os.makedirs(out_dir, exist_ok=True)
 
-    # 112th-114th Congress reports use an older table generator with
+    # 112th-116th Congress reports use an older table generator with
     # different relative column geometry (see records.ANCHOR_HEADER_WORDS);
     # derive the calibration mode from the congress number unless the
-    # caller overrides it.
+    # caller overrides it. The 116th PDFs share the 114th's split header
+    # (~1.4pt gap between DESCRIPTION and DOCUMENT NO. rows) and payee
+    # data offset (-34.7pt left of PAYEE NAME), so they need the anchor
+    # path's per-page anchor calibration rather than the modern fixed
+    # deltas (which are tuned to 117th+ single-row headers).
     if template is None:
         m = re.match(r"(\d{3})sdoc", source_doc)
-        template = "anchor" if m and int(m.group(1)) <= 114 else "modern"
+        template = "anchor" if m and int(m.group(1)) <= 116 else "modern"
 
     cleaned_rows = []
     quarantine_rows = []

@@ -271,3 +271,27 @@ def test_banner_summary_categories_dict_missing_on_data_page():
     """A data page has no banner summary table; categories is empty."""
     summary = parse_banner_summary(cluster_rows(load(1001)))
     assert summary.categories == {}
+
+
+def test_calibrate_columns_116th_congress_uses_anchor_template():
+    """116th Congress PDFs (116sdoc2/10/19) share the 114th's split-header
+    layout -- OBLIGATION/SERVICE + DESCRIPTION at top=274.2, DOCUMENT NO.
+    + DATE + PAYEE NAME + AMOUNT ($) at top=275.6, 1.4pt apart -- and payee
+    data offset (-34.7pt left of PAYEE NAME). The modern template's fixed
+    COLUMN_DELTAS are tuned to 117th+ single-row headers and misalign by
+    ~0.3pt on the 116th (payee data at x0=229.8 falls left of the modern
+    boundary 230.1). The anchor template derives every column from the
+    page's own seven header words and parses the 116th correctly. The
+    pipeline routes 116th reports to the anchor template (see pipeline.py
+    template threshold)."""
+    from senate_parser.records import calibrate_columns
+
+    data = json.loads((FIXTURES / "116sdoc19_page_22.json").read_text())
+    rows = cluster_rows([Word(**d) for d in data])
+    cols = calibrate_columns(rows, template="anchor")
+    assert cols is not None, "anchor calibrate_columns returned None for 116th page"
+    # The header words on this page: DOCUMENT NO. x0=124.4, PAYEE NAME x0=264.5,
+    # AMOUNT ($) x0=624. The calibrated columns must contain them.
+    assert cols.document[0] <= 124.4 < cols.document[1]
+    assert cols.payee[0] <= 264.5 < cols.payee[1]
+    assert cols.amount[0] <= 624.0 < cols.amount[1]
