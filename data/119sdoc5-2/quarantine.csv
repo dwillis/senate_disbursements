@@ -1,0 +1,2 @@
+Parsed from U.S. Senate disbursement reports (govinfo.gov). See README.md for methodology and known limitations.
+source_doc,senator_flag,senator_name,bioguide_id,raw_office,funding_year,fiscal_year,congress_number,reference_page,document_number,date_posted,start_date,end_date,description,salary_flag,amount,payee,validation_status,category

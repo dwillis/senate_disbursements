@@ -1,0 +1,35 @@
+{
+  "source_doc": "119sdoc5",
+  "pdf_path": "data/119sdoc5/GPO-CDOC-119sdoc5-1.pdf",
+  "pdf_sha256": "5734ee9a0807fca93559a8c8de5793a5f1f084f670d18b080565cfe695c0c534",
+  "page_range": [
+    1,
+    1476
+  ],
+  "page_offset": 0,
+  "parser_git_commit": "56a0b6929b3dbfc94e90872a55ac7cbf61f59910",
+  "parser_git_dirty": false,
+  "generated_at": "2026-07-18T22:53:11.407827+00:00",
+  "tolerances": {
+    "ok": 0.01,
+    "warn": 1.0
+  },
+  "blocks": 605,
+  "records_published": 27856,
+  "records_quarantined": 0,
+  "unparsed": 0,
+  "bioguide_match_rate": 1.0,
+  "audit_violations": 0,
+  "hard_audit_violations": 0,
+  "unparsed_release_blockers": 0,
+  "banner_check_warnings": 509,
+  "pages_read": 1476,
+  "page_classifications": {
+    "banner": 605,
+    "data": 852,
+    "other": 14,
+    "toc": 5
+  },
+  "orphan_data_pages": 0,
+  "coverage_findings": 510
+}
