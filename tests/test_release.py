@@ -52,6 +52,41 @@ def test_discovery_rejects_numbered_volumes_that_do_not_cover_combined_pdf(tmp_p
         discover_report(tmp_path, "118sdoc13", page_counter=lambda path: counts[path.name])
 
 
+def test_discovery_tolerates_small_front_matter_difference(tmp_path):
+    report_dir = tmp_path / "118sdoc13"
+    report_dir.mkdir()
+    _pdf(report_dir / "GPO-CDOC-118sdoc13.pdf")
+    _pdf(report_dir / "GPO-CDOC-118sdoc13-1.pdf")
+    _pdf(report_dir / "GPO-CDOC-118sdoc13-2.pdf")
+    counts = {
+        "GPO-CDOC-118sdoc13.pdf": 2220,
+        "GPO-CDOC-118sdoc13-1.pdf": 1040,
+        "GPO-CDOC-118sdoc13-2.pdf": 1198,
+    }
+
+    discovery = discover_report(tmp_path, "118sdoc13", page_counter=lambda path: counts[path.name])
+
+    assert discovery.combined_pdf_check["matches_numbered_volume_pages"] is True
+    assert discovery.combined_pdf_check["front_matter_pages"] == 18
+    assert discovery.combined_pdf_check["page_count"] == 2220
+
+
+def test_discovery_rejects_large_front_matter_difference(tmp_path):
+    report_dir = tmp_path / "118sdoc13"
+    report_dir.mkdir()
+    _pdf(report_dir / "GPO-CDOC-118sdoc13.pdf")
+    _pdf(report_dir / "GPO-CDOC-118sdoc13-1.pdf")
+    _pdf(report_dir / "GPO-CDOC-118sdoc13-2.pdf")
+    counts = {
+        "GPO-CDOC-118sdoc13.pdf": 2200,
+        "GPO-CDOC-118sdoc13-1.pdf": 1040,
+        "GPO-CDOC-118sdoc13-2.pdf": 1198,
+    }
+
+    with pytest.raises(ReleaseError, match="front-matter difference 38 exceeds tolerance"):
+        discover_report(tmp_path, "118sdoc13", page_counter=lambda path: counts[path.name])
+
+
 def _fake_runner_factory(findings, calls):
     def runner(pdf_path, source_doc, out_dir, first, last, page_offset, bioguide_matcher):
         calls.append((Path(pdf_path).name, source_doc, first, last, page_offset))

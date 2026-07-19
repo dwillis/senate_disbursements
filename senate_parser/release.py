@@ -32,6 +32,11 @@ PLAIN_CSVS = (
 )
 JSONL_FILES = ("unparsed.jsonl",)
 
+# Per-volume front-matter pages (cover, foreword, contents) that the
+# combined PDF omits. The numbered volumes legitimately exceed the
+# combined by up to this many pages per volume.
+FRONT_MATTER_TOLERANCE_PER_VOLUME = 15
+
 
 class ReleaseError(RuntimeError):
     pass
@@ -147,16 +152,25 @@ def discover_report(data_root, report_id: str, page_counter=None) -> Discovery:
     combined_check = None
     if valid_parts and valid_base is not None:
         combined_count = page_counter(valid_base)
-        if combined_count != offset:
+        if combined_count > offset:
             raise ReleaseError(
                 f"numbered volumes total {offset} pages but combined PDF has {combined_count}: "
                 f"{valid_base}"
+            )
+        front_matter_pages = offset - combined_count
+        tolerance = FRONT_MATTER_TOLERANCE_PER_VOLUME * len(valid_parts)
+        if front_matter_pages > tolerance:
+            raise ReleaseError(
+                f"numbered volumes total {offset} pages but combined PDF has {combined_count}: "
+                f"{valid_base} (front-matter difference {front_matter_pages} "
+                f"exceeds tolerance {tolerance})"
             )
         combined_check = {
             "path": str(valid_base),
             "sha256": sha256_file(valid_base),
             "page_count": combined_count,
             "matches_numbered_volume_pages": True,
+            "front_matter_pages": front_matter_pages,
         }
     return Discovery(report_id, report_dir, volumes, rejected, combined_check)
 
