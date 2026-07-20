@@ -162,7 +162,8 @@ def parse_banner(rows: list, page_num: int) -> BlockHeader:
         for r in rows
         if r.top < header_top
         for w in r.words
-        if doc_header_x0 is None or w.x0 < doc_header_x0 + 60
+        if (doc_header_x0 is None or w.x0 < doc_header_x0 + 60)
+        and len(w.text) > 1
     ]
     if candidates:
         banner_min_x0 = min(candidates)

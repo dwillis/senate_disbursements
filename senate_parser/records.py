@@ -361,6 +361,34 @@ def _is_page_label_row(row: Row, amount_right: float) -> bool:
     return bool(re.fullmatch(r"[A-Z]\s?-\s?\d{1,3}(,\d{3})*", joined.strip()))
 
 
+LEFT_MARGIN_ROTATED_X0 = 35.0
+
+
+def _is_left_margin_rotated_row(row: Row, amount_right: float = float("inf")) -> bool:
+    """True for rows made up only of rotated text printed on the far-left
+    margin of the page (individual characters, one per visual row, all at
+    x0 < 35). 115sdoc2 prints a rotated date string ("J A 2 5 - 1 0 7" /
+    "0 5 / 0 5 / 2 0 1 7") at x0=23.88 on every page; left in the row
+    stream, every char classifies as unparsed_unclassified -- 18,535
+    findings on the first 115sdoc2 run. Legitimate office/account text
+    on every other report sits at x0 >= 35 (114sdoc4: 38.27; 115sdoc6:
+    35.34; 116th: 56-124), so the x0 < 35 cutoff catches only the
+    rotated margin text.
+
+    A row may simultaneously carry a left-margin rotated char AND a
+    right-margin "B-###" page-label char at the same vertical position
+    (verified: 115sdoc2 p20 top=304.88, '1' at x0=23.88 + '-' at
+    x0=678.56). Such a row has no words in the data zone, so accept
+    right-margin page-label words (x0 >= amount_right) as also being
+    outside the data zone."""
+    if not row.words:
+        return False
+    return all(
+        w.x0 < LEFT_MARGIN_ROTATED_X0 or w.x0 >= amount_right
+        for w in row.words
+    )
+
+
 def _group_rows(data_rows: list, tight_gap: float = TIGHT_GROUP_GAP) -> list:
     groups: list = []
     prev_top = None
@@ -553,7 +581,9 @@ def parse_block(block: Block, template: str = "modern") -> BlockParseResult:
         data_rows = [
             r
             for r in sorted(rows, key=lambda r: r.top)
-            if r.top > header_top + 20 and not _is_page_label_row(r, cols.amount[1])
+            if r.top > header_top + 20
+            and not _is_page_label_row(r, cols.amount[1])
+            and not _is_left_margin_rotated_row(r, cols.amount[1])
         ]
         groups = _split_groups_on_second_amount(_split_groups_on_document_numbers(_group_rows(data_rows), cols), cols)
         classified_groups = [(group, *classify_group(group, cols)) for group in groups]

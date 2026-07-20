@@ -109,6 +109,26 @@ def test_parse_banner_old_template_split_funding_year_fragment():
     assert header.account == "SALARIES, OFFICERS AND EMPLOYEES, SENATE", f"account={header.account!r}"
 
 
+def test_parse_banner_115th_rotated_margin_chars_not_office():
+    """115sdoc2 prints rotated date text on the left edge of every page
+    ("J A 2 5 - 1 0 7" / "0 5 / 0 5 / 2 0 1 7") as individual single-char
+    words at x0=23.88, vertically stacked above the real office line.
+    The self-calibration fallback (banner_min_x0 < primary left margin)
+    latches onto x0=23.88 and reads "J A" as the office name,
+    contaminating every block in the report (42,890 records shipped with
+    office="J A 2 5 ..." on the first 115sdoc2 run). The fallback must
+    ignore single-char rotated margin text and pick the real office
+    column instead (x0=105.94 on this page)."""
+    data = json.loads((FIXTURES / "115sdoc2_page_20.json").read_text())
+    rows = cluster_rows([Word(**d) for d in data])
+    header = parse_banner(rows, 20)
+    assert header.office == "CHAIRMAN MINORITY POLICY COMMITTEE (D)", f"office={header.office!r}"
+    assert header.funding_year == 2015
+    assert "EXP. ALLOWANCES" in header.account, f"account={header.account!r}"
+    # The rotated margin chars must not leak into the office field.
+    assert "J A" not in header.office
+
+
 def _synthetic_special_funding_year_banner(value: str):
     def word(text, x0, top):
         return Word(text=text, x0=x0, x1=x0 + max(20, len(text) * 3), top=top, bottom=top + 5)
@@ -295,3 +315,30 @@ def test_calibrate_columns_116th_congress_uses_anchor_template():
     assert cols.document[0] <= 124.4 < cols.document[1]
     assert cols.payee[0] <= 264.5 < cols.payee[1]
     assert cols.amount[0] <= 624.0 < cols.amount[1]
+
+
+def test_parse_block_115sdoc2_rotated_left_margin_chars_not_unparsed():
+    """115sdoc2 prints rotated date text on the left edge of every page
+    ("J A 2 5 - 1 0 7" / "0 5 / 0 5 / 2 0 1 7") as individual single-char
+    words at x0=23.88, vertically stacked. After parse_banner stops
+    reading them as the office name (see
+    test_parse_banner_115th_rotated_margin_chars_not_office), the chars
+    below the data header still enter the row stream and classify as
+    unparsed_unclassified -- 18,535 such findings on the first 115sdoc2
+    run, one per rotated char per page. The row filter must drop them
+    before classification."""
+    from senate_parser.records import parse_block
+    from senate_parser.segment import Block, BlockHeader
+
+    data = json.loads((FIXTURES / "115sdoc2_page_20.json").read_text())
+    rows = cluster_rows([Word(**d) for d in data])
+    header = BlockHeader(
+        office="CHAIRMAN MINORITY POLICY COMMITTEE (D)",
+        funding_year=2015,
+        account="EXP. ALLOWANCES",
+        start_page=20,
+    )
+    block = Block(header=header, pages=[20], rows_by_page={20: rows})
+    result = parse_block(block, template="anchor")
+    rotated = [u for u in result.unparsed if u.get("reason") == "unclassified" and len(u.get("text", "")) <= 2]
+    assert not rotated, f"rotated margin chars leaked into unparsed: {rotated[:5]}"
