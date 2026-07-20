@@ -809,6 +809,1032 @@
       "reviewer": "claude",
       "reason": "audit_second_opinion_disagrees",
       "note": "MARKEY p1562 NET PAYROLL EXPENSES: page 192 has two subtotals ($231.00 and $1,760,632.06). second_opinion matched the $231.00 (small adjustment) but parser rows sum to ~$1,753,511.26, close to the $1,760,632.06 full-year total. 55 MARKEY payee rows quarantined; accepted as known data gap (second_opinion subtotal-matching limitation)."
+    },
+    {
+      "key": "115sdoc5|unexpected_zero_records|256|NATL SECURITY WORKING GRP-MIN ADMIN CO-CHAIR (FEINSTEIN)||NET PAYROLL EXPENSES|100000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unexpected_zero_records|264|WORKING GRP-DEM CO-CHAIR (REED)||NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unexpected_zero_records|269|NATL SECURITY WORKING GRP-MIN CO-CHAIR (MENENDEZ)||NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unexpected_zero_records|274|WORKING GRP-DEM LEADER (SCHUMER)||NET PAYROLL EXPENSES|100000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unexpected_zero_records|284|NATL SECURITY WORKING GRP-MAJ CO-CHAIR (L. GRAHAM)||NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unexpected_zero_records|289|NATL SECURITY WORKING GRP-MAJ CO-CHAIR (COCHRAN)||NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unexpected_zero_records|292|WORKING GRP-REP CO-CHAIR (RUBIO)||NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unexpected_zero_records|473|SENATOR KELLY AYOTTE|2017|NET PAYROLL EXPENSES|411.11",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unexpected_zero_records|589|SENATOR BARBARA BOXER|2017|NET PAYROLL EXPENSES|5312.25",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|audit_unparseable_amount|225|FOREIGN TRAVEL - MEMBERS & EMPLOYEES||SENATE GIFT SHOP|AND",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|audit_unparseable_amount|600|SENATOR SHERROD BROWN||JP MORGAN CHASE BANK NA|2/3, 10, 16",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|audit_unparseable_amount|720|SENATOR BILL CASSIDY||JP MORGAN CHASE BANK NA|M",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unexpected_zero_records|1828|SENATOR JEFFERSON B. SESSIONS, III|2017|NET PAYROLL EXPENSES|111.11",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unexpected_zero_records|1876|SENATOR DAN SULLIVAN|2016|NET PAYROLL EXPENSES|-10500.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unexpected_zero_records|2128|DANIEL WEBSTER SENATE PAGE RESIDENCE||NET PAYROLL EXPENSES|208.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unexpected_zero_records|2146|ARMED SERVICES ARMED SERVICES - S.RES. 73D (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||NET PAYROLL EXPENSES|-60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unexpected_zero_records|2222|FOREIGN RELATIONS FOREIGN RELATIONS - S.RES. 73D (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||NET PAYROLL EXPENSES|-48583.3",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|audit_unparseable_amount|1359|SENATOR ANGUS KING||TUCKER III,BENJAMIN|4/27",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|audit_unparseable_amount|1362|SENATOR ANGUS KING||TUCKER III,BENJAMIN|NORWAY TO",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|audit_unparseable_amount|1364|SENATOR ANGUS KING||RECTOR,CHRISTOPHER W|BAR",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|audit_unparseable_amount|1541|SENATOR JERRY MORAN||JP MORGAN CHASE BANK NA|5/1, 16, 21",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|audit_unparseable_amount|1680|SENATOR ROB PORTMAN||JP MORGAN CHASE BANK NA|3/23",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2136|AGRICULTURE, NUTRITION & FORESTRY AGRICULTURE, NUTR & FOR S.RES.62B(115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2135",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2148|ARMED SERVICES ARMED SERVICES - S.RES. 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2147",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2156|BANKING, HOUSING & URBAN AFFAIRS BANKING, HOUSING &URBDEV S.RES. 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2155",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2164|BUDGET BUDGET - S.RES. 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2163",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2176|COMMERCE, SCIENCE & TRANSPORTATION COMMERCE, SCI & TRANS S.RES. 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2174",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2185|ENERGY & NATURAL RESOURCES ENERGY AND NATURAL RESC S.RES. 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2184",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2198|ENVIRONMENT & PUBLIC WORKS ENVIRONMENT & PUB WORKS S.RES 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2197",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2203|ETHICS COMMITTEE ON ETHICS - FY 2017 EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2203",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2212|FINANCE FINANCE - S.RES. 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2210",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2225|FOREIGN RELATIONS FOREIGN RELATIONS - S.RES. 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2223",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2238|HOMELAND SECURITY & GOVERNMENTAL AFFAIRS HOMELAND SEC.& GOV AFF. 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2236",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2250|HEALTH, EDUCATION, LABOR, AND PENSIONS HEALTH, EDU,LABOR&PENS S.RES.62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2248",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2262|INDIAN AFFAIRS INDIAN AFFAIRS - S.RES. 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2261",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2272|INTELLIGENCE SELECT COM ON INTELLIGENCE - S.RES. 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2271",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2284|JUDICIARY JUDICIARY - S.RES. 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2282",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2292|RULES & ADMINISTRATION RULES & ADMIN S.RES.62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2291",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2298|SMALL BUSINESS AND ENTREPRENEURSHIP SMALL BUS & ENTREP.- S.RES. 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2297",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2309|SPECIAL COMMITTEE ON AGING SPECIAL COM ON AGING S.RES. 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2308",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc5|unparsed_unclassified|2318|VETERANS' AFFAIRS VETERANS' AFFAIRS - S.RES. 62B (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2317",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unexpected_zero_records|62|CHAPLAIN||NET PAYROLL EXPENSES|12000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unexpected_zero_records|72|MINORITY LEADER (D)|2017|NET PAYROLL EXPENSES|728.54",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unexpected_zero_records|113|SGT @ ARMS - CENTRAL OPERATIONS|2017|NET PAYROLL EXPENSES|-7714.18",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unexpected_zero_records|114|SGT @ ARMS - CAPITOL DIVISION|2017|NET PAYROLL EXPENSES|1668.64",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unexpected_zero_records|115|SGT @ ARMS - IT SUPPORT SERVICES|2017|NET PAYROLL EXPENSES|5882.56",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unexpected_zero_records|116|SGT @ ARMS - STAFF OFFICES|2017|NET PAYROLL EXPENSES|2611.23",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unexpected_zero_records|117|SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES|2017|NET PAYROLL EXPENSES|1258.82",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unexpected_zero_records|141|SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.|2017|NET PAYROLL EXPENSES|2401.63",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unexpected_zero_records|142|SECRETARY OF THE SENATE - EXECUTIVE OFFICE|2017|NET PAYROLL EXPENSES|48.94",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unexpected_zero_records|306|SECRETARY OF THE SENATE - EXECUTIVE OFFICE|2016|NET PAYROLL EXPENSES|4740.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unexpected_zero_records|312|SECRETARY OF THE SENATE - EXECUTIVE OFFICE|2017|NET PAYROLL EXPENSES|-4740.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unexpected_zero_records|1750|SENATOR DAN SULLIVAN|2017|NET PAYROLL EXPENSES|81.13",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unexpected_zero_records|1963|LEGISLATIVE COUNSEL|2016|NET PAYROLL EXPENSES|15944.33",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|audit_unparseable_amount|1055|SENATOR LINDSEY GRAHAM||BRAMLETT,ELIZABETH A|MT.",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|audit_unparseable_amount|1495|SENATOR BILL NELSON||IBARRA,EISELE G|APOPKA",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|audit_unparseable_amount|1932|SENATOR TODD YOUNG||JP MORGAN CHASE BANK NA|J",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|1987|AGRICULTURE, NUTRITION & FORESTRY AGRICULTURE, NUTR & FOR S.RES.62C(115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1986",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|1994|ARMED SERVICES ARMED SERVICES - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1993",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2000|BANKING, HOUSING & URBAN AFFAIRS BANKING, HOUSING &URBDEV S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|1999",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2006|BUDGET BUDGET - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2005",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2015|COMMERCE, SCIENCE & TRANSPORTATION COMMERCE, SCI & TRANS S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2014",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2024|ENERGY & NATURAL RESOURCES ENERGY AND NATURAL RESC S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2023",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2033|ENVIRONMENT & PUBLIC WORKS ENVIRONMENT & PUB WORKS S.RES 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2032",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2037|ETHICS COMMITTEE ON ETHICS - FY 2018 EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2037",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2045|FINANCE FINANCE - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2043",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2054|FOREIGN RELATIONS FOREIGN RELATIONS - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2053",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2067|HOMELAND SECURITY & GOVERNMENTAL AFFAIRS HOMELAND SEC.& GOV AFF. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2065",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2076|HEALTH, EDUCATION, LABOR, AND PENSIONS HEALTH, EDU,LABOR&PENS S.RES.62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2074",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2086|INDIAN AFFAIRS INDIAN AFFAIRS - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2085",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2094|INTELLIGENCE SELECT COM ON INTELLIGENCE - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2093",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2101|JUDICIARY JUDICIARY - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2099",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2107|RULES & ADMINISTRATION RULES & ADMIN S.RES.62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2107",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2114|SMALL BUSINESS AND ENTREPRENEURSHIP SMALL BUS & ENTREP.- S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2113",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2125|SPECIAL COMMITTEE ON AGING SPECIAL COM ON AGING S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2124",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc6|unparsed_unclassified|2132|VETERANS' AFFAIRS VETERANS' AFFAIRS - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2131",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unexpected_zero_records|256|NATL SECURITY WORKING GRP-MIN ADMIN CO-CHAIR (FEINSTEIN)||NET PAYROLL EXPENSES|100000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unexpected_zero_records|263|NATL SECURITY WORKING GRP-MIN CO-CHAIR (REED)||NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unexpected_zero_records|268|NATL SECURITY WORKING GRP-MIN CO-CHAIR (MENENDEZ)||NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unexpected_zero_records|273|NATL SECURITY WORKING GRP-MIN LEADER (SCHUMER)||NET PAYROLL EXPENSES|100000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unexpected_zero_records|278|NATL SECURITY WORKING GRP-MAJ ADMIN CO-CHAIR (RISCH)||NET PAYROLL EXPENSES|100000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unexpected_zero_records|283|NATL SECURITY WORKING GRP-MAJ CO-CHAIR (L. GRAHAM)||NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unexpected_zero_records|292|NATL SECURITY WORKING GRP-MAJ CO-CHAIR (RUBIO)||NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|audit_unparseable_amount|473|SENATOR JOHN BARRASSO||ENTERPRISE RENT A CAR|5/1",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unexpected_zero_records|1129|SENATOR HEIDI HEITKAMP|2017|NET PAYROLL EXPENSES|2409.74",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unexpected_zero_records|1825|SENATOR LUTHER STRANGE|2018|NET PAYROLL EXPENSES|795.1",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unexpected_zero_records|1885|SENATOR PATRICK J. TOOMEY|2017|NET PAYROLL EXPENSES|-169.1",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unexpected_zero_records|2056|LEGISLATIVE COUNSEL|2016|NET PAYROLL EXPENSES|28749.99",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unexpected_zero_records|2073|DANIEL WEBSTER SENATE PAGE RESIDENCE||NET PAYROLL EXPENSES|52.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|audit_unparseable_amount|1314|SENATOR ANGUS KING||TUCKER III,BENJAMIN|4/24",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|audit_unparseable_amount|1410|SENATOR EDWARD MARKEY||JP MORGAN CHASE BANK NA|5/2-3",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2080|AGRICULTURE, NUTRITION & FORESTRY AGRICULTURE, NUTR & FOR S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2079",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2087|ARMED SERVICES ARMED SERVICES - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2086",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2093|BANKING, HOUSING & URBAN AFFAIRS BANKING, HOUSING &URBDEV S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2092",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2099|BUDGET BUDGET - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2098",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2105|COMMERCE, SCIENCE & TRANSPORTATION COMMERCE, SCI & TRANS S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2104",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2116|ENERGY & NATURAL RESOURCES ENERGY AND NATURAL RESC S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2115",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2126|ENVIRONMENT & PUBLIC WORKS ENVIRONMENT & PUB WORKS S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2125",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2131|ETHICS COMMITTEE ON ETHICS - FY 2018 EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2131",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2138|FINANCE FINANCE - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2136",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2145|FOREIGN RELATIONS FOREIGN RELATIONS - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2144",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2157|HOMELAND SECURITY & GOVERNMENTAL AFFAIRS HOMELAND SEC.& GOV AFF. S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2155",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2167|HEALTH, EDUCATION, LABOR, AND PENSIONS HEALTH, EDU,LABOR&PENS S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2165",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2179|INDIAN AFFAIRS INDIAN AFFAIRS - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2178",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2187|INTELLIGENCE SELECT COM ON INTELLIGENCE - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2186",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2197|JUDICIARY JUDICIARY - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1|2194",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2204|RULES & ADMINISTRATION RULES & ADMINISTRATION S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2203",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2209|SMALL BUSINESS AND ENTREPRENEURSHIP SMALL BUS & ENTREP.- S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2208",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2218|SPECIAL COMMITTEE ON AGING SPECIAL COM ON AGING S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2217",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc9|unparsed_unclassified|2227|VETERANS' AFFAIRS VETERANS' AFFAIRS - S.RES. 62C (115TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2226",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unexpected_zero_records|103|OFFICE OF THE VICE PRESIDENT (R) - PENCE|2019|NET PAYROLL EXPENSES|949.27",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unexpected_zero_records|117|SGT @ ARMS - CHIEF INFORMATION OFFICER|2019|NET PAYROLL EXPENSES|22287.85",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unexpected_zero_records|118|SGT @ ARMS - OPERATIONS|2019|NET PAYROLL EXPENSES|-11126.71",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unexpected_zero_records|119|SGT @ ARMS - CAPITOL OPERATIONS|2019|NET PAYROLL EXPENSES|706.62",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unexpected_zero_records|120|SGT @ ARMS - PROTECTIVE SERVICES & CONTINUITY|2019|NET PAYROLL EXPENSES|132.29",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unexpected_zero_records|121|SGT @ ARMS - EXECUTIVE/STAFF OFFICES|2019|NET PAYROLL EXPENSES|10197.49",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unexpected_zero_records|145|SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.|2019|NET PAYROLL EXPENSES|6093.58",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unexpected_zero_records|251|NATL SECURITY WORKING GRP-MIN ADMIN CO-CHAIR (FEINSTEIN)|2022|NET PAYROLL EXPENSES|100000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unexpected_zero_records|256|NATL SECURITY WORKING GRP-MIN CO-CHAIR (REED)|2022|NET PAYROLL EXPENSES|60000.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unexpected_zero_records|1145|SENATOR ORRIN G. HATCH|2019|NET PAYROLL EXPENSES|-12777.76",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unexpected_zero_records|1232|SENATOR JAMES M. INHOFE|2019|NET PAYROLL EXPENSES|66.7",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|540|SENATOR RICHARD BLUMENTHAL||UYSAL,JOHN G|1/9,",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|1049|SENATOR CORY GARDNER||BETTS,DANIEL E|11/2,",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|1051|SENATOR CORY GARDNER||BETTS,DANIEL E|12/16, 19",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|1290|SENATOR RON JOHNSON||RIDDLE,RENEE M|10/4",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|1364|SENATOR JOHN N. KENNEDY||MARTINEZ,THOMAS P|6/21 WALKER;",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|1464|SENATOR MIKE LEE||ANTHONY,ROBERT J|12/5",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|1465|SENATOR MIKE LEE||ANTHONY,ROBERT J|2/7 LOGAN;",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|1497|SENATOR EDWARD MARKEY||OBRIEN,NOLAN M|6/22",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|1751|SENATOR ROB PORTMAN||PAOLETTA,RAYMOND A|1/23 STOW",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|1752|SENATOR ROB PORTMAN||BAIN,SAM D|1/18",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|1878|SENATOR BERNARD SANDERS||LISAIUS,KATARINA H|2/10",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|1879|SENATOR BERNARD SANDERS||LISAIUS,KATARINA H|1/17",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|1937|SENATOR RICK SCOTT||COTTON,BARRY S|11/13",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|1994|SENATOR KYRSTEN SINEMA||LOPEZ,BIANCA M|12/3, 10",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|2096|SENATOR THOM TILLIS||ESTES,JAMES T|1/9",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|audit_unparseable_amount|2233|SENATOR ROGER WICKER||RUSSELL,MYLES E|11/11-12",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation dash: a multi-leg trip prints a dash (not an amount) on the continuation row. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2322|AGRICULTURE, NUTRITION & FORESTRY AGRICULTURE, NUTR & FOR S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2321",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2332|ARMED SERVICES ARMED SERVICES - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2331",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2338|BANKING, HOUSING & URBAN AFFAIRS BANKING, HOUSING &URBDEV S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2337",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2347|BUDGET BUDGET - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2346",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2355|COMMERCE, SCIENCE & TRANSPORTATION COMMERCE, SCI & TRANS S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2353",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2364|ENERGY & NATURAL RESOURCES ENERGY AND NATURAL RESC S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2363",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2373|ENVIRONMENT & PUBLIC WORKS ENVIRONMENT & PUB WORKS S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2372",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2378|ETHICS COMMITTEE ON ETHICS - FY 2020 EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2378",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2386|FINANCE FINANCE - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2384",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2398|FOREIGN RELATIONS FOREIGN RELATIONS - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2397",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2411|HOMELAND SECURITY & GOVERNMENTAL AFFAIRS HOMELAND SEC.& GOV AFF. S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2409",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2422|HEALTH, EDUCATION, LABOR, AND PENSIONS HEALTH, EDU,LABOR&PENS S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2420",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2430|INDIAN AFFAIRS INDIAN AFFAIRS - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2430",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2440|INTELLIGENCE SELECT COM ON INTELLIGENCE - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2439",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2447|JUDICIARY JUDICIARY - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2445",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2454|RULES & ADMINISTRATION RULES & ADMINISTRATION S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2453",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2460|SMALL BUSINESS AND ENTREPRENEURSHIP SMALL BUS & ENTREP.- S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2459",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2473|SPECIAL COMMITTEE ON AGING SPECIAL COM ON AGING S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2472",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "116sdoc14|unparsed_unclassified|2480|VETERANS' AFFAIRS VETERANS' AFFAIRS - S.RES. 70C (116TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||1.00|2479",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 62C/62B (115th) or S.RES. 70C (116th) $1.00 committee-inquiry placeholder: rows print the placeholder dollar but no real payee/date/doc-no, so they do not classify into a column. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|unexpected_zero_records|62|CHAPLAIN||NET PAYROLL EXPENSES|32100.0",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|unexpected_zero_records|117|SGT @ ARMS - CENTRAL OPERATIONS|2016|NET PAYROLL EXPENSES|-10936.62",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|unexpected_zero_records|118|SGT @ ARMS - CAPITOL DIVISION|2016|NET PAYROLL EXPENSES|1841.79",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|unexpected_zero_records|119|SGT @ ARMS - IT SUPPORT SERVICES|2016|NET PAYROLL EXPENSES|978.92",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|unexpected_zero_records|120|SGT @ ARMS - STAFF OFFICES|2016|NET PAYROLL EXPENSES|461.54",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|unexpected_zero_records|121|SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES|2016|NET PAYROLL EXPENSES|1465.08",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|unexpected_zero_records|145|SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.|2016|NET PAYROLL EXPENSES|1545.75",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|unexpected_zero_records|491|SENATOR JOHN BARRASSO|2016|NET PAYROLL EXPENSES|575.58",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|unexpected_zero_records|927|SENATOR MICHAEL B. ENZI|2016|NET PAYROLL EXPENSES|971.32",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|audit_unparseable_amount|1021|SENATOR CORY GARDNER||JP MORGAN CHASE BANK NA|J",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation row: a multi-leg trip prints a dash or wrap row with no parseable amount. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|audit_unparseable_amount|1086|SENATOR ORRIN G. HATCH||PORTER,ROBERT R|AND",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation row: a multi-leg trip prints a dash or wrap row with no parseable amount. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|unexpected_zero_records|1166|SENATOR JAMES M. INHOFE|2016|NET PAYROLL EXPENSES|163.3",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|unexpected_zero_records|1706|SENATOR DAN SULLIVAN|2015|NET PAYROLL EXPENSES|-6991.5",
+      "reviewer": "claude",
+      "reason": "unexpected_zero_records",
+      "note": "NET PAYROLL EXPENSES lump-sum: block prints only the banner-summary payroll total with no itemized salary rows, so parsed_body=0 against a non-zero banner. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|audit_unparseable_amount|1632|SENATOR BEN SASSE||JP MORGAN CHASE BANK NA|2/6, 13 SEN",
+      "reviewer": "claude",
+      "reason": "audit_unparseable_amount",
+      "note": "Travel-continuation row: a multi-leg trip prints a dash or wrap row with no parseable amount. Same pattern as 116th approved exceptions."
+    },
+    {
+      "key": "115sdoc2|unparsed_unclassified|2045|INDIAN AFFAIRS INDIAN AFFAIRS - S.RES. 73C (114TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS||4.00|2044",
+      "reviewer": "claude",
+      "reason": "unparsed_unclassified",
+      "note": "S.RES. 73C (114th) $4.00 committee-inquiry placeholder: row prints the placeholder dollar but no real payee/date/doc-no, so it does not classify into a column. Same pattern as 116th S.RES. 70C $1.00 approved exceptions."
     }
   ]
 }
