@@ -10,14 +10,15 @@ import pytest
 from bioguide_matcher import BioguideIdMatcher
 
 
-def _senator(bioguide_id, first, last, middle="", nickname="", terms=()):
+def _senator(bioguide_id, first, last, middle="", nickname="", terms=(),
+             official_full=None):
     return {
         "bioguide_id": bioguide_id,
         "first_name": first,
         "last_name": last,
         "middle_name": middle,
         "nickname": nickname,
-        "official_full": f"{first} {last}",
+        "official_full": official_full or f"{first} {last}",
         "suffix": "",
         "terms": [
             {"type": "sen", "start": start, "end": end} for start, end in terms
@@ -45,6 +46,23 @@ def matcher():
                  terms=[("2024-09-09", "2024-12-08")]),
         _senator("B001320", "Laphonza", "Butler", middle="Romanique",
                  terms=[("2023-10-03", "2024-12-08")]),
+        _senator("B001268", "Scott", "Brown",
+                 terms=[("2010-02-04", "2013-01-03")],
+                 official_full="Scott P. Brown"),
+        _senator("C000560", "Thomas", "Coburn", middle="A.",
+                 terms=[("2005-01-04", "2015-01-03")],
+                 official_full="Tom Coburn"),
+        _senator("T000461", "Patrick", "Toomey", middle="J.",
+                 terms=[("2011-01-03", "2023-01-03")]),
+        _senator("U000038", "Mark", "Udall", middle="E.",
+                 terms=[("2009-01-06", "2015-01-03")],
+                 official_full="Mark Udall"),
+        _senator("U000039", "Tom", "Udall", middle="S.",
+                 terms=[("2009-01-06", "2021-01-03")],
+                 official_full="Tom Udall"),
+        _senator("H001042", "Mazie", "Hirono", middle="K.",
+                 terms=[("2013-01-03", "2025-01-03")],
+                 official_full="Mazie K. Hirono"),
     ]
     return m
 
@@ -90,3 +108,49 @@ def test_plain_name_still_matches(matcher):
 
 def test_unknown_name_returns_empty(matcher):
     assert matcher.get_bioguide_id("ZAPHOD BEEBLEBROX", 2024) == ""
+
+
+# 13 reports (112sdoc4 through 115sdoc6) ship 80 unmatched-senator rows for
+# 6 distinct senators. Each fails for a different reason; see the audit note
+# in docs/plans/ for the full investigation.
+
+def test_period_inside_name_treated_as_separator(matcher):
+    """113sdoc2 prints 'SENATOR PATRICK J.TOOMEY' -- no space after the
+    middle-initial period. _normalize_name used to strip punctuation without
+    adding space, so 'J.TOOMEY' collapsed to 'JTOOMEY' and the name didn't
+    match the YAML's 'Patrick J. Toomey'. Periods must separate, not join."""
+    assert matcher.get_bioguide_id("PATRICK J.TOOMEY", 2011) == "T000461"
+
+
+def test_state_suffix_stripped_from_name(matcher):
+    """112sdoc4-114sdoc4 print 'SENATOR MARK UDALL (CO)' / 'SENATOR TOM UDALL
+    (NM)' -- the disambiguating state is in parens because two Udalls served
+    simultaneously. The matcher has no state-stripping path, so the '(CO)'
+    survives normalization and the name fails to match 'MARK UDALL'."""
+    assert matcher.get_bioguide_id("MARK UDALL (CO)", 2010) == "U000038"
+    assert matcher.get_bioguide_id("TOM UDALL (NM)", 2011) == "U000039"
+
+
+def test_official_full_matches_when_first_last_lacks_middle(matcher):
+    """113sdoc2 prints 'SENATOR SCOTT P. BROWN'. The YAML has first='Scott',
+    last='Brown' (no middle), but official_full='Scott P. Brown'. The matcher
+    only generated 'Scott Brown' variants from first/last, so the input's
+    middle initial 'P.' had nothing to match against. official_full must be
+    a name variant."""
+    assert matcher.get_bioguide_id("SCOTT P. BROWN", 2010) == "B001268"
+
+
+def test_official_full_matches_when_first_is_formal_name(matcher):
+    """112sdoc4-114sdoc4 print 'SENATOR TOM COBURN'. The YAML has
+    first='Thomas', middle='A.', last='Coburn', official_full='Tom Coburn'.
+    The matcher only generated 'Thomas Coburn' / 'Thomas A Coburn' variants,
+    none of which match 'TOM COBURN'. official_full carries the nickname the
+    reports actually use."""
+    assert matcher.get_bioguide_id("TOM COBURN", 2011) == "C000560"
+
+
+def test_alias_for_pdf_spelling_error(matcher):
+    """113sdoc2 prints 'SENATOR MAIZE HIRONO' -- a typo for 'MAZIE'. The
+    matcher can't infer a spelling correction; an explicit alias is the only
+    fix."""
+    assert matcher.get_bioguide_id("MAIZE HIRONO", 2013) == "H001042"

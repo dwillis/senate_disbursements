@@ -32,6 +32,9 @@ NAME_ALIASES = {
     "THEODORE BUDD": "TED BUDD",
     "JOHN PETER RICKETTS": "PETE RICKETTS",
     "JOHN R THUNE": "JOHN THUNE",
+    # 113sdoc2 prints "MAIZE HIRONO" -- a typo for "MAZIE". The matcher can't
+    # infer a spelling correction; the alias makes it explicit.
+    "MAIZE HIRONO": "MAZIE HIRONO",
 }
 
 
@@ -142,11 +145,20 @@ class BioguideIdMatcher:
         # Convert to uppercase and remove extra whitespace
         name = name.upper().strip()
 
+        # Strip disambiguating state suffix printed by the Senate for
+        # same-last-name colleagues (e.g. "MARK UDALL (CO)" / "TOM UDALL
+        # (NM)" in 112sdoc4-114sdoc4). Done before punctuation stripping so
+        # the parens don't get smashed into the surname.
+        name = re.sub(r'\s*\([A-Z]{2}\)\s*$', '', name)
+
         # Remove common suffixes
         name = re.sub(r'\s+(JR\.?|SR\.?|III?|IV|V)$', '', name)
 
-        # Remove punctuation
-        name = re.sub(r'[^\w\s]', '', name)
+        # Replace punctuation with space. "PATRICK J.TOOMEY" (no space after
+        # the middle-initial period, as printed in 113sdoc2) must normalize
+        # to "PATRICK J TOOMEY" -- removing the punctuation without a space
+        # collapses it to "PATRICK JTOOMEY" and breaks the match.
+        name = re.sub(r'[^\w\s]', ' ', name)
 
         # Normalize whitespace
         name = ' '.join(name.split())
@@ -161,6 +173,7 @@ class BioguideIdMatcher:
         last = senator['last_name']
         middle = senator['middle_name']
         nickname = senator['nickname']
+        official_full = senator.get('official_full', '')
 
         # First Last (most common format)
         if first and last:
@@ -175,6 +188,17 @@ class BioguideIdMatcher:
             names.append(f"{first} {middle} {last}")
             # Also try first initial of middle
             names.append(f"{first} {middle[0]} {last}")
+
+        # official_full carries the name printed on the Senate floor and in
+        # disbursement reports -- often a nickname or formal variant that
+        # first/last/middle alone can't reconstruct. Scott Brown's YAML has
+        # first='Scott' / last='Brown' (no middle) but official_full='Scott
+        # P. Brown', so without this the reports' 'SCOTT P. BROWN' (and the
+        # 80 unmatched rows across 112sdoc4-115sdoc6) don't resolve. Tom
+        # Coburn's official_full='Tom Coburn' similarly carries the nickname
+        # 'Tom' that the first='Thomas' record lacks.
+        if official_full:
+            names.append(official_full)
 
         # Normalize all names
         return [self._normalize_name(name) for name in names]
