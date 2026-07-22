@@ -342,3 +342,26 @@ def test_parse_block_115sdoc2_rotated_left_margin_chars_not_unparsed():
     result = parse_block(block, template="anchor")
     rotated = [u for u in result.unparsed if u.get("reason") == "unclassified" and len(u.get("text", "")) <= 2]
     assert not rotated, f"rotated margin chars leaked into unparsed: {rotated[:5]}"
+
+
+def test_parse_banner_112th_doubled_char_header_is_dedoubled():
+    """112sdoc4 pages 2296-2306 (and 41 pages across 112sdoc4/7/10) have a
+    PDF text-layer defect where every header character is extracted twice:
+    'COMPENSATION OF MEMBERS' becomes 'CCOOMMPPEENNSSAATTIIOONN OOFF
+    MMEEMMBBEERRSS', '2011' becomes '22001111'. Data rows on the same pages
+    extract normally. Without de-doubling, parse_banner reads the doubled
+    text as the office name and the funding-year regex can't match
+    '22001111', so the block ships with office='CCOOMMPPEENNSSAATTIIOONN...'
+    and funding_year=None -- 3 no_header findings on 112sdoc4 alone.
+    page_words must collapse the doubling before the text reaches the
+    banner parser."""
+    from senate_parser.extract import _dedoubled
+
+    data = json.loads((FIXTURES / "112sdoc4_page_2301_doubled.json").read_text())
+    # Simulate page_words, which applies _dedoubled to each word's text
+    # before returning. The fixture stores the raw (doubled) extraction.
+    rows = cluster_rows([Word(text=_dedoubled(d["text"]), x0=d["x0"], x1=d["x1"], top=d["top"], bottom=d["bottom"]) for d in data])
+    header = parse_banner(rows, 2301)
+    assert header.office == "COMPENSATION OF MEMBERS", f"office={header.office!r}"
+    assert header.funding_year == 2011, f"funding_year={header.funding_year!r}"
+    assert "CCOOMM" not in header.office, f"office still doubled: {header.office!r}"
