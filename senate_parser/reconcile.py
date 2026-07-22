@@ -290,6 +290,24 @@ def _reconcile_block_typed(result) -> ReconcileResult:
         if obj.label in partition_labels or obj.label in lump_at_net:
             # A slice of the payroll pie, not a row-run boundary; the
             # roster validates as a whole against NET PAYROLL EXPENSES.
+            # 112th-114th template prints staff salaries as amount + job-
+            # title description with NO payee and NO doc number (e.g.
+            # 112sdoc4 p231 JOINT SELECT COMMITTEE: 'SENIOR DEFENSE ANALYST
+            # FROM SEP. 19' $4,333.32). classify_group returns
+            # 'expense_subline' for these (amount + description, no doc,
+            # no payee), so they land in the expense buffer. But they're
+            # salary rows -- the job title IS the identifier. When a
+            # payroll_component arrives and the expense buffer is non-
+            # empty (and no expense segment subtotal has closed it yet),
+            # those records are orphan expense_sublines that actually
+            # belong to the salary roster. Move them so they validate
+            # against NET PAYROLL EXPENSES instead of being tagged
+            # 'unchecked' and dropped from the segment check.
+            if buffers["expense"]:
+                buffers["salary"].extend(buffers["expense"])
+                sums["salary"] += sums["expense"]
+                sums["expense"] = 0.0
+                buffers["expense"] = []
             if obj.label in lump_at_net:
                 lump_sum_total += expected
                 all_lump_sums += expected

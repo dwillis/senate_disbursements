@@ -305,3 +305,45 @@ def test_compensation_of_members_page_parses_records():
     biden = next(r for r in result.records if "BIDEN" in r.payee)
     assert biden.amount == "115,350.00"
     assert "VICE PRESIDENT" in biden.description
+
+
+def test_joint_select_committee_orphan_amount_desc_rows_reconcile_cleanly():
+    """112sdoc4 p231 (JOINT SELECT COMMITTEE ON DEFICIT REDUCTION): this
+    block prints 10 staff salaries as amount + description ('SENIOR
+    DEFENSE ANALYST FROM SEP. 19' $4,333.32, ...) with NO payee name and
+    NO document number -- the job title in the description column IS the
+    identifier, since the committee lists staff by role, not by name.
+
+    classify_group's fallback returns 'expense_subline' for any amount +
+    description row with no doc and no payee, so the rows land in
+    reconcile's expense buffer. The expense buffer is never checked
+    against NET PAYROLL EXPENSES (which uses salary + lump_sum_total), so
+    the block fails with parser actual 18,380.86 vs printed 76,448.09 --
+    short by the 10 rows' sum of 58,067.23.
+
+    The fix lives in reconcile._reconcile_block_typed: when a payroll
+    component subtotal (PERSONNEL COMP, OTHER PERSONNEL COMPENSATION, the
+    WAE label, or a lump_at_net label) arrives and the expense buffer is
+    non-empty, those records are orphan expense_sublines that actually
+    belong to the salary roster. Move them to the salary buffer so they
+    validate against NET PAYROLL EXPENSES. The records keep
+    record_type='expense' (salary_flag=0) so the audit's
+    salary_row_missing_payee heuristic doesn't fire -- that heuristic is
+    for the modern template where a salary row with no payee is suspect;
+    in the 112th-114th template, staff-by-job-title is normal."""
+    block = make_block("112sdoc4_page_231", 231)
+    result = parse_block(block, template="anchor")
+    # The 10 rows are classified as expense_subline (no doc, no payee,
+    # amount + description). parse_block must still produce 10 records.
+    assert len(result.records) == 10
+    assert all(r.record_type == "expense" for r in result.records)
+    assert all(not r.payee for r in result.records)
+    assert sum(float(r.amount.replace(",", "")) for r in result.records) == 58067.23
+
+    reconciled = reconcile_block(result, template="anchor")
+    net = next(c for c in reconciled.checks if c.label == "NET PAYROLL EXPENSES")
+    assert net.status == "ok", f"NET PAYROLL status={net.status} actual={net.actual} expected={net.expected}"
+    assert net.actual == 76448.09
+    assert reconciled.block_status == "ok"
+    assert reconciled.dollars_unchecked == 0.0
+    assert reconciled.records_checked == 10

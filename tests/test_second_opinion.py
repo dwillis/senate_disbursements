@@ -148,3 +148,126 @@ def test_passing_segments_are_left_alone():
     assert check.second_opinion == ""
     assert check.independent_sum is None
     assert audit == []
+
+
+# ---------------------------------------------------------------------------
+# Anchor-template (112th-114th) NET PAYROLL EXPENSES + lump_at_net.
+#
+# The parser (reconcile._reconcile_block_typed) adds `lump_sum_total` -- the
+# accumulated `lump_at_net` subtotals (PERSONNEL BENEFITS, RE-EMPLOYED
+# ANNUITANTS, BENEFITS FOR NON SENATE/FORMER PERSONNEL) -- to the NET PAYROLL
+# EXPENSES actual. second_opinion's naive re-sum skips every subtotal row
+# (including those lump labels), so it disagrees with the parser whenever
+# lump_sum_total > 0 -- degrading 'source_mismatch' (publish) verdicts to
+# 'inconclusive' (quarantine). The fix adds the same lump_at_net subtotals
+# inside the segment window to the independent sum, making the comparison
+# apples-to-apples. See INTELLIGENCE 4.8x (114sdoc4 p2019): 3 salary rows
+# sum to 221,499.85, PERSONNEL BENEFITS 11,747.93 feeds NET PAYROLL, parser
+# 233,247.78, printed 48,664.57.
+
+
+def _fake_result_with_subtotals(subtotals):
+    class R:
+        pass
+
+    r = R()
+    r.subtotals = subtotals
+    return r
+
+
+def test_lump_at_net_adjustment_sums_lump_labels_inside_segment_window():
+    """_lump_at_net_adjustment sums the amounts of lump_at_net subtotals
+    (PERSONNEL BENEFITS, RE-EMPLOYED ANNUITANTS, BENEFITS FOR NON
+    SENATE/FORMER PERSONNEL) whose (page, top) falls strictly between
+    start_pos and end_pos. OTHER PERSONNEL COMPENSATION is a LUMP_SUM_LABEL
+    but itemizes rows inside the roster, so it is excluded. PERSONNEL COMP.
+    FULL-TIME PERMANENT is a payroll category, not a lump, so excluded."""
+    from senate_parser.records import Subtotal
+    from senate_parser.second_opinion import _lump_at_net_adjustment
+
+    subtotals = [
+        Subtotal(label="PERSONNEL COMP. FULL-TIME PERMANENT", amount="221,499.85", page=1, top=40.0),
+        Subtotal(label="OTHER PERSONNEL COMPENSATION", amount="999.99", page=1, top=45.0),
+        Subtotal(label="PERSONNEL BENEFITS", amount="11,747.93", page=1, top=50.0),
+        Subtotal(label="RE-EMPLOYED ANNUITANTS", amount="0.00", page=1, top=55.0),
+        Subtotal(label="NET PAYROLL EXPENSES", amount="48,664.57", page=1, top=100.0),
+    ]
+    result = _fake_result_with_subtotals(subtotals)
+
+    # Segment window: from before everything up to (but excluding) the
+    # NET PAYROLL EXPENSES subtotal row.
+    adjustment = _lump_at_net_adjustment(result, (1, -1.0), (1, 100.0))
+    # PERSONNEL BENEFITS 11,747.93 + RE-EMPLOYED ANNUITANTS 0.00.
+    assert adjustment == 11747.93
+
+
+def test_lump_at_net_adjustment_excludes_lumps_outside_segment_window():
+    """A PERSONNEL BENEFITS subtotal on a later page (outside this segment's
+    window) must not be added -- it belongs to a different NET PAYROLL
+    segment."""
+    from senate_parser.records import Subtotal
+    from senate_parser.second_opinion import _lump_at_net_adjustment
+
+    subtotals = [
+        Subtotal(label="PERSONNEL BENEFITS", amount="11,747.93", page=1, top=50.0),
+        Subtotal(label="NET PAYROLL EXPENSES", amount="100.00", page=1, top=100.0),
+        Subtotal(label="PERSONNEL BENEFITS", amount="99,999.00", page=2, top=50.0),
+    ]
+    result = _fake_result_with_subtotals(subtotals)
+
+    # Window ends at page 1 top 100 -- the page-2 lump is outside.
+    adjustment = _lump_at_net_adjustment(result, (1, -1.0), (1, 100.0))
+    assert adjustment == 11747.93
+
+
+def test_apply_second_opinion_publishes_net_payroll_when_lump_at_net_explains_gap(monkeypatch):
+    """End-to-end: with the fix, the INTELLIGENCE 4.8x pattern (3 salary
+    rows + a PERSONNEL BENEFITS lump, parser 233,247.78, printed 48,664.57)
+    must flip from INCONCLUSIVE to SOURCE_MISMATCH. The geometric re-sum
+    is stubbed (it would need real PDF rows); the test exercises only the
+    adjustment logic and the three-way comparison."""
+    from senate_parser.records import Record, Subtotal
+    from senate_parser.second_opinion import apply_second_opinion
+
+    salary_rows = [
+        Record(record_type="salary", amount="78,999.96", page=1),
+        Record(record_type="salary", amount="69,999.96", page=1),
+        Record(record_type="salary", amount="72,499.93", page=1),
+    ]
+    subtotals = [
+        Subtotal(label="PERSONNEL BENEFITS", amount="11,747.93", page=1, top=50.0),
+        Subtotal(label="NET PAYROLL EXPENSES", amount="48,664.57", page=1, top=100.0),
+    ]
+
+    class FakeResult:
+        pass
+    result = FakeResult()
+    result.records = salary_rows
+    result.subtotals = subtotals
+    result.events = [("record", r) for r in salary_rows] + [("subtotal", s) for s in subtotals]
+
+    # Reconcile first so the check has actual/expected populated.
+    from senate_parser.reconcile import reconcile_block
+    reconciled = reconcile_block(result, template="anchor")
+    net_check = next(c for c in reconciled.checks if c.label == "NET PAYROLL EXPENSES")
+    assert net_check.status == "fail", f"expected fail, got {net_check.status}"
+
+    # Stub the geometric re-sum: 221,499.85 is the 3 salary rows' sum.
+    from senate_parser import second_opinion as so
+    monkeypatch.setattr(
+        so,
+        "_independent_segment_sum",
+        lambda block, start, end, template="modern": (221499.85, True),
+    )
+
+    class FakeBlock:
+        pages = [1]
+    audit = apply_second_opinion(FakeBlock(), result, reconciled, template="anchor")
+    net_check = next(c for c in reconciled.checks if c.label == "NET PAYROLL EXPENSES")
+    assert net_check.second_opinion == "source_mismatch", (
+        f"expected source_mismatch, got {net_check.second_opinion} "
+        f"(independent={net_check.independent_sum} actual={net_check.actual} "
+        f"expected={net_check.expected})"
+    )
+    assert audit == []
+    assert all(r.validation_status == "source_mismatch" for r in salary_rows)

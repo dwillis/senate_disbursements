@@ -468,7 +468,7 @@ def _date_text_in(group: list, x0: float, x1: float) -> str:
 # p1011) -- match space-squashed and recover the canonical spelling, or
 # the subtotal line is misread as an expense record and its amount both
 # double-counts and loses the segment boundary.
-_SQUASHED_SUBTOTAL_LABELS = {lbl.replace(" ", ""): lbl for lbl in SUBTOTAL_LABELS}
+_SQUASHED_SUBTOTAL_LABELS = {re.sub(r"\W+", "", lbl): lbl for lbl in SUBTOTAL_LABELS}
 
 
 def _subtotal_label_of(text: str):
@@ -476,7 +476,7 @@ def _subtotal_label_of(text: str):
     normalized = re.sub(r"\s+", " ", text.strip().upper())
     if normalized in SUBTOTAL_LABELS:
         return normalized
-    return _SQUASHED_SUBTOTAL_LABELS.get(normalized.replace(" ", ""))
+    return _SQUASHED_SUBTOTAL_LABELS.get(re.sub(r"\W+", "", normalized))
 
 
 def _is_subtotal_label(text: str) -> bool:

@@ -27,6 +27,7 @@ duplicate previews), which safely degrades to 'inconclusive'.
 from .records import (
     LUMP_SUM_LABELS,
     PAYROLL_ITEMIZED_LABELS,
+    PERSONNEL_ROLLUP_LABELS,
     _is_page_label_row,
     _is_subtotal_label,
     calibrate_columns,
@@ -38,6 +39,35 @@ from .segment import header_row_top
 SOURCE_MISMATCH = "source_mismatch"
 PARSER_SUSPECT = "parser_suspect"
 INCONCLUSIVE = "inconclusive"
+
+# Lump-sum subtotals the parser adds into NET PAYROLL EXPENSES actual on
+# anchor-template blocks (reconcile._reconcile_block_typed: `lump_at_net =
+# LUMP_SUM_LABELS - {"OTHER PERSONNEL COMPENSATION"}`). OTHER PERSONNEL
+# COMPENSATION itemizes rows inside the roster, so it is not folded into
+# NET PAYROLL -- it must not appear in the second-opinion adjustment either.
+LUMP_AT_NET_LABELS = LUMP_SUM_LABELS - {"OTHER PERSONNEL COMPENSATION"}
+
+
+def _lump_at_net_adjustment(result, start_pos, end_pos) -> float:
+    """Sum the amounts of lump_at_net subtotals strictly between start_pos
+    and end_pos. The parser (reconcile._reconcile_block_typed) accumulates
+    these into NET PAYROLL EXPENSES actual as `lump_sum_total`; the naive
+    independent re-sum skips them (they're subtotal rows), so without this
+    adjustment second_opinion disagrees with the parser on any anchor-
+    template NET PAYROLL segment that has a non-zero lump, degrading
+    'source_mismatch' verdicts to 'inconclusive'. See INTELLIGENCE 4.8x
+    (114sdoc4 p2019)."""
+    total = 0.0
+    for sub in result.subtotals:
+        if sub.label not in LUMP_AT_NET_LABELS:
+            continue
+        pos = (sub.page, sub.top)
+        if pos <= start_pos or pos >= end_pos:
+            continue
+        amt = parse_amount(sub.amount) if sub.amount else None
+        if amt is not None:
+            total += amt
+    return round(total, 2)
 
 
 def _independent_segment_sum(block, start_pos, end_pos, template="modern"):
@@ -103,6 +133,14 @@ def apply_second_opinion(block, result, reconciled, template="modern") -> list:
         if not readable:
             check.second_opinion = INCONCLUSIVE
             continue
+        # Anchor-template NET PAYROLL EXPENSES segments include the
+        # lump_at_net subtotals in the parser's actual (see
+        # reconcile._reconcile_block_typed); fold the same subtotals into
+        # the independent sum so the three-way comparison is apples-to-
+        # apples. Without this, any anchor NET PAYROLL segment with a
+        # non-zero lump degrades to INCONCLUSIVE instead of SOURCE_MISMATCH.
+        if template == "anchor" and check.label in PERSONNEL_ROLLUP_LABELS:
+            independent = round(independent + _lump_at_net_adjustment(result, start_pos, end_pos), 2)
         check.independent_sum = independent
 
         matches_parser = abs(independent - check.actual) <= OK_TOLERANCE

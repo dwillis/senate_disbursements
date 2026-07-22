@@ -314,3 +314,25 @@ def test_wrapped_payee_with_doc_number_on_second_row_stays_one_record():
     rec = next(r for r in result.records if r.document_number == "DSEC23M50419")
     assert rec.payee == "GOVERNMENT RETIREMENT & BENEFITS, INC."
     assert rec.amount == "$27,484.00"
+
+
+def test_subtotal_label_recognized_without_hyphen():
+    """112th-114th COMPENSATION OF MEMBERS pages print the lump-sum label
+    as 'REEMPLOYED ANNUITANTS' (no hyphen), while the canonical
+    SUBTOTAL_LABELS entry is 'RE-EMPLOYED ANNUITANTS' (with hyphen). The
+    space-squashed fallback (_SQUASHED_SUBTOTAL_LABELS) strips only spaces,
+    so 'REEMPLOYEDANNUITANTS' never matches the squashed key
+    'RE-EMPLOYEDANNUITANTS' (hyphen retained). The label is misread as an
+    expense record, its amount ($11,082.00 on 114sdoc7/13, $17,442.53 on
+    114sdoc4) becomes an 'unchecked' orphan, and NET PAYROLL EXPENSES
+    undercounts by that figure (the COMPENSATION OF MEMBERS parser_suspect
+    findings surfaced by the lump_at_net second_opinion fix). The
+    squashed lookup must strip punctuation too, so the no-hyphen PDF text
+    matches the canonical label."""
+    from senate_parser.records import _subtotal_label_of
+
+    assert _subtotal_label_of("REEMPLOYED ANNUITANTS") == "RE-EMPLOYED ANNUITANTS"
+    # Canonical hyphenated form must still match.
+    assert _subtotal_label_of("RE-EMPLOYED ANNUITANTS") == "RE-EMPLOYED ANNUITANTS"
+    # Other punctuation-bearing labels must still match their canonical forms.
+    assert _subtotal_label_of("PERSONNEL COMP. FULL-TIME PERMANENT") == "PERSONNEL COMP. FULL-TIME PERMANENT"
