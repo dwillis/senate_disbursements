@@ -23,7 +23,6 @@ from senate_parser.extract import _dedoubled
     ("0044//0011//22001111", "04/01/2011"),
     ("TTHHRROOUUGGHH", "THROUGH"),
     ("YYTTDD", "YTD"),
-    ("$$", "$"),
     ("CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS", "COMPENSATION OF MEMBERS"),
 ])
 def test_doubled_tokens_are_collapsed(doubled, expected):
@@ -43,6 +42,12 @@ def test_doubled_tokens_are_collapsed(doubled, expected):
     "DOCUMENT NO.",
     "112TH CONGRESS",
     "S.RES. 89D (110TH)",
+    # 2-char repeated-digit tokens are legitimate (page labels "B - 11"),
+    # not doubled. The >=4 guard prevents collapsing them.
+    "11",
+    "22",
+    "B - 11",
+    "B - 99",
 ])
 def test_normal_words_are_not_changed(normal):
     assert _dedoubled(normal) == normal
@@ -56,15 +61,9 @@ def test_single_char_unchanged():
     assert _dedoubled("A") == "A"
 
 
-def test_two_char_non_doubled_unchanged():
-    # "AB" is even-length but the pair (A,B) doesn't match, so it's not
-    # a doubled token.
+def test_two_char_tokens_unchanged():
+    # 2-char tokens are below the >=4 guard, so neither "AA" (matched
+    # pair) nor "AB" (mismatched pair) is collapsed. This avoids
+    # collapsing legitimate page-label digits like "11".
+    assert _dedoubled("AA") == "AA"
     assert _dedoubled("AB") == "AB"
-
-
-def test_two_char_doubled_collapsed():
-    # "AA" matches the doubled pattern (pair (A,A)) and collapses to "A".
-    # This is the one class of false-positive risk (a legitimate "AA"
-    # initial would be collapsed), but no such token appears in the
-    # disbursement data.
-    assert _dedoubled("AA") == "A"

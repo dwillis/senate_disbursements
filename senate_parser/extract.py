@@ -26,11 +26,13 @@ class Word:
 def _dedoubled_token(token: str) -> str:
     """Collapse a char-doubled token: 'CCOOMM' -> 'COM'.
 
-    A token is doubled when its length is even and every adjacent pair
-    matches (w[0]==w[1], w[2]==w[3], ...). Tokens that don't fit the
-    pattern (odd length, or any mismatched pair) are returned unchanged.
+    A token is doubled when its length is at least 4, even, and every
+    adjacent pair matches (w[0]==w[1], w[2]==w[3], ...). The >=4 guard
+    avoids collapsing legitimate 2-char repeated-digit tokens like the
+    "11" in page labels "B - 11" (the 11th B-section page, not a doubled
+    "1"). Tokens that don't fit the pattern are returned unchanged.
     """
-    if len(token) % 2:
+    if len(token) < 4 or len(token) % 2:
         return token
     for i in range(0, len(token), 2):
         if token[i] != token[i + 1]:
