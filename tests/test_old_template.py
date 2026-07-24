@@ -207,6 +207,23 @@ def test_typed_reconcile_trailing_records_flagged():
     assert reconciled.block_status == "ok"
 
 
+def test_parse_block_backfills_record_top():
+    """second_opinion bounds records geometrically by (page, top), so each
+    Record must carry the vertical position of its source row (group[0].top),
+    the way Subtotal already does. Without it, a non-rollup itemized row
+    printed inside a NET PAYROLL segment can't be told apart from one outside
+    it, degrading a real source_mismatch to INCONCLUSIVE (112sdoc4
+    COMPENSATION OF MEMBERS)."""
+    block = make_block("114sdoc13_page_1011", 1011)
+    result = parse_block(block, template="anchor")
+    assert result.records, "fixture should yield records"
+    # every record carries a real vertical position (not the 0.0 default)
+    assert all(r.top > 0 for r in result.records)
+    # and it is monotonic non-decreasing in reading order on the page
+    tops = [r.top for r in result.records]
+    assert tops == sorted(tops)
+
+
 def test_split_subtotal_label_is_recognized():
     """Word extraction splits the label mid-word on 114sdoc13 p1011
     ('TRAVEL AND TRANSP' + 'ORTATION OF PERSONS'). It must classify as a

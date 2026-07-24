@@ -1,19 +1,19 @@
 {
  "blocks": 745,
- "records_published": 58154,
+ "records_published": 58258,
  "records_quarantined": 0,
- "unparsed": 222,
+ "unparsed": 200,
  "check_status_histogram": {
-  "banner_missing": 417,
-  "component": 430,
-  "fail": 307,
-  "not_applicable": 130,
-  "ok": 1144,
-  "unchecked": 28,
+  "banner_missing": 416,
+  "component": 431,
+  "fail": 315,
+  "not_applicable": 127,
+  "ok": 1164,
+  "unchecked": 2,
   "warn": 244,
-  "zero_records": 43
+  "zero_records": 20
  },
- "published_dollars": 326836194.94,
+ "published_dollars": 344509040.7,
  "quarantined_dollars": 0.0,
  "block_statuses": [
   {
@@ -342,7 +342,7 @@
    "office": "MAJORITY CONFERENCE COMMITTEE (D)",
    "funding_year": 2011,
    "start_page": 65,
-   "status": "ok",
+   "status": "fail",
    "record_count": 32
   },
   {
@@ -363,7 +363,7 @@
    "office": "MAJORITY POLICY COMMITTEE (D)",
    "funding_year": 2011,
    "start_page": 69,
-   "status": "ok",
+   "status": "fail",
    "record_count": 26
   },
   {
@@ -384,7 +384,7 @@
    "office": "MAJORITY LEADER (D)",
    "funding_year": 2011,
    "start_page": 72,
-   "status": "ok",
+   "status": "fail",
    "record_count": 41
   },
   {
@@ -426,7 +426,7 @@
    "office": "MAJORITY WHIP (D)",
    "funding_year": 2011,
    "start_page": 79,
-   "status": "ok",
+   "status": "fail",
    "record_count": 23
   },
   {
@@ -517,7 +517,7 @@
    "office": "SECRETARY, MINORITY CONFERENCE COMM (R)",
    "funding_year": 2011,
    "start_page": 93,
-   "status": "ok",
+   "status": "fail",
    "record_count": 4
   },
   {
@@ -629,7 +629,7 @@
    "office": "SECRETARY FOR THE MINORITY (R)",
    "funding_year": 2011,
    "start_page": 109,
-   "status": "ok",
+   "status": "fail",
    "record_count": 12
   },
   {
@@ -734,7 +734,7 @@
    "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
    "funding_year": 2011,
    "start_page": 140,
-   "status": "ok",
+   "status": "fail",
    "record_count": 144
   },
   {
@@ -1259,7 +1259,7 @@
    "office": "JOINT SELECT COMMITTEE ON DEFICIT REDUCTION",
    "funding_year": 2011,
    "start_page": 231,
-   "status": "fail",
+   "status": "ok",
    "record_count": 10
   },
   {
@@ -5211,22 +5211,22 @@
    "record_count": 0
   },
   {
-   "office": "CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS FFUUNNDDIINNGG YYEEAARR CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS,, SSEENNAATTEE",
-   "funding_year": null,
+   "office": "COMPENSATION OF MEMBERS",
+   "funding_year": 2011,
    "start_page": 2301,
-   "status": "ok",
-   "record_count": 0
+   "status": "fail",
+   "record_count": 104
   },
   {
-   "office": "CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS FFUUNNDDIINNGG YYEEAARR CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS,, SSEENNAATTEE",
-   "funding_year": null,
+   "office": "COMPENSATION OF MEMBERS",
+   "funding_year": 2010,
    "start_page": 2305,
    "status": "ok",
    "record_count": 0
   },
   {
-   "office": "CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS FFUUNNDDIINNGG YYEEAARR CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS,, SSEENNAATTEE",
-   "funding_year": null,
+   "office": "COMPENSATION OF MEMBERS",
+   "funding_year": 2009,
    "start_page": 2306,
    "status": "ok",
    "record_count": 0

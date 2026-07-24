@@ -271,3 +271,254 @@ def test_apply_second_opinion_publishes_net_payroll_when_lump_at_net_explains_ga
     )
     assert audit == []
     assert all(r.validation_status == "source_mismatch" for r in salary_rows)
+
+
+def test_apply_second_opinion_rescues_source_mismatch_when_non_rollup_itemized_row_explains_gap(monkeypatch):
+    """112sdoc4 COMPENSATION OF MEMBERS pattern. A REEMPLOYED ANNUITANT
+    itemized expense row (record_type='expense', categorized OUTSIDE the
+    NET PAYROLL rollup -- category='') prints between the PERSONNEL
+    BENEFITS lump and the NET PAYROLL EXPENSES subtotal.
+
+    The naive independent re-sum counts it positionally; the parser
+    correctly excludes it from NET PAYROLL actual (it isn't a salary row
+    and isn't a lump subtotal). That $10,254 independent-vs-parser
+    divergence exceeds the $0.01 tolerance and degrades a real ~$8.8M
+    source mismatch (rows $20.27M vs printed $11.45M) to INCONCLUSIVE --
+    the rows quarantine instead of publishing tagged source_mismatch,
+    which is inconsistent with the Blackburn-intern class and with
+    112sdoc10 (whose same block publishes unchecked because it has no
+    segment-level NET PAYROLL subtotal).
+
+    The bounded-tolerance rescue: when the gap is fully explained by the
+    sum of non-rollup itemized records inside the segment AND both the
+    independent and parser sums clearly disagree with the printed
+    subtotal, classify source_mismatch and retag the segment's rows.
+    """
+    from senate_parser.records import Record, Subtotal
+    from senate_parser.second_opinion import apply_second_opinion
+
+    # 3 member-salary rows stand in for the 103; they sum to 221,499.85.
+    salary_rows = [
+        Record(record_type="salary", amount="78,999.96", page=1, top=10.0),
+        Record(record_type="salary", amount="69,999.96", page=1, top=20.0),
+        Record(record_type="salary", amount="72,499.93", page=1, top=30.0),
+    ]
+    # The non-rollup itemized expense (REEMPLOYED ANNUITANT), positioned
+    # AFTER the PERSONNEL BENEFITS lump (top 50) and BEFORE the NET PAYROLL
+    # subtotal (top 100): inside the segment geometrically, so the naive
+    # re-sum counts it, but the parser leaves it in the expense buffer ->
+    # trailing unchecked, category=''.
+    annuitant = Record(record_type="expense", amount="10,254.00", page=1, top=75.0)
+    subtotals = [
+        Subtotal(label="PERSONNEL BENEFITS", amount="2,605,959.11", page=1, top=50.0),
+        Subtotal(label="NET PAYROLL EXPENSES", amount="11,447,508.99", page=1, top=100.0),
+    ]
+
+    class FakeResult:
+        pass
+    result = FakeResult()
+    result.records = salary_rows + [annuitant]
+    result.subtotals = subtotals
+    # Event order: salaries, PERSONNEL BENEFITS lump, annuitant, NET PAYROLL.
+    result.events = (
+        [("record", r) for r in salary_rows]
+        + [("subtotal", subtotals[0])]
+        + [("record", annuitant)]
+        + [("subtotal", subtotals[1])]
+    )
+
+    from senate_parser.reconcile import reconcile_block
+    reconciled = reconcile_block(result, template="anchor")
+    net_check = next(c for c in reconciled.checks if c.label == "NET PAYROLL EXPENSES")
+    assert net_check.status == "fail", f"expected fail, got {net_check.status}"
+    # parser folds the PERSONNEL BENEFITS lump into NET PAYROLL actual;
+    # the annuitant is NOT folded (it's an itemized expense, not a lump).
+    assert net_check.actual == round(221499.85 + 2605959.11, 2)
+    assert net_check.expected == 11447508.99
+    # the annuitant is left in the expense buffer -> trailing unchecked
+    assert annuitant.category == ""
+    assert annuitant.validation_status == "unchecked"
+    for r in salary_rows:
+        assert r.category == "NET PAYROLL EXPENSES"
+        assert r.validation_status == "fail"
+
+    # Stub the geometric re-sum to the naive positional total: the 3
+    # salary rows + the annuitant (the PERSONNEL BENEFITS subtotal row is
+    # excluded by _is_subtotal_label; NET PAYROLL by the end bound).
+    naive = round(221499.85 + 10254.00, 2)
+    from senate_parser import second_opinion as so
+    monkeypatch.setattr(
+        so,
+        "_independent_segment_sum",
+        lambda block, start, end, template="modern": (naive, True),
+    )
+
+    class FakeBlock:
+        pages = [1]
+    audit = apply_second_opinion(FakeBlock(), result, reconciled, template="anchor")
+    net_check = next(c for c in reconciled.checks if c.label == "NET PAYROLL EXPENSES")
+    assert net_check.second_opinion == "source_mismatch", (
+        f"expected source_mismatch, got {net_check.second_opinion} "
+        f"(independent={net_check.independent_sum} actual={net_check.actual} "
+        f"expected={net_check.expected})"
+    )
+    assert audit == []
+    # the member-salary rows publish tagged source_mismatch
+    assert all(r.validation_status == "source_mismatch" for r in salary_rows)
+    # the annuitant still publishes unchecked -- it's a real expense, just
+    # not part of the NET PAYROLL rollup, and not what the mismatch is about
+    assert annuitant.validation_status == "unchecked"
+
+
+def test_apply_second_opinion_stays_inconclusive_when_gap_unexplained(monkeypatch):
+    """Guard: a gap NOT explained by non-rollup itemized rows must stay
+    INCONCLUSIVE -- we must not rescue a real parser divergence to
+    source_mismatch. Same setup as the rescue test, but the naive re-sum
+    includes an extra $5,000 the parser doesn't categorize anywhere, so
+    the gap ($15,254) is NOT fully explained by the non-rollup rows
+    ($10,254) -> stays inconclusive, rows stay quarantined."""
+    from senate_parser.records import Record, Subtotal
+    from senate_parser.second_opinion import apply_second_opinion
+
+    salary_rows = [
+        Record(record_type="salary", amount="78,999.96", page=1, top=10.0),
+        Record(record_type="salary", amount="69,999.96", page=1, top=20.0),
+        Record(record_type="salary", amount="72,499.93", page=1, top=30.0),
+    ]
+    annuitant = Record(record_type="expense", amount="10,254.00", page=1, top=75.0)
+    subtotals = [
+        Subtotal(label="PERSONNEL BENEFITS", amount="2,605,959.11", page=1, top=50.0),
+        Subtotal(label="NET PAYROLL EXPENSES", amount="11,447,508.99", page=1, top=100.0),
+    ]
+    class FakeResult:
+        pass
+    result = FakeResult()
+    result.records = salary_rows + [annuitant]
+    result.subtotals = subtotals
+    result.events = (
+        [("record", r) for r in salary_rows]
+        + [("subtotal", subtotals[0])]
+        + [("record", annuitant)]
+        + [("subtotal", subtotals[1])]
+    )
+    from senate_parser.reconcile import reconcile_block
+    reconciled = reconcile_block(result, template="anchor")
+    from senate_parser import second_opinion as so
+    # naive sum = salaries + annuitant + an unexplained extra $5,000
+    naive = round(221499.85 + 10254.00 + 5000.00, 2)
+    monkeypatch.setattr(
+        so,
+        "_independent_segment_sum",
+        lambda block, start, end, template="modern": (naive, True),
+    )
+    class FakeBlock:
+        pages = [1]
+    apply_second_opinion(FakeBlock(), result, reconciled, template="anchor")
+    net_check = next(c for c in reconciled.checks if c.label == "NET PAYROLL EXPENSES")
+    assert net_check.second_opinion == "inconclusive"
+    assert all(r.validation_status == "fail" for r in salary_rows)
+
+
+def test_apply_second_opinion_does_not_rescue_misclassified_salary_roster_in_expense_segment(monkeypatch):
+    """113sdoc2 / 113sdoc22 WARREN false-positive guard. When a block's
+    subtotals all sit at END-of-block, a job-title salary roster prints as
+    expense_sublines (no payee, no document number -> classify_group's
+    expense_subline fallback) on the block's first pages, BEFORE the first
+    expense subtotal. reconcile routes those rows into the expense buffer,
+    so the FIRST expense segment (TRAVEL AND TRANSPORTATION OF PERSONS)
+    swallows the whole salary roster: its `actual` is inflated by hundreds
+    of thousands of dollars of payroll that isn't travel at all.
+
+    The printed TRAVEL subtotal is CORRECT -- it equals the genuine
+    transport rows exactly. This is a parser misclassification, NOT a
+    source mismatch: the rows do not faithfully represent the printed
+    travel line. But the bounded-tolerance rescue would fire anyway --
+    `independent = actual + non_rollup` holds by construction (every
+    in-range amount row is either the rollup label or not), so the
+    `explained` test is vacuous, and `both_disagree_printed` is satisfied
+    because both sums carry the same misclassified roster and so both are
+    far from the (correct, small) printed figure.
+
+    The rescue must NOT fire on a non-payroll (expense) segment: the
+    bounded-tolerance rescue is specific to the NET PAYROLL rollup
+    geometry (where a non-rollup itemized expense like a REEMPLOYED
+    ANNUITANT sits inside a payroll segment whose rows genuinely
+    disagree with the printed total -- see 112sdoc4). An expense segment
+    inflated by a misclassified roster must stay INCONCLUSIVE so the
+    misclassification stays visible (rows quarantined) rather than being
+    masked as source_mismatch and published as wrong data.
+
+    Setup mirrors 113sdoc2 WARREN p1712-1715: 3 large job-title rows
+    ($409,354.82, typed expense -> TRAVEL), one genuine transport row
+    ($5,044.29 == the printed subtotal), and one salary row ($8,799.99,
+    typed salary -> NET PAYROLL, the non-rollup record in range).
+    """
+    from senate_parser.records import Record, Subtotal
+    from senate_parser.second_opinion import apply_second_opinion
+
+    # job-title salary roster, mis-typed expense -> swept into TRAVEL
+    roster = [
+        Record(record_type="expense", amount="100,000.00", page=1, top=10.0),
+        Record(record_type="expense", amount="200,000.00", page=1, top=20.0),
+        Record(record_type="expense", amount="109,354.82", page=1, top=30.0),
+    ]
+    # the genuine travel rows -- they sum to the (correct) printed subtotal
+    transport = [Record(record_type="expense", amount="5,044.29", page=1, top=40.0)]
+    # one salary row, typed salary -> NET PAYROLL (the non-rollup record
+    # sitting inside the TRAVEL segment's geometric range)
+    salary = Record(record_type="salary", amount="8,799.99", page=1, top=33.0)
+    subtotals = [
+        Subtotal(label="TRAVEL AND TRANSPORTATION OF PERSONS", amount="5,044.29", page=1, top=100.0),
+        Subtotal(label="NET PAYROLL EXPENSES", amount="8,799.99", page=1, top=110.0),
+    ]
+
+    class FakeResult:
+        pass
+    result = FakeResult()
+    result.records = roster + transport + [salary]
+    result.subtotals = subtotals
+    result.events = (
+        [("record", r) for r in roster]
+        + [("record", salary)]
+        + [("record", r) for r in transport]
+        + [("subtotal", subtotals[0])]
+        + [("subtotal", subtotals[1])]
+    )
+
+    from senate_parser.reconcile import reconcile_block
+    reconciled = reconcile_block(result, template="anchor")
+    travel_check = next(c for c in reconciled.checks if c.label == "TRAVEL AND TRANSPORTATION OF PERSONS")
+    assert travel_check.basis == "segment"
+    assert travel_check.status == "fail", f"expected fail, got {travel_check.status}"
+    # actual is inflated by the misclassified roster ($409,354.82) on top
+    # of the genuine transport rows ($5,044.29)
+    assert travel_check.actual == round(409354.82 + 5044.29, 2)
+    assert travel_check.expected == 5044.29
+    # the roster rows were categorized as TRAVEL (the misclassification)
+    assert all(r.category == "TRAVEL AND TRANSPORTATION OF PERSONS" for r in roster)
+    # the salary row landed in NET PAYROLL -- the non-rollup record in range
+    assert salary.category == "NET PAYROLL EXPENSES"
+
+    # naive re-sum = everything in range = roster + transport + salary.
+    # independent = actual + non_rollup holds by construction here.
+    naive = round(409354.82 + 5044.29 + 8799.99, 2)
+    from senate_parser import second_opinion as so
+    monkeypatch.setattr(
+        so,
+        "_independent_segment_sum",
+        lambda block, start, end, template="modern": (naive, True),
+    )
+
+    class FakeBlock:
+        pages = [1]
+    apply_second_opinion(FakeBlock(), result, reconciled, template="anchor")
+    travel_check = next(c for c in reconciled.checks if c.label == "TRAVEL AND TRANSPORTATION OF PERSONS")
+    # The rescue must NOT fire on an expense segment -> stays inconclusive.
+    assert travel_check.second_opinion == "inconclusive", (
+        f"expected inconclusive (no rescue on expense segment), got "
+        f"{travel_check.second_opinion} (independent={travel_check.independent_sum} "
+        f"actual={travel_check.actual} expected={travel_check.expected})"
+    )
+    # the misclassified roster rows stay quarantined, not published
+    assert all(r.validation_status == "fail" for r in roster)
+    assert all(r.validation_status == "fail" for r in transport)

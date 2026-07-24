@@ -214,6 +214,11 @@ class Record:
     description: str = ""
     amount: str = ""
     page: int = 0
+    # Vertical position of the record's source row (group[0].top), so the
+    # second-opinion verifier can bound it geometrically -- telling a
+    # non-rollup itemized row printed INSIDE a segment (counted by the
+    # naive re-sum) from one printed after the final subtotal (not).
+    top: float = 0.0
     # Back-filled by reconcile.reconcile_block: the outcome of the
     # subtotal check covering this record's segment ('ok'/'warn'/'fail'/
     # 'unchecked') and that subtotal's label (e.g. "TRAVEL AND
@@ -641,7 +646,7 @@ def parse_block(block: Block, template: str = "modern") -> BlockParseResult:
         for group_index, (group, role, fields) in enumerate(classified_groups):
 
             if role == "expense_header":
-                rec = Record(record_type="expense", page=page_num, **fields)
+                rec = Record(record_type="expense", page=page_num, top=group[0].top, **fields)
                 result.records.append(rec)
                 result.events.append(("record", rec))
                 last_record = rec
@@ -654,6 +659,7 @@ def parse_block(block: Block, template: str = "modern") -> BlockParseResult:
                 rec = Record(
                     record_type="salary",
                     page=page_num,
+                    top=group[0].top,
                     payee=fields["payee"],
                     description=description,
                     amount=fields["amount"],
@@ -670,6 +676,7 @@ def parse_block(block: Block, template: str = "modern") -> BlockParseResult:
                 rec = Record(
                     record_type="expense",
                     page=page_num,
+                    top=group[0].top,
                     document_number=context["document_number"],
                     date_posted=context["date_posted"],
                     payee=context["payee"],
@@ -714,7 +721,7 @@ def parse_block(block: Block, template: str = "modern") -> BlockParseResult:
                     # doesn't belong in this segment at all. An earlier,
                     # sign-agnostic version of this fix caused that exact
                     # regression across ~20 senators in this same report).
-                    rec = Record(record_type=last_record.record_type, page=page_num, amount=fields["amount"])
+                    rec = Record(record_type=last_record.record_type, page=page_num, top=group[0].top, amount=fields["amount"])
                     if last_record.record_type == "expense":
                         rec.document_number = context["document_number"]
                         rec.date_posted = context["date_posted"]

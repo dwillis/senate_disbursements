@@ -32,7 +32,7 @@ from .records import (
     _is_subtotal_label,
     calibrate_columns,
 )
-from .reconcile import OK_TOLERANCE, parse_amount
+from .reconcile import OK_TOLERANCE, WARN_TOLERANCE, parse_amount
 from .segment import header_row_top
 
 # Verdict values (also used as validation_status for released rows).
@@ -65,6 +65,31 @@ def _lump_at_net_adjustment(result, start_pos, end_pos) -> float:
         if pos <= start_pos or pos >= end_pos:
             continue
         amt = parse_amount(sub.amount) if sub.amount else None
+        if amt is not None:
+            total += amt
+    return round(total, 2)
+
+
+def _non_rollup_itemized_sum(result, check, start_pos, end_pos) -> float:
+    """Sum the amounts of itemized data records that fall geometrically
+    inside the segment (start_pos, end_pos) but were categorized OUTSIDE
+    the rollup label -- e.g. a REEMPLOYED ANNUITANT expense row printed
+    between the PERSONNEL BENEFITS lump and the NET PAYROLL EXPENSES
+    subtotal. The naive independent re-sum counts these positionally; the
+    parser's check.actual excludes them (they aren't rollup rows and
+    aren't lump subtotals). The gap they create between the independent
+    and parser sums would otherwise degrade a real source_mismatch to
+    INCONCLUSIVE (verified: 112sdoc4 COMPENSATION OF MEMBERS -- a $10,254
+    annuitant row degrades an ~$8.8M source mismatch). Returns the sum so
+    the verdict logic can test whether the gap is fully explained."""
+    total = 0.0
+    for rec in result.records:
+        if rec.category == check.label:
+            continue  # belongs to this rollup segment
+        pos = (rec.page, rec.top)
+        if pos <= start_pos or pos >= end_pos:
+            continue  # outside the segment's geometric range
+        amt = parse_amount(rec.amount)
         if amt is not None:
             total += amt
     return round(total, 2)
@@ -163,6 +188,56 @@ def apply_second_opinion(block, result, reconciled, template="modern") -> list:
                 }
             )
         else:
-            check.second_opinion = INCONCLUSIVE
+            # Bounded-tolerance rescue. The naive independent re-sum counts
+            # itemized rows the parser categorizes outside the rollup (a
+            # non-salary expense printed inside the segment, e.g. a
+            # REEMPLOYED ANNUITANT row). If that divergence fully explains
+            # the independent-vs-parser gap, AND both sums clearly disagree
+            # with the printed subtotal (so the rows genuinely don't match
+            # the printed figure -- not a near-miss a parser bug could
+            # hide in), the source's own itemization disagrees with its
+            # printed total: source_mismatch. A gap that is NOT fully
+            # explained stays INCONCLUSIVE -- we never rescue a real parser
+            # divergence. Verified: 112sdoc4 COMPENSATION OF MEMBERS, where a
+            # $10,254 annuitant row degrades an ~$8.8M source mismatch.
+            #
+            # Scoped to PAYROLL rollup segments only (PERSONNEL_ROLLUP_LABELS
+            # -- NET PAYROLL EXPENSES). On an EXPENSE segment the rescue is
+            # unsafe: when a block's subtotals all sit at end-of-block, a
+            # job-title salary roster prints as expense_sublines (no payee,
+            # no doc) on the block's first pages and reconcile sweeps it into
+            # the first expense segment, inflating both the independent and
+            # parser sums. `independent = actual + non_rollup` then holds by
+            # construction (every in-range amount row is either the rollup
+            # label or not), so `explained` is vacuous, and
+            # `both_disagree_printed` is satisfied because both sums carry
+            # the same misclassified roster and so both are far from the
+            # (correct) printed figure. That masks a parser
+            # misclassification as source_mismatch and publishes wrong data
+            # (verified: 113sdoc2 & 113sdoc22 WARREN TRAVEL segments, where
+            # the genuine transport rows match the printed subtotal exactly).
+            # A payroll rollup is the geometry the rescue was designed for
+            # -- the non-rollup itemized expense inside a NET PAYROLL segment
+            # whose salary rows genuinely disagree with the printed total.
+            non_rollup = _non_rollup_itemized_sum(result, check, start_pos, end_pos)
+            gap = round(independent - check.actual, 2)
+            explained = abs(round(gap - non_rollup, 2)) <= OK_TOLERANCE
+            both_disagree_printed = (
+                check.expected is not None
+                and abs(independent - check.expected) > WARN_TOLERANCE
+                and abs(check.actual - check.expected) > WARN_TOLERANCE
+            )
+            if (
+                check.label in PERSONNEL_ROLLUP_LABELS
+                and non_rollup != 0
+                and explained
+                and both_disagree_printed
+            ):
+                check.second_opinion = SOURCE_MISMATCH
+                for rec in result.records:
+                    if rec.validation_status == "fail" and rec.category == check.label:
+                        rec.validation_status = SOURCE_MISMATCH
+            else:
+                check.second_opinion = INCONCLUSIVE
 
     return audit_items
