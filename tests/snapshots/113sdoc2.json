@@ -2,16 +2,16 @@
  "blocks": 732,
  "records_published": 46017,
  "records_quarantined": 105,
- "unparsed": 22,
+ "unparsed": 0,
  "check_status_histogram": {
   "banner_missing": 245,
   "component": 627,
-  "fail": 472,
+  "fail": 484,
   "not_applicable": 138,
-  "ok": 1524,
-  "unchecked": 34,
+  "ok": 1540,
+  "unchecked": 1,
   "warn": 274,
-  "zero_records": 51
+  "zero_records": 23
  },
  "published_dollars": 331472148.41,
  "quarantined_dollars": 423199.1,
@@ -349,7 +349,7 @@
    "office": "MAJORITY POLICY COMMITTEE (D)",
    "funding_year": 2013,
    "start_page": 66,
-   "status": "ok",
+   "status": "fail",
    "record_count": 23
   },
   {
@@ -538,7 +538,7 @@
    "office": "MINORITY CONFERENCE COMMITTEE (R)",
    "funding_year": 2013,
    "start_page": 95,
-   "status": "ok",
+   "status": "fail",
    "record_count": 19
   },
   {
@@ -678,7 +678,7 @@
    "office": "SGT @ ARMS - CENTRAL OPERATIONS",
    "funding_year": 2013,
    "start_page": 115,
-   "status": "ok",
+   "status": "fail",
    "record_count": 373
   },
   {
@@ -692,21 +692,21 @@
    "office": "SGT @ ARMS - IT SUPPORT SERVICES",
    "funding_year": 2013,
    "start_page": 127,
-   "status": "ok",
+   "status": "fail",
    "record_count": 109
   },
   {
    "office": "SGT @ ARMS - STAFF OFFICES",
    "funding_year": 2013,
    "start_page": 130,
-   "status": "ok",
+   "status": "fail",
    "record_count": 103
   },
   {
    "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
    "funding_year": 2013,
    "start_page": 133,
-   "status": "ok",
+   "status": "fail",
    "record_count": 138
   },
   {
@@ -755,14 +755,14 @@
    "office": "SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.",
    "funding_year": 2013,
    "start_page": 142,
-   "status": "ok",
+   "status": "fail",
    "record_count": 161
   },
   {
    "office": "SECRETARY OF THE SENATE - EXECUTIVE OFFICE",
    "funding_year": 2013,
    "start_page": 146,
-   "status": "ok",
+   "status": "fail",
    "record_count": 29
   },
   {
@@ -1021,7 +1021,7 @@
    "office": "CONSULTANTS",
    "funding_year": null,
    "start_page": 186,
-   "status": "fail",
+   "status": "ok",
    "record_count": 21
   },
   {
@@ -4605,7 +4605,7 @@
    "office": "COMMERCE, SCIENCE & TRANSPORTATION COMMERCE, SCI & TRANS S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
    "funding_year": null,
    "start_page": 1841,
-   "status": "ok",
+   "status": "fail",
    "record_count": 70
   },
   {
@@ -4731,7 +4731,7 @@
    "office": "FINANCE FINANCE - S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
    "funding_year": null,
    "start_page": 1874,
-   "status": "ok",
+   "status": "fail",
    "record_count": 105
   },
   {
@@ -4906,7 +4906,7 @@
    "office": "INTELLIGENCE SELECT COM ON INTEL - S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
    "funding_year": null,
    "start_page": 1925,
-   "status": "ok",
+   "status": "fail",
    "record_count": 45
   },
   {
@@ -4976,7 +4976,7 @@
    "office": "RULES & ADMINISTRATION RULES & ADMINISTRATION S.RES. 64B(113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
    "funding_year": null,
    "start_page": 1943,
-   "status": "ok",
+   "status": "fail",
    "record_count": 27
   },
   {
@@ -5046,7 +5046,7 @@
    "office": "SPECIAL COMMITTEE ON AGING SPECIAL COM ON AGING S.RES. 64B (113TH) EXPENSES OF INQUIRIES AND INVESTIGATIONS",
    "funding_year": null,
    "start_page": 1959,
-   "status": "ok",
+   "status": "fail",
    "record_count": 43
   },
   {

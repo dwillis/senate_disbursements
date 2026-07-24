@@ -1,19 +1,19 @@
 {
  "blocks": 700,
- "records_published": 40914,
+ "records_published": 40913,
  "records_quarantined": 145,
- "unparsed": 20,
+ "unparsed": 0,
  "check_status_histogram": {
   "banner_missing": 254,
-  "component": 569,
-  "fail": 401,
+  "component": 570,
+  "fail": 405,
   "not_applicable": 138,
-  "ok": 1433,
-  "unchecked": 28,
+  "ok": 1451,
+  "unchecked": 1,
   "warn": 284,
-  "zero_records": 34
+  "zero_records": 12
  },
- "published_dollars": 304410395.07,
+ "published_dollars": 304395911.21,
  "quarantined_dollars": 1119184.55,
  "block_statuses": [
   {
@@ -328,7 +328,7 @@
    "office": "MAJORITY CONFERENCE COMMITTEE (D)",
    "funding_year": 2014,
    "start_page": 63,
-   "status": "ok",
+   "status": "fail",
    "record_count": 26
   },
   {
@@ -538,7 +538,7 @@
    "office": "MINORITY CONFERENCE COMMITTEE (R)",
    "funding_year": 2014,
    "start_page": 95,
-   "status": "fail",
+   "status": "ok",
    "record_count": 20
   },
   {
@@ -678,35 +678,35 @@
    "office": "SGT @ ARMS - CENTRAL OPERATIONS",
    "funding_year": 2014,
    "start_page": 115,
-   "status": "ok",
+   "status": "fail",
    "record_count": 326
   },
   {
    "office": "SGT @ ARMS - CAPITOL DIVISION",
    "funding_year": 2014,
    "start_page": 121,
-   "status": "ok",
+   "status": "fail",
    "record_count": 228
   },
   {
    "office": "SGT @ ARMS - IT SUPPORT SERVICES",
    "funding_year": 2014,
    "start_page": 126,
-   "status": "ok",
+   "status": "fail",
    "record_count": 103
   },
   {
    "office": "SGT @ ARMS - STAFF OFFICES",
    "funding_year": 2014,
    "start_page": 129,
-   "status": "ok",
+   "status": "fail",
    "record_count": 89
   },
   {
    "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
    "funding_year": 2014,
    "start_page": 131,
-   "status": "ok",
+   "status": "fail",
    "record_count": 131
   },
   {
@@ -1042,7 +1042,7 @@
    "office": "CONSULTANTS",
    "funding_year": null,
    "start_page": 185,
-   "status": "fail",
+   "status": "ok",
    "record_count": 19
   },
   {
@@ -4900,7 +4900,7 @@
    "funding_year": 2014,
    "start_page": 1823,
    "status": "unchecked",
-   "record_count": 106
+   "record_count": 105
   },
   {
    "office": "COMPENSATION OF MEMBERS",

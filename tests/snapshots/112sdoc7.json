@@ -1,19 +1,19 @@
 {
  "blocks": 702,
- "records_published": 52053,
+ "records_published": 52157,
  "records_quarantined": 0,
- "unparsed": 22,
+ "unparsed": 19,
  "check_status_histogram": {
   "banner_missing": 254,
-  "component": 581,
-  "fail": 442,
-  "not_applicable": 136,
-  "ok": 1453,
-  "unchecked": 28,
-  "warn": 246,
-  "zero_records": 39
+  "component": 582,
+  "fail": 451,
+  "not_applicable": 133,
+  "ok": 1468,
+  "unchecked": 3,
+  "warn": 248,
+  "zero_records": 16
  },
- "published_dollars": 316981244.54,
+ "published_dollars": 346004526.46,
  "quarantined_dollars": 0.0,
  "block_statuses": [
   {
@@ -328,7 +328,7 @@
    "office": "MAJORITY CONFERENCE COMMITTEE (D)",
    "funding_year": 2012,
    "start_page": 63,
-   "status": "ok",
+   "status": "fail",
    "record_count": 32
   },
   {
@@ -349,7 +349,7 @@
    "office": "MAJORITY POLICY COMMITTEE (D)",
    "funding_year": 2012,
    "start_page": 67,
-   "status": "ok",
+   "status": "fail",
    "record_count": 26
   },
   {
@@ -370,7 +370,7 @@
    "office": "MAJORITY LEADER (D)",
    "funding_year": 2012,
    "start_page": 70,
-   "status": "ok",
+   "status": "fail",
    "record_count": 38
   },
   {
@@ -433,7 +433,7 @@
    "office": "OFFICE OF THE VICE PRESIDENT (D) - BIDEN",
    "funding_year": 2012,
    "start_page": 80,
-   "status": "ok",
+   "status": "fail",
    "record_count": 40
   },
   {
@@ -678,7 +678,7 @@
    "office": "SGT @ ARMS - CENTRAL OPERATIONS",
    "funding_year": 2012,
    "start_page": 116,
-   "status": "ok",
+   "status": "fail",
    "record_count": 309
   },
   {
@@ -692,7 +692,7 @@
    "office": "SGT @ ARMS - IT SUPPORT SERVICES",
    "funding_year": 2012,
    "start_page": 128,
-   "status": "ok",
+   "status": "fail",
    "record_count": 110
   },
   {
@@ -706,7 +706,7 @@
    "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
    "funding_year": 2012,
    "start_page": 134,
-   "status": "ok",
+   "status": "fail",
    "record_count": 141
   },
   {
@@ -762,14 +762,14 @@
    "office": "SECRETARY OF THE SENATE - EXECUTIVE OFFICE",
    "funding_year": 2012,
    "start_page": 147,
-   "status": "ok",
+   "status": "fail",
    "record_count": 29
   },
   {
    "office": "SECRETARY OF THE SENATE - LEGISLATIVE SERVICES",
    "funding_year": 2012,
    "start_page": 148,
-   "status": "ok",
+   "status": "fail",
    "record_count": 47
   },
   {
@@ -1021,7 +1021,7 @@
    "office": "CONSULTANTS",
    "funding_year": null,
    "start_page": 188,
-   "status": "fail",
+   "status": "ok",
    "record_count": 20
   },
   {
@@ -4910,22 +4910,22 @@
    "record_count": 0
   },
   {
-   "office": "CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS FFUUNNDDIINNGG YYEEAARR CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS,, SSEENNAATTEE",
-   "funding_year": null,
+   "office": "COMPENSATION OF MEMBERS",
+   "funding_year": 2012,
    "start_page": 2105,
-   "status": "ok",
-   "record_count": 0
+   "status": "unchecked",
+   "record_count": 104
   },
   {
-   "office": "CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS FFUUNNDDIINNGG YYEEAARR CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS,, SSEENNAATTEE",
-   "funding_year": null,
+   "office": "COMPENSATION OF MEMBERS",
+   "funding_year": 2011,
    "start_page": 2108,
    "status": "ok",
    "record_count": 0
   },
   {
-   "office": "CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS FFUUNNDDIINNGG YYEEAARR CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS,, SSEENNAATTEE",
-   "funding_year": null,
+   "office": "COMPENSATION OF MEMBERS",
+   "funding_year": 2010,
    "start_page": 2109,
    "status": "ok",
    "record_count": 0

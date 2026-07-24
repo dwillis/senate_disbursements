@@ -1,19 +1,19 @@
 {
  "blocks": 705,
- "records_published": 53010,
+ "records_published": 53114,
  "records_quarantined": 0,
- "unparsed": 23,
+ "unparsed": 0,
  "check_status_histogram": {
-  "banner_missing": 392,
-  "component": 398,
-  "fail": 305,
-  "not_applicable": 129,
-  "ok": 1072,
-  "unchecked": 26,
+  "banner_missing": 394,
+  "component": 399,
+  "fail": 310,
+  "not_applicable": 126,
+  "ok": 1091,
+  "unchecked": 2,
   "warn": 201,
-  "zero_records": 37
+  "zero_records": 14
  },
- "published_dollars": 318065280.88,
+ "published_dollars": 347252990.08,
  "quarantined_dollars": 0.0,
  "block_statuses": [
   {
@@ -349,7 +349,7 @@
    "office": "MAJORITY POLICY COMMITTEE (D)",
    "funding_year": 2012,
    "start_page": 66,
-   "status": "ok",
+   "status": "fail",
    "record_count": 23
   },
   {
@@ -370,7 +370,7 @@
    "office": "MAJORITY LEADER (D)",
    "funding_year": 2012,
    "start_page": 69,
-   "status": "ok",
+   "status": "fail",
    "record_count": 33
   },
   {
@@ -433,7 +433,7 @@
    "office": "OFFICE OF THE VICE PRESIDENT (D) - BIDEN",
    "funding_year": 2012,
    "start_page": 79,
-   "status": "ok",
+   "status": "fail",
    "record_count": 37
   },
   {
@@ -755,7 +755,7 @@
    "office": "SECRETARY OF THE SENATE - ADMINISTRATIVE SERV.",
    "funding_year": 2012,
    "start_page": 144,
-   "status": "ok",
+   "status": "fail",
    "record_count": 166
   },
   {
@@ -4931,22 +4931,22 @@
    "record_count": 0
   },
   {
-   "office": "CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS FFUUNNDDIINNGG YYEEAARR CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS,, SSEENNAATTEE",
-   "funding_year": null,
+   "office": "COMPENSATION OF MEMBERS",
+   "funding_year": 2012,
    "start_page": 2123,
-   "status": "ok",
-   "record_count": 0
+   "status": "unchecked",
+   "record_count": 104
   },
   {
-   "office": "CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS FFUUNNDDIINNGG YYEEAARR CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS,, SSEENNAATTEE",
-   "funding_year": null,
+   "office": "COMPENSATION OF MEMBERS",
+   "funding_year": 2011,
    "start_page": 2126,
    "status": "ok",
    "record_count": 0
   },
   {
-   "office": "CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS FFUUNNDDIINNGG YYEEAARR CCOOMMPPEENNSSAATTIIOONN OOFF MMEEMMBBEERRSS,, SSEENNAATTEE",
-   "funding_year": null,
+   "office": "COMPENSATION OF MEMBERS",
+   "funding_year": 2010,
    "start_page": 2127,
    "status": "ok",
    "record_count": 0

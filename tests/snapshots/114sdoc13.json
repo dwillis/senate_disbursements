@@ -1,20 +1,19 @@
 {
  "blocks": 763,
- "records_published": 52570,
- "records_quarantined": 889,
+ "records_published": 52911,
+ "records_quarantined": 547,
  "unparsed": 19,
  "check_status_histogram": {
   "banner_missing": 275,
-  "component": 571,
-  "fail": 179,
+  "component": 572,
+  "fail": 178,
   "not_applicable": 169,
-  "ok": 1804,
-  "unchecked": 1,
+  "ok": 1805,
   "warn": 284,
   "zero_records": 14
  },
- "published_dollars": 280694956.14,
- "quarantined_dollars": 33882030.5,
+ "published_dollars": 297451491.9,
+ "quarantined_dollars": 17114412.74,
  "block_statuses": [
   {
    "office": "CHAIRMAN MAJORITY CONFERENCE COMMITTEE (D)",
@@ -5340,8 +5339,8 @@
    "office": "COMPENSATION OF MEMBERS",
    "funding_year": 2016,
    "start_page": 2260,
-   "status": "fail",
-   "record_count": 102
+   "status": "ok",
+   "record_count": 101
   },
   {
    "office": "COMPENSATION OF MEMBERS",

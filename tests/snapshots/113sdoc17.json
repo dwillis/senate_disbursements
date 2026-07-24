@@ -6,12 +6,12 @@
  "check_status_histogram": {
   "banner_missing": 394,
   "component": 420,
-  "fail": 280,
+  "fail": 285,
   "not_applicable": 132,
-  "ok": 1161,
-  "unchecked": 28,
+  "ok": 1178,
+  "unchecked": 2,
   "warn": 243,
-  "zero_records": 43
+  "zero_records": 21
  },
  "published_dollars": 313880574.86,
  "quarantined_dollars": 12732405.95,
@@ -370,7 +370,7 @@
    "office": "MAJORITY LEADER (D)",
    "funding_year": 2013,
    "start_page": 70,
-   "status": "ok",
+   "status": "fail",
    "record_count": 38
   },
   {
@@ -538,7 +538,7 @@
    "office": "MINORITY CONFERENCE COMMITTEE (R)",
    "funding_year": 2013,
    "start_page": 96,
-   "status": "fail",
+   "status": "ok",
    "record_count": 18
   },
   {
@@ -678,7 +678,7 @@
    "office": "SGT @ ARMS - CENTRAL OPERATIONS",
    "funding_year": 2013,
    "start_page": 116,
-   "status": "ok",
+   "status": "fail",
    "record_count": 367
   },
   {
@@ -692,21 +692,21 @@
    "office": "SGT @ ARMS - IT SUPPORT SERVICES",
    "funding_year": 2013,
    "start_page": 129,
-   "status": "ok",
+   "status": "fail",
    "record_count": 108
   },
   {
    "office": "SGT @ ARMS - STAFF OFFICES",
    "funding_year": 2013,
    "start_page": 132,
-   "status": "ok",
+   "status": "fail",
    "record_count": 98
   },
   {
    "office": "SGT @ ARMS - TECHNOLOGY DEVELOPMENT SERVICES",
    "funding_year": 2013,
    "start_page": 135,
-   "status": "ok",
+   "status": "fail",
    "record_count": 135
   },
   {
@@ -762,7 +762,7 @@
    "office": "SECRETARY OF THE SENATE - EXECUTIVE OFFICE",
    "funding_year": 2013,
    "start_page": 148,
-   "status": "ok",
+   "status": "fail",
    "record_count": 50
   },
   {

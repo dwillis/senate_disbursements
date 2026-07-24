@@ -1,11 +1,11 @@
 {
  "blocks": 704,
- "records_published": 48247,
- "records_quarantined": 1364,
- "unparsed": 19,
+ "records_published": 48270,
+ "records_quarantined": 1340,
+ "unparsed": 0,
  "check_status_histogram": {
   "banner_missing": 384,
-  "component": 406,
+  "component": 407,
   "fail": 82,
   "not_applicable": 135,
   "ok": 1276,
@@ -13,8 +13,8 @@
   "warn": 224,
   "zero_records": 6
  },
- "published_dollars": 283150720.97,
- "quarantined_dollars": 41300279.73,
+ "published_dollars": 284786557.58,
+ "quarantined_dollars": 39640977.12,
  "block_statuses": [
   {
    "office": "CHAIRMAN MAJORITY CONFERENCE COMMITTEE (D)",
@@ -4928,7 +4928,7 @@
    "funding_year": 2014,
    "start_page": 2107,
    "status": "unchecked",
-   "record_count": 104
+   "record_count": 103
   },
   {
    "office": "COMPENSATION OF MEMBERS",
